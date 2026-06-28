@@ -1,0 +1,52 @@
+name: Publish playbook (from app)
+
+# Triggered by the app's "Publish to server" (repository_dispatch). Validates the
+# provided playbook and opens a PR — merging publishes it to Pro users.
+on:
+  repository_dispatch:
+    types: [publish-playbook]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Write payload to file
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const pb = context.payload.client_payload && context.payload.client_payload.playbook;
+            if (!pb) { core.setFailed('No client_payload.playbook'); return; }
+            fs.writeFileSync('payload.json', JSON.stringify(pb));
+
+      - name: Validate + write playbook + manifest
+        id: pub
+        run: node tools/publish-from-payload.mjs payload.json
+
+      - name: Clean up payload
+        run: rm -f payload.json
+
+      - name: Open PR for review
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: app/playbook-${{ steps.pub.outputs.pb_id }}
+          commit-message: "App publish: ${{ steps.pub.outputs.pb_title }}"
+          title: "Review (from app): ${{ steps.pub.outputs.pb_title }}"
+          body: |
+            Submitted from the app's "Publish to server".
+
+            **${{ steps.pub.outputs.pb_title }}** (`${{ steps.pub.outputs.pb_id }}`)
+
+            Merge to publish to Pro users; close to discard.
+          add-paths: |
+            manifest.json
+            playbooks/

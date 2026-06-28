@@ -41,3 +41,18 @@ merge gate.
 ## Keeping the brand prompt in sync
 `tools/system-prompt.txt` is a verbatim copy of the app's `SYSTEM_PROMPT`
 (`src/services/aiService.ts`). If you change the app's prompt, re-copy it here.
+
+## App publishing (Option C — "Publish to server" in the app)
+
+The app's Drafts screen has a **Publish to server** button (admin) that fires a
+`repository_dispatch` here; the `publish-dispatch.yml` workflow validates the
+playbook and opens a PR. To enable it:
+
+1. Create a **fine-grained GitHub PAT** scoped to `btran2026/blackbook-content`
+   with **Contents: read/write** permission.
+2. In the app: Settings → **Content publishing** (admin) → paste the token (stored
+   in SecureStore on that device only — never shipped in the app).
+3. Same repo setting as the daily workflow ("Allow GitHub Actions to create pull
+   requests") must be enabled for the PR step.
+
+Then: Drafts → **Publish to server** → a PR opens here → merge to publish.
