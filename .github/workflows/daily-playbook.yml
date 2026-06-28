@@ -1,0 +1,52 @@
+name: Daily playbook
+
+# Generates one playbook a day with our keys and opens a PR for review.
+# Nothing reaches the app until the PR is merged into main.
+on:
+  schedule:
+    - cron: '0 14 * * *'   # 14:00 UTC daily
+  workflow_dispatch:        # manual "Run workflow" button
+    inputs:
+      topic_index:
+        description: 'Optional topics.json index to force (blank = today by date)'
+        required: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate playbook
+        id: gen
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          MODEL: ${{ vars.MODEL }}
+          TOPIC_INDEX: ${{ github.event.inputs.topic_index }}
+        run: node tools/generate.mjs
+
+      - name: Open PR for review
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: auto/playbook-${{ steps.gen.outputs.pb_id }}
+          commit-message: "Auto: ${{ steps.gen.outputs.pb_title }}"
+          title: "Review: ${{ steps.gen.outputs.pb_title }}"
+          body: |
+            Auto-generated daily playbook awaiting review.
+
+            **${{ steps.gen.outputs.pb_title }}** (`${{ steps.gen.outputs.pb_id }}`)
+
+            Merging this PR publishes it — the app will sync it to Pro users on next open.
+            Close without merging to discard.
+          add-paths: |
+            manifest.json
+            playbooks/
