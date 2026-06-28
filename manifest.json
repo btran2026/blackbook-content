@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 2,
+  "manifestVersion": 3,
   "playbooks": [
     {
       "id": "srv-pipeline-test-reading-the-room",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-pipeline-test-2-holding-a-boundary.json",
       "addedAt": "2026-06-28T06:34:20.172Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-spot-the-move",
+      "title": "Black Book: Spot the Move",
+      "theme": "manipulation",
+      "topic": "Spotting manipulation in everyday conversations",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "🃏",
+      "url": "playbooks/playbook-srv-black-book-spot-the-move.json",
+      "addedAt": "2026-06-28T08:23:41.493Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-06-28T06:34:20.172Z"
+  "generatedAt": "2026-06-28T08:23:41.493Z"
 }

@@ -1,0 +1,706 @@
+{
+  "meta": {
+    "id": "srv-black-book-spot-the-move",
+    "version": "1.0",
+    "title": "Black Book: Spot the Move",
+    "subtitle": "12 Cards for Reading Manipulation Before It Reads You",
+    "description": "A closed-file dossier on the manipulation moves most people never see coming. Each card names one tactic, shows you how to read it in real time, and gives you the exact counter. Read in order the first time. After that, pull the card you need.",
+    "author": "AI",
+    "createdAt": "2026-06-28T08:23:41.493Z",
+    "tags": [
+      "manipulation",
+      "dark psychology",
+      "conversation tactics",
+      "defense",
+      "reading people",
+      "counter-moves",
+      "social dynamics"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "🃏",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting manipulation in everyday conversations",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "baseline",
+      "label": "Read the Room",
+      "color": "#2d6a4f"
+    },
+    {
+      "key": "identity",
+      "label": "Identity Attacks",
+      "color": "#6a2d2d"
+    },
+    {
+      "key": "reality",
+      "label": "Reality Rewrites",
+      "color": "#3d2d6a"
+    },
+    {
+      "key": "guilt",
+      "label": "Guilt & Sympathy Plays",
+      "color": "#6a4f2d"
+    },
+    {
+      "key": "deflect",
+      "label": "Deflection & Escape",
+      "color": "#2d4f6a"
+    },
+    {
+      "key": "isolate",
+      "label": "Isolation Moves",
+      "color": "#5a2d6a"
+    },
+    {
+      "key": "counter",
+      "label": "Counter Protocol",
+      "color": "#1a3a2a"
+    }
+  ],
+  "cards": [
+    {
+      "id": "card-01",
+      "cat": "baseline",
+      "danger": "moderate",
+      "title": "Read Their Baseline Before Anyone Says Anything Hard",
+      "hook": "You can't spot a change if you don't know what normal looks like. <strong>Set the baseline first, or you're flying blind.</strong>",
+      "truth": "Most people skip the first two minutes and go straight to the hard question. That's how they get fooled.\n• Watch blink rate, posture, and sentence length when nothing is at stake.\n• The moment something stressful enters the room, these same signals shift.\n• You're not judging high or low — you're hunting the gap between then and now.",
+      "principle": "Behavioral Baseline — Change Detection",
+      "remember": "Normal first. Then you can spot when normal breaks.",
+      "theySee": "A person making easy small talk and paying close attention while doing it.",
+      "signals": [
+        {
+          "l": "Easy answer",
+          "t": "They give a fast, relaxed reply to a throwaway question — blink rate steady, posture open.",
+          "icon": "😌"
+        },
+        {
+          "l": "Pace changes",
+          "t": "The same person slows down or speeds up when the topic shifts to something that matters.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Eye shift",
+          "t": "Eyes move differently — more side-glances or more staring — compared to ten seconds ago.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Sentence shrinks",
+          "t": "Full sentences become short phrases when the question gets harder.",
+          "icon": "📉"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Ask one throwaway question first",
+          "desc": "Before anything important, ask something low-stakes: 'How'd you get here today?' Watch face, blink rate, sentence length. That's your baseline."
+        },
+        {
+          "n": 2,
+          "title": "Note three normal behaviors",
+          "desc": "Write down or mentally log: how fast they blink, how they hold their hands, how long their answers are when relaxed."
+        },
+        {
+          "n": 3,
+          "title": "Watch for the break",
+          "desc": "When the real topic hits, check those same three things. Any shift from baseline is the signal. One shift is noise. Two or three together is information."
+        }
+      ],
+      "script": "\"Before we get into it — quick question, totally unrelated — what'd you end up doing this weekend?\"",
+      "counter": "Someone is doing this to you when they ask easy questions before they ask the hard one.\n• Notice if someone's warmup questions feel unusually casual before something serious.\n• Keep your answer pace and posture the same on easy and hard questions.\n• If you feel yourself tensing up, take one breath before answering — it resets your signals.",
+      "insight": "Baseline-setting only works if you actually watch the whole person — most people look at the eyes and miss the hands. The harder question is whether you can do this while also managing your own face."
+    },
+    {
+      "id": "card-02",
+      "cat": "baseline",
+      "danger": "low",
+      "title": "Watch for the I-to-You Shift Mid-Sentence",
+      "hook": "Someone starts talking about themselves, then quietly switches to talking about <strong>you</strong>. That switch is not an accident.",
+      "truth": "Shifting from 'I' to 'you' mid-story moves the target of the sentence without the listener noticing.\n• The speaker plants their own experience inside your head and calls it yours.\n• You start nodding along to a feeling you didn't choose to have.\n• The next move after this shift is usually a request, a close, or a reframe.",
+      "principle": "NLP: Referential Index Shift (I-to-You Shift)",
+      "remember": "When they start saying 'you' instead of 'I,' they are steering you.",
+      "theySee": "A person telling a vivid story that starts with 'I' and slowly turns into instructions for how 'you' feel.",
+      "signals": [
+        {
+          "l": "Pronoun swap",
+          "t": "Speaker starts a sentence with 'I' and finishes it with 'you' — 'I felt so trapped, you know that feeling where you just...'",
+          "icon": "🔄"
+        },
+        {
+          "l": "Vivid detail burst",
+          "t": "They suddenly add very specific sensory details — sounds, feelings, images — to pull you into the story.",
+          "icon": "🎨"
+        },
+        {
+          "l": "Slow pace",
+          "t": "Voice slows down right when they make the switch, giving the new idea time to land.",
+          "icon": "🐢"
+        },
+        {
+          "l": "Head nod prompt",
+          "t": "They look at you expectantly right after the switch, waiting for you to confirm you feel it too.",
+          "icon": "🤝"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Track the pronouns in real time",
+          "desc": "While someone talks, count 'I' versus 'you.' If 'you' appears more than twice in a story that started as theirs, flag it."
+        },
+        {
+          "n": 2,
+          "title": "Name the switch to yourself",
+          "desc": "Internally note: 'They just moved from their experience to mine.' Don't interrupt — just stay aware that what they're describing is not necessarily your experience."
+        },
+        {
+          "n": 3,
+          "title": "Answer with your own 'I' statement",
+          "desc": "Respond with what YOU actually feel: 'For me it's more like...' This breaks the planted frame and resets the conversation on your terms."
+        }
+      ],
+      "script": "\"That's your experience — for me it's actually more like the opposite.\"",
+      "counter": "Someone using this on you is trying to make you feel something without asking permission.\n• Notice when a story about them suddenly becomes a claim about how you feel.\n• Don't confirm the planted feeling — pause before you nod.\n• Say 'I' statements back: 'What I actually feel is...' — it closes the door they opened.",
+      "insight": "The shift works because listening is passive. The harder part is staying separate from a well-told story — most people merge with it before they realize the narrator changed."
+    },
+    {
+      "id": "card-03",
+      "cat": "reality",
+      "danger": "high",
+      "title": "Recognize Gaslighting Before You Apologize for It",
+      "hook": "They did something. You bring it up. <strong>Suddenly you're the one explaining why your memory is wrong.</strong>",
+      "truth": "Gaslighting works because the target trusts the other person more than their own memory, at least at first.\n• The manipulator denies a specific event or twists what was said until you doubt your own account.\n• Your confusion is the point — a confused person stops pushing and starts apologizing.\n• The tell is the feeling: you walked in certain and you're walking out unsure.",
+      "principle": "Gaslighting — Reality Distortion via Denial",
+      "remember": "You walked in certain. If you walk out unsure, check who changed your mind.",
+      "theySee": "A person who came in with a clear complaint and is now hesitating, second-guessing, and apologizing.",
+      "signals": [
+        {
+          "l": "Flat denial",
+          "t": "They say 'that never happened' or 'I never said that' with complete calm, no alternative explanation offered.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Your memory blamed",
+          "t": "They say 'you always misremember' or 'you're being too sensitive' as the only response to a specific complaint.",
+          "icon": "🧠"
+        },
+        {
+          "l": "Your words twisted",
+          "t": "They repeat back what you said with key words changed, then argue against the changed version.",
+          "icon": "🌀"
+        },
+        {
+          "l": "You apologize first",
+          "t": "You came in with a concern and you end the conversation saying sorry — with no clear reason why.",
+          "icon": "😶"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Write the incident down before the conversation",
+          "desc": "Date, what happened, exact words used. This is your anchor. A written record can't be talked out of existence."
+        },
+        {
+          "n": 2,
+          "title": "Say the specific thing and stop",
+          "desc": "Name one concrete event: 'On Tuesday you said X.' Don't explain, don't soften, don't add context. Let it sit."
+        },
+        {
+          "n": 3,
+          "title": "Track your certainty level before and after",
+          "desc": "Before you talk, rate how sure you are from 1 to 10. After the conversation, rate again. If the number dropped and they gave you no new facts — that's the move."
+        }
+      ],
+      "script": "\"I wrote it down at the time. I'm not debating what happened — I'm telling you what I saw.\"",
+      "counter": "You're being gaslighted when your certainty drops and you can't point to a single new fact they gave you.\n• Ask: 'What specifically did I get wrong?' — vague answers mean no real correction is coming.\n• Don't let 'you always' replace a direct answer to your specific point.\n• Your written record beats their verbal denial every time.",
+      "insight": "Gaslighting is most effective against people who value the relationship — they'd rather doubt themselves than doubt you. The harder question is what it costs to stay certain when someone you trust is the one rewriting the story."
+    },
+    {
+      "id": "card-04",
+      "cat": "guilt",
+      "danger": "moderate",
+      "title": "Spot the Guilt Trip Before You Owe the Debt",
+      "hook": "You didn't do anything wrong. But somehow <strong>you're the one who has to fix it.</strong>",
+      "truth": "A guilt trip works by tying your normal behavior to their emotional pain, whether or not you caused it.\n• The manipulator gets excessively emotional and targets who you are, not what you did.\n• You feel responsible for a problem you didn't create — and the only exit they offer is giving them what they want.\n• The debt never gets paid off, because the move resets with every new ask.",
+      "principle": "Guilt Induction — Emotional Debt Creation",
+      "remember": "Feeling bad is not the same as being wrong. Check the facts first.",
+      "theySee": "A person looking pained or distressed right after you say no or set a limit.",
+      "signals": [
+        {
+          "l": "Pain timing",
+          "t": "Their distress appears within seconds of you saying no or stating what you need.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Who you are attacked",
+          "t": "They shift from 'what you did' to 'the kind of person you are' — 'I can't believe you would...'",
+          "icon": "🎯"
+        },
+        {
+          "l": "No apology accepted",
+          "t": "You apologize sincerely and they don't accept it — the pain continues until you give them the specific thing they wanted.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Everything blamed on you",
+          "t": "In the same conversation, multiple unrelated problems get traced back to your actions.",
+          "icon": "📋"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Write down what you actually did",
+          "desc": "Before you start feeling responsible, list the concrete action you took. One sentence. Did that action directly cause harm? If not, the debt isn't real."
+        },
+        {
+          "n": 2,
+          "title": "Separate their feeling from your responsibility",
+          "desc": "Say out loud or to yourself: 'They feel bad. I didn't cause it.' Practice keeping those two things in different columns."
+        },
+        {
+          "n": 3,
+          "title": "Hold the no through the distress",
+          "desc": "If their pain appears exactly when you say no and disappears when you give in — you've just confirmed the pattern. Next time, hold for 30 more seconds."
+        }
+      ],
+      "script": "\"I can see you're upset. My answer is still no.\"",
+      "counter": "You're being guilt-tripped when their pain appears on cue and a sincere apology doesn't end it.\n• Ask: 'What specifically did I do wrong?' — vague answers mean the debt isn't real.\n• Separate empathy from compliance: you can care that someone feels bad without giving them what they want.\n• If saying no once is enough for a healthy person but not for them — that's the tell.",
+      "insight": "Guilt trips work on people who confuse kindness with fixing other people's feelings. The real trap is that every time you pay the fake debt, you confirm the debt exists — and the next ask comes faster."
+    },
+    {
+      "id": "card-05",
+      "cat": "identity",
+      "danger": "moderate",
+      "title": "Hear the Comparison Move for What It Is",
+      "hook": "They mention someone else's achievement and follow it with a compliment. <strong>That's not a compliment. That's a target painted on you.</strong>",
+      "truth": "Comparing you to someone better is a way to make you feel small without saying anything directly mean.\n• The manipulator points to a specific person's achievement and implies you're falling short by comparison.\n• You start chasing a standard you didn't set — and they stay in the position of judge.\n• Cruel humor works the same way: the insult is labeled a joke so you can't object without looking fragile.",
+      "principle": "Social Comparison — Downward/Upward Manipulation",
+      "remember": "A comparison dressed as motivation is still a way to make you feel small.",
+      "theySee": "A person smiling or laughing while pointing out what someone else has done that you haven't.",
+      "signals": [
+        {
+          "l": "Named example",
+          "t": "They name a specific person — 'Sarah already did this' or 'most people at your level have...'",
+          "icon": "👤"
+        },
+        {
+          "l": "Motivation claim",
+          "t": "After pointing out the gap, they say 'I'm just trying to motivate you' or 'I'm saying this because I care.'",
+          "icon": "💬"
+        },
+        {
+          "l": "Joke wrapper",
+          "t": "The comparison lands as a joke, then they watch your face to see if it landed as a wound.",
+          "icon": "😂"
+        },
+        {
+          "l": "Group comparison",
+          "t": "They say 'everyone else' is doing something — making you feel like the only exception.",
+          "icon": "👥"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Name the move in your head",
+          "desc": "The second you hear a named comparison, think: 'That's a comparison move.' Label it before it lands emotionally."
+        },
+        {
+          "n": 2,
+          "title": "Don't chase the standard they set",
+          "desc": "Write down the standard they implied. Ask: Did I set this standard? If no, it's not yours to chase."
+        },
+        {
+          "n": 3,
+          "title": "Give a flat non-answer",
+          "desc": "Don't defend, don't explain. Say 'noted' or nothing at all. Taking the bait gives them the judge seat permanently."
+        }
+      ],
+      "script": "\"That's interesting. I'm working on a different timeline.\"",
+      "counter": "Someone is using this on you when every motivational comment includes a named person who's ahead of you.\n• Notice if the comparison always serves their goal, not yours.\n• 'Everyone else' is almost never true — ask who specifically.\n• Don't compete with the comparison target. That's the trap.",
+      "insight": "The move works because most people want to be seen as capable. The harder thing to hold is that someone who constantly compares you to others is competing with you, not helping you."
+    },
+    {
+      "id": "card-06",
+      "cat": "reality",
+      "danger": "high",
+      "title": "Catch Exaggeration and Vague Accusations Before They Stick",
+      "hook": "'You never do anything right.' 'No one has ever loved me.' <strong>These aren't statements. They're traps with no exit.</strong>",
+      "truth": "Vague generalizations are designed to be hard to disprove — you spend your energy on the defense instead of the original point.\n• The manipulator uses 'always,' 'never,' and 'no one' to make specific complaints sound like permanent facts about you.\n• You can't argue against a vague accusation without sounding defensive, so you end up accepting the frame.\n• The move also moves the conversation away from whatever you brought up — the original issue disappears.",
+      "principle": "Overgeneralization — Unfalsifiable Framing",
+      "remember": "Ask for one specific example. Vague accusations can't survive a single concrete question.",
+      "theySee": "A person who looks confused and defensive while trying to argue against a statement that is too wide to grab.",
+      "signals": [
+        {
+          "l": "Always/never words",
+          "t": "They say 'you always' or 'you never' — language that makes one complaint sound like a permanent pattern.",
+          "icon": "♾️"
+        },
+        {
+          "l": "Topic swap",
+          "t": "The specific thing you brought up gets replaced with a general complaint about your character.",
+          "icon": "🔀"
+        },
+        {
+          "l": "No example given",
+          "t": "After a sweeping claim, they give no specific incident when asked — just repeat the claim louder.",
+          "icon": "❓"
+        },
+        {
+          "l": "You defending yourself",
+          "t": "You're now proving you're a good person instead of addressing the original problem you raised.",
+          "icon": "🛡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Stop defending against the vague claim",
+          "desc": "The moment you hear 'always' or 'never,' stop. Don't list counterexamples. That's the trap. Stay quiet."
+        },
+        {
+          "n": 2,
+          "title": "Ask for one specific example",
+          "desc": "Say: 'Give me one specific time.' If they can't, the accusation has no ground. If they can, now you have something real to address."
+        },
+        {
+          "n": 3,
+          "title": "Return to the original topic",
+          "desc": "Say: 'We were talking about X. I want to stay on X.' Do this once. If they deflect again, you know what the conversation is really for."
+        }
+      ],
+      "script": "\"Give me one specific example and I'll address it directly.\"",
+      "counter": "You're being trapped by a vague accusation when you find yourself defending your entire character over one conversation.\n• 'Always' and 'never' are signals — real feedback comes with dates and details.\n• Don't accept the general frame. Ask for the specific one.\n• If no example comes, say so out loud: 'You haven't given me a single example.'",
+      "insight": "The vague accusation works because the target has a conscience and wants to fix things. The harder problem is that demanding specifics feels aggressive to people who were raised to absorb blame quietly — and the manipulator knows it."
+    },
+    {
+      "id": "card-07",
+      "cat": "deflect",
+      "danger": "moderate",
+      "title": "Notice When the Topic Changes Right After You Make a Point",
+      "hook": "You say something that lands. They don't answer it. <strong>Instead, the whole conversation shifts to your delivery, your past, or your motives.</strong>",
+      "truth": "Topic switching kills the original point without ever engaging it — and the switcher gets away clean.\n• The manipulator changes the subject or attacks how you said something instead of what you said.\n• Every time you follow the new topic, you abandon the one you came in with.\n• The pattern ends with you defending yourself and the original issue buried.",
+      "principle": "Deflection — Topic Escape Under Pressure",
+      "remember": "If they change the subject, the point you just made was the right one.",
+      "theySee": "A person who raised a clear point now trying to address three different topics at once.",
+      "signals": [
+        {
+          "l": "Subject jump",
+          "t": "Right after a strong point from you, they introduce a completely different topic or complaint.",
+          "icon": "↗️"
+        },
+        {
+          "l": "Delivery attacked",
+          "t": "They say 'the way you said that' or 'your tone' — addressing how you spoke, not what you said.",
+          "icon": "🎤"
+        },
+        {
+          "l": "Past list",
+          "t": "Old incidents from weeks or months ago get brought up to replace the current one.",
+          "icon": "📅"
+        },
+        {
+          "l": "Shutdown phrase",
+          "t": "They say 'you always pick fights' or 'I don't have to listen to this' and leave the original issue unanswered.",
+          "icon": "🚪"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Write your one point on paper before talking",
+          "desc": "One sentence: 'The thing I need addressed is X.' Having it written means you can return to it without losing your place."
+        },
+        {
+          "n": 2,
+          "title": "Name the switch out loud the first time it happens",
+          "desc": "Say: 'We moved off the original topic. I want to stay on it.' Say this once, calmly. Don't apologize for saying it."
+        },
+        {
+          "n": 3,
+          "title": "Refuse to follow the new topic",
+          "desc": "When they introduce the new subject, don't engage it. Repeat: 'I hear that. Can we finish the first thing first?' Two deflections in a row is a pattern, not a mistake."
+        }
+      ],
+      "script": "\"I hear you — can we finish what we were talking about first?\"",
+      "counter": "This move is being used on you when you finish a conversation having addressed four things but the one you brought up.\n• Write down the one thing you came to discuss. Check at the end whether it got answered.\n• Don't follow topic jumps. Each one you follow is a point they scored.\n• If every conversation ends this way, the deflection is a strategy, not an accident.",
+      "insight": "The deflection works best on people who want to seem reasonable — they'll follow the new topic to show they're flexible. The harder move is staying on one point in front of someone who makes that look like stubbornness."
+    },
+    {
+      "id": "card-08",
+      "cat": "deflect",
+      "danger": "moderate",
+      "title": "Spot Passive Aggression Before It Reads as Normal Behavior",
+      "hook": "They're angry. You know it. They deny it. <strong>But the damage keeps happening anyway.</strong>",
+      "truth": "Passive aggression lets the manipulator hurt you while keeping clean hands — they can always say they didn't do anything.\n• The anger is real but it comes out sideways: slow work, forgotten tasks, backhanded comments.\n• Because nothing is said directly, you can't address it — any complaint on your end sounds paranoid.\n• The move thrives on your need to seem reasonable and not 'make things weird.'",
+      "principle": "Passive Aggression — Deniable Sabotage",
+      "remember": "Deniable damage is still damage. Name what you see, not how they feel.",
+      "theySee": "A person doing tasks slowly, forgetting things that matter, or making small cutting remarks with a neutral face.",
+      "signals": [
+        {
+          "l": "Slow execution",
+          "t": "Tasks they agreed to take forever or get done poorly — just below the level where you can formally complain.",
+          "icon": "🐌"
+        },
+        {
+          "l": "Flat agreement",
+          "t": "They say 'fine' or 'sure' with no affect — the word says yes, the voice says no.",
+          "icon": "😑"
+        },
+        {
+          "l": "Backhanded line",
+          "t": "A compliment that contains a small cut — 'You actually did well on that for once.'",
+          "icon": "🗡️"
+        },
+        {
+          "l": "Selective memory",
+          "t": "They forget the things that matter to you specifically — but remember everything else perfectly.",
+          "icon": "🧩"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Log three specific incidents in writing",
+          "desc": "Date, what they agreed to, what actually happened. Three incidents make a pattern. One is deniable; three is a file."
+        },
+        {
+          "n": 2,
+          "title": "Name the behavior, not the feeling behind it",
+          "desc": "Say: 'The report was due Tuesday. It came in Friday.' Don't say 'I think you're angry.' Name what happened — they can't deny a fact the way they can deny a feeling."
+        },
+        {
+          "n": 3,
+          "title": "Ask for a direct answer to a direct question",
+          "desc": "Say: 'Are you unhappy with something? Tell me what it is.' If they say no and the behavior continues, you have your answer."
+        }
+      ],
+      "script": "\"The deadline was Tuesday. The report came in Friday. Is something going on that I should know about?\"",
+      "counter": "This move is being used on you when you feel something is wrong but have nothing concrete to point to.\n• Name what happened in plain words — slow, late, cutting comment. The facts are harder to deny than feelings.\n• Ask a direct question and watch whether they take the door you opened.\n• If 'nothing is wrong' keeps being the answer while the behavior continues, stop asking and start documenting.",
+      "insight": "Passive aggression works longest on people who need everything to feel fine. The harder thing is that naming deniable damage out loud always sounds like you're the one making something out of nothing — and the person doing it knows that."
+    },
+    {
+      "id": "card-09",
+      "cat": "guilt",
+      "danger": "high",
+      "title": "Recognize Love-Bombing as a Setup, Not Affection",
+      "hook": "The attention is constant. The praise is overwhelming. <strong>Something this intense this early is a purchase, not a gift.</strong>",
+      "truth": "Love-bombing creates a debt before you've agreed to owe one — the flood of attention makes you feel obligated to give back.\n• The manipulator invests heavily in attention, compliments, and time all at once to make you feel chosen.\n• When they eventually ask for something, the debt you didn't choose feels real because you already accepted the gifts.\n• The move often ends with the tap turned off — suddenly — to show you what you stand to lose.",
+      "principle": "Cialdini: Reciprocity — Manufactured Obligation",
+      "remember": "Attention that arrives all at once before trust is built is a tactic.",
+      "theySee": "A person being praised constantly, contacted many times a day, and made to feel like the most important person in the room.",
+      "signals": [
+        {
+          "l": "Contact flood",
+          "t": "Messages, calls, or check-ins come many times a day before any real relationship has had time to form.",
+          "icon": "📱"
+        },
+        {
+          "l": "Early intensity",
+          "t": "They declare strong feelings — love, loyalty, deep connection — within days or a few weeks of meeting.",
+          "icon": "❤️‍🔥"
+        },
+        {
+          "l": "Praise without basis",
+          "t": "They compliment specific, personal things about you that they couldn't actually know yet — it signals a script, not genuine observation.",
+          "icon": "⭐"
+        },
+        {
+          "l": "Sudden cold",
+          "t": "After the flood, attention drops sharply — this is the test to see how much you chase it back.",
+          "icon": "🧊"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Map the timeline on paper",
+          "desc": "List the attention and gifts given in the first two weeks. Beside each, note what they knew about you at that point. If the investment came before any real knowledge of you — it's a move."
+        },
+        {
+          "n": 2,
+          "title": "Slow your own reciprocity",
+          "desc": "When someone floods you with attention, match their pace with half your own. If the relationship is real, it can hold a slower return. If it can't, that's information."
+        },
+        {
+          "n": 3,
+          "title": "Watch what they ask for after the flood",
+          "desc": "Give it two to four weeks. Every love-bombing campaign ends in a request — for time, access, money, or a decision. When it comes, you'll recognize it."
+        }
+      ],
+      "script": "\"I appreciate it — I just need more time before I make that kind of decision.\"",
+      "counter": "This is being done to you when the attention makes you feel behind — like you owe something you didn't agree to give.\n• Slow the pace. See if the warmth holds at half the speed.\n• Ask yourself: what do they actually know about me? Real affection is specific.\n• When the cold comes, don't chase. Chasing confirms the tactic works.",
+      "insight": "Love-bombing is most effective on people who weren't seen enough before — the flood feels like finally being known. The real trap is that the debt you feel is in your body, not in any agreement, and the manipulator knows you'll honor it anyway."
+    },
+    {
+      "id": "card-10",
+      "cat": "isolate",
+      "danger": "extreme",
+      "title": "See the Isolation Move Before Your Outside Relationships Go Quiet",
+      "hook": "They're not stopping you from seeing people. They're just making it <strong>easier not to.</strong>",
+      "truth": "Isolation doesn't need a locked door — it only needs enough friction that reaching out feels harder than staying put.\n• The manipulator quietly shapes your outside relationships through small comments, conflict setups, and time pressure.\n• Once isolated, your only version of reality is the one they provide — and you lose the outside check on what's normal.\n• Manipulation lives in isolation because a third party kills it every time.",
+      "principle": "Isolation Tactic — Reality Monopoly",
+      "remember": "The fewer outside voices you have, the more theirs fills the whole room.",
+      "theySee": "A person who used to see friends and family regularly, now rarely going out and not quite sure how it happened.",
+      "signals": [
+        {
+          "l": "Friend comments",
+          "t": "Small negative observations about specific friends or family appear regularly — never a direct ban, just friction.",
+          "icon": "💬"
+        },
+        {
+          "l": "Conflict before outings",
+          "t": "Arguments or emotional tension reliably happen right before you're due to see other people.",
+          "icon": "🔥"
+        },
+        {
+          "l": "Time fills up",
+          "t": "Your schedule fills with their needs and priorities until outside plans feel like a negotiation.",
+          "icon": "📆"
+        },
+        {
+          "l": "You self-censor",
+          "t": "You stop telling outside people what's happening at home because you're not sure how to explain it.",
+          "icon": "🤐"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Count your outside contacts this week",
+          "desc": "How many real conversations have you had with friends or family who don't know them? If the number has dropped steadily over the past few months, that's the pattern."
+        },
+        {
+          "n": 2,
+          "title": "Make one contact without announcing it",
+          "desc": "Call or text one outside person today without mentioning it to them. Note whether you feel the need to hide it. That feeling is data."
+        },
+        {
+          "n": 3,
+          "title": "Tell one person the unedited version",
+          "desc": "Pick one friend or family member. Tell them what's been happening without softening it. Watch their face. An objective outside read is the one tool that breaks the monopoly."
+        }
+      ],
+      "script": "\"I'm going to see [name] this weekend. I'll be back by [time].\"",
+      "counter": "This is happening to you when outside relationships feel like a source of conflict rather than a break from it.\n• Count recent outside contacts. A real drop is a pattern, not coincidence.\n• If you're hiding who you're talking to, ask yourself why.\n• Tell one person the full story. If they're alarmed and you're not — trust their reading.",
+      "insight": "Isolation builds the way debt does — slowly, then suddenly. Most people don't notice until outside relationships have gotten hard to restart. The harder move after this card is deciding whether the isolation was something that happened to you or something you helped build."
+    },
+    {
+      "id": "card-11",
+      "cat": "isolate",
+      "danger": "high",
+      "title": "Spot Normalization Before the Harmful Thing Starts to Feel Fine",
+      "hook": "They don't change the rules all at once. <strong>They move the line one inch at a time until the new position feels like it was always there.</strong>",
+      "truth": "Normalization works by making each small step feel reasonable in isolation — the full distance only shows up when you look back.\n• Each bad behavior gets introduced with a reason, a comparison to 'how everyone does it,' or a social proof that's impossible to check.\n• Once you accept the new line, the old line disappears from memory — you have no floor to return to.\n• The tell is that you find yourself defending the behavior to outsiders, which is where the previous card's isolation earns its payoff.",
+      "principle": "Normalization — Incremental Overton Window Shift",
+      "remember": "Ask yourself if you would have accepted this six months ago. The gap is the answer.",
+      "theySee": "A person defending behavior to a friend that they themselves would have called unacceptable a year ago.",
+      "signals": [
+        {
+          "l": "Everyone does it",
+          "t": "They explain a behavior by saying it's normal, common, or what most people do — with no way to verify.",
+          "icon": "👥"
+        },
+        {
+          "l": "Small step framing",
+          "t": "Each new ask is framed as only slightly different from what you already agreed to.",
+          "icon": "📏"
+        },
+        {
+          "l": "You defend it",
+          "t": "You find yourself explaining their behavior to a friend in a way that sounds like their words, not yours.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Old line gone",
+          "t": "You struggle to remember when the current behavior would have seemed wrong — the memory of your old standard is fuzzy.",
+          "icon": "🌫️"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Write what you would have accepted one year ago",
+          "desc": "Pick three specific behaviors in the relationship right now. Would you have accepted each one twelve months ago? Write yes or no beside each."
+        },
+        {
+          "n": 2,
+          "title": "Find the first time the line moved",
+          "desc": "Think back to the first time something happened that you let go without naming it. That's the point of entry. Naming it now resets the floor."
+        },
+        {
+          "n": 3,
+          "title": "Say the current situation out loud to someone outside",
+          "desc": "Say it plain, no softening. Hear it in your own voice. If it sounds different out loud than it does in your head — that gap is what normalization did."
+        }
+      ],
+      "script": "\"A year ago I would have said no to this. I'm naming that out loud.\"",
+      "counter": "This is being done to you when you catch yourself using their reasons to explain their behavior to people who care about you.\n• Ask: whose words am I using right now?\n• Run the twelve-month test: would past-you have accepted this?\n• If the answer is no — the new line is theirs, not yours.",
+      "insight": "Normalization is the most patient move in this file. It requires no confrontation and leaves no single moment to point to. The harder question after this card is how far back you'd have to go to find the last line that was actually yours."
+    },
+    {
+      "id": "card-12",
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Name the Move Out Loud the Moment You See It",
+      "hook": "Manipulation runs on darkness. <strong>The second you say what you see, the tactic loses half its power.</strong>",
+      "truth": "Naming a move in plain words is the single fastest way to break it — most tactics depend on you not knowing what to call them.\n• When you label the behavior specifically and calmly, the manipulator has to either deny it or change gears — both break their momentum.\n• Naming it also protects your own certainty — you stop questioning yourself and start tracking them.\n• The move that follows naming is silence. You say what you see. You wait. The next move is theirs.",
+      "principle": "Voss: Label — Tactical Naming to Disrupt",
+      "remember": "Say what you see in plain words. Then stop talking.",
+      "theySee": "A person staying very calm, naming a specific behavior, and waiting in silence without defending anything.",
+      "signals": [
+        {
+          "l": "Pause after label",
+          "t": "When you name the move, they go quiet or look surprised — the script they had prepared doesn't work against a named move.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Denial arrives fast",
+          "t": "An immediate, flat 'no that's not what I'm doing' — faster than a real response to a real question — is a tell.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Topic jump",
+          "t": "Right after you name it, they introduce something new — the move you read in the deflection card.",
+          "icon": "↗️"
+        },
+        {
+          "l": "Counter-accusation",
+          "t": "They name a move back at you — 'you're the one who's manipulating' — without addressing what you said.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Write the name of what you saw before you speak",
+          "desc": "Guilt trip. Gaslighting. Topic switch. Comparison move. Use the plain name. Having it written stops you from softening it when you say it out loud."
+        },
+        {
+          "n": 2,
+          "title": "Say it in one sentence with no explanation",
+          "desc": "Say: 'That's a guilt trip.' Or: 'You just changed the subject.' Don't add 'I think' or 'it feels like.' A label with no apology has more weight."
+        },
+        {
+          "n": 3,
+          "title": "Stay silent for five seconds after",
+          "desc": "Don't fill the space. The silence belongs to you. What they do in those five seconds tells you more than the next ten minutes of talking."
+        }
+      ],
+      "script": "\"That's a guilt trip. I'm not going to respond to it.\"",
+      "counter": "Someone is trying this on you when they label your behavior to shut down the conversation instead of engaging with what you said.\n• Ask: 'What specifically did I do?' — a real label can be backed up with facts.\n• If they can't back it up, they're using the move against you.\n• Name that too: 'You're using a label to avoid the question. What's the answer?'",
+      "insight": "Naming works because most manipulation runs on the target's silence and confusion. The harder part is that naming feels aggressive to people who were trained to keep the peace — and the person across from you is counting on exactly that."
+    }
+  ]
+}
