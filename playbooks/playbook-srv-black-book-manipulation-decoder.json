@@ -1,0 +1,701 @@
+{
+  "meta": {
+    "id": "srv-black-book-manipulation-decoder",
+    "version": "1.0",
+    "title": "Black Book: Manipulation Decoder",
+    "subtitle": "Spot the moves before they land",
+    "description": "12 cards for reading manipulation in real time — the tells, the traps, the counters. By the end of this dossier, you see the moves before most people know a game is being played.",
+    "author": "AI",
+    "createdAt": "2026-06-28T15:12:02.529Z",
+    "tags": [
+      "manipulation",
+      "dark psychology",
+      "reading people",
+      "conversation",
+      "defense",
+      "persuasion",
+      "social dynamics"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "🕶️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting manipulation in everyday conversations",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "detection",
+      "label": "Detection",
+      "color": "#c0392b"
+    },
+    {
+      "key": "identity",
+      "label": "Identity Plays",
+      "color": "#8e44ad"
+    },
+    {
+      "key": "reality",
+      "label": "Reality Bending",
+      "color": "#2c3e50"
+    },
+    {
+      "key": "pressure",
+      "label": "Pressure Tactics",
+      "color": "#e67e22"
+    },
+    {
+      "key": "defense",
+      "label": "Defense",
+      "color": "#27ae60"
+    },
+    {
+      "key": "social",
+      "label": "Social Weapons",
+      "color": "#2980b9"
+    }
+  ],
+  "cards": [
+    {
+      "id": "card-01",
+      "cat": "detection",
+      "danger": "moderate",
+      "title": "Watch for Behavior Change, Not Just Behavior",
+      "hook": "You're not looking for nervous. <strong>You're looking for different.</strong> The person who blinks twice as fast as they did three minutes ago is worth watching.",
+      "truth": "Most people scan for a single tell and miss the real signal — which is change from baseline.\n• A person's nervous blink means nothing; a sudden shift in blink rate means everything.\n• When behavior changes mid-conversation, something you said or did triggered it.\n• The trap: you lock in on one cue and stop tracking the person as a moving system.",
+      "principle": "Baseline Deviation — Behavioral Change Detection",
+      "remember": "Watch how they change, not just how they act.",
+      "theySee": "A person at a restaurant table who was relaxed two minutes ago and is now sitting differently.",
+      "signals": [
+        {
+          "l": "Speed change",
+          "t": "They were talking slowly and now they are speaking faster.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Blink jump",
+          "t": "Their blink rate suddenly goes up after a specific question.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Posture shift",
+          "t": "They were leaning in; now they are leaning back or crossing arms.",
+          "icon": "🪑"
+        },
+        {
+          "l": "Topic rush",
+          "t": "They quickly move to a new subject right after you said something specific.",
+          "icon": "🔀"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Establish a baseline fast",
+          "desc": "In the first two minutes, note their normal speed, eye contact level, and body position. File it silently."
+        },
+        {
+          "n": 2,
+          "title": "Ask one neutral question mid-conversation",
+          "desc": "Drop a low-stakes question unrelated to the real topic. Watch if their behavior stays the same or shifts."
+        },
+        {
+          "n": 3,
+          "title": "Name the moment they changed",
+          "desc": "Write down or remember the exact sentence you said when the shift happened. That sentence is the hot spot."
+        }
+      ],
+      "script": "\"Tell me how things have been going for you lately\" — then watch what changes in their face before they answer.",
+      "counter": "If someone is studying your baseline, they are waiting for you to flinch at a specific word.\n• Notice if they ask calm, unrelated questions before hitting the real subject.\n• Slow your responses slightly and keep your posture still.\n• Ask them directly what they actually want to know.",
+      "insight": "The harder part is that skilled manipulators also know to control their own baseline — which means the ones who show nothing might be practicing harder than the ones who blink."
+    },
+    {
+      "id": "card-02",
+      "cat": "identity",
+      "danger": "moderate",
+      "title": "The Indirect Compliment That Makes You Claim an Identity",
+      "hook": "<strong>They never said you were open and honest. They just said most people aren't.</strong> Your brain did the rest of the work for them.",
+      "truth": "Direct praise triggers resistance. Implied praise slips past it and gets you to agree to an identity you now feel pressure to live up to.\n• They describe a rare positive trait in someone nearby — you adopt it without being asked.\n• Once you've claimed the identity in your head, you act to stay consistent with it.\n• The trap: you now feel obligated to behave the way they suggested, and you think it was your idea.",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "They painted a picture of a good person. You walked into it yourself.",
+      "theySee": "A person listening carefully, nodding slightly, feeling warm about the conversation without knowing why.",
+      "signals": [
+        {
+          "l": "General praise",
+          "t": "They praise a quality in 'rare people' without pointing at you — then pause.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Your agreement",
+          "t": "You find yourself saying 'yes, exactly' or 'I try to do that too.'",
+          "icon": "✅"
+        },
+        {
+          "l": "Behavior pull",
+          "t": "You start acting more open, more generous, more helpful than you planned.",
+          "icon": "🪝"
+        },
+        {
+          "l": "No ask yet",
+          "t": "They have not made a request yet but the conversation feels warm and aligned.",
+          "icon": "⏳"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Replay the last compliment you heard",
+          "desc": "Write down word for word what was said. Was it about you directly, or about 'people like you' or 'rare types'?"
+        },
+        {
+          "n": 2,
+          "title": "Find the ask that followed",
+          "desc": "Look at what happened within two minutes after the compliment. There is almost always a request or a push."
+        },
+        {
+          "n": 3,
+          "title": "Test the identity claim before you act",
+          "desc": "Before doing what they implied you would do, ask: 'Would I do this if they had never said that?'"
+        }
+      ],
+      "script": "\"I appreciate that, but what specifically are you asking me to do?\"",
+      "counter": "Someone is using this move on you when you feel unusually generous toward them before any actual request is made.\n• Notice if the praise described a type — 'people who really get it' — rather than you by name.\n• Say nothing confirming the identity until the actual ask is clear.\n• Once the ask arrives, judge it on its own terms, not on how good you felt two minutes ago.",
+      "insight": "The move works best on people who are hungry to see themselves as rare or exceptional — the next question is whether your need to be that person is something someone else can already see."
+    },
+    {
+      "id": "card-03",
+      "cat": "reality",
+      "danger": "high",
+      "title": "Gaslighting — They Say It Never Happened",
+      "hook": "You bring up something real. <strong>They tell you it didn't happen.</strong> You walk away wondering if you're the problem.",
+      "truth": "Gaslighting works by making you distrust your own memory faster than you can check it.\n• They deny the event directly, or claim you misunderstood it, until your confidence drops.\n• You spend mental energy doubting yourself instead of holding them to account.\n• The trap: every round of denial makes your next objection feel less credible, even to you.",
+      "principle": "Wang: Mental Manipulation — Verbal Abuse via Reality Denial",
+      "remember": "Write it down when it happens. Memory is the first thing they attack.",
+      "theySee": "A person who looked certain about something a moment ago, now visibly second-guessing themselves.",
+      "signals": [
+        {
+          "l": "Flat denial",
+          "t": "They say 'that never happened' or 'you're imagining things' with no evidence.",
+          "icon": "🚫"
+        },
+        {
+          "l": "You apologize",
+          "t": "You find yourself saying sorry for bringing up something you know occurred.",
+          "icon": "🙇"
+        },
+        {
+          "l": "Memory fog",
+          "t": "After the conversation, you can no longer clearly recall what actually happened.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "Your record clean",
+          "t": "You have a text, a note, or a witness that confirms your version of events.",
+          "icon": "📝"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Write down the incident same day",
+          "desc": "The moment something feels off, write down what was said, who was there, and what time it was. Date the note."
+        },
+        {
+          "n": 2,
+          "title": "State your record out loud",
+          "desc": "In the conversation, say the specific fact once: 'I have a text from Tuesday that says otherwise.'"
+        },
+        {
+          "n": 3,
+          "title": "Stop arguing the memory",
+          "desc": "Do not keep defending your recollection. State it once, show the evidence if you have it, and refuse to re-litigate."
+        }
+      ],
+      "script": "\"I wrote it down the same day. Here's what I recorded. We don't need to agree on memory — the note is dated.\"",
+      "counter": "If someone accuses you of gaslighting, the move may be real or it may be a counter-attack.\n• Check: do you have any record of the event they say occurred? Get one before continuing.\n• Avoid over-explaining or defending — it looks like guilt and feeds the loop.\n• Ask a third party who was present what they remember.",
+      "insight": "The move works best in relationships where no records exist — the real question is whether you have been keeping any, or whether you have been trusting your memory against someone who is trained to erase it."
+    },
+    {
+      "id": "card-04",
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "Guilt-Tripping — They Make You Pay for Having a Boundary",
+      "hook": "You said no. Now somehow <strong>you're the one who did something wrong.</strong>",
+      "truth": "Guilt-tripping works because most people will do almost anything to stop feeling like a bad person.\n• They shift attention from their request to your refusal, making the refusal the problem.\n• You feel selfish, cold, or disloyal — emotions that override your original judgment.\n• The trap: you give in, they learn it works, and the next request arrives sooner.",
+      "principle": "Cialdini: Reciprocity — Manufactured Debt",
+      "remember": "Feeling guilty is not the same as being guilty. Know the difference.",
+      "theySee": "A person looking visibly hurt or wounded right after you declined to do something for them.",
+      "signals": [
+        {
+          "l": "Hurt face fast",
+          "t": "They look wounded within seconds of your refusal, before any real conversation happens.",
+          "icon": "😢"
+        },
+        {
+          "l": "Past brought up",
+          "t": "They name something they did for you in the past as a reason you owe them now.",
+          "icon": "📅"
+        },
+        {
+          "l": "You over-explain",
+          "t": "You find yourself giving a long justification for a simple no.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "You reverse yourself",
+          "t": "You started by saying no and end up saying yes without them making a new argument.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Name the feeling before you act on it",
+          "desc": "Before you reverse your answer, stop and write: 'I feel guilty because they said ___.' Look at the sentence."
+        },
+        {
+          "n": 2,
+          "title": "Hold your answer and go quiet",
+          "desc": "Say 'I understand you're disappointed' and then stop talking. Do not fill the silence with a changed answer."
+        },
+        {
+          "n": 3,
+          "title": "Separate the history from the current ask",
+          "desc": "Ask yourself: does the favor they did last year actually obligate you to this specific thing today? Usually the answer is no."
+        }
+      ],
+      "script": "\"I hear that you're upset. My answer is still no.\"",
+      "counter": "If guilt-tripping is being used on you, the tell is that you feel bad without being able to name what rule you actually broke.\n• Ask yourself: what specific thing did I do wrong? If there's no clean answer, the guilt is manufactured.\n• Name the move without attack: 'It sounds like you feel I owe you this.'\n• Do not apologize for the refusal — apologizing signals that the tactic worked.",
+      "insight": "The people most vulnerable to this move are the ones who keep a mental debt ledger — which means the harder problem is deciding whether you want to keep carrying that ledger at all."
+    },
+    {
+      "id": "card-05",
+      "cat": "reality",
+      "danger": "high",
+      "title": "Topic Switch — They Change the Subject When You Get Close",
+      "hook": "You were making a point. <strong>Suddenly you're defending something from three years ago.</strong> The original issue is gone.",
+      "truth": "Topic switching in conflict is not an accident — it is a deliberate move to reset the scoreboard when someone is losing.\n• They abandon the current issue and open a new one where you are on the defensive.\n• You spend energy defending yourself instead of holding them to the original point.\n• The trap: by the time the conversation ends, nothing was resolved and you feel like the problem.",
+      "principle": "Thriveworks: Deflection — Conflict Avoidance via Topic Replacement",
+      "remember": "Name the original issue once more every time they switch topics.",
+      "theySee": "A person who looked cornered a moment ago, now confidently redirecting the conversation to your past mistakes.",
+      "signals": [
+        {
+          "l": "History list",
+          "t": "They bring up two or three old grievances right after you raise a new concern.",
+          "icon": "📋"
+        },
+        {
+          "l": "Your defense begins",
+          "t": "You stop making your point and start defending something unrelated.",
+          "icon": "🛡️"
+        },
+        {
+          "l": "Original issue gone",
+          "t": "Ten minutes in, neither of you is talking about what started the conversation.",
+          "icon": "❓"
+        },
+        {
+          "l": "They attack first",
+          "t": "They say 'you always pick fights' or 'this is just like last time' before engaging.",
+          "icon": "🗡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Write your one sentence before the conversation",
+          "desc": "Before any hard talk, write the issue in one sentence. That is your anchor point. Keep it on your phone."
+        },
+        {
+          "n": 2,
+          "title": "Say 'I want to finish this before we move on'",
+          "desc": "The moment they switch topics, say this line and return to your sentence. Do not engage the new topic."
+        },
+        {
+          "n": 3,
+          "title": "Stop if they switch three times",
+          "desc": "If they switch the topic three times without engaging your original point, end the conversation. The discussion is not happening."
+        }
+      ],
+      "script": "\"I hear you. I want to come back to what I raised first. Can we finish that before we open something new?\"",
+      "counter": "You will know this is being used on you when you cannot recall what the conversation was originally about.\n• Before responding to any new issue they raise, state: 'I'll address that after we finish what we started.'\n• Do not get drawn into defending old behavior — each defense is a win for them.\n• If they cannot engage the original point after two attempts, name it: 'You've changed the subject twice.'",
+      "insight": "This move works best on people who hate being seen as unfair — they will drop their own point to defend their reputation, which is the switch working exactly as designed."
+    },
+    {
+      "id": "card-06",
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "Comparison Pressure — They Name Someone Better to Make You Feel Small",
+      "hook": "<strong>They're not praising someone else.</strong> They're pointing at your gap — and waiting for you to close it on their terms.",
+      "truth": "Comparison weaponizes your need to not feel 'less than' and turns it into a compliance engine.\n• Naming someone who has done more quietly implies you are failing a standard you did not set.\n• You feel the need to prove yourself — which is exactly when you make bad decisions.\n• The trap: they say they were 'just trying to motivate you' and the insult becomes deniable.",
+      "principle": "Cialdini: Social Proof — Weaponized Comparison",
+      "remember": "They brought up someone else to get something from you. Ask what.",
+      "theySee": "A person who paused and looked slightly deflated after hearing that a colleague, sibling, or peer accomplished something.",
+      "signals": [
+        {
+          "l": "Name dropped",
+          "t": "A specific person's achievement is mentioned unprompted in a conversation about you.",
+          "icon": "📌"
+        },
+        {
+          "l": "You get quiet",
+          "t": "You stop talking and look inward right after the comparison is made.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Motivation claim",
+          "t": "When challenged, they say 'I just thought it would inspire you.'",
+          "icon": "💡"
+        },
+        {
+          "l": "Request follows",
+          "t": "Within two minutes of the comparison, they ask you to do something or be different.",
+          "icon": "➡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Note who they compared you to and why",
+          "desc": "Write the name and the achievement they cited. Then write what they asked you to do or be after saying it."
+        },
+        {
+          "n": 2,
+          "title": "Refuse the standard they set",
+          "desc": "Say out loud or in writing: 'That person's choices are not my benchmark.' Own your own standard before the conversation continues."
+        },
+        {
+          "n": 3,
+          "title": "Ask what they actually want from you",
+          "desc": "Say: 'It sounds like you want me to do something. What is it?' This moves the conversation from vague pressure to a concrete ask you can evaluate."
+        }
+      ],
+      "script": "\"It sounds like you want me to do something specific. What is it?\"",
+      "counter": "Comparison pressure used on you creates a specific feeling: you want to prove yourself before any request is made.\n• Slow down and ask: who decided this person's standard is relevant to me?\n• Do not volunteer extra effort or concessions to close a gap you didn't create.\n• Name the move: 'Are you comparing me to them to get me to do something?'",
+      "insight": "The move works best on people who have already privately decided they are behind — which means it is partly self-inflicted, and the harder fix is internal."
+    },
+    {
+      "id": "card-07",
+      "cat": "social",
+      "danger": "high",
+      "title": "Recruiting Others — They Build a Crowd to Pressure You",
+      "hook": "Suddenly it's not just them saying it. <strong>It's everyone.</strong> And 'everyone' was assembled on purpose.",
+      "truth": "A lone request is easy to refuse. A manufactured consensus feels like reality.\n• They prime two or three people with their version of events before you ever hear it.\n• You walk in thinking this is a personal disagreement and find a group opinion waiting.\n• The trap: challenging the consensus looks like you are the unreasonable one.",
+      "principle": "Cialdini: Social Proof — Manufactured Consensus",
+      "remember": "Find out who they talked to before they talked to you.",
+      "theySee": "A person sitting across from someone who is speaking with unusual confidence, as if they already know the room agrees with them.",
+      "signals": [
+        {
+          "l": "Others cited",
+          "t": "They say 'everyone I've talked to thinks' or 'people have noticed' without naming names.",
+          "icon": "👥"
+        },
+        {
+          "l": "Pre-aligned room",
+          "t": "Other people in the group already seem to agree before the conversation begins.",
+          "icon": "🏛️"
+        },
+        {
+          "l": "Your isolation",
+          "t": "You realize you are the only one who has not been briefed on this view.",
+          "icon": "🏝️"
+        },
+        {
+          "l": "Fast agreement",
+          "t": "Others agree with them quickly and without asking for your side.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Map who they have spoken to already",
+          "desc": "Before any group conversation, ask one trusted person: 'Has anyone spoken to you about this?' Find the edges of the network."
+        },
+        {
+          "n": 2,
+          "title": "Speak one-on-one before the group meets",
+          "desc": "Contact each person individually and give your version before the group dynamic locks in. Don't wait for the meeting."
+        },
+        {
+          "n": 3,
+          "title": "Name the consensus in the room",
+          "desc": "In the conversation, say: 'It sounds like this was discussed before I was here. I'd like to share my side now.'"
+        }
+      ],
+      "script": "\"It sounds like this was discussed before today. I'd like to give you my version directly.\"",
+      "counter": "If someone is building a crowd against you, you will feel it when three or more people hold the same framed version of events you never agreed to.\n• Do not argue against the group. Address the person who built it.\n• Ask each person privately: 'What did they tell you specifically?' Gaps in their story appear quickly.\n• Restore your own side of the record with each person individually, not in a group setting.",
+      "insight": "The move is most dangerous when it is finished before you know it started — the next question is how early in a disagreement you are willing to start counting the other person's conversations."
+    },
+    {
+      "id": "card-08",
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "The Silent Treatment — Withdrawal Used as Punishment",
+      "hook": "They stopped talking to you. <strong>That's not a feeling — it's a tactic.</strong>",
+      "truth": "Silence used as punishment works because most people find withdrawal more painful than a direct argument.\n• The target scrambles to repair a rupture they didn't cause, giving up ground to restore contact.\n• The manipulator offers no information about what would fix it, keeping the target anxious and compliant.\n• The trap: the moment you chase, you confirm that silence is the right tool to use on you.",
+      "principle": "WebMD: Withdrawal — Silent Treatment as Behavioral Control",
+      "remember": "Chasing their silence teaches them to use it on you again.",
+      "theySee": "A person who stopped responding to texts and is waiting to see how long it takes the other person to reach out.",
+      "signals": [
+        {
+          "l": "No response",
+          "t": "They are ignoring messages they would normally answer within minutes.",
+          "icon": "📵"
+        },
+        {
+          "l": "You reach first",
+          "t": "You have sent two or more messages with no reply and are drafting a third.",
+          "icon": "✉️"
+        },
+        {
+          "l": "No stated reason",
+          "t": "They have not explained what is wrong, just gone quiet.",
+          "icon": "❔"
+        },
+        {
+          "l": "Prior pattern",
+          "t": "This has happened before and ended when you apologized or gave something.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Send one message, then stop",
+          "desc": "Say what you want to say once — 'I'm here when you're ready to talk' — then do not send another message. One is enough."
+        },
+        {
+          "n": 2,
+          "title": "Fill the time with your own activity",
+          "desc": "Do not sit with the anxiety. Start a task that demands your attention. The waiting room is where the tactic lives."
+        },
+        {
+          "n": 3,
+          "title": "Decide your limit before they return",
+          "desc": "Before contact resumes, decide what you will and won't accept when they come back. Write it down. Do not negotiate in the relief of reconnection."
+        }
+      ],
+      "script": "\"I'm here when you're ready to talk. I won't keep messaging.\"",
+      "counter": "If you are accidentally using silence as a weapon, you need to know it.\n• Check: have you gone quiet after a conflict without saying why? That is the move, even if unintentional.\n• Say what you need: 'I need an hour. I'll come back when I can talk.'\n• Naming when you will return removes the punishment and leaves only the pause.",
+      "insight": "The move fails the moment the target stops chasing — but the person who stops chasing has to sit with the silence too, which is the real cost the tactic is betting they won't pay."
+    },
+    {
+      "id": "card-09",
+      "cat": "identity",
+      "danger": "moderate",
+      "title": "Vague Accusations — They Generalize So You Can't Fight Back",
+      "hook": "<strong>'You always do this.'</strong> 'No one has ever loved me.' You can't argue a vague charge — and they know it.",
+      "truth": "Vague accusations are deliberately unspecific so you exhaust yourself trying to disprove a cloud.\n• They use words like 'always,' 'never,' and 'no one' to make the charge feel total and unarguable.\n• You shift from your own point to defending your entire character or history.\n• The trap: accepting or fighting the vague frame both signal that it landed.",
+      "principle": "WebMD: Exaggeration and Generalization — Manipulation via Unprovable Charge",
+      "remember": "Ask for one specific example. Vague charges collapse under specifics.",
+      "theySee": "A person looking frustrated and starting to defend themselves against a sweeping statement they cannot pin down.",
+      "signals": [
+        {
+          "l": "Always/never used",
+          "t": "They use 'always' or 'never' in a sentence about your behavior.",
+          "icon": "♾️"
+        },
+        {
+          "l": "No example given",
+          "t": "After the accusation, they cannot name a specific time or place it happened.",
+          "icon": "🚫"
+        },
+        {
+          "l": "You go wide",
+          "t": "You start defending your entire history instead of the specific moment.",
+          "icon": "🌐"
+        },
+        {
+          "l": "Feeling trapped",
+          "t": "You feel like you are losing an argument but cannot find where to push back.",
+          "icon": "🪤"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Ask for one specific example out loud",
+          "desc": "Say: 'Can you give me one specific time that happened?' Do not accept 'you just do it all the time' as an answer."
+        },
+        {
+          "n": 2,
+          "title": "Refuse to defend the general",
+          "desc": "Do not argue against 'always.' Say: 'I can talk about a specific event. I can't respond to 'always'.''"
+        },
+        {
+          "n": 3,
+          "title": "Return to your point",
+          "desc": "Once they either give a specific or fail to, return to what you were originally discussing. Do not let the general charge end the conversation."
+        }
+      ],
+      "script": "\"Give me one specific time that happened. I'll address that directly.\"",
+      "counter": "Vague accusations are used on you when you feel accused of a pattern you can't quite name or disprove.\n• Notice the word 'always' or 'never' — those are the tells.\n• Do not try to disprove the general claim. Ask for the specific event.\n• If no specific is given, say: 'I can't respond to something that has no example. Come back with one.'",
+      "insight": "The move is effective because it forces you to argue against a feeling, not a fact — and the person who set up the feeling gets to watch you flail, which is the point."
+    },
+    {
+      "id": "card-10",
+      "cat": "social",
+      "danger": "high",
+      "title": "Cruel Humor — They Insult You and Call It a Joke",
+      "hook": "They said something that hurt. <strong>Now you're oversensitive for reacting.</strong> The insult got delivered and the delivery is clean.",
+      "truth": "Cruel humor lets the manipulator put real damage in a wrapper they can deny.\n• The insult lands on everyone who heard it; the denial lands only on you when you object.\n• Objecting looks thin-skinned; staying quiet teaches them the weapon works on you.\n• The trap: laughing along is the worst option — it gives explicit permission for the next one.",
+      "principle": "WebMD: Cruel Humor — Deniable Aggression",
+      "remember": "Name the insult directly. The joke wrapper does not protect them from the content.",
+      "theySee": "A group of people laughing at something, with one person looking uncomfortable while deciding whether to speak.",
+      "signals": [
+        {
+          "l": "Specific target",
+          "t": "The joke is about one specific person's weakness, not a general observation.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Audience present",
+          "t": "The remark is made in front of others, not in private.",
+          "icon": "👀"
+        },
+        {
+          "l": "Fast denial",
+          "t": "When you react, they say immediately 'I was joking, relax.'",
+          "icon": "🙅"
+        },
+        {
+          "l": "Pattern repeats",
+          "t": "This same weakness has been 'joked about' more than once.",
+          "icon": "🔂"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Do not laugh",
+          "desc": "Keep a neutral face. Laughing along is the signal they need to continue. Silence is better than forced agreement."
+        },
+        {
+          "n": 2,
+          "title": "Name the content, not the intent",
+          "desc": "Say: 'That comment was about [specific thing]. I'm not interested in discussing that one as a joke.' No anger. Just flat."
+        },
+        {
+          "n": 3,
+          "title": "Hold the next silence",
+          "desc": "After you name it, stop talking. Let the discomfort sit with them. The first person to fill the silence loses this round."
+        }
+      ],
+      "script": "\"That one landed as an insult, not a joke. I'd rather not do that.\"",
+      "counter": "Cruel humor is being used on you when a specific weakness of yours keeps showing up in 'jokes' in front of other people.\n• Check: would this comment be acceptable if said without the joke tone? If no, it is an insult.\n• Do not explain why it hurt — that is more material for the next joke.\n• Address it once, flat, in front of the audience. One sentence. Then let it go.",
+      "insight": "The move is hardest to counter in groups where laughter is the social currency — the real cost of stopping it is that you briefly become the serious one, and most people decide the insult is cheaper."
+    },
+    {
+      "id": "card-11",
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Prepare Specific Examples Before Confronting a Manipulator",
+      "hook": "You walk in with a feeling. <strong>They walk out clean.</strong> Feelings don't survive contact with a skilled denier. Dated facts do.",
+      "truth": "Manipulators are rehearsed at handling vague accusations — they deny, reframe, or flip the blame in seconds.\n• Specific examples with dates and words are much harder to deny than general complaints.\n• When you can say 'on Tuesday you said X,' the denier has to attack your memory, not your argument.\n• The trap: they will still try to flip it — but a specific on record is much harder to erase than a general feeling.",
+      "principle": "Bay Area CBT: Behavioral Specificity — Evidence-Based Confrontation",
+      "remember": "Go in with dates, words, and facts. Feelings alone won't stick.",
+      "theySee": "A person sitting across from them pulling out a phone with notes, not just talking from memory.",
+      "signals": [
+        {
+          "l": "You feel vague",
+          "t": "You know something is wrong but can't name a specific incident.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "They deny easily",
+          "t": "Every time you bring something up, they dismiss it in one sentence.",
+          "icon": "🚫"
+        },
+        {
+          "l": "No record kept",
+          "t": "You have not written anything down and are relying entirely on memory.",
+          "icon": "📂"
+        },
+        {
+          "l": "You back down",
+          "t": "You start backing away from your point before the conversation ends.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "List three specific incidents before the conversation",
+          "desc": "Write each one as: date, what they said or did, what you said, what happened next. Three is enough. Keep it on your phone."
+        },
+        {
+          "n": 2,
+          "title": "Practice saying each example in one sentence",
+          "desc": "Each incident should be one clean sentence: 'On Monday, you told me in front of the group that I was being difficult.'"
+        },
+        {
+          "n": 3,
+          "title": "State the pattern after the examples",
+          "desc": "Only after the specifics, say: 'This has happened three times in two weeks. I want it to stop.' The pattern lands harder after the facts."
+        }
+      ],
+      "script": "\"I want to talk about three specific things that happened. Here's the first one: on Tuesday, you said ___. Here's what I need to change.\"",
+      "counter": "If someone comes at you with a list of specific examples and dates, do not dismiss it.\n• Dismissing a dated, documented claim makes you look dishonest, not strong.\n• Ask for a pause and review your own memory of the event before responding.\n• Acknowledge any accurate points before challenging the ones you dispute.",
+      "insight": "The discipline of keeping notes only pays off when the confrontation actually happens — which means most people never get the benefit because they start documenting after the relationship already collapsed."
+    },
+    {
+      "id": "card-12",
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Manipulation Thrives in Isolation — Stay Connected to People Outside It",
+      "hook": "The longer you have only one person telling you what is real, <strong>the more that person controls your reality.</strong>",
+      "truth": "Manipulators do not announce the isolation — they make outside relationships feel like a threat to the bond.\n• They make you feel disloyal for discussing the relationship with friends or family.\n• Without outside perspective, there is no mirror for what is actually happening to you.\n• The trap: the longer you stay isolated, the harder it becomes to trust your own read — which is exactly the condition they need.",
+      "principle": "Thriveworks: Isolation Maintenance — Manipulation via Information Control",
+      "remember": "One person outside the situation will show you things you stopped seeing.",
+      "theySee": "A friend who has not heard from someone in weeks getting a message asking to meet up.",
+      "signals": [
+        {
+          "l": "Guilt for calling",
+          "t": "You feel vaguely disloyal when you talk to a friend about what's been happening.",
+          "icon": "📞"
+        },
+        {
+          "l": "Friend count drops",
+          "t": "You have spoken to fewer outside people in the last month than the month before.",
+          "icon": "📉"
+        },
+        {
+          "l": "They ask what you said",
+          "t": "After outside contact, they ask what you talked about and who you told what.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Only their view exists",
+          "t": "When you try to form your own opinion, you only have their version of events to work from.",
+          "icon": "🪞"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Contact one outside person this week",
+          "desc": "Call or meet one friend or family member you have been seeing less. Do not wait until you feel ready. Send the message now."
+        },
+        {
+          "n": 2,
+          "title": "Tell them one specific thing that happened",
+          "desc": "Give them one concrete example from your notes. Not 'things have been hard' — a specific incident. Watch their reaction."
+        },
+        {
+          "n": 3,
+          "title": "Ask them what they have noticed",
+          "desc": "Ask: 'Have you noticed anything different about me in the last few months?' Their answer is data you cannot get from inside the situation."
+        }
+      ],
+      "script": "\"I want to tell you something that happened. I'd like to know what you think — from the outside.\"",
+      "counter": "If someone is trying to isolate you from outside contact, the tell is that your outside relationships start to feel like a problem inside the relationship.\n• Notice if you self-censor with friends to protect the other person's image.\n• Deliberately keep one relationship outside the situation where you say everything.\n• The person most threatened by your outside connections is worth examining closely.",
+      "insight": "The move works best on people who already see loyalty and openness as opposites — the harder question is whether that idea was already there, or whether it was planted."
+    }
+  ]
+}
