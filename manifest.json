@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 1,
+  "manifestVersion": 2,
   "playbooks": [
     {
       "id": "srv-pipeline-test-reading-the-room",
@@ -13,7 +13,20 @@
       "url": "playbooks/playbook-srv-pipeline-test-reading-the-room.json",
       "addedAt": "2026-06-28T05:59:27.611Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-pipeline-test-2-holding-a-boundary",
+      "title": "Pipeline Test 2 — Holding a Boundary",
+      "theme": "test",
+      "topic": "holding a boundary",
+      "cardCount": 3,
+      "contentVersion": 1,
+      "coverColor": "#8b5cf6",
+      "coverIcon": "🧪",
+      "url": "playbooks/playbook-srv-pipeline-test-2-holding-a-boundary.json",
+      "addedAt": "2026-06-28T06:34:20.172Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-06-28T05:59:27.611Z"
+  "generatedAt": "2026-06-28T06:34:20.172Z"
 }

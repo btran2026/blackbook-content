@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "id": "srv-pipeline-test-2-holding-a-boundary",
+    "version": "1.0",
+    "title": "Pipeline Test 2 — Holding a Boundary",
+    "subtitle": "Second sample used to verify server delivery.",
+    "description": "A throwaway 3-card sample published to confirm a second item flows through the content pipeline. Safe to delete.",
+    "author": "AI",
+    "createdAt": "2026-06-28T06:34:20.172Z",
+    "tags": [
+      "test",
+      "defense",
+      "boundaries"
+    ],
+    "totalCards": 3,
+    "isSeeded": true,
+    "coverColor": "#8b5cf6",
+    "coverIcon": "🧪",
+    "generation": {
+      "topic": "holding a boundary",
+      "cardCount": 3,
+      "categories": [],
+      "tone": "practical"
+    },
+    "categories": [
+      {
+        "key": "boundary",
+        "label": "Boundaries",
+        "color": "#8b5cf6"
+      }
+    ],
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "boundary",
+      "label": "Boundaries",
+      "color": "#8b5cf6"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "boundary",
+      "danger": "low",
+      "title": "State It Once, Flat",
+      "principle": "Smith: Broken Record",
+      "remember": "Say the line once. Repeat it, don't defend it.",
+      "hook": "Explaining a boundary invites negotiation of it.",
+      "theySee": "Someone calm and immovable — no argument to push against.",
+      "script": "Say it plainly: 'I'm not able to do that.' If pressed, repeat the same sentence, same tone — don't add reasons.",
+      "counter": "When someone gives you a flat 'no,' don't mine for a reason to attack — accept it or make a different request."
+    },
+    {
+      "id": 2,
+      "cat": "boundary",
+      "danger": "moderate",
+      "title": "Name the Push",
+      "principle": "Voss: Label the Pressure",
+      "remember": "Say what they're doing out loud. Pressure hates daylight.",
+      "hook": "Naming a tactic disarms it mid-swing.",
+      "theySee": "Someone who notices the squeeze and says so, without heat.",
+      "script": "Label it neutrally: 'It feels like there's some pressure to decide right now.' Then pause and let them respond.",
+      "counter": "If someone labels your move, don't deny it — acknowledge and slow down rather than pushing harder."
+    },
+    {
+      "id": 3,
+      "cat": "boundary",
+      "danger": "low",
+      "title": "Exit Is a Sentence",
+      "principle": "Cloud & Townsend: The Walkaway",
+      "remember": "A boundary with no exit is a suggestion.",
+      "hook": "The line only holds if leaving is on the table.",
+      "theySee": "Someone willing to end the conversation — so the line is real.",
+      "script": "Pre-write your exit: 'If this keeps going, I'm going to step away.' Then actually do it if the line is crossed.",
+      "counter": "When someone signals they'll walk, take it seriously — escalating only confirms their reason to leave."
+    }
+  ]
+}
