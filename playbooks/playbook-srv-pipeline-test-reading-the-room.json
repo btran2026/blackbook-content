@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "id": "srv-pipeline-test-reading-the-room",
+    "version": "1.0",
+    "title": "Pipeline Test — Reading the Room",
+    "subtitle": "Sample content used to verify server delivery.",
+    "description": "A throwaway 3-card sample published to confirm the content pipeline works end to end. Safe to delete.",
+    "author": "AI",
+    "createdAt": "2026-06-28T05:59:27.611Z",
+    "tags": [
+      "test",
+      "defense"
+    ],
+    "totalCards": 3,
+    "isSeeded": true,
+    "coverColor": "#2dd4bf",
+    "coverIcon": "🧪",
+    "generation": {
+      "topic": "reading the room",
+      "cardCount": 3,
+      "categories": [],
+      "tone": "practical"
+    },
+    "categories": [
+      {
+        "key": "read",
+        "label": "Reading People",
+        "color": "#2dd4bf"
+      }
+    ],
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "read",
+      "label": "Reading People",
+      "color": "#2dd4bf"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "read",
+      "danger": "low",
+      "title": "Baseline First",
+      "principle": "Navarro: Establish a Baseline",
+      "remember": "Watch them calm before you read them stressed.",
+      "hook": "You can't spot a tell until you know their normal.",
+      "theySee": "Someone who seems to 'just get' people — because you clocked their resting behavior before the pressure hit.",
+      "script": "Open with small talk and just observe: pace, posture, where their hands rest. That's the baseline you'll measure every later shift against.",
+      "counter": "When someone studies you early, give them a flat, even baseline — don't reveal range until you choose to."
+    },
+    {
+      "id": 2,
+      "cat": "read",
+      "danger": "low",
+      "title": "The Pause Test",
+      "principle": "Voss: Silence as Leverage",
+      "remember": "Ask, then go quiet. Let the gap pull the truth.",
+      "hook": "People fill silence with what they really think.",
+      "theySee": "A calm question followed by patience — most can't help but over-explain into the pause.",
+      "script": "Ask one clean question, then stop talking. Hold the silence three full seconds longer than feels comfortable.",
+      "counter": "If someone goes quiet on you, don't rush to fill it — mirror the pause and ask your own question back."
+    },
+    {
+      "id": 3,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "Cluster, Not Clue",
+      "principle": "Ekman: Read Clusters",
+      "remember": "One signal is noise. Three pointing the same way is data.",
+      "hook": "A single crossed arm means nothing; a pattern means everything.",
+      "theySee": "Someone hard to fool, because you wait for several signals to agree before you act.",
+      "script": "Never act on one tell. Wait for a cluster — words, face, and body all leaning the same direction — before you trust the read.",
+      "counter": "To stay unreadable, break your own clusters: let your words, face, and posture disagree."
+    }
+  ]
+}

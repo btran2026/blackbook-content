@@ -1,4 +1,19 @@
 {
-  "manifestVersion": 0,
-  "playbooks": []
+  "manifestVersion": 1,
+  "playbooks": [
+    {
+      "id": "srv-pipeline-test-reading-the-room",
+      "title": "Pipeline Test — Reading the Room",
+      "theme": "test",
+      "topic": "reading the room",
+      "cardCount": 3,
+      "contentVersion": 1,
+      "coverColor": "#2dd4bf",
+      "coverIcon": "🧪",
+      "url": "playbooks/playbook-srv-pipeline-test-reading-the-room.json",
+      "addedAt": "2026-06-28T05:59:27.611Z",
+      "minTier": "pro"
+    }
+  ],
+  "generatedAt": "2026-06-28T05:59:27.611Z"
 }
