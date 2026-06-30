@@ -1,0 +1,653 @@
+{
+  "meta": {
+    "id": "srv-black-book-spotting-manipulation",
+    "version": "1.0",
+    "title": "Black Book: Spotting Manipulation",
+    "subtitle": "12 moves for reading the room before it reads you",
+    "description": "A closed-file dossier on the tactics people use to bend conversations — and the counter-moves that defuse them before the damage is done. Read it once. You will never unhear it.",
+    "author": "AI",
+    "createdAt": "2026-06-30T16:16:24.307Z",
+    "tags": [
+      "manipulation",
+      "dark psychology",
+      "reading people",
+      "conversation",
+      "defense",
+      "influence",
+      "social dynamics"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "🕵️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting manipulation in everyday conversations",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "detection",
+      "label": "Detection",
+      "color": "#c0392b"
+    },
+    {
+      "key": "tells",
+      "label": "Live Tells",
+      "color": "#e67e22"
+    },
+    {
+      "key": "tactics",
+      "label": "Their Moves",
+      "color": "#8e44ad"
+    },
+    {
+      "key": "defense",
+      "label": "Your Counter",
+      "color": "#2980b9"
+    },
+    {
+      "key": "context",
+      "label": "Context Shifts",
+      "color": "#16a085"
+    },
+    {
+      "key": "aftermath",
+      "label": "Aftermath",
+      "color": "#2c3e50"
+    }
+  ],
+  "cards": [
+    {
+      "id": "1",
+      "cat": "detection",
+      "danger": "moderate",
+      "title": "Look for Changes, Not Fixed Traits",
+      "hook": "You cannot spot a manipulator by staring at them. You spot them by watching them <strong>change</strong>.",
+      "truth": "Most people look for the wrong thing — a liar's face, a shifty gaze — and miss the actual tell.\n• Watch how someone behaves in the first few minutes, then notice what shifts.\n• A sudden change in blink rate, posture, or tone is the real data point.\n• The trap: labeling someone 'calm' or 'nervous' and missing when that flips.",
+      "principle": "Behavioral Baseline Detection",
+      "remember": "You need a before-picture to see the change that matters.",
+      "theySee": "A person talking normally until one topic makes their blink rate jump and their hands go still.",
+      "signals": [
+        {
+          "l": "Posture shift",
+          "t": "They were leaning in and suddenly they go rigid or pull back."
+        },
+        {
+          "l": "Blink spike",
+          "t": "Their blinking speeds up the moment a specific name or topic enters the conversation."
+        },
+        {
+          "l": "Voice drop",
+          "t": "A previously loud talker goes quiet and clipped right after a question lands."
+        },
+        {
+          "l": "Topic speed",
+          "t": "They rush past one subject but slow down on everything around it."
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Set a silent baseline in the first two minutes",
+          "desc": "Note their default: how fast they talk, how much they move, where they look. Don't judge yet."
+        },
+        {
+          "n": 2,
+          "title": "Pick three probe topics and watch for deviation",
+          "desc": "Casually drop a name, a date, or a detail tied to what you want to know. Track what changes."
+        },
+        {
+          "n": 3,
+          "title": "Record your observations right after the conversation",
+          "desc": "Write down the specific shift — not 'seemed nervous' but 'blink rate doubled when the contract came up'."
+        }
+      ],
+      "script": "\"Tell me a little about how that whole thing got started.\"",
+      "counter": "Someone is doing this to you when they open easy and then deliberately drop a charged name to watch you react.\n• Notice if they steer to a sensitive topic right after you relax.\n• Say nothing extra. Let the silence sit.\n• Give them less data: keep your voice flat and your body still.",
+      "insight": "The harder part is that you are always being baselined too — the question is who started first."
+    },
+    {
+      "id": "2",
+      "cat": "tells",
+      "danger": "low",
+      "title": "They Move Away from the Original Point",
+      "hook": "The argument started about the money. Now somehow <strong>you are the problem</strong>.",
+      "truth": "Topic-switching mid-conflict is not confusion — it is a deliberate move to avoid losing ground.\n• Shifting topics forces you to defend yourself instead of pressing your original point.\n• You feel off-balance because the conversation's rules just changed without notice.\n• The trap: you follow the new topic and the original issue dies unsolved.",
+      "principle": "Conversation Control: Topic Drift",
+      "remember": "When they change the subject mid-fight, the subject they left was the real one.",
+      "theySee": "A person who came in with a clear complaint now defending their own character instead.",
+      "signals": [
+        {
+          "l": "Subject jump",
+          "t": "They switch from the original problem to your tone, your past, or your personality."
+        },
+        {
+          "l": "Attack pivot",
+          "t": "They say 'you always do this' the moment you get close to a real answer."
+        },
+        {
+          "l": "Shutdown line",
+          "t": "They say 'I don't have to listen to this' before any resolution is reached."
+        },
+        {
+          "l": "History drag",
+          "t": "An unrelated old conflict gets pulled into the current one to dilute focus."
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Write the original point on paper before the conversation",
+          "desc": "One sentence. This is your anchor. If you drift from it, you know you were moved."
+        },
+        {
+          "n": 2,
+          "title": "Name the switch out loud the moment it happens",
+          "desc": "Say: 'We were talking about X. I want to finish that before we talk about Y.'"
+        },
+        {
+          "n": 3,
+          "title": "Refuse to follow the new topic until the first one closes",
+          "desc": "Repeat your original point once, plainly. Stop adding new arguments. Hold position."
+        }
+      ],
+      "script": "\"I want to come back to what we were talking about before — we haven't finished that yet.\"",
+      "counter": "Someone does this to you when you naturally chase each new topic they introduce.\n• Notice if you have no memory of how the conversation moved from A to B.\n• Say: 'Hold on — what were we actually trying to solve?'\n• Write down the original topic next time so they cannot erase it.",
+      "insight": "The person who controls which topic is 'active' controls who is winning — the original issue never comes back on its own."
+    },
+    {
+      "id": "3",
+      "cat": "tactics",
+      "danger": "high",
+      "title": "Guilt-Tripping Disguised as a Feeling Statement",
+      "hook": "They are not sharing their pain. <strong>They are using it as a weapon.</strong>",
+      "truth": "Guilt-tripping looks like vulnerability because it uses emotional language — but its goal is compliance, not connection.\n• The statement is designed so that disagreeing makes you the villain.\n• You feel responsible for their pain even when you caused none of it.\n• The trap: apologizing signals that the move worked, so it will come again.",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Real feelings ask for nothing. Guilt trips ask for a specific thing.",
+      "theySee": "A person softening and apologizing before they even know what they did wrong.",
+      "signals": [
+        {
+          "l": "Vague wound",
+          "t": "They describe feeling hurt but cannot name a specific thing you did."
+        },
+        {
+          "l": "Pause for effect",
+          "t": "They say 'never mind' or go silent right after the statement, waiting for you to fill it."
+        },
+        {
+          "l": "Escalation ready",
+          "t": "When you don't apologize fast enough, the injury suddenly gets worse."
+        },
+        {
+          "l": "Audience present",
+          "t": "The statement is made in front of others to increase your social cost of not complying."
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Ask them to name the specific action, not the feeling",
+          "desc": "'What exactly did I do?' Forces them to move from emotion to evidence. Watch what happens."
+        },
+        {
+          "n": 2,
+          "title": "Separate the feeling from the demand",
+          "desc": "Acknowledge that they feel bad. Do not agree that you caused it until specifics are on the table."
+        },
+        {
+          "n": 3,
+          "title": "Give a flat, non-escalating reply and stop talking",
+          "desc": "'I hear that you feel that way.' Then wait. Do not fill the silence with apologies."
+        }
+      ],
+      "script": "\"I hear you. What specifically did I do that caused that?\"",
+      "counter": "You are being guilt-tripped when you feel bad but cannot name what you did wrong.\n• Notice if the 'feeling' comes with an implied ask attached.\n• Ask for the specific action. Vague wounds have no specific cause on purpose.\n• Refuse the apology until the specifics exist. Apologizing first trains them to repeat the move.",
+      "insight": "The move only works if you care about being seen as a good person — which means the people most likely to be targeted are also the least likely to resist."
+    },
+    {
+      "id": "4",
+      "cat": "tactics",
+      "danger": "high",
+      "title": "Gaslighting: Rewriting What Just Happened",
+      "hook": "You remember it clearly. They say it never happened. <strong>One of you is lying, and it is not you.</strong>",
+      "truth": "Gaslighting works because memory is genuinely imperfect — the manipulator uses your self-doubt as the entry point.\n• They deny, minimize, or reframe past events until you question your own account.\n• Each successful rewrite makes the next one easier — you are already doubting yourself.\n• The trap: the more you try to prove your memory, the more you seem obsessed.",
+      "principle": "Gaslighting: Reality Distortion",
+      "remember": "If you felt it happen, write it down the same day. Paper does not forget.",
+      "theySee": "A person pulling out their phone to show a text that proves what they said — and watching the other person's certainty collapse.",
+      "signals": [
+        {
+          "l": "Flat denial",
+          "t": "They say 'that never happened' with total calm, no hesitation."
+        },
+        {
+          "l": "Emotion attack",
+          "t": "They say 'you're overreacting' or 'you're too sensitive' before engaging with the content."
+        },
+        {
+          "l": "Memory blame",
+          "t": "They suggest your memory is bad, you were drunk, or you misunderstood — repeatedly."
+        },
+        {
+          "l": "Witness erase",
+          "t": "They claim no one else remembers it that way either, without checking."
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Start a private log today",
+          "desc": "After any conversation that felt wrong, write the date, what was said, and what you felt. Keep it somewhere they cannot access."
+        },
+        {
+          "n": 2,
+          "title": "Name the pattern, not the single incident",
+          "desc": "One incident is easy to deny. A dated list of five identical incidents is not."
+        },
+        {
+          "n": 3,
+          "title": "Bring a third-party witness to recurring conversations",
+          "desc": "A phone on record or a trusted person present removes 'it never happened' from the table."
+        }
+      ],
+      "script": "\"I wrote it down that day. Here's exactly what was said.\"",
+      "counter": "You are being gaslighted when you leave conversations less certain than when you entered them.\n• Notice if you always feel confused after talking to this one specific person.\n• Trust your written record over their verbal revision.\n• Stop arguing your memory against theirs — show evidence, then go quiet.",
+      "insight": "The real damage is not the single lie — it is the slow habit of checking your own thoughts before you trust them."
+    },
+    {
+      "id": "5",
+      "cat": "tactics",
+      "danger": "moderate",
+      "title": "Invalidating Your Feelings to Kill the Conversation",
+      "hook": "They do not argue with what you said. <strong>They argue with the fact that you feel it.</strong>",
+      "truth": "Calling your emotions an overreaction is a move to shut down any conversation before it produces accountability.\n• If your feelings are 'too big', your complaint becomes illegitimate before it's heard.\n• The topic dies because you are now defending your emotional proportionality, not your point.\n• The trap: explaining why your feelings are reasonable hands them the wheel.",
+      "principle": "Minimization: Emotional Invalidation",
+      "remember": "Defending how you feel is a trap. State what happened and stay there.",
+      "theySee": "A person who came in upset now arguing about whether they have the right to be upset at all.",
+      "signals": [
+        {
+          "l": "Scale question",
+          "t": "They say 'why are you making such a big deal out of this?' before hearing you out."
+        },
+        {
+          "l": "Proportion attack",
+          "t": "They say 'that's an overreaction' without stating what the correct reaction would be."
+        },
+        {
+          "l": "Redirect to them",
+          "t": "They shift from your feelings to how your feelings make them feel."
+        },
+        {
+          "l": "Eye roll",
+          "t": "Physical dismissal — sigh, eye roll, or walking away — while you are mid-sentence."
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Separate your feeling from your claim before you speak",
+          "desc": "Prepare one factual sentence: 'On Tuesday you said X.' Lead with the fact, not the feeling."
+        },
+        {
+          "n": 2,
+          "title": "Refuse to debate the size of the feeling",
+          "desc": "If they call it an overreaction, say 'Maybe. What I need to talk about is what happened.' Return to the fact."
+        },
+        {
+          "n": 3,
+          "title": "Name what you need, not what you felt",
+          "desc": "'I need you to not do X again.' A need is harder to invalidate than an emotion."
+        }
+      ],
+      "script": "\"Whether or not the reaction is big, the thing that happened is real. Here's what it was.\"",
+      "counter": "This move is being used on you when you find yourself justifying your right to feel something instead of discussing what caused it.\n• Notice the redirect: from event to emotion-size.\n• Drop the feeling entirely. State the event in one sentence. Hold the line.\n• If they keep attacking the feeling, say 'I'm not debating that. I'm talking about what happened.'",
+      "insight": "The smarter move after this one is asking what they get out of a conversation where your feelings are always the wrong size."
+    },
+    {
+      "id": "6",
+      "cat": "tactics",
+      "danger": "moderate",
+      "title": "Normalizing Bad Behavior Until You Stop Noticing It",
+      "hook": "It started small. Now you cannot remember <strong>what normal used to feel like.</strong>",
+      "truth": "Normalization works slowly — each accepted incident raises the floor for what counts as a problem.\n• They do not need you to agree it's fine; they just need you to not react this time.\n• Once something is normal, objecting to it looks like the strange move.\n• The trap: by the time you notice the pattern, you have already accepted it for months.",
+      "principle": "Normalization: Incremental Tolerance Drift",
+      "remember": "If you have to explain to yourself why this is okay, it probably is not.",
+      "theySee": "A person who used to object to something nodding along quietly the tenth time it happens.",
+      "signals": [
+        {
+          "l": "Private excuse",
+          "t": "You find yourself explaining to yourself why their behavior is fine this time."
+        },
+        {
+          "l": "Friend surprise",
+          "t": "A friend who hasn't seen you in a while looks shocked by something you now treat as routine."
+        },
+        {
+          "l": "Memory gap",
+          "t": "You cannot recall what you expected from this person before things changed."
+        },
+        {
+          "l": "Default apology",
+          "t": "You apologize automatically when they are unhappy, without knowing what you did."
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Write what you expected from this relationship six months ago",
+          "desc": "One paragraph. Compare it to what you accept today. The gap is the normalization map."
+        },
+        {
+          "n": 2,
+          "title": "Ask one person outside the relationship what they observe",
+          "desc": "Pick someone with no stake in the answer. Their surprise is data."
+        },
+        {
+          "n": 3,
+          "title": "Name one thing you stopped objecting to and object to it once",
+          "desc": "Say it plainly. Watch their reaction. That reaction tells you everything about the dynamic."
+        }
+      ],
+      "script": "\"I used to say something when this happened. I want to say something now.\"",
+      "counter": "You are being normalized when you catch yourself explaining a behavior to yourself before anyone asks.\n• Notice if your private self-talk includes the words 'it's not that bad.'\n• Find the original expectation — not the current one — and measure from there.\n• One clean objection breaks the pattern. The discomfort you feel doing it is the proof it was working.",
+      "insight": "The move that follows normalization is isolation — because once you accept what no one outside would accept, the people outside start to look like the problem."
+    },
+    {
+      "id": "7",
+      "cat": "context",
+      "danger": "high",
+      "title": "Context Switching: Making You Do Something You Would Not Normally Do",
+      "hook": "You did not change your mind. <strong>They changed the room you were standing in.</strong>",
+      "truth": "People do not have fixed behavior — they have behavior that fits what they think is happening around them. Change the story around them and the behavior changes too.\n• A manipulator does not argue you into compliance; they rebuild the situation until compliance looks obvious.\n• The new context makes the action feel normal — even if it would have been unthinkable minutes before.\n• The trap: you feel you chose freely because no one forced you.",
+      "principle": "Context Manipulation: Permission Shift",
+      "remember": "Ask yourself: would I do this if the story they told me were not true?",
+      "theySee": "A person agreeing to something they would have flat refused if asked directly at the start.",
+      "signals": [
+        {
+          "l": "Story first",
+          "t": "They give you a long setup before making the ask — the story is doing the work."
+        },
+        {
+          "l": "Urgency add",
+          "t": "They add time pressure to close the window for thinking it through."
+        },
+        {
+          "l": "Identity frame",
+          "t": "They say 'someone like you would understand' or 'you're the only one I trust with this.'"
+        },
+        {
+          "l": "Incremental yes",
+          "t": "They get three small agreements before the real ask arrives."
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Strip the story and look at the raw ask",
+          "desc": "Remove everything they said and write the ask in one plain sentence. Would you say yes to that sentence alone?"
+        },
+        {
+          "n": 2,
+          "title": "Introduce a 24-hour gap before agreeing",
+          "desc": "Say 'I need a day to think about this.' Watch how they react to the pause. Urgency is usually fake."
+        },
+        {
+          "n": 3,
+          "title": "Check the ask against your standing rules",
+          "desc": "What would you have said before this conversation started? If the answer changed, find out why."
+        }
+      ],
+      "script": "\"Let me think about that separately from everything else you just told me.\"",
+      "counter": "This move is running on you when you agree and then feel confused about how you got there.\n• Strip the context: what is the actual thing they asked for?\n• Introduce time. Manipulators built the context fast because it dissolves fast.\n• If the ask only makes sense inside their story, the story was the manipulation.",
+      "insight": "The more elaborate the setup, the simpler the ask usually is — and the simpler the ask, the more embarrassing it is to have needed that much setup to say yes to it."
+    },
+    {
+      "id": "8",
+      "cat": "detection",
+      "danger": "low",
+      "title": "Spot Who Relaxes and Who Controls in Any Conversation",
+      "hook": "Look at two people talking from across a room. <strong>You can see who is running it without hearing a word.</strong>",
+      "truth": "Body language does not lie in isolation — it leaks when someone is working to hold a position instead of just being in one.\n• The person with more control is usually more relaxed; the other person is working harder.\n• Watch for asymmetry: one person moves freely, the other mirrors or freezes.\n• The trap: the most controlled-looking person is sometimes the most afraid — stillness is not always power.",
+      "principle": "Status Asymmetry: Body-State Dominance",
+      "remember": "Relaxed is running the conversation. Stiff is reacting to it.",
+      "theySee": "A manager leaning back with their hands open while the employee sits forward, nodding hard.",
+      "signals": [
+        {
+          "l": "Open hands",
+          "t": "The dominant person's hands are open and still; the other person's hands are gripping or hiding."
+        },
+        {
+          "l": "Lean difference",
+          "t": "One person leans back, the other leans in — the leaner-in is trying harder."
+        },
+        {
+          "l": "Nod gap",
+          "t": "One person nods constantly; the other barely does."
+        },
+        {
+          "l": "Eye break",
+          "t": "The less powerful person breaks eye contact first, every time."
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Watch a conversation you are not in for two minutes",
+          "desc": "Pick any pair — a café, a meeting. Note who moves freely and who adjusts to the other."
+        },
+        {
+          "n": 2,
+          "title": "Check your own body in your next hard conversation",
+          "desc": "Notice if you are leaning in, nodding, or freezing. That is your submission signal showing."
+        },
+        {
+          "n": 3,
+          "title": "Slow your own movement by half in the next tense exchange",
+          "desc": "Move less. Pause longer before answering. Watch the dynamic shift without a word."
+        }
+      ],
+      "script": "\"Take your time. I'm not in a rush.\"",
+      "counter": "Someone is reading your body state when they test you with a pause and watch how fast you fill it.\n• Notice if you always speak first after silence — that is a tell they are collecting.\n• Let silences run three beats longer than is comfortable. Collect their fill instead.\n• Your stillness costs them information. Give them less.",
+      "insight": "The person who learns to be comfortable doing nothing in a tense moment has a tool most people in that room do not have — and most will never practice it."
+    },
+    {
+      "id": "9",
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Go Flat When They Bait You for a Reaction",
+      "hook": "They said it to get a response. <strong>The response is the point. Don't give it.</strong>",
+      "truth": "Emotional bait works because social pressure makes non-reaction feel rude or weak — the manipulator uses your politeness against you.\n• Reacting emotionally gives them control of your next move before you make it.\n• A flat, neutral response removes their bid for power without creating conflict.\n• The trap: grey-rocking feels passive. It is not. It is the move with the most control.",
+      "principle": "Grey Rock Method: Emotional Deprivation",
+      "remember": "Boring is a weapon. Use it when they want a scene.",
+      "theySee": "A person who expected an argument getting a one-word answer and a blank face.",
+      "signals": [
+        {
+          "l": "Provocative claim",
+          "t": "They say something designed to offend, exaggerate, or shock — and then wait."
+        },
+        {
+          "l": "Audience scan",
+          "t": "They glance around to see who noticed your reaction."
+        },
+        {
+          "l": "Repeat escalate",
+          "t": "When you don't react, they repeat the statement louder or add more detail."
+        },
+        {
+          "l": "Long pause",
+          "t": "They go silent right after the bait, waiting for you to break first."
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Prepare one flat phrase for the next bait attempt",
+          "desc": "Pick something short: 'Noted.' or 'Okay.' Practice saying it without affect. The flatness is the move."
+        },
+        {
+          "n": 2,
+          "title": "Keep your body still when you deliver it",
+          "desc": "No eye roll, no sigh, no crossed arms. Flat face, flat tone, flat body."
+        },
+        {
+          "n": 3,
+          "title": "Exit the exchange within 30 seconds after the flat reply",
+          "desc": "Change subject, leave the room, or go silent. Give them nothing to work with next."
+        }
+      ],
+      "script": "\"Noted.\"",
+      "counter": "You are being grey-rocked when someone gives you nothing emotionally and you feel strangely compelled to fill the gap.\n• Notice the pull to say more, explain more, or get a reaction from them.\n• That pull is manufactured. They are making you do the emotional work.\n• Stay in the discomfort. The person who speaks first after a flat answer loses the exchange.",
+      "insight": "The harder part of this move is sitting with how it feels to not be understood — because 'boring' to a manipulator looks a lot like 'cold' to everyone else watching."
+    },
+    {
+      "id": "10",
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Name What Is Happening Out Loud, To Yourself First",
+      "hook": "Before you respond, you need to know what you are responding <strong>to</strong>.",
+      "truth": "Most people react to the emotion in the room instead of the move that created it — which is exactly what the manipulator needs.\n• Naming the tactic internally first separates your emotional reaction from your chosen response.\n• You can feel angry and still choose a flat, controlled reply — but only if you catch the move first.\n• The trap: naming it out loud too fast turns into accusation and derails the conversation.",
+      "principle": "Metacognitive Defense: Internal Labeling",
+      "remember": "Name what they did in your head before you open your mouth.",
+      "theySee": "A person who takes a visible breath and pauses for two seconds before answering — and whose answer lands clean.",
+      "signals": [
+        {
+          "l": "Your chest tightens",
+          "t": "Physical signal that something just happened in the conversation that hit you."
+        },
+        {
+          "l": "You feel defensive",
+          "t": "You want to explain yourself before they finish their sentence."
+        },
+        {
+          "l": "You feel guilty",
+          "t": "You feel bad but cannot immediately name what you did wrong."
+        },
+        {
+          "l": "You want to flee",
+          "t": "You are looking for a way to end the conversation fast, on any terms."
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Build a private shortlist of the moves in this dossier",
+          "desc": "Write the names: guilt trip, topic drift, bait, gaslighting. Carry it. Recognition is faster when you have the words."
+        },
+        {
+          "n": 2,
+          "title": "When something hits you, pause and name it silently",
+          "desc": "'That was a guilt trip.' Say nothing out loud yet. Let the label do its work inside."
+        },
+        {
+          "n": 3,
+          "title": "Choose your reply only after the label is in place",
+          "desc": "Now you are responding to the move, not to the feeling the move created. Those are different conversations."
+        }
+      ],
+      "script": "\"Give me a second.\"",
+      "counter": "Someone is counting on you reacting before you think when they deliver the move fast and loud.\n• Notice if speed and volume are part of the delivery — that is the pressure tactic.\n• 'Give me a second' is not weakness. It is the move that costs them the most.\n• The pause is where your advantage lives.",
+      "insight": "The next harder question is whether you can name the move without feeling like you are being paranoid — because the people who resist best are often the ones who got called paranoid first."
+    },
+    {
+      "id": "11",
+      "cat": "aftermath",
+      "danger": "high",
+      "title": "Set a Line and Keep It When They Test It",
+      "hook": "They did not miss the line the first time. <strong>They tested it.</strong>",
+      "truth": "Manipulators treat limits as negotiating positions — they push to find out what yours actually are, not what you said they were.\n• A limit that has no result attached to it is just a preference. They know this.\n• The first test is always low-stakes. The real move comes after you let the first one slide.\n• The trap: explaining why the limit exists gives them material to argue against.",
+      "principle": "Loss Aversion: Consequence Credibility",
+      "remember": "A limit with no result behind it is not a limit. It is an invitation.",
+      "theySee": "A person who said something clearly and then, when it was ignored, said nothing — which told them everything.",
+      "signals": [
+        {
+          "l": "Small test",
+          "t": "They push a minor version of the behavior right after you stated your position."
+        },
+        {
+          "l": "Waiting silence",
+          "t": "They go quiet after the test, watching whether you enforce or ignore."
+        },
+        {
+          "l": "Apology loop",
+          "t": "They apologize but repeat the behavior within days — the apology was a stall."
+        },
+        {
+          "l": "Escalation after peace",
+          "t": "The behavior gets bigger right after a period of calm — they were checking if you forgot."
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Name the result before the next conversation, not during it",
+          "desc": "Decide in writing what you will do if the line is crossed. The decision made in advance is the only one you will actually follow."
+        },
+        {
+          "n": 2,
+          "title": "When the test comes, apply the result without explaining it",
+          "desc": "Do the thing you said you would do. Do not justify it. Explanation invites negotiation."
+        },
+        {
+          "n": 3,
+          "title": "Do not reset to warm after the result",
+          "desc": "Warmth right after enforcement signals the result is temporary. Hold the new normal for at least 48 hours."
+        }
+      ],
+      "script": "\"I said what would happen if this happened again. That still stands.\"",
+      "counter": "Someone is testing your lines when they do the exact thing you objected to, just smaller, right after you said it.\n• Notice the 'small version' test. It is not an accident.\n• Apply your result to the small version. Missing the small test teaches them the limit is not real.\n• The person who enforces early enforces less often — because the tests stop.",
+      "insight": "The move that follows is the relationship renegotiation — because once you enforce, they have to decide if they want the dynamic that remains, and so do you."
+    },
+    {
+      "id": "12",
+      "cat": "aftermath",
+      "danger": "extreme",
+      "title": "When Every Conversation Leaves You More Confused Than Before",
+      "hook": "You went in with a clear head. You came out not sure what just happened. <strong>That is a pattern, not a coincidence.</strong>",
+      "truth": "Consistent confusion after talking to one specific person is diagnostic — it means the conversations are being managed, not shared.\n• Healthy disagreement makes things clearer over time, even when it hurts.\n• If clarity only comes when you are away from them, the confusion is being manufactured.\n• The trap: you assume the problem is your understanding, not their management of it.",
+      "principle": "Gaslighting: Cumulative Disorientation",
+      "remember": "One bad conversation is a bad day. Always confused around one person is a system.",
+      "theySee": "A person who calls a friend after every conversation with someone, trying to figure out what was actually said.",
+      "signals": [
+        {
+          "l": "Post-talk call",
+          "t": "You consistently need to debrief with a third person to understand what just happened."
+        },
+        {
+          "l": "Clarity gap",
+          "t": "You feel clearer and more certain when they are not in the room."
+        },
+        {
+          "l": "Memory mismatch",
+          "t": "Your account of the conversation and theirs are consistently, not occasionally, different."
+        },
+        {
+          "l": "Dread before",
+          "t": "You feel anxious before talking to them, not because of the topic but because of them."
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Track your mental state before and after ten conversations with this person",
+          "desc": "Rate clarity out of ten before and after. Do it in writing, same day. Ten data points do not lie."
+        },
+        {
+          "n": 2,
+          "title": "Share your log with one trusted person outside the dynamic",
+          "desc": "Not to get permission — to test whether someone else sees the pattern you are starting to name."
+        },
+        {
+          "n": 3,
+          "title": "Have one conversation with the goal of leaving more clear, not more resolved",
+          "desc": "Pick a low-stakes topic. Watch whether clarity is even possible with them. That answer is the real one."
+        }
+      ],
+      "script": "\"I need to think about this on my own before I respond.\"",
+      "counter": "Someone is doing this to you deliberately when they vary the story based on who is in the room.\n• Notice if their account of events changes depending on the audience.\n• Your written log is the counter-move. It does not change based on audience.\n• The day you stop needing to debrief after every conversation is the day the pattern has broken — one way or another.",
+      "insight": "The hardest thing to accept is that sustained confusion is not a communication problem you can solve by communicating better — and the next move is deciding what to do with that."
+    }
+  ]
+}
