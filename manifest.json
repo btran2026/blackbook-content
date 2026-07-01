@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 3,
+  "manifestVersion": 4,
   "playbooks": [
     {
       "id": "srv-pipeline-test-reading-the-room",
@@ -39,7 +39,20 @@
       "url": "playbooks/playbook-srv-black-book-spot-the-move.json",
       "addedAt": "2026-06-28T08:23:41.493Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-read-the-room",
+      "title": "Read the Room",
+      "theme": "manipulation",
+      "topic": "Spotting manipulation in everyday conversations",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "🎭",
+      "url": "playbooks/playbook-srv-read-the-room.json",
+      "addedAt": "2026-07-01T16:16:43.978Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-06-28T08:23:41.493Z"
+  "generatedAt": "2026-07-01T16:16:43.978Z"
 }
