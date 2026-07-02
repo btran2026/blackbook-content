@@ -1,0 +1,695 @@
+{
+  "meta": {
+    "id": "srv-manipulation-spotter",
+    "version": "1.0",
+    "title": "Manipulation Spotter",
+    "subtitle": "Read the moves before they land",
+    "description": "12 cards covering how manipulation works in real conversations — the triggers, the tells, the tactics, and how to shut each one down cold.",
+    "author": "AI",
+    "createdAt": "2026-07-02T16:01:36.378Z",
+    "tags": [
+      "manipulation",
+      "dark psychology",
+      "conversation",
+      "defense",
+      "reading people",
+      "influence"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "🕵️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting manipulation in everyday conversations",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "detection",
+      "label": "Detection",
+      "color": "#c0392b"
+    },
+    {
+      "key": "tactics",
+      "label": "Their Tactics",
+      "color": "#8e44ad"
+    },
+    {
+      "key": "defense",
+      "label": "Defense Moves",
+      "color": "#2980b9"
+    },
+    {
+      "key": "body",
+      "label": "Body & Voice",
+      "color": "#16a085"
+    },
+    {
+      "key": "aftermath",
+      "label": "Aftermath",
+      "color": "#d35400"
+    }
+  ],
+  "cards": [
+    {
+      "id": "1",
+      "cat": "detection",
+      "danger": "moderate",
+      "title": "Watch for Changes, Not Just Highs and Lows",
+      "hook": "You can't spot a liar by looking for nervous behavior. <strong>You spot them by watching what just changed.</strong>",
+      "truth": "Most people look for a fixed tell — a twitch, a look away — and miss the real signal.\n• Manipulators often have naturally high or low blink rates. Change is the tell, not the number.\n• A shift mid-conversation marks the exact moment the stakes went up for them.\n• Lock in their baseline in the first two minutes. Everything after is a comparison.",
+      "principle": "Behavioral Baseline Shift",
+      "remember": "Baseline first. Everything else is just noise.",
+      "theySee": "A person making normal eye contact and talking at a steady pace, then suddenly going still when one specific topic comes up.",
+      "signals": [
+        {
+          "l": "Blink rate jumps",
+          "t": "Their eyes start blinking faster right after a specific question lands.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Voice drops",
+          "t": "They were speaking at normal volume and their voice goes quieter on one sentence.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Posture tightens",
+          "t": "Shoulders pull in or they cross their arms where they didn't before.",
+          "icon": "🧍"
+        },
+        {
+          "l": "Pause appears",
+          "t": "A pause shows up where they were previously answering without hesitation.",
+          "icon": "⏸️"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Open with neutral topics",
+          "desc": "Spend the first two minutes on low-stakes talk — weather, the project, anything easy. You are recording their normal speed, pitch, and eye contact."
+        },
+        {
+          "n": 2,
+          "title": "Introduce the real topic once",
+          "desc": "Bring up the thing you actually want to test. Say it once, flatly. Do not telegraph that you are watching."
+        },
+        {
+          "n": 3,
+          "title": "Name the change internally",
+          "desc": "The moment something shifts — pace, posture, blink rate — note it silently. Do not react. File it. That shift is your data point."
+        }
+      ],
+      "script": "\"So before we get into the budget thing — how'd the client call go this morning?\" (Baseline established. Now pivot.)",
+      "counter": "If someone is running this on you, your baseline is being read right now.\n• Notice if the conversation started unusually casual before suddenly turning serious.\n• Keep your pace and posture steady regardless of topic — don't let the pivot move you.\n• Ask directly: \"What are you actually trying to find out here?\"",
+      "insight": "The harder part is holding your own baseline steady while you read theirs. Most people bleed tells the moment they start watching for tells."
+    },
+    {
+      "id": "2",
+      "cat": "tactics",
+      "danger": "high",
+      "title": "Confusion as a Weapon — They Talk in Circles on Purpose",
+      "hook": "If you can't remember how the argument started, <strong>that's the point.</strong> You were moved off your ground deliberately.",
+      "truth": "The most common manipulation move in a hard conversation is not aggression — it is manufactured confusion.\n• Circular talk exhausts you and makes your original point feel too small to retrieve.\n• Vague phrases like \"it's just common sense\" signal the person has no real answer but won't admit it.\n• Once you are confused, you stop pushing — exactly what they wanted.",
+      "principle": "Weaponized Ambiguity",
+      "remember": "If you forgot what you were arguing, someone helped you forget it.",
+      "theySee": "A person in a heated conversation who keeps saying \"we already went over this\" while the original issue disappears.",
+      "signals": [
+        {
+          "l": "Circles back again",
+          "t": "The conversation keeps returning to the same vague starting point without resolution.",
+          "icon": "🔄"
+        },
+        {
+          "l": "No specific time",
+          "t": "They say \"we already talked about this\" but cannot name when or where.",
+          "icon": "📅"
+        },
+        {
+          "l": "\"Common sense\" used",
+          "t": "They say \"it's just obvious\" or \"anyone would know this\" instead of explaining.",
+          "icon": "🤷"
+        },
+        {
+          "l": "Your point vanishes",
+          "t": "You opened with a clear complaint and now you can't remember what it was.",
+          "icon": "💨"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Write your point down before the conversation",
+          "desc": "One sentence. The specific thing you need addressed. Keep it visible to you. This is your anchor."
+        },
+        {
+          "n": 2,
+          "title": "Name the circle when you see it",
+          "desc": "Say out loud: \"We keep coming back to the same place. I want to stay on my original question.\" Then repeat your one sentence."
+        },
+        {
+          "n": 3,
+          "title": "Stop when confusion peaks",
+          "desc": "The moment you feel totally lost, pause the conversation. Say you need a minute. Confusion at peak is when bad agreements get made."
+        }
+      ],
+      "script": "\"I noticed we've moved away from my original question. I want to go back to it: did you tell them the deal was closed before we agreed on it?\"",
+      "counter": "Someone is doing this to you when you feel mentally tired fifteen minutes into a conversation that should have been simple.\n• Notice if your original question has not been answered once, only reframed.\n• Write the question on paper. Show it. Force the answer to be about that one thing.\n• Say: \"Before we go further — answer this one thing first.\"",
+      "insight": "Circular talkers are usually lower on patience, not higher on strategy. The next question is whether their confusion is a tactic or a symptom — because the counter move is different each time."
+    },
+    {
+      "id": "3",
+      "cat": "tactics",
+      "danger": "high",
+      "title": "Gaslighting — They Deny What You Clearly Heard or Saw",
+      "hook": "They didn't forget what they said. <strong>They are betting you'll doubt yourself before they do.</strong>",
+      "truth": "Gaslighting is slow. It works by making you the unreliable narrator of your own life.\n• Small denials stack up over weeks until you automatically check with them before trusting your own memory.\n• The move targets people who already second-guess themselves — empathy becomes the entry point.\n• The tell: you find yourself apologizing for things you are certain you did not do.",
+      "principle": "Wang: Mental Manipulation",
+      "remember": "If you keep apologizing but can't name what you did wrong, something is off.",
+      "theySee": "A partner or coworker saying \"I never said that\" with total calm while the other person visibly doubts their own memory.",
+      "signals": [
+        {
+          "l": "You apologize first",
+          "t": "You say sorry before you even know what happened, just to stop the discomfort.",
+          "icon": "🙏"
+        },
+        {
+          "l": "Memory questioned",
+          "t": "They say \"that's not what happened\" with confidence and you immediately back down.",
+          "icon": "🧠"
+        },
+        {
+          "l": "Always your fault",
+          "t": "Every argument ends with you being the problem, even when you called the issue.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Words twisted",
+          "t": "You say \"I was upset\" and they turn it into \"you're always starting fights.\"",
+          "icon": "🌀"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Start a private log today",
+          "desc": "Write down what was said, who said it, and the date. One sentence per incident. This protects your memory from being rewritten."
+        },
+        {
+          "n": 2,
+          "title": "Say the disputed fact flatly",
+          "desc": "Do not ask \"am I remembering right?\" — that hands them the rewrite. Say: \"On Tuesday you said X. I wrote it down.\""
+        },
+        {
+          "n": 3,
+          "title": "Get an outside read",
+          "desc": "Name one person outside this relationship you trust. Tell them three specific incidents. Their reaction is your reality check."
+        }
+      ],
+      "script": "\"I'm not debating my memory on this. I wrote it down the same day. You said the meeting was cancelled by you, not me.\"",
+      "counter": "If someone is logging incidents and citing exact quotes to you, check whether your pattern has been denial-as-default.\n• Notice if you say \"that's not what happened\" automatically, before thinking.\n• Pause and actually check your own memory — is it possible they're right?\n• Ask: \"What specifically do you remember me saying?\" and listen without interrupting.",
+      "insight": "Gaslighting is the manipulation that survives longest because the person being gaslighted is also doing the work of maintaining it. The harder part is that stopping it requires trusting yourself more than the relationship — and most people won't go there."
+    },
+    {
+      "id": "4",
+      "cat": "tactics",
+      "danger": "moderate",
+      "title": "Guilt-Tripping — They Make You Feel Responsible for Their Feelings",
+      "hook": "They don't ask for what they want. <strong>They make you feel like a bad person for not already giving it.</strong>",
+      "truth": "Guilt-tripping skips the request and goes straight to punishment. It works because most people will do almost anything to stop feeling guilty.\n• The move replaces a direct ask with a performance of suffering that puts the cost of saying no on you.\n• Empathetic people are the best targets because they feel the guilt fast and question it slowly.\n• The signal: you gave them what they wanted and still felt bad afterward.",
+      "principle": "Cialdini: Reciprocity — Corrupted",
+      "remember": "They didn't ask. They performed. Those are different things.",
+      "theySee": "A friend sighing heavily and saying \"no, it's fine, don't worry about me\" after you said you can't help them this weekend.",
+      "signals": [
+        {
+          "l": "\"It's fine\" said cold",
+          "t": "They say they're fine in a tone that means they are clearly not fine.",
+          "icon": "🥶"
+        },
+        {
+          "l": "Your sacrifice listed",
+          "t": "They remind you of something they did for you before telling you what they need now.",
+          "icon": "📋"
+        },
+        {
+          "l": "Suffering visible",
+          "t": "They make their pain impossible to miss right after you said no.",
+          "icon": "😔"
+        },
+        {
+          "l": "Still bad after yes",
+          "t": "You agreed to help and you still felt guilty thirty minutes later.",
+          "icon": "😟"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Name the missing request",
+          "desc": "Internally note: they haven't asked for anything directly. They have only shown you that they are unhappy. These are not the same move."
+        },
+        {
+          "n": 2,
+          "title": "Ask for the direct ask",
+          "desc": "Say: \"What do you actually need from me right now?\" Force the request into the open where it can be evaluated on its own terms."
+        },
+        {
+          "n": 3,
+          "title": "Separate their feelings from your decision",
+          "desc": "Write: \"Their feeling\" on one side, \"my decision\" on the other. You can care about the feeling and still say no to the request."
+        }
+      ],
+      "script": "\"I can see you're disappointed. What specifically do you need from me?\"",
+      "counter": "If someone asks \"what specifically do you need?\" after your sigh, they've clocked the move.\n• Notice if you use silence or sadness instead of a direct ask — and ask yourself why.\n• Name what you actually want out loud. The direct ask is less powerful, but it's honest.\n• If your real goal is to make them feel bad, not get help, you're in punishment territory — not communication.",
+      "insight": "The people who guilt-trip best are the ones who genuinely feel the pain they're performing. That's what makes it hard to call — and what makes a direct ask feel safer for everyone."
+    },
+    {
+      "id": "5",
+      "cat": "tactics",
+      "danger": "high",
+      "title": "Topic Switching — They Escape Accountability by Changing the Subject",
+      "hook": "You raised one clear issue. Now you're defending your whole history. <strong>They moved the field while you were talking.</strong>",
+      "truth": "Topic switching turns a conversation about one specific thing into a referendum on who you are.\n• The move pulls in old grievances the moment the current one is getting too close to a real answer.\n• The target ends up defending themselves on five fronts instead of one and forgets the original question.\n• Every conversation ending in \"you always\" or \"you never\" is almost certainly a topic switch in progress.",
+      "principle": "Deflection Through Expansion",
+      "remember": "One issue at a time. That's the rule they broke.",
+      "theySee": "A person raising a billing error with their boss and suddenly defending why they were late twice last month.",
+      "signals": [
+        {
+          "l": "Past pulled in",
+          "t": "You raised something current and they responded with something from three months ago.",
+          "icon": "📆"
+        },
+        {
+          "l": "\"You always\" said",
+          "t": "A specific complaint turned into a claim about your whole character or pattern.",
+          "icon": "♾️"
+        },
+        {
+          "l": "Multiple fronts open",
+          "t": "You are now defending yourself on three separate issues when you raised one.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Shutdown attempt",
+          "t": "They say \"I don't have to listen to this\" or \"you always pick fights.\"",
+          "icon": "🚪"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "State your topic once, in one sentence",
+          "desc": "Before the conversation: write the one thing you need answered. If they go elsewhere, you have the sentence to return to."
+        },
+        {
+          "n": 2,
+          "title": "Refuse the new topic out loud",
+          "desc": "Say: \"That's a separate conversation. Right now I want to finish this one first.\" Do not engage the new topic at all."
+        },
+        {
+          "n": 3,
+          "title": "Log the switch as data",
+          "desc": "Every time they switch topics instead of answering, write it down. Three instances of the same pattern is a habit, not a mistake."
+        }
+      ],
+      "script": "\"I hear you. That's a separate conversation. I'm not moving on until we've finished this one — did you approve that charge or not?\"",
+      "counter": "If someone refuses to follow a topic shift and keeps returning to the original question, they've read this move.\n• Check whether you switched topics because the current one had a real answer you didn't want to give.\n• The test: can you address their original point right now, in one sentence? If not, ask yourself why.\n• Answer the original question first. Then raise your grievance as its own conversation.",
+      "insight": "Topic switching works best on people who care about fairness — they feel obligated to address every point raised. The person who stays on one topic regardless has a structural upper hand that most people never learn to use."
+    },
+    {
+      "id": "6",
+      "cat": "body",
+      "danger": "low",
+      "title": "Read Who Is More Relaxed in the Room",
+      "hook": "Power in a conversation is visible before anyone speaks. <strong>One person is always more relaxed. That's the person with more options.</strong>",
+      "truth": "Tension and relaxation are not random — they map to who feels safe and who feels threatened.\n• The person with fewer options holds more tension in their face, shoulders, and hands.\n• Baseline relaxation across a whole conversation means they are not afraid of where this goes.\n• The person trying hardest to look relaxed is usually the most scared.",
+      "principle": "Status Asymmetry",
+      "remember": "The most relaxed person in the room has already decided they can walk away.",
+      "theySee": "Two people at a table — one leaning back, one leaning forward trying to read the other's face.",
+      "signals": [
+        {
+          "l": "Leaning back",
+          "t": "One person is physically leaning back in their chair while the other is leaning toward them.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Slow speech",
+          "t": "One person is speaking at a slower, deliberate pace with no rush to fill silence.",
+          "icon": "🐢"
+        },
+        {
+          "l": "Eye contact held",
+          "t": "One person holds eye contact longer and lets the other look away first.",
+          "icon": "👁️"
+        },
+        {
+          "l": "No justifying",
+          "t": "One person states positions without adding reasons nobody asked for.",
+          "icon": "🤐"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Sit before you speak",
+          "desc": "Before the conversation starts, take one breath and settle your posture. Lean slightly back. This is not acting — it changes how you think."
+        },
+        {
+          "n": 2,
+          "title": "Read the first thirty seconds",
+          "desc": "Who speaks first? Who rushes to fill silence? Who justifies before being questioned? That person has already put themselves one step behind."
+        },
+        {
+          "n": 3,
+          "title": "Match relaxation, not tension",
+          "desc": "If they speed up, you slow down. If they get louder, you get quieter. The person who stays calm longest wins the room."
+        }
+      ],
+      "script": "\"Take your time. I'm not in a rush on this.\" (Said slowly. Then stay quiet.)",
+      "counter": "If someone is deliberately pacing slower and holding longer silences, they are managing the room.\n• Notice if you are the one filling silences — every word you add is information they are collecting.\n• Slow your own pace. Match their deliberateness. Do not let the tempo be set for you.\n• Ask a direct question and then stop talking entirely.",
+      "insight": "The person who controls the pace controls the conversation. The harder part: staying slow when you're scared takes practice most people never get because they don't know they lost the moment they sped up."
+    },
+    {
+      "id": "7",
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Use a Dead-End Response to Stop a Manipulation Loop",
+      "hook": "Some conversations are designed to pull you in deeper the more you explain. <strong>The right response is one sentence that goes nowhere.</strong>",
+      "truth": "Most people try to talk their way out of manipulation by providing better reasons. That is exactly wrong.\n• Every explanation you give becomes new material for the next attack or reframe.\n• A dead-end response signals that the conversation stops here — no explanation, no apology, no soft edge.\n• The silence that follows a dead-end response is theirs to fill, not yours.",
+      "principle": "DeVor: Boundary as Dead End",
+      "remember": "A short response with no apology gives them nothing to push against.",
+      "theySee": "A person saying two words and then going completely quiet while the other person waits for more that never comes.",
+      "signals": [
+        {
+          "l": "More explaining",
+          "t": "You gave a reason and they immediately used it to open a new argument.",
+          "icon": "➡️"
+        },
+        {
+          "l": "Apology pushed",
+          "t": "You said sorry and they kept pushing as if the apology made them stronger.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Question restated",
+          "t": "They asked the same question a different way after you already answered.",
+          "icon": "🔂"
+        },
+        {
+          "l": "Pulled off point",
+          "t": "Your explanation moved the conversation to a new topic they now control.",
+          "icon": "🧲"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Write three dead-end responses now",
+          "desc": "\"That doesn't work for me.\" \"No.\" \"I'm not doing that.\" These are your tools. Practice saying them out loud without adding a reason after."
+        },
+        {
+          "n": 2,
+          "title": "Kill the instinct to explain",
+          "desc": "The moment you feel the urge to add \"because\" after your no — stop. The reason is a handle they can grab."
+        },
+        {
+          "n": 3,
+          "title": "Hold the silence after you say it",
+          "desc": "Say your dead-end line. Stop talking. Count to ten silently. Whoever speaks next is giving something up — make sure it isn't you."
+        }
+      ],
+      "script": "\"That doesn't work for me.\" (Full stop. No follow-up unless directly asked a new and specific question.)",
+      "counter": "If someone gives you a short refusal with no explanation and then goes silent, they're running the dead-end move.\n• Notice if you feel compelled to ask why — that urge is the move working on you.\n• Ask yourself: do you actually need the reason, or are you just uncomfortable with the silence?\n• State what you need plainly: \"I need a reason before I can move on from this.\"",
+      "insight": "Dead-end responses are a power tool, but they only work if you use them rarely. Use them on everything and people stop engaging with you entirely — the next card is knowing which conversations deserve a door left open."
+    },
+    {
+      "id": "8",
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Pause Before You React to an Emotional Trigger",
+      "hook": "They said the one thing that always gets you. <strong>Your reaction in the next three seconds is the whole game.</strong>",
+      "truth": "Manipulators in conversations know your emotional triggers before you do — because they have pulled them before and watched what happens.\n• The trigger is not the weapon. Your automatic reaction to it is the weapon.\n• A pause breaks the trigger-reaction loop before the reaction can be used against you.\n• You do not lose empathy by pausing. You stop empathy from being used as a remote control.",
+      "principle": "DeVor: Trigger-Pause-Choose",
+      "remember": "Three seconds of silence is the gap between being played and playing it right.",
+      "theySee": "A person who just heard something sharp, going quiet for a moment with a flat expression before responding.",
+      "signals": [
+        {
+          "l": "Immediate heat",
+          "t": "You feel a physical reaction — chest, throat, jaw — the moment they said a specific word or phrase.",
+          "icon": "🔥"
+        },
+        {
+          "l": "Same phrase again",
+          "t": "They used the same words that have upset you before in a previous conversation.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Speed increases",
+          "t": "They talked faster right before the triggering line, as if building momentum.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Watch your face",
+          "t": "You felt your expression change before you decided to let it change.",
+          "icon": "😬"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Name your three personal triggers today",
+          "desc": "Write them: the exact words or situations that reliably make you defensive, angry, or scared. Knowing them before the conversation is the defense."
+        },
+        {
+          "n": 2,
+          "title": "Build the pause habit in low-stakes talks",
+          "desc": "This week, in every conversation, wait two full seconds before responding to anything. Train the pause when nothing is at stake."
+        },
+        {
+          "n": 3,
+          "title": "Choose the response, don't run it automatically",
+          "desc": "After the pause, pick: engage the point, ask a question, or say nothing. Any of these beats the automatic reaction every time."
+        }
+      ],
+      "script": "\"Give me a second.\" (Pause. Breathe. Then: ) \"What specifically are you asking me to do right now?\"",
+      "counter": "If someone deliberately pauses before responding to you, they are not confused — they are choosing.\n• Notice if the pause makes you fill the silence with more words or backtrack on what you said.\n• Hold your position. Do not restate or soften while they pause.\n• Wait for their actual response before deciding how to proceed.",
+      "insight": "Triggers are just fast shortcuts to your oldest decisions about yourself. The harder part is that the pause only buys time — at some point you have to decide whether the shortcut is still right."
+    },
+    {
+      "id": "9",
+      "cat": "detection",
+      "danger": "moderate",
+      "title": "Spot False Confusion — They're Not Lost, They're Leaving",
+      "hook": "Some people go suddenly confused right when the conversation is about to pin them down. <strong>Convenient.</strong>",
+      "truth": "False confusion is a way to quit a conversation without technically quitting it.\n• The person performing confusion gets to stop engaging, avoid accountability, and put the work of clarifying on you.\n• People with low patience for hard conversations use this as a habit, not a one-time move — you will see it again.\n• The tell: they are perfectly clear moments before the hard question arrives.",
+      "principle": "Fisher: Weaponized Confusion",
+      "remember": "Sudden confusion right before accountability is almost never an accident.",
+      "theySee": "A person who was sharp and clear all meeting suddenly saying \"I'm just confused, I don't know what we're talking about\" when asked a direct question.",
+      "signals": [
+        {
+          "l": "Confusion is sudden",
+          "t": "They were clear and specific and then went vague the moment the hard topic landed.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "Can't recall specifics",
+          "t": "They say \"we already discussed this\" but won't say when or where or what was decided.",
+          "icon": "🗓️"
+        },
+        {
+          "l": "Clear before, foggy now",
+          "t": "They remembered dates and names fine until you brought up the thing they are responsible for.",
+          "icon": "📸"
+        },
+        {
+          "l": "Pattern repeats",
+          "t": "This is not the first time they went foggy when this topic came up.",
+          "icon": "📊"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Ask for something specific before the confusion disappears",
+          "desc": "The moment confusion appears, ask: \"What part specifically is unclear?\" Force them to name the confusion. Vague confusion can't name itself."
+        },
+        {
+          "n": 2,
+          "title": "Simplify your question to one sentence",
+          "desc": "Remove every word that isn't necessary. Give them one binary question. If they're still confused, it's not the question that's the problem."
+        },
+        {
+          "n": 3,
+          "title": "Log the pattern",
+          "desc": "Write down every time this person went unclear at a critical moment. Three instances and it's a method, not a mood."
+        }
+      ],
+      "script": "\"Let me make it simple: did you know about the change before the meeting started, yes or no?\"",
+      "counter": "If someone is simplifying your question to a yes or no and won't allow nuance, check your own confusion.\n• Ask yourself: are you actually confused, or do you not want to answer this particular question?\n• If you're genuinely confused, say what part: \"I understand the event, I'm unclear on what you're asking me to decide.\"\n• Give the direct answer and then add context if needed — not the other way around.",
+      "insight": "False confusion is the move of someone with low patience for accountability and high patience for letting others manage them. The next question is whether they know they do it — because that changes which counter you use."
+    },
+    {
+      "id": "10",
+      "cat": "tactics",
+      "danger": "extreme",
+      "title": "Context Manipulation — They Rewire What You Think Is Acceptable",
+      "hook": "You would never agree to that. Unless they change what \"that\" means first. <strong>Context manipulation doesn't change people — it changes the permission structure in their head.</strong>",
+      "truth": "The most powerful manipulation doesn't ask you to do something wrong — it makes the wrong thing feel reasonable given the situation.\n• Once the context shifts, your old rules stop applying because the situation no longer matches the rule you made them for.\n• The move works fastest on people who are already in an emotional state, physically tired, or isolated from outside input.\n• The signal that context has been shifted: you are doing something you would have refused a week ago and it feels completely normal.",
+      "principle": "Context Reframing — Coercion",
+      "remember": "If you'd have said no last week and yes today, ask what changed.",
+      "theySee": "A person agreeing to something in a high-pressure moment that they would have flatly refused if asked cold.",
+      "signals": [
+        {
+          "l": "Isolated first",
+          "t": "The conversation or situation moved you away from other people before the ask arrived.",
+          "icon": "🏝️"
+        },
+        {
+          "l": "Rules feel different",
+          "t": "Something that was clearly off-limits feels negotiable in this specific situation.",
+          "icon": "📏"
+        },
+        {
+          "l": "Tired or emotional",
+          "t": "You are physically drained or emotionally activated when the request appears.",
+          "icon": "😴"
+        },
+        {
+          "l": "Hard to say no here",
+          "t": "The environment, relationship, or moment makes a refusal feel more costly than it actually is.",
+          "icon": "🚧"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Ask yourself the cold-read question",
+          "desc": "Before any major agreement: \"Would I say yes to this if I were rested, at home, and talking to a friend about it?\" If no — wait."
+        },
+        {
+          "n": 2,
+          "title": "Name what changed about the context",
+          "desc": "Write or say: \"The situation feels different because ___.\" Fill in the blank. If you can't fill it, the context change happened without your permission."
+        },
+        {
+          "n": 3,
+          "title": "Buy time before committing",
+          "desc": "Say: \"I need to think about this before I answer.\" Walk out of the context physically. Different room, different hour, different answer."
+        }
+      ],
+      "script": "\"I need to sit on this. I'll give you an answer tomorrow when I've had time to think clearly.\"",
+      "counter": "If someone insists you decide right now, in this moment, in this room — that urgency is the context.\n• Notice if the pressure to decide immediately appeared the moment you showed hesitation.\n• Name the pressure out loud: \"I notice you need an answer right now. I'm not able to give one under that kind of pressure.\"\n• Leave the context physically before you commit to anything.",
+      "insight": "Context manipulation is the manipulation that leaves no fingerprints — because the person who agreed did so freely, in their own voice. The real trap is that you can't unsign an agreement by explaining the context that produced it."
+    },
+    {
+      "id": "11",
+      "cat": "aftermath",
+      "danger": "high",
+      "title": "Isolation Is the Setup, Not the Attack",
+      "hook": "They don't need to control what you think. They just need to cut off everyone who might correct it. <strong>Isolation is the move before all the other moves.</strong>",
+      "truth": "Manipulation survives longest when the target has no outside reference point to check their reality against.\n• The isolator doesn't always forbid contact — they make outside relationships feel costly, disloyal, or pointless.\n• Once isolation is complete, every bit of information you receive is filtered through the manipulator.\n• The moment you rebuild one outside connection, the system starts losing power — which is why they fight it hard.",
+      "principle": "Thriveworks: Manipulation Thrives in Isolation",
+      "remember": "The first thing a manipulator attacks is your outside connections.",
+      "theySee": "A person who used to have a wide circle of friends slowly spending all their time with one person who has opinions about each of those friends.",
+      "signals": [
+        {
+          "l": "Friends criticized",
+          "t": "Every time you mention a specific person, they find a reason that person isn't trustworthy or doesn't care about you.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Outside contact drops",
+          "t": "You realize you haven't talked to your closest friend in weeks without a clear reason why.",
+          "icon": "📵"
+        },
+        {
+          "l": "They filter news",
+          "t": "You are hearing about things that affect you through only one person's version of events.",
+          "icon": "📰"
+        },
+        {
+          "l": "Disloyalty framing",
+          "t": "Spending time with others gets called selfish, suspicious, or hurtful by the one person.",
+          "icon": "⚖️"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Contact one outside person today",
+          "desc": "Pick someone you have not spoken to in at least three weeks. Reach out with no agenda. The contact itself is the move."
+        },
+        {
+          "n": 2,
+          "title": "Tell them three specific things",
+          "desc": "Give a specific person outside the relationship three specific incidents. Not feelings — events. Dates, words, actions. Let them respond."
+        },
+        {
+          "n": 3,
+          "title": "Keep the outside connection without announcing it",
+          "desc": "Do not tell the manipulator you are rebuilding connections. That announcement triggers a counter-attack on each person you name."
+        }
+      ],
+      "script": "\"Hey, I know it's been a while. I wanted to catch up — can we get on a call this week?\"",
+      "counter": "If people around you are quietly rebuilding outside connections without explaining why, check whether you have been making outside relationships feel costly.\n• Ask yourself: have you said negative things about every specific friend or family member of theirs?\n• Notice if you frame their outside time as a threat to you personally.\n• State directly what you need rather than making outside connections feel like competition.",
+      "insight": "The last person to see isolation happening is always the isolated one — because by the time it's complete, the reference point that would name it is already gone. The move that follows reconnection is harder: deciding what the isolation period means."
+    },
+    {
+      "id": "12",
+      "cat": "aftermath",
+      "danger": "high",
+      "title": "After You Name the Manipulation, Expect the Defensive Counter",
+      "hook": "You called out the move. Now they are upset that you called it. <strong>The defensiveness is part of the playbook too.</strong>",
+      "truth": "Naming a manipulation tactic out loud almost always triggers defensiveness — which manipulators then use to make you the attacker.\n• The goal of their defensiveness is to shift the conversation from what they did to how you spoke about it.\n• Coming in with specific incidents and calm language reduces the surface area for this counter-move.\n• If they stay defensive after you stay specific and calm, the pattern itself is the answer.",
+      "principle": "Bay Area CBT: Accountability Through Specificity",
+      "remember": "Specific and calm beats general and angry every single time.",
+      "theySee": "A person raising a clear, detailed incident and the other person responding with \"I can't believe you'd say that about me.\"",
+      "signals": [
+        {
+          "l": "They become the victim",
+          "t": "You described their behavior and they responded by describing how hurt they are by the description.",
+          "icon": "🎭"
+        },
+        {
+          "l": "Topic flips to tone",
+          "t": "The conversation moved from what they did to how you said what you said.",
+          "icon": "🎙️"
+        },
+        {
+          "l": "All or nothing claim",
+          "t": "They say \"you think I'm a terrible person\" after you named one specific behavior.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Escalation appears",
+          "t": "The conversation got louder or colder the moment you introduced a specific example.",
+          "icon": "📈"
+        }
+      ],
+      "steps": [
+        {
+          "n": 1,
+          "title": "Write the specific incident before the conversation",
+          "desc": "One event. Date, words, action, result. Not \"you always\" — \"on Tuesday you said X and then did Y.\" This is your whole case."
+        },
+        {
+          "n": 2,
+          "title": "Use \"I\" language on impact, not character",
+          "desc": "\"When you said X, I didn't know what was true\" — not \"you're a manipulator.\" The second version gives them the defensiveness they need."
+        },
+        {
+          "n": 3,
+          "title": "Stop engaging the defensiveness directly",
+          "desc": "When they go defensive, say: \"I hear that you're hurt. I still need an answer to the specific thing I raised.\" Return to the incident every time."
+        }
+      ],
+      "script": "\"I'm not saying you're a bad person. I'm saying that on Tuesday you told me the call was cancelled, and I found out it wasn't. I need to understand what happened.\"",
+      "counter": "If someone comes to you with a specific incident, a calm voice, and a date — you are in a prepared conversation and they have the upper hand on information.\n• Do not respond to the character claim they didn't actually make.\n• Do not go to tone — address the specific incident first.\n• If you did it, say so plainly. The cover-up always costs more than the thing.",
+      "insight": "The person who stays specific and calm in this conversation has done the real work before sitting down. The harder part is that a genuinely defensive person and a manipulative one look identical in the first five minutes — and you have to hold your position either way."
+    }
+  ]
+}
