@@ -53,9 +53,12 @@ function stripFence(s) {
 
 // --- pick today's topic ---
 const topics = JSON.parse(readFileSync(join(HERE, 'topics.json'), 'utf8'));
-const idx = process.env.TOPIC_INDEX != null
-  ? Number(process.env.TOPIC_INDEX) % topics.length
-  : dayOfYear(new Date()) % topics.length;
+// GitHub Actions passes an unset dispatch input / schedule event as an EMPTY
+// STRING, and Number('') is 0 — which used to pin every run to topics[0]. Only
+// honor TOPIC_INDEX when it's a real number; otherwise rotate by day-of-year.
+const rawIdx = process.env.TOPIC_INDEX;
+const hasIdx = rawIdx != null && rawIdx.trim() !== '' && Number.isFinite(Number(rawIdx));
+const idx = (hasIdx ? Number(rawIdx) : dayOfYear(new Date())) % topics.length;
 const { topic, cardCount, tone } = topics[idx];
 console.log(`Topic [${idx}]: "${topic}" (${cardCount} cards, ${tone})`);
 
