@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "id": "srv-black-book-manipulation-spotter",
+    "version": "1.0",
+    "title": "Black Book: Manipulation Spotter",
+    "subtitle": "12 Hidden Moves in Everyday Conversations",
+    "description": "A closed-file guide to the quiet moves that make you doubt, comply, and forget what you came to say.",
+    "author": "AI",
+    "createdAt": "2026-07-04T05:01:22.267Z",
+    "tags": [
+      "manipulation",
+      "psychology",
+      "dark psychology",
+      "conversations",
+      "defense"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🎭",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting manipulation in everyday conversations",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "reality",
+      "label": "Reality Bending",
+      "color": "#8B1A1A"
+    },
+    {
+      "key": "pressure",
+      "label": "Pressure Tactics",
+      "color": "#C45F00"
+    },
+    {
+      "key": "deflect",
+      "label": "Escape & Deflection",
+      "color": "#1A4A8B"
+    },
+    {
+      "key": "traps",
+      "label": "Verbal Traps",
+      "color": "#6B1A8B"
+    },
+    {
+      "key": "defense",
+      "label": "Defense Moves",
+      "color": "#1A7A3A"
+    },
+    {
+      "key": "pattern",
+      "label": "Pattern Recognition",
+      "color": "#4A4A4A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "reality",
+      "danger": "high",
+      "title": "They Deny What You Clearly Heard",
+      "hook": "Something happened. They say it didn't. <strong>You start wondering if you're the problem.</strong>",
+      "truth": "Gaslighting works because memory is easier to attack than facts.\n• They contradict the event until your certainty cracks.\n• You defend what happened instead of what matters.\n• The trap: defending yourself keeps you inside their frame.",
+      "principle": "Festinger: Cognitive Dissonance",
+      "remember": "If you're questioning your own memory, check the record first.",
+      "theySee": "A person second-guessing themselves out loud, asking if that really happened.",
+      "signals": [
+        {
+          "l": "Flat denial",
+          "t": "They say 'that never happened' without any proof.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Memory attack",
+          "t": "They tell you you're confused, stressed, or imagining things.",
+          "icon": "🧠"
+        },
+        {
+          "l": "Witness swap",
+          "t": "They bring in a third person who confirms only their version.",
+          "icon": "👥"
+        },
+        {
+          "l": "You apologizing",
+          "t": "You say sorry for something you didn't do.",
+          "icon": "😔"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write it down immediately",
+          "desc": "After it happens: date, exact words used, who was present. Don't trust memory — make a record."
+        },
+        {
+          "n": "2",
+          "title": "Check your record before the next talk",
+          "desc": "Don't go in relying on memory alone. Have the written notes in front of you."
+        },
+        {
+          "n": "3",
+          "title": "State the discrepancy in one sentence",
+          "desc": "Say: 'My notes from that day say X. Walk me through where you think that's wrong.'"
+        }
+      ],
+      "script": "\"I wrote this down the same day. Here's what I have — walk me through where you think it's wrong.\"",
+      "counter": "Someone is doing this when every conversation leaves you less sure than when you started.\n• You always leave the talk doubting what you saw or heard.\n• Say: 'I'll check my record on that and come back.'\n• Stop defending memory mid-conversation — write it down and revisit.",
+      "insight": "The record matters most when the other person is betting you won't keep one."
+    },
+    {
+      "id": 2,
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "They Change the Standard After You Meet It",
+      "hook": "You deliver exactly what was asked. <strong>Then the ask changes.</strong>",
+      "truth": "Moving the goalposts works because you've already spent time doing what was asked.\n• You hit the target; they add a new one before you can claim the win.\n• You put in more work chasing a finish line that keeps moving.\n• The trap: every extra effort makes it harder to walk away.",
+      "principle": "Sunk-Cost Anchoring",
+      "remember": "Write down what 'done' means before you start.",
+      "theySee": "A person delivering work again and again without ever getting credit for finishing.",
+      "signals": [
+        {
+          "l": "New condition added",
+          "t": "They add a requirement after you already delivered the last one.",
+          "icon": "➕"
+        },
+        {
+          "l": "Memory edited",
+          "t": "They say 'that's not what I meant' about something you both agreed on.",
+          "icon": "✏️"
+        },
+        {
+          "l": "No win given",
+          "t": "Your completed work gets treated as a starting point, never a finish.",
+          "icon": "🏁"
+        },
+        {
+          "l": "Deadline blurs",
+          "t": "The original deadline passes without comment but new ones appear.",
+          "icon": "⏰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Lock the finish line in writing",
+          "desc": "Before starting: send a message confirming the exact deliverable, format, and deadline. Ask them to confirm it."
+        },
+        {
+          "n": "2",
+          "title": "Read back the original agreement out loud",
+          "desc": "When the bar shifts, say: 'We agreed on X by Friday — here it is in our thread.'"
+        },
+        {
+          "n": "3",
+          "title": "Name the new ask as a new ask",
+          "desc": "Say: 'That's a new request. Happy to add it — want to reset the timeline and scope?'"
+        }
+      ],
+      "script": "\"To confirm: done means the report plus three charts by Friday. Is that right?\"",
+      "counter": "Notice when your wins are never wins — only starting points for the next demand.\n• Each delivery is acknowledged only as a gap to be filled.\n• Say: 'Can you show me where the original scope said that?'\n• Stop adding work until the scope change is in writing.",
+      "insight": "The real upper hand here is the time you already spent — it keeps you from saying no."
+    },
+    {
+      "id": 3,
+      "cat": "traps",
+      "danger": "moderate",
+      "title": "The Question That Already Decided You're Wrong",
+      "hook": "They ask a question. <strong>Answering it means you already agreed to the accusation hiding inside it.</strong>",
+      "truth": "A loaded question hides a false claim inside a grammatically normal sentence.\n• You answer directly — you accept the hidden claim by default.\n• Now you're defending yourself instead of making your own point.\n• The trap: the more you explain, the deeper you go into their frame.",
+      "principle": "Grice: Conversational Implicature",
+      "remember": "Don't answer the question. Name what's hiding inside it.",
+      "theySee": "A person carefully phrasing a question and watching for the reaction before finishing it.",
+      "signals": [
+        {
+          "l": "Always or never baked in",
+          "t": "The question uses 'always' or 'never' — 'why do you always do this?'",
+          "icon": "🔄"
+        },
+        {
+          "l": "Assumed guilt",
+          "t": "Answering at all means admitting something you never agreed to.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Rushed for answer",
+          "t": "They push for a quick reply before you can think about what's embedded.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Audience present",
+          "t": "The question is asked in front of others, raising the cost of silence.",
+          "icon": "👁️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop and name the hidden claim",
+          "desc": "Say: 'That question assumes X. I don't accept that premise.' Don't answer what they asked."
+        },
+        {
+          "n": "2",
+          "title": "Ask for a clean restatement",
+          "desc": "Say: 'Can you ask that without the assumption built in?'"
+        },
+        {
+          "n": "3",
+          "title": "Offer the neutral version yourself",
+          "desc": "Say: 'What I think you're actually asking is Y — here's my answer to that version.'"
+        }
+      ],
+      "script": "\"I don't accept the assumption in that question. Ask me what you actually want to know.\"",
+      "counter": "Someone uses this when they need to win before the argument starts.\n• You feel pulled to defend rather than to respond.\n• Say: 'Hold on — that question has a claim inside it I haven't agreed to.'\n• Restate the question neutrally and answer that version instead.",
+      "insight": "The question that can't be reworded cleanly has an agenda. The next move is finding out whose."
+    },
+    {
+      "id": 4,
+      "cat": "pressure",
+      "danger": "high",
+      "title": "They Make You Responsible for What Happens to Them",
+      "hook": "<strong>They don't ask. They warn you what saying no will cost.</strong>",
+      "truth": "Emotional blackmail turns your decision into their suffering — and makes you feel like the cause.\n• They present your choice as the direct cause of their pain or the relationship ending.\n• You start managing their feelings instead of deciding what you want.\n• The trap: they never ask openly, so they never have to hear a real no.",
+      "principle": "Forward: FOG — Fear, Obligation, Guilt",
+      "remember": "Their threat about what you'll cause is not your decision to make.",
+      "theySee": "A person issuing a quiet warning about consequences while waiting for you to back down.",
+      "signals": [
+        {
+          "l": "If-then warning",
+          "t": "They state what bad thing will happen if you don't do what they want.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Guilt language",
+          "t": "They say 'I can't believe you would do this to me.'",
+          "icon": "😢"
+        },
+        {
+          "l": "Private info pulled",
+          "t": "They use something you told them in confidence to apply pressure now.",
+          "icon": "🔐"
+        },
+        {
+          "l": "Cold silence",
+          "t": "They go quiet and wait for you to come back and apologize.",
+          "icon": "🧊"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write down their exact words",
+          "desc": "Note the precise warning: 'If you do X, then Y will happen.' Seeing it written strips the emotional charge."
+        },
+        {
+          "n": "2",
+          "title": "Separate their feeling from your decision",
+          "desc": "Their distress is real. It is not evidence your decision is wrong. Write both down and treat them separately."
+        },
+        {
+          "n": "3",
+          "title": "State the decision without justifying it",
+          "desc": "Say: 'I'm going to do X. I hear that bothers you.' No apology, no explanation of why."
+        }
+      ],
+      "script": "\"That's your feeling and I hear it. My decision is still the same.\"",
+      "counter": "Notice when saying no triggers a warning rather than a disagreement.\n• You feel responsible for managing their reaction before you've even answered.\n• Say: 'I'm not going to decide based on what you say will happen.'\n• Name the move flat: 'That sounds like a threat.'",
+      "insight": "The person who only asks through warnings is betting you'll never say that last sentence out loud."
+    },
+    {
+      "id": 5,
+      "cat": "deflect",
+      "danger": "moderate",
+      "title": "They Speak at Length and Say Nothing You Can Hold",
+      "hook": "They answer your question with a wall of words. <strong>You're no longer sure what you were even asking.</strong>",
+      "truth": "Word salad wins by making clarity feel rude and confusion feel normal.\n• Long vague sentences tire you out before you can pin down a specific claim.\n• You let it go because asking for clarity feels like picking a fight.\n• The trap: the person who keeps talking usually wins the room.",
+      "principle": "Grice: Maxim of Quantity",
+      "remember": "Ask for one specific fact. Watch what happens next.",
+      "theySee": "A person talking confidently for two minutes with big ideas and no dates, names, or numbers.",
+      "signals": [
+        {
+          "l": "No specifics",
+          "t": "They speak for two minutes but give no name, date, or number you can check.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "Topic jump",
+          "t": "Every time you near a point, they shift to a different subject.",
+          "icon": "↗️"
+        },
+        {
+          "l": "Jargon flood",
+          "t": "Big words arrive in clusters with no plain-language follow-up.",
+          "icon": "📚"
+        },
+        {
+          "l": "You feel dumb",
+          "t": "You stop asking because you think the problem is your own understanding.",
+          "icon": "🤔"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop them at 30 seconds",
+          "desc": "Say: 'Give me one specific example.' Don't wait for a natural pause — interrupt at 30 seconds of vague talk."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the detail again",
+          "desc": "If they give another vague answer, say: 'What date? What name? What number?' Same question, repeated."
+        },
+        {
+          "n": "3",
+          "title": "Call the gap out loud",
+          "desc": "If they still can't, say: 'Let's come back when you have the details.' Then stop the conversation."
+        }
+      ],
+      "script": "\"I need one specific example — a date, a name, or a number. Can you give me that?\"",
+      "counter": "Notice when a conversation leaves you tired but you can't quote one specific thing they said.\n• The more they talk, the less you have to work with.\n• Say: 'Before we go further — what is the one concrete thing you're claiming?'\n• Write down what specific claim you heard. If there isn't one, say so out loud.",
+      "insight": "The person who speaks in fog owns the room — until someone asks for one fact and waits in silence."
+    },
+    {
+      "id": 6,
+      "cat": "deflect",
+      "danger": "high",
+      "title": "They Accuse You of Exactly What They're Doing",
+      "hook": "They call you dishonest. They call you controlling. <strong>Look at their record, not their words.</strong>",
+      "truth": "Projection puts you on defense and shifts the conversation away from them.\n• The accusation moves focus from what they did to what you allegedly are.\n• You spend the conversation proving you're not the thing they called you.\n• The trap: every denial you make feeds the story they're building.",
+      "principle": "Anna Freud: Projection Defense Mechanism",
+      "remember": "Don't defend the accusation. Ask for a specific example of it instead.",
+      "theySee": "A person confidently accusing you of the exact behavior you came to confront them about.",
+      "signals": [
+        {
+          "l": "Mirror accusation",
+          "t": "The thing they accuse you of is the exact behavior you came to address.",
+          "icon": "🪞"
+        },
+        {
+          "l": "Preemptive strike",
+          "t": "The accusation lands before you've said a word about their behavior.",
+          "icon": "⚡"
+        },
+        {
+          "l": "You defending",
+          "t": "You're proving your innocence instead of naming the issue you came with.",
+          "icon": "🛡️"
+        },
+        {
+          "l": "No examples given",
+          "t": "Their accusation has no date, event, or specific instance attached.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop defending immediately",
+          "desc": "Don't address the accusation at all. Not even to deny it once."
+        },
+        {
+          "n": "2",
+          "title": "Return to the original issue",
+          "desc": "Say: 'I'm here to talk about X. Let's stay on that.'"
+        },
+        {
+          "n": "3",
+          "title": "Ask for a specific example",
+          "desc": "Say: 'Give me one specific example of what you're saying I did.' If they can't, name that out loud."
+        }
+      ],
+      "script": "\"I hear what you're saying about me. Right now I want to stay on what I came here to discuss.\"",
+      "counter": "Notice when you came with a complaint and left defending your character instead.\n• The original issue vanished and your personality became the subject.\n• Say: 'We're talking about what happened on [date], not about who I am.'\n• Refuse to defend. Return to the specific event every time.",
+      "insight": "The stronger the accusation, the closer it usually points to what they don't want examined."
+    },
+    {
+      "id": 7,
+      "cat": "deflect",
+      "danger": "moderate",
+      "title": "They Change the Subject Right When You're Close",
+      "hook": "You're finally near the point. <strong>They steer somewhere else and the moment is gone.</strong>",
+      "truth": "Diversion works because most people don't go back to a topic that got dropped.\n• They bring up something unrelated — a past mistake, a joke, a bigger problem.\n• You feel that pressing back means starting a fight about the wrong thing.\n• The trap: they don't have to answer a question they successfully buried.",
+      "principle": "Red Herring Fallacy",
+      "remember": "Name the dodge. Then go back to the original question.",
+      "theySee": "A person starting a new topic or complaint right as the real question gets asked.",
+      "signals": [
+        {
+          "l": "Old fault raised",
+          "t": "A past mistake of yours surfaces exactly when they're cornered.",
+          "icon": "📂"
+        },
+        {
+          "l": "Bigger issue planted",
+          "t": "They introduce a larger problem to make your point feel small by comparison.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Humor deployed",
+          "t": "They make a joke and the room moves on before you can hold the line.",
+          "icon": "😄"
+        },
+        {
+          "l": "No answer received",
+          "t": "Ten minutes later you realize you never got an answer to what you asked.",
+          "icon": "🕐"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the question before the talk",
+          "desc": "Have the one thing you need answered written down in front of you before you start."
+        },
+        {
+          "n": "2",
+          "title": "Name the shift when it happens",
+          "desc": "Say: 'I noticed we moved away from my question — let's come back to it.'"
+        },
+        {
+          "n": "3",
+          "title": "Ask the question a second time, word for word",
+          "desc": "Repeat it exactly. Don't rephrase. Don't soften. Same words."
+        }
+      ],
+      "script": "\"We moved away from something — I asked you about X and I still need an answer.\"",
+      "counter": "Notice when you finish a conversation without getting an answer to what you asked.\n• You can't quote their position because they never stated one.\n• Say: 'Before we move on — what's your answer to what I just asked?'\n• Write the original question before the talk starts so you can return to it.",
+      "insight": "The person who escapes a question twice has already decided the answer isn't coming — now you know too."
+    },
+    {
+      "id": 8,
+      "cat": "reality",
+      "danger": "moderate",
+      "title": "They Make Your Concern Sound Unreasonable",
+      "hook": "You name something real. They say you're overreacting. <strong>Now the issue is your reaction, not the thing.</strong>",
+      "truth": "Minimization flips the topic from the problem to your emotional state.\n• They say 'you're too sensitive' to make you doubt the concern itself.\n• You start managing how you're coming across instead of pressing the point.\n• The trap: you apologize for caring and the original problem stays untouched.",
+      "principle": "Beck: Minimization Distortion",
+      "remember": "How big your reaction is and whether the concern is real are two different things.",
+      "theySee": "A person shrugging or smiling slightly while you try to name something that bothered you.",
+      "signals": [
+        {
+          "l": "Just a joke",
+          "t": "They explain away the behavior with humor immediately after.",
+          "icon": "😂"
+        },
+        {
+          "l": "Too sensitive",
+          "t": "They label your reaction as a personality flaw.",
+          "icon": "🏷️"
+        },
+        {
+          "l": "Others compared",
+          "t": "They say others handle the same thing without complaining.",
+          "icon": "👤"
+        },
+        {
+          "l": "You backing off",
+          "t": "You soften your concern mid-sentence because you feel watched.",
+          "icon": "📉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Separate the two things out loud",
+          "desc": "Say: 'The concern is X. My feelings about it are a separate question.'"
+        },
+        {
+          "n": "2",
+          "title": "Name the minimization move",
+          "desc": "Say: 'I hear you think I'm overreacting. The concern is still there.'"
+        },
+        {
+          "n": "3",
+          "title": "State the concern in one plain sentence and leave it standing",
+          "desc": "Don't add qualifiers. Don't soften. Say it and go quiet."
+        }
+      ],
+      "script": "\"Whether or not I'm overreacting, what I named is still real and I need us to address it.\"",
+      "counter": "Notice when your point disappears and your emotional state becomes the topic.\n• You end up defending how you said it instead of what you said.\n• Say: 'How I said it and what I said are two different things. Let's talk about what I said.'\n• Return to the original concern in one sentence. Repeat it if needed.",
+      "insight": "The person who attacks your delivery every time is counting on you to run out of tries before the concern lands."
+    },
+    {
+      "id": 9,
+      "cat": "pressure",
+      "danger": "extreme",
+      "title": "They Cut You Off From People Who'd Tell You the Truth",
+      "hook": "Bit by bit, the people who'd question the situation stop being in it. <strong>That's not an accident.</strong>",
+      "truth": "Isolation removes the outside check on what the manipulator tells you about yourself.\n• They create friction with your friends and family until you stop reaching out.\n• You lose the people who'd say 'that doesn't sound right.'\n• The trap: asking for help feels like a big move because it's been so long.",
+      "principle": "Biderman's Chart of Coercion: Isolation",
+      "remember": "Keep one person outside this situation who tells you hard truths.",
+      "theySee": "A person slowly spending less time with old friends and more time talking only to one person.",
+      "signals": [
+        {
+          "l": "Friend criticism",
+          "t": "They say something negative about your friends every time you mention them.",
+          "icon": "👎"
+        },
+        {
+          "l": "Guilt after seeing others",
+          "t": "You feel bad or have to explain yourself after spending time with people they don't like.",
+          "icon": "😰"
+        },
+        {
+          "l": "Fewer calls out",
+          "t": "You've stopped calling people you used to talk to regularly.",
+          "icon": "📵"
+        },
+        {
+          "l": "Their version only",
+          "t": "When something happens, the only account you hear is theirs.",
+          "icon": "📢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List three people and contact one today",
+          "desc": "Name three people outside this relationship who knew you before. Send one of them a message today."
+        },
+        {
+          "n": "2",
+          "title": "Rebuild contact before explaining anything",
+          "desc": "Don't start with the situation. Just make contact. Ask how they are. Let the relationship warm up first."
+        },
+        {
+          "n": "3",
+          "title": "Ask what they've noticed",
+          "desc": "Say: 'I've been out of touch. What have you noticed about me lately?' Listen without defending the other person."
+        }
+      ],
+      "script": "\"I've been out of touch for a while. Can we catch up? I want to hear how things look from your end.\"",
+      "counter": "Notice when your social world gets smaller every time one relationship gets harder.\n• The criticism of your friends is steady but low — easy to miss.\n• Say: 'I'm keeping my friendships. That's not up for discussion.'\n• Name it early. The move is easier to stop at the start than to reverse later.",
+      "insight": "Isolation moves slowly on purpose — which is exactly what makes it hard to see until it's done."
+    },
+    {
+      "id": 10,
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "They Make You Feel Responsible for Their Pain",
+      "hook": "They don't threaten. They just look hurt until you change course. <strong>It works just as well as a threat.</strong>",
+      "truth": "Guilt-tripping skips the argument and goes straight for your conscience.\n• They present themselves as the victim of your normal decision.\n• You stop thinking about what you want and start fixing how they feel.\n• The trap: once it works, they use it again faster next time.",
+      "principle": "Karpman: Drama Triangle — Victim Role",
+      "remember": "Their pain and your decision can both be real at the same time.",
+      "theySee": "A person going quiet or looking wounded right after you state what you want.",
+      "signals": [
+        {
+          "l": "Long sigh",
+          "t": "They exhale loudly or go silent immediately after you state your decision.",
+          "icon": "😮‍💨"
+        },
+        {
+          "l": "Sacrifice listed",
+          "t": "They name what they've done for you right before you have to answer.",
+          "icon": "📋"
+        },
+        {
+          "l": "You apologizing early",
+          "t": "You say sorry before you've even finished stating your position.",
+          "icon": "🙏"
+        },
+        {
+          "l": "Rhetorical question",
+          "t": "They ask 'after everything I've done?' without wanting an actual answer.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the two things separately",
+          "desc": "Say to yourself: 'This is what I decided. This is how they feel about it.' Write both down before responding."
+        },
+        {
+          "n": "2",
+          "title": "Acknowledge the feeling without changing the decision",
+          "desc": "Say: 'I hear you're hurt. I'm still doing X.' Say it once and stop adding reasons."
+        },
+        {
+          "n": "3",
+          "title": "Audit your apologies",
+          "desc": "Write down the last three times you apologized in this relationship. Decide which were earned and which were just habit."
+        }
+      ],
+      "script": "\"I hear that this is hard for you. My answer is still no.\"",
+      "counter": "Notice when you feel guilty before you've done anything wrong.\n• Their hurt appears right on schedule every time you try to say no.\n• Say: 'I can see you're upset. What specifically did I do wrong?'\n• Force a specific complaint. Guilt trips collapse when they have to name a real grievance.",
+      "insight": "Guilt trips work on people who confuse caring about someone with owing them a yes."
+    },
+    {
+      "id": 11,
+      "cat": "defense",
+      "danger": "low",
+      "title": "Name the Move Out Loud — That's the Whole Defense",
+      "hook": "You don't need a perfect comeback. <strong>Name what's happening and watch them freeze.</strong>",
+      "truth": "Naming a manipulation move out loud breaks the condition it needs to work.\n• The move needs you not to notice it, or notice it and stay quiet.\n• The person using it must deny it or drop it — neither is a good position.\n• The trap for them: there's no clean answer to 'it sounds like you're guilt-tripping me.'",
+      "principle": "Voss: Label",
+      "remember": "Name it once, calm and flat. Then stop talking.",
+      "theySee": "A person pausing mid-conversation and saying out loud exactly what seems to be happening.",
+      "signals": [
+        {
+          "l": "You feel off",
+          "t": "The conversation feels wrong but you can't say why yet — that feeling is the tell.",
+          "icon": "🔔"
+        },
+        {
+          "l": "Spike after label",
+          "t": "They react strongly the moment you try to name the pattern.",
+          "icon": "🌡️"
+        },
+        {
+          "l": "Topic shift after naming",
+          "t": "They immediately change direction right after you name what they're doing.",
+          "icon": "↩️"
+        },
+        {
+          "l": "You talked yourself out",
+          "t": "You almost named it but stopped yourself — that hesitation is the signal.",
+          "icon": "🤫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the tactic in plain words",
+          "desc": "Say: 'It sounds like you're moving the goalposts' or 'it sounds like you're guilt-tripping me.' One plain sentence."
+        },
+        {
+          "n": "2",
+          "title": "Say nothing after the label",
+          "desc": "Stop talking. Don't explain, don't soften, don't add 'but I might be wrong.' Wait."
+        },
+        {
+          "n": "3",
+          "title": "Read their response",
+          "desc": "Denial with anger: they knew. Confusion with no defensiveness: they may not have. Act on what you see."
+        }
+      ],
+      "script": "\"It sounds like you're changing what 'done' means after I already delivered it.\"",
+      "counter": "They label you back when you name them — 'you're paranoid', 'you're so defensive.'\n• Labeling back is their defense against your label landing.\n• Say: 'I hear that. I'm still saying it looks like [name the tactic].'\n• Keep the label standing. Repeating it calmly is stronger than defending it.",
+      "insight": "Most people never name the move because they're afraid of being wrong — that fear is the whole defense the other person is counting on."
+    },
+    {
+      "id": 12,
+      "cat": "pattern",
+      "danger": "low",
+      "title": "One Bad Day vs. a Pattern: Here's How to Tell",
+      "hook": "Everyone slips once. <strong>A pattern has a shape — and once you see the shape, you can't unsee it.</strong>",
+      "truth": "A pattern is defined by what happens after you name the problem, not by the problem itself.\n• One-off: they hear you, adjust, and the behavior doesn't come back.\n• Pattern: the same move returns after apologies and a gap of time.\n• The test: name it clearly once and watch what happens the next three times you're in conflict.",
+      "principle": "Eddy: High-Conflict Personality Pattern",
+      "remember": "Watch what they do after the apology, not during it.",
+      "theySee": "A person sitting quietly with a pen, writing down the last five conversations they had with someone.",
+      "signals": [
+        {
+          "l": "Apology without change",
+          "t": "They say sorry and then use the same move the following week.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Gets worse when named",
+          "t": "Pointing out the behavior makes things worse, not better.",
+          "icon": "📈"
+        },
+        {
+          "l": "Excuse rotation",
+          "t": "The explanation changes each time but the behavior stays the same.",
+          "icon": "🎰"
+        },
+        {
+          "l": "Dread before talks",
+          "t": "You feel tired and braced before the conversation even starts.",
+          "icon": "😓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write down the last three conflicts",
+          "desc": "Note the situation, the tactic used, and what happened when you pushed back. Look for the same move in each."
+        },
+        {
+          "n": "2",
+          "title": "Name the move clearly once",
+          "desc": "Say it without anger, in plain words. Then watch what happens in the next two conversations where conflict comes up."
+        },
+        {
+          "n": "3",
+          "title": "Decide based on post-apology behavior",
+          "desc": "If the same move appears again after being named, you have your answer. Write it down. Decide what you do with it."
+        }
+      ],
+      "script": "\"I've noticed this comes up every time we have this kind of conversation. What do you think is going on?\"",
+      "counter": "They call you the pattern — 'you always look for problems.'\n• Your record is your defense. Specific dates beat general claims every time.\n• Say: 'I have three specific examples. Do you want to go through them?'\n• If they refuse specific examples, note that. The refusal is part of the pattern.",
+      "insight": "Patterns don't end because you name them once — the harder question is what you're willing to do when they don't stop."
+    }
+  ]
+}
