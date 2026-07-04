@@ -15,6 +15,7 @@
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import Anthropic from '@anthropic-ai/sdk';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const REPO = join(HERE, '..');
@@ -26,6 +27,18 @@ if (!ANTHROPIC_KEY) {
   console.error('ANTHROPIC_API_KEY is required.');
   process.exit(1);
 }
+
+const anthropic = new Anthropic({ apiKey: ANTHROPIC_KEY });
+
+// Structured-output schema (mirrors the app's PLAYBOOK_JSON_SCHEMA). Guarantees
+// schema-valid JSON so the invalid-JSON / dropped-required-field failure classes
+// can't reach the PR. Exact card count is still enforced in validate() below —
+// structured outputs can't constrain array length.
+const PLAYBOOK_SCHEMA = JSON.parse(readFileSync(join(HERE, 'playbook-schema.json'), 'utf8'));
+
+// Adaptive thinking + effort aren't supported on Haiku (both 400 there); every
+// other current model takes them. Match the app's anthropicTuning() guard.
+const supportsTuning = !MODEL.startsWith('claude-haiku');
 
 function slugify(s) {
   return String(s).toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 60);
@@ -91,28 +104,36 @@ function buildUser(sourceTranscript) {
   return parts.join('\n');
 }
 
-// --- Anthropic call ---
+// --- Anthropic call (official SDK, streaming) ---
+// Streaming keeps the connection alive during the ~3-4 min generation so it
+// can't hit an HTTP idle timeout, and lets max_tokens grow without risk.
+// finalMessage() reassembles the whole response — no per-event handling needed.
 async function generate(userPrompt) {
-  const res = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'content-type': 'application/json',
-      'x-api-key': ANTHROPIC_KEY,
-      'anthropic-version': '2023-06-01',
-    },
-    body: JSON.stringify({
-      model: MODEL,
-      max_tokens: 16000,
-      system: SYSTEM,
-      messages: [{ role: 'user', content: userPrompt }],
-    }),
+  const outputConfig = { format: { type: 'json_schema', schema: PLAYBOOK_SCHEMA } };
+  if (supportsTuning) outputConfig.effort = 'high';
+
+  const stream = anthropic.messages.stream({
+    model: MODEL,
+    max_tokens: 16000,
+    ...(supportsTuning ? { thinking: { type: 'adaptive' } } : {}),
+    output_config: outputConfig,
+    system: SYSTEM,
+    messages: [{ role: 'user', content: userPrompt }],
   });
-  if (!res.ok) {
-    const t = await res.text().catch(() => '');
-    throw new Error(`Anthropic ${res.status}: ${t.slice(0, 300)}`);
+
+  const final = await stream.finalMessage();
+
+  // Safety classifiers can decline (HTTP 200, stop_reason "refusal"). Surface it
+  // as a hard failure so the run stops instead of writing an empty playbook.
+  if (final.stop_reason === 'refusal') {
+    throw new Error('Model refused this topic (stop_reason=refusal).');
   }
-  const json = await res.json();
-  const text = (json.content || []).map(b => b.text || '').join('');
+  // With adaptive thinking on, content[0] is a thinking block — select the text
+  // block, don't index [0].
+  const text = (final.content || [])
+    .filter(b => b.type === 'text')
+    .map(b => b.text || '')
+    .join('');
   if (!text) throw new Error('Empty completion.');
   return text;
 }

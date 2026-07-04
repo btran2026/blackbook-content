@@ -1,0 +1,136 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["meta", "categories", "cards"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "version",
+        "title",
+        "subtitle",
+        "description",
+        "author",
+        "createdAt",
+        "tags",
+        "totalCards",
+        "isSeeded",
+        "coverColor",
+        "coverIcon"
+      ],
+      "properties": {
+        "id": { "type": "string" },
+        "version": { "type": "string" },
+        "title": { "type": "string" },
+        "subtitle": { "type": "string" },
+        "description": { "type": "string" },
+        "author": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "totalCards": { "type": "integer" },
+        "isSeeded": { "type": "boolean" },
+        "coverColor": { "type": "string" },
+        "coverIcon": { "type": "string" }
+      }
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["key", "label", "color"],
+        "properties": {
+          "key": { "type": "string" },
+          "label": { "type": "string" },
+          "color": { "type": "string" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "cards": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "cat",
+          "danger",
+          "title",
+          "hook",
+          "truth",
+          "principle",
+          "remember",
+          "theySee",
+          "signals",
+          "steps",
+          "script",
+          "counter",
+          "insight"
+        ],
+        "properties": {
+          "id": { "type": "integer" },
+          "cat": { "type": "string" },
+          "danger": { "type": "string", "enum": ["low", "moderate", "high", "extreme"] },
+          "title": { "type": "string" },
+          "hook": { "type": "string" },
+          "truth": { "type": "string" },
+          "principle": { "type": "string" },
+          "remember": { "type": "string" },
+          "theySee": { "type": "string" },
+          "signals": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["l", "t"],
+              "properties": {
+                "l": { "type": "string" },
+                "t": { "type": "string" },
+                "icon": { "type": "string" }
+              }
+            }
+          },
+          "steps": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["n", "title", "desc"],
+              "properties": {
+                "n": { "type": "string" },
+                "title": { "type": "string" },
+                "desc": { "type": "string" }
+              }
+            }
+          },
+          "script": { "type": "string" },
+          "counter": { "type": "string" },
+          "insight": { "type": "string" },
+          "scenario": { "type": "string" },
+          "situation": { "type": "string" },
+          "tactics": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["l", "t"],
+              "properties": {
+                "l": { "type": "string" },
+                "t": { "type": "string" }
+              }
+            }
+          },
+          "tip": { "type": "string" },
+          "do": { "type": "string" },
+          "dont": { "type": "string" },
+          "framework": { "type": "string" },
+          "goals": { "type": "array", "items": { "type": "string" } },
+          "risk": { "type": "string", "enum": ["low", "med", "high"] }
+        }
+      }
+    }
+  }
+}

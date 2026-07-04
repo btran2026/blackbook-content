@@ -1,0 +1,18 @@
+{
+  "name": "blackbook-content",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Server-delivered Black Book playbooks + the daily generation bot.",
+  "scripts": {
+    "generate": "node tools/generate.mjs",
+    "publish": "node tools/publish-from-payload.mjs",
+    "check": "node --check tools/generate.mjs && node --check tools/publish-from-payload.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.109.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
