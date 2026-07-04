@@ -105,16 +105,23 @@ function buildUser(sourceTranscript) {
 }
 
 // --- Anthropic call (official SDK, streaming) ---
-// Streaming keeps the connection alive during the ~3-4 min generation so it
+// Streaming keeps the connection alive during the multi-minute generation so it
 // can't hit an HTTP idle timeout, and lets max_tokens grow without risk.
 // finalMessage() reassembles the whole response — no per-event handling needed.
+//
+// This bot generates the WHOLE playbook in one call (unlike the app, which
+// batches ~3 cards per request). With adaptive thinking on, the thinking phase
+// and the full JSON output share max_tokens — so the budget must be generous or
+// the model spends it all thinking and returns a thinking block with no text
+// ("Empty completion"). Hence 32k tokens + medium (not high) effort: plenty for
+// a reviewed daily card, and it leaves ample room for the output.
 async function generate(userPrompt) {
   const outputConfig = { format: { type: 'json_schema', schema: PLAYBOOK_SCHEMA } };
-  if (supportsTuning) outputConfig.effort = 'high';
+  if (supportsTuning) outputConfig.effort = 'medium';
 
   const stream = anthropic.messages.stream({
     model: MODEL,
-    max_tokens: 16000,
+    max_tokens: 32000,
     ...(supportsTuning ? { thinking: { type: 'adaptive' } } : {}),
     output_config: outputConfig,
     system: SYSTEM,
@@ -134,7 +141,16 @@ async function generate(userPrompt) {
     .filter(b => b.type === 'text')
     .map(b => b.text || '')
     .join('');
-  if (!text) throw new Error('Empty completion.');
+  if (!text) {
+    // Diagnose the common cause (ran out of budget mid-thinking) instead of a
+    // bare "empty" — surface stop_reason + how many output tokens were spent.
+    const stop = final.stop_reason ?? 'unknown';
+    const out = final.usage?.output_tokens ?? '?';
+    throw new Error(
+      `Empty completion (stop_reason=${stop}, output_tokens=${out}). ` +
+        `If stop_reason=max_tokens, raise max_tokens or lower effort.`,
+    );
+  }
   return text;
 }
 
