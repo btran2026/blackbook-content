@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-black-book-manipulation-spotter.json",
       "addedAt": "2026-07-04T05:22:54.707Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-dominance-decoded",
+      "title": "Dominance Decoded",
+      "theme": "dominance",
+      "topic": "Reading dominance and submission signals in a group",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1d3557",
+      "coverIcon": "👁️",
+      "url": "playbooks/playbook-srv-dominance-decoded.json",
+      "addedAt": "2026-07-12T14:52:53.989Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-07-04T05:22:54.707Z"
+  "generatedAt": "2026-07-12T14:52:53.989Z"
 }

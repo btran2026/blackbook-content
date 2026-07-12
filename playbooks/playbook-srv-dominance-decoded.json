@@ -1,0 +1,702 @@
+{
+  "meta": {
+    "id": "srv-dominance-decoded",
+    "version": "1.0",
+    "title": "Dominance Decoded",
+    "subtitle": "Reading Power Signals in Any Group",
+    "description": "A field reference for reading and using dominance and submission signals in group settings. Grounded in academic research on nonverbal behavior, vocal cues, and hierarchical dynamics. Twelve cards that move from basic signal-reading into the harder problems of testing, countering, and mismatching rank.",
+    "author": "AI",
+    "createdAt": "2026-07-12T14:52:53.989Z",
+    "tags": [
+      "dominance",
+      "submission",
+      "group dynamics",
+      "nonverbal",
+      "status",
+      "hierarchy",
+      "body language",
+      "vocal cues"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1d3557",
+    "coverIcon": "👁️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Reading dominance and submission signals in a group",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "body",
+      "label": "Body Signals",
+      "color": "#1d3557"
+    },
+    {
+      "key": "voice",
+      "label": "Voice & Pitch",
+      "color": "#2a9d8f"
+    },
+    {
+      "key": "gaze",
+      "label": "Gaze & Face",
+      "color": "#264653"
+    },
+    {
+      "key": "hierarchy",
+      "label": "Group Hierarchy",
+      "color": "#6a0572"
+    },
+    {
+      "key": "dynamics",
+      "label": "Group Dynamics",
+      "color": "#e76f51"
+    },
+    {
+      "key": "counter",
+      "label": "Decode & Counter",
+      "color": "#457b9d"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "body",
+      "danger": "low",
+      "title": "Expansive Posture Marks the Dominant Person",
+      "hook": "<strong>The most powerful person in any room takes up the most space.</strong> Posture does not lie — it signals rank before anyone opens their mouth.",
+      "truth": "Expansive, upright posture reliably marks dominance in group settings. Most observers read it correctly without knowing why.\n• More open, spread stance = person claiming higher status in the room right now.\n• Others nearby pull their own limbs in, almost without noticing.\n• Spot the tightest posture to find whoever feels most at risk in this group.",
+      "principle": "Burgoon et al.: Dominance-Submission Continuum",
+      "remember": "The person taking up the most space is usually in charge.",
+      "theySee": "A person sitting with arms open and back straight while the people around them fold their arms or hunch forward.",
+      "signals": [
+        {
+          "l": "Arms spread wide",
+          "t": "Arms rest wide of the body rather than pulled close to the chest.",
+          "icon": "↔️"
+        },
+        {
+          "l": "Back fully upright",
+          "t": "Spine is straight, not curved forward or inward.",
+          "icon": "⬆️"
+        },
+        {
+          "l": "Feet planted apart",
+          "t": "Feet are spread wide rather than pulled together under the chair.",
+          "icon": "🦶"
+        },
+        {
+          "l": "Others compress",
+          "t": "People sitting near this person pull their limbs in tighter as the conversation continues.",
+          "icon": "🔻"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Scan posture on entry",
+          "desc": "When you walk into the room, note who is spread out and who is pulled in. Do this before anyone speaks. Two minutes of watching gives you the working power map."
+        },
+        {
+          "n": "2",
+          "title": "Track body changes over time",
+          "desc": "Watch whether someone's posture opens or closes as the discussion moves. Status shifts show in the body before they show in words."
+        },
+        {
+          "n": "3",
+          "title": "Map compression to pressure",
+          "desc": "Write down who sits most tightly throughout the meeting. That person is carrying the most social pressure in the room right now."
+        }
+      ],
+      "script": "\"Watch the body, not the badge. The person taking up the most space is usually running the room.\"",
+      "counter": "Performers expand deliberately to fake confidence without backing it up.\n• Their words carry no weight even as their posture spreads wide.\n• Say nothing — wait for the group to test the signal with a hard question.\n• If they shrink the moment pushback lands, the expansion was theater, not rank.",
+      "insight": "Posture reads rank before anyone opens their mouth. The harder question is what happens when posture and actual rank sit in opposite chairs."
+    },
+    {
+      "id": 2,
+      "cat": "voice",
+      "danger": "moderate",
+      "title": "Voice Pitch Drop in the First Three Sentences",
+      "hook": "<strong>Lower your pitch across your first three sentences.</strong> The group will register you as more dominant before you have made a single argument.",
+      "truth": "Groups track vocal pitch changes — not absolute pitch — to assign dominance. A voice that drops from the first to third sentence reads as dominant.\n• Dropping pitch signals willingness to intimidate — this is fear-based influence, not prestige.\n• The group does not consciously notice the pitch change, but they defer to it anyway.\n• Raising pitch mid-sentence signals yielding — the group clocks it even when no one admits it.",
+      "principle": "Cheng et al.: Vocal Dominance Signal",
+      "remember": "Drop your pitch across the first three sentences and the group shifts toward you.",
+      "theySee": "A person whose voice gets slightly lower and steadier from their opening line through the third sentence they speak.",
+      "signals": [
+        {
+          "l": "Pitch falls across turns",
+          "t": "Voice drops noticeably from the first to the third time this person speaks.",
+          "icon": "📉"
+        },
+        {
+          "l": "No upward lilt at end",
+          "t": "Sentences end flat or downward, not rising the way a question would.",
+          "icon": "➡️"
+        },
+        {
+          "l": "Others pause to listen",
+          "t": "Side conversations in the group stop when this person begins speaking.",
+          "icon": "🤫"
+        },
+        {
+          "l": "Second voice rises",
+          "t": "Another speaker's pitch goes up while the first speaker's holds steady — submission registered.",
+          "icon": "📈"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Record the opening two minutes",
+          "desc": "Audio-record a group meeting. Listen back for who drops pitch and who rises between their first and third turns. The pattern is usually clear within four minutes."
+        },
+        {
+          "n": "2",
+          "title": "Practice the drop before you enter",
+          "desc": "Read three sentences aloud, each one starting slightly lower than the last. Do this twice before your next group session. The habit builds fast."
+        },
+        {
+          "n": "3",
+          "title": "Find the pitch-riser in the room",
+          "desc": "Identify the person whose voice consistently goes up at sentence ends. They are the most likely to defer to whoever holds their pitch down."
+        }
+      ],
+      "script": "\"Note who steadies their voice down as the meeting opens. That person is claiming the room.\"",
+      "counter": "Someone is using vocal pitch to claim dominance without earning it through ideas.\n• Notice if their pitch drops but their arguments stay thin or vague.\n• Ask one specific, hard question — vocal confidence does not survive direct scrutiny.\n• Hold your own pitch flat. Do not let their drop pull yours up.",
+      "insight": "Vocal dominance works through fear, not respect. A group that defers to pitch alone will follow whoever sounds most threatening — until someone earns prestige by a different route entirely."
+    },
+    {
+      "id": 3,
+      "cat": "gaze",
+      "danger": "low",
+      "title": "Who Looks While Talking vs. Who Looks While Listening",
+      "hook": "Dominant speakers look outward. Submissive listeners track the speaker constantly. <strong>Watch who breaks eye contact the moment they stop talking.</strong>",
+      "truth": "Dominant people hold gaze while speaking and receive gaze freely from others. Submissive people gaze more while listening than while speaking.\n• High-status speaker: gaze maintained outward while delivering ideas to the group.\n• Low-status listener: eyes lock onto the dominant speaker and rarely leave.\n• The person who looks down the moment they are challenged has just signaled submission to everyone watching.",
+      "principle": "Burgoon et al.: Gaze Asymmetry in Dominance",
+      "remember": "Submissive people look more while listening. Dominant people look more while speaking.",
+      "theySee": "A person who holds strong eye contact while talking and then looks around freely — while everyone else in the room keeps their eyes on that person.",
+      "signals": [
+        {
+          "l": "Gaze held while speaking",
+          "t": "Speaker maintains eye contact with the group while delivering their point, not just while waiting for a response.",
+          "icon": "👀"
+        },
+        {
+          "l": "Others track their face",
+          "t": "Three or more people keep eyes on one speaker while that speaker looks wherever they choose.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Eyes drop on challenge",
+          "t": "A speaker looks down or sideways immediately after someone pushes back on their point.",
+          "icon": "⬇️"
+        },
+        {
+          "l": "Eyes up while listening",
+          "t": "A listener holds steady gaze on the speaker rather than looking at notes or the table.",
+          "icon": "👁️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one person and watch their gaze pattern",
+          "desc": "In the next group meeting, track one person for ten minutes. Where do their eyes go when they speak versus when they listen? The difference is usually sharp."
+        },
+        {
+          "n": "2",
+          "title": "Map who the group watches",
+          "desc": "Note who receives the most gaze from others. That is the person the group is deferring to, consciously or not — often different from the most talkative person."
+        },
+        {
+          "n": "3",
+          "title": "Test with a direct challenge",
+          "desc": "Ask a direct question to the person you think is dominant. Watch their gaze on the follow-up: eyes down = a crack in their confidence, eyes steady = confirmed."
+        }
+      ],
+      "script": "\"Find the person everyone else is watching. That is who controls the discussion, even if they are not officially running it.\"",
+      "counter": "Someone may use deliberate strong eye contact to fake confidence without real status behind it.\n• Watch whether others return the gaze or avoid it — real dominance gets gaze back.\n• Deliberate gaze without group follow is performance, not power.\n• Hold your own gaze flat and level. Do not look away first.",
+      "insight": "Gaze asymmetry is a live read of who the group believes is in charge right now. The harder move is catching the exact moment that belief shifts mid-conversation — it usually shows in the eyes before anything else moves."
+    },
+    {
+      "id": 4,
+      "cat": "gaze",
+      "danger": "low",
+      "title": "Smiling More Often Signals Lower Status",
+      "hook": "<strong>Smiling is not warmth in a status contest — it is a signal of lower rank.</strong> The person who smiles least is usually the one being deferred to.",
+      "truth": "Dominant group members smile less and show more expressive — not necessarily friendlier — faces. Submissive members smile more and more often.\n• Frequent smiling signals appeasement: 'I am not a threat to your position.'\n• The dominant person's face moves with genuine reaction, not with social smoothing.\n• Constant smiling in a high-stakes meeting means the person is managing their place, not running it.",
+      "principle": "Burgoon et al.: Nonverbal Relational Messaging",
+      "remember": "The person smiling most at the table is often the one with the least power right now.",
+      "theySee": "A person at the table who reacts to what is said with clear, genuine expressions but never holds the fixed polite smile that others use to signal they are no threat.",
+      "signals": [
+        {
+          "l": "Fixed polite smile",
+          "t": "Person holds a smile that does not change while others are talking — a steady appeasement signal.",
+          "icon": "😊"
+        },
+        {
+          "l": "Smile tied to agreement",
+          "t": "Person smiles immediately every time the highest-status member makes a point.",
+          "icon": "👍"
+        },
+        {
+          "l": "No smile on delivery",
+          "t": "Person delivering a key argument keeps a neutral or serious face throughout.",
+          "icon": "😐"
+        },
+        {
+          "l": "Expressive not friendly",
+          "t": "Face shows clear reactions — surprise, skepticism, interest — without defaulting back to a smile.",
+          "icon": "🎭"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count smiles in the first ten minutes",
+          "desc": "Tally who smiles most during the opening of the next group meeting. That person is managing social acceptance, not running the room."
+        },
+        {
+          "n": "2",
+          "title": "Note smiles tied to one person",
+          "desc": "Watch whether smiling spikes whenever a specific person speaks. That spike marks the smiler's status relative to that person — they are signaling deference each time."
+        },
+        {
+          "n": "3",
+          "title": "Hold a neutral face under agreement",
+          "desc": "In your next meeting, hold a neutral expression when someone makes a point you agree with. Note how the room reads you differently than when you smile."
+        }
+      ],
+      "script": "\"The person who smiles every time the boss speaks has already handed you the full power map of that room.\"",
+      "counter": "A dominant player may smile deliberately to mask their actual status and keep others off-guard.\n• Watch whether the smile reaches the eyes or sits only on the mouth.\n• Check whether their voice and posture match the smile or contradict it.\n• Real dominant warmth is selective. Constant warmth is usually a controlled performance.",
+      "insight": "Smiling reads differently across gender and culture — what signals submission in one setting signals leadership in another. The signal is real; the baseline always has to be calibrated to the room you are actually in."
+    },
+    {
+      "id": 5,
+      "cat": "hierarchy",
+      "danger": "moderate",
+      "title": "Who Starts Talking and Who Holds the Floor Longest",
+      "hook": "<strong>The person who speaks first and speaks longest is almost always the dominant member.</strong> Turn-taking is a status negotiation happening in real time, not a courtesy system.",
+      "truth": "Dominant group members initiate more speaking turns and hold them longer. Submissive members take shorter, fewer turns.\n• More initiations = more claims on the group's attention and direction of thought.\n• Longer turns = control over what the group thinks about, and for how long.\n• Taking too long tips into losing the room — dominance without substance becomes noise.",
+      "principle": "Burgoon et al.: Turn Initiation and Duration",
+      "remember": "The person who speaks first and speaks longest usually runs the group.",
+      "theySee": "A person who speaks the moment silence opens and keeps talking while others wait without cutting in.",
+      "signals": [
+        {
+          "l": "First to fill silence",
+          "t": "Person begins speaking the moment a gap opens, before others have found words.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Rarely interrupted",
+          "t": "Others wait for this person to finish rather than cutting in mid-sentence.",
+          "icon": "🛑"
+        },
+        {
+          "l": "Cuts others off",
+          "t": "Person starts speaking before another has finished, without acknowledgment or apology.",
+          "icon": "✂️"
+        },
+        {
+          "l": "Group waits after them",
+          "t": "Group pauses after this person speaks, as if waiting for permission to respond.",
+          "icon": "⏸️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Time the first turn at the next meeting",
+          "desc": "Note who speaks first when the session opens. Note how long they go without pause or challenge. Three meetings of tracking this gives you a reliable status read."
+        },
+        {
+          "n": "2",
+          "title": "Map interruptions directionally",
+          "desc": "Track who interrupts whom. Interruptions almost always flow from higher to lower status — rarely in reverse. Draw the direction on paper after the meeting."
+        },
+        {
+          "n": "3",
+          "title": "Take the first open floor on a key point",
+          "desc": "In your next group discussion, speak first when a major topic opens. Hold the turn for at least four complete sentences before pausing. Do not apologize for the length."
+        }
+      ],
+      "script": "\"Watch who speaks first when the room goes quiet. That move alone tells you who owns the space.\"",
+      "counter": "Someone who grabs the first turn and talks long may be performing dominance rather than holding it.\n• Watch whether others engage their points or just wait them out in silence.\n• Real dominant speakers get responses. Performers get compliance and eye-rolls.\n• Hold a question ready. Asking it when they pause tests whether they can actually hold the floor.",
+      "insight": "Dominant speakers hold the floor, but floor time has diminishing returns. The move after this is knowing when to give the floor away — and to whom — so the surrender reads as control rather than defeat."
+    },
+    {
+      "id": 6,
+      "cat": "body",
+      "danger": "moderate",
+      "title": "Head Tilted Down Signals Intimidation, Not Submission",
+      "hook": "<strong>A head tilted down with eyes still looking up reads as threatening, not defeated.</strong> A head tilted to the side reads as open and lower-status. Most people confuse the two.",
+      "truth": "Head position sends specific status signals that observers read correctly without knowing the rules. The direction of the tilt determines the meaning.\n• Head dropped forward with eyes holding up under the brow = threat, not deference.\n• Head tilted to the side = openness, reduced threat, lower status in the exchange.\n• Head down with eyes also down = shame or submission — the clearest low-rank signal available.",
+      "principle": "Hehman et al.: Downward Head Tilt Intimidation Effect",
+      "remember": "Chin down with eyes still up is a threat signal, not a back-down.",
+      "theySee": "A person whose chin drops slightly while their eyes hold steady upward contact — a face that reads like it is bracing for a fight rather than retreating from one.",
+      "signals": [
+        {
+          "l": "Chin down, eyes up",
+          "t": "Person's chin drops but eyes stay level under the brow — signals threat, not deference.",
+          "icon": "😤"
+        },
+        {
+          "l": "Head tilted sideways",
+          "t": "Person cocks their head to one side while listening — signals openness and low threat.",
+          "icon": "🤔"
+        },
+        {
+          "l": "Head and eyes both down",
+          "t": "Both chin and gaze drop together at the same moment — full submission and shame signal.",
+          "icon": "😔"
+        },
+        {
+          "l": "Head fully level",
+          "t": "Head stays perfectly level and forward — neutral to dominant, no deference displayed.",
+          "icon": "➡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch head position during direct pushback",
+          "desc": "The next time someone faces challenge in a group, watch their head immediately. Down with eyes up means they are bracing and pushing back. Down with eyes down means they have already given ground."
+        },
+        {
+          "n": "2",
+          "title": "Separate sideways tilt from forward drop",
+          "desc": "Practice distinguishing between head tilted sideways — yielding — and head dropped forward with held gaze — threat. They can look similar from the side but signal opposite things."
+        },
+        {
+          "n": "3",
+          "title": "Set your head level before speaking",
+          "desc": "Before making any key point, bring your head fully level. Not tilted, not dropped forward. Level reads as calm control — not aggressive, not submissive."
+        }
+      ],
+      "script": "\"Head down but eyes up is not backed off — it is bracing. Do not read that as a retreat.\"",
+      "counter": "Someone may use the forward head drop to signal threat without having real authority to back it up.\n• Watch the group's response — if nobody defers, the signal has no power behind it.\n• Maintain a level head and flat gaze. Do not look away or tilt your own head first.\n• Ask them a direct, factual question. Actual intimidation survives questions. Performance does not.",
+      "insight": "The downward head tilt may also physically protect the neck during an aggressive confrontation — the body preparing for contact it is still pretending not to signal. That is the gap between what a move communicates and what it is actually doing, and it is worth sitting with."
+    },
+    {
+      "id": 7,
+      "cat": "dynamics",
+      "danger": "moderate",
+      "title": "Dominant Posture Pulls Submission From the Person Across From You",
+      "hook": "<strong>Expand your posture and the person facing you will likely shrink theirs — automatically.</strong> Dominance and submission are not individual signals. They are a paired system.",
+      "truth": "When one person displays dominance through postural expansion, those nearby display submission without making a deliberate choice. This is complementarity, not mimicry.\n• Expansion from one person pulls constriction from those nearby, without deliberate intent on either side.\n• Both people like the interaction more when they complement each other than when they copy each other.\n• You can shift the hierarchy in a conversation by changing posture alone — before a single word is spoken.",
+      "principle": "Fragale: Interpersonal Complementarity Hypothesis",
+      "remember": "Open your posture and others around you will close theirs without thinking about it.",
+      "theySee": "Two people talking — one with arms open and back straight, the other with arms pulled in and shoulders curved forward — both looking comfortable with the arrangement.",
+      "signals": [
+        {
+          "l": "Both expand at once",
+          "t": "Two people both sitting open and spread — a live status contest, not yet resolved.",
+          "icon": "⚔️"
+        },
+        {
+          "l": "One shrinks as other opens",
+          "t": "One person pulls their limbs in at the exact moment the other spreads outward.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Comfort after compression",
+          "t": "The person who compressed looks more relaxed, not tense — complementarity produces ease, not conflict.",
+          "icon": "😌"
+        },
+        {
+          "l": "Mirroring without settling",
+          "t": "Two people copy each other's posture without either opening or closing — hierarchy not yet established.",
+          "icon": "🪞"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open your posture before a key exchange",
+          "desc": "Before making a point in a group, spread slightly — arms wider, back up. Watch whether the person you are addressing closes slightly in response. The effect usually shows within thirty seconds."
+        },
+        {
+          "n": "2",
+          "title": "Track who shrinks when you expand",
+          "desc": "Notice whose posture tightens as yours opens. That person has already placed themselves below you in the hierarchy of this moment without being told to."
+        },
+        {
+          "n": "3",
+          "title": "Compress deliberately to hand the floor",
+          "desc": "If you want someone specific to take ownership of a topic, compress your own posture while they are speaking. Watch whether they expand and step into the leadership of that point."
+        }
+      ],
+      "script": "\"Open your posture before you speak. The room adjusts without knowing it.\"",
+      "counter": "Someone is using postural expansion to silently claim rank over you.\n• Notice if your own posture has tightened in response. If it has, you have already started to submit.\n• Expand back deliberately — do not match their aggression, just hold your own space.\n• If they compress slightly in response, the hierarchy attempt has stalled.",
+      "insight": "Complementarity produces more comfort and liking than mirroring. This means the easiest group to run is one where everyone is already doing the hierarchy's work for you — the question is whether you set the opening position or walked into someone else's."
+    },
+    {
+      "id": 8,
+      "cat": "hierarchy",
+      "danger": "moderate",
+      "title": "Prestige Gets Respect; Dominance Gets Fear",
+      "hook": "<strong>There are two ways to make a group defer to you. Only one of them earns respect.</strong> Most people running rooms on fear do not know they have chosen the wrong weapon for the job they actually want.",
+      "truth": "Prestige and dominance are two separate paths to group influence. They look similar from outside but work through completely different mechanisms.\n• Prestige: others defer because they want to follow — based on admired skill or knowledge.\n• Dominance: others defer because they feel threatened — based on fear of what happens if they do not.\n• Vocal pitch drop signals dominance, not prestige. Prestige has no vocal signature.",
+      "principle": "Cheng & Tracy: Prestige-Dominance Dual Pathway",
+      "remember": "Groups follow prestige leaders willingly. They comply with dominant leaders quietly.",
+      "theySee": "Two leaders in the same meeting — one that people lean toward when they speak, and one that people go quiet around when they speak.",
+      "signals": [
+        {
+          "l": "Voluntary questions asked",
+          "t": "Group members ask the prestigious person questions they were not required to ask.",
+          "icon": "🙋"
+        },
+        {
+          "l": "Silence from compliance",
+          "t": "Group goes quiet when the dominant person speaks — no follow-up questions, just compliance.",
+          "icon": "🤐"
+        },
+        {
+          "l": "Eyes track with interest",
+          "t": "People look at the prestigious person with engagement, not avoidance or flatness.",
+          "icon": "✨"
+        },
+        {
+          "l": "Challenge goes sideways",
+          "t": "Nobody contradicts the dominant person directly — objections get redirected at someone else in the room.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Classify each influential person in the room",
+          "desc": "In the next group meeting, note for each influential person: do others follow with enthusiasm or with flat compliance? The difference is visible in the face and body of whoever is responding."
+        },
+        {
+          "n": "2",
+          "title": "Test the absent-leader effect",
+          "desc": "Notice what happens when the dominant person leaves the room. If the group immediately relaxes and conversation opens up, it was fear-based influence — not prestige."
+        },
+        {
+          "n": "3",
+          "title": "Ask the dominant person one hard specific question",
+          "desc": "Pick a factual question they should be able to answer. Watch whether they answer directly or deflect and redirect pressure elsewhere. Prestige answers; dominance redirects."
+        }
+      ],
+      "script": "\"When the room goes silent after someone speaks — not to think, just to comply — that is fear. Different thing from respect. Runs differently too.\"",
+      "counter": "A prestige player can be impersonated — someone copies the signals without the substance.\n• Test with a hard, specific question. Prestige survives. Fake prestige deflects or attacks the questioner.\n• Watch post-meeting behavior: does the group follow through on what they said, or quietly forget it?\n• Real prestige generates voluntary follow-up. Fear generates minimum compliance and private resistance.",
+      "insight": "Dominance keeps you in power as long as people feel the threat. The moment the threat weakens — or someone tests it openly — the whole structure comes apart fast. That is the structural fragility the prestige path does not carry."
+    },
+    {
+      "id": 9,
+      "cat": "counter",
+      "danger": "low",
+      "title": "The Person Others Check Before Deciding",
+      "hook": "<strong>The actual power in the room is not the person speaking loudest. It is the person everyone else glances at before agreeing.</strong>",
+      "truth": "In any group, the real decision-maker is often not the loudest voice but the person who receives involuntary glances from others before they commit to a position.\n• Others check this person's face before stating where they stand — they need the read first.\n• This person may say almost nothing, but when they speak, the group moves without argument.\n• Identify this person before the meeting starts. Everything else in the room is secondary.",
+      "principle": "Greene: Law 1 — Court Attention at All Costs (inverted)",
+      "remember": "Find who others glance at before they agree. That person runs the room.",
+      "theySee": "A quiet person at the table who has said almost nothing — but whenever a controversial point lands, three or four faces turn to look at them before anyone responds.",
+      "signals": [
+        {
+          "l": "Glances before agreement",
+          "t": "People look at one specific person right before they say 'I agree' or nod.",
+          "icon": "👀"
+        },
+        {
+          "l": "Pause after they speak",
+          "t": "The room goes quiet for a noticeable beat after this person makes any comment at all.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Others pre-position",
+          "t": "People shift their argument after this person signals any reaction — even a small one like a brow raise.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Never directly challenged",
+          "t": "No one in the room contradicts this person directly — objections go to someone else instead.",
+          "icon": "🛡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch faces during the first major disagreement",
+          "desc": "When the group hits its first real conflict, ignore the people arguing. Watch who everyone else glances at. That person is the actual decision-maker in this room."
+        },
+        {
+          "n": "2",
+          "title": "Reach them before the meeting starts",
+          "desc": "Talk to this person one-on-one beforehand. The position they take in the meeting will carry more weight than anything you say during it. Secure the read early."
+        },
+        {
+          "n": "3",
+          "title": "Map their micro-signals during the session",
+          "desc": "Watch for any small signal from this person — a nod, a slight lean forward, a brow raise — that the group uses as permission to move. Note each one."
+        }
+      ],
+      "script": "\"Before walking into any group decision, find the person everyone else watches. That is your real audience.\"",
+      "counter": "Someone may deliberately position themselves as the silent authority to gain influence without accountability.\n• Test them: ask a direct, specific question in front of the group. Make their influence visible and named.\n• If they deflect or stay vague, the authority is borrowed — they are holding power through other people's assumptions.\n• Naming silent authority once in the room often weakens it faster than arguing against it.",
+      "insight": "Silent authority is harder to challenge than loud authority — it has no stated position to attack. The next question is how you move against a person whose power lives entirely in other people's heads and never lands on paper."
+    },
+    {
+      "id": 10,
+      "cat": "hierarchy",
+      "danger": "high",
+      "title": "Interrupting Others Is a Rank Claim",
+      "hook": "<strong>Every interruption is a rank claim.</strong> The person cutting others off is not being rude — they are sending a status signal. The group reads it that way whether or not anyone says so.",
+      "truth": "Dominant group members interrupt more. This is not incidental — interruption signals that the current speaker's point matters less than what the interrupter is about to say.\n• Interruption flows downhill: high-status members cut off lower-status ones, rarely the reverse.\n• If the interrupted person stops and yields, they have confirmed the rank claim to everyone watching.\n• If the interrupted person continues talking, they are contesting the rank — not accepting the signal.",
+      "principle": "Burgoon et al.: Dominance Through Turn Disruption",
+      "remember": "Who gets cut off and who never does tells you the whole power map.",
+      "theySee": "One person talking, another cutting in mid-sentence — and the first person stopping rather than finishing their point, without any visible protest.",
+      "signals": [
+        {
+          "l": "Cuts in mid-sentence",
+          "t": "Person begins speaking before the current speaker has reached the end of their sentence.",
+          "icon": "✂️"
+        },
+        {
+          "l": "No apology after cut",
+          "t": "Person who interrupted does not pause or acknowledge that they cut in.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Interrupted person stops",
+          "t": "The speaker who was cut off immediately stops and defers rather than finishing.",
+          "icon": "🛑"
+        },
+        {
+          "l": "Group accepts the switch",
+          "t": "Nobody at the table reacts to the interruption as rude — they accept the new speaker as the current voice.",
+          "icon": "✅"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Track interruption direction in the next meeting",
+          "desc": "Note every interruption and map who it goes from and to. Three meetings of tracking this gives you a reliable, directional power map of the group."
+        },
+        {
+          "n": "2",
+          "title": "Hold your sentence through an interruption",
+          "desc": "When someone cuts you off, do not stop. Lower your volume slightly and finish your sentence. Then pause. This reclaims your turn without escalation or visible anger."
+        },
+        {
+          "n": "3",
+          "title": "Note the interruption gap in debrief",
+          "desc": "After a meeting, identify who was interrupted most and who was never interrupted. Write both names. That gap is the live hierarchy of the group on paper."
+        }
+      ],
+      "script": "\"He never gets cut off. Nobody else in this room has that. That alone tells you where the power sits.\"",
+      "counter": "Someone is interrupting you repeatedly to signal rank over you.\n• Do not stop mid-sentence. Finish it — quietly, without escalating.\n• If the pattern continues, name it once in the room: 'Let me finish the point.' Flat delivery, no apology.\n• Repeated interruptions you never contest read as confirmed submission to everyone watching.",
+      "insight": "The trap is contesting every interruption — that reads as status anxiety, not confidence. The real move is choosing which ones to hold through and which to let go. That choice is itself a dominance signal, and it is the harder one to calibrate."
+    },
+    {
+      "id": 11,
+      "cat": "dynamics",
+      "danger": "moderate",
+      "title": "Shrinking Your Posture Invites Someone Else to Take Charge",
+      "hook": "<strong>Compress your body and someone nearby will expand theirs.</strong> You do not just signal submission — you actively create a dominant person out of whoever is positioned near you.",
+      "truth": "Constricted posture does not just signal low status — it triggers dominant behavior in others nearby, without anyone deciding to do it. The hierarchy fills itself in automatically.\n• A person who shrinks in posture pulls expansion from whoever is positioned against them.\n• Those who complement each other — dominant meeting submissive — like each other more than those who copy.\n• Compression is not neutral: it is an active invitation to be led by whoever is close enough to notice.",
+      "principle": "Fragale: Complementarity and Hierarchical Differentiation",
+      "remember": "Compress your posture and someone nearby will expand to fill the gap.",
+      "theySee": "A person sitting with arms pulled in and shoulders curved forward — and a second person nearby who begins sitting taller and wider without visibly deciding to do so.",
+      "signals": [
+        {
+          "l": "Shoulders roll inward",
+          "t": "Person's shoulders curve forward, reducing the width of their upper body visibly.",
+          "icon": "🔻"
+        },
+        {
+          "l": "Arms pulled tight",
+          "t": "Arms press against the body rather than resting open beside it.",
+          "icon": "🤏"
+        },
+        {
+          "l": "Nearby person expands",
+          "t": "The person positioned across from the compressing person begins sitting higher and wider.",
+          "icon": "⬆️"
+        },
+        {
+          "l": "Voice drops in volume",
+          "t": "The compressing person's voice gets quieter alongside the shift in their posture.",
+          "icon": "🔇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set your posture before anyone else arrives",
+          "desc": "Before the group enters the room, sit with back upright and arms open. Hold it for sixty seconds. You have already set the opening position before the first word is spoken."
+        },
+        {
+          "n": "2",
+          "title": "Watch for involuntary expansion in others",
+          "desc": "When you open your posture deliberately, observe whether someone nearby starts to pull in without being asked. You are now reading the live hierarchy forming in real time."
+        },
+        {
+          "n": "3",
+          "title": "Use deliberate compression to hand the floor",
+          "desc": "If you want someone specific to step up and lead on a topic, compress your posture while they are speaking. Watch whether they expand and take ownership. This is a non-verbal hand-off."
+        }
+      ],
+      "script": "\"Pull your arms in and drop your shoulders and you will manufacture a leader from whoever is sitting in front of you.\"",
+      "counter": "Someone is using deliberate postural compression to play submissive and invite you to overcommit to dominance.\n• If you expanded in response to their compression without noticing, you are being managed.\n• Check whether their compression is selective — only around certain people, not everyone in the room.\n• Real submission is involuntary and consistent. Deliberate compression as a tactic is selective and controlled.",
+      "insight": "The complementarity effect means hierarchies form automatically from posture alone — no titles, no words required. The harder question is whether you are setting the hierarchy or being slotted into it before you notice what is happening."
+    },
+    {
+      "id": 12,
+      "cat": "counter",
+      "danger": "high",
+      "title": "When Dominance Signals and Actual Rank Don't Match",
+      "hook": "<strong>Someone can display every dominance signal and hold no real power.</strong> And someone can hold all the power while displaying almost none of the signals. Reading the room correctly means knowing which is which.",
+      "truth": "Dominance is behaviorally achieved — not assigned by title. Signals and rank can diverge sharply, especially under deliberate deception or in groups where hierarchy is still forming.\n• A person performing dominance without backing will crack the moment they face a specific, direct challenge.\n• A person holding real rank while displaying few signals is often running a longer game than anyone else at the table.\n• The highest-stakes deceptions in group settings come from people whose signals and rank deliberately do not align.",
+      "principle": "Burgoon et al.: Behavioral Achievement of Dominance",
+      "remember": "Big signals without group follow-through mean performance, not power.",
+      "theySee": "A person displaying confident posture, holding gaze, and speaking first and longest — while the person with actual authority sits quietly and says almost nothing until a decision has to be made.",
+      "signals": [
+        {
+          "l": "Signals without follow",
+          "t": "Dominant signals all present — expansion, gaze, early turn — but no one actually does what this person says.",
+          "icon": "💨"
+        },
+        {
+          "l": "First challenge dodged",
+          "t": "Person with all the dominant signals avoids or deflects the first direct, hard question asked of them.",
+          "icon": "🔀"
+        },
+        {
+          "l": "Quiet person decides",
+          "t": "After the loud person finishes, the group waits on a quieter person before actually moving.",
+          "icon": "🤫"
+        },
+        {
+          "l": "Title-holder shrinks",
+          "t": "The formally appointed leader displays constricted posture and takes few turns — a rank inversion visible in the body.",
+          "icon": "↕️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Test signals against what the group actually does",
+          "desc": "At the end of a group discussion, note whose suggestions the group followed. Compare that list to who displayed the most dominant signals. They often do not match."
+        },
+        {
+          "n": "2",
+          "title": "Challenge the performer with one specific question",
+          "desc": "Ask the high-signal, low-rank person a factual question they should be able to answer on the spot. Watch whether they answer, bluff, or redirect. One exchange exposes the gap cleanly."
+        },
+        {
+          "n": "3",
+          "title": "Find the quiet decision-maker",
+          "desc": "Look for the person the group waits on — low signals, few words, but whose comment closes discussions. That is the actual target in this room. Everything else is noise."
+        }
+      ],
+      "script": "\"The loudest person in the room is not always the most powerful. Watch who the group actually listens to when the decision has to be made.\"",
+      "counter": "Your own dominance signals may be running ahead of your actual backing in the group.\n• Track the last three group decisions: how many went the way you argued for?\n• If fewer than two did, your signals are ahead of your backing and the gap is visible to others.\n• Pull the signals back, deliver one clear result, then re-establish from a position of demonstrated weight.",
+      "insight": "The most dangerous person in any deliberation is the one whose signals and rank are deliberately mismatched — they can shift the group's read of the room before anyone knows a move was made. That is the link between dominance and deception that most group-dynamics work skips entirely, and it is where this dossier goes next."
+    }
+  ]
+}
