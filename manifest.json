@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-black-book-manipulation-spotter.json",
       "addedAt": "2026-07-04T05:22:54.707Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-praise-before-the-ask",
+      "title": "The Praise Before the Ask",
+      "theme": "persuasion",
+      "topic": "Handling flattery-then-ask sequencing",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "🎭",
+      "url": "playbooks/playbook-srv-the-praise-before-the-ask.json",
+      "addedAt": "2026-07-14T15:21:14.352Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-07-04T05:22:54.707Z"
+  "generatedAt": "2026-07-14T15:21:14.352Z"
 }
