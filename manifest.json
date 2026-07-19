@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-black-book-manipulation-spotter.json",
       "addedAt": "2026-07-04T05:22:54.707Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-stand-firm",
+      "title": "Stand Firm",
+      "theme": "manipulation",
+      "topic": "Standing firm when someone weaponizes your own words",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#0D0D1A",
+      "coverIcon": "🪤",
+      "url": "playbooks/playbook-srv-stand-firm.json",
+      "addedAt": "2026-07-19T14:54:56.491Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-07-04T05:22:54.707Z"
+  "generatedAt": "2026-07-19T14:54:56.491Z"
 }

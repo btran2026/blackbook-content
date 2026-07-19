@@ -1,0 +1,700 @@
+{
+  "meta": {
+    "id": "srv-stand-firm",
+    "version": "1.0",
+    "title": "Stand Firm",
+    "subtitle": "When They Turn Your Words Into a Weapon",
+    "description": "12 cards for holding your ground when someone twists what you said, weaponizes therapy language, or makes your pushback the problem.",
+    "author": "AI",
+    "createdAt": "2026-07-19T14:54:56.491Z",
+    "tags": [
+      "manipulation",
+      "gaslighting",
+      "therapy speak",
+      "defense",
+      "standing firm",
+      "word weaponization"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#0D0D1A",
+    "coverIcon": "🪤",
+    "fromServer": true,
+    "generation": {
+      "topic": "Standing firm when someone weaponizes your own words",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "spot",
+      "label": "Read the Play",
+      "color": "#C0392B"
+    },
+    {
+      "key": "ground",
+      "label": "Stay Grounded",
+      "color": "#1A5276"
+    },
+    {
+      "key": "counter",
+      "label": "Counter-Move",
+      "color": "#6C3483"
+    },
+    {
+      "key": "hold",
+      "label": "Hold the Line",
+      "color": "#2C3E50"
+    },
+    {
+      "key": "exit",
+      "label": "Know When to Stop",
+      "color": "#784212"
+    },
+    {
+      "key": "rebuild",
+      "label": "After the Fight",
+      "color": "#1E8449"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "spot",
+      "danger": "moderate",
+      "title": "Spot Weaponized Therapy Talk",
+      "hook": "When someone uses \"boundaries,\" \"gaslighting,\" or \"toxic\" to <strong>end</strong> a conversation — not start one — the language is a weapon, not a diagnosis.",
+      "truth": "Most people fold the moment a clinical word is pointed at them.\n• The label lands hardest right when you push back on their behavior.\n• You doubt yourself because the words sound so reasonable.\n• You end up apologizing without knowing what you actually did wrong.",
+      "principle": "Weaponized Therapy Speak: Unfalsifiable Frame",
+      "remember": "The words sound healthy. The goal is to shut you down.",
+      "theySee": "A person saying \"that's not okay\" or \"you're being defensive\" every single time you disagree with them.",
+      "signals": [
+        {
+          "l": "Label on cue",
+          "t": "The clinical word appears right when you press them to explain their behavior.",
+          "icon": "🏷️"
+        },
+        {
+          "l": "Talk cuts off",
+          "t": "The conversation ends the moment the label lands.",
+          "icon": "🔇"
+        },
+        {
+          "l": "You apologize",
+          "t": "You say sorry but cannot explain to yourself what you did wrong.",
+          "icon": "😓"
+        },
+        {
+          "l": "Same words repeat",
+          "t": "Different fights, different days — the same three words every single time.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log the exact words",
+          "desc": "Write down what they said and when in the conversation they said it. Do it within one hour."
+        },
+        {
+          "n": "2",
+          "title": "Check the timing",
+          "desc": "Note whether the label appeared right after you pushed back on something they did, not something you did."
+        },
+        {
+          "n": "3",
+          "title": "Hold your response",
+          "desc": "Say nothing for ten seconds. Don't apologize or explain yet. Let the silence sit."
+        }
+      ],
+      "script": "\"I'm not going to respond to that label. Tell me what I actually did.\"",
+      "counter": "If someone calls your behavior toxic or defensive right as you push back on them, that is the move.\n• The label appeared when they were cornered, not when you were wrong.\n• Say: \"What specific thing did I do?\"\n• Don't argue the label. Ask for the concrete behavior behind it.",
+      "insight": "Once you can name the pattern, the harder part is refusing to absorb the guilt that comes with it."
+    },
+    {
+      "id": 2,
+      "cat": "ground",
+      "danger": "high",
+      "title": "You Cannot Win From Inside Their Frame",
+      "hook": "When every defense you make is treated as <strong>more proof</strong> of the problem, you are inside a trap. Arguing harder does not get you out.",
+      "truth": "The trap is built so that your response confirms the accusation.\n• Pushing back confirms it. Staying silent confirms it too.\n• Every response you give is processed as additional evidence against you.\n• The only move is to refuse the terms of the argument entirely.",
+      "principle": "Bateson: Double Bind Theory",
+      "remember": "Arguing their point on their terms is how you lose.",
+      "theySee": "A person defending themselves calmly while the other person says their calm reply proves the original charge.",
+      "signals": [
+        {
+          "l": "Both paths lose",
+          "t": "Responding confirms the charge. Staying silent confirms it too.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Target moves",
+          "t": "Every time you address one claim, a new one appears before the first is resolved.",
+          "icon": "🎯"
+        },
+        {
+          "l": "You over-explain",
+          "t": "You find yourself writing long paragraphs defending behavior that was completely normal.",
+          "icon": "📝"
+        },
+        {
+          "l": "Facts dismissed",
+          "t": "You provide a clear fact and they wave it away without giving a reason.",
+          "icon": "🚫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the trap out loud",
+          "desc": "Say: 'You've set this up so any answer I give proves your point.' Say it once, flat."
+        },
+        {
+          "n": "2",
+          "title": "Stop defending",
+          "desc": "Drop every explanation you were preparing. Delete the paragraph. Do not send it."
+        },
+        {
+          "n": "3",
+          "title": "Demand one concrete claim",
+          "desc": "Say: 'Tell me one specific thing I did wrong. I'll address that one thing. Only that.'"
+        }
+      ],
+      "script": "\"You've made this so that any answer I give proves your point. I'm not playing that game.\"",
+      "counter": "If someone names the double bind — 'any answer I give confirms the charge' — the play is done.\n• They saw the trap. Repeating the charge now looks dishonest.\n• Drop the label or state a specific, falsifiable claim.\n• A claim that cannot be disproved is not a claim — it's a control move.",
+      "insight": "The harder move is sitting in the accusation without answering it. Most people physically cannot hold that for more than thirty seconds."
+    },
+    {
+      "id": 3,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Name What Is Happening Instead of Arguing the Label",
+      "hook": "Stop debating the accusation. <strong>Describe the conversation itself.</strong> The moment you switch levels, the dynamic shifts.",
+      "truth": "People who weaponize labels rely on you staying inside their argument.\n• Arguing the label accepts the label as the subject.\n• Describing the pattern changes the subject to the move itself.\n• They either engage honestly or expose themselves by refusing to.",
+      "principle": "Bateson: Meta-Communication Frame",
+      "remember": "Stop arguing the label. Name what is happening instead.",
+      "theySee": "A person who pauses mid-argument and says 'I notice this word comes up every time I push back' instead of defending the original charge.",
+      "signals": [
+        {
+          "l": "They redirect",
+          "t": "They change the subject instead of addressing what you just named.",
+          "icon": "↩️"
+        },
+        {
+          "l": "New charge drops",
+          "t": "They introduce a second accusation to pull focus away from the first.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Volume rises",
+          "t": "Your naming the pattern makes them louder, not quieter.",
+          "icon": "📢"
+        },
+        {
+          "l": "Long pause",
+          "t": "Silence falls after you name the pattern — they were not expecting that move.",
+          "icon": "⏸️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write one sentence before the next conversation",
+          "desc": "Write: 'Every time I push back, you say [specific word]. I'm noticing that pattern.'"
+        },
+        {
+          "n": "2",
+          "title": "Say it once, no heat",
+          "desc": "Deliver the line flat. Don't repeat it, don't build a case around it. One sentence."
+        },
+        {
+          "n": "3",
+          "title": "Watch what they do next",
+          "desc": "Their next move tells you whether they are in good faith. Redirection or a new charge means no."
+        }
+      ],
+      "script": "\"Every time I push back on something you did, the word 'defensive' appears. I'm noticing that pattern.\"",
+      "counter": "If someone names your pattern, do not redirect. Redirecting confirms what they said.\n• Sit with the observation instead of firing back with a new charge.\n• Say: 'Tell me more about what you're seeing.'\n• A topic shift right after they name it confirms they were right.",
+      "insight": "This only works once per relationship. Use it in every fight and it becomes the next thing they use against you."
+    },
+    {
+      "id": 4,
+      "cat": "spot",
+      "danger": "low",
+      "title": "Watch When the Label Drops, Not What Label They Use",
+      "hook": "\"Narcissist\" and \"gaslighting\" rarely appear at the start of a conversation. They appear when someone is <strong>cornered</strong>.",
+      "truth": "Timing is the clearest signal that a clinical word is a weapon, not an observation.\n• A genuine observation doesn't depend on being cornered first.\n• The label makes you the subject and gets them off the hook.\n• If they can't name the specific thing you did, the label was a move.",
+      "principle": "Diagnostic Principle: Timing Reveals Motive",
+      "remember": "Labels that drop right when you push back are usually fake.",
+      "theySee": "A person who just asked 'what did you mean by that?' and is now suddenly being told they are 'gaslighting.'",
+      "signals": [
+        {
+          "l": "Corner first",
+          "t": "The label drops immediately after you ask them to explain their own behavior.",
+          "icon": "📍"
+        },
+        {
+          "l": "No history",
+          "t": "The clinical word never came up in calmer moments — only when they were pressed.",
+          "icon": "📅"
+        },
+        {
+          "l": "Topic gone",
+          "t": "Once the label lands, the original question you asked completely disappears.",
+          "icon": "💨"
+        },
+        {
+          "l": "Quick pivot",
+          "t": "They move to your behavior the instant their own behavior was under review.",
+          "icon": "↪️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Note what you said right before it",
+          "desc": "Write down the sentence you said immediately before the label appeared. That sentence cornered them."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the specific behavior",
+          "desc": "Say: 'What specifically did I say that was [the label they used]? Give me the exact thing.'"
+        },
+        {
+          "n": "3",
+          "title": "Wait for the answer",
+          "desc": "Hold silence. If they can't name a specific behavior, the label was a move, not a fact."
+        }
+      ],
+      "script": "\"What specifically did I say that was gaslighting? I want to understand the exact thing.\"",
+      "counter": "If someone asks for the specific behavior behind a label you used and you cannot answer, you used it as a weapon.\n• 'You know what you did' is not an answer.\n• Either name the specific behavior or take the label back.\n• Doubling down without evidence confirms you were in bad faith.",
+      "insight": "Most people never ask for the specific thing. The label works precisely because nobody demands receipts."
+    },
+    {
+      "id": 5,
+      "cat": "hold",
+      "danger": "moderate",
+      "title": "Stop Explaining Yourself",
+      "hook": "When someone is twisting what you say, the instinct is to explain more clearly. <strong>That is the wrong move.</strong> More words give them more material.",
+      "truth": "Over-explaining is a gift to someone who weaponizes words.\n• Each new explanation gives them fresh sentences to pull out of context.\n• The impulse to be understood keeps you producing material they can use.\n• One clear sentence is harder to weaponize than three careful paragraphs.",
+      "principle": "Greene: Law 4 — Always Say Less Than Necessary",
+      "remember": "Every extra word you say gives them more to twist.",
+      "theySee": "A person sending a long message to clarify what they meant, while the reader highlights two words from it.",
+      "signals": [
+        {
+          "l": "Quote pulled",
+          "t": "They lift one line from a long message and use it completely by itself.",
+          "icon": "✂️"
+        },
+        {
+          "l": "You add more",
+          "t": "You keep adding sentences to make it clearer — and each one makes it worse.",
+          "icon": "📝"
+        },
+        {
+          "l": "Apology opens more",
+          "t": "Every apology you give opens a new line of questioning instead of closing one.",
+          "icon": "🔓"
+        },
+        {
+          "l": "You reread it",
+          "t": "You reread your own message three times before sending, looking for what they'll use.",
+          "icon": "👁️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write one sentence",
+          "desc": "State your actual position in one sentence. Delete everything else you wrote."
+        },
+        {
+          "n": "2",
+          "title": "Don't defend the sentence",
+          "desc": "If they push back, say the sentence again. Do not add to it, do not explain it."
+        },
+        {
+          "n": "3",
+          "title": "Cut your next message in half",
+          "desc": "Take whatever you were about to send. Cut it in half. Send the shorter version."
+        }
+      ],
+      "script": "\"I said what I said. I'm not going to keep explaining it.\"",
+      "counter": "If someone gives you very short answers, they may be controlling how much material you have.\n• Short answers are not agreement — ask a direct yes or no question.\n• One clear answer is harder to dodge than three vague ones.\n• Make them produce something specific before you produce more.",
+      "insight": "The goal is not to be understood. The goal is to not give them more to work with. Those are different things."
+    },
+    {
+      "id": 6,
+      "cat": "hold",
+      "danger": "moderate",
+      "title": "Don't Label Them Back",
+      "hook": "When they call you defensive, the instinct is to call them manipulative. <strong>Don't.</strong> Counter-labeling hands them a clean story and loses you the point.",
+      "truth": "Throwing a label back puts both of you on the same level — and neither of you looks good.\n• Label versus label means the conversation is now about who is worse.\n• You lose the original point the moment you leave the specific.\n• Staying on the concrete behavior is where you have the upper hand.",
+      "principle": "Rhetoric: Ad Rem Over Ad Hominem",
+      "remember": "Calling them toxic or narcissistic just makes the fight worse.",
+      "theySee": "Two people calling each other 'narcissist' and 'manipulative' while nobody is talking about what actually happened.",
+      "signals": [
+        {
+          "l": "Label match",
+          "t": "They call you something and you immediately call them the same thing back.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Incident gone",
+          "t": "The actual event that started the conversation is no longer being discussed.",
+          "icon": "💨"
+        },
+        {
+          "l": "Audience splits",
+          "t": "Anyone watching sees two people accusing each other — not one person being wrong.",
+          "icon": "👥"
+        },
+        {
+          "l": "Gets louder",
+          "t": "The conversation gets more heated but less specific with each exchange.",
+          "icon": "📢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Delete the counter-label",
+          "desc": "Find the sentence where you were about to call them manipulative or toxic. Delete it before sending."
+        },
+        {
+          "n": "2",
+          "title": "Return to the incident",
+          "desc": "Say: 'I'm talking about what happened on [specific day]. That is all I'm talking about.'"
+        },
+        {
+          "n": "3",
+          "title": "Name the behavior, not the person",
+          "desc": "Say: 'You said X in that moment. That is what I am addressing.' Nothing more."
+        }
+      ],
+      "script": "\"I'm not going to trade diagnoses. Tell me what I actually did wrong.\"",
+      "counter": "If someone refuses to counter-label and keeps naming specific behaviors, they have the upper hand.\n• They have a fact. You have a label. Facts win.\n• Match their specificity or drop the label.\n• General accusations lose to specific ones every time.",
+      "insight": "Staying specific while they throw labels is uncomfortable. It is also the only position that wins in front of a third party."
+    },
+    {
+      "id": 7,
+      "cat": "hold",
+      "danger": "moderate",
+      "title": "Being Called Defensive Is Not Proof You Are Wrong",
+      "hook": "\"You're being so defensive\" is the most convenient shutdown in any argument. It turns your <strong>disagreement into evidence against you.</strong>",
+      "truth": "The accusation of defensiveness is designed to make you doubt your own pushback.\n• Defending yourself against a false claim is appropriate, not pathological.\n• The word makes you the problem instead of the claim you're disputing.\n• Accepting the label means accepting that you were wrong.",
+      "principle": "Circular Reasoning: Tu Quoque Fallacy",
+      "remember": "Pushing back on a false claim is not being defensive.",
+      "theySee": "A person disagreeing firmly with something said about them and being told their firmness is proof of the problem.",
+      "signals": [
+        {
+          "l": "Pushback punished",
+          "t": "Every time you disagree, you are told you are 'reacting' or 'not able to hear this.'",
+          "icon": "⚡"
+        },
+        {
+          "l": "Calm flipped",
+          "t": "Staying even-tempered is called 'cold' or 'dismissive' — either way, you're still wrong.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Label grows",
+          "t": "First 'defensive,' then 'toxic,' then 'unsafe' — the charge escalates with each pushback.",
+          "icon": "📈"
+        },
+        {
+          "l": "Voice softens",
+          "t": "You lower your tone and add apologies just to make the label stop landing.",
+          "icon": "🔉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the distinction out loud",
+          "desc": "Say: 'I disagree with that. Disagreeing is not the same as being defensive.'"
+        },
+        {
+          "n": "2",
+          "title": "Hold the disagreement",
+          "desc": "Don't soften it, don't add qualifiers. Let the disagreement stand where it is."
+        },
+        {
+          "n": "3",
+          "title": "Name the move",
+          "desc": "Say: 'Calling me defensive doesn't make the claim right. Address the claim itself.'"
+        }
+      ],
+      "script": "\"I'm disagreeing with you. That is not the same as being defensive.\"",
+      "counter": "If someone holds their disagreement calmly after you call them defensive, that move is done.\n• The label didn't land. Repeating it makes you look unreasonable.\n• Either support the original claim with something specific or move on.\n• Repeating a label that didn't stick makes you the problem in the room.",
+      "insight": "The harder part is holding the disagreement when everyone around you looks uncomfortable watching you not back down."
+    },
+    {
+      "id": 8,
+      "cat": "ground",
+      "danger": "high",
+      "title": "Correct the Record Immediately, Then Stop",
+      "hook": "\"You said you could make it.\" \"I didn't say that.\" This is ground zero of weaponized words. <strong>Correct it once. Then hold.</strong>",
+      "truth": "Letting a false version stand even once gives it room to become the accepted version.\n• State the correct version once, flat and without emotion.\n• Don't argue about who remembers better — that trap has no floor.\n• If you have a written record, produce it now. If not, stop there.",
+      "principle": "Loftus: Misinformation Effect",
+      "remember": "Say the correction once. Repeating it looks like arguing.",
+      "theySee": "A person saying calmly 'that's not what I said' and then not repeating it three more times.",
+      "signals": [
+        {
+          "l": "No witness",
+          "t": "The disputed statement has no third party who heard it — your word against theirs.",
+          "icon": "👤"
+        },
+        {
+          "l": "Emotional anchor",
+          "t": "They attach strong emotion to the claim — 'you promised,' 'you swore to me.'",
+          "icon": "⚓"
+        },
+        {
+          "l": "History rewritten",
+          "t": "They now describe past conversations differently than they happened.",
+          "icon": "📚"
+        },
+        {
+          "l": "You go blank",
+          "t": "You start questioning whether you actually said it — even though you know you didn't.",
+          "icon": "😶"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Correct it once",
+          "desc": "Say: 'That's not what I said. What I said was [exact words].' Say it once and stop."
+        },
+        {
+          "n": "2",
+          "title": "Produce the record",
+          "desc": "If you have a text, email, or voicemail, share it now. Don't wait for the fight to escalate."
+        },
+        {
+          "n": "3",
+          "title": "Stop repeating",
+          "desc": "After the correction, drop it. More repetition looks like arguing, not correcting."
+        }
+      ],
+      "script": "\"That's not what I said. What I said was [exact words].\"",
+      "counter": "If someone produces a written record of what they said, don't fight the record.\n• Arguing against written proof destroys your credibility in the room.\n• Say: 'I understood it differently than what's written there.'\n• Admit the record exists. Dispute the interpretation of it.",
+      "insight": "The move that follows this is keeping a record — because the same claim will come back in the next fight."
+    },
+    {
+      "id": 9,
+      "cat": "rebuild",
+      "danger": "low",
+      "title": "Write Down What Actually Happened",
+      "hook": "When someone rewrites history, the person with <strong>written notes</strong> wins — not in the fight, but in front of anyone else who matters.",
+      "truth": "Memory is editable. Notes made right after the fact are not.\n• Write what was said within one hour of the conversation ending.\n• Include date, exact words, and who was present.\n• A written pattern across multiple events cannot be dismissed as 'just your feelings.'",
+      "principle": "Legal Principle: Contemporaneous Record",
+      "remember": "Notes from today beat your memory next month.",
+      "theySee": "A person who, after a hard conversation, opens their phone and types out what was said word for word before doing anything else.",
+      "signals": [
+        {
+          "l": "Claim repeats",
+          "t": "They repeat a false version of something from weeks ago and sound completely certain.",
+          "icon": "🔁"
+        },
+        {
+          "l": "No record",
+          "t": "You have no witness and no written note when they dispute what happened.",
+          "icon": "📭"
+        },
+        {
+          "l": "Memory gone",
+          "t": "You can't remember the exact words and start to doubt what you know you heard.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "Stakes rise",
+          "t": "HR, family, or other people are now being told the other version of the story.",
+          "icon": "📈"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log it today",
+          "desc": "Write the date, what was said, and who was present. Do it within one hour of the conversation ending."
+        },
+        {
+          "n": "2",
+          "title": "Keep the texts",
+          "desc": "Screenshot any written exchange and store it outside the app. Don't rely on the platform staying available."
+        },
+        {
+          "n": "3",
+          "title": "Note what triggered it",
+          "desc": "After three entries, read them together. The trigger — what you said right before the move — will show itself."
+        }
+      ],
+      "script": "\"I wrote down what happened right after it occurred. I have the date and the exact words.\"",
+      "counter": "If someone says they have notes and a date, take it seriously.\n• Notes made right after the event carry more weight than memory argued months later.\n• Don't dismiss the record — ask to see it.\n• If the record is accurate, the documented pattern is now the conversation.",
+      "insight": "The record doesn't help you win the fight. It helps you know whether you're seeing clearly — which is harder to hold onto than you think."
+    },
+    {
+      "id": 10,
+      "cat": "counter",
+      "danger": "high",
+      "title": "Correct the Public Version Without a Scene",
+      "hook": "They tell the room what you \"said.\" It's not what you said. The wrong move is to erupt. The right move is <strong>one flat, clean correction.</strong>",
+      "truth": "Public word-twisting relies on you staying silent or overreacting — both work in their favor.\n• Silence reads as agreement. A big reaction reads as instability.\n• One calm, specific correction shifts who looks credible in the room.\n• 'What I actually said was X' needs no heat to land.",
+      "principle": "Greene: Law 5 — Guard Your Reputation",
+      "remember": "One clean correction is enough. More looks desperate.",
+      "theySee": "A person at a table saying 'that's not quite right' when someone misrepresents what they said, then returning to the topic without drama.",
+      "signals": [
+        {
+          "l": "Eyes on you",
+          "t": "Everyone in the room looks at you the moment the false version is stated.",
+          "icon": "👀"
+        },
+        {
+          "l": "The pause",
+          "t": "There is a beat of silence after the false version is stated — the room is waiting.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Said with confidence",
+          "t": "They state the false version with total certainty, no qualifier, no hesitation.",
+          "icon": "🎤"
+        },
+        {
+          "l": "Room nods",
+          "t": "Others start accepting the false version before you have said a single word.",
+          "icon": "👥"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Correct once, flat",
+          "desc": "Say: 'That's not what I said. What I said was [exact words].' No apology, no heat."
+        },
+        {
+          "n": "2",
+          "title": "Return to the topic",
+          "desc": "Move immediately back to whatever was being discussed. Don't stay on the correction."
+        },
+        {
+          "n": "3",
+          "title": "Let the room do the rest",
+          "desc": "People who saw the correction will file it. You don't need to make them believe you."
+        }
+      ],
+      "script": "\"That's not quite right. What I actually said was [exact words].\"",
+      "counter": "If someone calmly corrects the public version of what you said, don't repeat the false version.\n• Repeating it after a clean correction makes you look dishonest to everyone in the room.\n• Accept the correction or ask to revisit the conversation privately.\n• A correction delivered without heat carries more weight than one delivered with emotion.",
+      "insight": "The room decides in the first few seconds. After that, you're performing, not correcting."
+    },
+    {
+      "id": 11,
+      "cat": "exit",
+      "danger": "moderate",
+      "title": "Having a Limit Is Not Toxic",
+      "hook": "You say no to something. They say you're being toxic for not respecting their \"boundary.\" <strong>Their boundary is that you must agree with them.</strong>",
+      "truth": "The word 'boundary' gets weaponized when it is used to demand you stop disagreeing.\n• A real limit protects the person who names it from a specific behavior.\n• A weaponized limit demands you stop questioning, pushing back, or leaving.\n• If refusing their 'boundary' automatically makes you toxic, the word is being misused.",
+      "principle": "Coercive Control: Compliance Demand Disguised as Boundary",
+      "remember": "Setting a limit is not toxic. Calling someone toxic for naming one is the move.",
+      "theySee": "A person saying 'I don't agree with that' and being told they are crossing a boundary by disagreeing.",
+      "signals": [
+        {
+          "l": "Agreement required",
+          "t": "Their 'boundary' disappears when you agree and reappears the moment you don't.",
+          "icon": "✅"
+        },
+        {
+          "l": "Toxic label",
+          "t": "Disagreeing with them gets you labeled 'unsafe' or 'disrespecting their needs.'",
+          "icon": "☢️"
+        },
+        {
+          "l": "Definition moves",
+          "t": "What counts as crossing the limit changes depending on what you said that day.",
+          "icon": "🎯"
+        },
+        {
+          "l": "You apologize",
+          "t": "You say sorry for something that was a completely normal disagreement.",
+          "icon": "😓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the specific behavior",
+          "desc": "Say: 'Tell me exactly what behavior you want me to stop.' Wait for a concrete answer."
+        },
+        {
+          "n": "2",
+          "title": "Separate behavior from disagreement",
+          "desc": "Ask yourself: Is the thing they want me to stop a specific behavior — or is it disagreeing? Those are not the same."
+        },
+        {
+          "n": "3",
+          "title": "Decide without guilt",
+          "desc": "If the 'boundary' is that you must agree with them, you are not required to honor it."
+        }
+      ],
+      "script": "\"Tell me exactly what you want me to stop doing. Disagreeing with you is not something I'm going to stop.\"",
+      "counter": "If someone asks what specific behavior you want them to stop, you need a specific answer.\n• 'Stop being defensive' is not a behavior — name the actual action.\n• If you cannot name a specific behavior, you do not have a case.\n• General limits have no weight against someone who is paying attention.",
+      "insight": "The hardest call is deciding when someone's limit is about protecting themselves versus controlling you. From the outside, they look identical."
+    },
+    {
+      "id": 12,
+      "cat": "exit",
+      "danger": "high",
+      "title": "Some People Are Not Trying to Understand You",
+      "hook": "You keep explaining because you believe they'll eventually see what you meant. <strong>Some people will not.</strong> That is not a communication problem.",
+      "truth": "When understanding never comes no matter how clearly you explain, stop explaining.\n• The person who keeps explaining is the one who wants something from the other.\n• Repeated attempts to be understood give them more material and more time.\n• Stopping the need to be understood is the last move available — and the strongest one.",
+      "principle": "DARVO: Deny, Attack, Reverse Victim and Offender",
+      "remember": "Chasing their understanding when they will not give it costs you every time.",
+      "theySee": "A person who stops explaining, sends no more messages, and lets the silence sit there without filling it.",
+      "signals": [
+        {
+          "l": "Nothing lands",
+          "t": "Every explanation you give produces a new accusation before the first is resolved.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Apology loop",
+          "t": "You apologize, they accept it, then bring the same thing up again in the next fight.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Same fight again",
+          "t": "You've had this exact conversation, nearly word for word, more than twice.",
+          "icon": "⏮️"
+        },
+        {
+          "l": "You're tired",
+          "t": "You feel drained before the conversation even starts — you already know how it ends.",
+          "icon": "😮‍💨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set a hard stop",
+          "desc": "Decide now: after this conversation, you send no more explanations on this specific topic."
+        },
+        {
+          "n": "2",
+          "title": "Say your position once",
+          "desc": "Deliver your position clearly, once. Then stop. Do not add to it if they push."
+        },
+        {
+          "n": "3",
+          "title": "Let the distance work",
+          "desc": "Limit contact to what is necessary. Do not fill the silence with more messages."
+        }
+      ],
+      "script": "\"I've said what I have to say. I'm done explaining this.\"",
+      "counter": "If someone stops explaining and goes quiet, don't fill the silence with more accusations.\n• Silence is a position, not an invitation to keep going.\n• Pushing more charges into silence makes you look like the problem.\n• The next move belongs to you — use it carefully or not at all.",
+      "insight": "Stopping the need to be understood by this person is not giving up. The harder question is whether you can hold that without going back for one more round."
+    }
+  ]
+}
