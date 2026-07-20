@@ -1,0 +1,701 @@
+{
+  "meta": {
+    "id": "srv-invisible-strings",
+    "version": "1.0",
+    "title": "Invisible Strings",
+    "subtitle": "A Field Guide to Favors That Cost More Than They Look",
+    "description": "Every gift has a giver. Every giver has a reason. This dossier teaches you to read both before you accept anything — and to recognize when the debt has already been set.",
+    "author": "AI",
+    "createdAt": "2026-07-20T15:53:10.596Z",
+    "tags": [
+      "manipulation",
+      "reciprocity",
+      "gifts",
+      "dark psychology",
+      "social dynamics",
+      "debt",
+      "favors"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🎁",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting when a favor comes with invisible strings",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "narrative"
+    }
+  },
+  "categories": [
+    {
+      "key": "read",
+      "label": "Reading the Gift",
+      "color": "#C0392B"
+    },
+    {
+      "key": "debt",
+      "label": "Emotional Debt",
+      "color": "#8E44AD"
+    },
+    {
+      "key": "repair",
+      "label": "Fake Repair",
+      "color": "#D35400"
+    },
+    {
+      "key": "defense",
+      "label": "Defense",
+      "color": "#2C3E50"
+    },
+    {
+      "key": "counter",
+      "label": "Counter-Strike",
+      "color": "#1A5276"
+    },
+    {
+      "key": "exit",
+      "label": "The Clean Break",
+      "color": "#117A65"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "Read the Giver Before You Accept Anything",
+      "hook": "Not every gift is generosity. Some are <strong>opening bids</strong> — the giver expects a return, and you haven't agreed to the deal yet.",
+      "truth": "Most people judge a gift by what it is, not who's giving it or why — and that's the mistake.\n• Reciprocity is wired deep. Accepting anything creates a pull to give back.\n• The giver gets power over you the moment you take something from them.\n• The trap: expensive gifts from controlling people feel hard to refuse later.",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Look at the person handing it over, not the box.",
+      "theySee": "A friend offering you something nice, smiling, saying they just thought of you.",
+      "signals": [
+        {
+          "l": "No occasion",
+          "t": "The gift arrives with no birthday, holiday, or event to explain it.",
+          "icon": "🤔"
+        },
+        {
+          "l": "Price feels off",
+          "t": "The gift is more expensive than your friendship warrants.",
+          "icon": "💸"
+        },
+        {
+          "l": "Giver watches you",
+          "t": "They watch your face closely as you open or receive it.",
+          "icon": "👀"
+        },
+        {
+          "l": "Talk shifts fast",
+          "t": "Right after giving it, they quickly move to a favor or request.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write Their Track Record in Three Lines",
+          "desc": "Has this person given before and then held it over you? Write one sentence per past incident. Two or three incidents and you have a pattern."
+        },
+        {
+          "n": "2",
+          "title": "Name What Saying Yes Commits You To",
+          "desc": "If you accept, what will they expect in return? Name it in plain words, not a vague 'I'll owe them one.' If you can't name it, that's the point — the commitment is vague on purpose."
+        },
+        {
+          "n": "3",
+          "title": "Pause Before Accepting",
+          "desc": "Say 'Let me think about that' or 'That's kind of you' before committing. Don't take it yet. The first ten seconds are free."
+        }
+      ],
+      "script": "\"That's very kind of you. Let me think about whether I can accept this right now.\"",
+      "counter": "When this move runs on you, the giver is creating debt before naming the price.\n• Did the gift arrive right before they needed something from you?\n• Say: \"I appreciate it, but I don't want to feel obligated.\"\n• Return or pay for the gift yourself to clear the debt on your terms.",
+      "insight": "The cleanest move is refusing before you touch it — once you've thanked them and walked away with it, the debt is real whether you acknowledged it or not."
+    },
+    {
+      "id": 2,
+      "cat": "debt",
+      "danger": "high",
+      "title": "A Favor That Gets Mentioned Twice Is a Loan",
+      "hook": "A true favor is given once and never brought up again. The moment they mention it a second time, <strong>they're invoking the debt.</strong>",
+      "truth": "Most people think gratitude ends the transaction. The person who gave the favor disagrees.\n• Each reminder resets the debt — it never fully clears in their mind.\n• You start editing your behavior to avoid another reminder.\n• The trap: they don't need to ask directly. The reminder does the work.",
+      "principle": "Sunk-Cost Anchoring",
+      "remember": "A favor mentioned twice is a bill, not a gift.",
+      "theySee": "A friend who has helped you in the past, casually bringing up what they did for you mid-conversation.",
+      "signals": [
+        {
+          "l": "Story retold",
+          "t": "They tell the story of helping you to someone else while you're present.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "'Remember when'",
+          "t": "They open a request with 'Remember when I helped you with...'",
+          "icon": "📌"
+        },
+        {
+          "l": "Timing is off",
+          "t": "They bring it up right before asking you for something.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Edge in voice",
+          "t": "Their tone carries just a little irritation when the favor comes up.",
+          "icon": "😤"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count How Many Times They've Referenced the Favor",
+          "desc": "Recall every time they've mentioned it — to you, to others, in front of a room. Write the count. Once is a gift. Twice is a bill."
+        },
+        {
+          "n": "2",
+          "title": "Notice What Request Follows the Reminder",
+          "desc": "Write down what they asked for each time they brought it up. If a pattern exists, it's visible on paper now."
+        },
+        {
+          "n": "3",
+          "title": "Set Your Ceiling Before the Next Ask",
+          "desc": "Before they ask again, decide the maximum you're willing to give this person. Write it down. Know your number before they make it emotional."
+        }
+      ],
+      "script": "\"I'm glad I could help you then. That felt complete to me — what did you need today?\"",
+      "counter": "Favor reminders are a debt collection move. Someone is using past help to push future compliance.\n• Are they bringing it up right when you're about to say no?\n• Say: \"I appreciated what you did. I don't see that as an ongoing tab.\"\n• Give back what you owe in a clear, specific way and say out loud that it's settled.",
+      "insight": "The harder problem is that calling this out directly makes you look ungrateful to anyone watching — which is exactly why they do it in front of an audience."
+    },
+    {
+      "id": 3,
+      "cat": "repair",
+      "danger": "high",
+      "title": "A Gift After Bad Behavior Is Not an Apology",
+      "hook": "They hurt you, then gave you something. The gift felt like resolution. <strong>It wasn't.</strong> The behavior that caused the problem is still there.",
+      "truth": "A present after harm creates emotional confusion — your nervous system starts linking the pain with affection.\n• The person skips accountability and buys your silence instead.\n• Over time, you stop expecting an actual apology. The gift becomes enough.\n• The trap: you start tolerating worse behavior because a gift always follows.",
+      "principle": "Repair Without Responsibility",
+      "remember": "A gift after harm is a bribe, not a fix.",
+      "theySee": "A partner or close friend handing you something — flowers, a dinner, a small present — after a fight or a moment they hurt you.",
+      "signals": [
+        {
+          "l": "No words said",
+          "t": "They give the gift but never say what they're sorry for or what they'll do differently.",
+          "icon": "🤐"
+        },
+        {
+          "l": "Quick pivot",
+          "t": "The gift appears within hours of the bad behavior, before anything is resolved.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Topic dropped",
+          "t": "After giving it, they act like the original problem never happened.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Pattern repeats",
+          "t": "This has happened more than once — same hurt, different gift.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the Last Three Times This Happened",
+          "desc": "Harm, gift, change — three columns. For each row, write yes or no: did the behavior that caused the problem change afterward?"
+        },
+        {
+          "n": "2",
+          "title": "Name What the Gift Is Covering For",
+          "desc": "Say it out loud to yourself: 'They did X. This gift is covering for X.' Use their name and the specific thing. Don't let it stay vague."
+        },
+        {
+          "n": "3",
+          "title": "Hold the Conversation Before Accepting the Next Gift",
+          "desc": "The next time they hand you something after a problem, say: 'Let's talk about what happened first.' Put the gift down. Don't pick it up yet."
+        }
+      ],
+      "script": "\"I appreciate this. Before I take it, I need us to talk about what happened first.\"",
+      "counter": "If someone uses gifts to skip real accountability, they're betting on your discomfort with conflict.\n• Does conflict in this relationship always end with something being given to you?\n• Say: \"I'm not done with what happened yet. The gift doesn't close the conversation.\"\n• Put the gift aside and go back to the original issue.",
+      "insight": "Once you accept the gift without the conversation, you've set the price for silence — and they now know what it costs to buy it."
+    },
+    {
+      "id": 4,
+      "cat": "read",
+      "danger": "low",
+      "title": "Trust the Bad Feeling You Get When Someone Gives You Something",
+      "hook": "You accept the gift. You smile. Something still feels off. <strong>That feeling is data.</strong> Don't explain it away.",
+      "truth": "People dismiss discomfort because they don't want to seem rude. That dismissal is where the trap closes.\n• Your gut reacts before you can name why — it's tracking history, tone, and pattern.\n• When a gift should feel good but doesn't, the mismatch is the signal.\n• The trap: your conscious mind will give you ten reasons why you're overreacting.",
+      "principle": "Somatic Marker Hypothesis (Damasio)",
+      "remember": "Bad feelings about a good gift are information you should not ignore.",
+      "theySee": "A person smiling, holding something out to you, waiting for your reaction.",
+      "signals": [
+        {
+          "l": "You hesitate",
+          "t": "You don't reach for it immediately — your body is buying time.",
+          "icon": "✋"
+        },
+        {
+          "l": "You over-thank",
+          "t": "You thank them more than the gift warrants, as if trying to make the feeling go away.",
+          "icon": "🙏"
+        },
+        {
+          "l": "You feel watched",
+          "t": "You're aware of them tracking your reaction too carefully.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Confused after",
+          "t": "After accepting it, you feel confused or uneasy rather than happy.",
+          "icon": "😕"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the Discomfort Down",
+          "desc": "Tight chest, urge to leave, sudden quietness — name the physical feeling specifically. Vague discomfort has no grip. Named discomfort does."
+        },
+        {
+          "n": "2",
+          "title": "Review What You Know About This Person",
+          "desc": "Write one line about how this person has behaved in the past around giving. Is there a pattern? What happened the last time they gave you something?"
+        },
+        {
+          "n": "3",
+          "title": "Sit With It for 24 Hours",
+          "desc": "Don't explain it away today. Don't text your friend about it. Don't rationalize it. Sit with the feeling for 24 hours before deciding what it means."
+        }
+      ],
+      "script": "\"Thank you. I want to sit with this before I say anything else.\"",
+      "counter": "If you're being watched for your reaction more than you're being given something freely, your compliance is the point — not the gift.\n• Are they more interested in your response than in your enjoyment of the gift?\n• Say: \"I need a minute with this.\"\n• Don't perform gratitude you don't feel. A flat thank-you is enough.",
+      "insight": "A healthy gift brings ease. If this one doesn't, the next question is whether you trust yourself enough to act on that."
+    },
+    {
+      "id": 5,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "An Expensive Gift From Someone With Less Money Is a Red Flag",
+      "hook": "They can barely afford it. They gave it anyway. That's not spontaneous generosity — it's a <strong>transfer of power</strong> made on purpose.",
+      "truth": "The size of a gift relative to what someone can afford tells you more than the gift itself.\n• An oversized gift creates a debt you can never repay with an equal gift.\n• The giver now holds something over you — not money, but the story of their sacrifice.\n• The trap: refusing looks cruel; accepting puts you permanently in their debt.",
+      "principle": "Status Asymmetry",
+      "remember": "Gifts too big for their wallet cost you more than money.",
+      "theySee": "Someone who clearly doesn't have a lot of money handing you something expensive, watching for your reaction.",
+      "signals": [
+        {
+          "l": "Know their money",
+          "t": "You know this person struggles with money, but the gift is generous anyway.",
+          "icon": "💰"
+        },
+        {
+          "l": "They mention cost",
+          "t": "They tell you what they paid for it or how long they saved to buy it.",
+          "icon": "🧾"
+        },
+        {
+          "l": "Guilt, not joy",
+          "t": "You feel guilty immediately — not happy — when you receive it.",
+          "icon": "😬"
+        },
+        {
+          "l": "Brought up later",
+          "t": "They reference the sacrifice of buying it in a future conversation.",
+          "icon": "📆"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map What You'd Owe If You Accept",
+          "desc": "Spell out what returning the favor would look like in practice. Time, money, access, decisions — what would you specifically give back?"
+        },
+        {
+          "n": "2",
+          "title": "Offer to Pay Them Back on the Spot",
+          "desc": "Say 'Let me pay you for this' right now. If they accept, the gift becomes a purchase and the debt goes to zero."
+        },
+        {
+          "n": "3",
+          "title": "Decline With Warmth If They Refuse Payment",
+          "desc": "If they won't take money back, say 'I can't accept something that costs you this much' and put it down. Mean it."
+        }
+      ],
+      "script": "\"This is too much. Let me pay you back for it — I want to keep this simple between us.\"",
+      "counter": "When someone offers an oversized gift, notice whether they're building a story of sacrifice around it.\n• Are they already telling others about what they gave you?\n• Say: \"I can't let you do this. It's not what I want from you.\"\n• Pay them back or return it within 48 hours. The debt clears the moment you do.",
+      "insight": "The person who spent too much now owns the most powerful version of the debt — the one that makes you the villain for not playing along."
+    },
+    {
+      "id": 6,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "The Gift That Shows Up When Nobody Asked Is a Power Move",
+      "hook": "Nobody asked. The gift appeared anyway. That's not spontaneous kindness — it's a <strong>position being taken</strong> before you knew there was a game.",
+      "truth": "Unsolicited gifts are the strongest version of the trap because you didn't know you were being set up.\n• You never agreed to receive anything — but you're now in debt by default.\n• The giver controls the timing, the size, and the occasion. You control none of it.\n• The trap: declining after the fact feels petty; accepting without questioning means you're in.",
+      "principle": "Greene: Law 13 — Appeal to Self-Interest, Never to Mercy or Gratitude",
+      "remember": "A gift nobody asked for creates a debt nobody agreed to.",
+      "theySee": "A colleague putting something on your desk or handing you something, saying it's no big deal, just because.",
+      "signals": [
+        {
+          "l": "No trigger event",
+          "t": "There's no occasion — no birthday, favor you did, or milestone to explain the gift.",
+          "icon": "❓"
+        },
+        {
+          "l": "They minimize it",
+          "t": "They say 'it's nothing' or 'don't worry about it' while watching closely for your reaction.",
+          "icon": "🙂"
+        },
+        {
+          "l": "Happens at work",
+          "t": "The gift appears in a professional setting where refusing feels awkward.",
+          "icon": "🏢"
+        },
+        {
+          "l": "Ask follows soon",
+          "t": "Within days, they need something from you — a recommendation, a favor, access to someone.",
+          "icon": "📋"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask What Prompted the Gift Today",
+          "desc": "Say 'What made you think of this today?' and listen. A confident giver has a real answer. A setup artist won't."
+        },
+        {
+          "n": "2",
+          "title": "Leave It on the Table During the Conversation",
+          "desc": "Don't pocket it. Don't put it in your bag. Leave it visible between you for the rest of the meeting."
+        },
+        {
+          "n": "3",
+          "title": "Reciprocate Fast and Small If You Accept",
+          "desc": "Buy them a coffee or lunch the same day. Small, immediate, proportionate. This breaks the debt before it can form."
+        }
+      ],
+      "script": "\"What made you think of this today? I want to make sure I understand the context.\"",
+      "counter": "Unsolicited gifts are often tests — the giver is checking whether you can be moved by generosity before asking for what they actually want.\n• Did they seem to enjoy watching you try to respond?\n• Say: \"I appreciate it, but I don't want to start something I can't return.\"\n• Pay them back or return it the same day. Don't sleep on it.",
+      "insight": "The move that follows an unsolicited gift is always a test — they're seeing how you handle being owed before they ask for what they actually want."
+    },
+    {
+      "id": 7,
+      "cat": "defense",
+      "danger": "low",
+      "title": "Say No to the Gift Before You Owe Anything",
+      "hook": "Refusing before you've touched it is easy. <strong>Refusing after you've said thank you is almost impossible.</strong> The window is small.",
+      "truth": "Once you've accepted and expressed gratitude, the commitment is registered — in your head and theirs.\n• The social cost of refusing goes up the longer you hold the gift.\n• A clean refusal at the moment of giving carries no social debt.\n• The trap: delaying makes refusal harder, not easier — the window closes fast.",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "The window to say no closes the moment you take it.",
+      "theySee": "A person holding something out to you, expecting you to take it.",
+      "signals": [
+        {
+          "l": "Pause before reaching",
+          "t": "You hesitate before extending your hand — that's the window.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Gift size off",
+          "t": "The size or cost is disproportionate to what you'd expect from this person.",
+          "icon": "🎁"
+        },
+        {
+          "l": "Pressure to smile",
+          "t": "You notice you're about to perform gratitude you don't actually feel.",
+          "icon": "😐"
+        },
+        {
+          "l": "Context feels wrong",
+          "t": "The time, place, or person feels wrong for a gift exchange.",
+          "icon": "🚩"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set Your Limit Before You Walk In",
+          "desc": "Before seeing this person today, know what you will and won't accept from them. Your answer should exist before they make it emotional."
+        },
+        {
+          "n": "2",
+          "title": "Say No in the First Ten Seconds",
+          "desc": "Don't wait, don't hold it, don't thank them first. The first ten seconds are socially free. Use them."
+        },
+        {
+          "n": "3",
+          "title": "Use Warmth, Drop the Explanation",
+          "desc": "You don't owe a reason. 'That's very kind, but I can't accept this' is a complete sentence. Stop there."
+        }
+      ],
+      "script": "\"That's very kind of you. I can't accept this right now.\"",
+      "counter": "If someone keeps pressing after you refuse, they're converting a gift into a demand.\n• Did refusal make them angry or hurt in a way that felt like punishment?\n• Say: \"I hear that you want me to have this. My answer is still no.\"\n• Don't give a longer reason. More explanation invites more pressure.",
+      "insight": "The person who can't accept a refusal isn't being generous — they're being controlling. The gift was never about you."
+    },
+    {
+      "id": 8,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Name the String Out Loud",
+      "hook": "You feel the condition attached to the favor. They haven't said it. <strong>You say it first.</strong> That's the move.",
+      "truth": "Naming what someone hasn't said out loud puts you back in control of the conversation.\n• A label forces them to confirm, deny, or correct — all three give you information.\n• The person running a strings-attached game counts on you staying quiet about the condition.\n• The trap: saying it gently makes it a question. Say it flat.",
+      "principle": "Voss: Label",
+      "remember": "Name what they haven't said yet and say it flat.",
+      "theySee": "A person looking slightly caught off guard as you describe the unspoken arrangement before they do.",
+      "signals": [
+        {
+          "l": "Feel the condition",
+          "t": "You can sense what they expect in return even though it hasn't been said.",
+          "icon": "🧲"
+        },
+        {
+          "l": "Watching your face",
+          "t": "They're gauging how much you've figured out without saying anything themselves.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Vague language used",
+          "t": "They say things like 'I'm sure we'll figure it out' or 'you scratch my back...' without finishing the sentence.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "Multiple gifts given",
+          "t": "They've given you more than one thing with no clear occasion — the pattern is the tell.",
+          "icon": "🔢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the Label Before the Meeting",
+          "desc": "Write this sentence: 'It sounds like this comes with an expectation that I will ___.' Fill in the blank honestly. That's your label."
+        },
+        {
+          "n": "2",
+          "title": "Say the Label in the Room",
+          "desc": "Use this format: 'It seems like this comes with an expectation I should ___.' Say it flat, no rising inflection at the end."
+        },
+        {
+          "n": "3",
+          "title": "Wait Without Filling the Silence",
+          "desc": "After saying the label, close your mouth. Let them respond. Their first reaction is the most honest one you'll get."
+        }
+      ],
+      "script": "\"It seems like this comes with an expectation that I'll help with the project. Am I reading that right?\"",
+      "counter": "If someone labels your expectations before you've said them, they've read the move. Don't confirm or deny immediately.\n• Does their label match your actual intent? If yes, you were running a strings-attached game.\n• Say: \"That's not what I meant\" — then say specifically what you did mean.\n• If they read you correctly, drop the condition. Give clean or don't give.",
+      "insight": "A label works best when the person has been careful not to say anything directly. The moment you name it, the covert game becomes overt — and most people stop playing games they can't deny."
+    },
+    {
+      "id": 9,
+      "cat": "defense",
+      "danger": "low",
+      "title": "Unspoken Rules Are Not Real Rules",
+      "hook": "They expected something in return. They never said it. You didn't agree to it. <strong>That's not a contract — it's a story they're telling themselves.</strong>",
+      "truth": "Most people treat unspoken expectations as if they carry the same weight as spoken ones. They don't.\n• An expectation only exists for both people when both people have agreed to it.\n• The guilt you feel is real. The obligation is not.\n• The trap: the giver acts as if your silence was agreement. It wasn't.",
+      "principle": "Holacracy: Implicit Expectations Carry No Weight",
+      "remember": "You never agreed to a rule you never heard.",
+      "theySee": "A person looking hurt or confused that you didn't do what they assumed you'd do in return for what they gave you.",
+      "signals": [
+        {
+          "l": "They seem surprised",
+          "t": "They react with visible surprise or hurt when you don't give back what they assumed you would.",
+          "icon": "😲"
+        },
+        {
+          "l": "You feel guilty",
+          "t": "You feel guilty even though nothing was ever agreed upon between you.",
+          "icon": "😟"
+        },
+        {
+          "l": "They hint only",
+          "t": "They talk around what they want rather than asking directly.",
+          "icon": "💬"
+        },
+        {
+          "l": "Others get told",
+          "t": "They mention the situation to mutual friends as if you broke an agreement.",
+          "icon": "📢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write What They Actually Said",
+          "desc": "Quote them from memory. Did they name any condition when giving the favor? If not, write 'no condition stated.' You have no agreed obligation."
+        },
+        {
+          "n": "2",
+          "title": "Separate Guilt From Actual Obligation",
+          "desc": "Two lists: 'What I agreed to' and 'What was never said.' Write them separately. The second list is not yours to carry."
+        },
+        {
+          "n": "3",
+          "title": "Respond to What Was Said, Not What Was Implied",
+          "desc": "In your next conversation, address only what they say directly to you. Don't volunteer compliance with an expectation they won't name out loud."
+        }
+      ],
+      "script": "\"I didn't realize there was an expectation attached. I can't agree to something that was never said out loud.\"",
+      "counter": "If someone tries to collect on an unspoken expectation, they're betting on your guilt doing their work for them.\n• Are they angry about something you were never told you owed?\n• Say: \"Tell me exactly what you were expecting. I want to hear it directly.\"\n• Once they name it out loud, respond. Until they do, you owe nothing.",
+      "insight": "The person who only hints at what they want keeps you guessing on purpose — as long as they don't say it out loud, they can claim you should have known and make you the one who failed."
+    },
+    {
+      "id": 10,
+      "cat": "repair",
+      "danger": "extreme",
+      "title": "The Hurt-Then-Gift Loop Gets Harder to Break Each Time",
+      "hook": "Every time the gift follows the harm, the pattern gets deeper. Not just in them. <strong>In you.</strong>",
+      "truth": "Intermittent reinforcement keeps people in patterns — the brain holds harder when reward is unpredictable.\n• You stop being surprised by the harm because you're already waiting for the gift.\n• The people around you see the pattern first — you're usually the last to name it.\n• Each cycle resets your limit a little higher. You accept more harm for the same gift.",
+      "principle": "Intermittent Reinforcement",
+      "remember": "Each time the pattern repeats, you accept a little more harm.",
+      "theySee": "Someone in a close relationship going back to the same person after the same kind of hurt, telling themselves this time will be different.",
+      "signals": [
+        {
+          "l": "You expect it",
+          "t": "You've started waiting for the gift after the harm without fully realizing it.",
+          "icon": "⏳"
+        },
+        {
+          "l": "Gifts getting bigger",
+          "t": "The gifts are growing in size over time — covering more and more ground.",
+          "icon": "📈"
+        },
+        {
+          "l": "Others have noticed",
+          "t": "Someone close to you has mentioned the pattern more than once.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "You defend them",
+          "t": "You explain or defend their behavior to others, using the gift as evidence they care.",
+          "icon": "🛡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the Last Three Cycles Down",
+          "desc": "Date, harm, gift — three columns, three rows. The pattern on paper is harder to argue with than the pattern in your head."
+        },
+        {
+          "n": "2",
+          "title": "Mark What Changed After Each Gift",
+          "desc": "For each row, write 'changed' or 'did not change.' Count the second column. That number is the answer."
+        },
+        {
+          "n": "3",
+          "title": "Define Proof of Change Before the Next Incident",
+          "desc": "Write one sentence: 'For me to believe things changed, I would need to see ___.' Use specific actions, not promises."
+        }
+      ],
+      "script": "\"Something happens and then a gift shows up. The gifts aren't the problem — the thing before them is. Tell me what's different this time.\"",
+      "counter": "If you realize you're the one using gifts to skip past your own bad behavior, this card runs both ways.\n• Do you reach for a gift when you owe someone a real conversation?\n• Say: \"I owe you an explanation, not a present. Let me give you that first.\"\n• Stop the gift. Have the conversation. Change the behavior. In that order.",
+      "insight": "The real question is not whether the gift is sincere. It's whether anything changes after it's accepted — and most people stop tracking the answer because the gift made them feel better."
+    },
+    {
+      "id": 11,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Check Whether Your Own Favors Come With Strings",
+      "hook": "You've been reading everyone else's moves. Now read yours. <strong>Some of the strings you're spotting in others are the ones you're running yourself.</strong>",
+      "truth": "Most people who run strings-attached favors don't know they're doing it. The expectation is unconscious — but the debt collection is real.\n• You give freely and then feel a quiet resentment when nothing comes back.\n• The resentment is the sign: you expected a return you never named.\n• The trap: you feel generous while doing the same thing you'd call manipulation in someone else.",
+      "principle": "Reciprocity Norm (Gouldner)",
+      "remember": "If you keep score quietly, you are not giving freely.",
+      "theySee": "A generous friend or colleague who slowly turns cold after doing a lot for others without saying what they needed back.",
+      "signals": [
+        {
+          "l": "Feel resentful after",
+          "t": "You feel quietly annoyed that someone didn't return what you gave them.",
+          "icon": "😒"
+        },
+        {
+          "l": "Remember everything given",
+          "t": "You can recall every favor you've done for this person without effort.",
+          "icon": "🗂️"
+        },
+        {
+          "l": "Hint, don't ask",
+          "t": "You bring up what you did for them without asking directly for what you want.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Call it one-sided",
+          "t": "You tell others the relationship is one-sided without having named what you wanted from it.",
+          "icon": "⚖️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List Three Favors You Did With No Return Named",
+          "desc": "For each, write what you actually hoped would happen. Not what you told yourself — what you actually hoped."
+        },
+        {
+          "n": "2",
+          "title": "Decide Whether Each Was a Give or a Loan",
+          "desc": "A give has no return expected. A loan does. Name them correctly. Rename the ones you've been calling gives."
+        },
+        {
+          "n": "3",
+          "title": "Name What You Need Out Loud",
+          "desc": "Pick one person you've been quietly tracking. Say to them today: 'I helped you with X. I could use your help with Y.'"
+        }
+      ],
+      "script": "\"I realize I've been keeping track without saying anything. I actually need your help with something.\"",
+      "counter": "A friend who keeps score while seeming generous looks fine until they call it in.\n• Does a friend's generosity feel slightly loaded, like there's a running tab?\n• Say: \"Is there something you need from me? I want to keep this clear between us.\"\n• Name the exchange and agree to it, or don't. Ambiguity is where resentment grows.",
+      "insight": "The move that's hardest to see is the one you're already running — and the people around you spotted it before you did."
+    },
+    {
+      "id": 12,
+      "cat": "exit",
+      "danger": "extreme",
+      "title": "When the Debt Feels Too Big, Walk Away Clean",
+      "hook": "You accepted too much. Now saying yes costs less than saying no. <strong>That's the point where they own you.</strong>",
+      "truth": "Loss aversion means the pain of losing what you already have beats the value of what you'd gain by stopping.\n• Stay long enough and the debt feels like your identity, not a trap.\n• Walking away feels like losing — even when staying costs more.\n• The trap: they know you'll count what you lose, not what you'd gain.",
+      "principle": "Loss Aversion",
+      "remember": "Staying in a bad deal because you paid some is a trap.",
+      "theySee": "Someone who has given and received a lot in a relationship with no clear accounting, now being asked for something too big.",
+      "signals": [
+        {
+          "l": "Ask escalates",
+          "t": "What they're asking for now is significantly bigger than what they ever gave you.",
+          "icon": "📊"
+        },
+        {
+          "l": "Feel stuck",
+          "t": "You want to say no but can't see how — the door feels closed even though it isn't.",
+          "icon": "🔒"
+        },
+        {
+          "l": "Threat implied",
+          "t": "They hint at what they'll say or do if you don't comply, without saying it directly.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Lost the count",
+          "t": "You've lost track of who owes whom because the accounting got too complicated.",
+          "icon": "🌀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Calculate What Staying Costs Each Month",
+          "desc": "Time, money, decisions you defer, things you don't do — list what this arrangement costs you per month. Use numbers, not feelings."
+        },
+        {
+          "n": "2",
+          "title": "Write Your Way Out",
+          "desc": "Write three things: what you can return, what you can repay, and what cannot be resolved. Accept the third column and move on."
+        },
+        {
+          "n": "3",
+          "title": "Have the One Conversation In Person",
+          "desc": "A message leaves it open for them to reopen. One direct conversation closes the loop. Do it face-to-face, once, clearly."
+        }
+      ],
+      "script": "\"I've thought about this. I need to step back from this arrangement. Here's what I can return or repay — after that, we're even.\"",
+      "counter": "If someone uses accumulated debt as a reason you can't walk away, they're using loss aversion against you.\n• Is leaving being made to feel more costly than the arrangement actually is?\n• Say: \"The size of the debt isn't a reason to keep adding to it.\"\n• Pick a number — what you can realistically return — pay it, and hold the line.",
+      "insight": "The move they're counting on is that you'll never do the math. Do the math."
+    }
+  ]
+}
