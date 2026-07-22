@@ -1,0 +1,707 @@
+{
+  "meta": {
+    "id": "srv-don-t-let-them-rewrite-you",
+    "version": "1.0",
+    "title": "Don't Let Them Rewrite You",
+    "subtitle": "12 Moves for Defending Against Gaslighting at Work",
+    "description": "A closed-file dossier on how gaslighters operate at work and exactly how to stop them. Detection, documentation, allies, counter-moves, and escalation — in order. Each card assumes you've read the one before it.",
+    "author": "AI",
+    "createdAt": "2026-07-22T15:33:55.632Z",
+    "tags": [
+      "gaslighting",
+      "workplace manipulation",
+      "dark psychology",
+      "documentation",
+      "HR",
+      "defense",
+      "counter-tactics"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "👁️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Defending against gaslighting at work",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "detect",
+      "label": "Detection",
+      "color": "#C0392B",
+      "description": "Spotting the pattern before it locks in"
+    },
+    {
+      "key": "document",
+      "label": "Documentation",
+      "color": "#2471A3",
+      "description": "Building the record they can't rewrite"
+    },
+    {
+      "key": "network",
+      "label": "Allies",
+      "color": "#1E8449",
+      "description": "The people who protect your version of reality"
+    },
+    {
+      "key": "counter",
+      "label": "Counter-Moves",
+      "color": "#7D3C98",
+      "description": "What to say and do when the move is running"
+    },
+    {
+      "key": "mind",
+      "label": "Mental Defense",
+      "color": "#D4AC0D",
+      "description": "Keeping your own account stable under pressure"
+    },
+    {
+      "key": "escalate",
+      "label": "Escalation",
+      "color": "#BA4A00",
+      "description": "When to go up the chain or go legal"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "detect",
+      "danger": "moderate",
+      "title": "Know the Three Phases of a Gaslighter's Campaign",
+      "hook": "They're nice first. Then they're confusing. Then they drop you. <strong>Most people don't see it until phase two is already running.</strong>",
+      "truth": "Gaslighters run a three-phase playbook. The entry point is always phase one.\n• Phase one: praise and access — they learn exactly where you feel weak.\n• Phase two: they use what they learned to confuse, blame, and unsettle you.\n• Phase three: they drop you once your confidence in yourself is low enough.",
+      "principle": "Idealize-Devalue-Discard Cycle",
+      "remember": "Nice first, confusing second, gone third. Spot it early.",
+      "theySee": "A friendly new boss giving you compliments and asking detailed questions about what you find hard at work.",
+      "signals": [
+        {
+          "l": "Early praise",
+          "t": "They single you out with compliments in the first few weeks before you've done much.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Personal questions",
+          "t": "They ask what you find stressful or where you feel like you fall short.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Too language",
+          "t": "They start describing you as too sensitive or saying you think too much about things.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Unsolicited advice",
+          "t": "They offer advice that lands precisely on the weak spots you told them about earlier.",
+          "icon": "🎭"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the phase you're in",
+          "desc": "Write 'praise, confuse, or drop' next to your last five interactions with this person. See which phase is running right now."
+        },
+        {
+          "n": "2",
+          "title": "Stop giving them new material",
+          "desc": "From today, answer 'I'm good, thanks' when they probe for insecurities. Give them nothing new to use against you."
+        },
+        {
+          "n": "3",
+          "title": "Log the praise with dates",
+          "desc": "Write down every compliment they give you with a date. When phase two starts, you'll have the before-picture to anchor on."
+        }
+      ],
+      "script": "\"I appreciate the feedback. I'll think about that.\"",
+      "counter": "When someone reads you the playbook fast — praise, probe, confuse — they're running the cycle on you.\n• Watch: praise arrives before you've done anything to earn it.\n• Say: 'Thanks, I'm focused on the work right now.'\n• Do: write down the date and what they said. Do it the same day.",
+      "insight": "Phase one feels good — that's the design. Most people only start protecting themselves once phase two is running. The harder question is whether you noticed what they were doing with the information you gave them."
+    },
+    {
+      "id": 2,
+      "cat": "document",
+      "danger": "low",
+      "title": "Write Down What Happened the Same Day It Happens",
+      "hook": "Your memory is their weapon. <strong>A dated written record is the one thing they cannot rewrite.</strong>",
+      "truth": "Gaslighters count on time blurring details. A same-day record is their biggest problem.\n• Events written down the same day hold up; memories a week old do not.\n• Exact words, who was present, and time make your account credible and specific.\n• Your documentation forces any investigation to deal with facts instead of competing feelings.",
+      "principle": "Employment Law: Contemporaneous Record Standard",
+      "remember": "Write it down the same day. Time destroys the details you need.",
+      "theySee": "An employee opening a private notebook right after a meeting and writing down what was said word for word.",
+      "signals": [
+        {
+          "l": "Details fade",
+          "t": "Three days later you can't remember the exact phrase they used in the meeting.",
+          "icon": "📝"
+        },
+        {
+          "l": "Specific denials",
+          "t": "They say 'I never said that' about something you clearly heard them say.",
+          "icon": "🔄"
+        },
+        {
+          "l": "No written trail",
+          "t": "Key decisions keep happening in verbal conversations with no follow-up email.",
+          "icon": "📵"
+        },
+        {
+          "l": "Your story shifts",
+          "t": "You start second-guessing exactly what was said or what was decided.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open a private log today",
+          "desc": "Start a dated document — Google Doc, phone note, or physical notebook — that only you can access. Title it with today's date."
+        },
+        {
+          "n": "2",
+          "title": "Write the last incident right now",
+          "desc": "Record the date, location, who was present, exact words used, and how it ended. Use direct quotes where you can."
+        },
+        {
+          "n": "3",
+          "title": "Set a daily two-minute reminder",
+          "desc": "Each evening, write any new incident. One sentence minimum. Date every single entry. Consistency is what makes the record credible."
+        }
+      ],
+      "script": "\"On [date] at [time], [person] said [exact words] in front of [names].\"",
+      "counter": "If someone urges you not to document or says 'this needs to stay off the record,' they need the fog.\n• Watch: they push key conversations into hallways with no witnesses.\n• Say: 'I'll send a quick email summary so we stay aligned.'\n• Do: send the email. Their silence or pushback becomes part of the record.",
+      "insight": "Documentation protects you. It also changes how you act in the room — you become more precise, and precision rattles gaslighters. The harder question is what happens when they start going after the record itself."
+    },
+    {
+      "id": 3,
+      "cat": "document",
+      "danger": "low",
+      "title": "Send a Follow-Up Email After Every Key Conversation",
+      "hook": "They say one thing in the meeting and another one week later. <strong>An email sent the same hour makes that move impossible.</strong>",
+      "truth": "A follow-up email creates a timestamped record they'd have to dispute in writing — and that dispute is also on the record.\n• It forces them to either confirm what you wrote or push back in writing — both help you.\n• CC'ing a relevant third party adds a witness without any accusation.\n• No response to the email is a quiet form of agreement.",
+      "principle": "Witness Deterrence: Paper Trail Effect",
+      "remember": "Put it in writing and send it within the hour. Every time.",
+      "theySee": "A colleague sending a short email right after every meeting that summarizes exactly what was agreed.",
+      "signals": [
+        {
+          "l": "Verbal-only orders",
+          "t": "Instructions come by word of mouth and are never followed up in writing.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Story changed",
+          "t": "What they said Monday has become something different by Friday.",
+          "icon": "🔄"
+        },
+        {
+          "l": "No meeting notes",
+          "t": "Meetings happen with no agenda and no summary sent to anyone afterward.",
+          "icon": "📋"
+        },
+        {
+          "l": "Credit gone",
+          "t": "You did the work but your name doesn't appear in the email chain.",
+          "icon": "👤"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the email template now",
+          "desc": "Draft a five-line template: date, who was present, decisions made, next steps, your name. Save it in drafts ready to send."
+        },
+        {
+          "n": "2",
+          "title": "Send it within one hour",
+          "desc": "After every key conversation today, fire the summary email. Subject line: 'Following up on our conversation — [date].'"
+        },
+        {
+          "n": "3",
+          "title": "CC one neutral person on sensitive threads",
+          "desc": "On anything that could be disputed later, CC your manager's peer or an HR contact. You're creating a record, not making an accusation."
+        }
+      ],
+      "script": "\"Following up on our conversation today — we agreed that [X]. Let me know if I missed anything.\"",
+      "counter": "Someone may use this move on you to build a false written record of what was said.\n• Watch: their summary email quietly changes a key detail from the real conversation.\n• Say: 'One correction — we agreed on [X], not [Y]. Updating this now.'\n• Do: reply in writing within an hour. A false record that sits unchallenged becomes the truth.",
+      "insight": "The email works because it forces a response. Confirm, push back, or go silent — all three tell you something. The harder move is knowing what to do with their silence once it starts."
+    },
+    {
+      "id": 4,
+      "cat": "network",
+      "danger": "low",
+      "title": "Bring a Witness to Every Meeting With Your Gaslighter",
+      "hook": "A gaslighter says one thing to your face and another thing to everyone else. <strong>A second set of ears in the room changes what they're willing to say.</strong>",
+      "truth": "Gaslighters perform differently when they know someone is watching. A witness deters the move before it starts.\n• They're less likely to rewrite events when another person heard the same exchange.\n• Your witness can confirm your account if it gets disputed later.\n• Asking to bring someone signals you're not alone — that shift alone changes what they do.",
+      "principle": "Witness Deterrence Effect",
+      "remember": "Never walk into a hard meeting alone. Bring someone who can confirm what was said.",
+      "theySee": "Two employees walking into what was supposed to be a private one-on-one meeting.",
+      "signals": [
+        {
+          "l": "Solo meetings pushed",
+          "t": "They frequently request one-on-one meetings with no agenda and no notes afterward.",
+          "icon": "🚪"
+        },
+        {
+          "l": "Post-meeting denials",
+          "t": "After meetings, they say something different from what you remember being agreed.",
+          "icon": "❌"
+        },
+        {
+          "l": "No notes circulated",
+          "t": "No one takes notes and no summary is sent to anyone after the conversation.",
+          "icon": "📝"
+        },
+        {
+          "l": "Others confirm it",
+          "t": "A colleague tells you they've had the exact same experience with this person.",
+          "icon": "👥"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Identify your witness today",
+          "desc": "Name one trusted colleague who has seen the behavior and will give an honest account. Tell them specifically why you need them in the room."
+        },
+        {
+          "n": "2",
+          "title": "Make the ask directly before the meeting",
+          "desc": "Tell the gaslighter: 'I'm bringing [name] so we both have a clear record of what we decide.' Don't ask permission."
+        },
+        {
+          "n": "3",
+          "title": "Debrief immediately after you leave",
+          "desc": "Walk out together and spend five minutes writing down what each of you heard. Both sign and date it on the spot."
+        }
+      ],
+      "script": "\"I'd like to bring [name] to this meeting so we both have clarity on next steps. Does that work?\"",
+      "counter": "If someone insists on meeting you alone and pushes back on having anyone else there, the resistance is the tell.\n• Watch: they say 'this needs to stay between us.'\n• Say: 'I prefer to have notes taken — can we do that?'\n• Do: if they refuse, send your own summary email the moment you leave.",
+      "insight": "Bringing a witness stops most gaslighters cold in the room. The harder problem is what happens when they shift to written gaslighting — where the email trail itself becomes the thing they rewrite."
+    },
+    {
+      "id": 5,
+      "cat": "network",
+      "danger": "moderate",
+      "title": "Build Allies at Work Before You Need Them",
+      "hook": "Gaslighters isolate their targets first. <strong>A person with real connections at work is much harder to gaslight.</strong>",
+      "truth": "Isolation is the gaslighter's opening move. Allies make that move land badly.\n• Allies confirm your read on events — 'did you see that too?' breaks the fog.\n• A sponsor higher up gives you options the gaslighter can't block on their own.\n• A gaslighter who sees you have real connections usually picks a softer target.",
+      "principle": "Porges: Co-Regulation",
+      "remember": "Allies protect you before anything goes wrong. Build them now.",
+      "theySee": "An employee having coffee with people from other teams on a regular basis, with no particular agenda.",
+      "signals": [
+        {
+          "l": "You eat alone",
+          "t": "You've stopped spending time with colleagues outside your direct team or desk.",
+          "icon": "🍽️"
+        },
+        {
+          "l": "Others called bad",
+          "t": "Your gaslighter tells you specific colleagues are untrustworthy or not good at their jobs.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "You check no one",
+          "t": "You haven't asked anyone else's read on a situation in weeks.",
+          "icon": "🔇"
+        },
+        {
+          "l": "One voice rules",
+          "t": "You've started taking only the gaslighter's word on what's happening around you.",
+          "icon": "🎯"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List three potential allies right now",
+          "desc": "Name three colleagues — at your level or above — who seem honest and have nothing to gain by protecting the gaslighter."
+        },
+        {
+          "n": "2",
+          "title": "Send a low-stakes check-in today",
+          "desc": "Email or message one of them: 'Do you have 20 minutes this week? I want to get your read on something.' Keep it casual."
+        },
+        {
+          "n": "3",
+          "title": "Test your read on one real event",
+          "desc": "Ask them: 'Am I reading this situation right, or am I off?' Their answer tells you immediately whether your sense of what's happening is intact."
+        }
+      ],
+      "script": "\"Hey, do you have 20 minutes this week? I want to get your read on something going on at work.\"",
+      "counter": "If someone starts warning you that specific colleagues are not to be trusted, they may be clearing your allies out one by one.\n• Watch: they warn you about multiple people in a short window of time.\n• Say: 'I'll form my own opinion — thanks for the heads up.'\n• Do: go talk to those exact people. What you find will tell you everything.",
+      "insight": "Allies protect your sense of what's real. But they can only do that if you actually tell them what's happening. Most people wait far too long to say anything out loud."
+    },
+    {
+      "id": 6,
+      "cat": "detect",
+      "danger": "high",
+      "title": "Spot the Divide and Conquer Move Before It Isolates You",
+      "hook": "The gaslighter puts colleagues down in front of you. You're supposed to feel relieved it's not you yet. <strong>It will be you.</strong>",
+      "truth": "Putting others down in front of you pulls you closer to the gaslighter and pushes everyone else away.\n• You feel safer staying close — the gaslighter becomes your main source on what's real.\n• The person being isolated loses access to the very people who could back their account.\n• When your turn comes, no one is left who will confirm your version of events.",
+      "principle": "Greene: Law 33 — Find Each Man's Thumbscrew",
+      "remember": "When they put someone else down in front of you, you are next.",
+      "theySee": "A manager speaking critically about one team member to another in a private conversation, while watching for the reaction.",
+      "signals": [
+        {
+          "l": "Others named bad",
+          "t": "They criticize absent colleagues by name during your private one-on-one conversations.",
+          "icon": "👤"
+        },
+        {
+          "l": "You're the exception",
+          "t": "They tell you you're different or better than everyone else on the team.",
+          "icon": "⭐"
+        },
+        {
+          "l": "Side conversations",
+          "t": "They pull you away from group settings to talk privately more and more often.",
+          "icon": "🤫"
+        },
+        {
+          "l": "Team stops talking",
+          "t": "You notice the team has stopped speaking openly with each other.",
+          "icon": "🔀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch the gaslighter, not the target",
+          "desc": "When they put someone else down, focus on the gaslighter's face and body — not the person being criticized. Note what they're getting from the move."
+        },
+        {
+          "n": "2",
+          "title": "Say nothing negative about the target",
+          "desc": "Silence is enough. Agreement makes you complicit and gives the gaslighter something to use against you later when they need to."
+        },
+        {
+          "n": "3",
+          "title": "Go talk to the target within 24 hours",
+          "desc": "Check in with the colleague who was put down. Ask how they're doing. This builds your connection and breaks the gaslighter's strategy at the same time."
+        }
+      ],
+      "script": "\"I don't really have a read on that — I stay focused on my own work.\"",
+      "counter": "When someone praises you specifically while criticizing everyone around you, they're running the divide move on you right now.\n• Watch: you feel loyal to them and quietly wary of everyone else.\n• Say: 'I work well with most people here.'\n• Do: go rebuild the connections they told you to avoid.",
+      "insight": "The flattery is the bait. Most people take it because it feels like safety. The harder move is staying connected to the people being targeted — and the gaslighter is counting on the fact that most people won't do it."
+    },
+    {
+      "id": 7,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Name the Rewrite Out Loud the Moment It Happens",
+      "hook": "They say 'that's not what I said.' You know it is. <strong>Silence lets the rewrite stand on the record.</strong>",
+      "truth": "Naming a rewrite in the moment makes it much harder to finish. Saying nothing confirms their version.\n• Saying 'that's not how I remember it' puts your account into the room on the record.\n• A label — 'it sounds like we're remembering this differently' — forces the room to notice the gap.\n• They'll push back hard. That pushback is itself a tell — write it down.",
+      "principle": "Voss: Label",
+      "remember": "Say 'I remember it differently' out loud right now. Not later.",
+      "theySee": "An employee saying calmly to their manager, 'That's not how I heard it in Monday's meeting.'",
+      "signals": [
+        {
+          "l": "Version changed",
+          "t": "What they say now is clearly different from what you remember being decided.",
+          "icon": "🔄"
+        },
+        {
+          "l": "You go quiet",
+          "t": "You know something is off but say nothing to avoid starting a conflict.",
+          "icon": "🤐"
+        },
+        {
+          "l": "Room nods along",
+          "t": "People in the room agree with the revised version without anyone pushing back.",
+          "icon": "👥"
+        },
+        {
+          "l": "You second-guess",
+          "t": "You start wondering if maybe your own memory is somehow wrong.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say it the moment the rewrite happens",
+          "desc": "Don't wait until after. Say: 'I remember it differently — my notes show [X].' One sentence. In the room. Right then."
+        },
+        {
+          "n": "2",
+          "title": "Back it with your written record",
+          "desc": "Pull up the email or dated log you wrote at the time. Read the relevant line out loud. One sentence is enough to change the room."
+        },
+        {
+          "n": "3",
+          "title": "Send the follow-up email after",
+          "desc": "Leave the meeting and send a written summary that includes your version within the hour. Subject: 'Just to confirm what was decided today.'"
+        }
+      ],
+      "script": "\"That's not how I remember it. My notes from that day say [exact words].\"",
+      "counter": "When someone labels your account as confused or wrong, they may be running a counter-rewrite on you.\n• Watch: they sound completely calm and certain while you feel disoriented.\n• Say: 'I'd like us both to check the written record on this.'\n• Do: produce your dated log. Calm plus a record beats confident every time.",
+      "insight": "Calling it out in the moment works. If you do it every time, they start avoiding the moves they can't rewrite in front of witnesses. The harder problem is what happens when they go after the record itself next."
+    },
+    {
+      "id": 8,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Push Back on 'You're Too Sensitive'",
+      "hook": "'You're too sensitive' means: <strong>you noticed something, and I need you to stop noticing it.</strong>",
+      "truth": "Calling someone too sensitive turns their complaint into the problem. It's the move inside the move.\n• It shifts the room's focus from what they did to how you reacted to it.\n• Your response becomes the issue and their behavior becomes invisible.\n• Staying flat and factual breaks the move — they need your emotion to make it work.",
+      "principle": "DARVO Pattern (Deny, Attack, Reverse Victim and Offender)",
+      "remember": "Too sensitive means they want you to stop pointing at them. Keep pointing.",
+      "theySee": "An employee staying completely calm and saying 'I'm not talking about how I feel — I'm describing what happened.'",
+      "signals": [
+        {
+          "l": "Too language used",
+          "t": "They describe you as too sensitive, too reactive, or thinking too much about something.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "You apologize",
+          "t": "You end up apologizing for raising the concern instead of them addressing what happened.",
+          "icon": "🙏"
+        },
+        {
+          "l": "Topic moves to you",
+          "t": "The conversation shifts from their behavior to your personality or how you handle things.",
+          "icon": "🔀"
+        },
+        {
+          "l": "Others go quiet",
+          "t": "People in the room stop engaging when you raise the issue.",
+          "icon": "🔇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stay completely flat",
+          "desc": "Do not raise your voice or defend how you feel. Say only facts: 'On [date], [specific thing] happened.' No emotion in your voice or face."
+        },
+        {
+          "n": "2",
+          "title": "Redirect to the behavior",
+          "desc": "Say: 'I'm not talking about how I feel — I'm describing what happened on [date].' Then repeat the specific event. Exactly once more."
+        },
+        {
+          "n": "3",
+          "title": "Log that they used this phrase",
+          "desc": "Write down that they said 'too sensitive' and the date. This is a signal they're running DARVO. Add it to your record as a pattern entry."
+        }
+      ],
+      "script": "\"I'm not talking about how I feel. I'm describing what happened on [date]. Here's what I have documented.\"",
+      "counter": "When someone's complaint is specific and yours is about their tone or emotional state, you may be running this move on them.\n• Watch: their account is factual and dated; your response is about their reaction.\n• Say: 'Walk me through exactly what happened.'\n• Do: address the event directly. Attacking their delivery gives them nothing to work with.",
+      "insight": "This move works because most people do get emotional when pushed. If you stay flat and factual, they have nothing to redirect to. The harder part is staying flat when they're very good at making you feel like you're the one who's wrong."
+    },
+    {
+      "id": 9,
+      "cat": "counter",
+      "danger": "low",
+      "title": "Go Grey Rock When You Have to Deal With Them",
+      "hook": "You can't avoid your gaslighter completely. <strong>But you can make yourself too boring to be worth manipulating.</strong>",
+      "truth": "Gaslighters need a reaction. No reaction means no game worth playing.\n• Flat, short, boring answers give them nothing to rewrite or store for later use.\n• They push harder at first — don't mistake the push for proof it isn't working.\n• Over time, people who give no reaction get less attention from most gaslighters.",
+      "principle": "Grey Rock Method",
+      "remember": "Give them nothing interesting. Short answers, no emotion, no extra detail.",
+      "theySee": "An employee giving one-word answers and a completely neutral face to a colleague who normally gets a strong reaction.",
+      "signals": [
+        {
+          "l": "They probe for reaction",
+          "t": "They ask how you 'feel' about something or press you hard to share your opinion.",
+          "icon": "🎭"
+        },
+        {
+          "l": "You over-explain",
+          "t": "You give long justifications for yourself in conversations with this person.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "They get louder",
+          "t": "They escalate when your responses stay flat — they're looking for the reaction.",
+          "icon": "📈"
+        },
+        {
+          "l": "You feel drained",
+          "t": "After conversations with them, you feel tired and like you said too much again.",
+          "icon": "😮‍💨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Cut your answers to one sentence",
+          "desc": "Today, give this person answers of one sentence maximum. No explanation, no history, no defense. Answer and stop talking."
+        },
+        {
+          "n": "2",
+          "title": "Remove everything personal from what you say",
+          "desc": "Strip opinions and feelings from everything you say to them. Stick to facts: dates, tasks, deadlines. Nothing else."
+        },
+        {
+          "n": "3",
+          "title": "Hold the flat face before you walk in",
+          "desc": "Spend two minutes before any interaction with them practicing neutral expression. No eye rolls, no smiles, no visible frustration."
+        }
+      ],
+      "script": "\"I'll follow that up by email.\"",
+      "counter": "If someone goes grey rock on you suddenly — one-word answers, no eye contact, no personal content — something changed.\n• Watch: they used to engage; now they share nothing and confirm only what they have to.\n• Say: 'Is there something I should know about how this is going?'\n• Do: check whether you did something that triggered the shutdown. Not everyone who goes grey rock is defending against gaslighting.",
+      "insight": "Grey rock protects you short-term. It doesn't fix the situation. The gaslighter is still in the room — you've just stopped being their easiest target. The harder question is what they do to the next person who doesn't know this move."
+    },
+    {
+      "id": 10,
+      "cat": "mind",
+      "danger": "low",
+      "title": "Read Your Own Notes Before Every Hard Conversation",
+      "hook": "Gaslighting works by making you doubt your own memory. <strong>That doubt is the whole mechanism — and you can shut it down in three minutes.</strong>",
+      "truth": "A gaslighter's hold over you depends entirely on your uncertainty about your own account of events.\n• The moment you think your memory might be wrong, their version can take hold.\n• Re-reading your dated notes before the meeting keeps your account stable going in.\n• Your written record from the time beats your current memory every time — use it.",
+      "principle": "Steele: Self-Affirmation Theory",
+      "remember": "Your memory is real. Read your notes before they tell you it isn't.",
+      "theySee": "An employee sitting in their car before a meeting, reading a dated log of notes from the past three weeks.",
+      "signals": [
+        {
+          "l": "You pre-apologize",
+          "t": "Before a hard conversation, you already feel like you're probably wrong about what happened.",
+          "icon": "😰"
+        },
+        {
+          "l": "You over-check",
+          "t": "You've asked multiple people the same question to confirm you're not imagining things.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Their version wins",
+          "t": "After talking with them, you leave believing their account instead of your own.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Notes sit unread",
+          "t": "You have documentation but you don't re-read it before walking into the meeting.",
+          "icon": "📝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Read your log for three minutes before you walk in",
+          "desc": "Before any meeting with this person today, pull up your dated notes and read the relevant entries. Your written record is your anchor."
+        },
+        {
+          "n": "2",
+          "title": "Say it out loud to yourself once",
+          "desc": "Before entering the room, say out loud: 'I know what I saw. My notes are accurate.' One sentence. Say it. Don't just think it."
+        },
+        {
+          "n": "3",
+          "title": "Write your account within 30 minutes of leaving",
+          "desc": "Before their version has time to overwrite your memory, write what was said. Start with the first thing they said when you sat down."
+        }
+      ],
+      "script": "\"I have notes from that day. Let me pull them up right now.\"",
+      "counter": "When you notice you're automatically agreeing with someone's version before checking your own record, slow down completely.\n• Watch: you feel a pull to accept their account because fighting it feels exhausting.\n• Say: 'I want to check my notes before I respond to that.'\n• Do: take the pause. Pull up what you wrote at the time. That version is more reliable than how you feel right now.",
+      "insight": "The hardest part of holding your own account is that it feels wrong when someone is confidently telling you that you're wrong. The move is to treat your doubt as a cue to check your notes — not as proof that they're right."
+    },
+    {
+      "id": 11,
+      "cat": "escalate",
+      "danger": "high",
+      "title": "Go to HR With Dates and Facts, Not Feelings",
+      "hook": "HR's job is to protect the company. <strong>A specific, dated, documented complaint is much harder to dismiss than 'my boss makes me feel bad.'</strong>",
+      "truth": "An HR complaint without documentation gets noted and filed. One with dates, emails, and witnesses gets investigated.\n• 'This person makes me feel bad' is a feelings complaint — it goes nowhere.\n• 'On this date, this person said these exact words' is a facts complaint — it requires a response.\n• Your log is the difference between a meeting that ends with nothing and a formal investigation.",
+      "principle": "EEOC: Hostile Work Environment Doctrine",
+      "remember": "Go to HR with dates, names, and exact words. Not feelings.",
+      "theySee": "An employee walking into an HR office carrying a printed one-page document with a numbered list of dated incidents.",
+      "signals": [
+        {
+          "l": "Behavior repeats",
+          "t": "The same moves keep happening after you've tried to address them directly with the person.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Work affected",
+          "t": "Your ability to do your job is dropping directly because of this person's behavior.",
+          "icon": "📉"
+        },
+        {
+          "l": "Others confirm it",
+          "t": "At least one other colleague has seen or experienced the same behavior from this person.",
+          "icon": "👥"
+        },
+        {
+          "l": "Verbal denials pile up",
+          "t": "You have multiple instances of this person denying things you know happened.",
+          "icon": "❌"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Print your three strongest incidents",
+          "desc": "Take three to five specific entries from your log — exact words, dates, who was present — and put them on one printed page. Nothing more."
+        },
+        {
+          "n": "2",
+          "title": "Request the HR meeting in writing",
+          "desc": "Email HR today: 'I'd like to report a workplace concern and meet at your earliest convenience.' Say nothing more than that in the email."
+        },
+        {
+          "n": "3",
+          "title": "Bring one corroborating witness name",
+          "desc": "If a colleague has seen the behavior, ask whether they'll speak to HR separately. Two independent accounts are much harder to dismiss than one."
+        }
+      ],
+      "script": "\"On [date], [person] said [exact words] in front of [name]. I have this in writing. I'd like to report it formally.\"",
+      "counter": "If someone files a complaint that's specific and dated, the facts matter far more than the feelings behind them.\n• Watch: a complaint with exact dates, exact words, and witnesses is credible — vague ones are not.\n• Say: 'I'd like to see the specific incidents they're referring to.'\n• Do: produce your own record of those same events, written at the time.",
+      "insight": "HR escalation creates a paper trail that cuts both ways. Filing puts you on record — but it also means the company now has to act or explain on the record why they didn't. The harder question is what happens when the gaslighter is HR."
+    },
+    {
+      "id": 12,
+      "cat": "escalate",
+      "danger": "extreme",
+      "title": "File With the EEOC If the Behavior Targets Who You Are",
+      "hook": "Gaslighting tied to your race, gender, or religion isn't just manipulation. <strong>It's illegal, and you have a filing deadline.</strong>",
+      "truth": "When gaslighting is aimed at you because of a protected characteristic, you have federal recourse with a hard deadline.\n• The EEOC takes charges when gaslighting creates a hostile work environment tied to protected class.\n• You have 180 or 300 days from the last incident to file, depending on your state — after that the right is gone.\n• Filing with the EEOC preserves your right to sue in federal court — not filing gives it up entirely.",
+      "principle": "EEOC Charge of Discrimination — Protected Class Nexus",
+      "remember": "If it targets who you are, it may be illegal. File before the deadline passes.",
+      "theySee": "An employee at a computer filling out an EEOC charge form online with a stack of dated, printed notes beside them.",
+      "signals": [
+        {
+          "l": "Protected class named",
+          "t": "The gaslighter's behavior focuses on your race, gender, religion, or other protected characteristic.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "HR did nothing",
+          "t": "You reported to HR, and the behavior continued or got worse after you reported it.",
+          "icon": "🚫"
+        },
+        {
+          "l": "You're the only one",
+          "t": "The behavior is aimed at you specifically, not at others in the same role or team.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Deadline closing",
+          "t": "It's been over 150 days since the last clear incident and you haven't taken any formal action.",
+          "icon": "⏰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check your filing deadline right now",
+          "desc": "Go to eeoc.gov today. Find out whether your state has a 180-day or 300-day window. Calculate the exact deadline from your last documented incident."
+        },
+        {
+          "n": "2",
+          "title": "Mark every incident tied to your protected characteristic",
+          "desc": "Go through your log and mark every entry where your protected trait was mentioned, implied, or clearly relevant. These are your core charges."
+        },
+        {
+          "n": "3",
+          "title": "Submit the charge online today",
+          "desc": "Use the EEOC public portal at publicportal.eeoc.gov. You do not need a lawyer to file. Start the charge now and finish it before you do anything else."
+        }
+      ],
+      "script": "\"I'd like to file a charge of discrimination. The incidents are tied to [protected characteristic] and I have them documented with dates.\"",
+      "counter": "If someone files an EEOC charge against your organization, every action taken after the filing date will be examined for retaliation.\n• Watch: any move against the employee after filing looks like a separate violation — and it is.\n• Say: nothing to the charging employee outside the formal process.\n• Do: loop in legal immediately and preserve every record from the relevant period untouched.",
+      "insight": "Filing is a one-way door. Once you file, the relationship with the employer changes permanently — that's exactly the point. The harder question is whether your documentation is strong enough to win the fight you just opened."
+    }
+  ]
+}
