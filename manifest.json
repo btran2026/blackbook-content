@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-black-book-manipulation-spotter.json",
       "addedAt": "2026-07-04T05:22:54.707Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-body-language-under-pressure",
+      "title": "Black Book: Body Language Under Pressure",
+      "theme": "body language",
+      "topic": "Reading body language under pressure",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "👁️",
+      "url": "playbooks/playbook-srv-black-book-body-language-under-pressure.json",
+      "addedAt": "2026-08-01T14:57:16.870Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-07-04T05:22:54.707Z"
+  "generatedAt": "2026-08-01T14:57:16.870Z"
 }
