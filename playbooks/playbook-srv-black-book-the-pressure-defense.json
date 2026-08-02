@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "id": "srv-black-book-the-pressure-defense",
+    "version": "1.0",
+    "title": "Black Book: The Pressure Defense",
+    "subtitle": "12 moves to survive and beat the high-pressure close",
+    "description": "A closed-file dossier for buyers who walk into rooms where the seller has more practice than them. These cards cover recognition, slowing the room, price control, pushing back, and the one thing most buyers never set: a limit decided before the pressure starts.",
+    "author": "AI",
+    "createdAt": "2026-08-02T15:00:21.149Z",
+    "tags": [
+      "sales defense",
+      "negotiation",
+      "buying",
+      "pressure tactics",
+      "close counter"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🛡️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Defending against a high-pressure sales close",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "recognition",
+      "label": "Spotting the Trap",
+      "color": "#4A1E6E"
+    },
+    {
+      "key": "stall",
+      "label": "Slowing the Room",
+      "color": "#1A4035"
+    },
+    {
+      "key": "anchor",
+      "label": "Price Control",
+      "color": "#003566"
+    },
+    {
+      "key": "counter",
+      "label": "Pushing Back",
+      "color": "#6B2400"
+    },
+    {
+      "key": "escape",
+      "label": "Walking Away",
+      "color": "#6B0000"
+    },
+    {
+      "key": "mindset",
+      "label": "The Buyer's Edge",
+      "color": "#0D3B2E"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "recognition",
+      "danger": "moderate",
+      "title": "Spot the Fake Deadline",
+      "hook": "<strong>The deadline they give you almost never exists.</strong> It is built to stop you thinking clearly, not to protect their inventory.",
+      "truth": "False urgency is the oldest close in the book and it still works on most buyers.\n• A made-up deadline shuts off comparison thinking and creates fear of missing out.\n• The buyer rushes. The seller gets the number they wanted without real negotiating.\n• Test the deadline. Ask what happens on day two. Watch them pause.",
+      "principle": "Cialdini: Scarcity",
+      "remember": "If the deadline is real, it survives one day of checking.",
+      "theySee": "A salesperson pointing at a calendar and saying today is the last day for this price.",
+      "signals": [
+        {
+          "l": "Sudden clock",
+          "t": "They introduce a specific date or time that was not mentioned before this moment.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Vague reason given",
+          "t": "They explain the urgency with a reason that sounds invented or that you cannot verify.",
+          "icon": "💬"
+        },
+        {
+          "l": "Manager card played",
+          "t": "They say they need to check with their manager before confirming whether the deadline holds.",
+          "icon": "👔"
+        },
+        {
+          "l": "Third mention",
+          "t": "They bring up the same deadline more than twice inside ten minutes.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask them to confirm the deadline in writing",
+          "desc": "Say: 'Can you put that date in an email?' Watch how fast the urgency softens or disappears."
+        },
+        {
+          "n": "2",
+          "title": "Ask what changes after the deadline passes",
+          "desc": "Say: 'What exactly happens if I come back next week?' A real deadline has a real and specific answer."
+        },
+        {
+          "n": "3",
+          "title": "Take 24 hours regardless",
+          "desc": "Tell them you need one day. If the deal disappears, it was a trick. If it holds, you gained time for free."
+        }
+      ],
+      "script": "\"Walk me through exactly what changes on your end after that deadline passes.\"",
+      "counter": "You are being given a fake deadline to short-circuit your thinking.\n• Notice if the deadline appeared only after you hesitated.\n• Say: 'I need 24 hours regardless. Let's reconnect tomorrow.'\n• If the deal disappears after that, the deadline was manufactured.",
+      "insight": "The real question is not whether the deadline is real — it is what you would decide with two more days and a competitor's price in hand."
+    },
+    {
+      "id": 2,
+      "cat": "recognition",
+      "danger": "low",
+      "title": "Read the Seller's Desperation",
+      "hook": "Salespeople who need your number more than you need their product will always tip their hand. <strong>Watch for the lean.</strong>",
+      "truth": "A seller in quota pressure gives you more power than anything you could say in the room.\n• They talk faster, drop price faster, and offer extras you never asked for.\n• Their fear of walking away empty gives you the one thing that matters most: time.\n• The slower you move, the more desperate they get.",
+      "principle": "Status Asymmetry",
+      "remember": "The person who needs the deal more always loses the deal.",
+      "theySee": "A salesperson who keeps adding free features before you have said no to anything at all.",
+      "signals": [
+        {
+          "l": "Unsolicited extras",
+          "t": "They offer discounts or bonuses before you push back on anything.",
+          "icon": "🎁"
+        },
+        {
+          "l": "Pitch speeds up",
+          "t": "Their delivery gets faster the moment they sense you are hesitating.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Quarter mentioned",
+          "t": "They bring up the end of the month or quarter without being asked about it.",
+          "icon": "📅"
+        },
+        {
+          "l": "Double follow-up",
+          "t": "They contact you more than twice before you have asked for more time.",
+          "icon": "📞"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stay quiet for five full seconds after they finish",
+          "desc": "Say nothing after their pitch. Count five seconds. Note exactly what they say to fill the silence."
+        },
+        {
+          "n": "2",
+          "title": "Write down every unprompted discount",
+          "desc": "Log every price cut or add-on they offer before you push back. That list is your real floor."
+        },
+        {
+          "n": "3",
+          "title": "Slow your replies by 24 to 48 hours",
+          "desc": "Reply to follow-up emails one to two days later. Urgency drops and their real bottom shows."
+        }
+      ],
+      "script": "\"I'm not in a rush on this. I'll get back to you by end of week.\"",
+      "counter": "You are being read for urgency so they can use it against you.\n• Notice if you have mentioned a hard deadline or budget pressure out loud.\n• Keep your timeline vague until you have the final number in writing.\n• Let them keep talking. Every extra word is information.",
+      "insight": "The seller who has already mentally spent the commission is the easiest one to negotiate down — but only if you have not already shown them that you want it."
+    },
+    {
+      "id": 3,
+      "cat": "stall",
+      "danger": "low",
+      "title": "Ask One Question to Kill the Momentum",
+      "hook": "High-pressure closes run on momentum. <strong>One real question stops the clock cold.</strong>",
+      "truth": "A well-timed how or what question forces the seller to explain instead of close.\n• It shifts their job from pushing to answering, which breaks the close sequence.\n• You look thoughtful, not resistant. They cannot label you difficult.\n• Every minute spent answering is a minute not spent pressuring you.",
+      "principle": "Voss: Calibrated Question",
+      "remember": "Ask how, not why. They have to think. You gain time.",
+      "theySee": "A buyer leaning forward and asking a detailed question right as the close starts.",
+      "signals": [
+        {
+          "l": "Pitch accelerating",
+          "t": "They are speeding through features to reach the price and ask for the decision.",
+          "icon": "🏎️"
+        },
+        {
+          "l": "Binary question",
+          "t": "They ask 'so are we good to move forward?' — a question with only two answers.",
+          "icon": "❓"
+        },
+        {
+          "l": "Pen on table",
+          "t": "They slide a contract or order form across while still talking.",
+          "icon": "🖊️"
+        },
+        {
+          "l": "Pre-close phrase",
+          "t": "They say 'the only thing left is' or 'just one more thing' before naming a number.",
+          "icon": "💬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write two questions before the meeting",
+          "desc": "Write them on paper before you walk in: 'How does pricing change if our volume drops?' and 'What happens if we need to pause after six months?'"
+        },
+        {
+          "n": "2",
+          "title": "Deploy one at the close moment",
+          "desc": "The second they reach for the contract or ask for a decision, drop one question calmly. Do not apologize for asking."
+        },
+        {
+          "n": "3",
+          "title": "Let them finish, then ask the second",
+          "desc": "Wait for their full answer. Pause. Then ask the second question. You have now bought five minutes of control."
+        }
+      ],
+      "script": "\"How does that pricing hold if our situation changes in the first 90 days?\"",
+      "counter": "They are using a binary question to funnel you toward yes.\n• Spot it: 'Option A or Option B?' is still a close in disguise.\n• Answer a binary with an open question: 'What else should I know before I pick?'\n• You never have to answer a close. You can always ask one back.",
+      "insight": "The seller who stops to answer your question has stepped off their script — and off their script, they are just a person with a quota and a problem."
+    },
+    {
+      "id": 4,
+      "cat": "stall",
+      "danger": "low",
+      "title": "Go Silent After the Price Drop",
+      "hook": "They just dropped the price. <strong>The worst thing you can do is respond.</strong>",
+      "truth": "Silence after a concession makes most sellers fill the gap with another one.\n• People read silence as disapproval and keep adjusting to fill it.\n• You get more by saying nothing than by asking for more.\n• The first person to speak after a number lands usually loses.",
+      "principle": "Voss: Tactical Silence",
+      "remember": "After they drop the price, say nothing. They will drop it again.",
+      "theySee": "A buyer who just heard the price, nodded slowly, and said nothing for six full seconds.",
+      "signals": [
+        {
+          "l": "Number just named",
+          "t": "They said a price or discount and stopped talking, waiting for your reaction.",
+          "icon": "💰"
+        },
+        {
+          "l": "Eye contact held",
+          "t": "They are watching your face for any signal — approval, doubt, or resistance.",
+          "icon": "👀"
+        },
+        {
+          "l": "Paper slid over",
+          "t": "The quote or contract sits between you and they are waiting for you to touch it.",
+          "icon": "📄"
+        },
+        {
+          "l": "Filler words start",
+          "t": "They begin saying 'and of course... I mean... what we can also do is...' to fill dead air.",
+          "icon": "💭"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count to six in your head",
+          "desc": "After the number lands, count six full seconds before saying anything. Look at the paper, not at them."
+        },
+        {
+          "n": "2",
+          "title": "Say 'hmm' and nothing else",
+          "desc": "A short 'hmm' or slow exhale signals you heard them. Then go quiet again. Do not explain the silence."
+        },
+        {
+          "n": "3",
+          "title": "Wait for the next number",
+          "desc": "When they speak to fill the gap, listen for a lower price, a bonus, or a softer term. That is your real floor."
+        }
+      ],
+      "script": "\"Hmm.\"",
+      "counter": "They are waiting for you to panic at your own silence and talk yourself into agreeing.\n• If a buyer goes quiet, do not fill the gap on their behalf.\n• Name it calmly: 'Take the time you need. I am here.'\n• The one who speaks first loses the silence game.",
+      "insight": "The second number is always closer to their real limit than the first — but most buyers never hear it because they talk too fast."
+    },
+    {
+      "id": 5,
+      "cat": "anchor",
+      "danger": "moderate",
+      "title": "Name Your Budget Before They Name a Price",
+      "hook": "<strong>Whoever names a number first sets the center of the negotiation.</strong> That center sticks even after both sides try to move away from it.",
+      "truth": "The first number said out loud pulls every counter-offer toward it.\n• Even a low anchor makes the seller's counter feel like a stretch, not a win.\n• A buyer who names the budget first controls what 'reasonable' means in the room.\n• A seller who names first anchors high, then calls their discount a gift.",
+      "principle": "Anchoring Effect — Kahneman & Tversky",
+      "remember": "Name a number first. Low and confident. Every counter orbits your number.",
+      "theySee": "A buyer who opens the conversation by stating a budget before the seller has a chance to quote anything.",
+      "signals": [
+        {
+          "l": "Budget question first",
+          "t": "They ask 'what is your budget for this?' before giving you any pricing at all.",
+          "icon": "💬"
+        },
+        {
+          "l": "Wide range offered",
+          "t": "They offer a vague price range to get you to reveal where you are comfortable landing.",
+          "icon": "📊"
+        },
+        {
+          "l": "Client pricing mentioned",
+          "t": "They tell you what other clients paid to set a reference point before they quote you.",
+          "icon": "📋"
+        },
+        {
+          "l": "Feature stacking",
+          "t": "They pile on features before the price so the final number sounds earned rather than high.",
+          "icon": "📦"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the market low before the call",
+          "desc": "Pull two or three competitor prices or public pricing pages before you sit down. Know the low end of the real range."
+        },
+        {
+          "n": "2",
+          "title": "Name your number in the first ten minutes",
+          "desc": "Say it before they quote you: 'A project like this fits in our eight-to-ten thousand range. Does that line up with what you have in mind?'"
+        },
+        {
+          "n": "3",
+          "title": "Hold the anchor when they push back",
+          "desc": "When they challenge the number, do not move immediately. Repeat it once more calmly before you offer any flexibility at all."
+        }
+      ],
+      "script": "\"We have budgeted eight thousand for this. Walk me through what that gets us.\"",
+      "counter": "Someone is using case studies or competitor pricing to anchor you high before the quote arrives.\n• Notice if they named a price before asking about your budget.\n• Restate your number immediately: 'Our ceiling is X. What fits inside that?'\n• Do not let their anchor sit unchallenged. Name yours right away.",
+      "insight": "The anchor does not just affect the price — it changes what you think you deserve, which is the more dangerous effect."
+    },
+    {
+      "id": 6,
+      "cat": "escape",
+      "danger": "low",
+      "title": "Ask for the Proposal in Writing Before Deciding",
+      "hook": "Verbal pitches are designed to vanish once you say yes. <strong>Get it on paper before you commit to anything.</strong>",
+      "truth": "A written proposal forces the seller to slow down and forces you to think clearly.\n• Sellers who resist writing down terms are hiding flexibility or hiding problems.\n• Paper turns a pressure moment into a review process — you control the pace.\n• The time it takes them to write it is time you use to check one competitor.",
+      "principle": "Sunk-Cost Anchoring",
+      "remember": "They won't write it down because they don't want you reading it carefully.",
+      "theySee": "A buyer asking for a full written breakdown before signing or committing to anything verbally.",
+      "signals": [
+        {
+          "l": "Verbal only push",
+          "t": "They keep the deal oral and discourage you from waiting for documentation.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Sign today language",
+          "t": "They use phrases like 'we can lock this in right now' before sending anything written.",
+          "icon": "🖋️"
+        },
+        {
+          "l": "Fast spoken terms",
+          "t": "Pricing, terms, and conditions are rattled off verbally in one breath without any paper.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Handshake request",
+          "t": "They ask for a verbal commitment before any paperwork is in front of you.",
+          "icon": "🤝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Request the written proposal before the meeting ends",
+          "desc": "Say: 'Send me the full written breakdown — scope, price, and terms — before I give you an answer.'"
+        },
+        {
+          "n": "2",
+          "title": "Set a review date, not a decision date",
+          "desc": "Tell them you will review it and come back in two days. That is not a stall — it is your right as a buyer."
+        },
+        {
+          "n": "3",
+          "title": "Read it against the verbal pitch",
+          "desc": "Compare what they said live to what is on paper. Every gap between the two is your next negotiating point."
+        }
+      ],
+      "script": "\"Send me the full written proposal — scope, pricing, and terms. I will give you my answer after I have reviewed it.\"",
+      "counter": "They are using speed and verbal commitments to get a yes before you can think it through.\n• If you said 'sounds good' verbally, you have not committed to anything enforceable yet.\n• Say: 'I said I was interested, not that I had signed. Send me the paperwork.'\n• Paper is where you actually negotiate — not on the phone.",
+      "insight": "The gap between what they said and what they wrote is exactly the size of the margin they were planning to keep."
+    },
+    {
+      "id": 7,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Name the Pressure Move Out Loud",
+      "hook": "High-pressure tactics lose power the second you name them. <strong>Call it what it is and watch them shift.</strong>",
+      "truth": "Naming a manipulation move forces the seller to either deny it or reset.\n• Denial puts them on defense. A reset gives you a calmer seller to deal with.\n• Either way, the pressure move is done. It cannot be used a second time.\n• You do not sound rude — you sound like someone who knows what is happening.",
+      "principle": "Voss: Label",
+      "remember": "Name the move. It breaks the move. Every time.",
+      "theySee": "A buyer looking calmly at the salesperson and describing out loud exactly what just happened in the room.",
+      "signals": [
+        {
+          "l": "Deadline repeated",
+          "t": "The same urgency reason comes up for the third time in the same conversation.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Guilt language",
+          "t": "They say 'I went to bat for you on this price' to create a feeling that you owe them.",
+          "icon": "😔"
+        },
+        {
+          "l": "Unnamed social proof",
+          "t": "They mention other buyers who decided fast with no way for you to check the claim.",
+          "icon": "👥"
+        },
+        {
+          "l": "Two options only",
+          "t": "You are given exactly two choices and both of them require you to buy today.",
+          "icon": "⚖️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Identify the move type before you speak",
+          "desc": "Is it false urgency, guilt, false social proof, or a binary close? Name it to yourself first so you say it clearly."
+        },
+        {
+          "n": "2",
+          "title": "Say it back calmly and specifically",
+          "desc": "Say: 'It sounds like you are telling me I need to decide today or I lose the deal. Is that actually the case?'"
+        },
+        {
+          "n": "3",
+          "title": "Wait for the answer without filling the gap",
+          "desc": "They will soften the move or confirm it. Either result tells you exactly what kind of seller you are dealing with."
+        }
+      ],
+      "script": "\"It sounds like you are telling me this price disappears today. Is that actually true, or is there flexibility?\"",
+      "counter": "A buyer just named a move you used — real or not — and the room shifted.\n• If they named it correctly, the move is over. Do not defend it.\n• Pivot: 'Fair point. What actually works for your timeline?'\n• If they named it wrong, correct them once and move forward.",
+      "insight": "The seller who gets flustered when you name the tactic had no plan past the tactic — which means the conversation just got a lot easier for you."
+    },
+    {
+      "id": 8,
+      "cat": "anchor",
+      "danger": "moderate",
+      "title": "Imply a Competing Option",
+      "hook": "You do not need a real second option to get treated like you have one. <strong>Imply competition and watch the price move.</strong>",
+      "truth": "The threat of losing you to a competitor is more powerful than any counter-offer you make.\n• A buyer with options gets treated differently than a buyer who seems stuck.\n• You do not have to lie — 'we are talking to a few people' names nobody.\n• Sellers give their best price to buyers they think might walk.",
+      "principle": "Loss Aversion — Kahneman & Tversky",
+      "remember": "Tell them you're talking to others. Real or not, it works.",
+      "theySee": "A buyer who mentions another conversation without naming names, without blinking, and without explaining further.",
+      "signals": [
+        {
+          "l": "No competition named",
+          "t": "You have not brought up any other options and they know it.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Price not moving",
+          "t": "They are holding firm because they do not believe they have to move.",
+          "icon": "🐢"
+        },
+        {
+          "l": "Tone softened",
+          "t": "Your voice has gotten warmer since the pitch started and they can sense you want this.",
+          "icon": "📉"
+        },
+        {
+          "l": "Repeated follow-up",
+          "t": "They keep contacting you because they think you are close and have nowhere else to go.",
+          "icon": "📲"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find one real alternative before the call",
+          "desc": "Pull a competitor's pricing page or send a short inquiry to one other vendor. Now you have a real option you can reference honestly."
+        },
+        {
+          "n": "2",
+          "title": "Introduce competition early and move on",
+          "desc": "Before they quote, say: 'We are looking at a few providers at the moment.' Say it once, flatly, and change the subject."
+        },
+        {
+          "n": "3",
+          "title": "Let them ask who else you are talking to",
+          "desc": "When they ask, say: 'I would rather not say while we are still in early conversations.' That is all you need."
+        }
+      ],
+      "script": "\"We are talking to a few providers right now. I want to see how the options compare before we make a call.\"",
+      "counter": "A buyer is bluffing competition to push your price down.\n• Ask: 'Who else are you talking to?' Most bluffs fall apart when pressed for a name.\n• If they will not say, tell them your current offer stands until they are ready to decide.\n• Do not drop your price for a competitor who may not exist.",
+      "insight": "The buyer who mentions competition but will not name it is often bluffing — but even the bluff changes how you treat them, which is the entire point."
+    },
+    {
+      "id": 9,
+      "cat": "stall",
+      "danger": "low",
+      "title": "Introduce a Second Approver to Buy Time",
+      "hook": "'I need to check with my team' is not weakness — it is your cleanest brake. <strong>The seller cannot pressure a person who is not in the room.</strong>",
+      "truth": "Introducing another decision-maker is the cleanest way out of a close you are not ready for.\n• It is true — almost every purchase above a certain size involves more than one person.\n• It buys you days without you looking reluctant or difficult.\n• The seller cannot pressure someone who is not in the room.",
+      "principle": "Greene: Law 3 — Conceal Your Intentions",
+      "remember": "Bring in a second approver. Real or not, it buys you days.",
+      "theySee": "A buyer who pauses and says someone else on the team needs to weigh in before anything moves forward.",
+      "signals": [
+        {
+          "l": "Solo close attempt",
+          "t": "They are pushing for a decision from you alone when the purchase is clearly above a one-person call.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Meeting end pressure",
+          "t": "They try to close at the end of the meeting before you have had time to reflect.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Solo contact assumed",
+          "t": "They have only spoken with you and assume you have full authority to sign.",
+          "icon": "👤"
+        },
+        {
+          "l": "Contract already drafted",
+          "t": "They show up with a prepared agreement and want a signature before the call ends.",
+          "icon": "📝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick your cover approver before the meeting",
+          "desc": "Choose a real or plausible person: a CFO, a partner, a department head. Know their name or title before you need it."
+        },
+        {
+          "n": "2",
+          "title": "Introduce them before the close attempt",
+          "desc": "Say early in the conversation: 'My final step is always a sign-off from our finance lead. That is just our standard process.'"
+        },
+        {
+          "n": "3",
+          "title": "Set a follow-up date, not a decision date",
+          "desc": "Say: 'Let me run it by them and get back to you by Thursday.' Thursday is a date. It is not a yes."
+        }
+      ],
+      "script": "\"Before I commit, I need to loop in our finance lead. That is standard process on my end. I will get back to you by Thursday.\"",
+      "counter": "A buyer is using a second approver to slow or kill the deal.\n• Ask early: 'Who else is involved in this decision on your side?'\n• If they say they are the only one, confirm: 'So you can sign today if we agree on terms?'\n• A buyer who invents approvers is buying time. Give it, then follow up on schedule.",
+      "insight": "The approver who never appears is not always a stall — sometimes they are the real decision-maker who would have said no from the start, and you should find out which one they are."
+    },
+    {
+      "id": 10,
+      "cat": "escape",
+      "danger": "moderate",
+      "title": "Walk Away From the First Price Offered",
+      "hook": "The first price is always a test. <strong>Pass the test by not paying it.</strong>",
+      "truth": "First-offer prices are built expecting resistance — a buyer who accepts the first number leaves money on the table every time.\n• Sellers build room into the first number specifically so they can discount it later.\n• Accepting without pushing signals you will accept without pushing next time too.\n• A single calm counter wins more often than a hard negotiation.",
+      "principle": "BATNA — Fisher & Ury",
+      "remember": "Nobody pays the first price. Say something and it moves.",
+      "theySee": "A buyer who hears the price, pauses, and says it needs to come down before anything else happens.",
+      "signals": [
+        {
+          "l": "Confident first quote",
+          "t": "They present the first number without hesitation, as if it is fixed and non-negotiable.",
+          "icon": "💪"
+        },
+        {
+          "l": "No line items given",
+          "t": "The price arrives as a single number with no breakdown of what is inside it.",
+          "icon": "🧾"
+        },
+        {
+          "l": "Quick feature pivot",
+          "t": "Right after the price, they immediately list benefits to justify the number before you react.",
+          "icon": "📋"
+        },
+        {
+          "l": "Verbal commitment sought",
+          "t": "They ask 'does that work for you?' immediately after naming the price.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your counter number before the meeting",
+          "desc": "Decide your target price before you sit down. Do not invent it in the moment under pressure — that is how you pay too much."
+        },
+        {
+          "n": "2",
+          "title": "Say your counter with a number, not a speech",
+          "desc": "Do not explain why the price is too high. Just say: 'I was thinking closer to X. What can we do?'"
+        },
+        {
+          "n": "3",
+          "title": "Hold the counter for 30 seconds before softening it",
+          "desc": "After you say your number, stop talking. Let them respond. Do not walk back the counter before they even push back."
+        }
+      ],
+      "script": "\"I was thinking closer to nine thousand. What can we do to make that work?\"",
+      "counter": "The buyer is countering your first offer with a low anchor.\n• Do not immediately split the difference — that is a trained response they are counting on.\n• Ask: 'What is driving that number for you?' Let them explain before you move at all.\n• The first counter is not the final counter. Stay in the room.",
+      "insight": "The buyer who says a number and shuts up is harder to move than one who explains why their number is fair — explanation is an invitation to negotiate the reasoning, not just the price."
+    },
+    {
+      "id": 11,
+      "cat": "counter",
+      "danger": "low",
+      "title": "Name Your Own Objection Before They Do",
+      "hook": "Your hesitations do not disappear when you stay quiet. <strong>Name them first and they lose their power over you.</strong>",
+      "truth": "Raising your own objection before the seller does takes away their most important tool.\n• They cannot use your weakness against you if you have already named it and moved past it.\n• Buyers who surface doubts first come across as careful, not reluctant.\n• You control how the concern is described when you introduce it yourself.",
+      "principle": "Pre-Suasion — Cialdini",
+      "remember": "Name your doubt first. You control how it lands.",
+      "theySee": "A buyer who raises a concern about the product before the salesperson gets a chance to address it on their terms.",
+      "signals": [
+        {
+          "l": "You know the weak spot",
+          "t": "There is one thing about this offer that worries you and you have not said it yet.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Seller keeps circling",
+          "t": "The seller keeps returning to one part of the pitch — they can tell something is off.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Close approaching",
+          "t": "The conversation is almost over and you have said nothing about your real concern.",
+          "icon": "⏩"
+        },
+        {
+          "l": "You have been vague",
+          "t": "You have hinted at hesitation without naming it and they are guessing at what it is.",
+          "icon": "🛡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the real objection before the call",
+          "desc": "On paper, finish this sentence: 'The one thing that might stop me is...' Write the actual answer, not the polite version."
+        },
+        {
+          "n": "2",
+          "title": "Raise it in the middle of the conversation",
+          "desc": "Do not wait for the close. Say it early: 'One thing I want to make sure we address is X. How have you handled that for other buyers?'"
+        },
+        {
+          "n": "3",
+          "title": "Evaluate the answer before moving forward",
+          "desc": "If their answer is solid, you removed the block yourself. If it is weak, you now know more about the product's real limits."
+        }
+      ],
+      "script": "\"Before we go further — the one thing I am not sure about is the contract length. How do other buyers handle that?\"",
+      "counter": "A buyer just named an objection you were planning to address. They took control of the room.\n• Do not repeat the objection back — that makes it bigger.\n• Answer it cleanly with a specific example, then redirect: 'Aside from that, what matters most to you?'\n• They have moved from reluctant to careful. That is a buyer you can still close.",
+      "insight": "The objection they surface first is usually not the one that kills the deal — the one they never said is the dangerous one."
+    },
+    {
+      "id": 12,
+      "cat": "mindset",
+      "danger": "high",
+      "title": "Set Your Walk-Away Number Before You Sit Down",
+      "hook": "Every decision made under pressure is made against you. <strong>Set your limit before the pressure starts.</strong>",
+      "truth": "Without a pre-set limit, you will spend more than you planned in almost every high-pressure close.\n• The seller's job is to make the price feel reasonable inside the room. They practice this daily.\n• A limit you set in advance cannot be moved by a good pitch.\n• Your limit is your only guaranteed protection against a skilled closer.",
+      "principle": "BATNA — Fisher & Ury",
+      "remember": "Decide your limit before you walk in. Not inside the room.",
+      "theySee": "A buyer who calmly declines an offer that sounds reasonable because it is over the number they decided on before they arrived.",
+      "signals": [
+        {
+          "l": "Forgot the ceiling",
+          "t": "You are inside the meeting and you realize you did not set a firm limit before coming in.",
+          "icon": "🧠"
+        },
+        {
+          "l": "Feels reasonable now",
+          "t": "A number that looked high yesterday feels acceptable because of how the pitch landed today.",
+          "icon": "🎩"
+        },
+        {
+          "l": "Seller is skilled",
+          "t": "The seller is good and you are enjoying the conversation — a sign your guard is lower than usual.",
+          "icon": "😊"
+        },
+        {
+          "l": "Calculating stretch",
+          "t": "You are figuring out whether you can stretch rather than whether the number fits your original plan.",
+          "icon": "🔢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your ceiling number on paper before the meeting",
+          "desc": "Write: 'I will not pay more than $X.' Put it in your pocket. Look at it before you walk into the room."
+        },
+        {
+          "n": "2",
+          "title": "Set your walk-away terms too",
+          "desc": "Decide the minimum price, contract length, and support level where you simply leave. Know every one of them in advance."
+        },
+        {
+          "n": "3",
+          "title": "Say the walk-away line out loud once before you go in",
+          "desc": "Practice these words before the meeting: 'That is over my number. I am going to pass on this one.' It is easier to say when you have already said it once."
+        }
+      ],
+      "script": "\"That is past what I came in here to spend. I am going to have to pass on this one.\"",
+      "counter": "A buyer just walked because you pushed past their limit and you did not know the limit existed.\n• Do not chase immediately with a discount — it confirms they had more room and so did you.\n• If you want to save it, ask: 'What number would have worked for you?' Let them set the anchor this time.\n• You have already lost this round. The question is whether you can win the next one.",
+      "insight": "The buyer who walks is not lost — they have just told you the real price. The harder question is whether you can meet it next time without needing the pressure to get there."
+    }
+  ]
+}

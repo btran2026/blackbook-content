@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-black-book-manipulation-spotter.json",
       "addedAt": "2026-07-04T05:22:54.707Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-the-pressure-defense",
+      "title": "Black Book: The Pressure Defense",
+      "theme": "sales defense",
+      "topic": "Defending against a high-pressure sales close",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🛡️",
+      "url": "playbooks/playbook-srv-black-book-the-pressure-defense.json",
+      "addedAt": "2026-08-02T15:00:21.149Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-07-04T05:22:54.707Z"
+  "generatedAt": "2026-08-02T15:00:21.149Z"
 }
