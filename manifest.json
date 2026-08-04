@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-black-book-manipulation-spotter.json",
       "addedAt": "2026-07-04T05:22:54.707Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-sorry-doesn-t-mean-anything",
+      "title": "Sorry Doesn't Mean Anything",
+      "theme": "apology",
+      "topic": "Telling a real apology from a manipulation tactic",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🎭",
+      "url": "playbooks/playbook-srv-sorry-doesn-t-mean-anything.json",
+      "addedAt": "2026-08-04T16:12:53.749Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-07-04T05:22:54.707Z"
+  "generatedAt": "2026-08-04T16:12:53.749Z"
 }
