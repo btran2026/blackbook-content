@@ -1,0 +1,658 @@
+{
+  "meta": {
+    "id": "srv-black-book-smear-campaign-defense",
+    "version": "1.0",
+    "title": "Black Book: Smear Campaign Defense",
+    "subtitle": "12 Moves for Protecting Your Name When Someone Is Working to Destroy It",
+    "description": "A closed-file dossier on surviving and winning a smear campaign. Covers detection, documentation, damage control, legal moves, managing allies, and the long game. No moralizing. No platitudes. Just the moves that work.",
+    "author": "AI",
+    "createdAt": "2026-08-05T16:03:33.176Z",
+    "tags": [
+      "reputation",
+      "smear campaign",
+      "defamation",
+      "workplace",
+      "dark psychology",
+      "defense",
+      "legal"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1C1C1E",
+    "coverIcon": "🔒",
+    "fromServer": true,
+    "generation": {
+      "topic": "Protecting yourself from a smear campaign",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "detect",
+      "label": "Reconnaissance",
+      "color": "#C0392B"
+    },
+    {
+      "key": "contain",
+      "label": "Damage Control",
+      "color": "#2C3E50"
+    },
+    {
+      "key": "document",
+      "label": "Building Your File",
+      "color": "#1A5276"
+    },
+    {
+      "key": "counter",
+      "label": "Fighting Back",
+      "color": "#7D3C98"
+    },
+    {
+      "key": "network",
+      "label": "Managing Allies",
+      "color": "#117A65"
+    },
+    {
+      "key": "legal",
+      "label": "Legal Moves",
+      "color": "#B7950B"
+    },
+    {
+      "key": "longplay",
+      "label": "The Long Game",
+      "color": "#1B4F72"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "detect",
+      "danger": "moderate",
+      "title": "Recognize You're Being Smeared Before Everyone Else Does",
+      "hook": "People stop inviting you to things. Conversations end when you walk in. <strong>The campaign started before you knew there was one.</strong>",
+      "truth": "A smear campaign works because the target is always the last to know.\n• The attacker gets to your people first and tells their version.\n• People hear one side and start avoiding you to stay neutral.\n• By the time you feel it, the story is already set in half the room.",
+      "principle": "Eddy: Narcissistic HCP",
+      "remember": "They told your people before you knew anything was happening.",
+      "theySee": "A person at your office hearing one side of a story about you from someone who got to them first.",
+      "signals": [
+        {
+          "l": "Invites dry up",
+          "t": "People stop including you in meetings, meals, or group messages you were always part of."
+        },
+        {
+          "l": "Room goes quiet",
+          "t": "Conversation stops or changes the moment you walk in."
+        },
+        {
+          "l": "Short answers",
+          "t": "People who used to talk freely now give one-word replies and move on."
+        },
+        {
+          "l": "Third-hand message",
+          "t": "A mutual contact tells you something about yourself that you never said or did."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name two people who went cold",
+          "desc": "Write down two specific people whose behavior changed in the last two weeks. Name the exact behavior — fewer messages, no eye contact, stopped including you on things."
+        },
+        {
+          "n": "2",
+          "title": "Ask one trusted person directly",
+          "desc": "Say: 'I've noticed people pulling back. Has something been said about me?' Get a straight answer."
+        },
+        {
+          "n": "3",
+          "title": "Date and save what you know",
+          "desc": "Open a doc, write today's date, and write down every specific change you've noticed. This starts your record."
+        }
+      ],
+      "script": "\"I've noticed a few people going cold recently. If you've heard anything about me, I'd want to know.\"",
+      "counter": "The same move works on you if someone pre-emptively paints you as the aggressor before any dispute is public.\n• Watch if someone contacts your network before any conflict is in the open.\n• Ask directly: 'Did [name] reach out to you recently?'\n• Don't react to the rumor — get the source first.",
+      "insight": "The attacker's first move is access — they reach your people before you do. The harder question is whether any of those people were already looking for a reason to believe it."
+    },
+    {
+      "id": 2,
+      "cat": "contain",
+      "danger": "high",
+      "title": "Do Nothing for 24 Hours After You Find Out",
+      "hook": "You just found out the full scope of it. <strong>Your first instinct will destroy you.</strong>",
+      "truth": "The moment you find out is the most dangerous moment in the whole campaign.\n• An angry public rebuttal looks exactly like the behavior they accused you of.\n• Silence in the first 24 hours lets you gather facts instead of burning them.\n• The attacker is waiting for your reaction — every outburst feeds their story.",
+      "principle": "Loss Aversion — Kahneman",
+      "remember": "Reacting in the first 24 hours gives them exactly what they wanted.",
+      "theySee": "The attacker checking their phone to see if you've responded yet.",
+      "signals": [
+        {
+          "l": "Hands moving fast",
+          "t": "You're already composing a message you haven't sent and your hands are shaking."
+        },
+        {
+          "l": "Broadcast urge",
+          "t": "You want to post publicly or call everyone who might have heard."
+        },
+        {
+          "l": "Contact reflex",
+          "t": "You feel a strong pull to message the attacker directly and confront them."
+        },
+        {
+          "l": "Story expanding",
+          "t": "Each new person you talk to reveals more of the campaign than you knew before."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Tell one person and stop",
+          "desc": "Tell one trusted person what you found out. Ask them to stay on call. Don't tell anyone else for 24 hours."
+        },
+        {
+          "n": "2",
+          "title": "Move your body right now",
+          "desc": "Go for a walk or run immediately. This breaks the physical panic before you do something irreversible."
+        },
+        {
+          "n": "3",
+          "title": "Write it down, don't send it",
+          "desc": "Write every fact you know in a dated doc. Every name, every claim, every channel. Save it. Don't send it to anyone yet."
+        }
+      ],
+      "script": "\"I just found out about this. I'm not going to react today. I'll talk to you tomorrow when I know more.\"",
+      "counter": "If someone is pushing you to respond RIGHT NOW, they may be working with the attacker.\n• Urgency is a pressure tactic — real allies give you space.\n• Say: 'I'm not responding today. I'll be in touch.'\n• Anyone who pushes harder after that is not on your side.",
+      "insight": "The 24-hour rule saves most people. The harder move is what comes after — when you have all the facts and staying disciplined is harder than when you were still in shock."
+    },
+    {
+      "id": 3,
+      "cat": "document",
+      "danger": "moderate",
+      "title": "Become an Archivist of Your Own Defense",
+      "hook": "Everything you don't save today will be gone when you need it. <strong>Your memory is not enough.</strong>",
+      "truth": "Courts and HR panels don't run on feelings — they run on dated records.\n• Screenshots with visible timestamps are harder to deny than anything you say from memory.\n• The attacker is counting on you not having receipts.\n• A complete file lets a lawyer move fast; a partial one makes them slow and expensive.",
+      "principle": "Evidence Primacy — Legal Defense Standard",
+      "remember": "If you didn't save it with a date, it didn't happen.",
+      "theySee": "An HR officer receiving a printed folder of dated screenshots and a written list of witnesses.",
+      "signals": [
+        {
+          "l": "Post without screenshot",
+          "t": "You saw the post but didn't capture it and now it's been edited or deleted."
+        },
+        {
+          "l": "Verbal-only account",
+          "t": "Someone told you what was said but there's no text, email, or message to back it up."
+        },
+        {
+          "l": "Deleted message",
+          "t": "The attacker removed a message you saw but didn't save."
+        },
+        {
+          "l": "Witness without contact",
+          "t": "You remember someone who heard the false claim but have no way to reach them now."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Screenshot everything with metadata visible",
+          "desc": "Capture every post, message, and email. Make sure date, time, and URL are visible in each screenshot. Save to a folder outside work systems."
+        },
+        {
+          "n": "2",
+          "title": "List every witness with contact info",
+          "desc": "Write the name, role, and what they witnessed for every person who can confirm your version. Include how to reach them."
+        },
+        {
+          "n": "3",
+          "title": "Log every positive work result from the last six months",
+          "desc": "Write down every project success, positive email, and good review. Date each one. This becomes your counter-record."
+        }
+      ],
+      "script": "\"I've been keeping a record. I have the date, the message, and who was copied.\"",
+      "counter": "If someone is building a case against you, they're doing this same thing right now.\n• Assume every message you send could be shown to HR or a judge.\n• Don't delete anything on your end — that looks worse than the original message.\n• Write nothing in anger.",
+      "insight": "The file you build in the first week is worth ten times the file you build in month three. The attacker is betting you'll wait."
+    },
+    {
+      "id": 4,
+      "cat": "detect",
+      "danger": "moderate",
+      "title": "Know Who Built the Story and What They Need From It",
+      "hook": "Random people don't run smear campaigns. <strong>Someone with something to protect started this.</strong>",
+      "truth": "The campaign's structure tells you who is running it and what they're afraid of.\n• A narcissistic attacker reaches your people first — they need to be the victim before you can speak.\n• The false story is built around their self-image, not around facts about you.\n• Find their motive — reputation, control, avoiding blame — and you know their next move.",
+      "principle": "Eddy: Narcissistic HCP",
+      "remember": "They built the story to protect themselves, not to destroy you.",
+      "theySee": "A person who just told everyone their version and is now watching to see how you'll react.",
+      "signals": [
+        {
+          "l": "Victim framing",
+          "t": "The attacker's version always makes them the hurt party and you the aggressor."
+        },
+        {
+          "l": "Pre-emptive contact",
+          "t": "They contacted your mutual connections before any dispute was public."
+        },
+        {
+          "l": "Timed story",
+          "t": "The smear started right after you gained something — a promotion, a client, public recognition."
+        },
+        {
+          "l": "No direct confrontation",
+          "t": "They never came to you directly but told everyone else their version first."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the motive in one sentence",
+          "desc": "Finish this: 'They started this because they needed to protect ___.' Name the specific thing — status, a relationship, a job, their image."
+        },
+        {
+          "n": "2",
+          "title": "Map who they reached first",
+          "desc": "List the people in your network who went cold first. That's the order the attacker worked in."
+        },
+        {
+          "n": "3",
+          "title": "Predict their next move and get there first",
+          "desc": "Given their motive, write one or two places they'll go next — a boss, a client, a platform. Reach those people with your version before they do."
+        }
+      ],
+      "script": "\"I noticed this started right after [specific event]. I want to understand what changed.\"",
+      "counter": "If someone tells you a detailed story about a third party without you asking, check who benefits if you believe it.\n• Don't relay what you heard. Wait and see if another source confirms it independently.\n• Ask yourself: what does the storyteller gain if you act on this?\n• Cross-reference before you change your behavior toward the target.",
+      "insight": "Once you name the motive, the campaign gets predictable. The harder move is resisting the urge to act on that prediction before you have proof."
+    },
+    {
+      "id": 5,
+      "cat": "network",
+      "danger": "moderate",
+      "title": "Most Allies Will Disappear — Find the Ones Who Won't",
+      "hook": "Your colleagues are not cowards. <strong>They're doing the math and deciding you're not worth the cost.</strong>",
+      "truth": "People avoid smear campaign targets to protect themselves, not because they believe the story.\n• Standing with you carries social cost — most people won't pay it.\n• The ones who stay show you exactly who to invest in going forward.\n• Chasing the neutrals wastes time you need for the few who are solid.",
+      "principle": "Status Asymmetry — Social Risk Calculus",
+      "remember": "One person who stays is worth twenty who went quiet.",
+      "theySee": "A trusted contact who keeps walking over to your desk to talk even after most others have stopped coming by.",
+      "signals": [
+        {
+          "l": "Still initiates",
+          "t": "One or two people still start contact, still include you, still reply without hedging."
+        },
+        {
+          "l": "Neutral stays polite",
+          "t": "Some colleagues stay friendly but won't take sides — recoverable later, not useful right now."
+        },
+        {
+          "l": "Active avoider",
+          "t": "Someone who used to be close suddenly has no time and won't make eye contact."
+        },
+        {
+          "l": "Quiet tip-off",
+          "t": "Someone privately tells you what they've heard without broadcasting it — a real ally signal."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List your three solid contacts",
+          "desc": "Write three names — people who have stayed warm since the campaign started. Not just friendly — actively in your corner."
+        },
+        {
+          "n": "2",
+          "title": "Make one concrete ask of each",
+          "desc": "For each solid contact, make one specific ask today: 'Will you be a reference?' or 'Can you confirm what you saw on that project?'"
+        },
+        {
+          "n": "3",
+          "title": "Stop chasing the neutrals",
+          "desc": "Identify two people you've been trying to bring back. Stop. Put that time into the three who stayed."
+        }
+      ],
+      "script": "\"I know things have been messy. I want you to know I value what you've seen, and I may ask for your account of it.\"",
+      "counter": "Someone planting a fake ally in your circle is a real move.\n• A new 'friend' who keeps asking what you're planning to do next may be reporting back.\n• Share less, not more, with anyone who appeared warm right after the campaign started.\n• Test with one small non-critical piece of information and watch where it lands.",
+      "insight": "The allies who stay aren't just emotional support — they're future witnesses and references. The harder question is whether the ones who left knew something about the attacker before you did."
+    },
+    {
+      "id": 6,
+      "cat": "counter",
+      "danger": "low",
+      "title": "Build Your Counter-Record Before Anyone Asks",
+      "hook": "They painted you as the weak link. <strong>Build the file that proves the opposite before anyone interviews you.</strong>",
+      "truth": "A reactive defense sounds desperate; a prepared record sounds authoritative.\n• A list of ten specific recent wins reframes the conversation before questions even start.\n• Recruiters and hiring managers hear your counter-record without knowing there's a smear.\n• The person with documented results controls the story in any room they walk into.",
+      "principle": "Proactive Reputation Management — Anti-Deadwood Protocol",
+      "remember": "Ten specific wins on paper beat fifty vague denials out loud.",
+      "theySee": "A recruiter opening your resume and finding specific, dated results instead of vague job descriptions.",
+      "signals": [
+        {
+          "l": "Gap question",
+          "t": "Someone asks why you left or why there's friction — without mentioning the smear directly."
+        },
+        {
+          "l": "Reference hesitation",
+          "t": "A reference contact seems cautious or asks clarifying questions before committing."
+        },
+        {
+          "l": "Thin LinkedIn",
+          "t": "Your profile has old endorsements and no recent activity showing current work."
+        },
+        {
+          "l": "Bad first search result",
+          "t": "Searching your name pulls up something negative before your own profiles appear."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write ten specific wins with dates",
+          "desc": "List ten concrete, dated results from the last two years. Numbers where possible: 'Closed X deal', 'Led team that shipped Y on time and under budget'."
+        },
+        {
+          "n": "2",
+          "title": "Get three fresh endorsements this week",
+          "desc": "Ask three people outside the toxic environment to write a LinkedIn recommendation. Give each one a specific achievement to anchor it."
+        },
+        {
+          "n": "3",
+          "title": "Update your resume and LinkedIn today",
+          "desc": "Add the wins to both right now. Don't wait until you're actively looking. The profile exists whether you're updating it or not."
+        }
+      ],
+      "script": "\"Here are ten specific things I've delivered in the last two years — dates, results, and team context.\"",
+      "counter": "If someone hands you an unprompted list of wins right after a conflict, they're running this same move.\n• It's a smart move — but now look for what's missing from the list.\n• Ask one specific follow-up about a gap or a team dynamic and watch how they handle it.\n• The gaps in a prepared record are more revealing than what's in it.",
+      "insight": "The counter-record works on interviewers. It works less well on people who already heard the smear and liked it. The harder question is whether you're building it early enough."
+    },
+    {
+      "id": 7,
+      "cat": "contain",
+      "danger": "high",
+      "title": "Cut All Contact With the Attacker",
+      "hook": "Every reply you send them is a new piece of evidence they can twist. <strong>Silence starves the machine.</strong>",
+      "truth": "Direct contact with the attacker feeds the campaign — it doesn't stop it.\n• Each message you send gives them new material to screenshot, share, or misrepresent.\n• Engaging directly signals that you're rattled, which confirms their story for observers.\n• Your lawyer can handle contact if legal action becomes necessary — you don't have to.",
+      "principle": "Voss: Strategic Silence",
+      "remember": "Every message you send them is raw material for the next lie.",
+      "theySee": "The attacker sending a message and waiting for a reply that never comes.",
+      "signals": [
+        {
+          "l": "Bait message",
+          "t": "They send you something designed to provoke — an accusation, a partial apology, or an urgent question."
+        },
+        {
+          "l": "Mutual contact relay",
+          "t": "A shared contact passes along a message from them to 'just hear them out'."
+        },
+        {
+          "l": "Soft probe",
+          "t": "They like your post, open your story, or make a small gesture to see if you respond."
+        },
+        {
+          "l": "Urgency play",
+          "t": "They frame a message as time-sensitive to force a fast reply before you think it through."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Block or mute on every channel today",
+          "desc": "Block or mute them on every platform and app right now. If work requires contact, route it through a third party or legal counsel."
+        },
+        {
+          "n": "2",
+          "title": "Log every contact attempt",
+          "desc": "Write down every bait message, mutual-contact relay, and soft probe. Date each one. Add it to your evidence file."
+        },
+        {
+          "n": "3",
+          "title": "Brief your solid allies on the cut-off",
+          "desc": "Tell your solid contacts: 'I'm not in communication with them. If they reach you about me, note it and let me know.'"
+        }
+      ],
+      "script": "\"I'm not in contact with them. If you have a message from them for me, I'd ask you to note it rather than pass it along.\"",
+      "counter": "If someone keeps pushing you to respond to or reconcile with the attacker, question their position.\n• A bait message is designed to get you on record saying something angry you'll regret.\n• Anyone pushing you to respond is either naive or working with the attacker.\n• Forward all contact attempts to your lawyer. Don't reply yourself.",
+      "insight": "Cutting contact is the cleaner move. The harder part is when the attacker routes through someone you can't cut — a boss, a shared client, a family member."
+    },
+    {
+      "id": 8,
+      "cat": "legal",
+      "danger": "high",
+      "title": "Get a Lawyer Before You Think You Need One",
+      "hook": "Lawyers move faster when they have a complete file from day one. <strong>Waiting costs you options.</strong>",
+      "truth": "An early consultation changes what you can legally do — and what you're protected from doing.\n• A lawyer tells you if the smear qualifies as defamation before you make moves that hurt your case.\n• Attorney-client privilege means you can tell them everything without it being used against you.\n• In most cases, one attorney letter stops the attacker faster than months of direct defense.",
+      "principle": "Defamation — Legal Duty of Care",
+      "remember": "One lawyer letter stops most attackers cold.",
+      "theySee": "A lawyer opening a folder you've handed them, going through dated screenshots and a complete timeline.",
+      "signals": [
+        {
+          "l": "False claim in writing",
+          "t": "The attacker put something false and specific in an email, post, or message that can be captured."
+        },
+        {
+          "l": "Traceable job loss",
+          "t": "You can connect a lost job, contract, or client directly to something false they said."
+        },
+        {
+          "l": "Repeated pattern",
+          "t": "The attacker has done this to someone else before and there's a record of it."
+        },
+        {
+          "l": "HR did nothing",
+          "t": "You reported it internally and the organization did nothing or made the situation worse."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find a defamation or employment attorney today",
+          "desc": "Search for a lawyer who specializes in defamation or employment law in your jurisdiction. Book a consultation this week — not next month."
+        },
+        {
+          "n": "2",
+          "title": "Bring your complete evidence file",
+          "desc": "Bring the dated folder you built: screenshots, messages, witness names, and the full timeline. Don't come empty-handed."
+        },
+        {
+          "n": "3",
+          "title": "Tell your lawyer every unflattering fact",
+          "desc": "They need the full picture, including the weaknesses in your case. Attorney-client privilege covers all of it. Hold nothing back."
+        }
+      ],
+      "script": "\"I've documented everything from the beginning. Here's the timeline, the messages, and the names of three people who can confirm what happened.\"",
+      "counter": "If someone threatens legal action against you as part of the smear, don't respond to them directly.\n• A legal threat from the attacker is often a pressure tactic, not a real filing.\n• Say nothing. Forward it to your attorney.\n• Responding without counsel can undermine your own position.",
+      "insight": "Legal action ends most campaigns fast. The harder question is whether winning the legal fight also wins back the people who already changed their minds about you."
+    },
+    {
+      "id": 9,
+      "cat": "counter",
+      "danger": "low",
+      "title": "Clean Up Your Digital Profile While the Fight Is Still Going",
+      "hook": "Your online profile exists whether you're paying attention to it or not. <strong>Right now it may be working against you.</strong>",
+      "truth": "The attacker is often poisoning your digital presence at the same time as the in-person campaign.\n• A thin profile leaves room for the false version to fill in the gap.\n• New recommendations from outside the toxic environment give the next employer something to find first.\n• Give search engines better content than what the attacker planted.",
+      "principle": "Proactive Reputation Management — Digital Presence",
+      "remember": "A stale profile is a blank wall the attacker fills in.",
+      "theySee": "A hiring manager searching your name online and finding three recent recommendations and a list of specific results.",
+      "signals": [
+        {
+          "l": "Old endorsements only",
+          "t": "Your LinkedIn has recommendations from people at the toxic environment and nothing more recent."
+        },
+        {
+          "l": "No recent posts",
+          "t": "Your last activity was months ago and nothing shows current work."
+        },
+        {
+          "l": "Negative first result",
+          "t": "Searching your name returns something negative before your own profiles appear."
+        },
+        {
+          "l": "Thin bio",
+          "t": "Your professional profile or personal site hasn't been updated in over a year."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask three outside contacts for recommendations today",
+          "desc": "Message three people outside the toxic environment. Give each one a specific achievement to anchor their recommendation. Ask them to post it this week."
+        },
+        {
+          "n": "2",
+          "title": "Add your ten wins to LinkedIn right now",
+          "desc": "Take the ten wins from your counter-record and add them to your profile. Specific numbers, dates, project names."
+        },
+        {
+          "n": "3",
+          "title": "Post one piece of visible professional work today",
+          "desc": "Share an article, a project update, or a professional opinion. Get your name appearing in fresh, positive context before end of day."
+        }
+      ],
+      "script": "\"I'm updating my profile and would really value a recommendation from you — specifically around the work we did on [project].\"",
+      "counter": "Search your own name right now and see what comes up.\n• Search your full name and your name plus your industry or company name.\n• A high-ranking negative result needs a lawyer or a reputation firm, not a LinkedIn post.\n• Organic posts alone won't beat a negative result that ranks on page one.",
+      "insight": "The digital front is the one most people ignore until they're already in an interview that goes cold. The profile you build during the campaign is the one that gets you the next role."
+    },
+    {
+      "id": 10,
+      "cat": "longplay",
+      "danger": "low",
+      "title": "Outperform the Story They Told",
+      "hook": "The best answer to a false story is a public track record that makes it unbelievable. <strong>This takes longer than you want.</strong>",
+      "truth": "Counter-narratives don't stick — consistent behavior does.\n• People who heard the smear update their view when your behavior stops matching the story.\n• Showing up and working well is harder and more effective than any rebuttal.\n• The attacker's story becomes unbelievable when your day-to-day behavior contradicts it for long enough.",
+      "principle": "Reputation Recovery — Sustained Character Demonstration",
+      "remember": "Keep showing up. The story dies when your behavior makes it impossible to believe.",
+      "theySee": "A coworker watching you show up, do good work, and stay professional while knowing you're under attack.",
+      "signals": [
+        {
+          "l": "Others still watching",
+          "t": "People are checking your behavior day-to-day to see if the story holds up."
+        },
+        {
+          "l": "Neutrals warming",
+          "t": "Some of the people who went quiet are slowly coming back and making small contact."
+        },
+        {
+          "l": "Attacker adds claims",
+          "t": "The attacker starts adding new claims because the old ones aren't landing anymore."
+        },
+        {
+          "l": "Outside praise",
+          "t": "People outside the toxic environment are publicly noting your work."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Document every win this week",
+          "desc": "Write down every successful thing you did at work today and this week. Email, project, conversation. Date it."
+        },
+        {
+          "n": "2",
+          "title": "Stay visible and professional in one public setting",
+          "desc": "Show up to the meeting, the event, the team lunch. Don't hide. Be the person the story says you aren't."
+        },
+        {
+          "n": "3",
+          "title": "Get one piece of public recognition from outside",
+          "desc": "Ask a client, partner, or colleague outside the situation to leave a recommendation or publicly note a piece of work you did together."
+        }
+      ],
+      "script": "\"I'm going to keep doing the work. The record will speak for itself.\"",
+      "counter": "If someone is performing very visibly after a conflict with you, check whether private behavior matches.\n• Public performance can be a cover — watch what happens when no one is watching.\n• Ask someone who works with them day-to-day, not in formal settings.\n• Check whether the private behavior matches the public record.",
+      "insight": "The long game works. The harder part is that it requires you to stay somewhere long enough for it to pay out — and that's not always possible or worth it."
+    },
+    {
+      "id": 11,
+      "cat": "contain",
+      "danger": "moderate",
+      "title": "Don't Spread the Smear by Defending Yourself to Everyone",
+      "hook": "Every time you explain the campaign to someone who didn't know about it, you spread it. <strong>Your defense is also your attacker's best advertising.</strong>",
+      "truth": "Telling your story to everyone who will listen makes the smear bigger, not your defense.\n• People who hadn't heard the story now have it — from you.\n• A detailed defense makes you sound rattled, which confirms the attacker's version.\n• Save the full story for your lawyer, your solid allies, and anyone directly affected.",
+      "principle": "Information Control — Strategic Disclosure",
+      "remember": "Telling everyone your side spreads the story further.",
+      "theySee": "A new colleague listening to you give a one-sentence answer about the conflict and then change the subject.",
+      "signals": [
+        {
+          "l": "Unprompted explanation",
+          "t": "You find yourself explaining the situation to people who didn't ask about it."
+        },
+        {
+          "l": "Full story reflex",
+          "t": "Every time someone seems slightly curious, you give them the complete version."
+        },
+        {
+          "l": "Emotional detail",
+          "t": "You're including how it made you feel, not just the facts, to people with no stake in it."
+        },
+        {
+          "l": "New context, old story",
+          "t": "You're telling people at a new job or in a new setting about a situation they had no idea existed."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write one short neutral sentence about the situation",
+          "desc": "Write a single sentence you'll use if anyone asks: factual, calm, no emotional language. Practice saying it out loud before you need it."
+        },
+        {
+          "n": "2",
+          "title": "Identify who actually needs the full story",
+          "desc": "List the people who need to know everything: your lawyer, your solid allies, anyone directly affected. Everyone else gets the short version."
+        },
+        {
+          "n": "3",
+          "title": "Stop volunteering the story for one week",
+          "desc": "Don't bring up the situation unless directly asked. Every time you want to and don't, you've stopped a new spread."
+        }
+      ],
+      "script": "\"There was a conflict with a former colleague. I'm handling it. I'd rather focus on [current thing].\"",
+      "counter": "If someone keeps asking for more detail after you've given a brief answer, they may not be asking for your benefit.\n• Each follow-up question is a chance to say less, not more.\n• 'I've said what I'm comfortable sharing' ends the loop.\n• Note who keeps pressing — they may be running the same intelligence move on you.",
+      "insight": "Every person you tell is a new channel for the story to travel. The gap between what you intended to say and what they tell the next person is where the smear gets new legs."
+    },
+    {
+      "id": 12,
+      "cat": "longplay",
+      "danger": "moderate",
+      "title": "Know When to Leave and Start Planning It Now",
+      "hook": "Sometimes the environment is too poisoned to win in. <strong>Leaving on your terms is not losing — waiting until they push you out is.</strong>",
+      "truth": "A smear campaign is often a symptom of a system that won't fix itself.\n• Staying too long in a poisoned environment drains the energy you need to rebuild elsewhere.\n• Leaving on your own timeline with references lined up is a position of strength.\n• They don't own your next move unless you wait too long to make it.",
+      "principle": "Greene: Law 23 — Concentrate Your Forces",
+      "remember": "Leave when you choose to, not when they finally make you.",
+      "theySee": "A recruiter getting a call from you while you're still employed and performing well at your current job.",
+      "signals": [
+        {
+          "l": "HR protects attacker",
+          "t": "The organization has shown it won't address the campaign or protect you from it."
+        },
+        {
+          "l": "New smear layers",
+          "t": "The attacker keeps adding claims — the campaign isn't slowing down after months."
+        },
+        {
+          "l": "More managing than working",
+          "t": "You're spending more time on the campaign than on your actual job."
+        },
+        {
+          "l": "Outside options exist",
+          "t": "You have real contacts and opportunities outside the current environment that don't know the local story."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map your departure on paper today",
+          "desc": "Write: when you want to leave, who your three references are, and what you need in place first. Put a date on the target."
+        },
+        {
+          "n": "2",
+          "title": "Start one outside conversation this week",
+          "desc": "Contact one person in your network outside the current environment — a former colleague, a recruiter, or a contact at a target company."
+        },
+        {
+          "n": "3",
+          "title": "Keep performing until you're gone",
+          "desc": "Don't drop your output. Every week you stay performing well, you add to the record that says the smear was false. Leave on a win."
+        }
+      ],
+      "script": "\"I'm exploring what's next. Can we catch up this week? I'd value your perspective on the market.\"",
+      "counter": "If someone in a toxic environment suddenly becomes very nice to you after the campaign, they may be trying to delay your departure.\n• Nice treatment after a bad period is not the same as a fixed environment.\n• Use the goodwill to finish your departure, not as a reason to stay.\n• The environment that allowed the campaign hasn't changed.",
+      "insight": "Leaving is the move most people plan last and should plan first. The real question is whether you have enough outside options to make the timing yours."
+    }
+  ]
+}
