@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-black-book-manipulation-spotter.json",
       "addedAt": "2026-07-04T05:22:54.707Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-smear-campaign-defense",
+      "title": "Black Book: Smear Campaign Defense",
+      "theme": "reputation",
+      "topic": "Protecting yourself from a smear campaign",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1C1C1E",
+      "coverIcon": "🔒",
+      "url": "playbooks/playbook-srv-black-book-smear-campaign-defense.json",
+      "addedAt": "2026-08-05T16:03:33.176Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-07-04T05:22:54.707Z"
+  "generatedAt": "2026-08-05T16:03:33.176Z"
 }
