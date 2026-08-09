@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-black-book-manipulation-spotter.json",
       "addedAt": "2026-07-04T05:22:54.707Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-anchor-defense",
+      "title": "Black Book: Anchor Defense",
+      "theme": "negotiation",
+      "topic": "Defending against an anchor in a first offer",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "🎯",
+      "url": "playbooks/playbook-srv-black-book-anchor-defense.json",
+      "addedAt": "2026-08-09T14:31:17.499Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-07-04T05:22:54.707Z"
+  "generatedAt": "2026-08-09T14:31:17.499Z"
 }
