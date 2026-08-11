@@ -1,0 +1,702 @@
+{
+  "meta": {
+    "id": "srv-darvo-the-confrontation-dossier",
+    "version": "1.0",
+    "title": "DARVO: The Confrontation Dossier",
+    "subtitle": "Spot, Survive, and Shut Down the Deny-Attack-Reverse Pattern",
+    "description": "A 12-card field manual on the DARVO pattern — coined by psychologist Jennifer Freyd — covering all three phases, what the sequence does to you after it fires, and the exact moves to hold your position, document what happened, and name the pattern out loud.",
+    "author": "AI",
+    "createdAt": "2026-08-11T14:57:30.583Z",
+    "tags": [
+      "DARVO",
+      "manipulation",
+      "confrontation",
+      "accountability",
+      "gaslighting",
+      "self-blame",
+      "psychology",
+      "Jennifer Freyd"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "🎭",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting the DARVO pattern when confronting someone",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "recognition",
+      "label": "Spotting the Pattern",
+      "color": "#4a1942"
+    },
+    {
+      "key": "phases",
+      "label": "The Three Moves",
+      "color": "#0d3b66"
+    },
+    {
+      "key": "psychology",
+      "label": "What It Does to You",
+      "color": "#6b2d2d"
+    },
+    {
+      "key": "defense",
+      "label": "Holding Your Ground",
+      "color": "#1a472a"
+    },
+    {
+      "key": "aftermath",
+      "label": "After It Fires",
+      "color": "#3d2b00"
+    },
+    {
+      "key": "counter",
+      "label": "Counter-Tactics",
+      "color": "#2d2d5e"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "recognition",
+      "danger": "moderate",
+      "title": "Know What DARVO Is Before You Confront Anyone",
+      "hook": "72% of people you confront will use DARVO on you. <strong>You will feel like you did something wrong before the conversation is over.</strong>",
+      "truth": "DARVO is a three-move sequence that shifts blame from the person who caused harm to the person naming it.\n• Deny, Attack, Reverse happen fast — often in under a minute.\n• Each phase shifts what you focus on: first facts, then your character, then your guilt.\n• The trap: you spend the whole conversation defending yourself, not your original point.",
+      "principle": "Freyd: DARVO — Deny, Attack, Reverse Victim and Offender",
+      "remember": "Know the three moves before you walk in.",
+      "theySee": "A person who walked in to name a problem, now sitting quietly while the other person explains why they are the real victim.",
+      "signals": [
+        {
+          "l": "Quick denial",
+          "t": "They say 'that never happened' before you finish your sentence.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Tone shift",
+          "t": "Their voice drops or hardens the moment you name what they did.",
+          "icon": "📉"
+        },
+        {
+          "l": "You apologize",
+          "t": "You catch yourself saying sorry before the conversation is done.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Topic moved",
+          "t": "The conversation is now about your behavior, not theirs.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the three letters down",
+          "desc": "Write D-A-R-V-O on paper before the confrontation. Seeing the sequence once primes you to recognize it in real time."
+        },
+        {
+          "n": "2",
+          "title": "State your one core fact",
+          "desc": "Decide on one specific thing you saw or heard. One fact. Not three. One is harder to deny and easier to hold under pressure."
+        },
+        {
+          "n": "3",
+          "title": "Set a time limit for the conversation",
+          "desc": "Give yourself 15 minutes. Knowing there is an end point stops you from chasing their deflection in circles."
+        }
+      ],
+      "script": "\"I want to talk about one specific thing that happened on [date].\"",
+      "counter": "You are being DARVO'd when you feel defensive before you have said anything wrong.\n• Notice: you are explaining yourself more than they are addressing the issue.\n• Say: 'I'm not here to debate what happened. I'm here about one specific thing.'\n• Do: stop adding new information — every new detail gives them more to pick at.",
+      "insight": "The harder part is that knowing DARVO exists does not stop it from working on you in the moment — the question is whether you can spot which phase you are in fast enough to stay in your seat."
+    },
+    {
+      "id": 2,
+      "cat": "phases",
+      "danger": "moderate",
+      "title": "Spot the Deny Phase Before It Disarms You",
+      "hook": "The denial comes first and it comes fast. <strong>It does not matter how much evidence you have — they will still say it never happened.</strong>",
+      "truth": "Flat denial is not confusion — it is the first move in a practiced sequence that removes the shared facts you need for the conversation.\n• Without shared facts, you argue about what is true instead of what to do about it.\n• 'I don't remember that' muddies the facts without an outright lie — still a denial.\n• The trap: you add more proof to make it stick, and the conversation is already off your point.",
+      "principle": "Freyd: DARVO — Deny Phase",
+      "remember": "They will deny it even with the evidence in their hands.",
+      "theySee": "A person across the table saying 'that never happened' while looking straight at you.",
+      "signals": [
+        {
+          "l": "Flat no",
+          "t": "They deny the event in one short word before you finish speaking.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Memory claim",
+          "t": "They say 'I don't remember that' to create doubt without lying outright.",
+          "icon": "🧠"
+        },
+        {
+          "l": "You slow down",
+          "t": "You start adding more detail to prove it happened — the denial is already working on you.",
+          "icon": "📋"
+        },
+        {
+          "l": "Minimizing words",
+          "t": "They say 'that's not what it was' or 'you're blowing this up'.",
+          "icon": "📉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the denial out loud to yourself beforehand",
+          "desc": "Before you walk in, say: 'They will deny it.' This is not pessimism — it is preparation. Surprises destabilize you. Predictions do not."
+        },
+        {
+          "n": "2",
+          "title": "Hold your fact and do not expand it",
+          "desc": "When they deny, do not add more proof. Say the same sentence again. Adding detail hands them new material to attack."
+        },
+        {
+          "n": "3",
+          "title": "Write what you saw or heard before the conversation",
+          "desc": "Put the specific event on paper — date, what was said, who was there. You will need that anchor when they make you doubt your memory."
+        }
+      ],
+      "script": "\"I know you see it differently. I'm telling you what I saw.\"",
+      "counter": "Someone is using denial on you when they treat your specific facts as your opinions.\n• Notice: they dispute your memory rather than address the act.\n• Say: 'I'm not asking you to remember it my way. I'm telling you what happened for me.'\n• Do: stop arguing about what is true — name the disagreement and move to what you need from them.",
+      "insight": "Denial works because we need agreement before we act — the person who breaks that need first holds more ground in the conversation, and most people never practice breaking it."
+    },
+    {
+      "id": 3,
+      "cat": "phases",
+      "danger": "high",
+      "title": "Recognize the Attack Before It Rewrites Your Character",
+      "hook": "Once denial fails, they come for you. <strong>Your motives, your memory, your mental state — all become the subject.</strong>",
+      "truth": "The attack is not personal rage — it is a calculated move to shift the subject from their act to your credibility.\n• Attacking your character makes you defend yourself instead of your point.\n• The angrier you get, the more they use your reaction as proof you are the problem.\n• The trap: you forget what you came to say and spend the rest of the time proving you are sane.",
+      "principle": "Freyd: DARVO — Attack Phase",
+      "remember": "When they attack your character, the subject has already changed.",
+      "theySee": "A person defending their own sanity and motives while the original issue sits completely untouched.",
+      "signals": [
+        {
+          "l": "Motive question",
+          "t": "They ask 'why are you doing this to me?' instead of addressing what you said.",
+          "icon": "❓"
+        },
+        {
+          "l": "Past dug up",
+          "t": "They bring up something you did months ago that has nothing to do with today.",
+          "icon": "📅"
+        },
+        {
+          "l": "Mental state hit",
+          "t": "They say you are 'too sensitive', 'paranoid', or 'always starting things'.",
+          "icon": "🧠"
+        },
+        {
+          "l": "You go quiet",
+          "t": "You stop speaking because you are now unsure if you are the problem.",
+          "icon": "🤐"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the shift to yourself",
+          "desc": "When they move from the event to you personally, say silently: 'That is the Attack move.' You do not need to say it out loud. Naming it internally slows your reaction."
+        },
+        {
+          "n": "2",
+          "title": "Redirect with one sentence",
+          "desc": "Say: 'I hear that you feel that way about me. I'm still here about [the specific thing].' Then stop talking. Let the silence sit."
+        },
+        {
+          "n": "3",
+          "title": "Do not defend your character",
+          "desc": "Every sentence you spend defending yourself is a sentence not spent on your point. Defending your character is the bait. Do not take it."
+        }
+      ],
+      "script": "\"That's a separate conversation. I'm talking about what happened on [date].\"",
+      "counter": "You are being attacked in the DARVO sense when they debate who you are, not what happened.\n• Notice: the conversation has moved from an event to your personality or motives.\n• Say: 'I'm not here to discuss my character. I'm here about one specific thing.'\n• Do: refuse to explain your motives — once you do, you are no longer the confronter, you are the accused.",
+      "insight": "The attack phase works best on people who need to be seen as good — the more you need their approval, the harder the attack lands, and the faster you switch seats."
+    },
+    {
+      "id": 4,
+      "cat": "phases",
+      "danger": "extreme",
+      "title": "Catch the Role Reversal Before You Start Apologizing",
+      "hook": "By the end of DARVO, you are consoling the person who hurt you. <strong>This is the move that makes you apologize and never bring up the subject again.</strong>",
+      "truth": "The reversal is the endgame — once they are the victim, accountability is impossible and you are cast as the villain.\n• The reversal uses your confrontation as evidence: 'Look how you are treating me right now.'\n• You feel guilty for naming harm, so you back down and absorb the original harm in silence.\n• The trap: you associate confronting them with feeling cruel, so you stop confronting them at all.",
+      "principle": "Freyd: DARVO — Reverse Victim and Offender",
+      "remember": "When you end up apologizing, the reversal already worked.",
+      "theySee": "A person walking away from a conversation they started, feeling guilty for having started it.",
+      "signals": [
+        {
+          "l": "They cry first",
+          "t": "Tears appear before you have finished stating the issue.",
+          "icon": "😢"
+        },
+        {
+          "l": "Victim language",
+          "t": "They say 'I can't believe you would do this to me' or 'I'm always the bad guy'.",
+          "icon": "🎭"
+        },
+        {
+          "l": "Your apology",
+          "t": "You hear yourself saying sorry mid-conversation about something they did.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Subject buried",
+          "t": "The original issue is gone and you are now managing their feelings.",
+          "icon": "📦"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Track who is doing the consoling",
+          "desc": "If you are spending energy managing their distress during a conversation about their behavior, write that down afterward. The role swap is already done when you are the one offering comfort."
+        },
+        {
+          "n": "2",
+          "title": "Name the reversal out loud once",
+          "desc": "Say calmly: 'I notice this has moved from what you did to how I'm making you feel. I want to go back to the original thing.'"
+        },
+        {
+          "n": "3",
+          "title": "Stop the conversation if needed",
+          "desc": "Say: 'I'm going to stop here. We can talk again when we can stay on the original issue.' Then leave. Not as punishment — as a reset."
+        }
+      ],
+      "script": "\"I hear that you are upset. I still need us to talk about what happened to me.\"",
+      "counter": "The reversal is working on you when you feel like the confrontation itself was your fault.\n• Notice: you are now emotionally responsible for the person who caused harm.\n• Say: 'I understand you feel hurt. My experience does not disappear because of that.'\n• Do: write down your original point before any future conversation — when the reversal fires, you will forget what you came to say.",
+      "insight": "The reversal is the most durable move because it uses your own empathy against you — the kinder you are, the faster it works, which means the defense requires you to be deliberately less warm in the moment."
+    },
+    {
+      "id": 5,
+      "cat": "psychology",
+      "danger": "high",
+      "title": "DARVO Plants Self-Blame That Grows After the Conversation",
+      "hook": "You leave the conversation feeling like you did something wrong. <strong>That feeling was installed — it did not arrive on its own.</strong>",
+      "truth": "Research by Harsey, Zurbriggen, and Freyd shows that exposure to DARVO directly increases self-blame, regardless of how many times the other person said sorry.\n• Apology-adjacent phrases like 'I didn't mean to hurt you' do not cancel the self-blame that DARVO seeds.\n• The self-blame grows after the conversation ends — it takes hours or days to peak.\n• The trap: you replay the conversation in your head, finding new ways you could have been wrong.",
+      "principle": "Harsey, Zurbriggen & Freyd: DARVO-Self-Blame Link (2017)",
+      "remember": "The guilt you feel later was put there on purpose.",
+      "theySee": "A person sitting alone hours after a confrontation, going over the conversation and wondering what they did wrong.",
+      "signals": [
+        {
+          "l": "Late guilt",
+          "t": "You feel fine during the conversation but bad about it the next morning.",
+          "icon": "🌙"
+        },
+        {
+          "l": "Replaying it",
+          "t": "You keep going over what you said, looking for where you went too far.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Shrinking next time",
+          "t": "You decide not to bring up the next problem because of how this one felt.",
+          "icon": "📉"
+        },
+        {
+          "l": "Asking others",
+          "t": "You ask friends if you were too harsh — not if you were right.",
+          "icon": "💬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your account within one hour",
+          "desc": "Right after the conversation, write what you said, what they said, and what you originally came to address. Do this before the self-blame has time to rewrite your memory."
+        },
+        {
+          "n": "2",
+          "title": "Read your original reason for confronting",
+          "desc": "Go back to what made you decide to have the conversation. The self-blame DARVO plants wants you to forget why you were there in the first place."
+        },
+        {
+          "n": "3",
+          "title": "Label the guilt as planted",
+          "desc": "Say to yourself: 'This guilt is a result of DARVO, not evidence I was wrong.' You do not have to fully believe it — naming it interrupts the loop before it runs all night."
+        }
+      ],
+      "script": "\"I'm going to write this down before I talk myself out of what I know happened.\"",
+      "counter": "You are carrying installed self-blame when your guilt is about HOW you said it, not WHAT you said.\n• Notice: you are editing your words in your head, not questioning their behavior.\n• Say to yourself: 'The way I said it is not why they refused to address it.'\n• Do: compare your original reason for confronting with what the conversation became — the gap shows exactly where the DARVO worked.",
+      "insight": "The self-blame loop is what makes DARVO work across years — each failed confrontation makes the next one feel more pointless, which is precisely what the person who caused harm needs from you."
+    },
+    {
+      "id": 6,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Stop Explaining Once You Have Said It Once",
+      "hook": "The more you explain, the more material you hand them. <strong>Every new word is a new thing to attack.</strong>",
+      "truth": "DARVO pulls you into explaining and defending your own reality — once you do, the conversation is about your credibility, not their behavior.\n• More explanation signals uncertainty — they read it as your account being shakeable.\n• They use new details you offer to claim you are changing your story.\n• The trap: you think being clearer will help, but they are not failing to understand — they are waiting for you to misspeak.",
+      "principle": "JADE: Justify, Argue, Defend, Explain — The Confronter's Trap",
+      "remember": "Stop explaining. Say the same thing again and then stop.",
+      "theySee": "A person adding more and more detail to their story while the other person sits back and waits for a new angle to hit.",
+      "signals": [
+        {
+          "l": "You re-explain",
+          "t": "You say the same thing three different ways in a row trying to be understood.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Story challenge",
+          "t": "They say 'now you're saying something different' after you rephrase anything.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "More questions",
+          "t": "Each answer you give generates two more questions from them.",
+          "icon": "❓"
+        },
+        {
+          "l": "You go longer",
+          "t": "Your sentences are getting longer the more they push back.",
+          "icon": "📏"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your one sentence before going in",
+          "desc": "Decide on the single thing you need to say. One sentence. Write it down. That is all you are there to say — everything else hands them material."
+        },
+        {
+          "n": "2",
+          "title": "Repeat your sentence exactly when challenged",
+          "desc": "When they push back, say the same sentence again in the same words. Do not rephrase. Rewording gives them 'you're changing your story'."
+        },
+        {
+          "n": "3",
+          "title": "Go quiet after the repeat",
+          "desc": "After repeating once, stop talking. Silence is not a weapon here — it is a wall. They cannot attack what you have not said."
+        }
+      ],
+      "script": "\"I've said what I came to say. I'm not going to keep explaining it.\"",
+      "counter": "Someone is using this trap on you when each answer you give makes the conversation longer.\n• Notice: you have explained the same thing four times and they are still asking questions.\n• Say: 'I think I've been clear. What's your response to what I said?'\n• Do: stop answering questions — treating it like a courtroom hands them the judge's chair.",
+      "insight": "Silence after a clear statement is the hardest move for most people because it feels rude — that discomfort is the only thing keeping you from holding your position, and they know it."
+    },
+    {
+      "id": 7,
+      "cat": "defense",
+      "danger": "low",
+      "title": "Name the DARVO Phase Silently During the Confrontation",
+      "hook": "You do not have to say 'you're using DARVO' out loud. <strong>Just knowing which phase you are in stops the confusion before it takes hold.</strong>",
+      "truth": "Naming a manipulation move internally breaks the emotional hijack before it finishes — you become an observer of the pattern, not a target inside it.\n• 'This is the Deny phase' is a thought that buys you two seconds to choose your next move.\n• Internal labeling does not require you to be right — the act of naming slows your reaction.\n• The trap: people wait until they are fully confused to try to label what is happening — by then the reversal is already done.",
+      "principle": "Metacognition Under Pressure: Internal Labeling Reduces Emotional Reactivity",
+      "remember": "Label the phase in your head. It buys you time to choose.",
+      "theySee": "A person who stays calm and quiet while the other person escalates — the calm one is running a different process inside.",
+      "signals": [
+        {
+          "l": "Your calm",
+          "t": "You notice you are not getting pulled into their escalation.",
+          "icon": "🧘"
+        },
+        {
+          "l": "Their escalation",
+          "t": "They get louder or more emotional when you do not react the way they expected.",
+          "icon": "📢"
+        },
+        {
+          "l": "Pace slows",
+          "t": "The conversation slows because you are not handing them new material to hit.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "They repeat",
+          "t": "They repeat the same accusation in a new way, trying to get a reaction from you.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Memorize the three letters before any confrontation",
+          "desc": "D-A-R-V-O. Say them in order three times before the conversation. When a phase fires, the label will surface automatically — but only if you put it there first."
+        },
+        {
+          "n": "2",
+          "title": "Note the phase the moment it starts",
+          "desc": "As soon as you hear denial, think: 'D.' When the attack starts, think: 'A.' When you feel the role swap beginning, think: 'R.' One letter. That is enough to stay oriented."
+        },
+        {
+          "n": "3",
+          "title": "Take three seconds before each response",
+          "desc": "After each of their moves, pause three seconds. This is not a dramatic pause — it is the time it takes to label the phase and choose, rather than react."
+        }
+      ],
+      "script": "\"Give me a second before I respond to that.\"",
+      "counter": "They are winning when you respond emotionally before you label what they just did.\n• Notice: you feel defensive, guilty, and confused all at once — that is the signal to label, not speak.\n• Say to yourself: 'Which phase is this?' Name it before opening your mouth.\n• Do: write D-A-R-V-O on your hand or in a phone note before hard conversations — seeing it is faster than remembering it.",
+      "insight": "The labeling only works if you practiced it before the conversation — people who discover DARVO mid-confrontation are already in the reversal phase by the time they remember what the R stands for."
+    },
+    {
+      "id": 8,
+      "cat": "defense",
+      "danger": "low",
+      "title": "Repeat Your Statement Word for Word, Do Not Rephrase It",
+      "hook": "If you rephrase, they say you changed your story. <strong>Use the same words every time they push.</strong>",
+      "truth": "Exact repetition signals that your position is fixed — they cannot find a gap between version one and version two.\n• Rewording is a verbal concession: you signal that your original statement was imprecise.\n• When you repeat the same phrase calmly three times, most people read it as certain — not theater.\n• The trap: you rephrase to be understood, but they are not failing to understand — they are hoping you misspeak.",
+      "principle": "Voss: Broken Record — Calm Repetition Without Concession",
+      "remember": "Same words, same tone, every time they push.",
+      "theySee": "A person who says exactly the same sentence again after being pushed — no new words, no new argument.",
+      "signals": [
+        {
+          "l": "They push twice",
+          "t": "They challenge your statement a second time hoping your version shifts.",
+          "icon": "🔄"
+        },
+        {
+          "l": "You rephrase",
+          "t": "You use different words and they say 'see, you're changing it'.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Their frustration",
+          "t": "They get frustrated when you keep saying the same thing — that frustration means it is working.",
+          "icon": "😤"
+        },
+        {
+          "l": "Clarity sought",
+          "t": "They ask 'what exactly do you mean?' to get you to expand and misspeak.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your key sentence and memorize it",
+          "desc": "One sentence. Memorize it word for word. 'On [date], you [specific act].' That is your anchor. Practice saying it out loud before you go in."
+        },
+        {
+          "n": "2",
+          "title": "Say it again in the same words when challenged",
+          "desc": "When they push, say the sentence again — same words, same pace. No additions. No clarifications. Same sentence, nothing else."
+        },
+        {
+          "n": "3",
+          "title": "Acknowledge their frustration without expanding",
+          "desc": "If they say you are not being clear, say: 'I hear you. On [date], you [specific act].' Acknowledge the frustration, repeat the sentence. That is all."
+        }
+      ],
+      "script": "\"On [date], you [specific act]. That's what I came to talk about.\"",
+      "counter": "Someone is pushing you to rephrase when they keep saying they do not understand after you have been clear.\n• Notice: they understand — they are waiting for you to change your words so they can say you shifted.\n• Say: 'I think I've been clear. I don't have a different way to say it.'\n• Do: go silent after repeating — the silence forces them to respond to what you said, not what they wish you had said.",
+      "insight": "Exact repetition feels socially awkward to the person doing it — most people will rephrase just to relieve that discomfort, which is why this tactic keeps working on almost everyone who knows about it."
+    },
+    {
+      "id": 9,
+      "cat": "psychology",
+      "danger": "high",
+      "title": "Know How They Use Your Reaction Against You",
+      "hook": "You snap after months of being pushed. <strong>That one moment becomes their entire case against you.</strong>",
+      "truth": "Reactive abuse is when sustained provocation finally gets a visible reaction out of you, which is then used as evidence that you are the problem.\n• DARVO delivers the Reverse move by pointing to your reaction as proof you started it.\n• Your visible anger looks more real to observers than weeks of quiet mistreatment.\n• The trap: your apology for snapping makes their version of events the official one.",
+      "principle": "Reactive Abuse as DARVO Ammunition — Reverse Move Delivery",
+      "remember": "Your reaction was the bait. They needed you to snap.",
+      "theySee": "A person trying to explain why they got upset, while the other person plays back the moment of upset as their opening argument.",
+      "signals": [
+        {
+          "l": "Old reaction cited",
+          "t": "They bring up the time you got angry as if it happened first and caused everything.",
+          "icon": "📅"
+        },
+        {
+          "l": "Your guilt",
+          "t": "You feel worse about the time you snapped than about what was done to you.",
+          "icon": "😔"
+        },
+        {
+          "l": "You apologize first",
+          "t": "You open the confrontation with an apology for how you acted last time.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Mistreatment erased",
+          "t": "The weeks of quiet harm before your reaction are not part of their story at all.",
+          "icon": "🗑️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the timeline before the conversation",
+          "desc": "List what happened each week for the past month. Your reaction comes near the end of the list. Seeing the full timeline stops you from treating your snap as the starting point."
+        },
+        {
+          "n": "2",
+          "title": "Name the context when they cite your reaction",
+          "desc": "Say: 'What happened on [that day] came after [two or three specific things]. The reaction and what caused it are part of the same story.'"
+        },
+        {
+          "n": "3",
+          "title": "Do not apologize for the reaction before naming the cause",
+          "desc": "If you need to address your reaction, do it after you have named the behavior that produced it. Apologizing first hands them the opening position."
+        }
+      ],
+      "script": "\"What I did on [date] came after weeks of [specific pattern]. I'm not separating those.\"",
+      "counter": "They are using your reaction against you when your one moment of anger is treated as more serious than the behavior that caused it.\n• Notice: the conversation is about your reaction, not their repeated behavior.\n• Say: 'I want to talk about the whole picture, not just that one day.'\n• Do: write the full timeline and bring it — not to wave in their face, but so you do not lose it in your head when they make your reaction the headline.",
+      "insight": "The reason pointing to your reaction works is that visible emotion looks more real than quiet damage — the next question is how you document the quiet damage before it gets written out of the story."
+    },
+    {
+      "id": 10,
+      "cat": "recognition",
+      "danger": "moderate",
+      "title": "DARVO Happens in Most Confrontations, Not Just Abusive Ones",
+      "hook": "DARVO showed up in 72% of confrontations studied — across everything from betrayed secrets to physical violence. <strong>The person using it on you may not know they are doing it.</strong>",
+      "truth": "DARVO is not exclusive to conscious manipulators — it is a defense that most people default to when confronted, regardless of the seriousness of the harm.\n• The pattern fires across all offense types: gossip, betrayal, workplace harm, and violence.\n• Women are more likely to face DARVO during confrontations, studies show.\n• The trap: you drop your guard with trusted people — DARVO does not care about the relationship.",
+      "principle": "Freyd 2017 Prevalence Study — 72% Confrontation Rate",
+      "remember": "Most people default to DARVO when cornered. Expect it from anyone.",
+      "theySee": "A person who expected the confrontation to go differently because they trusted the other person.",
+      "signals": [
+        {
+          "l": "Trusted person",
+          "t": "You feel more confused because this is someone you did not expect this from.",
+          "icon": "😮"
+        },
+        {
+          "l": "Soft denial",
+          "t": "The denial is gentle — 'I don't think that's quite right' — but it is still a denial.",
+          "icon": "🤷"
+        },
+        {
+          "l": "Non-abuser profile",
+          "t": "You dismiss the DARVO because the person is normally reasonable and kind to you.",
+          "icon": "🎭"
+        },
+        {
+          "l": "You self-censor",
+          "t": "You pull back your statement mid-sentence to soften it because this person feels safe.",
+          "icon": "🤐"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Prepare the same way regardless of who you are confronting",
+          "desc": "Write your one fact, set your time limit, and run through D-A-R-V-O whether you are talking to a stranger or a close friend. The pattern does not care about the relationship."
+        },
+        {
+          "n": "2",
+          "title": "Notice when you give extra chances because you trust them",
+          "desc": "Watch for the moment you accept a non-answer because you like the person. Write it down. Trust is the main reason DARVO works on people who know about it."
+        },
+        {
+          "n": "3",
+          "title": "Check the result, not their intent",
+          "desc": "After the confrontation, ask: did the behavior get addressed? If not, intent does not matter — the pattern worked either way."
+        }
+      ],
+      "script": "\"I want to stay with the specific thing I came here to say, not what you intended.\"",
+      "counter": "You are under-preparing because you trust them when you soften your position before they have said a word.\n• Notice: you are already planning to accept less because of the relationship.\n• Say to yourself: 'The pattern does not change because I like them.'\n• Do: prepare the same way regardless of how much you trust them — the harm is the same and the sequence is the same.",
+      "insight": "The people who use DARVO on you most effectively are not the ones you expect — the move lands hardest from the people you are least prepared to see it from, which means your blind spot is exactly where it is most needed."
+    },
+    {
+      "id": 11,
+      "cat": "aftermath",
+      "danger": "moderate",
+      "title": "Know When to Stop the Confrontation and Write It Down Instead",
+      "hook": "Some confrontations cannot be won in the room. <strong>Leaving with your account intact is worth more than staying until you are too confused to remember why you came.</strong>",
+      "truth": "A DARVO cycle burns your energy and muddies your memory — the longer it runs, the harder it is to hold your original point.\n• After two full DARVO cycles in one conversation, your ability to recall your original statement drops sharply.\n• Stopping the conversation is not giving up — it is saving the record before confusion does more damage.\n• The trap: you stay because leaving feels like they won, but staying past clarity means you lose the record, which is the only thing that matters afterward.",
+      "principle": "Sunk-Cost Anchoring — When Continuing Costs More Than It Returns",
+      "remember": "Walk away before the confusion erases what you know.",
+      "theySee": "A person ending a conversation calmly while the other person expected it to keep going.",
+      "signals": [
+        {
+          "l": "Second full cycle",
+          "t": "You notice D-A-R-V-O has run twice and you are no closer to the original point.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Memory blurs",
+          "t": "You can no longer clearly recall exactly what you came to say.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "New fights open",
+          "t": "Three new arguments have appeared that were not part of the original issue.",
+          "icon": "💥"
+        },
+        {
+          "l": "You feel beaten",
+          "t": "You feel tired and wrong even though you have not said anything untrue.",
+          "icon": "😔"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set your stopping point before you start",
+          "desc": "Decide in advance: 'If the conversation moves to two new topics without addressing mine, I stop.' Having a preset condition means you do not have to decide in the middle of confusion."
+        },
+        {
+          "n": "2",
+          "title": "Say one sentence and leave",
+          "desc": "Say: 'I'm going to stop here. I'll write down what I need to say and we can come back to it.' Then leave. No long goodbye, no explanation of why you are stopping."
+        },
+        {
+          "n": "3",
+          "title": "Write everything down within 30 minutes",
+          "desc": "Write what you came to say, what they said, which DARVO phases fired, and how you felt at the end. This is your record — it matters more than the conversation did."
+        }
+      ],
+      "script": "\"I'm going to stop here. I'll put what I need to say in writing and we can talk again.\"",
+      "counter": "You are being run out of the room when the conversation keeps expanding without ever touching your point.\n• Notice: 20 minutes in and your original issue has not been addressed once.\n• Say: 'I want to come back to the one thing I came to say. Can we do that?'\n• Do: if they cannot return to it, stop — a conversation that never reaches your point is not a conversation, it is a performance.",
+      "insight": "The written record is the move that follows this one — documentation turns a DARVO encounter from a memory you will doubt into a fact pattern you can act on later, which is the only thing that changes the situation outside the room."
+    },
+    {
+      "id": 12,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Name the DARVO Pattern Out Loud to Shut It Down",
+      "hook": "Naming DARVO out loud stops most people cold. <strong>Few people can continue a move once someone has called it by its name.</strong>",
+      "truth": "Naming the pattern disrupts the DARVO script because it forces the other person to defend the move instead of run it.\n• Most people using DARVO are not fully conscious of it — naming it makes them see it, which breaks the automatic sequence.\n• Even people who know the move will pause: now they must deny using DARVO, which is itself a small denial.\n• The trap: the urge is to name it early — name it before all three phases have fired and it sounds like an accusation, not a fact.",
+      "principle": "Pattern Interruption — Naming the Move Collapses the Script",
+      "remember": "Name it after all three phases have fired, not before.",
+      "theySee": "A person calmly saying the name of the move mid-conversation — and the other person stopping.",
+      "signals": [
+        {
+          "l": "Full cycle done",
+          "t": "You have seen denial, the attack on you, and the role swap — all three, in order.",
+          "icon": "✅"
+        },
+        {
+          "l": "They expect more",
+          "t": "They are waiting for you to defend yourself again — the script is still running for them.",
+          "icon": "⏳"
+        },
+        {
+          "l": "You are calm",
+          "t": "You feel clear, not confused — this is the right moment to name it.",
+          "icon": "🧘"
+        },
+        {
+          "l": "No new material",
+          "t": "You have stopped adding new information, so they have nothing fresh to hit.",
+          "icon": "🤐"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait for all three phases to complete",
+          "desc": "Watch for D, then A, then R — all three, in order. If you have only seen two, wait. Naming it after two sounds like an accusation. After three, it sounds like a documented fact."
+        },
+        {
+          "n": "2",
+          "title": "Say it flat, not as an accusation",
+          "desc": "Say: 'What just happened is called DARVO — deny, attack, reverse victim and offender. I want to name that.' No anger. No drama. Flat, like reading a weather report."
+        },
+        {
+          "n": "3",
+          "title": "Go quiet and let them respond",
+          "desc": "After naming it, stop talking. Do not explain DARVO to them. Do not justify the label. Say it once, then wait. The silence forces them to respond to the name, not the original script."
+        }
+      ],
+      "script": "\"What just happened is called DARVO. I'm naming it so we can move past it.\"",
+      "counter": "They may try to DARVO the naming itself — claiming that calling them out is an attack.\n• Notice: they are denying they used DARVO, which is a second denial layered on top of the first.\n• Say: 'I'm not attacking you. I'm describing what happened in the last five minutes.'\n• Do: stop here if the second layer starts — write down the full sequence and leave the conversation. You have enough to work with.",
+      "insight": "Naming DARVO works once cleanly — after that, they know you know the move, and the next confrontation will look different. The harder question is what they run next when the script no longer works on you."
+    }
+  ]
+}
