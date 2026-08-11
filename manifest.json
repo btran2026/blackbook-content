@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-black-book-manipulation-spotter.json",
       "addedAt": "2026-07-04T05:22:54.707Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-darvo-the-confrontation-dossier",
+      "title": "DARVO: The Confrontation Dossier",
+      "theme": "DARVO",
+      "topic": "Spotting the DARVO pattern when confronting someone",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "🎭",
+      "url": "playbooks/playbook-srv-darvo-the-confrontation-dossier.json",
+      "addedAt": "2026-08-11T14:57:30.583Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-07-04T05:22:54.707Z"
+  "generatedAt": "2026-08-11T14:57:30.583Z"
 }
