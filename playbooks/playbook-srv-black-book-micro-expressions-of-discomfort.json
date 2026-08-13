@@ -1,0 +1,702 @@
+{
+  "meta": {
+    "id": "srv-black-book-micro-expressions-of-discomfort",
+    "version": "1.0",
+    "title": "Black Book: Micro-Expressions of Discomfort",
+    "subtitle": "Read the Face Before the Mouth Opens",
+    "description": "A closed-file dossier on spotting, reading, and using the involuntary signals that people leak before they decide what to say. Twelve cards. Face zones, body tells, cluster rules, and the hard limits of the field.",
+    "author": "AI",
+    "createdAt": "2026-08-13T14:56:23.553Z",
+    "tags": [
+      "micro-expressions",
+      "nonverbal",
+      "psychology",
+      "reading people",
+      "Ekman",
+      "Navarro",
+      "interrogation",
+      "negotiation"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1B2A4A",
+    "coverIcon": "👁️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Reading micro-expressions of discomfort",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "detection",
+      "label": "Spotting the Signal",
+      "color": "#1B2A4A",
+      "description": "How to see what most people miss"
+    },
+    {
+      "key": "anatomy",
+      "label": "Face Zones",
+      "color": "#2C3E50",
+      "description": "Specific zones of the face and what each leaks"
+    },
+    {
+      "key": "body",
+      "label": "Below the Face",
+      "color": "#1A3A2A",
+      "description": "Body signals below the neck that are more honest than the face"
+    },
+    {
+      "key": "context",
+      "label": "Reading in Context",
+      "color": "#3D1A47",
+      "description": "How to interpret signals without jumping to wrong conclusions"
+    },
+    {
+      "key": "practice",
+      "label": "Skill Building",
+      "color": "#1A2F3A",
+      "description": "How to sharpen the skill before you need it"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "detection",
+      "danger": "low",
+      "title": "Establish the Comfort Baseline Before You Read Anything",
+      "hook": "You can't spot discomfort if you don't know what comfort looks like on this person. <strong>Get the baseline first — everything else is noise without it.</strong>",
+      "truth": "Most people jump straight to looking for tells. That's backwards.\n• Watch them on a neutral topic first. Note their default face, speech pace, and posture.\n• When something shifts from that default, the shift is the signal — not the expression alone.\n• Without a baseline, every quirk looks like a tell and you'll chase noise all day.",
+      "principle": "Ekman: Emotional Leakage",
+      "remember": "Know what calm looks like on them before you look for trouble.",
+      "theySee": "A person asking a warm-up question before the real conversation starts.",
+      "signals": [
+        {
+          "l": "Smooth forehead",
+          "t": "Forehead is flat with no furrows — this is their neutral state on safe topics.",
+          "icon": "😐"
+        },
+        {
+          "l": "Steady speech pace",
+          "t": "Words flow at an unhurried rate when the person is comfortable with the subject.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Full lip position",
+          "t": "Lips sit loose and full — not pressed tight or pulled thin.",
+          "icon": "👄"
+        },
+        {
+          "l": "Chin level",
+          "t": "Chin stays level or slightly forward — not tucked or dropped toward the chest.",
+          "icon": "📐"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open with a neutral topic",
+          "desc": "Ask about something comfortable — a project they like, something recent and low-stakes. Watch the face for 60 seconds without asking anything important."
+        },
+        {
+          "n": "2",
+          "title": "Note three physical defaults",
+          "desc": "Write down their default brow position, speech speed, and where their hands sit before the real conversation starts."
+        },
+        {
+          "n": "3",
+          "title": "Compare everything against the baseline",
+          "desc": "When you shift to the hard topic, measure what changes against what you just logged. Change is the data."
+        }
+      ],
+      "script": "\"Before we get into it — how's the rest of the project going for you?\"",
+      "counter": "Someone may establish YOUR baseline on a soft topic, then watch you shift on the hard one.\n• They ask easy questions first to map your calm face and body defaults.\n• When the hard question hits, they watch for any shift in face, hands, or feet.\n• Give the same physical delivery on hard topics as on easy ones — don't let the shift appear.",
+      "insight": "The baseline move is also a trap — if you know someone is baselining you, you can feed them a false calm. The harder question is whether you can hold it when real pressure lands."
+    },
+    {
+      "id": 2,
+      "cat": "anatomy",
+      "danger": "low",
+      "title": "Read the Forehead Before the Mouth",
+      "hook": "A smooth forehead means calm. <strong>Furrows mean something just hit.</strong> The forehead reacts before anyone decides to hide it.",
+      "truth": "The forehead is the first face zone to show discomfort and the least controlled.\n• Furrowing appears within milliseconds of a stressor — before the mouth can form a smile over it.\n• People learn to manage their mouths first; they forget the forehead entirely.\n• Once you see the furrow, the social smile below it is a performance — read the forehead instead.",
+      "principle": "Navarro: Forehead as Comfort Indicator",
+      "remember": "The forehead reacts first. The mouth reacts second. Trust the forehead.",
+      "theySee": "A person who watches the brow and forehead area instead of just making eye contact.",
+      "signals": [
+        {
+          "l": "Brow crunch",
+          "t": "Both brows pull together and downward — anger or confusion just registered.",
+          "icon": "😠"
+        },
+        {
+          "l": "Single brow rise",
+          "t": "One brow lifts alone — skepticism or disbelief, not surprise.",
+          "icon": "🤨"
+        },
+        {
+          "l": "Horizontal lines appear",
+          "t": "Lines appear suddenly across the forehead — fear or shock just landed.",
+          "icon": "😨"
+        },
+        {
+          "l": "Smooth then furrow",
+          "t": "Forehead was flat on the last topic and is now creased — the topic just changed their state.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Fix on the glabella zone",
+          "desc": "At the start of each new topic or question, focus on the space between the eyebrows for 2 seconds before looking at the mouth."
+        },
+        {
+          "n": "2",
+          "title": "Track the transitions",
+          "desc": "Notice when the forehead moves from smooth to furrowed or back again. Write down what you just said when each transition happens."
+        },
+        {
+          "n": "3",
+          "title": "Read the brow independently from the mouth",
+          "desc": "Cover the lower half of the person's face in your mind. Read the forehead and brows as if the mouth does not exist."
+        }
+      ],
+      "script": "\"You paused there — is there a part of this that isn't sitting right?\"",
+      "counter": "If someone is reading your forehead, they are clocking your real reaction before you manage your expression.\n• A question you didn't expect will crunch your brow before you can stop it.\n• Breathe and consciously drop the brow muscles before answering anything hard.\n• Delay your verbal response by one beat — give your face time to catch up with your decision.",
+      "insight": "Most people train themselves to control their smile. Nobody practices the forehead. That is where the real information lives — until the person across from you reads this card."
+    },
+    {
+      "id": 3,
+      "cat": "anatomy",
+      "danger": "low",
+      "title": "Tell a Real Smile from a Fake One in Half a Second",
+      "hook": "A social smile uses the mouth. A real smile uses the eyes. <strong>One you can fake. One you cannot.</strong>",
+      "truth": "The Duchenne smile — the real one — involves involuntary muscle movement around the eyes that cannot be faked on command.\n• Real smiles create crow's feet and raise the cheeks up toward the eye corners.\n• Fake smiles move the mouth only — the eye area stays flat and still.\n• Mouths mask disgust, contempt, or discomfort underneath; the eye zone shows what is actually there.",
+      "principle": "Ekman: Duchenne Marker",
+      "remember": "Real smiles reach the eyes. Fake ones stop at the mouth.",
+      "theySee": "A person smiling at them while the eye area stays flat and completely still.",
+      "signals": [
+        {
+          "l": "Still eye corners",
+          "t": "Smile is wide but no lines form at the eye corners — not a real smile.",
+          "icon": "😐"
+        },
+        {
+          "l": "Mouth only moves",
+          "t": "Cheeks don't rise and the eye area doesn't tighten — the smile is performed.",
+          "icon": "🎭"
+        },
+        {
+          "l": "Flash smile",
+          "t": "Smile appears and drops in under half a second — produced, not felt.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Eyes flatten after",
+          "t": "Eyes return to neutral the instant the smile drops — nothing was behind it.",
+          "icon": "👁️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Focus on the eye zone only",
+          "desc": "When someone smiles at you, look only at the eye corners for 2 seconds. Ask: do the corners crinkle, do the cheeks rise toward the eyes?"
+        },
+        {
+          "n": "2",
+          "title": "Time the smile",
+          "desc": "Count how long the smile holds. Real smiles last 0.5–4 seconds. A smile that flashes on and off in under half a second is being performed."
+        },
+        {
+          "n": "3",
+          "title": "Note what the smile was covering",
+          "desc": "If the smile is fake, identify what expression was on the face just before it appeared. That prior expression was the real one."
+        }
+      ],
+      "script": "\"What do you actually think about it — not the polite version?\"",
+      "counter": "People use fake smiles on you to signal agreement they do not feel.\n• Watch the eye zone during your pitch or ask — are they with you or performing?\n• If eyes stay flat through the smile, stop talking and ask a direct question.\n• Don't let a mouth-smile read as buy-in. It is a placeholder, not a yes.",
+      "insight": "Once you can spot a fake smile reliably, you can't unsee it. The harder problem is deciding what to do when the person performing it is your boss."
+    },
+    {
+      "id": 4,
+      "cat": "anatomy",
+      "danger": "low",
+      "title": "The Nose Wrinkle Means Disgust — Every Time",
+      "hook": "Babies do it at three months when they don't like what they're offered. <strong>Adults do it at thirty when they don't like what they're hearing.</strong>",
+      "truth": "The upward nose wrinkle is a hardwired disgust signal that appears before conscious thought.\n• It shows on infants and adults across every culture with the same meaning: rejection.\n• It flashes in under half a second and is nearly impossible to suppress once it starts.\n• Disgust at an idea runs through the same muscles as disgust at a smell — same expression, same meaning.",
+      "principle": "Ekman: Universal Disgust Expression",
+      "remember": "The nose wrinkle is honest. It is not rude. Take the note and adjust.",
+      "theySee": "A person describing a plan while the listener's nose briefly twitches upward during a specific sentence.",
+      "signals": [
+        {
+          "l": "Nose wrinkle",
+          "t": "Nostrils and upper lip pull upward briefly — rejection just registered.",
+          "icon": "😤"
+        },
+        {
+          "l": "Upper lip curl",
+          "t": "One or both sides of the upper lip rise slightly — disgust, not confusion.",
+          "icon": "🫤"
+        },
+        {
+          "l": "Head pulls back",
+          "t": "Head moves a few centimeters backward right after a statement — physical distancing from the idea.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Fast blink",
+          "t": "One or two rapid blinks immediately after a claim — body flinching at an idea.",
+          "icon": "👁️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Identify the sentence that caused it",
+          "desc": "Note exactly which word or sentence you said when the nose wrinkle appeared. That specific thing is what they rejected."
+        },
+        {
+          "n": "2",
+          "title": "Stop pushing past it",
+          "desc": "Do not continue making the argument. Pivot immediately: 'Where does that part not land for you?'"
+        },
+        {
+          "n": "3",
+          "title": "Get specific about the rejection",
+          "desc": "Ask them to name the problem with that exact point — not the whole idea. Get precise before you try to fix anything."
+        }
+      ],
+      "script": "\"That part didn't land — what's the issue with it specifically?\"",
+      "counter": "If someone catches your nose wrinkle, they know you rejected something before you said a word.\n• Breathe slowly through the nose when you hear something you dislike.\n• Redirect your face toward curiosity — slightly raised brows, mouth slightly open.\n• Then say what you think on your own terms, not leaking it before you're ready.",
+      "insight": "Disgust is the hardest emotion to walk back once it shows on your face. If the nose wrinkle appeared, the idea may already be dead for them — the next question is whether you can change what they're reacting to, not how loudly you repeat it."
+    },
+    {
+      "id": 5,
+      "cat": "anatomy",
+      "danger": "moderate",
+      "title": "Watch for the Chin Drop Under Real Pressure",
+      "hook": "When something lands emotionally, the chin tucks down. <strong>When something is overwhelming, it vibrates.</strong> Both happen before the person speaks.",
+      "truth": "The chin is an involuntary pressure gauge — stress triggers a tuck or tremor before any verbal response.\n• Chin tuck means an emotional hit just landed and the person is pulling inward.\n• Chin vibration means intense emotion is being held back — this one is extreme and always real.\n• After the chin tuck, anything the person says next is heavily filtered — the tuck was the real reaction.",
+      "principle": "Navarro: Chin Suppression Signal",
+      "remember": "The chin drops before the person decides what to say. Read it fast.",
+      "theySee": "A person delivering bad news while watching the listener's jaw and chin area closely.",
+      "signals": [
+        {
+          "l": "Chin pulls in",
+          "t": "Chin moves toward the chest slightly right after hearing something difficult.",
+          "icon": "⬇️"
+        },
+        {
+          "l": "Chin vibrates",
+          "t": "Chin trembles briefly — strong emotion is being held back right now.",
+          "icon": "〰️"
+        },
+        {
+          "l": "Jaw tightens",
+          "t": "Jaw muscles visibly clench — they are holding something in deliberately.",
+          "icon": "😬"
+        },
+        {
+          "l": "Head tilts down",
+          "t": "Whole head angles downward immediately after a key piece of information — distress signal.",
+          "icon": "🔽"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pause after the hard part",
+          "desc": "Stop talking the moment you see chin movement. Give them space — silence after a chin tuck pulls out the real response."
+        },
+        {
+          "n": "2",
+          "title": "Name what you saw without diagnosing it",
+          "desc": "Say 'You went quiet there' or 'That seemed to land differently.' Do not say 'You look upset' or assign an emotion to them."
+        },
+        {
+          "n": "3",
+          "title": "Ask one open question",
+          "desc": "Ask 'What's going through your head right now?' Let them control how much they share. Watch the face while they decide."
+        }
+      ],
+      "script": "\"You went quiet — what's going through your head right now?\"",
+      "counter": "When someone watches your chin, they are reading your emotional hit before you manage it.\n• Take one slow breath before responding to hard news — it settles the chin muscles.\n• Keep your head level and resist the tuck by looking slightly upward as you listen.\n• Say 'Let me make sure I understood that correctly' to buy time while you regulate.",
+      "insight": "A chin vibration is rare and always real. If you see it, whatever you just said hit harder than they will admit — the question is whether what you said next helped or made it worse."
+    },
+    {
+      "id": 6,
+      "cat": "anatomy",
+      "danger": "moderate",
+      "title": "When Someone Covers Their Eyes, They're Done Processing",
+      "hook": "Covering the eyes is not a nervous habit. <strong>It is the body saying: this is too much, right now.</strong>",
+      "truth": "Eye-covering — hands over eyes, rubbing eyes, long blinks — is a deep discomfort signal tied to psychological overload, not physical fatigue.\n• It appears when information is bad, threatening, or more than the person can take in at that moment.\n• The body evolved to block the eyes as a protection response — adults run on the same circuit as infants.\n• After eye-covering, the person is not ready to hear more — they are processing what you already said, not listening.",
+      "principle": "Navarro: Eye Block as Discomfort Signal",
+      "remember": "Covered eyes mean they stopped hearing you. Stop talking.",
+      "theySee": "A person listening to a briefing who brings their hand up to their eyes mid-sentence.",
+      "signals": [
+        {
+          "l": "Hand to eyes",
+          "t": "Palm or fingers come up to cover or rub eyes during a key point.",
+          "icon": "🙈"
+        },
+        {
+          "l": "Long blink",
+          "t": "Eyes close for 2–3 seconds instead of a normal blink — overload or rejection.",
+          "icon": "😑"
+        },
+        {
+          "l": "Gaze drops",
+          "t": "Eye contact breaks and gaze goes to the floor immediately after hearing something difficult.",
+          "icon": "👇"
+        },
+        {
+          "l": "Eyes cut sideways",
+          "t": "Eyes move sharply to the side or back before the person responds — fight-or-flight starting.",
+          "icon": "👀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop making your point",
+          "desc": "The moment you see eye-covering, end your current sentence and stop. They are not taking in what you are saying."
+        },
+        {
+          "n": "2",
+          "title": "Hold silence for three seconds",
+          "desc": "Let the silence sit. Eye-covering is followed by processing. The person will re-engage when they are ready — don't rush them."
+        },
+        {
+          "n": "3",
+          "title": "Invite their reaction with control",
+          "desc": "Ask 'What do you want to address first?' — not 'Do you have questions?' Give them control of the order so they feel less overwhelmed."
+        }
+      ],
+      "script": "\"Take a second. What do you want to tackle first?\"",
+      "counter": "If you find yourself covering your eyes, you have already leaked discomfort to a trained reader.\n• Notice the urge to rub your eyes and redirect your hand to your chin or the table instead.\n• Say 'Let me make sure I understood that correctly' — buys processing time without the tell.\n• Practice sitting with hard information without moving your hands toward your face at all.",
+      "insight": "Eye-covering is the cleanest discomfort signal in the set — almost no false reads. But it tells you they hit their limit, not which part broke them. The follow-up question decides what you learn next."
+    },
+    {
+      "id": 7,
+      "cat": "body",
+      "danger": "low",
+      "title": "Check the Feet Before You Trust the Face",
+      "hook": "The face has been trained to perform for forty years. <strong>The feet have not.</strong> People forget their feet exist.",
+      "truth": "Feet and legs are the most honest part of the body because people never think to manage them.\n• Feet turn toward what a person wants and away from what they don't — this is not a metaphor, it is muscle behavior.\n• Foot bouncing stops abruptly when a hard question lands — the freeze is a tell.\n• Joe Navarro identified over 215 behaviors that signal psychological discomfort — most are below the neck, not in the face.",
+      "principle": "Navarro: Limbic Honesty Hierarchy",
+      "remember": "Watch the feet. Nobody ever practiced their feet.",
+      "theySee": "A person whose feet are angled toward the door while their face says everything is fine.",
+      "signals": [
+        {
+          "l": "Feet angle away",
+          "t": "Feet or knees point toward the exit during conversation — they want to leave, whatever the mouth says.",
+          "icon": "🚪"
+        },
+        {
+          "l": "Bounce stops cold",
+          "t": "Leg bouncing or foot tapping halts the moment a hard question is asked.",
+          "icon": "🛑"
+        },
+        {
+          "l": "Feet pull back",
+          "t": "Feet tuck under the chair or pull backward — a withdrawal from the situation.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Weight shifts",
+          "t": "Person shifts body weight from foot to foot repeatedly — the nervous system is restless.",
+          "icon": "⚖️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log feet before the hard topic",
+          "desc": "In any meeting, spend 10 seconds watching feet and legs before the important topic comes up. Note what they are doing at rest."
+        },
+        {
+          "n": "2",
+          "title": "Ask the hard question then look down",
+          "desc": "The moment you ask something important, watch the feet — not the face. The face will compose itself; the feet won't."
+        },
+        {
+          "n": "3",
+          "title": "Note direction, not just movement",
+          "desc": "Record which direction feet are pointing. Toward you means engaged. Toward the door means ready to leave, whatever the mouth is saying."
+        }
+      ],
+      "script": "\"Before you answer — what's your gut on this?\"",
+      "counter": "If someone is watching your feet, they are reading your real position before you speak.\n• Plant both feet flat on the floor during hard conversations — no crossing, no bouncing.\n• Crossed legs signal self-protection; uncross them when you need to project certainty.\n• Stop any foot bouncing before entering a room where you need to appear calm.",
+      "insight": "Feet are honest because nobody ever thought they needed to lie with them. Once you know this, you can manage your own feet — but the harder question is whether you can manage them while also thinking about your answer."
+    },
+    {
+      "id": 8,
+      "cat": "body",
+      "danger": "low",
+      "title": "Shirt Ventilation and Hidden Thumbs Mean Stress Is Already Showing",
+      "hook": "Pulling at a collar or tucking thumbs into pockets is not a habit. <strong>It is the nervous system cooling itself down before the person knows why.</strong>",
+      "truth": "When stress rises, the body heats up and triggers self-soothing through displacement behaviors — physical actions the body uses to manage an emotional state.\n• Ventilating a shirt or collar means heat from stress, not room temperature.\n• Thumbs disappearing into pockets or fists signal low confidence — dominant people display thumbs outward.\n• Neither happens when someone feels fine — both cluster around the uncomfortable topic.",
+      "principle": "Navarro: Displacement Behavior",
+      "remember": "Thumbs hidden and collar pulled means stress is already showing before a word is said.",
+      "theySee": "A person across the table pulling at their collar right after a pointed question lands.",
+      "signals": [
+        {
+          "l": "Collar pull",
+          "t": "Person tugs shirt or collar away from neck right after hearing something stressful.",
+          "icon": "👔"
+        },
+        {
+          "l": "Thumbs gone",
+          "t": "Thumbs disappear into pockets, waistband, or fists — confidence just dropped.",
+          "icon": "👊"
+        },
+        {
+          "l": "Neck touch",
+          "t": "Hand moves to the back or side of the neck — high-stress self-soothing.",
+          "icon": "🤚"
+        },
+        {
+          "l": "Throat clear",
+          "t": "Person clears throat right before answering a hard question — physical tension building.",
+          "icon": "🗣️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch the hands during silence",
+          "desc": "After asking a hard question, watch where the hands go. Hands moving toward the body or face is the tell — note which question caused it."
+        },
+        {
+          "n": "2",
+          "title": "Record the topic that triggered it",
+          "desc": "Log exactly what you said when the displacement behavior appeared. That topic is where the stress is sitting."
+        },
+        {
+          "n": "3",
+          "title": "Return to that topic later",
+          "desc": "Move off the topic for two minutes, then come back to it from a different angle. Watch whether the behavior repeats on re-entry."
+        }
+      ],
+      "script": "\"Let's come back to that one — what's the piece of it that isn't settled for you?\"",
+      "counter": "If your hands are moving toward your body or face, you have already flagged discomfort to anyone watching.\n• Keep hands visible and still on the table during hard conversations — no collar, no neck, no face.\n• If you feel the urge to ventilate clothing, breathe out slowly instead — same physical effect, no tell.\n• Thumbs out and hands open mean confidence; thumbs in mean the opposite — manage the position.",
+      "insight": "Displacement behaviors run without asking permission. Managing them consciously takes attention you might need for the actual conversation — that is the real cost of staying controlled under pressure."
+    },
+    {
+      "id": 9,
+      "cat": "context",
+      "danger": "moderate",
+      "title": "Never Read One Signal Alone — Read the Cluster",
+      "hook": "One furrow, one nose wrinkle, one foot pivot — each could mean almost anything. <strong>Three on the same topic mean something real.</strong>",
+      "truth": "The worst reading mistakes come from single-signal diagnosis — one behavior has too many possible causes.\n• Cold makes feet angle toward the door. Illness makes people rub their eyes. Anxiety makes people touch their neck. None of these alone proves what you think.\n• Three or more discomfort signals clustering on the same topic is a genuine stress response.\n• One signal never justifies an accusation, a pivot, or a hard conclusion — hold until you have the cluster.",
+      "principle": "Navarro: Behavior Cluster Rule",
+      "remember": "One signal is noise. Three on the same topic mean something real.",
+      "theySee": "A person paying attention to multiple body zones at once, not just the face, during a conversation.",
+      "signals": [
+        {
+          "l": "Signal repeats",
+          "t": "The same behavior appears twice within 60 seconds on the same subject.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Three zones fire",
+          "t": "Face, hands, and feet all show discomfort at the same moment.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Behavior clears",
+          "t": "Person visibly relaxes when the topic changes — confirms prior discomfort was topic-specific.",
+          "icon": "✅"
+        },
+        {
+          "l": "Single signal only",
+          "t": "Just one neck touch or foot shift with nothing else — do not call it yet.",
+          "icon": "🚫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch three zones at once",
+          "desc": "Practice holding forehead, hands, and feet in your field of vision simultaneously. Don't narrow in on one zone and miss the others."
+        },
+        {
+          "n": "2",
+          "title": "Keep a mental count per topic",
+          "desc": "Count discomfort signals per topic. At three signals on one topic you have a cluster. Below three, hold your read and keep watching."
+        },
+        {
+          "n": "3",
+          "title": "Test with a topic shift",
+          "desc": "Move to a neutral topic. If the signals clear immediately, the prior cluster was real and topic-specific. If signals stay constant across all topics, the person is just anxious by default."
+        }
+      ],
+      "script": "\"Let me ask you something different — how's the rest of it sitting with you?\"",
+      "counter": "Someone reading you in clusters is harder to fool than someone watching one signal.\n• If they keep returning to the same topic from different angles, they are testing for cluster consistency.\n• Give the same physical delivery on sensitive topics as on safe ones — don't let one zone give you away.\n• Vary your body behavior slightly across topics so no single zone becomes a reliable tell for them.",
+      "insight": "Cluster reading filters most false positives — but it also means real discomfort sometimes goes unread if only one signal fires. The gap between 'real and quiet' and 'real and noisy' is where the hard calls live."
+    },
+    {
+      "id": 10,
+      "cat": "anatomy",
+      "danger": "low",
+      "title": "The Squint Between the Eyes Means They Don't Like It",
+      "hook": "The glabella is the small zone between the eyebrows. <strong>When someone dislikes what they hear, that zone tightens before anything else on the face moves.</strong>",
+      "truth": "The glabella squint is one of the fastest and most reliable discomfort signals on the face — firing in well under half a second.\n• It appears before the social smile can form, even when someone is actively trying to look neutral.\n• It signals disapproval or disbelief — 'I'm not sure' or 'I don't agree' — and the person often has no idea they made the expression.\n• After the squint, the verbal response that follows is managed — the squint was the real one.",
+      "principle": "Ekman: Microexpression Duration < 0.5s",
+      "remember": "The tiny squeeze between the eyebrows fires faster than the decision to hide it.",
+      "theySee": "A presenter watching their listener's glabella tighten right as a key claim or number is stated.",
+      "signals": [
+        {
+          "l": "Glabella tightens",
+          "t": "Small crease or pinch appears between the eyebrows during a specific sentence.",
+          "icon": "😤"
+        },
+        {
+          "l": "Eyes narrow",
+          "t": "Eyes squint slightly while you're mid-sentence — they're questioning something specific.",
+          "icon": "🧐"
+        },
+        {
+          "l": "Head tilts",
+          "t": "Head tilts a few degrees to the side paired with the squint — calculating, not agreeing.",
+          "icon": "🤔"
+        },
+        {
+          "l": "Facial reset",
+          "t": "Person quickly smooths their expression back — they caught themselves reacting and tried to cover it.",
+          "icon": "😐"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Identify the sentence that caused it",
+          "desc": "The glabella fires in under half a second. Replay your last sentence in your head. That claim or number is the one they rejected."
+        },
+        {
+          "n": "2",
+          "title": "Don't pretend you didn't see it",
+          "desc": "Stop and check: 'That point — does it need more from me?' Don't keep talking as if their face said nothing."
+        },
+        {
+          "n": "3",
+          "title": "Give them the evidence behind that specific claim",
+          "desc": "If they squinted on a claim, offer the source or data for that exact point — don't repeat the original assertion louder."
+        }
+      ],
+      "script": "\"That part — what would make it land better for you?\"",
+      "counter": "When someone catches your glabella squint, they know you doubted something before you said a word.\n• Consciously relax the space between your brows when you hear something you dislike.\n• The easiest approach: soften the whole forehead, not just the glabella.\n• Then ask a question — 'Can you walk me through the reasoning?' — instead of reacting with your face.",
+      "insight": "The glabella squint is fast enough that most people miss it. If you catch it repeatedly on the same type of claim — cost, timeline, credibility — you now know exactly where the real objection lives. The harder work is deciding whether to address it or reshape what they're reacting to."
+    },
+    {
+      "id": 11,
+      "cat": "practice",
+      "danger": "low",
+      "title": "Make Your Own Face in a Mirror So You Can Read It Faster on Someone Else",
+      "hook": "You catch micro-expressions faster when you've made them yourself. <strong>The body teaches the eye in ways that just watching videos never will.</strong>",
+      "truth": "Reading speed on micro-expressions gets better when you practice producing the expressions — not just watching them on other people.\n• Making a face activates the same brain pathways as recognizing it, which cuts your reaction time in the field.\n• Practicing disgust, contempt, and fear in a mirror for 10 minutes improves how fast you catch each one live.\n• Most people study other faces. The faster path is studying your own face first.",
+      "principle": "Motor Learning: Embodied Recognition",
+      "remember": "Make the face yourself first. You will catch it faster on someone else.",
+      "theySee": "A person who reacts slightly faster than everyone else to a fleeting expression that nobody else caught.",
+      "signals": [
+        {
+          "l": "You miss the flash",
+          "t": "A face changes and resets before you register what it was — you need more practice time on that emotion.",
+          "icon": "⚡"
+        },
+        {
+          "l": "You see it late",
+          "t": "You recognize the expression 2 seconds after it passed — mirror work closes this specific gap.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "One emotion is fuzzy",
+          "t": "You confuse contempt with disgust, or fear with surprise — practice those two pairs specifically.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Recognition sharpens",
+          "t": "After five practice sessions, you start catching expressions mid-flash instead of after they've reset.",
+          "icon": "📈"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick three emotions to practice right now",
+          "desc": "Start with disgust, contempt, and fear. Make each face in a mirror for 30 seconds. Study which muscles move and how far."
+        },
+        {
+          "n": "2",
+          "title": "Practice the transition from neutral",
+          "desc": "Move from a flat face to the emotion and back. Try to complete the transition in under half a second — that is what you are hunting for in real conversations."
+        },
+        {
+          "n": "3",
+          "title": "Test on one emotion in your next conversation",
+          "desc": "Pick one of the three emotions you practiced. In your next conversation, watch for just that one. Don't act on it — just confirm whether you caught it before it reset."
+        }
+      ],
+      "script": "\"That just got a reaction from you — what's your real take on it?\"",
+      "counter": "People who practice this skill read your face faster than you expect them to.\n• If someone seems to react to your expression before you've said anything, assume they've trained.\n• Manage your face at the start of every conversation — don't let your greeting expression leak your real mood.\n• The only defense against a trained reader is a consistent, managed baseline expression from the first second.",
+      "insight": "Embodied practice is faster than watching other people's faces — but most people won't do it because making extreme expressions in a mirror feels ridiculous. The people who get past that feeling get the skill. The rest stay slow."
+    },
+    {
+      "id": 12,
+      "cat": "context",
+      "danger": "high",
+      "title": "Discomfort Signals Stress, Not Lying — Keep the Difference Straight",
+      "hook": "A neck touch and a glabella squint tell you someone is stressed. <strong>They do not tell you someone is lying.</strong> Mixing those two up is the error that costs people their jobs and their freedom.",
+      "truth": "There is no single behavior that reliably signals deception. None. Navarro, Ekman, and psychologist Maria Hartwig all agree on this point.\n• Every discomfort signal has multiple possible causes: illness, anxiety, bad news, physical pain, embarrassment.\n• Treating discomfort as proof of lying has produced wrongful interrogations and broken relationships.\n• The correct read stops at: 'This person is under stress about this topic.' The cause is unknown until you have more data.",
+      "principle": "Hartwig: Behavioral Validity Limits",
+      "remember": "Stress signals stress. It does not signal lying. Stop where the data stops.",
+      "theySee": "A person who has spotted multiple discomfort signals and is now deciding what those signals mean.",
+      "signals": [
+        {
+          "l": "Multiple signals",
+          "t": "Three or more discomfort signals appear — enough to confirm stress, not enough to confirm deception.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Topic clusters",
+          "t": "Discomfort groups around one topic — tells you the topic is sensitive, not that the person is dishonest.",
+          "icon": "📍"
+        },
+        {
+          "l": "Flat anxiety baseline",
+          "t": "Person shows discomfort on all topics equally — their default state, not a specific tell.",
+          "icon": "😰"
+        },
+        {
+          "l": "You jumped ahead",
+          "t": "You moved from 'I see discomfort' to 'they're lying' without additional evidence. Stop there.",
+          "icon": "🛑"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State your read correctly to yourself",
+          "desc": "Say internally: 'This person shows stress about this topic.' Do not add 'and therefore they are lying.' Those are two different conclusions requiring different evidence."
+        },
+        {
+          "n": "2",
+          "title": "Ask, don't accuse",
+          "desc": "Use the stress signal to form a question, not a verdict: 'What's the part of this that's most difficult?' Not 'Are you being straight with me?'"
+        },
+        {
+          "n": "3",
+          "title": "Collect words, documents, and facts",
+          "desc": "Decisions about dishonesty require verbal statements, documents, and hard facts — not body language alone. Use body language to point your questions. Don't use it to close the case."
+        }
+      ],
+      "script": "\"What's the part of this you're most concerned about?\"",
+      "counter": "Someone may use your discomfort signals to accuse you of lying when you are merely stressed.\n• If accused, say clearly: 'I'm not comfortable with this topic — that is different from not being honest.'\n• Point out that discomfort is not proof and ask what other evidence they have.\n• Don't try to appear calm — that can look like suppression. Be direct about your stress instead.",
+      "insight": "The entire skill of reading micro-expressions becomes dangerous the moment it is used to assign motive. Reading discomfort accurately is useful. Deciding you know why the person feels it is a completely different skill — and most people skip straight to the conclusion without noticing the gap between them."
+    }
+  ]
+}

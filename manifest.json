@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-black-book-manipulation-spotter.json",
       "addedAt": "2026-07-04T05:22:54.707Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-micro-expressions-of-discomfort",
+      "title": "Black Book: Micro-Expressions of Discomfort",
+      "theme": "micro-expressions",
+      "topic": "Reading micro-expressions of discomfort",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1B2A4A",
+      "coverIcon": "👁️",
+      "url": "playbooks/playbook-srv-black-book-micro-expressions-of-discomfort.json",
+      "addedAt": "2026-08-13T14:56:23.553Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-07-04T05:22:54.707Z"
+  "generatedAt": "2026-08-13T14:56:23.553Z"
 }
