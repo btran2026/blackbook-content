@@ -1,0 +1,700 @@
+{
+  "meta": {
+    "id": "srv-black-book-hostile-q-a",
+    "version": "1.0",
+    "title": "Black Book: Hostile Q&A",
+    "subtitle": "12 Moves for Handling an Attack in Front of an Audience",
+    "description": "When a hostile question lands in a live room, the move you make in the next 10 seconds defines how everyone remembers your entire presentation. This dossier covers the full arc: what to prepare before you walk in, what to do when the attack comes, how to control the room's attention, and how to close on your terms.",
+    "author": "AI",
+    "createdAt": "2026-08-14T14:50:57.158Z",
+    "tags": [
+      "public speaking",
+      "Q&A",
+      "hostile audience",
+      "presentation skills",
+      "status games",
+      "persuasion"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#0D1B2A",
+    "coverIcon": "🎯",
+    "fromServer": true,
+    "generation": {
+      "topic": "Handling a hostile question in front of an audience",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "prep",
+      "label": "Pre-Game Prep",
+      "color": "#1E3A5F"
+    },
+    {
+      "key": "reframe",
+      "label": "Reframe the Question",
+      "color": "#5C2D91"
+    },
+    {
+      "key": "control",
+      "label": "Control the Room",
+      "color": "#1B4332"
+    },
+    {
+      "key": "deflect",
+      "label": "Deflect & Redirect",
+      "color": "#7B3F00"
+    },
+    {
+      "key": "body",
+      "label": "Body Language & Tone",
+      "color": "#2D3561"
+    },
+    {
+      "key": "recover",
+      "label": "Recovery Moves",
+      "color": "#4A1942"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "prep",
+      "danger": "moderate",
+      "title": "Anticipate Every Hard Question Before You Walk In",
+      "hook": "The hostile question you didn't see coming is the one that ends you. <strong>Every question you prepared for is just another chance to win.</strong>",
+      "truth": "Most presenters prep their slides. Their critics prep their weak spots.\n• Write down the 10 hardest questions your harshest critic would ask.\n• Drafting real answers forces you to find the holes before they do.\n• One pre-loaded crisp answer beats ten improvised ones on the day.",
+      "principle": "Pre-Mortem Planning",
+      "remember": "Write down the worst questions. Answer them before anyone asks.",
+      "theySee": "A speaker who answers the hardest question in the room without pausing or blinking.",
+      "signals": [
+        {
+          "l": "Arms crossed early",
+          "t": "Several people cross their arms before you've even finished your first slide.",
+          "icon": "🤐"
+        },
+        {
+          "l": "Whispers at table",
+          "t": "Two people lean together and whisper while you're talking.",
+          "icon": "👥"
+        },
+        {
+          "l": "Notes out fast",
+          "t": "Someone writes something down and you haven't said anything quotable yet.",
+          "icon": "📝"
+        },
+        {
+          "l": "Face stays flat",
+          "t": "One person's face shows no reaction at all — not negative, just closed.",
+          "icon": "😐"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the 10 worst questions",
+          "desc": "Write them in the voice of your harshest critic. Don't soften them."
+        },
+        {
+          "n": "2",
+          "title": "Draft a 2-sentence answer for each",
+          "desc": "Answer each question directly. One fact, one landing line. No hedging."
+        },
+        {
+          "n": "3",
+          "title": "Say each answer out loud three times",
+          "desc": "Stand up, say question and answer aloud. Edit until it sounds natural, not recited."
+        }
+      ],
+      "script": "\"That one I've thought hard about. Here's where I land on it.\"",
+      "counter": "Someone who has pre-loaded an answer sounds too smooth. Notice it.\n• They never pause — the answer was already written before the room spoke.\n• Ask a follow-up: 'But what about X specifically?' to break the script.\n• The second question reveals whether they actually know or just rehearsed.",
+      "insight": "Knowing your weak spots gives you more confidence than knowing your strong ones. The harder question is whether you'll actually say the thing your critics are right about."
+    },
+    {
+      "id": 2,
+      "cat": "prep",
+      "danger": "moderate",
+      "title": "Bury the Hard Objection Inside Your Talk Before They Can Raise It",
+      "hook": "The objection they're already forming while you speak is the one that blows up Q&A. <strong>Say it first and take the target off your back.</strong>",
+      "truth": "If you name the objection, you own it. They can't ambush you with your own words.\n• Raising the concern yourself shows you understand their side.\n• The questioner who planned to ambush you loses their ammunition.\n• You now control the answer — not them.",
+      "principle": "Inoculation Theory — McGuire",
+      "remember": "Say the hard thing inside your talk. They can't ambush you with it later.",
+      "theySee": "A speaker who says out loud the concern everyone in the room was already thinking.",
+      "signals": [
+        {
+          "l": "Nods stop suddenly",
+          "t": "The room was nodding and then everyone goes still when you hit a specific point.",
+          "icon": "😶"
+        },
+        {
+          "l": "Pen clicking",
+          "t": "Someone starts clicking a pen faster — they're revving up to challenge you.",
+          "icon": "✏️"
+        },
+        {
+          "l": "Phone appears",
+          "t": "A previously engaged person pulls out their phone right after a specific claim.",
+          "icon": "📱"
+        },
+        {
+          "l": "Eye contact breaks",
+          "t": "Two people make eye contact with each other — not with you.",
+          "icon": "👀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the one thing you least want asked",
+          "desc": "Write it down. The thing you hope they don't bring up is the one you must address first."
+        },
+        {
+          "n": "2",
+          "title": "Write one sentence that names it cleanly",
+          "desc": "'You might be wondering why X. Here's why.' One sentence. No flinching."
+        },
+        {
+          "n": "3",
+          "title": "Drop it into your talk at the 60% mark",
+          "desc": "Not at the start (looks defensive) and not at the end (too late). Mid-talk is the sweet spot."
+        }
+      ],
+      "script": "\"You're probably thinking — why didn't we catch this earlier? Here's the honest answer.\"",
+      "counter": "When a speaker raises an objection first, they're controlling your reaction.\n• Notice which objection they chose to name — that tells you what they fear most.\n• Ask about the objection they did NOT name.\n• That gap is where their real weak spot lives.",
+      "insight": "Naming the objection only works if your answer is actually good. If it isn't, you've just put a spotlight on the hole."
+    },
+    {
+      "id": 3,
+      "cat": "reframe",
+      "danger": "moderate",
+      "title": "Restate the Hostile Question Before You Answer It",
+      "hook": "A hostile question lands twice — once for the words, once for the tone. <strong>Restate it and you keep the words, drop the tone, and buy time to think.</strong>",
+      "truth": "The question they ask is rarely the question you need to answer.\n• Restating strips the emotional charge and lets you pick the angle.\n• The questioner sounds reasonable; you now answer the reasonable version.\n• You bought 5–10 seconds to collect yourself without looking rattled.",
+      "principle": "Voss: Label",
+      "remember": "Restate the question in plain words. Drop the anger. Keep the meaning.",
+      "theySee": "A speaker nodding slowly and repeating a calmer version of the hostile question back to the room.",
+      "signals": [
+        {
+          "l": "Loaded words used",
+          "t": "The question uses words like 'failed', 'ignored', or 'incompetent'.",
+          "icon": "💢"
+        },
+        {
+          "l": "Audience shifts",
+          "t": "Other people in the audience shift in their seats when the question is asked.",
+          "icon": "😬"
+        },
+        {
+          "l": "Voice raised",
+          "t": "The questioner's voice is noticeably louder than conversation volume.",
+          "icon": "🔊"
+        },
+        {
+          "l": "Statement, not question",
+          "t": "The 'question' is really a speech — the actual question is at the end or barely there.",
+          "icon": "🎤"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Let them finish without reacting",
+          "desc": "No sighing, no nodding hard. Wait one full beat after they stop talking."
+        },
+        {
+          "n": "2",
+          "title": "Repeat the core concern in neutral words",
+          "desc": "'So what you're asking is whether we accounted for X — let me address that directly.'"
+        },
+        {
+          "n": "3",
+          "title": "Answer the version you restated",
+          "desc": "Answer your version, not theirs. You picked the ground. Now stand on it."
+        }
+      ],
+      "script": "\"If I'm hearing you right, your concern is whether we thought through X. Here's exactly what we did.\"",
+      "counter": "When someone restates your question, they're repositioning it in their favor.\n• If they changed the meaning, say so: 'That's close, but my real question is about Y.'\n• Don't accept the repositioned version if it dodges your actual point.\n• Push back once, firmly, without raising your voice.",
+      "insight": "Restating works best when your answer is good. If your answer is weak, the restate just gives you a cleaner sentence to lose on."
+    },
+    {
+      "id": 4,
+      "cat": "body",
+      "danger": "moderate",
+      "title": "Go Quieter and Slower When the Questioner Gets Louder",
+      "hook": "Matching an angry person's energy hands them control. <strong>The one who stays calm controls the room — and the room knows it.</strong>",
+      "truth": "The audience reads contrast. They notice who escalated and who didn't.\n• Drop your volume and pace; it forces the questioner to do the same to be heard.\n• The crowd reads you as the adult in the room, even if they agree with the question.\n• If the questioner keeps escalating after you've gone calm, they lose the room themselves.",
+      "principle": "Behavioral Mirroring — Inverse Application",
+      "remember": "Lower your voice when they raise theirs. The calm person wins.",
+      "theySee": "A speaker standing still and speaking quietly while the questioner is loud and tense.",
+      "signals": [
+        {
+          "l": "They get louder",
+          "t": "The questioner raises their voice mid-question or mid-sentence.",
+          "icon": "📢"
+        },
+        {
+          "l": "Big arm gestures",
+          "t": "The questioner uses large arm movements or points directly at you.",
+          "icon": "👉"
+        },
+        {
+          "l": "Others lean back",
+          "t": "People near the hostile questioner physically lean back in their chairs.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Room goes silent",
+          "t": "Background noise drops — everyone is watching to see how you respond.",
+          "icon": "🔇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Drop your shoulders and slow your breath",
+          "desc": "Do it before you speak. Three seconds of visible calm is the first move."
+        },
+        {
+          "n": "2",
+          "title": "Speak at 80% of your normal volume",
+          "desc": "Lower than usual. Force the room to lean in. This also pressures the questioner to quiet down."
+        },
+        {
+          "n": "3",
+          "title": "Break eye contact with the questioner and sweep the room",
+          "desc": "Move your gaze to others. You're answering the room now, not just one person."
+        }
+      ],
+      "script": "\"That's an important concern. Let me be clear about where we stand on it.\"",
+      "counter": "When a speaker goes very calm and quiet on you, they're positioning you as the aggressor.\n• Don't keep escalating — you'll lose the room even if you're right.\n• Lower your own voice to match theirs. Now you're equals again.\n• Ask your question a second time, quietly and precisely. Precision beats volume.",
+      "insight": "Going quiet is a power move — but only if your content is solid. A quiet wrong answer is still a wrong answer. The move that follows is knowing when to redirect, not just when to calm down."
+    },
+    {
+      "id": 5,
+      "cat": "control",
+      "danger": "high",
+      "title": "Don't Get Defensive When the Question Is an Attack",
+      "hook": "The moment you get defensive, you look guilty. <strong>The attacker didn't need to be right — they just needed you to react.</strong>",
+      "truth": "Getting defensive signals the attack landed. The room sees the wound before you know you're bleeding.\n• Defensive answers start with 'No, but...' — which confirms something needs defending.\n• Stay on your key points. Don't answer the emotional charge.\n• If you don't react, they have to escalate — which loses them the audience.",
+      "principle": "Bridging — Political Communications Strategy",
+      "remember": "Don't defend yourself. Go back to what you know is true.",
+      "theySee": "A speaker who, when hit with a sharp attack, says their core point again without flinching.",
+      "signals": [
+        {
+          "l": "Your voice rises",
+          "t": "You hear your own voice getting louder or faster as you start your answer.",
+          "icon": "🔥"
+        },
+        {
+          "l": "Answer runs long",
+          "t": "Your answer is three times longer than it needed to be.",
+          "icon": "📜"
+        },
+        {
+          "l": "You're justifying",
+          "t": "You find yourself explaining why something was done instead of what the result was.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "They smile",
+          "t": "The hostile questioner visibly relaxes or smiles — they got the reaction they wanted.",
+          "icon": "😏"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pause two seconds before answering",
+          "desc": "Silence looks like confidence. Rushing looks like fear."
+        },
+        {
+          "n": "2",
+          "title": "Name your main point, not the accusation",
+          "desc": "Say what you came to say, not what they implied. 'What I know to be true is...'"
+        },
+        {
+          "n": "3",
+          "title": "End your answer and move on immediately",
+          "desc": "Don't ask if they're satisfied. Don't check. Move to the next question."
+        }
+      ],
+      "script": "\"What I know is this: [your main point]. That's what the data shows.\"",
+      "counter": "Someone staying very calm and repeating their point is refusing to engage with yours.\n• Check whether they're calm because they're right, or because they decided not to fight.\n• Name the specific fact they haven't addressed: 'Can you address [specific claim] directly?'\n• Forces genuine engagement rather than message cycling.",
+      "insight": "Not getting defensive works until the attack contains a true claim. The harder move is knowing when the right answer is to admit they're partly right."
+    },
+    {
+      "id": 6,
+      "cat": "deflect",
+      "danger": "moderate",
+      "title": "Use Humor to Defuse — Never Aimed at the Questioner",
+      "hook": "A well-timed joke breaks the tension without picking a side. <strong>Laugh with the room and even the hostile questioner has nowhere to go.</strong>",
+      "truth": "Humor aimed at the situation — not the person — makes the attacker look like they're fighting something light.\n• The crowd laughs with you; the hostile questioner is the only one not smiling.\n• Self-deprecating or situational humor doesn't create a target to hit back at.\n• The attacker can't stay angry at something everyone just laughed at.",
+      "principle": "Cialdini: Liking — In-Group Bonding",
+      "remember": "Make the room laugh. Never make the questioner the punchline.",
+      "theySee": "An audience laughing together, including people who were previously tense and frowning.",
+      "signals": [
+        {
+          "l": "Long monopoly",
+          "t": "One person has been speaking or questioning for more than 60 seconds.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Others look bored",
+          "t": "People around the hostile questioner start looking at the ceiling or their phones.",
+          "icon": "😴"
+        },
+        {
+          "l": "Room is stiff",
+          "t": "Everyone is silent and still — the discomfort is visible across the whole room.",
+          "icon": "😤"
+        },
+        {
+          "l": "Repeat complaint",
+          "t": "The questioner says the same thing a second time in different words.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the absurdity in the situation, not the person",
+          "desc": "What's genuinely funny about the moment? The awkwardness, the irony, your own position. Not them."
+        },
+        {
+          "n": "2",
+          "title": "Say the line and keep moving",
+          "desc": "Don't explain it. Don't wait too long for laughs. Say it and keep talking."
+        },
+        {
+          "n": "3",
+          "title": "Return to your point after the laugh",
+          "desc": "The humor bought you goodwill. Now spend it by landing your actual message."
+        }
+      ],
+      "script": "\"Others in the room want a turn at grilling me — you shouldn't get to have all the fun.\"",
+      "counter": "When someone deflects with a joke, they're trying to change the emotional temperature.\n• Don't laugh if the humor sidesteps your actual question.\n• Say: 'I appreciate it — but I still need an answer to [specific question].'\n• The joke only worked if you let it end the exchange.",
+      "insight": "Humor is the fastest way to win the room over one person's head. The risk: if the joke doesn't land, you look like you're not taking the question seriously."
+    },
+    {
+      "id": 7,
+      "cat": "control",
+      "danger": "moderate",
+      "title": "Cut Off the Questioner Who Won't Stop Talking",
+      "hook": "One person who monopolizes Q&A turns the room against both of you. <strong>Cutting them off cleanly makes the audience like you more, not less.</strong>",
+      "truth": "The rest of the room wants you to stop the monopolizer. They're waiting for you to act.\n• The crowd's frustration shifts from you to the questioner once you step in.\n• A clean redirect — not a shutdown — keeps you from looking rude.\n• The audience grants you authority the moment you use it fairly.",
+      "principle": "Greene: Law 28 — Enter Action with Boldness",
+      "remember": "Step in, cut it off, move on. The room is waiting for you to do it.",
+      "theySee": "A speaker who holds up a hand, says one short sentence, and moves their gaze to the rest of the audience.",
+      "signals": [
+        {
+          "l": "Question goes long",
+          "t": "The questioner has been talking for more than 30 seconds and hasn't asked anything yet.",
+          "icon": "⏳"
+        },
+        {
+          "l": "Others look away",
+          "t": "People around the monopolizer start looking elsewhere or checking phones.",
+          "icon": "👀"
+        },
+        {
+          "l": "Point repeated",
+          "t": "The questioner restates their own concern two or more times in different words.",
+          "icon": "🔄"
+        },
+        {
+          "l": "No question mark",
+          "t": "Their speech ends without an actual question — it was a statement the whole time.",
+          "icon": "❗"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Interrupt at the first natural pause",
+          "desc": "Don't wait for a full stop. Step in on any breath or comma. Hesitation makes it worse."
+        },
+        {
+          "n": "2",
+          "title": "Acknowledge briefly and redirect",
+          "desc": "'I hear you — let me bring others in and we can come back to this if time allows.'"
+        },
+        {
+          "n": "3",
+          "title": "Move your gaze to the other side of the room",
+          "desc": "Look away and invite someone else: 'Who else has a question?' The room responds immediately."
+        }
+      ],
+      "script": "\"Others want to weigh in too — let me take one more question and we can follow up on this after.\"",
+      "counter": "When a speaker cuts you off with a redirect, check if your point actually landed.\n• If it didn't, write it down and ask again when the floor opens.\n• Don't fight the redirect in the room — you'll lose the audience fast.\n• A private follow-up after the session is more effective than a public standoff.",
+      "insight": "Cutting someone off is one of the fastest ways to win a room. The move that follows is whether you actually come back to them — because if you said you would and don't, the room notices."
+    },
+    {
+      "id": 8,
+      "cat": "prep",
+      "danger": "moderate",
+      "title": "Prepare Two Short Answers That Shut Down the Biggest Objections",
+      "hook": "A crisp answer that demolishes a hostile concern in 20 seconds is more powerful than five minutes of slides. <strong>Prepare it in advance. Deliver it like you just thought of it.</strong>",
+      "truth": "The audience doesn't know your answer was pre-loaded. They just see you handle it cleanly.\n• Keep each answer under 30 seconds: one fact, one implication, one landing line.\n• Crisp answers silence other questioners who feared something similar.\n• The 'extemporaneous' brilliance people remember was prepared three days earlier.",
+      "principle": "Pre-Suasion — Cialdini",
+      "remember": "Write the killer answers before the meeting. Nobody has to know.",
+      "theySee": "A speaker who gets a hard question, pauses one second, then gives a clean 20-second answer that ends the challenge.",
+      "signals": [
+        {
+          "l": "Nods stop",
+          "t": "The room was with you, then one hard objection made everyone go still.",
+          "icon": "😶"
+        },
+        {
+          "l": "Follow-up forming",
+          "t": "You can see the questioner inhaling to ask a second question.",
+          "icon": "💨"
+        },
+        {
+          "l": "Others nod along",
+          "t": "People near the questioner nod when they raise the objection.",
+          "icon": "👍"
+        },
+        {
+          "l": "Room silence",
+          "t": "The room goes silent after the question — they want to hear this one.",
+          "icon": "🤫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your two most feared questions",
+          "desc": "The questions you'd least want a hostile expert to ask. Write them down tonight."
+        },
+        {
+          "n": "2",
+          "title": "Craft a 2–3 sentence answer for each",
+          "desc": "Fact. Implication. Clean landing line. Under 30 seconds when spoken out loud."
+        },
+        {
+          "n": "3",
+          "title": "Say them out loud until they sound natural",
+          "desc": "Ten times minimum. The answer should sound discovered, not recited."
+        }
+      ],
+      "script": "\"Here's what the data actually shows — [fact]. That means [implication]. So we're confident on this.\"",
+      "counter": "An answer that's too clean and too fast is a pre-loaded answer.\n• Ask the follow-up: 'And what's the exception to that?' breaks any scripted answer.\n• Pre-loaded answers often don't survive a second layer of specificity.\n• If they can't go deeper, the crisp answer was a shell.",
+      "insight": "A killer pre-loaded answer is a weapon — but only for the question you anticipated. The one you didn't prep for is still waiting in the room."
+    },
+    {
+      "id": 9,
+      "cat": "control",
+      "danger": "high",
+      "title": "Never Let a Hostile Question Be the Last Thing the Room Hears",
+      "hook": "People remember the last thing they hear. <strong>If it's a hostile question, that's your presentation now.</strong>",
+      "truth": "The last 60 seconds of Q&A become the emotional summary of everything you said.\n• End on a hostile note and even fans leave with doubt in their heads.\n• Take control of your close: say 'one last question' before the hostile one can land.\n• Your final words after Q&A should bring the room back to your point — not theirs.",
+      "principle": "Peak-End Rule — Kahneman",
+      "remember": "You control when Q&A ends. End on a win, not a hit.",
+      "theySee": "A speaker who says 'one last question,' takes a friendly one, then closes with their own final statement.",
+      "signals": [
+        {
+          "l": "Time is short",
+          "t": "You have two minutes left and the hostile person's hand is still up.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Energy dropped",
+          "t": "The room's energy dipped after a tough exchange two minutes ago.",
+          "icon": "📉"
+        },
+        {
+          "l": "Friendly hands up",
+          "t": "You can see at least one engaged, non-combative person also wants to ask something.",
+          "icon": "🙋"
+        },
+        {
+          "l": "You feel relief",
+          "t": "You feel the urge to just let Q&A run out naturally. That's the trap.",
+          "icon": "😮‍💨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Announce 'one last question' before the hostile hand goes up",
+          "desc": "Pick the timing yourself. Two minutes before the end. Don't wait for the hostile person to move first."
+        },
+        {
+          "n": "2",
+          "title": "Point to a neutral or friendly questioner",
+          "desc": "Someone who looks engaged and non-combative. This is a choice, not an accident."
+        },
+        {
+          "n": "3",
+          "title": "Close with your own statement after Q&A ends",
+          "desc": "'What I want to leave you with is this...' One sentence back to your core point. You get the last word."
+        }
+      ],
+      "script": "\"We have time for one last question — and then I want to leave you with one final thought.\"",
+      "counter": "When a speaker manages their close, they're steering your emotional memory.\n• If Q&A was cut before your point was addressed, say so directly after the session.\n• Don't chase the speaker in the room — email within the hour while the point is specific and fresh.\n• A question not answered in public is still worth an answer in writing.",
+      "insight": "Most people let Q&A run to the clock. The ones who close on purpose walk out with a room that remembers the right thing. The harder move is building the question you want answered into the final slot."
+    },
+    {
+      "id": 10,
+      "cat": "recover",
+      "danger": "low",
+      "title": "Say 'I Don't Know' Without Losing the Room",
+      "hook": "Guessing wrong in front of an audience is far worse than admitting you don't have the answer. <strong>The room respects honesty more than a wrong answer said with confidence.</strong>",
+      "truth": "There is always someone in the room who knows the right answer. Guess wrong and they correct you publicly.\n• 'I don't have that number — let me get it to you' is a complete answer.\n• Offering to follow up turns a potential loss into a personal commitment.\n• If a colleague in the room knows, point to them — sharing the floor is not weakness.",
+      "principle": "Cialdini: Authority — Credibility Through Honesty",
+      "remember": "Say you don't know. Offer to find out. Get their contact.",
+      "theySee": "A speaker who says 'I don't have that in front of me' and then takes the person's contact without missing a beat.",
+      "signals": [
+        {
+          "l": "Very specific question",
+          "t": "The question names an exact number, study, or date you haven't memorized.",
+          "icon": "🔢"
+        },
+        {
+          "l": "Expert questioner",
+          "t": "The questioner mentions their own credentials or cites a specific source.",
+          "icon": "🎓"
+        },
+        {
+          "l": "You're guessing",
+          "t": "You feel yourself starting to build an answer from guesswork.",
+          "icon": "💭"
+        },
+        {
+          "l": "Room leans in",
+          "t": "The whole room leans forward — they want to know this answer too.",
+          "icon": "👂"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say it flat: 'I don't have that in front of me'",
+          "desc": "No filler, no apology, no 'great question.' Just the plain statement."
+        },
+        {
+          "n": "2",
+          "title": "Offer the follow-up immediately",
+          "desc": "'Give me your contact and I'll get the answer to you by tomorrow.'"
+        },
+        {
+          "n": "3",
+          "title": "Hand it to a colleague if one is present",
+          "desc": "'That's actually [Name]'s area — [Name], do you want to take that one?' Then actually listen to the answer."
+        }
+      ],
+      "script": "\"I don't have that figure right now. Give me your contact and I'll send the answer by tomorrow morning.\"",
+      "counter": "When a speaker says they'll follow up, that's a promise that can be checked.\n• Take their contact info yourself and send your question in writing within the hour.\n• If they don't follow up within 24 hours, you have your answer about them.\n• A commitment made in public and broken is a bigger credibility hit than the original admission.",
+      "insight": "Admitting you don't know builds trust — once. Do it twice in the same session and you start to look unprepared. The line between honesty and unreadiness is thinner than it feels."
+    },
+    {
+      "id": 11,
+      "cat": "recover",
+      "danger": "high",
+      "title": "Stop Your Presentation When the Room Is Processing Something Unexpected",
+      "hook": "Plowing through your agenda when the room has mentally left is the most common mistake in hostile presentations. <strong>Stop. Ask what's happening. The agenda can wait.</strong>",
+      "truth": "When something unexpected hits the room, they stop hearing you — you're talking to absence.\n• Effective presenters stop and ask questions before moving on.\n• Holding to the agenda when the room is stuck makes you look oblivious.\n• Naming what you see — 'I can tell there's something on people's minds' — breaks the freeze.",
+      "principle": "Voss: Tactical Empathy",
+      "remember": "When the room goes somewhere else, follow them. Come back to your slides after.",
+      "theySee": "A presenter who stops mid-slide, looks at the audience, and says 'I want to make sure we've dealt with what's in the room before we go on.'",
+      "signals": [
+        {
+          "l": "Mood shifts fast",
+          "t": "The room's energy changes suddenly after one slide or one statement.",
+          "icon": "⚡"
+        },
+        {
+          "l": "No eye contact",
+          "t": "Nobody is making eye contact with you even though they were before.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Side conversations",
+          "t": "Two or three people are talking quietly to each other while you present.",
+          "icon": "💬"
+        },
+        {
+          "l": "Someone looks upset",
+          "t": "One person's face shows they heard something that genuinely bothered them.",
+          "icon": "😟"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop talking and call it out directly",
+          "desc": "'I'm noticing some reactions I didn't expect. What's coming up for people?'"
+        },
+        {
+          "n": "2",
+          "title": "Ask one open question and wait in silence",
+          "desc": "Let the silence sit for 10 seconds. Someone will speak. Don't fill the gap."
+        },
+        {
+          "n": "3",
+          "title": "Stay off your slides until the issue is resolved",
+          "desc": "Don't go back to the deck until you've heard and acknowledged what surfaced. Acknowledge first, then move."
+        }
+      ],
+      "script": "\"I want to pause here. I'm seeing some reactions that tell me there's something on people's minds. What is it?\"",
+      "counter": "When a presenter stops and invites the room's reaction, they're trying to surface and contain issues.\n• If you have a genuine concern, speak now — this is the opening.\n• A concern raised here is more likely to get a real response than one saved for Q&A.\n• If the presenter moves past it quickly, write the unresolved point down. It doesn't go away.",
+      "insight": "Stopping the agenda is the move that looks weak and is actually strong. The harder question is whether you can stay off your slides long enough for the real issue to surface — most people can't."
+    },
+    {
+      "id": 12,
+      "cat": "body",
+      "danger": "moderate",
+      "title": "Move Your Eyes Off the Hostile Questioner to End the Exchange",
+      "hook": "Holding eye contact with a hostile questioner keeps them in control of the room. <strong>Move your gaze to the rest of the audience and you end the private war.</strong>",
+      "truth": "Where you look is where the power sits. Lock eyes with the hostile questioner and you're in a two-person fight in front of 50 people.\n• Sweeping your gaze to the rest of the room signals you're talking to everyone, not one person.\n• The hostile questioner loses their exclusive grip on your attention.\n• You signal to the room that the exchange is over — without saying it.",
+      "principle": "Status Asymmetry — Gaze Control",
+      "remember": "Look away from the hostile person. Look at the rest of the room.",
+      "theySee": "A speaker whose eyes move away from the hostile questioner and slowly sweep across the rest of the audience.",
+      "signals": [
+        {
+          "l": "Lock-on stare",
+          "t": "You notice you've been looking directly at the hostile questioner for more than 30 seconds.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Others watching",
+          "t": "The rest of the audience is watching the exchange, not looking at slides or notes.",
+          "icon": "🎭"
+        },
+        {
+          "l": "Feels personal",
+          "t": "The conversation has narrowed to you and one person; everyone else looks like a spectator.",
+          "icon": "🥊"
+        },
+        {
+          "l": "Questioner holds floor",
+          "t": "The hostile person keeps speaking because no one else is drawn into the conversation.",
+          "icon": "🎤"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Start your answer looking at the questioner",
+          "desc": "Acknowledge them. One second of direct eye contact while you begin your first sentence."
+        },
+        {
+          "n": "2",
+          "title": "Move your gaze to the wider audience mid-answer",
+          "desc": "As you reach your main point, look at the rest of the room. You're answering everyone now."
+        },
+        {
+          "n": "3",
+          "title": "End your answer looking away from the questioner",
+          "desc": "Finish your last sentence while looking at the opposite side of the room. Then invite the next question from there."
+        }
+      ],
+      "script": "\"Good question — and I think everyone here has a stake in the answer, so let me address the room on this.\"",
+      "counter": "When a speaker moves their gaze away from you mid-answer, they're managing you out of the conversation.\n• If your follow-up wasn't answered, raise your hand again when the floor opens.\n• Don't shout or escalate — you'll lose the audience even if you're right.\n• Patience beats aggression in a public room. Let them finish their tour of the audience.",
+      "insight": "Where you look is where the audience looks. Once the hostile questioner loses the room's gaze, they lose the room. The move that follows is making sure the next question comes from someone on the opposite side."
+    }
+  ]
+}

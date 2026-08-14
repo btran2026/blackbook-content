@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-black-book-manipulation-spotter.json",
       "addedAt": "2026-07-04T05:22:54.707Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-hostile-q-a",
+      "title": "Black Book: Hostile Q&A",
+      "theme": "public speaking",
+      "topic": "Handling a hostile question in front of an audience",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#0D1B2A",
+      "coverIcon": "🎯",
+      "url": "playbooks/playbook-srv-black-book-hostile-q-a.json",
+      "addedAt": "2026-08-14T14:50:57.158Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-07-04T05:22:54.707Z"
+  "generatedAt": "2026-08-14T14:50:57.158Z"
 }
