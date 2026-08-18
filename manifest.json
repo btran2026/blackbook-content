@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 5,
+  "manifestVersion": 6,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -26,7 +26,20 @@
       "url": "playbooks/playbook-srv-black-book-manipulation-spotter.json",
       "addedAt": "2026-07-04T05:22:54.707Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-art-of-strategic-questions",
+      "title": "The Art of Strategic Questions",
+      "theme": "questions",
+      "topic": "",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#16213e",
+      "coverIcon": "🗝️",
+      "url": "playbooks/playbook-srv-the-art-of-strategic-questions.json",
+      "addedAt": "2026-08-18T19:06:57.551Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-07-04T05:22:54.707Z"
+  "generatedAt": "2026-08-18T19:06:57.551Z"
 }
