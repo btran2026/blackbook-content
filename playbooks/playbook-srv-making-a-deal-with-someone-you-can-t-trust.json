@@ -1,0 +1,1158 @@
+{
+  "meta": {
+    "id": "srv-making-a-deal-with-someone-you-can-t-trust",
+    "version": "1.0",
+    "title": "Making a Deal With Someone You Can't Trust",
+    "subtitle": "How to trade with people who will break their word",
+    "description": "A closed file on dealing with the unreliable. Read their incentives, structure the trade so their word does not matter, test with small money, and lock the gain before they turn. Twenty cards, in order.",
+    "author": "AI",
+    "createdAt": "2026-08-22T17:21:01.877Z",
+    "tags": [
+      "negotiation",
+      "contracts",
+      "risk",
+      "power",
+      "deals",
+      "betrayal"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#1F3A5F",
+    "coverIcon": "🤝",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "incentives",
+      "label": "Read Their Incentives",
+      "color": "#4A6FA5"
+    },
+    {
+      "key": "before",
+      "label": "Before You Commit Anything",
+      "color": "#7B6CA8"
+    },
+    {
+      "key": "structure",
+      "label": "Structure The Trade",
+      "color": "#2E7D6F"
+    },
+    {
+      "key": "test",
+      "label": "Test It With Something Small",
+      "color": "#B07C3A"
+    },
+    {
+      "key": "breach",
+      "label": "When They Break It",
+      "color": "#A4453A"
+    },
+    {
+      "key": "lock",
+      "label": "Lock The Gain",
+      "color": "#3E5C4B"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "incentives",
+      "danger": "low",
+      "title": "Stop Asking If They Are Honest. Ask What Pays Them",
+      "principle": "Schelling: Incentive-Compatible Bargaining",
+      "remember": "People keep deals that pay them. Find that payment first.",
+      "when": "You are about to sign with someone whose word you doubt.",
+      "hook": "Honest people break deals when the deal gets expensive. <strong>Dishonest people keep deals that pay them.</strong>",
+      "truth": "Character predicts nothing. The payment schedule predicts everything.\n• Write down what they gain each month they keep their word.\n• If that number is smaller than what they gain by leaving, they leave.\n• Most people check references. Almost nobody checks the math.",
+      "theySee": "A partner who asks a lot of questions about money and timing, not about feelings.",
+      "signals": [
+        {
+          "icon": "💰",
+          "l": "One payday",
+          "t": "They get all their money at the front of the deal"
+        },
+        {
+          "icon": "🚪",
+          "l": "No repeat",
+          "t": "They tell you this is a one-time thing for them"
+        },
+        {
+          "icon": "🕳️",
+          "l": "No reputation",
+          "t": "They work under a new company name with no history"
+        },
+        {
+          "icon": "📉",
+          "l": "Cash pressure",
+          "t": "They ask to move a payment date earlier"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write their gain",
+          "desc": "On one line, write what they get if the deal runs the full term."
+        },
+        {
+          "n": "2",
+          "title": "Write their gain from leaving",
+          "desc": "On the next line, write what they get if they take your money and stop."
+        },
+        {
+          "n": "3",
+          "title": "Compare the two numbers",
+          "desc": "If leaving pays more, change the deal or walk. Do not sign and hope."
+        }
+      ],
+      "script": "\"Before we talk price — <strong>what do you get out of month six of this that you don't get in month one?</strong>\"",
+      "example": "Dan almost signed a builder who wanted 70% up front. He wrote the two numbers down. Leaving after the deposit paid the builder more than finishing. Dan cut the deposit to 15% and the builder walked. The next builder took 15% and finished in nine weeks.",
+      "counter": "If someone asks what keeps YOU honest, they are running this on you.\n• Notice they want your future payoff on the table, not your promises.\n• Say: <strong>\"I get paid at the end. That is my reason.\"</strong>\n• Then name their front-loaded payday. Make them answer it too.",
+      "insight": "Money is the easy part of their payoff. The harder part is the payoff you cannot see — a rival paying them to fail, a boss who needs this dead. The next question is who else pays them."
+    },
+    {
+      "id": 2,
+      "cat": "incentives",
+      "danger": "moderate",
+      "title": "Find Out Who Else Pays Them",
+      "principle": "Machiavelli: The Prince — Divided Loyalty",
+      "remember": "Someone else is paying them too. Find out who.",
+      "when": "Your counterpart keeps giving answers that help a third party more than you.",
+      "hook": "They are not being difficult. <strong>They are working for someone who is not in the room.</strong>",
+      "truth": "Every unreliable partner has a second employer.\n• Track which side wins each time they \"compromise.\"\n• If one name keeps winning, that name pays them.\n• Ask them who signs off. Watch the pause before they answer.",
+      "theySee": "A partner who names a third company out loud and waits.",
+      "signals": [
+        {
+          "icon": "🧾",
+          "l": "Odd concession",
+          "t": "They give ground on a point that costs a rival nothing"
+        },
+        {
+          "icon": "📞",
+          "l": "Off-call decision",
+          "t": "They say they need to check with someone they will not name"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same beneficiary",
+          "t": "Every delay helps the same competitor"
+        },
+        {
+          "icon": "🤐",
+          "l": "Named pause",
+          "t": "They pause when you say a specific company name"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the last three concessions",
+          "desc": "Write who gained from each one. Look for a repeat name."
+        },
+        {
+          "n": "2",
+          "title": "Say the name out loud",
+          "desc": "Name the third party in the meeting and watch their face for two seconds."
+        },
+        {
+          "n": "3",
+          "title": "Ask who signs",
+          "desc": "Ask: who else has to approve this before it is real? Write down the answer."
+        }
+      ],
+      "script": "\"I keep noticing that every delay here helps <strong>Kessler</strong>. Tell me straight — do they have any claim on this work?\"",
+      "example": "Priya's vendor kept pushing her launch back by two weeks at a time. Each delay lined up with a competitor's release. She named the competitor in a call. The vendor went quiet, then admitted a retainer. Priya moved her contract to a firm with no side deals and launched on the original date.",
+      "counter": "If someone maps who else pays you, they are running this on you.\n• Notice they list your other clients instead of arguing terms.\n• Say: <strong>\"Say the conflict you think I have. I will answer it.\"</strong>\n• Answer once, in plain numbers, then return to the terms.",
+      "insight": "Two employers is bad. One employer plus a personal grudge is worse, because a grudge has no price. The next question is whether they want your money or your loss."
+    },
+    {
+      "id": 3,
+      "cat": "incentives",
+      "danger": "moderate",
+      "title": "Check If This Is Their Last Deal Or Their Next One",
+      "principle": "Axelrod: Shadow of the Future",
+      "remember": "People behave when they need you again next year.",
+      "when": "You must judge whether a stranger will keep a promise with no contract to force it.",
+      "hook": "A person who needs you again next year will not rob you this year. <strong>A person who is leaving town will.</strong>",
+      "truth": "Repeat business is the cheapest enforcement you can buy.\n• Ask how many years they plan to stay in this market.\n• Check if they sell to people who know you.\n• If they are retiring, selling, or moving, tighten every term now.",
+      "theySee": "A partner who asks about their five-year plan before asking about price.",
+      "signals": [
+        {
+          "icon": "🏷️",
+          "l": "Selling up",
+          "t": "They mention a buyer for their company"
+        },
+        {
+          "icon": "🧳",
+          "l": "Moving on",
+          "t": "They talk about leaving the industry or the city"
+        },
+        {
+          "icon": "🆕",
+          "l": "Fresh entity",
+          "t": "Their company was registered in the last few months"
+        },
+        {
+          "icon": "🌐",
+          "l": "No shared circle",
+          "t": "They have no clients who also know you"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask about next year",
+          "desc": "Ask what their business looks like in two years. Listen for an exit plan."
+        },
+        {
+          "n": "2",
+          "title": "Find a shared name",
+          "desc": "Find one client you both know. Call that client this week."
+        },
+        {
+          "n": "3",
+          "title": "Match the terms to the answer",
+          "desc": "No future together means money in escrow and short milestones."
+        }
+      ],
+      "script": "\"Honest question — <strong>where is this business in two years?</strong> I price a long relationship differently from a one-off.\"",
+      "example": "Marcus asked a supplier where the company would be in two years. The owner said he had a buyer lined up for spring. Marcus moved his terms to monthly deliveries with monthly payments. The company sold in March and the new owner honored nothing. Marcus was out one month, not one year.",
+      "counter": "If someone probes your long-term plans before terms, they are running this on you.\n• Notice they ask about your future, not your product.\n• Say: <strong>\"I am here in five years. Ask anyone on my client list.\"</strong>\n• Give two names who will confirm it. Proof beats promise.",
+      "insight": "A shared future keeps honest people honest. It does nothing for someone who has already decided to burn the bridge. The move that follows is finding out what they cannot afford to lose."
+    },
+    {
+      "id": 4,
+      "cat": "incentives",
+      "danger": "high",
+      "title": "Find The One Thing They Cannot Afford To Lose",
+      "principle": "Sun Tzu: Attack What They Must Defend",
+      "remember": "Find what they protect. That is your only real hold.",
+      "when": "You need a hold on someone who ignores contracts and shrugs at lawyers.",
+      "hook": "Contracts are slow. <strong>A thing they cannot afford to lose is fast.</strong>",
+      "truth": "Every person guards one thing more than money.\n• Watch what they refuse to put in writing.\n• Watch which relationship they never risk.\n• That thing is your hold. You never have to name it out loud.",
+      "theySee": "A calm partner who mentions their biggest client in passing and moves on.",
+      "signals": [
+        {
+          "icon": "🛡️",
+          "l": "Guarded name",
+          "t": "They will not let you speak to one specific client"
+        },
+        {
+          "icon": "📜",
+          "l": "License talk",
+          "t": "They get tense when you mention their license or certification"
+        },
+        {
+          "icon": "👨‍👩‍👧",
+          "l": "Family money",
+          "t": "They tell you a family member co-signed the business"
+        },
+        {
+          "icon": "🏛️",
+          "l": "One big buyer",
+          "t": "They admit one customer is most of their revenue"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List what they protect",
+          "desc": "Write three things they will not risk: a client, a license, a partner."
+        },
+        {
+          "n": "2",
+          "title": "Confirm one",
+          "desc": "Check one publicly — the license board, the client's website, the filing."
+        },
+        {
+          "n": "3",
+          "title": "Mention it once, lightly",
+          "desc": "Name it in normal talk and drop it. They will hear it. You never repeat it."
+        }
+      ],
+      "script": "\"Funny thing — <strong>Halvorsen is a client of mine too.</strong> Small world. Anyway, back to the delivery dates.\"",
+      "example": "A contractor stopped answering Elena's calls. She learned his license renewal was three weeks out. On the next call she mentioned she had renewed her own license that month. He was back on site in two days and finished the punch list.",
+      "counter": "If someone drops a name that could hurt you, they are running this on you.\n• Notice the mention is casual and comes with no demand attached.\n• Say: <strong>\"If that is a threat, say it plainly and I will answer it.\"</strong>\n• Make them state it out loud. Stated threats lose most of their force.",
+      "insight": "A hold works until they decide the loss is worth it. Then you have an enemy with nothing left to protect. This is why you read incentives before you ever put money down."
+    },
+    {
+      "id": 5,
+      "cat": "before",
+      "danger": "low",
+      "title": "Ask For The Thing They Would Have To Fake",
+      "principle": "Spence: Costly Signaling",
+      "remember": "Ask for proof that is expensive to fake.",
+      "when": "They give you confident answers about money, capacity, or track record.",
+      "hook": "Anybody can say the words. <strong>Ask for the document that would take a week to forge.</strong>",
+      "truth": "Talk is free, so it tells you nothing.\n• Ask for one item that costs real time and money to produce.\n• Watch how they handle it: fast, slow, or offended.\n• A real partner sends it in a day. A liar negotiates about the request.",
+      "theySee": "A partner who asks for one specific document and stops talking.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "Screenshot only",
+          "t": "They send a screenshot instead of the original file"
+        },
+        {
+          "icon": "⏳",
+          "l": "Slow simple ask",
+          "t": "An easy document takes them over a week"
+        },
+        {
+          "icon": "😤",
+          "l": "Offended",
+          "t": "They act insulted that you asked for proof"
+        },
+        {
+          "icon": "🔀",
+          "l": "Swapped item",
+          "t": "They send a different document than the one you asked for"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one hard item",
+          "desc": "Choose a bank letter, an insurance certificate, or a signed client reference."
+        },
+        {
+          "n": "2",
+          "title": "Ask in writing",
+          "desc": "Send one email naming the exact document and the date you need it."
+        },
+        {
+          "n": "3",
+          "title": "Verify at the source",
+          "desc": "Call the bank, insurer, or client yourself. Do not use the number they gave you."
+        }
+      ],
+      "script": "\"Send me the <strong>insurance certificate straight from your broker</strong>, with my company named on it, by Friday. Then we can sign.\"",
+      "example": "Tomas asked a logistics firm for an insurance certificate direct from the broker. The firm sent a PDF instead and said the broker was on holiday. Tomas called the broker's public number. The policy had lapsed in March. He walked before wiring the deposit.",
+      "counter": "If someone demands costly proof from you, they are testing you correctly.\n• Notice they ask for originals and third-party contacts.\n• Say: <strong>\"I will have my bank send it directly. Give me your email.\"</strong>\n• Send it fast. Speed here buys you slack on price later.",
+      "insight": "Documents prove the past. They say nothing about next month. The harder part is knowing which document is the one they cannot fake, and asking only for that one."
+    },
+    {
+      "id": 6,
+      "cat": "before",
+      "danger": "moderate",
+      "title": "Get Their Story Twice, A Week Apart",
+      "principle": "Cognitive Load in Deception Detection",
+      "remember": "Ask the same questions twice. Liars change the details.",
+      "when": "They tell you a long story about why the last deal fell apart.",
+      "hook": "A true story stays the same. <strong>An invented one drifts.</strong>",
+      "truth": "A liar remembers the shape of the story, not the numbers in it.\n• Ask for exact numbers and dates the first time.\n• Wait a week. Ask the same questions in a different order.\n• Numbers that move are the crack. Push there, not everywhere.",
+      "theySee": "A partner who takes notes and asks small factual questions.",
+      "signals": [
+        {
+          "icon": "🔢",
+          "l": "Number drift",
+          "t": "The same figure changes between two conversations"
+        },
+        {
+          "icon": "📅",
+          "l": "Date slide",
+          "t": "A date moves by a month when they retell the story"
+        },
+        {
+          "icon": "🎬",
+          "l": "Same phrases",
+          "t": "They repeat the story in identical polished sentences"
+        },
+        {
+          "icon": "🙅",
+          "l": "Blame only",
+          "t": "Every failure in the story is another person's fault"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the numbers down",
+          "desc": "In the first call, write every figure, date, and name they say."
+        },
+        {
+          "n": "2",
+          "title": "Ask again next week",
+          "desc": "Ask the same three factual questions in a new order. Do not signal why."
+        },
+        {
+          "n": "3",
+          "title": "Read the gap back",
+          "desc": "Say the two versions out loud and let them explain the difference."
+        }
+      ],
+      "script": "\"Last week you said the contract was <strong>eight months and $240,000</strong>. Today you said a year and $300,000. Which one is right?\"",
+      "example": "Nadia asked a partner twice how his last venture ended. The first version had two investors and a nine-month run. The second had one investor and eighteen months. She read both back. He blamed his memory. She kept the deal but paid only on delivery, and he never delivered.",
+      "counter": "If someone re-asks your factual questions a week later, they are checking you.\n• Notice they repeat questions you already answered.\n• Say: <strong>\"Same answer as last week — $240,000, eight months. Here is the file.\"</strong>\n• Send the document. Consistency plus paper ends the test.",
+      "insight": "Catching the lie feels like winning. It is not. The real question is whether you still want the deal with a known liar and better terms."
+    },
+    {
+      "id": 7,
+      "cat": "before",
+      "danger": "moderate",
+      "title": "Talk To The Partner They Left Behind",
+      "principle": "Gracián: Know the Man Through His Enemies",
+      "remember": "Call the person they stopped working with.",
+      "when": "They give you three glowing references and you have to pick who to call.",
+      "hook": "References are chosen. <strong>The person who left is not.</strong>",
+      "truth": "Their reference list is a marketing document.\n• Find the partner, client, or co-founder who is gone from their story.\n• Call that person. Ask one open question and stop talking.\n• The people they praise tell you nothing. The people they skip tell you everything.",
+      "theySee": "A partner who mentions an old company name they did not bring up.",
+      "signals": [
+        {
+          "icon": "🕵️",
+          "l": "Missing year",
+          "t": "Their history skips a year with no explanation"
+        },
+        {
+          "icon": "👤",
+          "l": "Vanished partner",
+          "t": "An old partner appears in old posts and never again"
+        },
+        {
+          "icon": "🚫",
+          "l": "Blocked contact",
+          "t": "They tell you not to bother calling a former client"
+        },
+        {
+          "icon": "⚖️",
+          "l": "Quiet lawsuit",
+          "t": "A court record shows a case they never mentioned"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the gap",
+          "desc": "Search their old company names and note anyone who disappeared."
+        },
+        {
+          "n": "2",
+          "title": "Call that person",
+          "desc": "Ask: would you work with them again? Then say nothing for ten seconds."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the paper",
+          "desc": "Ask if anything was written down. Emails and filings beat opinions."
+        }
+      ],
+      "script": "\"I am about to sign with Reyes. <strong>Would you work with him again?</strong>\" — then stay silent and let them fill it.",
+      "example": "Owen found a co-founder who vanished from a startup's website in 2024. He called and asked one question. The man talked for twenty minutes about missing payroll and forged invoices. Owen killed the deal that afternoon and kept his $80,000 deposit.",
+      "counter": "If someone hunts your former partners, they are running this on you.\n• Notice they name a person you did not put on your list.\n• Say: <strong>\"Call her. Here is her number. Then call me back.\"</strong>\n• Hand over the number yourself. Nothing kills suspicion faster.",
+      "insight": "The abandoned partner tells the truth mixed with anger. Your job is to separate the two. The next problem is that you now know too much to walk away comfortably."
+    },
+    {
+      "id": 8,
+      "cat": "before",
+      "danger": "high",
+      "title": "Decide What You Will Lose Before You Sign",
+      "principle": "Loss Aversion × Pre-Commitment",
+      "remember": "Name the amount you can lose before you agree to anything.",
+      "when": "You want the deal badly and you know the other side may fail you.",
+      "hook": "You will not think clearly once the money is in. <strong>Pick the number now, while you can still say it out loud.</strong>",
+      "truth": "The trap is not their lie. It is your refusal to stop paying.\n• Write the maximum loss you will accept before you sign.\n• Write the date you check that number.\n• Once you are in, every extra payment feels like rescue. It is not.",
+      "theySee": "A partner who names a limit out loud and writes it down.",
+      "signals": [
+        {
+          "icon": "🧮",
+          "l": "No number",
+          "t": "You cannot say your maximum loss out loud"
+        },
+        {
+          "icon": "💸",
+          "l": "Rescue payment",
+          "t": "You send extra money to protect money you already sent"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Moved date",
+          "t": "You move your own deadline for the second time"
+        },
+        {
+          "icon": "🤫",
+          "l": "Hidden deal",
+          "t": "You stop telling your partner or spouse the real status"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the number",
+          "desc": "Write the cash and weeks you will lose without it changing your year."
+        },
+        {
+          "n": "2",
+          "title": "Write the check date",
+          "desc": "Put one date in your calendar to compare the real spend to that number."
+        },
+        {
+          "n": "3",
+          "title": "Tell one person",
+          "desc": "Send the number to one person who will hold you to it."
+        }
+      ],
+      "script": "(Text to a trusted friend) \"<strong>My cap on the Reyes deal is $30,000 and six weeks.</strong> If I ask to go past it, tell me no.\"",
+      "example": "Sofia capped her exposure at $25,000 before signing with a fabricator. At week five he asked for $40,000 more to \"finish tooling.\" She texted her cap to her business partner, got a one-word answer, and stopped. She lost $25,000. Two other clients of the fabricator lost six figures.",
+      "counter": "If someone asks your walk-away number early, they are sizing your pain.\n• Notice they ask about your budget ceiling before showing any price.\n• Say: <strong>\"I will tell you my number when you show me yours.\"</strong>\n• Keep your cap private and written. Private caps still work.",
+      "insight": "The cap only works if someone else holds it. The harder problem is the deal that stays just under your cap forever, bleeding you slowly."
+    },
+    {
+      "id": 9,
+      "cat": "structure",
+      "danger": "low",
+      "title": "Pay In Slices Tied To Delivered Work",
+      "principle": "Schelling: Sequential Commitment",
+      "remember": "Small payments after small deliveries. Never before.",
+      "when": "They ask for a large payment up front to get started.",
+      "hook": "A big deposit hands them the whole win on day one. <strong>Slice it and they have to keep earning.</strong>",
+      "truth": "The payment schedule is the real contract.\n• Break the deal into pieces you can check in a week each.\n• Pay each piece only after you see it work.\n• The last payment must be big enough that walking hurts them.",
+      "theySee": "A partner with a payment plan already drawn on one page.",
+      "signals": [
+        {
+          "icon": "🏦",
+          "l": "Big deposit",
+          "t": "They ask for more than a third of the money up front"
+        },
+        {
+          "icon": "📦",
+          "l": "One delivery",
+          "t": "They want a single hand-over at the very end"
+        },
+        {
+          "icon": "🧱",
+          "l": "No pieces",
+          "t": "They say the work cannot be broken into stages"
+        },
+        {
+          "icon": "⚡",
+          "l": "Urgent wire",
+          "t": "They push you to wire money before paperwork is signed"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Cut the work into four",
+          "desc": "Write four pieces, each testable in a week or less."
+        },
+        {
+          "n": "2",
+          "title": "Attach money to each",
+          "desc": "Put 20%, 25%, 25%, 30% against the four pieces. Last slice is biggest."
+        },
+        {
+          "n": "3",
+          "title": "Send the schedule first",
+          "desc": "Email the schedule before you discuss total price. Let them react to it."
+        }
+      ],
+      "script": "\"Here is how I pay: <strong>20% when the design lands, 25% at first build, 25% at test, 30% when it runs live.</strong> Same total, different timing.\"",
+      "example": "Kwame's developer wanted 50% up front on a $60,000 build. Kwame sent a four-slice schedule instead. The developer took it, delivered the first two slices, then vanished. Kwame was down $27,000 with working code instead of $30,000 with nothing, and hired a second developer to finish it.",
+      "counter": "If someone slices your payment into tiny pieces, they are protecting themselves.\n• Notice they hold most of the money until the very end.\n• Say: <strong>\"Fine, but the last slice caps at 25% and has a date on it.\"</strong>\n• Trade the schedule for a hard final date. Time is your protection.",
+      "insight": "Slices limit what you can lose. They do not make them deliver. The next move is making the middle of the deal expensive for them to abandon."
+    },
+    {
+      "id": 10,
+      "cat": "structure",
+      "danger": "moderate",
+      "title": "Put The Money Where Neither Of You Can Touch It",
+      "principle": "Schelling: Third-Party Hostage",
+      "remember": "Park the money with a stranger who answers to both of you.",
+      "when": "Neither side will move first because neither side trusts the other.",
+      "hook": "They want the money before they work. You want the work before the money. <strong>Give the money to a third party and both problems die.</strong>",
+      "truth": "Escrow replaces trust with paperwork.\n• Put the full amount with a lawyer, escrow firm, or bank.\n• Write the exact release condition in one sentence.\n• Now they can see the money and cannot take it. That is the point.",
+      "theySee": "A partner who shows a bank receipt for money they cannot reach yet.",
+      "signals": [
+        {
+          "icon": "🏦",
+          "l": "Escrow refusal",
+          "t": "They refuse escrow but cannot say why"
+        },
+        {
+          "icon": "🧑‍⚖️",
+          "l": "Their lawyer only",
+          "t": "They insist the money sits with their own lawyer"
+        },
+        {
+          "icon": "🌫️",
+          "l": "Vague release",
+          "t": "They want the release condition written loosely"
+        },
+        {
+          "icon": "💳",
+          "l": "Fee fight",
+          "t": "They argue about a small escrow fee on a large deal"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the escrow holder",
+          "desc": "Pick a licensed escrow firm or a lawyer neither of you has used."
+        },
+        {
+          "n": "2",
+          "title": "Write one release line",
+          "desc": "Write the exact test that releases the money. One sentence, no adjectives."
+        },
+        {
+          "n": "3",
+          "title": "Send the receipt",
+          "desc": "Fund it and send them proof. Seeing the money makes them start work."
+        }
+      ],
+      "script": "\"The full <strong>$85,000 is with Harlan Escrow today.</strong> It releases the hour the system passes the test we wrote. You can call them yourself.\"",
+      "example": "Ruth's overseas supplier demanded full prepayment. She funded escrow instead and sent the receipt. The supplier shipped within a week. When one crate arrived short, the escrow firm held back $9,000 until the replacement landed.",
+      "counter": "If someone insists on escrow with their chosen holder, check the holder.\n• Notice the escrow firm has no license number you can verify.\n• Say: <strong>\"I will use escrow. We pick the firm together, from three names.\"</strong>\n• Verify the license before funding. Fake escrow is a common trick.",
+      "insight": "Escrow protects the cash. It does not protect your calendar, and a slow partner can still cost you a season. The next move is putting a price on their delay."
+    },
+    {
+      "id": 11,
+      "cat": "structure",
+      "danger": "moderate",
+      "title": "Make Their Delay Cost Them Money",
+      "principle": "Liquidated Damages × Loss Aversion",
+      "remember": "Write a daily price for being late.",
+      "when": "Their timeline matters more to you than to them.",
+      "hook": "A deadline with no price is a suggestion. <strong>A deadline that costs $500 a day is a deadline.</strong>",
+      "truth": "Late is free unless you charge for it.\n• Put a per-day number on lateness and hold back money to pay it from.\n• Add a small bonus for early. Carrot plus stick moves faster than either alone.\n• Keep the number small enough that a court will not throw it out.",
+      "theySee": "A partner who holds back the last payment and names a daily late fee.",
+      "signals": [
+        {
+          "icon": "🗓️",
+          "l": "Soft dates",
+          "t": "They write target dates instead of firm dates"
+        },
+        {
+          "icon": "🌧️",
+          "l": "Broad excuses",
+          "t": "Their contract excuses delay for reasons they control"
+        },
+        {
+          "icon": "🔁",
+          "l": "Second slip",
+          "t": "They move the same milestone twice in a month"
+        },
+        {
+          "icon": "📵",
+          "l": "Quiet week",
+          "t": "They stop sending updates in the week before a deadline"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set the daily number",
+          "desc": "Pick a real daily cost you can defend, like $400 a day."
+        },
+        {
+          "n": "2",
+          "title": "Hold money to cover it",
+          "desc": "Keep a final payment big enough to absorb thirty days of late fees."
+        },
+        {
+          "n": "3",
+          "title": "Charge it the first day",
+          "desc": "On day one of lateness, email the invoice. Never let the first day pass free."
+        }
+      ],
+      "script": "\"Delivery is March 14. <strong>After that it is $400 a day, taken from the final payment.</strong> Two days early and I add $2,000. Your call.\"",
+      "example": "Ben's fit-out crew ran three weeks late on his last store. On the next store he wrote $400 a day against a held-back $20,000. The crew finished two days early and took the bonus. Ben opened on schedule for the first time in four builds.",
+      "counter": "If someone hands you a late fee, look for the excuse clauses.\n• Notice the fee has no cap and no exceptions for their own delays.\n• Say: <strong>\"I will take the daily fee if it caps at 10% and pauses when you are late.\"</strong>\n• Get the pause clause in writing. Their delays cause most of yours.",
+      "insight": "Money penalties work on people who plan to stay solvent. They do nothing to someone already planning to disappear. This is why you keep the work itself in your hands."
+    },
+    {
+      "id": 12,
+      "cat": "structure",
+      "danger": "high",
+      "title": "Keep One Thing They Need Until The End",
+      "principle": "Sun Tzu: Hold the Key Ground",
+      "remember": "Hold the one piece the deal cannot finish without.",
+      "when": "You hand over work in stages and they could stop paying at any stage.",
+      "hook": "Money is not the only thing you can hold back. <strong>Hold the piece nothing works without.</strong>",
+      "truth": "Whoever holds the last necessary piece controls the ending.\n• Find the item the finished thing cannot work without: the domain, the key, the master file, the signature.\n• Keep it in your name until final payment clears.\n• Say it once at the start, plainly, so it never feels like a hostage move later.",
+      "theySee": "A partner who says up front which item transfers at the end.",
+      "signals": [
+        {
+          "icon": "🔑",
+          "l": "Early key ask",
+          "t": "They ask for admin access before any payment lands"
+        },
+        {
+          "icon": "🌐",
+          "l": "Domain grab",
+          "t": "They want the domain or account in their company name"
+        },
+        {
+          "icon": "📁",
+          "l": "Source files",
+          "t": "They ask for source files before the final invoice is paid"
+        },
+        {
+          "icon": "✍️",
+          "l": "Blank signature",
+          "t": "They ask you to sign a transfer with no date filled in"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the key piece",
+          "desc": "Write the one item the finished work cannot run without."
+        },
+        {
+          "n": "2",
+          "title": "Put it in your name",
+          "desc": "Register or hold that item yourself from day one."
+        },
+        {
+          "n": "3",
+          "title": "State the handover date",
+          "desc": "Write one line: this transfers within 24 hours of final payment clearing."
+        }
+      ],
+      "script": "\"Everything ships as we go. <strong>The domain and the admin keys transfer 24 hours after the last payment clears.</strong> That is standard for me.\"",
+      "example": "Ana built a client's platform and kept the domain in her own name with a written transfer clause. The client paid three invoices, then went silent on the fourth. Two weeks later he paid in full to get the domain before his launch. Ana transferred it the next morning.",
+      "counter": "If someone holds a piece your project needs, count the days it costs you.\n• Notice the item is small, cheap, and impossible to replace fast.\n• Say: <strong>\"Transfer it into a shared account now, released on payment.\"</strong>\n• Move it to escrow-style control before you build anything on top of it.",
+      "insight": "Holding the key piece works once. After you use it, they plan around you and never give you that hold again. So use it on the money, not on a grudge."
+    },
+    {
+      "id": 13,
+      "cat": "test",
+      "danger": "low",
+      "title": "Run A Small Job Before The Big One",
+      "principle": "Cialdini: Commitment and Consistency (Run in Reverse)",
+      "remember": "Buy a small job first. Watch how they work.",
+      "when": "They push you to sign the full contract in one go.",
+      "hook": "You cannot read a person from a proposal. <strong>Buy one small job and watch.</strong>",
+      "truth": "A small paid job shows you the real operating style in a week.\n• Pay for a piece that stands on its own if you stop there.\n• Watch three things: speed, honesty about problems, and how they invoice.\n• Most people skip this because the small job feels like a delay. It is the cheapest information you will ever buy.",
+      "theySee": "A client who buys a small piece of work and pays fast.",
+      "signals": [
+        {
+          "icon": "🧪",
+          "l": "Pilot refusal",
+          "t": "They refuse any job smaller than the full contract"
+        },
+        {
+          "icon": "🧾",
+          "l": "Odd invoice",
+          "t": "The first invoice has a charge you never discussed"
+        },
+        {
+          "icon": "🐢",
+          "l": "Slow start",
+          "t": "The small job takes twice the time they quoted"
+        },
+        {
+          "icon": "🤥",
+          "l": "Hidden problem",
+          "t": "You find a problem they knew about and did not mention"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Carve out a piece",
+          "desc": "Pick one small job that has value even if the big deal never happens."
+        },
+        {
+          "n": "2",
+          "title": "Pay it fast and in full",
+          "desc": "Pay the small invoice the day it arrives. Watch what they do with goodwill."
+        },
+        {
+          "n": "3",
+          "title": "Score three things",
+          "desc": "Write their speed, their honesty about problems, and their invoice accuracy."
+        }
+      ],
+      "script": "\"Before the annual contract, I want <strong>one paid job — the Dallas site audit, $4,000, two weeks.</strong> If that runs clean, we do the year.\"",
+      "example": "Grace ran a $4,000 audit before a $180,000 annual contract. The firm delivered late, then billed $1,200 in \"coordination\" she never approved. She paid it, thanked them, and signed with the runner-up. The runner-up's audit came in early and matched the quote to the dollar.",
+      "counter": "If a client asks for a pilot, they are buying information about you.\n• Notice they price the pilot small and watch every detail.\n• Say: <strong>\"Happy to. Pilot is priced at full rate, and the big contract locks by the 30th.\"</strong>\n• Charge full rate and put a date on the main deal. Do not let pilots run forever.",
+      "insight": "The pilot tells you how they behave when they still want your business. The harder question is how they behave once they have it."
+    },
+    {
+      "id": 14,
+      "cat": "test",
+      "danger": "moderate",
+      "title": "Give Them A Chance To Cheat You Cheaply",
+      "principle": "Greene: Law 14 — Pose as a Friend, Work as a Spy",
+      "remember": "Leave a small door open. See if they walk through it.",
+      "when": "You suspect they cut corners but you have no proof yet.",
+      "hook": "Warnings do not test people. <strong>An easy, cheap opportunity does.</strong>",
+      "truth": "Character shows up when they think nobody is counting.\n• Leave one small thing loose that you can check exactly.\n• Do not warn them and do not watch openly.\n• Then check the number. What they do with $200 is what they will do with $200,000.",
+      "theySee": "A busy client who seems not to track the small stuff closely.",
+      "signals": [
+        {
+          "icon": "🔍",
+          "l": "Padded hours",
+          "t": "Their timesheet shows hours the calendar cannot support"
+        },
+        {
+          "icon": "📦",
+          "l": "Swapped part",
+          "t": "They install a cheaper part than the one they quoted"
+        },
+        {
+          "icon": "🧮",
+          "l": "Rounding up",
+          "t": "Every quantity rounds in their favor"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Own report",
+          "t": "They report their own numbers and resist any check"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Leave one loose item",
+          "desc": "Pick a small billable item you can verify exactly later."
+        },
+        {
+          "n": "2",
+          "title": "Say nothing for a cycle",
+          "desc": "Let one invoice or one delivery pass with no comment from you."
+        },
+        {
+          "n": "3",
+          "title": "Check it against the record",
+          "desc": "Compare their number to the calendar, delivery note, or receipt."
+        }
+      ],
+      "script": "(After finding the gap) \"Your invoice shows <strong>14 hours on Tuesday.</strong> Building access logs show four. Walk me through it.\"",
+      "example": "Victor stopped questioning small invoice lines for one month. His contractor billed 14 hours on a day the badge logs showed four. Victor showed him the logs. The contractor blamed a clerical error and credited the amount. Victor moved the whole job to fixed-price milestones and audited every invoice after that.",
+      "counter": "If someone leaves an easy opening and stays quiet, you are being tested.\n• Notice the loose item is small, checkable, and oddly unsupervised.\n• Say: <strong>\"Your access logs will show four hours. I billed four. Check them.\"</strong>\n• Report your own numbers before they ask. Volunteered accuracy ends the test.",
+      "insight": "A small theft caught early is good news. It cost you $200 to learn something worth six figures. The trap is thinking one credited invoice fixed them."
+    },
+    {
+      "id": 15,
+      "cat": "test",
+      "danger": "moderate",
+      "title": "Watch How They Handle Their Own Mistake",
+      "principle": "Laws of Human Nature: Character Under Pressure",
+      "remember": "Their first mistake tells you everything. Wait for it.",
+      "when": "Something in the deal goes wrong and it is clearly their fault.",
+      "hook": "The mistake does not matter. <strong>The first four hours after it do.</strong>",
+      "truth": "A first failure is a free x-ray of the whole relationship.\n• Note who told you: them, or you found it.\n• Note whether they brought a fix or an explanation.\n• Someone who reports their own failure early will report the big one too. Someone who hides a small one will hide everything.",
+      "theySee": "A calm client who asks what the fix is and does not shout.",
+      "signals": [
+        {
+          "icon": "📢",
+          "l": "Self-reported",
+          "t": "They tell you about the problem before you find it"
+        },
+        {
+          "icon": "🫥",
+          "l": "Found by you",
+          "t": "You discover the problem yourself, weeks later"
+        },
+        {
+          "icon": "🧯",
+          "l": "Fix attached",
+          "t": "They bring a dated fix in the same message as the bad news"
+        },
+        {
+          "icon": "🎯",
+          "l": "Blame shift",
+          "t": "Their first sentence names someone else as the cause"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the fix, not the story",
+          "desc": "Say: what is the fix and what date. Skip the explanation for now."
+        },
+        {
+          "n": "2",
+          "title": "Write down how they told you",
+          "desc": "Note whether they reported it or you found it. Keep the note."
+        },
+        {
+          "n": "3",
+          "title": "Set the reporting rule",
+          "desc": "Say: tell me within 24 hours of knowing. Late news costs you the next slice."
+        }
+      ],
+      "script": "\"I do not need the reason yet. <strong>Give me the fix and the date.</strong> Then tell me how you will make sure I hear about the next one first.\"",
+      "example": "Leah's supplier emailed on a Friday night that a batch failed inspection, with a replacement date and the extra cost he would absorb. Two months later a bigger batch failed and he called within an hour. Leah kept him and dropped a cheaper supplier who had hidden a defect for three weeks.",
+      "counter": "If someone stays calm about your mistake and asks only for the fix, they are grading you.\n• Notice they skip the argument and ask for a date.\n• Say: <strong>\"Here is the fix, here is the date, and I am covering the cost.\"</strong>\n• Report the next one within 24 hours. That is the whole test.",
+      "insight": "How they handle a small failure predicts the big one. The harder call is what to do when they pass the character test and still cannot do the work."
+    },
+    {
+      "id": 16,
+      "cat": "breach",
+      "danger": "high",
+      "title": "Act On The First Small Break, Not The Third",
+      "principle": "Broken Windows × Schelling: Credible Threat",
+      "remember": "Answer the first small break. Silence invites a bigger one.",
+      "when": "They miss a small deadline or shave a small number for the first time.",
+      "hook": "They are not testing your patience. <strong>They are testing whether you count.</strong>",
+      "truth": "The first break is a probe. Your answer sets the price of the next one.\n• Respond in writing within 24 hours, small and factual.\n• Attach one consequence you will actually apply.\n• Do it while the stakes are tiny. By the third break you are negotiating from a hole.",
+      "theySee": "A partner who writes a short, unemotional email the same day.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "Small slip",
+          "t": "They miss a minor date and do not mention it"
+        },
+        {
+          "icon": "🔇",
+          "l": "No apology",
+          "t": "They deliver late and act like nothing happened"
+        },
+        {
+          "icon": "📈",
+          "l": "Growing gap",
+          "t": "Each delay is longer than the one before"
+        },
+        {
+          "icon": "🧊",
+          "l": "Test tone",
+          "t": "They watch your reaction more than they fix the problem"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write it the same day",
+          "desc": "Send four lines: what was due, what came, the date, the consequence."
+        },
+        {
+          "n": "2",
+          "title": "Apply one small consequence",
+          "desc": "Hold a slice, invoice the late fee, or pause the next stage. Small but real."
+        },
+        {
+          "n": "3",
+          "title": "Confirm the next date",
+          "desc": "Ask them to confirm the next date in writing before work restarts."
+        }
+      ],
+      "script": "\"The test build was due Tuesday and arrived Friday. <strong>I am holding the 25% slice until the next date is met.</strong> Confirm March 3 in writing today.\"",
+      "example": "Hassan's vendor was four days late on a minor deliverable. He emailed the same day and held a $6,000 slice. The vendor hit every date for the rest of the contract. His colleague let the same vendor slide twice and finished eleven weeks late.",
+      "counter": "If someone answers your first small slip with a written consequence, they run a tight deal.\n• Notice the email is short, dated, and names a specific hold.\n• Say: <strong>\"Fair. New date is March 3. Here it is in writing.\"</strong>\n• Hit that date exactly. One clean recovery buys back most of the trust.",
+      "insight": "Early enforcement is cheap and works on most people. It does nothing for someone who has already decided to stop paying you. Then you need what you can take back."
+    },
+    {
+      "id": 17,
+      "cat": "breach",
+      "danger": "high",
+      "title": "Stop The Work Before You Start The Argument",
+      "principle": "Sun Tzu: Do Not Fight From a Weak Position",
+      "remember": "Stop the work first. Argue after.",
+      "when": "They miss a payment and ask you to keep working while you sort it out.",
+      "hook": "Every hour you keep working, you fund their side of the argument. <strong>Stop first. Talk second.</strong>",
+      "truth": "Unpaid work is a loan you never agreed to make.\n• Stop the work the day the payment is late, before you send any complaint.\n• Tell them plainly that work restarts when the payment clears.\n• Most people argue while still delivering. That teaches the other side that talk is enough.",
+      "theySee": "A partner who stops delivering and stays polite about it.",
+      "signals": [
+        {
+          "icon": "💤",
+          "l": "Sorted soon",
+          "t": "They say accounts will sort it out next week"
+        },
+        {
+          "icon": "🏃",
+          "l": "Keep going",
+          "t": "They ask you to keep working during the dispute"
+        },
+        {
+          "icon": "🧩",
+          "l": "New scope",
+          "t": "They add new requests while an invoice sits unpaid"
+        },
+        {
+          "icon": "📵",
+          "l": "Signer missing",
+          "t": "The person who signs payments stops replying"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pause the work today",
+          "desc": "Stop delivery and access on the day the payment is late. No warning shot."
+        },
+        {
+          "n": "2",
+          "title": "Send four lines",
+          "desc": "State the invoice, the date, that work is paused, and what restarts it."
+        },
+        {
+          "n": "3",
+          "title": "Give them one route back",
+          "desc": "Offer one clear path: payment clears, work resumes same day."
+        }
+      ],
+      "script": "\"Invoice 214 was due the 5th. <strong>Work is paused as of today.</strong> The hour it clears, we are back on it. Nothing else changes.\"",
+      "example": "Rafael's client sat on a $22,000 invoice while asking for two new features. He paused all work and sent four lines. The client paid in three days and apologized for accounting. A freelancer on the same account kept working through the dispute and was owed $60,000 four months later.",
+      "counter": "If a supplier pauses on you, do not negotiate the pause.\n• Notice they stop access and stay calm and specific.\n• Say: <strong>\"Payment goes out today. Send me the confirmation number when it lands.\"</strong>\n• Pay it and rebuild speed. Fighting a justified pause costs you weeks.",
+      "insight": "Stopping work protects what is left. It does not get back what you already gave away, and that is a different card."
+    },
+    {
+      "id": 18,
+      "cat": "breach",
+      "danger": "extreme",
+      "title": "Take Back What You Can Reach Today",
+      "principle": "Machiavelli: Discourses — Act Before the Enemy Consolidates",
+      "remember": "Recover what you can reach now. Chase the rest later.",
+      "when": "You are sure they will not pay and they still hold your work, access, or property.",
+      "hook": "Lawyers take months. <strong>Access, keys, and stock take one afternoon.</strong>",
+      "truth": "In a real break, speed beats being right.\n• List what you can recover today with no permission: access, files, unshipped stock, deposits.\n• Take those back first, then send the notice.\n• Everyone announces the dispute and then discovers their access is already gone.",
+      "theySee": "A partner who goes quiet for one day and then sends a formal notice.",
+      "signals": [
+        {
+          "icon": "🔓",
+          "l": "Shared access",
+          "t": "You still hold admin access to their systems"
+        },
+        {
+          "icon": "🚚",
+          "l": "Unshipped stock",
+          "t": "Goods sit in your warehouse, already paid for by nobody"
+        },
+        {
+          "icon": "⏳",
+          "l": "Grace window",
+          "t": "They still expect you to act slowly and politely"
+        },
+        {
+          "icon": "📑",
+          "l": "Notice clause",
+          "t": "Your contract sets a notice period you must respect"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List what you can reach",
+          "desc": "Write every item you can recover today without their approval."
+        },
+        {
+          "n": "2",
+          "title": "Recover it in one pass",
+          "desc": "Change access, hold shipments, and secure files in a single sitting."
+        },
+        {
+          "n": "3",
+          "title": "Send the notice after",
+          "desc": "Then email the breach notice with the invoice, the dates, and your demand."
+        }
+      ],
+      "script": "\"Per section 9, <strong>the contract is suspended for non-payment as of today.</strong> Access is revoked and delivery is on hold. Payment of $48,000 restores both.\"",
+      "example": "Iris saw her client's payments stop and heard about layoffs. In one afternoon she pulled admin access, held two undelivered files, and kept a crate in her warehouse. Then she sent the notice. She recovered $31,000 of $48,000 in two weeks. The client's other suppliers filed as creditors and got nothing.",
+      "counter": "If a partner suddenly revokes access, assume they are locking down.\n• Notice the quiet day, then a formal notice quoting a clause.\n• Say: <strong>\"Payment is authorized today. Restore access and I will confirm the wire.\"</strong>\n• Pay the smallest amount that reopens access, then move your critical items out.",
+      "insight": "Fast recovery gets you the reachable half. The unreachable half is a court problem, and courts pay slowly. The next question is whether you fight or price the loss and move."
+    },
+    {
+      "id": 19,
+      "cat": "lock",
+      "danger": "moderate",
+      "title": "Write Down What Happened While It Is Fresh",
+      "principle": "Documentation as Deterrence",
+      "remember": "Write the record within a week. Memory fades. Paper does not.",
+      "when": "The deal ends badly and you are tempted to move on and forget it.",
+      "hook": "You will forget the dates in three weeks. <strong>They are counting on that.</strong>",
+      "truth": "A clean written record is worth more than anger.\n• Write the dates, amounts, and quotes in one file within a week.\n• Attach the emails and invoices in order.\n• Two years later this file settles a claim in a day. Without it you have a story, not a case.",
+      "theySee": "A former partner who sends a short factual summary and nothing else.",
+      "signals": [
+        {
+          "icon": "🗂️",
+          "l": "Scattered proof",
+          "t": "Your evidence sits across chat, email, and memory"
+        },
+        {
+          "icon": "🕰️",
+          "l": "Fading dates",
+          "t": "You already argue with yourself about which week it was"
+        },
+        {
+          "icon": "🗑️",
+          "l": "Deleted thread",
+          "t": "They delete a shared channel or remove you from it"
+        },
+        {
+          "icon": "📨",
+          "l": "Verbal shift",
+          "t": "They move important requests from email to phone calls"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Build one file this week",
+          "desc": "Put every date, amount, and quote in one document, in order."
+        },
+        {
+          "n": "2",
+          "title": "Export the messages",
+          "desc": "Save the email and chat threads as PDF. Do not rely on their platform."
+        },
+        {
+          "n": "3",
+          "title": "Send them the summary",
+          "desc": "Email a short factual timeline and ask them to correct anything wrong."
+        }
+      ],
+      "script": "\"For the record, here is the timeline: <strong>invoice 214 issued Jan 5, work paused Feb 8, $48,000 outstanding.</strong> Correct anything you think is wrong by Friday.\"",
+      "example": "Owen built a dated file the week his contract collapsed and emailed the timeline. The other side never corrected it. Fourteen months later their lawyer challenged the dates. Owen sent the unanswered email. The claim settled in nine days for $41,000.",
+      "counter": "If someone sends you a factual timeline after a fight, they are building a file.\n• Notice the email is calm, dated, and asks you to correct it.\n• Say: <strong>\"Two corrections: the pause was Feb 12, and the scope change was approved by email Jan 22.\"</strong>\n• Correct it in writing the same week. Silence gets read as agreement.",
+      "insight": "The file protects you from them. It also protects you from your own memory, which will make you the hero. The harder part is whether you tell anyone else."
+    },
+    {
+      "id": 20,
+      "cat": "lock",
+      "danger": "high",
+      "title": "Decide Who Hears About It And Who Does Not",
+      "principle": "Gracián: Reputation Is Managed, Not Announced",
+      "remember": "Tell the few people who matter. Say nothing in public.",
+      "when": "The deal is over and you want to warn people about them.",
+      "hook": "Public anger makes you the story. <strong>Three quiet calls end them in your market.</strong>",
+      "truth": "Reputation moves through small rooms, not big ones.\n• Tell three people who buy from them, in private, with facts only.\n• Say what happened and the amount. No adjectives, no name-calling.\n• A public post makes you look risky and invites a defamation letter. A private fact travels further and costs you nothing.",
+      "theySee": "A former partner who says nothing online and answers questions honestly when asked.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Reference calls",
+          "t": "Their next buyer calls you for a reference"
+        },
+        {
+          "icon": "⚖️",
+          "l": "Legal threat",
+          "t": "They threaten a defamation claim over your comments"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same pattern",
+          "t": "Two other people tell you the same story about them"
+        },
+        {
+          "icon": "🤝",
+          "l": "Quiet ask",
+          "t": "A peer asks you privately if they should sign with them"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick three names",
+          "desc": "List three people in your market who will deal with them next."
+        },
+        {
+          "n": "2",
+          "title": "Give facts, not verdicts",
+          "desc": "Tell each one the dates and the amount. Let them draw their own conclusion."
+        },
+        {
+          "n": "3",
+          "title": "Stay silent in public",
+          "desc": "Post nothing. Write no reviews. Keep the record in the file, not online."
+        }
+      ],
+      "script": "(On a call) \"You asked about Reyes. <strong>He owed me $48,000 and stopped paying in February. I have the invoices.</strong> Your call — I am not telling you what to do.\"",
+      "example": "Dana had three quiet calls after a partner stiffed her $48,000. She gave dates and amounts only. Within a year two of those firms had passed on him and one mentioned it to a fourth. He never sent a legal letter, because there was nothing public to point at.",
+      "counter": "If your name comes back damaged from private calls, someone is running this on you.\n• Notice new prospects go cold with no reason given.\n• Say: <strong>\"If you heard something about the Reyes job, ask me. I will send you the file.\"</strong>\n• Send documents, not denials. Paper beats a counter-rumor every time.",
+      "insight": "Quiet facts protect you and cost them more than a public fight would. The next question is whether you would take a deal with them again at triple the price and full escrow — and what your answer says about the last twenty cards."
+    }
+  ]
+}

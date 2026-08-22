@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 7,
+  "manifestVersion": 8,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -52,7 +52,20 @@
       "url": "playbooks/playbook-srv-two-bosses-one-you.json",
       "addedAt": "2026-08-22T20:27:15.150Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-making-a-deal-with-someone-you-can-t-trust",
+      "title": "Making a Deal With Someone You Can't Trust",
+      "theme": "negotiation",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#1F3A5F",
+      "coverIcon": "🤝",
+      "url": "playbooks/playbook-srv-making-a-deal-with-someone-you-can-t-trust.json",
+      "addedAt": "2026-08-22T20:28:10.870Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-22T20:27:15.150Z"
+  "generatedAt": "2026-08-22T20:28:10.870Z"
 }
