@@ -1,0 +1,941 @@
+{
+  "meta": {
+    "id": "srv-talking-to-police-during-a-stop",
+    "version": "1.0",
+    "title": "Talking To Police During A Stop",
+    "subtitle": "What to say, what to hand over, and when to stop talking",
+    "description": "Sixteen cards on the traffic stop and the street stop. What the officer is legally fishing for, what your words hand them, and the exact lines that end the fishing without turning a ticket into an arrest. Field manual voice. No lectures, no legal theory — scripts you can say with your hands on the wheel.",
+    "author": "AI",
+    "createdAt": "2026-08-22T04:03:46.436Z",
+    "tags": [
+      "police",
+      "traffic stop",
+      "rights",
+      "interrogation",
+      "de-escalation",
+      "search",
+      "questioning",
+      "legal"
+    ],
+    "totalCards": 16,
+    "isSeeded": true,
+    "coverColor": "#1B2A41",
+    "coverIcon": "🚔",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "first60",
+      "label": "The First 60 Seconds",
+      "color": "#3D5A80"
+    },
+    {
+      "key": "questions",
+      "label": "Their Questions",
+      "color": "#7B4B94"
+    },
+    {
+      "key": "search",
+      "label": "Searches And Consent",
+      "color": "#B0413E"
+    },
+    {
+      "key": "silence",
+      "label": "Silence And Counsel",
+      "color": "#2F6F5E"
+    },
+    {
+      "key": "exit",
+      "label": "Ending The Stop",
+      "color": "#C77D2E"
+    },
+    {
+      "key": "after",
+      "label": "After It Ends",
+      "color": "#4A4E69"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "first60",
+      "danger": "moderate",
+      "title": "Set The Scene Before They Reach Your Window",
+      "principle": "Loss Aversion — Threat Reduction Before Contact",
+      "remember": "Hands on the wheel. Dome light on. Engine off.",
+      "when": "You see the lights behind you and you are pulling onto the shoulder.",
+      "hook": "The officer decides how this goes in the ten seconds before they speak. <strong>You control those ten seconds.</strong>",
+      "truth": "An officer walks up scared. Everything after that runs off how scared.\n• Visible hands and light cut the fear before the first word.\n• A calm approach means fewer commands, fewer orders, less force.\n• Most people reach for the glovebox early. That reach is what starts the shouting.",
+      "theySee": "A driver sitting still with both hands on top of the steering wheel and the inside light on.",
+      "signals": [
+        {
+          "icon": "🔦",
+          "l": "Flashlight sweep",
+          "t": "They sweep the light across your back seat before they speak."
+        },
+        {
+          "icon": "🚶",
+          "l": "Approach angle",
+          "t": "They walk up behind your door pillar, not straight to your window."
+        },
+        {
+          "icon": "✋",
+          "l": "Hand position",
+          "t": "They keep one hand near their belt while they talk."
+        },
+        {
+          "icon": "📻",
+          "l": "Radio pause",
+          "t": "They stop at the trunk and talk into their shoulder radio."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull over fast and turn the engine off",
+          "desc": "Signal, stop on the widest shoulder you can reach, and turn the key off."
+        },
+        {
+          "n": "2",
+          "title": "Turn on the inside light",
+          "desc": "At night, turn the dome light on so they can see the whole cabin."
+        },
+        {
+          "n": "3",
+          "title": "Put both hands on the wheel and leave them there",
+          "desc": "Do not open the glovebox. Wait until they ask for the papers, then say where you will reach."
+        }
+      ],
+      "script": "\"My license is in my back pocket and the registration is in the glovebox. <strong>Tell me which one you want and I'll get it slow.</strong>\"",
+      "example": "Marcus got pulled over at 11pm on a dark county road. He stopped, killed the engine, flipped the dome light on, and put both hands high on the wheel. The deputy walked up, saw the empty seats, and dropped his hand off his belt. The stop ended in four minutes with a warning.",
+      "counter": "If someone tells you to \"just relax\" while their own body stays tense, they are managing you, not calming you.\n• Watch the hands, not the voice. Hands tell you the real read.\n• Say: <strong>\"I'm calm. I'd like to know why you stopped me.\"</strong>\n• Match your body to your words. Stillness reads as truth.",
+      "insight": "Every card after this one costs you nothing only if the first sixty seconds went clean. The harder part is holding this stillness while they ask questions built to make you move."
+    },
+    {
+      "id": 2,
+      "cat": "first60",
+      "danger": "low",
+      "title": "Hand Over The Documents And Nothing Else",
+      "principle": "Compliance Ladder — Separate Legal Duty From Voluntary Help",
+      "remember": "Give the papers. Do not give the story.",
+      "when": "The officer asks for your license, registration, and insurance.",
+      "hook": "You owe them three pieces of paper. <strong>You do not owe them a conversation.</strong>",
+      "truth": "There are two piles in every stop: what the law requires, and what you volunteer.\n• The papers are required. Almost nothing else is.\n• When you hand papers over in silence, they must build the case alone.\n• Most drivers narrate while they dig. That narration is the whole case.",
+      "theySee": "A driver who hands over three documents, says one short sentence, and then stops talking.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "Paper stack",
+          "t": "They ask for all three documents at once and hold out a hand."
+        },
+        {
+          "icon": "🕰️",
+          "l": "Long look",
+          "t": "They read your license far longer than they need to."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Open prompt",
+          "t": "They ask a wide question while you dig through the glovebox."
+        },
+        {
+          "icon": "👂",
+          "l": "Silence bait",
+          "t": "They say nothing after you hand the papers over."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say where you will reach before you reach",
+          "desc": "Name the pocket or the glovebox out loud, then move slow."
+        },
+        {
+          "n": "2",
+          "title": "Hand over all three and put your hands back on the wheel",
+          "desc": "License, registration, insurance. Then hands visible again."
+        },
+        {
+          "n": "3",
+          "title": "Answer their question with the papers only",
+          "desc": "If they ask something while you dig, say \"one second\" and keep digging."
+        }
+      ],
+      "script": "\"Here's my license, registration, and insurance. <strong>That's everything I have.</strong>\"",
+      "example": "Priya got stopped for a broken taillight. The trooper asked \"where are you headed tonight?\" while she reached for her insurance card. She said \"one second,\" handed him all three documents, and put her hands back on the wheel. He wrote the fix-it ticket and never asked again.",
+      "counter": "If someone asks for something small while you are busy, they are using your split attention.\n• Notice the question that arrives while your hands are full.\n• Say: <strong>\"Give me a second — I want to hear that properly.\"</strong>\n• Finish the task, then answer clean or not at all.",
+      "insight": "Silence while you hand things over is easy. This works until they ask the friendly question — and the friendly question is the sharpest tool they own."
+    },
+    {
+      "id": 3,
+      "cat": "questions",
+      "danger": "moderate",
+      "title": "Do Not Answer Where You Are Coming From",
+      "principle": "Reid Technique — Baseline Fishing",
+      "remember": "Your travel story is evidence. Do not give one.",
+      "when": "The officer asks where you are coming from or where you are going.",
+      "hook": "That is not small talk. <strong>It is the first question of an interview you did not agree to.</strong>",
+      "truth": "They ask about your night so they can compare your answer to what they find later.\n• Every detail you give becomes a fact they can test.\n• Two drivers in one car with two different stories is enough for more questions.\n• Most people answer because it feels rude not to. Rude is not illegal.",
+      "theySee": "A driver who answers a friendly question with a short, polite line that gives no detail.",
+      "signals": [
+        {
+          "icon": "🍺",
+          "l": "Bar probe",
+          "t": "They ask if you came from a restaurant or a bar."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Time check",
+          "t": "They ask what time you left the house."
+        },
+        {
+          "icon": "👥",
+          "l": "Split test",
+          "t": "They ask your passenger the same question separately."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat ask",
+          "t": "They ask about your route a second time in different words."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer with one flat sentence",
+          "desc": "Say you would rather not discuss your night, then stop."
+        },
+        {
+          "n": "2",
+          "title": "Do not fill the gap",
+          "desc": "They will go quiet on purpose. Let the quiet sit."
+        },
+        {
+          "n": "3",
+          "title": "Point back at the ticket",
+          "desc": "Ask if there is anything else they need for the citation."
+        }
+      ],
+      "script": "\"<strong>I'd rather not talk about my night.</strong> Is there anything else you need for the ticket?\"",
+      "example": "Devon was stopped at a checkpoint at 1am. The officer asked, twice, where he had been. Both times Devon said the same eleven words and nothing more. The officer ran his license, handed it back, and waved him through.",
+      "counter": "If someone opens with warm questions about your day before they get to the point, they are building a baseline.\n• Notice the questions that have nothing to do with the reason you are here.\n• Say: <strong>\"Let's start with what you need from me.\"</strong>\n• Keep every answer under ten words until the real topic arrives.",
+      "insight": "Declining sounds harsh in your head and lands flat in real life. The real trap is the follow-up: they will act hurt, and most people apologize with information."
+    },
+    {
+      "id": 4,
+      "cat": "questions",
+      "danger": "high",
+      "title": "Never Guess Your Own Speed",
+      "principle": "Admission Against Interest",
+      "remember": "Do you know why I stopped you? No, I don't.",
+      "when": "The officer asks if you know why they pulled you over or how fast you were going.",
+      "hook": "That question has one purpose. <strong>They want you to write the ticket for them.</strong>",
+      "truth": "A guess is a confession with a question mark on it.\n• Any number you say becomes your own admission in court.\n• If you say \"maybe 75,\" the radar reading no longer matters.\n• Most people guess low to look honest. Low is still over the limit.",
+      "theySee": "A driver who says two words, shrugs, and waits without looking guilty.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Open bait",
+          "t": "They ask if you know why they stopped you."
+        },
+        {
+          "icon": "🔢",
+          "l": "Number ask",
+          "t": "They ask what speed you think you were doing."
+        },
+        {
+          "icon": "📝",
+          "l": "Pen ready",
+          "t": "They hold the pen over the pad before you answer."
+        },
+        {
+          "icon": "🤝",
+          "l": "False deal",
+          "t": "They hint that honesty will get you a warning."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say you do not know",
+          "desc": "Two words. Do not add a theory, a guess, or an excuse."
+        },
+        {
+          "n": "2",
+          "title": "Make them state the reason",
+          "desc": "Ask them what the violation was. Let them commit to it."
+        },
+        {
+          "n": "3",
+          "title": "Write it down when they leave",
+          "desc": "Note the speed they claimed and the exact spot. You will need it."
+        }
+      ],
+      "script": "\"<strong>No, I don't.</strong> What did you clock me at?\"",
+      "example": "Elena got stopped on a highway on-ramp. The trooper asked how fast she thought she was going. She said \"I honestly don't know — what did you get?\" He said 68. In court, the radar log showed a calibration gap and the ticket died. She had never admitted a number.",
+      "counter": "If someone asks you to name your own mistake before they name it, they want your version on record.\n• Notice any question that asks you to guess against yourself.\n• Say: <strong>\"You tell me what you saw and I'll respond to that.\"</strong>\n• Make them go first. Every time.",
+      "insight": "Saying \"I don't know\" is free. The harder part is the pause after it, when they stare and wait for you to fill it."
+    },
+    {
+      "id": 5,
+      "cat": "questions",
+      "danger": "high",
+      "title": "Answer Am I Free To Go Instead Of Their Question",
+      "principle": "Terry v. Ohio — Detention Versus Consensual Encounter",
+      "remember": "Ask if you can leave. Their answer tells you everything.",
+      "when": "The officer keeps asking questions after they have handed back your license.",
+      "hook": "Once the paperwork is done, the stop should be over. <strong>If it isn't, they need a reason — make them show it.</strong>",
+      "truth": "There are only two kinds of contact: you are free, or you are held.\n• The question forces them to pick one out loud.\n• If they say free, the questions were never required.\n• If they say held, the clock on their reason starts and it is short.",
+      "theySee": "A driver who asks one calm question and then waits without arguing.",
+      "signals": [
+        {
+          "icon": "🎫",
+          "l": "Papers returned",
+          "t": "They hand your license back but keep standing at your window."
+        },
+        {
+          "icon": "🌀",
+          "l": "Extra questions",
+          "t": "They start a new topic after the ticket is written."
+        },
+        {
+          "icon": "🚗",
+          "l": "Second unit",
+          "t": "A second car pulls up behind with no new lights."
+        },
+        {
+          "icon": "🐕",
+          "l": "Dog mention",
+          "t": "They mention a K9 unit is on the way."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the question once, flat",
+          "desc": "Say the words \"Am I free to go?\" and nothing else."
+        },
+        {
+          "n": "2",
+          "title": "Listen for the exact answer",
+          "desc": "\"Free\" means leave. \"Not yet\" means say nothing more."
+        },
+        {
+          "n": "3",
+          "title": "If they say not yet, ask what you are held for",
+          "desc": "Ask what crime they suspect. Then stop talking."
+        }
+      ],
+      "script": "\"<strong>Am I free to go?</strong>\" — and if they say no — \"What are you holding me for?\"",
+      "example": "Sam got his license back after a seatbelt ticket. The deputy kept talking about drug traffic on that road. Sam asked \"Am I free to go?\" The deputy paused, said \"yeah, drive safe,\" and stepped back. The K9 unit arrived two minutes after Sam left.",
+      "counter": "If someone keeps a conversation going after the business is finished, they want more than the business.\n• Notice the moment the real reason has already been handled.\n• Say: <strong>\"Are we done, or is there something else you need?\"</strong>\n• Force them to name a reason for the extra time.",
+      "insight": "The question is four words and most people never say them. This works until they say \"not yet\" — and then the next card is the one that matters."
+    },
+    {
+      "id": 6,
+      "cat": "search",
+      "danger": "extreme",
+      "title": "Say No To The Search Every Time",
+      "principle": "Fourth Amendment — Consent Waives The Warrant Requirement",
+      "remember": "I do not consent to searches. Say it, then stop.",
+      "when": "The officer asks if they can take a quick look in your car.",
+      "hook": "They ask because they cannot. <strong>The question is the tell.</strong>",
+      "truth": "If they had the legal right, they would search — not ask.\n• Consent erases every argument your lawyer would have had later.\n• Saying no does not create suspicion the law can use.\n• Most people say yes because they have nothing to hide. Their car does.",
+      "theySee": "A driver who says one short refusal in a normal voice and does not argue after.",
+      "signals": [
+        {
+          "icon": "🔍",
+          "l": "Quick look",
+          "t": "They ask to take a quick look and call it routine."
+        },
+        {
+          "icon": "🧊",
+          "l": "Nothing to hide",
+          "t": "They say you have nothing to worry about if you are clean."
+        },
+        {
+          "icon": "⏳",
+          "l": "Time threat",
+          "t": "They say a refusal will make this take much longer."
+        },
+        {
+          "icon": "🚪",
+          "l": "Door reach",
+          "t": "They put a hand on your door handle while they ask."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Refuse in one sentence",
+          "desc": "Say you do not consent to any searches. Use those words."
+        },
+        {
+          "n": "2",
+          "title": "Do not explain why",
+          "desc": "No reasons. Reasons sound like something to hide."
+        },
+        {
+          "n": "3",
+          "title": "Repeat the same words if they ask again",
+          "desc": "Say the identical sentence. Do not soften it the second time."
+        }
+      ],
+      "script": "\"<strong>I don't consent to any searches.</strong>\"",
+      "example": "Rashid was stopped for a rolling stop. The officer asked twice to look in the trunk. Rashid said the same seven words both times. The officer wrote the ticket and let him go. The car was never opened.",
+      "counter": "If someone asks permission for something they could just take, they lack the authority to take it.\n• Notice that they are asking instead of doing.\n• Say: <strong>\"I'm not giving permission. Do what you're allowed to do.\"</strong>\n• Never explain the refusal. Explanation reopens the ask.",
+      "insight": "Refusing costs you a longer stop and nothing else. The harder part is holding the same words the fourth time they ask, in a calmer voice, like a favor."
+    },
+    {
+      "id": 7,
+      "cat": "search",
+      "danger": "high",
+      "title": "Do Not Argue When They Search Anyway",
+      "principle": "Object On The Record, Not With Your Body",
+      "remember": "Say you object. Then let them. Fight it in court.",
+      "when": "You refused, and the officer starts opening your doors regardless.",
+      "hook": "You cannot win this on the roadside. <strong>You can win it later, if you stay quiet now.</strong>",
+      "truth": "A roadside argument turns a bad search into a new charge.\n• Your objection only needs to be said once, out loud, on camera.\n• Physical resistance gives them a fresh crime that has nothing to do with the search.\n• Most people repeat the objection ten times. Ten times reads as interference.",
+      "theySee": "A driver standing still with hands visible, saying one sentence and then watching.",
+      "signals": [
+        {
+          "icon": "🚙",
+          "l": "Door open",
+          "t": "They open your door without asking again."
+        },
+        {
+          "icon": "🧤",
+          "l": "Gloves on",
+          "t": "They pull gloves on before they speak to you."
+        },
+        {
+          "icon": "📢",
+          "l": "Order shift",
+          "t": "Their questions turn into commands."
+        },
+        {
+          "icon": "🎥",
+          "l": "Camera turn",
+          "t": "They step out of their body camera's view."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State the objection once, clearly",
+          "desc": "Say you do not consent and that you are not resisting."
+        },
+        {
+          "n": "2",
+          "title": "Step back and keep your hands out",
+          "desc": "Do not reach into the car. Do not block a door."
+        },
+        {
+          "n": "3",
+          "title": "Watch and remember what they touch",
+          "desc": "Note which spaces they open and in what order."
+        }
+      ],
+      "script": "\"<strong>I don't consent to this search and I'm not resisting.</strong> I'll stand right here.\"",
+      "example": "Tanya refused a search. The deputy opened her back door anyway. She said one sentence, stepped onto the grass, and kept her hands at her sides. Her lawyer used her recorded objection to throw the search out four months later.",
+      "counter": "If someone takes what you refused, they are betting you will escalate and hand them a bigger reason.\n• Notice the moment your protest becomes their new evidence.\n• Say: <strong>\"Noted. I'm not fighting you on this.\"</strong>\n• Log the details in writing within the hour.",
+      "insight": "Losing quietly is a move, not a surrender. The real trap is the anger that shows up twenty minutes later, on the phone, saying things a lawyer would hate."
+    },
+    {
+      "id": 8,
+      "cat": "search",
+      "danger": "high",
+      "title": "Keep The Passengers Quiet Before You Get Stopped",
+      "principle": "Split Interview — Story Inconsistency As Probable Cause",
+      "remember": "Decide the rule before the lights. Nobody talks but the driver.",
+      "when": "You drive with friends late at night and one of them likes to explain things.",
+      "hook": "You can run this perfectly and still lose. <strong>Your passenger's mouth is the leak.</strong>",
+      "truth": "Officers separate people on purpose and compare the answers.\n• Two versions of the same night is all they need to keep you there.\n• A nervous passenger who over-explains looks worse than silence.\n• Most drivers never set the rule in advance. The rule only works in advance.",
+      "theySee": "A car where the driver talks and everyone else looks straight ahead with hands visible.",
+      "signals": [
+        {
+          "icon": "🪟",
+          "l": "Window walk",
+          "t": "They walk to the passenger window and start a separate chat."
+        },
+        {
+          "icon": "🆔",
+          "l": "Passenger ID",
+          "t": "They ask your passengers for identification."
+        },
+        {
+          "icon": "↔️",
+          "l": "Story compare",
+          "t": "They tell you your friend said something different."
+        },
+        {
+          "icon": "🚶‍♂️",
+          "l": "Pull aside",
+          "t": "They ask one passenger to step out and walk back with them."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set the rule in the driveway",
+          "desc": "Tell everyone: only the driver speaks, everyone else says one line."
+        },
+        {
+          "n": "2",
+          "title": "Give them the exact line",
+          "desc": "Teach them: \"I'd rather not answer questions.\" Nothing else."
+        },
+        {
+          "n": "3",
+          "title": "If a passenger starts talking, do not correct them out loud",
+          "desc": "Stay quiet. Correcting them on the roadside proves you coached them."
+        }
+      ],
+      "script": "(To your friends, before you drive) \"<strong>If we get stopped, I do the talking. You say 'I'd rather not answer questions' and that's it.</strong>\"",
+      "example": "Jordan drove three friends home from a party. He set the rule at the curb. The trooper asked each passenger where they had been; all three gave the same eleven words. The trooper ran out of angles and wrote a warning for the plate light.",
+      "counter": "If someone questions your group one person at a time, they are hunting for two versions of one story.\n• Notice when they split you up before they ask anything real.\n• Say: <strong>\"I'd rather we all talk together or not at all.\"</strong>\n• Keep every answer identical and short.",
+      "insight": "You control your own mouth easily. This works until the friend in the back seat wants to be helpful — and helpful people talk."
+    },
+    {
+      "id": 9,
+      "cat": "silence",
+      "danger": "moderate",
+      "title": "Say Out Loud That You Are Using The Right To Silence",
+      "principle": "Berghuis v. Thompkins — Silence Must Be Invoked, Not Assumed",
+      "remember": "Going quiet is not enough. You have to say it.",
+      "when": "The questions turn from your license to what you did tonight.",
+      "hook": "Just shutting your mouth does not protect you. <strong>Quiet can be used against you. The sentence cannot.</strong>",
+      "truth": "The right only turns on when you name it.\n• Sitting silent looks like guilt and gives them room to keep asking.\n• The spoken line ends the legal questioning and creates a record.\n• Most people think silence is automatic. It is not — it is a claim you make.",
+      "theySee": "A person who says one clear sentence, then answers nothing at all.",
+      "signals": [
+        {
+          "icon": "🔄",
+          "l": "Same question",
+          "t": "They ask the same thing a third time in softer words."
+        },
+        {
+          "icon": "🤗",
+          "l": "Friend turn",
+          "t": "They tell you they are trying to help you out here."
+        },
+        {
+          "icon": "📉",
+          "l": "Deal offer",
+          "t": "They say it goes easier for people who cooperate."
+        },
+        {
+          "icon": "🧾",
+          "l": "Statement push",
+          "t": "They ask you to just tell your side of it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the sentence once",
+          "desc": "Tell them you are using your right to stay silent."
+        },
+        {
+          "n": "2",
+          "title": "Then actually stay silent",
+          "desc": "No small talk. No jokes. No last clarification."
+        },
+        {
+          "n": "3",
+          "title": "Repeat the same sentence if they restart",
+          "desc": "Same words, same tone. Do not add anything new."
+        }
+      ],
+      "steps_note": "",
+      "script": "\"<strong>I'm using my right to stay silent.</strong> I'm not answering questions.\"",
+      "example": "Nadia was held on the curb for twenty minutes. She said one sentence about her right to stay silent, then said nothing for the rest of it. The officer tried four more angles. Her statement never existed, so the prosecutor had almost nothing to read.",
+      "counter": "If someone tells you that talking will make things easier for you, they need your words to build the case.\n• Notice the promise of leniency with no paperwork behind it.\n• Say: <strong>\"I'm done answering questions.\"</strong>\n• Then hold it. One sentence more undoes all of it.",
+      "insight": "The sentence is easy to say once. The harder part is the next twenty minutes, when they get warm and friendly and the quiet starts to feel rude."
+    },
+    {
+      "id": 10,
+      "cat": "silence",
+      "danger": "high",
+      "title": "Ask For A Lawyer In Plain Words",
+      "principle": "Davis v. United States — Ambiguous Requests Do Not Count",
+      "remember": "I want a lawyer. Never maybe, never I think.",
+      "when": "You are in cuffs or in the back of the car and they start asking about the case.",
+      "hook": "\"Maybe I should get a lawyer\" is legally worthless. <strong>Four words are not.</strong>",
+      "truth": "A soft request is treated as no request at all.\n• \"I want a lawyer\" must stop the questioning. \"Maybe\" does not.\n• Hedged words let them keep going and use everything after.\n• Most people hedge to stay polite. Politeness is what keeps the interview alive.",
+      "theySee": "A person who says four flat words and then stops talking completely.",
+      "signals": [
+        {
+          "icon": "🚓",
+          "l": "Back seat",
+          "t": "They keep asking questions after they put you in the car."
+        },
+        {
+          "icon": "📋",
+          "l": "Rights read",
+          "t": "They read your rights and then ask if you still want to talk."
+        },
+        {
+          "icon": "🕐",
+          "l": "Delay talk",
+          "t": "They say a lawyer will take hours to arrive."
+        },
+        {
+          "icon": "🙃",
+          "l": "Guilt hint",
+          "t": "They ask why you need a lawyer if you did nothing."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the four words, no softeners",
+          "desc": "Say \"I want a lawyer.\" Do not add \"I think\" or \"maybe\"."
+        },
+        {
+          "n": "2",
+          "title": "Stop talking completely",
+          "desc": "Do not answer anything after, including friendly questions."
+        },
+        {
+          "n": "3",
+          "title": "Say it again if a new officer starts",
+          "desc": "Each new person gets the same four words."
+        }
+      ],
+      "script": "\"<strong>I want a lawyer.</strong> I'm not answering any more questions.\"",
+      "example": "Carlos said \"I want a lawyer\" in the back of the cruiser. A detective tried again at the station about the weather, then about his job. Carlos repeated the four words each time. The interview file ended up nine lines long.",
+      "counter": "If someone asks why you need help when you have nothing to hide, they are shaming you out of protection.\n• Notice the guilt question aimed at your request.\n• Say: <strong>\"That's not up for discussion. I want a lawyer.\"</strong>\n• Give no reason. A reason invites a debate you lose.",
+      "insight": "Four words end the questioning on paper. The real trap is the ride to the station, where nobody is officially asking and everything still counts."
+    },
+    {
+      "id": 11,
+      "cat": "silence",
+      "danger": "extreme",
+      "title": "Do Not Explain Yourself To Look Innocent",
+      "principle": "Innocence Bias — Overtalking As Self-Incrimination",
+      "remember": "Innocent people talk themselves into charges every day.",
+      "when": "You know you did nothing wrong and you want to clear it up right now.",
+      "hook": "Your clean conscience is the most dangerous thing in the car. <strong>It makes you generous with facts.</strong>",
+      "truth": "Innocent people talk the most because they believe the truth will save them.\n• Every extra detail gives them one more thing to check against you.\n• A small wrong detail — a time, an address — turns into a lie in a report.\n• Most people believe explaining ends the stop. Explaining extends it.",
+      "theySee": "A person who stays calm and gives short answers instead of a full story.",
+      "signals": [
+        {
+          "icon": "🧩",
+          "l": "Detail hunt",
+          "t": "They ask for exact times and street names."
+        },
+        {
+          "icon": "📖",
+          "l": "Story invite",
+          "t": "They tell you to start from the beginning."
+        },
+        {
+          "icon": "🪤",
+          "l": "Wrong fact",
+          "t": "They repeat a detail back to you slightly wrong."
+        },
+        {
+          "icon": "🤔",
+          "l": "Doubt face",
+          "t": "They frown and go quiet after you finish talking."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Notice the urge to clear it up",
+          "desc": "When you feel the need to explain, that is the moment to stop."
+        },
+        {
+          "n": "2",
+          "title": "Give one line, not a story",
+          "desc": "Say you would rather sort it out with a lawyer present."
+        },
+        {
+          "n": "3",
+          "title": "Write your version down within the hour",
+          "desc": "Put times and places on paper for your lawyer, not for them."
+        }
+      ],
+      "script": "\"<strong>I didn't do anything wrong, and I'm not going to explain it here.</strong> I'll do that with a lawyer.\"",
+      "example": "Greg was stopped near a burglary call. He wanted to help, so he explained his whole evening — including a wrong time by forty minutes. That gap became \"the suspect gave inconsistent statements\" in the report. His neighbor, stopped the same night, said eleven words and was released in five minutes.",
+      "counter": "If someone invites you to tell your whole story to clear things up, they want raw material.\n• Notice the request for a full account instead of one answer.\n• Say: <strong>\"I'll give a full statement with my lawyer there.\"</strong>\n• Keep the details for the person who works for you.",
+      "insight": "Being innocent does not protect you; being brief does. The next question is whether you can stay brief while someone with a badge acts disappointed in you."
+    },
+    {
+      "id": 12,
+      "cat": "exit",
+      "danger": "high",
+      "title": "Get Out When They Order You Out",
+      "principle": "Pennsylvania v. Mimms — Lawful Order Versus Consent Request",
+      "remember": "Orders you obey. Requests you decline. Learn the difference.",
+      "when": "The officer tells you to step out of the vehicle.",
+      "hook": "Some things they ask, you refuse. <strong>This is not one of them.</strong>",
+      "truth": "Refusing a lawful order turns a ticket into handcuffs.\n• Stepping out is an order they can give. Searching is not.\n• Obeying the order costs you nothing and keeps your refusals intact.\n• Most people confuse the two and fight the wrong thing.",
+      "theySee": "A person who opens the door, steps out slowly, and keeps their hands where they show.",
+      "signals": [
+        {
+          "icon": "🗯️",
+          "l": "Command tone",
+          "t": "They say \"step out\" instead of \"would you mind\"."
+        },
+        {
+          "icon": "🚶",
+          "l": "Step back",
+          "t": "They move back from your door to make room."
+        },
+        {
+          "icon": "👐",
+          "l": "Pat prep",
+          "t": "They ask if you have anything sharp in your pockets."
+        },
+        {
+          "icon": "🅿️",
+          "l": "Curb move",
+          "t": "They point to a spot on the curb and tell you to wait there."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Do it, slowly, with your hands visible",
+          "desc": "Open the door, step out, keep both hands where they can see them."
+        },
+        {
+          "n": "2",
+          "title": "Close the door behind you",
+          "desc": "An open door invites a look inside. Shut it and step away."
+        },
+        {
+          "n": "3",
+          "title": "Say your refusals again while you stand there",
+          "desc": "Repeat that you do not consent to searches. Then be quiet."
+        }
+      ],
+      "script": "\"Okay, I'm getting out. <strong>I still don't consent to any searches of my car or my person.</strong>\"",
+      "example": "Aisha was told to step out during a stop for a tinted window. She got out, closed the door, and said she did not consent to any searches. The officer patted her jacket for weapons, found nothing, and let her back in. The car stayed shut the whole time.",
+      "counter": "If someone mixes an order and a request in one breath, they are hoping you obey both.\n• Notice which part is a command and which part is a question.\n• Say: <strong>\"I'll do what you're ordering. I'm not agreeing to the rest.\"</strong>\n• Separate them out loud so the record shows both.",
+      "insight": "Obeying the order is the cheap part. The harder part is remembering, while you stand on the curb, that your refusals still stand and still need saying."
+    },
+    {
+      "id": 13,
+      "cat": "exit",
+      "danger": "moderate",
+      "title": "Do Not Argue The Ticket On The Roadside",
+      "principle": "Sunk-Cost Anchoring — Wrong Forum, Wrong Audience",
+      "remember": "Take the ticket. Fight it where it can actually be beaten.",
+      "when": "The officer hands you a citation you believe is wrong.",
+      "hook": "He is not the judge. <strong>He is the witness, and you are about to make him a motivated one.</strong>",
+      "truth": "The roadside argument has no upside and two downsides.\n• The officer cannot cancel the ticket once it is written.\n• A fight makes him remember you and show up in court prepared.\n• Most people argue because it feels like the last chance. It is the worst one.",
+      "theySee": "A driver who takes the paper, says two words, and drives away calm.",
+      "signals": [
+        {
+          "icon": "✍️",
+          "l": "Pad out",
+          "t": "They start writing before you finish talking."
+        },
+        {
+          "icon": "🤨",
+          "l": "Court line",
+          "t": "They tell you to take it up with the judge."
+        },
+        {
+          "icon": "⏲️",
+          "l": "Clock signal",
+          "t": "They check the time and step toward their car."
+        },
+        {
+          "icon": "📑",
+          "l": "Signature ask",
+          "t": "They point at the signature line and hold out the pen."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Sign and take the paper",
+          "desc": "Signing is not admitting anything. It is a promise to appear."
+        },
+        {
+          "n": "2",
+          "title": "Say two words and stop",
+          "desc": "Say \"thank you\" and put the ticket down."
+        },
+        {
+          "n": "3",
+          "title": "Write everything down within the hour",
+          "desc": "Note weather, traffic, his exact claim, and where his car sat."
+        }
+      ],
+      "script": "\"<strong>Thank you.</strong>\" (Then nothing. Fold it and put it away.)",
+      "example": "Ben got a ticket he was sure was wrong. He said thank you and drove off. He wrote six lines of notes at the next gas station, including where the cruiser was parked. In court, the sight-line problem in his notes got the ticket dismissed.",
+      "counter": "If someone tells you to argue it later, they are moving you to a forum where they hold more cards.\n• Notice when the decision is already made and unchangeable.\n• Say: <strong>\"Understood. I'll handle it through the process.\"</strong>\n• Save your case for the room where it counts.",
+      "insight": "Silence on the roadside buys you a bored witness in three months. The next question is whether your notes are good enough to beat him."
+    },
+    {
+      "id": 14,
+      "cat": "exit",
+      "danger": "extreme",
+      "title": "Do Not Reach For Your Phone Without Saying So",
+      "principle": "Furtive Movement Doctrine",
+      "remember": "Say what you will reach for. Then reach slow.",
+      "when": "You want to start recording or call someone during the stop.",
+      "hook": "Your hand going somewhere they cannot see is the single fastest way this turns bad. <strong>Narrate first.</strong>",
+      "truth": "They cannot tell a phone from a weapon at night through a window.\n• A narrated reach is a normal event. A silent reach is a threat.\n• You may record. You may not surprise them while you do it.\n• Most people just grab the phone because it is theirs. The hand moves faster than the explanation.",
+      "theySee": "A driver who says one sentence, waits for a nod, and moves one hand slowly.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Sudden step",
+          "t": "They step back fast when your hand drops."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Sharp order",
+          "t": "Their voice jumps and they shout at you to stop."
+        },
+        {
+          "icon": "🔫",
+          "l": "Belt hand",
+          "t": "Their hand goes to their belt when you move."
+        },
+        {
+          "icon": "🙅",
+          "l": "Phone ban",
+          "t": "They tell you to put the phone down."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say what you will do before you move",
+          "desc": "Tell them you will reach for your phone with your right hand."
+        },
+        {
+          "n": "2",
+          "title": "Wait for the nod, then move slow",
+          "desc": "One hand. Keep the other on the wheel the whole time."
+        },
+        {
+          "n": "3",
+          "title": "Mount it and leave it alone",
+          "desc": "Set it on the dash and do not pick it up again."
+        }
+      ],
+      "script": "\"<strong>I'm going to reach for my phone with my right hand and set it on the dash to record.</strong> Tell me when you're ready.\"",
+      "example": "Leah wanted the stop on video. She said out loud which hand would move and where the phone would go, then waited. The deputy said \"go ahead.\" She set it on the dash and never touched it again. The footage cleared her at the hearing.",
+      "counter": "If someone moves toward something without telling you first, they are counting on your reaction time.\n• Notice hands that move while the mouth stays busy.\n• Say: <strong>\"Tell me what you're doing before you do it.\"</strong>\n• Slow the pace down until every move gets announced.",
+      "insight": "Recording protects you only if you survive the reach. The real trap is the second reach — the one you make without thinking, forty seconds later."
+    },
+    {
+      "id": 15,
+      "cat": "after",
+      "danger": "low",
+      "title": "Write Everything Down In The First Hour",
+      "principle": "Memory Decay — Contemporaneous Notes Beat Recall",
+      "remember": "Your memory is worst tomorrow. Write it tonight.",
+      "when": "The stop just ended and you are pulling back onto the road.",
+      "hook": "In three months you will remember the feeling and none of the facts. <strong>Facts win hearings.</strong>",
+      "truth": "Details die within hours and your case lives on details.\n• Notes made the same night carry real weight later.\n• Badge numbers, car numbers, and timestamps are what a lawyer works with.\n• Most people mean to write it later. Later never gets specific.",
+      "theySee": "Nobody sees this one. That is the point.",
+      "signals": [
+        {
+          "icon": "📛",
+          "l": "Badge blur",
+          "t": "You cannot recall the officer's name an hour later."
+        },
+        {
+          "icon": "🕰️",
+          "l": "Time fog",
+          "t": "You are unsure whether the stop lasted ten minutes or thirty."
+        },
+        {
+          "icon": "🚘",
+          "l": "Car number",
+          "t": "You never looked at the number on the cruiser."
+        },
+        {
+          "icon": "🎙️",
+          "l": "Quote loss",
+          "t": "You remember the tone of what they said but not the words."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull over and open your notes app",
+          "desc": "Do it at the next safe spot, not at home."
+        },
+        {
+          "n": "2",
+          "title": "Write six things",
+          "desc": "Time, place, badge and car number, what they said, what they searched, who saw it."
+        },
+        {
+          "n": "3",
+          "title": "Record a voice memo of the story",
+          "desc": "Say the whole thing out loud once while it is fresh. Save the file."
+        }
+      ],
+      "script": "(Voice memo, out loud) \"<strong>It's 11:42pm, I'm on Route 9 near the Shell station. Officer said his name was Dyer, badge 4417, car 218. He asked to search twice. I said no twice.</strong>\"",
+      "example": "Omar pulled into a parking lot two minutes after his stop and typed nine lines into his phone. Four months later, the timestamp on those notes showed the stop ran nineteen minutes past the ticket. The extra time got the evidence thrown out.",
+      "counter": "If someone rushes you off a scene before you can note anything, they are betting on your memory failing.\n• Notice the push to move along right now.\n• Say nothing. Move along, then stop and write.\n• Get the notes down before you call anyone about it.",
+      "insight": "Notes cost you five minutes and win you the whole argument. The harder part is doing it while your hands still shake and you just want to go home."
+    },
+    {
+      "id": 16,
+      "cat": "after",
+      "danger": "high",
+      "title": "Do Not Post About It Before You Call A Lawyer",
+      "principle": "Statement Against Interest — Public Version Locks You In",
+      "remember": "Post nothing. Your angry version becomes the official one.",
+      "when": "You get home angry and you want to put the story online.",
+      "hook": "The post feels like justice. <strong>In court it reads like a signed statement.</strong>",
+      "truth": "A public version of your night becomes the version you must defend.\n• Anything you post can be pulled and read back to you.\n• Small errors in an angry post get used as proof you shift stories.\n• Most people post for support. The support does not testify. The post does.",
+      "theySee": "A prosecutor reading your own words back with the timestamps attached.",
+      "signals": [
+        {
+          "icon": "📱",
+          "l": "Draft urge",
+          "t": "You start typing the story within an hour of getting home."
+        },
+        {
+          "icon": "😤",
+          "l": "Anger peak",
+          "t": "You want people to know what happened right now."
+        },
+        {
+          "icon": "👥",
+          "l": "Group chat",
+          "t": "You send the long version to friends who were not there."
+        },
+        {
+          "icon": "🎬",
+          "l": "Clip post",
+          "t": "You want to post the video before a lawyer sees it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Put the story in your notes, not online",
+          "desc": "Write it once, save it privately, and close the app."
+        },
+        {
+          "n": "2",
+          "title": "Call a lawyer before you share anything",
+          "desc": "Ask what you can say publicly and what you cannot."
+        },
+        {
+          "n": "3",
+          "title": "Keep the video, do not publish it",
+          "desc": "Back it up in two places. Hand it to your lawyer first."
+        }
+      ],
+      "script": "(To a friend who asks you to post it) \"<strong>I'm not putting anything up until my lawyer sees it.</strong> Ask me again in two weeks.\"",
+      "example": "Kiara had clean dashcam video and a furious 400-word post ready. She called a lawyer first. He told her one line in the post would have contradicted her own footage by three minutes. She never posted. The case was dropped.",
+      "counter": "If someone urges you to tell the world right now while you are angry, they benefit from your rough draft.\n• Notice the push to go public before you go quiet.\n• Say: <strong>\"I'll talk about it when it's over.\"</strong>\n• Keep the file, kill the post, call the lawyer.",
+      "insight": "The quiet week after a stop is worth more than the loudest post. The next question is whether you can hold that silence while everyone around you asks what happened."
+    }
+  ]
+}

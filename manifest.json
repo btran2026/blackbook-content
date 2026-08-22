@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 8,
+  "manifestVersion": 9,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -65,7 +65,20 @@
       "url": "playbooks/playbook-srv-making-a-deal-with-someone-you-can-t-trust.json",
       "addedAt": "2026-08-22T20:28:10.870Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-talking-to-police-during-a-stop",
+      "title": "Talking To Police During A Stop",
+      "theme": "police",
+      "topic": "",
+      "cardCount": 16,
+      "contentVersion": 1,
+      "coverColor": "#1B2A41",
+      "coverIcon": "🚔",
+      "url": "playbooks/playbook-srv-talking-to-police-during-a-stop.json",
+      "addedAt": "2026-08-22T21:24:02.521Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-22T20:28:10.870Z"
+  "generatedAt": "2026-08-22T21:24:02.521Z"
 }
