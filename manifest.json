@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 6,
+  "manifestVersion": 7,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -39,7 +39,20 @@
       "url": "playbooks/playbook-srv-the-art-of-strategic-questions.json",
       "addedAt": "2026-08-18T19:06:57.551Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-two-bosses-one-you",
+      "title": "Two Bosses, One You",
+      "theme": "workplace power",
+      "topic": "",
+      "cardCount": 16,
+      "contentVersion": 1,
+      "coverColor": "#1B1B2F",
+      "coverIcon": "🎭",
+      "url": "playbooks/playbook-srv-two-bosses-one-you.json",
+      "addedAt": "2026-08-22T20:27:15.150Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-18T19:06:57.551Z"
+  "generatedAt": "2026-08-22T20:27:15.150Z"
 }

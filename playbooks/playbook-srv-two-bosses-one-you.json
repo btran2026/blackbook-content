@@ -1,0 +1,937 @@
+{
+  "meta": {
+    "id": "srv-two-bosses-one-you",
+    "version": "1.0",
+    "title": "Two Bosses, One You",
+    "subtitle": "The field file for surviving split-command jobs.",
+    "description": "For anyone caught reporting to two people who want different things. Sixteen moves to find the real power, stay clean in the crossfire, and come out ahead when it finally blows up.",
+    "author": "AI",
+    "createdAt": "2026-08-22T17:21:38.151Z",
+    "tags": [
+      "workplace power",
+      "office politics",
+      "dual reporting",
+      "career survival",
+      "conflict"
+    ],
+    "totalCards": 16,
+    "isSeeded": true,
+    "coverColor": "#1B1B2F",
+    "coverIcon": "🎭",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "find-real-boss",
+      "label": "Find Out Which One Really Pays You",
+      "color": "#2E86AB"
+    },
+    {
+      "key": "position-before-clash",
+      "label": "Position Before The Clash",
+      "color": "#6C5B7B"
+    },
+    {
+      "key": "both-ask-at-once",
+      "label": "When Both Ask At Once",
+      "color": "#C06C4C"
+    },
+    {
+      "key": "room-together",
+      "label": "Put Them In A Room Together",
+      "color": "#8E3B46"
+    },
+    {
+      "key": "pick-side-quietly",
+      "label": "Pick A Side Without Announcing It",
+      "color": "#4C6444"
+    },
+    {
+      "key": "blows-up",
+      "label": "When It Blows Up",
+      "color": "#A13D3D"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "find-real-boss",
+      "danger": "moderate",
+      "title": "Find Out Who Signs Your Review",
+      "principle": "Power Mapping — Follow the Formal Authority",
+      "remember": "The one who scores your review outranks the one who yells loudest.",
+      "hook": "Two people give you orders. <strong>Only one decides your raise.</strong> Find that name first.",
+      "truth": "Titles lie. Only one signature moves your pay and your exit.\n• Check who fills out your official review, not who emails you most.\n• That name controls your career. The other only controls your calendar.\n• Most people guess wrong and please the loud one instead.",
+      "when": "Two managers give you daily orders and neither one outranks the other on the org chart.",
+      "theySee": "A quiet employee asking HR to confirm who is listed as their manager of record.",
+      "signals": [
+        {
+          "icon": "📋",
+          "l": "Review owner",
+          "t": "You check the HR system and see one name listed as your direct manager."
+        },
+        {
+          "icon": "💰",
+          "l": "Budget line",
+          "t": "One of them approves your raise request and the other only forwards it."
+        },
+        {
+          "icon": "🚪",
+          "l": "Exit interview",
+          "t": "HR tells you only one manager's rating counted in your last review."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Volume vs power",
+          "t": "The louder manager talks more but never appears on your pay paperwork."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check HR record",
+          "desc": "Log into the HR system today and check which name shows as your direct manager."
+        },
+        {
+          "n": "2",
+          "title": "Ask a peer who left",
+          "desc": "Text a former teammate and ask who actually signed their last review."
+        },
+        {
+          "n": "3",
+          "title": "Save the screenshot",
+          "desc": "Screenshot the org chart entry now, before anyone can change it later."
+        }
+      ],
+      "script": "\"Hey, quick HR question — can you confirm who's listed as my official manager for review purposes?\"",
+      "example": "Dana had two directors giving her tasks daily. She checked Workday and found only one, Director Park, was listed as her rating manager. She started clearing every deadline through Park first. Her review came in at the top of the scale.",
+      "counter": "If someone starts asking HR who really rates you, they're mapping the real power before you notice.\n• Notice a coworker suddenly asking about review chains or org charts.\n• Say nothing that confirms who the real decision maker is.\n• Keep both managers equally informed so no one can play favorites against you.",
+      "insight": "Knowing the real boss is easy. The harder part is acting on it without the other one noticing you picked."
+    },
+    {
+      "id": 2,
+      "cat": "find-real-boss",
+      "danger": "moderate",
+      "title": "Track Who Controls Your Budget Line",
+      "principle": "Follow the Money — Resource Control as Real Authority",
+      "remember": "Whoever pays for your headcount owns you, not whoever assigns your tasks.",
+      "hook": "Orders are cheap. <strong>Money is the real leash.</strong> Find whose budget you sit in.",
+      "truth": "Task assignment feels like power. Budget ownership is the actual power.\n• Check which department's budget your salary line sits under.\n• That department can end your job. The other can only annoy you.\n• People chase whoever assigns work and miss who pays for it.",
+      "when": "You report to two people and can't tell which one could actually cut your position.",
+      "theySee": "A careful employee reading the org chart and cost-center codes instead of asking around.",
+      "signals": [
+        {
+          "icon": "💵",
+          "l": "Cost center",
+          "t": "Your paycheck stub or HR file lists one department's cost center, not the other's."
+        },
+        {
+          "icon": "✂️",
+          "l": "Layoff timing",
+          "t": "Past layoffs in your company hit the department that didn't fund your role."
+        },
+        {
+          "icon": "📊",
+          "l": "Headcount approval",
+          "t": "One manager needs to request headcount approval before hiring anyone under you."
+        },
+        {
+          "icon": "🤝",
+          "l": "Vendor sign-off",
+          "t": "One of them signs off on your expenses and travel, the other never does."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find your cost center",
+          "desc": "Ask payroll or check your pay stub for which department code funds your salary."
+        },
+        {
+          "n": "2",
+          "title": "Check expense approvals",
+          "desc": "Look back at your last three expense reports and see who approved them."
+        },
+        {
+          "n": "3",
+          "title": "Note headcount history",
+          "desc": "Ask a longtime coworker which department cut jobs during the last downturn."
+        }
+      ],
+      "script": "\"Just for my own records — which cost center does my role actually sit under?\"",
+      "example": "Marcus split his time between Sales and Product. When layoffs hit, Product's budget got cut first. He had already noticed his cost center was Product-funded and spent the prior month over-delivering for Sales instead. He kept his job; two Product-funded peers did not.",
+      "counter": "If a coworker starts asking payroll about cost centers, they're locating who can fire them.\n• Watch for sudden interest in budget codes or headcount approvals.\n• Don't volunteer which side actually controls the money.\n• Make sure both sides see value from you regardless of who pays.",
+      "insight": "The budget always tells the truth even when the org chart lies. The next problem is what you do once you know which side can end you."
+    },
+    {
+      "id": 3,
+      "cat": "find-real-boss",
+      "danger": "low",
+      "title": "Watch Who Defends You In Meetings You Miss",
+      "principle": "Coalition Signals — Absent-Party Advocacy",
+      "remember": "The one who defends you when you're not there is the one who actually backs you.",
+      "hook": "Everyone is nice to your face. <strong>Only one fights for you behind closed doors.</strong>",
+      "truth": "Support said to your face costs nothing. Support said in a room without you costs something.\n• Ask a trusted peer what happens when your name comes up without you.\n• The one who defends you there is the one worth protecting.\n• Most people trust whoever is warmest in person and get burned in private.",
+      "when": "You need to know which of your two bosses will actually protect you when trouble starts.",
+      "theySee": "A coworker who seems relaxed and simply curious about how last week's leadership meeting went.",
+      "signals": [
+        {
+          "icon": "🛡️",
+          "l": "Named defense",
+          "t": "A peer tells you one manager specifically pushed back when your work got questioned."
+        },
+        {
+          "icon": "🤐",
+          "l": "Silent ally",
+          "t": "The other manager stayed quiet in the same meeting instead of speaking up for you."
+        },
+        {
+          "icon": "📅",
+          "l": "Meeting invites",
+          "t": "One manager keeps inviting you to rooms where decisions about you get made."
+        },
+        {
+          "icon": "🔄",
+          "l": "Story changes",
+          "t": "What one manager says about you privately doesn't match what they say to your face."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask a trusted witness",
+          "desc": "Text a peer who sat in the last leadership meeting and ask what got said about you."
+        },
+        {
+          "n": "2",
+          "title": "Compare the two answers",
+          "desc": "Write down each manager's private reputation next to their public friendliness."
+        },
+        {
+          "n": "3",
+          "title": "Log the date",
+          "desc": "Note today's date next to whoever defended you, so you can track it over months."
+        }
+      ],
+      "script": "\"Hey, off the record — did my name come up in yesterday's meeting? How'd it go?\"",
+      "example": "Priya heard through a peer that her VP had quietly defended her missed deadline in a leadership sync, while her other manager stayed silent. She started running her hardest problems past the VP first. Six months later, the VP fought to keep her role when the team got restructured.",
+      "counter": "If a peer starts fishing for what was said about them in your meetings, they're mapping their real allies.\n• Notice casual questions about closed-door conversations involving them.\n• Give a vague, friendly answer that reveals nothing specific.\n• Decide for yourself who deserves your loyalty instead of trusting the report.",
+      "insight": "Words to your face are free. Words behind your back cost something and tell you who's real. The harder part is finding a witness you can actually trust."
+    },
+    {
+      "id": 4,
+      "cat": "position-before-clash",
+      "danger": "low",
+      "title": "Get Instructions From Both In Writing",
+      "principle": "Schelling: Commitment Devices — Paper as a Trap for Others",
+      "remember": "If it's not in writing, it never happened the way you remember it.",
+      "hook": "Memory bends to whoever yells last. <strong>Paper doesn't.</strong> Get it in writing before the clash.",
+      "truth": "Verbal orders can be denied later. Written orders can't.\n• Ask for instructions by email, not hallway conversation.\n• When they clash, you hold proof of who said what and when.\n• Most people trust memory and lose the argument to whoever lies first.",
+      "when": "A manager gives you a verbal instruction that conflicts with what the other one told you last week.",
+      "theySee": "A conscientious employee following up in writing to make sure they got the details right.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Verbal-only orders",
+          "t": "A manager gives you a big instruction by phone call or hallway chat, not email."
+        },
+        {
+          "icon": "🧠",
+          "l": "Fuzzy memory",
+          "t": "You realize you can't recall the exact wording of what you were told last week."
+        },
+        {
+          "icon": "↩️",
+          "l": "Denial pattern",
+          "t": "One manager has denied giving an instruction before, when it went wrong."
+        },
+        {
+          "icon": "📧",
+          "l": "No paper trail",
+          "t": "You search your inbox for proof of an instruction and find nothing."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send the recap email",
+          "desc": "After every verbal instruction, send a one-line email confirming what you heard."
+        },
+        {
+          "n": "2",
+          "title": "Wait for a reply",
+          "desc": "Don't act until you get a written yes back, even a one-word one."
+        },
+        {
+          "n": "3",
+          "title": "File it in one folder",
+          "desc": "Save every instruction email in a single labeled folder you can search fast."
+        }
+      ],
+      "script": "\"Confirming what we discussed — you want me to prioritize the client report over the audit this week, correct?\"",
+      "example": "Two directors told Ben opposite priorities in the same afternoon. He emailed both back with a recap of what each had asked. When the audit came in late, one director tried to claim he'd never said to deprioritize it. Ben's email proved otherwise, and the blame landed elsewhere.",
+      "counter": "If someone keeps emailing you recaps of your verbal orders, they're building a file to use against you later.\n• Notice when a report over-documents casual conversations with you.\n• Reply carefully, since your words in writing can be used later.\n• Say things you'd stand behind, verbal or written, every time.",
+      "insight": "Paper protects you from memory, not from politics. The next problem is what happens when both instructions are in writing and still contradict."
+    },
+    {
+      "id": 5,
+      "cat": "position-before-clash",
+      "danger": "moderate",
+      "title": "Ask Each One Who Has Final Say",
+      "principle": "Greene: Law 20 — Do Not Commit, Force Clarity Instead",
+      "remember": "Make them tell you the chain of command before you need it.",
+      "hook": "Don't guess who wins a fight between your bosses. <strong>Ask them, separately, before it happens.</strong>",
+      "truth": "Most conflicts explode because nobody named the tiebreaker in advance.\n• Ask each manager, alone, who decides when they disagree.\n• Their answer tells you who they think outranks the other.\n• People wait for the fight to happen instead of asking first.",
+      "when": "You're about to start a project that both managers will want to control differently.",
+      "theySee": "A careful planner making sure the reporting lines are clear before work starts.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Vague org chart",
+          "t": "Nobody has ever told you in writing who outranks whom between your two bosses."
+        },
+        {
+          "icon": "🎯",
+          "l": "Overlapping projects",
+          "t": "A new project touches both of their areas at the same time."
+        },
+        {
+          "icon": "😬",
+          "l": "Past friction",
+          "t": "You've seen the two of them disagree in a meeting before, in front of others."
+        },
+        {
+          "icon": "🤷",
+          "l": "No tiebreaker named",
+          "t": "Neither manager has ever said out loud who wins when they clash."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask manager one alone",
+          "desc": "In a private one-on-one, ask who has final call if priorities conflict."
+        },
+        {
+          "n": "2",
+          "title": "Ask manager two alone",
+          "desc": "Ask the same exact question to the other manager, separately, same week."
+        },
+        {
+          "n": "3",
+          "title": "Compare their answers",
+          "desc": "Write both answers side by side and note if they match or clash."
+        }
+      ],
+      "script": "\"If this project ever pulls me two directions, who should I treat as the final call?\"",
+      "example": "Layla asked her regional director and her functional director the same question a week apart. Both claimed final say. She kept the two emails and, when the clash came, forwarded both answers to their shared boss and let him settle it, staying clean herself.",
+      "counter": "If someone starts asking you who has final say over shared work, they're setting up cover for the coming fight.\n• Notice when a peer suddenly wants your authority in writing.\n• Give an honest, specific answer instead of a vague one.\n• Loop in your own boss so the answer is on record for you too.",
+      "insight": "The question exposes the truth fast, but two people who both say yes just handed you a bigger problem to manage."
+    },
+    {
+      "id": 6,
+      "cat": "position-before-clash",
+      "danger": "moderate",
+      "title": "Build A Paper Trail Before The Fight Starts",
+      "principle": "Sun Tzu: Prepare the Ground Before the Battle",
+      "remember": "Collect proof while things are calm. You can't collect it during the fight.",
+      "hook": "By the time the fight starts, it's too late to build your defense. <strong>Build it now.</strong>",
+      "truth": "Evidence gathered during a crisis looks defensive. Evidence gathered before looks routine.\n• Save emails, texts, and meeting notes as you go, not after trouble starts.\n• When the blow-up comes, you already hold the proof, calmly.\n• Most people scramble for evidence mid-fight and look guilty doing it.",
+      "when": "You sense a clash between your two bosses is coming but it hasn't happened yet.",
+      "theySee": "A well-organized employee who simply keeps tidy files and follows up on everything.",
+      "signals": [
+        {
+          "icon": "⏰",
+          "l": "Rising tension",
+          "t": "Both managers have started asking pointed questions about the other's requests."
+        },
+        {
+          "icon": "📁",
+          "l": "Messy records",
+          "t": "You realize your instructions live scattered across texts, Slack, and memory."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Deadline collision",
+          "t": "Two deadlines from your two bosses now land on the exact same day."
+        },
+        {
+          "icon": "👥",
+          "l": "Third party watching",
+          "t": "HR or a shared boss has started quietly asking how the dual reporting works."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Start a running log",
+          "desc": "Open one document today and log every instruction with date, sender, and content."
+        },
+        {
+          "n": "2",
+          "title": "Forward loose messages",
+          "desc": "Forward any verbal or Slack instruction to your own email as a timestamped copy."
+        },
+        {
+          "n": "3",
+          "title": "Note every deadline clash",
+          "desc": "Write down any time both bosses gave you conflicting deadlines, with dates."
+        }
+      ],
+      "script": "\"Just so I have it on record — can you send that request over email too?\"",
+      "example": "Tom noticed his two co-managers were starting to snipe at each other in shared meetings. He quietly started logging every instruction in a private doc. When they finally clashed over a missed deliverable three weeks later, Tom pulled up dated proof of both requests and stayed out of the blame entirely.",
+      "counter": "If a coworker suddenly starts logging everything and forwarding casual chats to email, they're building a file.\n• Notice unusual formality creeping into someone's normal requests.\n• Assume anything you say to them may get written down.\n• Keep your own instructions clean and consistent either way.",
+      "insight": "A paper trail built early looks like diligence. The harder part is using it without looking like you planned the ambush."
+    },
+    {
+      "id": 7,
+      "cat": "both-ask-at-once",
+      "danger": "low",
+      "title": "Answer With A Timeline, Not A Yes",
+      "principle": "Voss: Calibrated Response — Buy Time Without Refusing",
+      "remember": "Never say yes to both. Say when to both.",
+      "hook": "Two bosses ask for the same hour. <strong>Don't pick. Buy time instead.</strong>",
+      "truth": "Saying yes to both sets you up to fail one of them by surprise.\n• Give each one a specific time you'll deliver, not a flat yes.\n• That turns a forced choice into a schedule they both approved.\n• Most people say yes twice and then break one promise quietly.",
+      "when": "Both bosses hit you with an urgent ask within the same hour, same day.",
+      "theySee": "A capable employee giving a clear, confident timeline instead of a nervous yes.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "Same-hour asks",
+          "t": "Two messages land in your inbox within minutes, both marked urgent."
+        },
+        {
+          "icon": "🔥",
+          "l": "Both say now",
+          "t": "Each manager tells you their task needs to happen before the other's."
+        },
+        {
+          "icon": "📵",
+          "l": "No cc between them",
+          "t": "Neither manager copies the other, so neither knows about the collision."
+        },
+        {
+          "icon": "😰",
+          "l": "Instinct to please",
+          "t": "You feel the urge to say yes to both just to avoid conflict."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reply within minutes",
+          "desc": "Answer each one fast so neither thinks you're avoiding them."
+        },
+        {
+          "n": "2",
+          "title": "Give a real time",
+          "desc": "Tell each one the specific time today they'll have your answer or work."
+        },
+        {
+          "n": "3",
+          "title": "Flag the collision once",
+          "desc": "Mention to each, once, that you're juggling two urgent asks right now."
+        }
+      ],
+      "script": "\"Got it — I can have this to you by 3pm. I'm also finishing an urgent ask from [name] first.\"",
+      "example": "Sofia got two 'need this now' Slack messages four minutes apart. She replied to both within ten minutes with exact delivery times instead of a yes. Both managers got what they needed on schedule, and neither felt bumped for the other.",
+      "counter": "If someone gives you a specific delivery time instead of a yes, they're managing you, not avoiding you.\n• Notice when a vague yes turns into a scheduled promise instead.\n• Ask directly if anything else is competing for their time today.\n• Decide if the time they gave you is actually good enough.",
+      "insight": "A timeline beats a yes because it's a promise you can actually keep. The next problem is what happens when you can't hit either time."
+    },
+    {
+      "id": 8,
+      "cat": "both-ask-at-once",
+      "danger": "moderate",
+      "title": "Never Promise The Same Hour Twice",
+      "principle": "Scarcity of Time — Single-Resource Conflict",
+      "remember": "One hour, one boss. Never split it and tell no one.",
+      "hook": "You have one hour. <strong>They both think they own it.</strong> Only one of them actually does.",
+      "truth": "Time can't be duplicated, no matter how you word your reply.\n• Give one full hour to one task, not split focus to two.\n• The loser of that hour will spot a rushed job faster than a flat no.\n• People try to serve both at once and it shows in the sloppy result.",
+      "when": "Both bosses need something from you that requires the exact same hour today.",
+      "theySee": "A focused employee giving one task full attention instead of splitting effort badly.",
+      "signals": [
+        {
+          "icon": "🕐",
+          "l": "Overlap window",
+          "t": "Both requests need to happen in the same one-hour block, no flexibility."
+        },
+        {
+          "icon": "🎭",
+          "l": "Silent competition",
+          "t": "Neither boss says it, but both are testing which one you'll drop."
+        },
+        {
+          "icon": "📉",
+          "l": "Half-effort risk",
+          "t": "You notice your draft plan splits attention and neither result will be strong."
+        },
+        {
+          "icon": "🙊",
+          "l": "Unspoken tension",
+          "t": "Both have gone quiet after asking, waiting to see what you do next."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the higher-stakes task",
+          "desc": "Decide which task has the bigger real consequence if it's late or weak."
+        },
+        {
+          "n": "2",
+          "title": "Tell the other one now",
+          "desc": "Message the second boss immediately with a new, honest delivery time."
+        },
+        {
+          "n": "3",
+          "title": "Protect the hour",
+          "desc": "Close Slack and email during that hour so nothing pulls your focus away."
+        }
+      ],
+      "script": "\"I'm heads-down on [task] until 2pm for [other boss] — I'll have yours done right after, by 3.\"",
+      "example": "Two directors both needed a slide deck ready before the same 2pm meeting. Kevin gave the full hour to the director presenting first, and texted the second director a new 3pm delivery time immediately. Both decks landed clean, and neither director felt ignored.",
+      "counter": "If someone tells you they're heads-down for someone else, they've already ranked you second for that hour.\n• Notice when your request gets pushed for a competing one.\n• Ask for the real new time instead of assuming you're forgotten.\n• Decide if being second in line today is a pattern worth addressing.",
+      "insight": "Splitting your hour looks fair but delivers two weak results instead of one strong one. The real trap is doing this so often that everyone assumes you're always available."
+    },
+    {
+      "id": 9,
+      "cat": "both-ask-at-once",
+      "danger": "low",
+      "title": "Route The Ask Back To Its Owner",
+      "principle": "Boundary Redirect — Refuse the Middle-Person Role",
+      "remember": "If it's really their fight, hand it back to them, not you.",
+      "hook": "They're asking you to solve a fight that isn't yours. <strong>Hand it back.</strong>",
+      "truth": "Being the go-between feels helpful but makes you the target when it fails.\n• Notice when a request is really about settling their disagreement, not your work.\n• Send it back to the source instead of absorbing the conflict yourself.\n• Most people try to solve it quietly and end up blamed by both.",
+      "when": "One boss asks you to explain, defend, or relay something to the other boss.",
+      "theySee": "A professional employee who politely keeps them talking to each other directly.",
+      "signals": [
+        {
+          "icon": "📨",
+          "l": "Relay request",
+          "t": "A manager asks you to tell the other one something instead of saying it themselves."
+        },
+        {
+          "icon": "🥊",
+          "l": "Proxy fight",
+          "t": "You realize the real disagreement is between them, not about your actual work."
+        },
+        {
+          "icon": "🎯",
+          "l": "You're the target",
+          "t": "Both start directing frustration at you instead of at each other."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat pattern",
+          "t": "This is the second or third time you've been asked to carry a message between them."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name what's happening",
+          "desc": "Say out loud that this sounds like something they should discuss directly."
+        },
+        {
+          "n": "2",
+          "title": "Offer to connect them",
+          "desc": "Suggest setting up a quick call or thread between the two of them."
+        },
+        {
+          "n": "3",
+          "title": "Step out of the middle",
+          "desc": "Once you've offered the connection, stop relaying messages back and forth."
+        }
+      ],
+      "script": "\"That sounds like something you two should sync on directly — want me to set up a quick call?\"",
+      "example": "Erin's two managers kept using her to send jabs back and forth about a shared project. She finally said, 'This sounds like a you-two conversation,' and set up a fifteen-minute call between them. The sniping stopped, and Erin was out of the crossfire for good.",
+      "counter": "If someone offers to 'connect you directly' instead of relaying your message, they're refusing to be your proxy.\n• Notice when your request gets bounced back to the other party.\n• Accept the direct conversation instead of pushing back through them.\n• Handle your own conflicts instead of routing them through staff.",
+      "insight": "Refusing the middle role protects you today. The harder part is doing it without looking like you're dodging work."
+    },
+    {
+      "id": 10,
+      "cat": "room-together",
+      "danger": "high",
+      "title": "Force Them To Decide In Front of Each Other",
+      "principle": "Greene: Law 20 / Public Commitment Effect",
+      "remember": "Get them in one room. People rarely fight the same way with witnesses.",
+      "hook": "Alone, they'll each tell you something different. <strong>Together, they have to agree.</strong>",
+      "truth": "Private conversations let people say whatever gets them what they want.\n• Get both bosses in the same room or same email thread at once.\n• A decision made together in public is harder to deny later.\n• People avoid this because it risks an open fight, but silence risks worse.",
+      "when": "You're stuck between two conflicting instructions and neither boss will budge alone.",
+      "theySee": "A composed employee who wants clarity and set up a short meeting to get it.",
+      "signals": [
+        {
+          "icon": "🚧",
+          "l": "Deadlock",
+          "t": "You've asked each boss separately twice and still have no clear answer."
+        },
+        {
+          "icon": "🎯",
+          "l": "High stakes",
+          "t": "The task involves a client, a deadline, or money, not a minor detail."
+        },
+        {
+          "icon": "😤",
+          "l": "Rising frustration",
+          "t": "You feel your patience for restating the conflict to each boss running out."
+        },
+        {
+          "icon": "🧊",
+          "l": "Avoidance pattern",
+          "t": "Both managers seem to be avoiding a direct conversation with each other."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send one joint invite",
+          "desc": "Book a fifteen-minute meeting with both bosses and yourself, same time."
+        },
+        {
+          "n": "2",
+          "title": "State the conflict plainly",
+          "desc": "Open with the exact conflicting instructions, no blame, just the facts."
+        },
+        {
+          "n": "3",
+          "title": "Ask for one decision",
+          "desc": "Ask directly which instruction you should follow, and wait for their answer."
+        }
+      ],
+      "script": "\"I got two different directions on this — can we spend fifteen minutes together to land on one?\"",
+      "example": "Owen had spent two weeks getting contradictory answers from his co-leads on a launch date. He booked a joint fifteen-minute call and laid out both instructions side by side. They picked a date on the spot, in front of him, and neither could walk it back later.",
+      "counter": "If someone books you into a joint meeting to 'get clarity,' they're forcing a public decision you can't unmake.\n• Notice when a private disagreement suddenly gets a shared calendar invite.\n• Decide your position before the meeting starts, not during it.\n• Hold your ground in the room since backing down there is permanent.",
+      "insight": "A public decision is hard to reverse, which is exactly the point. The next problem is picking your moment so it reads as clarity, not as a setup."
+    },
+    {
+      "id": 11,
+      "cat": "room-together",
+      "danger": "high",
+      "title": "Put The Conflict In One Reply-All Email",
+      "principle": "Written Commitment Device — Public Record Forces Alignment",
+      "remember": "One email, both names, one question. Now they have to answer together.",
+      "hook": "A meeting can be dodged. <strong>A reply-all email sits there until someone answers.</strong>",
+      "truth": "Separate conversations let each boss avoid the other's actual position.\n• Send one email to both, laying out the exact conflict and the choice.\n• A shared written record makes silence look like avoidance to everyone.\n• Most people fear looking difficult and never send it, so the conflict festers.",
+      "when": "A joint meeting isn't possible but you still need both bosses to align on one answer.",
+      "theySee": "A thorough employee who wants a clear written answer instead of guessing.",
+      "signals": [
+        {
+          "icon": "📧",
+          "l": "Scheduling wall",
+          "t": "You've tried to book a joint call and it keeps getting pushed back."
+        },
+        {
+          "icon": "🗂️",
+          "l": "Conflicting emails",
+          "t": "You already have two separate emails from them that directly contradict each other."
+        },
+        {
+          "icon": "⌛",
+          "l": "Deadline pressure",
+          "t": "The task is due soon enough that waiting for a meeting isn't realistic."
+        },
+        {
+          "icon": "👀",
+          "l": "Shared visibility",
+          "t": "Both managers are on at least one common thread or distribution list already."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Quote both instructions",
+          "desc": "Paste the exact conflicting lines from each boss into one new email."
+        },
+        {
+          "n": "2",
+          "title": "Ask one clear question",
+          "desc": "End the email with a single yes/no or either/or question, nothing vague."
+        },
+        {
+          "n": "3",
+          "title": "Set a reply deadline",
+          "desc": "Add a specific date you need an answer by, so silence has a cost."
+        }
+      ],
+      "script": "\"Quoting both notes below so we're aligned — can you two confirm which approach I should run with by Thursday?\"",
+      "example": "Nadia's two managers gave her opposite feedback on a proposal by email. She replied-all quoting both, asked one direct question, and set a Thursday deadline. They hashed it out in the thread within a day, and Nadia had a clean written answer to point to going forward.",
+      "counter": "If someone replies-all quoting your own words back at you, they're forcing you to answer in public.\n• Notice when a private disagreement gets pasted into a shared thread.\n• Answer the direct question fast instead of letting silence read as guilt.\n• Settle it in writing since the thread now outlives the conversation.",
+      "insight": "Written conflict is uncomfortable but it's honest, and honesty forces movement. The harder part is doing this without looking like you're keeping score against them."
+    },
+    {
+      "id": 12,
+      "cat": "pick-side-quietly",
+      "danger": "moderate",
+      "title": "Do The Powerful One's Work First, Quietly",
+      "principle": "Power Mapping Applied — Silent Prioritization",
+      "remember": "Choose with your calendar, not with your mouth.",
+      "hook": "You already know who holds the real power. <strong>Now act on it without saying a word.</strong>",
+      "truth": "Announcing a side invites a fight. Acting on it invites nothing.\n• Clear the more powerful boss's work first, every single time, without comment.\n• The weaker one notices the pattern eventually but has no words to point at.\n• Most people announce loyalty out loud and get punished by the other side.",
+      "when": "You've already identified which boss holds the real power, and now you must act daily.",
+      "theySee": "A reliable employee with a consistent, unremarkable order of operations.",
+      "signals": [
+        {
+          "icon": "🗓️",
+          "l": "Calendar pattern",
+          "t": "You notice your own schedule already clears the stronger boss's items first."
+        },
+        {
+          "icon": "🤐",
+          "l": "No announcement",
+          "t": "Nobody has said out loud that one boss comes before the other."
+        },
+        {
+          "icon": "👁️",
+          "l": "Weaker boss watching",
+          "t": "The less powerful boss starts double-checking your response times more closely."
+        },
+        {
+          "icon": "⚖️",
+          "l": "Equal politeness",
+          "t": "You still treat both with the same tone and warmth in every conversation."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reorder your task list",
+          "desc": "Move the stronger boss's requests to the top of today's to-do list."
+        },
+        {
+          "n": "2",
+          "title": "Keep the tone even",
+          "desc": "Answer both with the same friendly tone regardless of the order you work in."
+        },
+        {
+          "n": "3",
+          "title": "Never explain the order",
+          "desc": "If asked why something is late, cite workload, never mention the other boss."
+        }
+      ],
+      "script": "\"Sorry for the delay — juggling a heavy load this week, but this has my full attention now.\"",
+      "example": "Devon quietly started clearing his VP's requests before his director's, every time, without ever saying so. His director noticed slower replies but never got proof of favoritism because Devon's excuse was always workload, never the VP's name. Devon kept both relationships intact and the VP's trust grew.",
+      "counter": "If someone's replies to you always come slightly slower than to a more senior person, they've already picked without telling you.\n• Notice patterns in response time more than words said to your face.\n• Ask directly if you're being deprioritized instead of guessing.\n• Escalate to a shared boss if the pattern costs you real results.",
+      "insight": "Silent priority is safer than spoken loyalty because it leaves no quote to repeat. The real trap is keeping it up long enough that the weaker boss stops trusting you anyway."
+    },
+    {
+      "id": 13,
+      "cat": "pick-side-quietly",
+      "danger": "moderate",
+      "title": "Give The Weaker One Credit, Not Priority",
+      "principle": "Cialdini: Reciprocity — Cheap Currency for the Side You Didn't Pick",
+      "remember": "You can't give them your time. Give them your praise instead.",
+      "hook": "You picked a side with your hours. <strong>Now pay the other one back in credit.</strong>",
+      "truth": "People remember who made them look good longer than who worked faster for them.\n• Publicly credit the weaker boss's ideas even while you serve the stronger one more.\n• Credit costs you nothing and buys patience from the side you shortchange on time.\n• Most people think ignoring the weaker boss is neutral. It reads as an insult.",
+      "when": "You've already started prioritizing one boss's work but need to keep the other one satisfied.",
+      "theySee": "A generous colleague who name-checks them in meetings and gives them visible wins.",
+      "signals": [
+        {
+          "icon": "🏅",
+          "l": "Credit deficit",
+          "t": "You realize you haven't mentioned the weaker boss's name in a meeting recently."
+        },
+        {
+          "icon": "😕",
+          "l": "Cooling warmth",
+          "t": "The weaker boss's messages have gotten shorter or slower to you lately."
+        },
+        {
+          "icon": "🎤",
+          "l": "Missed spotlight",
+          "t": "A recent success came from the weaker boss's idea, but nobody said so out loud."
+        },
+        {
+          "icon": "🧾",
+          "l": "Score-keeping",
+          "t": "You catch yourself keeping a mental tally of who you owe more attention to."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name them in the next meeting",
+          "desc": "Credit the weaker boss's idea out loud in the very next group meeting."
+        },
+        {
+          "n": "2",
+          "title": "Send a specific thank you",
+          "desc": "Message them directly naming one thing they did that helped this week."
+        },
+        {
+          "n": "3",
+          "title": "Loop them in early",
+          "desc": "Give them a heads-up on a decision before it's final, even a small one."
+        }
+      ],
+      "script": "\"Just want to flag — this approach was [name]'s idea originally, it worked really well.\"",
+      "example": "Ana was clearing her SVP's requests first for months, leaving her director thinner on time. She started publicly crediting her director's ideas in every team update. The director never got more of Ana's hours, but stayed loyal and vocal in Ana's defense when budget cuts came.",
+      "counter": "If a colleague suddenly starts crediting you publicly while giving you less actual time, they're managing you, not honoring you.\n• Notice praise increasing while access or response time decreases.\n• Ask directly for the thing you actually need: time, not credit.\n• Decide if praise alone is worth the trade you're making.",
+      "insight": "Credit is the cheapest currency that still buys real loyalty. The next question is whether the weaker boss eventually wants more than a mention."
+    },
+    {
+      "id": 14,
+      "cat": "pick-side-quietly",
+      "danger": "high",
+      "title": "Let Your Calendar Choose, Not Your Mouth",
+      "principle": "Machiavelli: Actions Over Words — Avoid Declared Allegiance",
+      "remember": "Never say who you picked. Let your actions say it for months.",
+      "hook": "The moment you say a name out loud, you've made an enemy. <strong>Let your calendar talk instead.</strong>",
+      "truth": "A spoken choice can be quoted, repeated, and used against you forever.\n• Let your daily actions show a pattern instead of stating a preference.\n• A pattern is deniable. A quote is not.\n• People get caught because they said the quiet part out loud once.",
+      "when": "Someone directly asks you which boss you're really loyal to.",
+      "theySee": "A diplomatic employee who never confirms or denies favoring either side.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Direct trap question",
+          "t": "Someone asks you point-blank which of the two you'd back in a conflict."
+        },
+        {
+          "icon": "🍺",
+          "l": "Loose-lip settings",
+          "t": "The question comes up at a happy hour or informal setting, not a formal one."
+        },
+        {
+          "icon": "📱",
+          "l": "Written trap",
+          "t": "The question arrives by text or Slack, where your answer becomes permanent."
+        },
+        {
+          "icon": "🎣",
+          "l": "Fishing pattern",
+          "t": "The same person has asked you a version of this question more than once."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Deflect with a real answer",
+          "desc": "Say you work for the company, not a person, and mean it consistently."
+        },
+        {
+          "n": "2",
+          "title": "Never answer in writing",
+          "desc": "If pushed by text, respond with a call instead, so nothing is quotable."
+        },
+        {
+          "n": "3",
+          "title": "Keep the pattern steady",
+          "desc": "Continue your normal priority order so your actions stay the real answer."
+        }
+      ],
+      "script": "\"Honestly, I try to just serve whatever the company needs most that day.\"",
+      "example": "At a team happy hour, a coworker asked Grace point-blank which of her two bosses she'd side with if it came to it. Grace laughed it off with the company-first line and changed the subject. Months later, when the two bosses did clash, nobody could quote her taking a side, even though her actions clearly had.",
+      "counter": "If someone deflects a direct loyalty question with a vague company-first line, they've already picked and won't say who.\n• Notice a smooth, rehearsed-sounding non-answer to a direct question.\n• Stop asking directly and watch their actions over the next month instead.\n• Judge them by their calendar, not by anything they've said to you.",
+      "insight": "Silence protects you today but someone eventually reads your pattern anyway. The harder part is what you do when they finally call it out to your face."
+    },
+    {
+      "id": 15,
+      "cat": "blows-up",
+      "danger": "extreme",
+      "title": "Have Your Story Ready Before They Compare Notes",
+      "principle": "Schelling: Prepare for the Endgame Before It Arrives",
+      "remember": "Know your answer before they ever ask the question together.",
+      "hook": "The day they finally compare notes, you need an answer ready. <strong>Not one you make up on the spot.</strong>",
+      "truth": "Improvised answers in a crisis sound like excuses, even when they're true.\n• Write out your account of every conflicting instruction before the blow-up happens.\n• A rehearsed, calm answer reads as honest under pressure.\n• Most people wing it in the moment and sound guilty by accident.",
+      "when": "You sense the two bosses are about to discover their conflicting instructions to you.",
+      "theySee": "A composed employee giving a clear, unhurried timeline instead of a nervous explanation.",
+      "signals": [
+        {
+          "icon": "📞",
+          "l": "Sudden joint call",
+          "t": "Both bosses request a meeting together for the first time, out of nowhere."
+        },
+        {
+          "icon": "😐",
+          "l": "Cold tone shift",
+          "t": "Messages from both have gone shorter and more formal in the last day."
+        },
+        {
+          "icon": "🔍",
+          "l": "Fact-checking questions",
+          "t": "One of them asks you to confirm a date or detail you already reported differently."
+        },
+        {
+          "icon": "🚨",
+          "l": "Third party involved",
+          "t": "HR or a shared boss has been looped into the thread suddenly."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the full timeline",
+          "desc": "List every instruction from both bosses with exact dates, before any meeting."
+        },
+        {
+          "n": "2",
+          "title": "Practice saying it calmly",
+          "desc": "Say your timeline out loud once, alone, until it sounds steady, not rehearsed."
+        },
+        {
+          "n": "3",
+          "title": "Bring the paper trail",
+          "desc": "Print or open the emails that back up your timeline before the conversation."
+        }
+      ],
+      "script": "\"Here's exactly what happened, in order — [date], [name] asked for X, then [date], [name] asked for Y.\"",
+      "example": "When Raj's two managers finally realized they'd given him opposite priorities for a month, they called a joint meeting. Raj had already written out the full timeline the night before and walked in with dated emails. He read it calmly, and the blame landed on the miscommunication between them, not on him.",
+      "counter": "If someone walks into a tense meeting with a printed timeline, they prepared for this moment before you called it.\n• Notice unusual calm and precise dates from someone under pressure.\n• Check their dates against your own memory and records carefully.\n• Ask questions instead of accepting the timeline as the full story.",
+      "insight": "Preparation reads as innocence even when the situation is messy. The next question is whether the two bosses trust each other again after this, and whether that's your problem now."
+    },
+    {
+      "id": 16,
+      "cat": "blows-up",
+      "danger": "extreme",
+      "title": "Let Them Fight It Out Above Your Head",
+      "principle": "Greene: Law 30 — Stay Above the Fray",
+      "remember": "Once it's their fight, stop carrying messages for them.",
+      "hook": "The blow-up finally happened. <strong>Good. Now step back and let them settle it.</strong>",
+      "truth": "Staying in the middle of their fight makes you the target of both sides.\n• Once they're openly clashing, stop relaying, defending, or explaining for either.\n• Let a shared boss or HR settle the actual disagreement between them.\n• Most people try to keep peacekeeping and end up blamed by both instead.",
+      "when": "The two bosses are now openly arguing about you or your conflicting instructions.",
+      "theySee": "A composed employee who calmly steps back instead of picking a side in the argument.",
+      "signals": [
+        {
+          "icon": "🥊",
+          "l": "Open argument",
+          "t": "The two bosses are now emailing or talking directly, and it's tense."
+        },
+        {
+          "icon": "🎯",
+          "l": "Blame incoming",
+          "t": "One of them starts implying the mess is partly your fault."
+        },
+        {
+          "icon": "📢",
+          "l": "Escalation call",
+          "t": "HR or a shared boss gets pulled into the conversation for the first time."
+        },
+        {
+          "icon": "🧍",
+          "l": "Pressure to pick",
+          "t": "Someone asks you directly to say which one of them was right."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop relaying messages",
+          "desc": "Tell both you'll let them resolve this directly instead of passing notes."
+        },
+        {
+          "n": "2",
+          "title": "State facts only",
+          "desc": "If asked to weigh in, repeat the dated facts, not an opinion on who's right."
+        },
+        {
+          "n": "3",
+          "title": "Ask for one final decision",
+          "desc": "Once they settle it, ask for one written instruction going forward, not two."
+        }
+      ],
+      "script": "\"I'll let you two work out the right call — happy to follow whatever you land on together.\"",
+      "example": "When Lena's two managers finally started arguing directly about her conflicting deadlines, she stopped explaining herself to either. She told them she'd follow whatever they agreed on, gave the same answer to both, and let their shared boss settle it. Neither manager blamed her for the mess.",
+      "counter": "If someone stops explaining themselves and just asks you to decide, they've handed the whole fight to you.\n• Notice when a person refuses to defend a position and stays neutral.\n• Push for their opinion directly instead of settling it without them.\n• Make the decision and document it so it doesn't repeat.",
+      "insight": "Stepping back protects you once, but the two bosses now know their setup breaks under pressure. The real question is whether you'll still be splitting your time between them next quarter."
+    }
+  ]
+}
