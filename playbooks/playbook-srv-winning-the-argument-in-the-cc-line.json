@@ -1,0 +1,1275 @@
+{
+  "meta": {
+    "id": "srv-winning-the-argument-in-the-cc-line",
+    "version": "1.0",
+    "title": "Winning the Argument in the CC Line",
+    "subtitle": "Email warfare for people who get blamed in writing",
+    "description": "Email fights are not conversations. They are records. Twenty-two cards on who is really reading the thread, how the other side builds a paper case against you, and how to take the frame, land the last word, and leave behind a document that helps you six months later.",
+    "author": "AI",
+    "createdAt": "2026-08-22T22:01:13.806Z",
+    "tags": [
+      "email",
+      "workplace politics",
+      "written record",
+      "status games",
+      "blame defense",
+      "corporate warfare"
+    ],
+    "totalCards": 22,
+    "isSeeded": true,
+    "coverColor": "#1B2838",
+    "coverIcon": "✉️",
+    "categories": null,
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "before",
+      "label": "Before You Reply",
+      "color": "#3D5A80"
+    },
+    {
+      "key": "whoson",
+      "label": "Reading Who Is Really On The Thread",
+      "color": "#5C6B8A"
+    },
+    {
+      "key": "opening",
+      "label": "Their Opening Email",
+      "color": "#8A5A44"
+    },
+    {
+      "key": "reframe",
+      "label": "The Reply That Takes The Frame",
+      "color": "#2E6E5B"
+    },
+    {
+      "key": "boss",
+      "label": "When They Add Your Boss",
+      "color": "#9C3B3B"
+    },
+    {
+      "key": "ending",
+      "label": "Ending The Thread On Your Words",
+      "color": "#6B4E8A"
+    },
+    {
+      "key": "record",
+      "label": "The Record It Leaves Behind",
+      "color": "#4A4A55"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "before",
+      "danger": "low",
+      "title": "Wait One Hour Before You Answer an Attack Email",
+      "principle": "Schelling: Commitment and the Value of Delay",
+      "remember": "Never answer an attack in the first ten minutes.",
+      "when": "An email lands that blames you, and your face gets hot.",
+      "hook": "The person who wrote that email had twenty minutes to pick every word. <strong>You get ten seconds and a hot face.</strong>",
+      "truth": "They wrote it cold. You reply hot. That gap decides the thread.\n• A fast reply carries your anger into the permanent record.\n• They read your speed as panic and push harder next email.\n• One hour later you see the trap they left for you.",
+      "theySee": "A coworker who did not answer right away, and who nobody can tell is upset.",
+      "signals": [
+        {
+          "icon": "🕐",
+          "l": "Odd send time",
+          "t": "They sent it at 4:55 PM on a Friday"
+        },
+        {
+          "icon": "📋",
+          "l": "Too polished",
+          "t": "The email has numbered points and no typos"
+        },
+        {
+          "icon": "🎯",
+          "l": "Loaded question",
+          "t": "They ask a question that assumes you already failed"
+        },
+        {
+          "icon": "👥",
+          "l": "New names",
+          "t": "People appear on CC who were never on the thread before"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Close the tab",
+          "desc": "Close the email. Do not open the reply box. Set a timer for one hour."
+        },
+        {
+          "n": "2",
+          "title": "Write the angry draft nowhere near email",
+          "desc": "Type your real answer in a notes app. Get the anger out where no send button exists."
+        },
+        {
+          "n": "3",
+          "title": "Reply with a holding line",
+          "desc": "Send one short line that buys you time and shows nothing. Then answer properly tomorrow."
+        }
+      ],
+      "script": "\"Got it — I want to give this a proper answer with the numbers in front of me. <strong>I'll come back to you tomorrow morning.</strong>\"",
+      "example": "Dev got an email at 5 PM saying his team missed a deadline, with the COO on CC. He wrote a furious reply, then closed the laptop without sending. Next morning he sent four lines and one date-stamped screenshot instead. The COO replied to him, not to the accuser.",
+      "counter": "If someone stalls your email with a polite holding line, they are buying time to build a case.\n• Notice the reply that answers nothing but sounds cooperative.\n• Say: <strong>\"Sure — I'll need it by 10 tomorrow for the deck.\"</strong>\n• Put a clock on the delay. Delay without a deadline is a win for them.",
+      "insight": "The hour is easy. The harder part is what you do with it — most people just cool down and send a softer version of the same weak email."
+    },
+    {
+      "id": 2,
+      "cat": "before",
+      "danger": "low",
+      "title": "Decide If You Even Want to Be On This Thread",
+      "principle": "Sun Tzu: Fight Only Battles You Choose",
+      "remember": "Some threads you win by never joining them.",
+      "when": "You are on CC for a fight between two other teams.",
+      "hook": "Every reply you send makes you a party to the argument. <strong>Silence keeps you a witness.</strong>",
+      "truth": "A thread has parties and witnesses. Only parties get blamed.\n• The moment you reply, your name enters the dispute.\n• People stop asking who was right and start asking who was involved.\n• If you have no stake, stay a witness and keep the emails.",
+      "theySee": "A quiet person on CC who reads everything and says nothing.",
+      "signals": [
+        {
+          "icon": "🥊",
+          "l": "Two teams fighting",
+          "t": "Two other managers argue and you are only on CC"
+        },
+        {
+          "icon": "🪤",
+          "l": "Bait question",
+          "t": "Someone writes \"maybe Sam can tell us what happened\""
+        },
+        {
+          "icon": "🌡️",
+          "l": "Rising volume",
+          "t": "Each reply gets longer and adds a new complaint"
+        },
+        {
+          "icon": "🧾",
+          "l": "No decision asked",
+          "t": "Nobody in the thread asks for a decision or a date"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what you lose by silence",
+          "desc": "Write down what actually happens to you if you never reply. If the answer is nothing, do not reply."
+        },
+        {
+          "n": "2",
+          "title": "Save the thread",
+          "desc": "Move the whole thread to a folder with the date in the name. You may need it later."
+        },
+        {
+          "n": "3",
+          "title": "Answer only what is aimed at you",
+          "desc": "If someone names you directly, answer that one line and nothing else in the email."
+        }
+      ],
+      "script": "\"On the delivery date — <strong>we shipped on the 14th, ticket 4021.</strong> The rest of this is between Ops and Finance, so I'll stay out of it.\"",
+      "example": "Nadia sat on CC while two directors fought about a missed launch for nine emails. She replied once with a single ticket number when named. Three months later the VP asked who had handled it well. Her name came up because it was the only calm line in the thread.",
+      "counter": "If someone stays silent while you fight, they are letting you spend your credit.\n• Notice who reads every email and answers none.\n• Say: <strong>\"Priya, you own this step — what's your read?\"</strong>\n• Name them and ask a direct question. Silence gets expensive when it has a name on it.",
+      "insight": "Staying out costs nothing until the day the story gets written without you in it — then the question is whether you have the emails to get back in."
+    },
+    {
+      "id": 3,
+      "cat": "before",
+      "danger": "moderate",
+      "title": "Find Out What They Actually Want Before You Argue",
+      "principle": "Machiavelli: Know the Interest Behind the Words",
+      "remember": "Nobody sends an angry email about the thing they say.",
+      "when": "Someone attacks a small detail of your work in writing.",
+      "hook": "They wrote 400 words about a spreadsheet. <strong>The spreadsheet is not the problem.</strong>",
+      "truth": "Angry emails are about budget, credit, headcount, or a boss watching. Rarely the topic.\n• Find the real want and the argument about the detail stops mattering.\n• Give them the real want, cheaply, and they drop the attack.\n• Argue the detail and you fight forever, because the detail was never it.",
+      "theySee": "A coworker who answers the question they did not put in writing.",
+      "signals": [
+        {
+          "icon": "🔍",
+          "l": "Size mismatch",
+          "t": "They wrote a long email about a very small problem"
+        },
+        {
+          "icon": "📅",
+          "l": "Timing tell",
+          "t": "The email arrived the week budgets or headcount get decided"
+        },
+        {
+          "icon": "🧑‍💼",
+          "l": "Audience tell",
+          "t": "They added their own boss to the CC line"
+        },
+        {
+          "icon": "🔁",
+          "l": "Old grudge",
+          "t": "They mention something from three months ago that was settled"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List three things they could want",
+          "desc": "Write down three real wants: credit, cover, control, or a resource. Pick the most likely one."
+        },
+        {
+          "n": "2",
+          "title": "Check the calendar",
+          "desc": "Look at what gets decided this month. Budget cycles explain most email wars."
+        },
+        {
+          "n": "3",
+          "title": "Offer the cheap version",
+          "desc": "Give them a small piece of the real want in your reply. Watch if the attack stops."
+        }
+      ],
+      "script": "\"Before we go line by line — <strong>is the real concern that your team gets named on the launch?</strong> If so, I can fix that in one email and we can drop the rest.\"",
+      "example": "Tom got a hostile email about his team's naming convention, with two directors on CC. He guessed the sender wanted his own team listed as a launch owner. Tom offered that in one line. The naming argument vanished and the thread died in two replies.",
+      "counter": "If someone skips your stated complaint and offers you something else, they read your real want.\n• Notice the reply that gives you a win you did not ask for.\n• Say: <strong>\"I'll take that. The date issue still stands though.\"</strong>\n• Take the gift and keep your original ask alive in the same sentence.",
+      "insight": "Guessing their want right ends the thread fast. Guessing it wrong tells them you were never listening — and now they know what you think of them."
+    },
+    {
+      "id": 4,
+      "cat": "whoson",
+      "danger": "low",
+      "title": "Read the CC Line Before You Read the Email",
+      "principle": "Greene: Law 14 — Pose as a Friend, Work as a Spy",
+      "remember": "The names on top tell you the plan. Read them first.",
+      "when": "An email arrives with people on CC who have never been involved.",
+      "hook": "The message is for the person on TO. <strong>The CC line is the whole reason it was sent.</strong>",
+      "truth": "CC is not information sharing. It is audience selection.\n• Every name added is a person they want watching you answer.\n• The names tell you what outcome they want and who decides it.\n• Most people read the text and never look up. That is the miss.",
+      "theySee": "A coworker whose reply seems aimed at exactly the right person.",
+      "signals": [
+        {
+          "icon": "⬆️",
+          "l": "Skip-level added",
+          "t": "Your boss's boss appears on a routine thread"
+        },
+        {
+          "icon": "⚖️",
+          "l": "HR or Legal",
+          "t": "An HR or Legal address shows up with no explanation"
+        },
+        {
+          "icon": "🫥",
+          "l": "BCC ghost",
+          "t": "Someone replies who was never visible on the thread"
+        },
+        {
+          "icon": "➖",
+          "l": "Quiet removal",
+          "t": "A name that was on the thread yesterday is gone today"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List every name and their power",
+          "desc": "Write each CC name and one word: decides, watches, or reports. That tells you the real target."
+        },
+        {
+          "n": "2",
+          "title": "Find who they want convinced",
+          "desc": "Pick the one person whose opinion changes your life. Write your reply to that person only."
+        },
+        {
+          "n": "3",
+          "title": "Check who left",
+          "desc": "Compare the CC line to yesterday's. A dropped name means someone is being kept out of something."
+        }
+      ],
+      "script": "\"Adding Renata since she owns the budget line, and <strong>moving Legal to BCC so we don't clutter their inbox</strong> until there's an actual decision.\"",
+      "example": "Isabel noticed her skip-level got added to a thread about a late report. She stopped answering the sender and wrote four lines aimed at the skip-level, with dates. The skip-level replied \"clear, thanks\" and the sender went quiet for a week.",
+      "counter": "If someone adds powerful names to a thread with you, they are building an audience for your mistake.\n• Notice new senior names on an ordinary thread.\n• Say: <strong>\"Adding Dana here — she has the actual numbers.\"</strong>\n• Add your own witness. An audience only helps them if it is only theirs.",
+      "insight": "Reading the CC line takes ten seconds and changes who you write to. The next question is harder: who is on BCC, and you will never see it."
+    },
+    {
+      "id": 5,
+      "cat": "whoson",
+      "danger": "moderate",
+      "title": "Work Out Who Decides and Write Only to Them",
+      "principle": "Status Asymmetry",
+      "remember": "Write to the decider. Let everyone else watch.",
+      "when": "Five people are on the thread and only one can settle it.",
+      "hook": "You are arguing with the loudest person. <strong>The quiet one decides.</strong>",
+      "truth": "Threads have three roles: the noisemaker, the watchers, and the decider.\n• The noisemaker wants you to fight them, point by point.\n• Every reply to them makes the thread longer and your case weaker.\n• Write past them to the decider and the noise stops mattering.",
+      "theySee": "A person who answers calmly and looks slightly above the argument.",
+      "signals": [
+        {
+          "icon": "🔇",
+          "l": "Silent senior",
+          "t": "The most senior person on CC has not written one word"
+        },
+        {
+          "icon": "📣",
+          "l": "Volume without power",
+          "t": "The loudest person cannot approve anything"
+        },
+        {
+          "icon": "❓",
+          "l": "Decision missing",
+          "t": "Ten emails in and nobody has named a decision"
+        },
+        {
+          "icon": "👆",
+          "l": "Sideways glances",
+          "t": "People start writing \"as Rob mentioned\" to please someone senior"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the decider out loud in your head",
+          "desc": "Ask who signs, approves, or pays. That person is the only reader who matters."
+        },
+        {
+          "n": "2",
+          "title": "Write four lines for them",
+          "desc": "Give the decider the facts, the date, and the one choice they need to make."
+        },
+        {
+          "n": "3",
+          "title": "Ask them for the call",
+          "desc": "End by asking the decider directly for a yes or no. Do not ask the group."
+        }
+      ],
+      "script": "\"<strong>Marcus — you own this call.</strong> Two options: ship Friday with the known gap, or slip to Tuesday and close it. I'd take Friday. Which do you want?\"",
+      "example": "Wei spent six emails fighting a peer about test coverage. Then he wrote one email straight to the engineering director: two options, one recommendation, one question. The director picked in nine minutes. The peer's next email got no replies at all.",
+      "counter": "If someone starts writing to your boss instead of you, they are cutting you out of the decision.\n• Notice the reply that ignores your points and addresses someone senior.\n• Say: <strong>\"Happy for Marcus to call it — here's the piece he's missing.\"</strong>\n• Do not fight for the mic. Add the fact the decider does not have.",
+      "insight": "Going straight to the decider works once or twice. Do it every week and you become the person who cannot handle their own peers."
+    },
+    {
+      "id": 6,
+      "cat": "whoson",
+      "danger": "high",
+      "title": "Spot the Person Building a File on You",
+      "principle": "Greene: Law 3 — Conceal Your Intentions",
+      "remember": "Some emails are not for you. They are for a folder.",
+      "when": "A coworker keeps asking you to confirm small things in writing.",
+      "hook": "They already know the answer. <strong>They want it in your words, with your name on it.</strong>",
+      "truth": "Some emails are evidence collection dressed as questions.\n• They ask you to confirm a fact they can already see.\n• Your confirmation becomes a quote they can hand to HR later.\n• The tell is that they never act on your answer. They only file it.",
+      "theySee": "A coworker who answers precisely and adds facts they did not ask for.",
+      "signals": [
+        {
+          "icon": "📁",
+          "l": "Confirm requests",
+          "t": "They ask you to \"confirm in writing\" things you said out loud"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Old dates",
+          "t": "They ask about a decision from four months ago"
+        },
+        {
+          "icon": "🙃",
+          "l": "Warm and formal",
+          "t": "They are friendly in person and oddly formal in email"
+        },
+        {
+          "icon": "🚫",
+          "l": "No follow-up",
+          "t": "You answer and nothing happens. No action, no thanks"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer with the full context",
+          "desc": "Never confirm a bare fact. Add the reason and who approved it in the same reply."
+        },
+        {
+          "n": "2",
+          "title": "Ask what it is for",
+          "desc": "Write one line asking what the confirmation feeds into. Watch how hard they dodge."
+        },
+        {
+          "n": "3",
+          "title": "Add a witness",
+          "desc": "CC the person who approved the decision. Now their file has your side inside it."
+        }
+      ],
+      "script": "\"Confirming: <strong>we cut the QA step on the 12th, approved by Elena in the go/no-go call</strong> — notes attached. What's this feeding into, so I send the right version?\"",
+      "example": "Karim noticed a peer asking him to confirm three old decisions in one week, always in writing, never in chat. He answered each with the approver's name on CC. When the peer took the file to HR, every quote came with a director's signature attached.",
+      "counter": "If you are collecting emails on someone, expect them to do the same.\n• Notice when their replies start including approvers and dates.\n• Say nothing about the file. Keep asking normal questions.\n• Stop asking for confirmations. Ask for documents instead.",
+      "insight": "A file built on you is only dangerous if your answers are short. The trap is politeness — brief answers read like admissions six months later."
+    },
+    {
+      "id": 7,
+      "cat": "whoson",
+      "danger": "moderate",
+      "title": "Move People to BCC to Shrink Their Audience",
+      "principle": "Sun Tzu: Deny the Enemy His Ground",
+      "remember": "Move the crowd to BCC and the show is over.",
+      "when": "Someone is performing for a big CC list instead of solving the problem.",
+      "hook": "Take away the audience and the performance stops. <strong>Nobody plays to an empty room.</strong>",
+      "truth": "A performer needs to be seen. BCC removes the seats.\n• Move the seniors to BCC and say you are protecting their inbox.\n• The performer keeps writing, but their replies now reach nobody who matters.\n• If they add everyone back, that move itself looks desperate.",
+      "theySee": "A considerate person who is trying to reduce email for busy executives.",
+      "signals": [
+        {
+          "icon": "🎭",
+          "l": "Speech mode",
+          "t": "Their emails read like statements, not questions"
+        },
+        {
+          "icon": "📏",
+          "l": "Growing list",
+          "t": "The CC list grows by two names every reply"
+        },
+        {
+          "icon": "🖼️",
+          "l": "Restating basics",
+          "t": "They explain background everyone already knows"
+        },
+        {
+          "icon": "🙋",
+          "l": "Credit claims",
+          "t": "They mention their own contribution in every message"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reply and move the seniors down",
+          "desc": "Start a reply, cut the senior names from CC, and put them in BCC."
+        },
+        {
+          "n": "2",
+          "title": "Say why in one line",
+          "desc": "Open with a line about keeping busy inboxes clear until there is a decision."
+        },
+        {
+          "n": "3",
+          "title": "Take it to a call",
+          "desc": "Offer a fifteen-minute call. Performers hate rooms with no written record."
+        }
+      ],
+      "script": "\"Moving Sofia and Dan to BCC so we don't fill their inboxes while we sort the detail. <strong>Yusuf — 15 minutes at 2pm to close this?</strong>\"",
+      "example": "Grace watched a peer send four grandstanding emails to eleven people. She replied with the two VPs moved to BCC and offered a call. The peer's next email went to four people and said almost nothing. The thread ended that afternoon.",
+      "counter": "If someone quietly moves your audience to BCC, they are cutting your reach.\n• Notice the CC list shrinking while the argument continues.\n• Say: <strong>\"Looping Sofia back in — she asked to follow this one.\"</strong>\n• Give a reason for the re-add. A re-add without a reason looks like panic.",
+      "insight": "Shrinking the room usually ends the fight. It also means the win is now invisible — and invisible wins do not show up at review time."
+    },
+    {
+      "id": 8,
+      "cat": "opening",
+      "danger": "moderate",
+      "title": "Answer the Loaded Question by Fixing the Question",
+      "principle": "Schopenhauer: Art of Controversy — Deny the Premise",
+      "remember": "If the question assumes you failed, answer a better question.",
+      "when": "They write \"why did your team miss the deadline?\" and you did not miss it.",
+      "hook": "Answer that question and you agreed you missed the deadline. <strong>The question was the whole attack.</strong>",
+      "truth": "A loaded question smuggles the verdict inside the ask.\n• Answering any part of it puts your name under their version of events.\n• Correct the question first, then answer the corrected one.\n• Most people defend themselves inside the frame and lose while sounding reasonable.",
+      "theySee": "A coworker who calmly states a different set of facts and does not sound rattled.",
+      "signals": [
+        {
+          "icon": "🪝",
+          "l": "Built-in verdict",
+          "t": "Their question contains a fact you dispute"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Passive blame",
+          "t": "They write \"the delay\" instead of naming who caused it"
+        },
+        {
+          "icon": "📌",
+          "l": "Deadline drift",
+          "t": "They quote a date nobody ever agreed to in writing"
+        },
+        {
+          "icon": "👀",
+          "l": "Fresh audience",
+          "t": "They send it to people who do not know the history"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the buried claim",
+          "desc": "Underline the part of their question you disagree with. That is the real target."
+        },
+        {
+          "n": "2",
+          "title": "Correct it in one sentence",
+          "desc": "State the true fact with a date or a document number. No adjectives."
+        },
+        {
+          "n": "3",
+          "title": "Answer the fixed question",
+          "desc": "Then answer what they should have asked. Keep it to three lines."
+        }
+      ],
+      "step_note": null,
+      "script": "\"Quick correction first: <strong>the agreed date was the 20th, in the signed scope on the 3rd.</strong> We delivered on the 18th. If the question is why the 14th got mentioned in the deck, I can walk through that.\"",
+      "example": "Priya got an email asking why her team blew the launch date, with the CTO on CC. Her first line quoted the signed scope date and her delivery date. The sender never mentioned the deadline again and switched to a different complaint.",
+      "counter": "If someone rewrites your question before answering, they are refusing your frame.\n• Notice a reply that opens with \"quick correction\" or a date.\n• Say: <strong>\"Fine on the date. My question was about the scope cut.\"</strong>\n• Accept the correction and restate your real ask immediately. Do not defend the bad question.",
+      "insight": "Fixing the question wins the paragraph. The harder part is that they now know you read carefully, and their next email will be built cleaner."
+    },
+    {
+      "id": 9,
+      "cat": "opening",
+      "danger": "moderate",
+      "title": "Make Them Show the Document They Are Quoting",
+      "principle": "Gracián: Make Others Reveal Their Hand First",
+      "remember": "Ask for the document. Vague quotes fall apart fast.",
+      "when": "They claim an agreement or a policy that you never saw in writing.",
+      "hook": "\"As we agreed\" is the most common lie in corporate email. <strong>Ask which email said that.</strong>",
+      "truth": "Most email attacks rest on a document nobody checks.\n• Ask for the exact email, date, or policy line. Politely, once.\n• If it exists, you learn the real terms and stop guessing.\n• If it does not exist, their whole case dies without you attacking anyone.",
+      "theySee": "A helpful coworker who wants to make sure everyone works from the same paper.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Vague authority",
+          "t": "They write \"as agreed\" with no date or link"
+        },
+        {
+          "icon": "📜",
+          "l": "Policy claim",
+          "t": "They mention a policy but never name the section"
+        },
+        {
+          "icon": "🔀",
+          "l": "Topic switch",
+          "t": "You ask for the document and they change subject"
+        },
+        {
+          "icon": "🧠",
+          "l": "Memory appeal",
+          "t": "They say \"you'll remember from the meeting\""
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the source once",
+          "desc": "Write one line asking for the email date or the policy section. Nothing else."
+        },
+        {
+          "n": "2",
+          "title": "Wait and do not fill silence",
+          "desc": "Send nothing more until they answer. Your next email must not rescue them."
+        },
+        {
+          "n": "3",
+          "title": "State the record yourself",
+          "desc": "If they dodge twice, post the document you do have and let the group compare."
+        }
+      ],
+      "script": "\"Can you point me to the email where we agreed the 14th? <strong>I have the scope doc from the 3rd saying the 20th</strong> — attaching it so we're all on the same page.\"",
+      "example": "Owen was told he had broken an agreed process, with two directors on CC. He asked once for the email that set it. Silence for two days. He then posted the actual process doc, which said the opposite. The complaint disappeared.",
+      "counter": "If someone asks you to produce the document, they suspect it does not exist.\n• Notice the polite request for a date or a link.\n• Say: <strong>\"It was the 9 May call — sending the notes now.\"</strong>\n• Produce something real and fast, or drop the claim. A dodge reads as a bluff.",
+      "insight": "Asking for the document is the cheapest move in email. The cost comes when they produce it, and it says what they claimed."
+    },
+    {
+      "id": 10,
+      "cat": "opening",
+      "danger": "high",
+      "title": "Never Answer More Than Three Accusations",
+      "principle": "Greene: Law 9 — Win Through Actions, Not Argument",
+      "remember": "Answer three points. Ignore the other eleven.",
+      "when": "Their email lists many complaints against you in numbered points.",
+      "hook": "Fourteen points is not an argument. <strong>It is a flood, and floods win by volume.</strong>",
+      "truth": "A long list works because you feel you must answer everything.\n• Answering all fourteen makes you look guilty of at least six.\n• Long defensive emails read as panic to anyone senior on CC.\n• Pick the three that matter, kill them with facts, and let the rest starve.",
+      "theySee": "A short confident reply that handles the serious parts and ignores the noise.",
+      "signals": [
+        {
+          "icon": "🔢",
+          "l": "Numbered flood",
+          "t": "Their email has more than six numbered complaints"
+        },
+        {
+          "icon": "🥄",
+          "l": "Tiny mixed with big",
+          "t": "A font choice sits next to a missed deadline in the same list"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Fast follow-up",
+          "t": "They send a second list before you answered the first"
+        },
+        {
+          "icon": "🧱",
+          "l": "Wall of text",
+          "t": "No paragraph breaks and no clear ask at the end"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Rank their points by damage",
+          "desc": "Mark which three could actually hurt your job or budget. Ignore the rest."
+        },
+        {
+          "n": "2",
+          "title": "Kill each with one fact",
+          "desc": "Give each of the three a date, a number, or an attachment. One line each."
+        },
+        {
+          "n": "3",
+          "title": "Close the door on the rest",
+          "desc": "Add one line saying the smaller items are handled and offer a call if needed."
+        }
+      ],
+      "script": "\"Three things that matter here. <strong>One: delivered the 18th, ticket 4021. Two: scope change approved by Elena on the 9th. Three: the cost number in your email is the old quote.</strong> The rest are detail — happy to walk through on a call.\"",
+      "example": "Sandra got a fourteen-point email from a peer, with her director on CC. She answered three points with three dates and one attachment. Her director replied \"this looks resolved\" and nobody ever mentioned points four through fourteen again.",
+      "counter": "If someone answers only three of your points, they are starving the rest.\n• Notice the short reply that skips most of your list.\n• Say: <strong>\"Good on those three. Points 6 and 9 are still open — need answers by Thursday.\"</strong>\n• Re-raise two only, with a date. A flood twice reads as noise.",
+      "insight": "Three answers beat fourteen every time. The risk is real though — the point you ignore is the one they take to HR."
+    },
+    {
+      "id": 11,
+      "cat": "opening",
+      "danger": "moderate",
+      "title": "Quote Their Own Words Back With a Date",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Paste what they wrote and put the date next to it.",
+      "when": "They now claim the opposite of what they said in an earlier email.",
+      "hook": "They forgot the email. <strong>You did not.</strong>",
+      "truth": "People argue against your memory and fold against their own words.\n• Paste their exact sentence with the date. Add no comment.\n• They now have to fight themselves in front of the CC line.\n• The mistake is paraphrasing. Paraphrase invites debate. A quote does not.",
+      "theySee": "Their own sentence on screen, with a date, in front of their boss.",
+      "signals": [
+        {
+          "icon": "🔄",
+          "l": "Position flip",
+          "t": "They now say the opposite of last month's email"
+        },
+        {
+          "icon": "🫧",
+          "l": "Softened memory",
+          "t": "They write \"I may have said something like that\""
+        },
+        {
+          "icon": "🧯",
+          "l": "Blame shift",
+          "t": "They start explaining what they meant instead of what they wrote"
+        },
+        {
+          "icon": "📵",
+          "l": "Channel switch",
+          "t": "They ask to \"jump on a quick call\" right after your quote"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the email",
+          "desc": "Search their name plus the key word. Copy the exact sentence, not your memory of it."
+        },
+        {
+          "n": "2",
+          "title": "Paste it with the date",
+          "desc": "Put their sentence in quotes with the date. Do not add adjectives or a jab."
+        },
+        {
+          "n": "3",
+          "title": "Ask one clean question",
+          "desc": "Ask which version to work from. Let the group watch them choose."
+        }
+      ],
+      "script": "\"From your email on 9 May: <strong>'we're fine to slip to the 20th if scope holds.'</strong> Scope held. Which version should the team plan against?\"",
+      "example": "Felix was accused of pushing a date without approval. He pasted one sentence from the accuser's own email, dated, with no commentary. The accuser replied \"fair enough, let's move on.\" The director on CC replied only to Felix: \"nicely handled.\"",
+      "counter": "If someone quotes your old email at you, they have the thread and you do not.\n• Notice a dated quote with no commentary. That is a prepared move.\n• Say: <strong>\"That was right then. Two things changed since: X and Y.\"</strong>\n• Do not deny the quote. Name what changed, with dates.",
+      "insight": "A quote with a date ends most disputes. The next problem is that everyone on CC now knows you keep receipts, and people who know that write to you differently."
+    },
+    {
+      "id": 12,
+      "cat": "reframe",
+      "danger": "moderate",
+      "title": "Turn the Blame Question Into a Decision Question",
+      "principle": "Voss: Calibrated Questions",
+      "remember": "Stop arguing about who broke it. Ask who decides next.",
+      "when": "The thread has spent four emails arguing about whose fault it was.",
+      "hook": "Blame threads have no ending. <strong>Decision threads end when someone chooses.</strong>",
+      "truth": "Nobody can win a fault argument in writing. Anyone can win a decision.\n• Move the thread from the past to the next step and you set the agenda.\n• Seniors reward whoever ended the noise, not whoever was right.\n• The trap is answering blame one more time before you switch.",
+      "theySee": "A person who stopped the argument and gave everyone something to approve.",
+      "signals": [
+        {
+          "icon": "♻️",
+          "l": "Same points looping",
+          "t": "The last three emails repeat the same two complaints"
+        },
+        {
+          "icon": "😶",
+          "l": "Seniors gone quiet",
+          "t": "The senior names stopped replying two days ago"
+        },
+        {
+          "icon": "📈",
+          "l": "Length creep",
+          "t": "Each email is longer than the one before it"
+        },
+        {
+          "icon": "🚧",
+          "l": "No next step",
+          "t": "Nobody has written a date or an action item"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write one line on the past",
+          "desc": "Give the facts once with dates. Do not defend, do not accuse. One line only."
+        },
+        {
+          "n": "2",
+          "title": "Offer two real options",
+          "desc": "Write two choices with the cost of each. Make both acceptable to you."
+        },
+        {
+          "n": "3",
+          "title": "Name who chooses and by when",
+          "desc": "Ask one person for a decision by a specific day and hour."
+        }
+      ],
+      "script": "\"Facts once: <strong>scope changed on the 9th, we shipped the 18th.</strong> Two ways forward: add a week and close the gap, or ship and fix in the next release. <strong>Marcus, can you pick by Thursday 10am?</strong>\"",
+      "example": "Anton's thread hit nine emails of fault-swapping with the VP silent on CC. He sent one email: three facts, two options, one deadline. The VP replied within an hour picking option two. The blame conversation never resumed.",
+      "counter": "If someone converts your complaint into a decision, they just took the thread from you.\n• Notice the reply with two options and a deadline in it.\n• Say: <strong>\"I'll take option two. The cause still needs a look — separate thread.\"</strong>\n• Agree to the decision and open a new thread for the fault. Do not fight in theirs.",
+      "insight": "Whoever writes the options controls the answer. The catch is that you must be happy with both, because they will pick the one you like less."
+    },
+    {
+      "id": 13,
+      "cat": "reframe",
+      "danger": "moderate",
+      "title": "Say the Bad News About Yourself First",
+      "principle": "Voss: Accusation Audit",
+      "remember": "Say your worst fact first. Then nobody else can.",
+      "when": "You know something in the thread makes you look bad and they have not said it yet.",
+      "hook": "The bad fact is a weapon while it is a secret. <strong>Say it and it becomes background.</strong>",
+      "truth": "The fact they save for the big reveal is only powerful unannounced.\n• Put it in your own words, with your own explanation attached.\n• When they raise it later, it reads as old news everyone already knows.\n• Most people hide it and hope. Hoping is how the ambush lands.",
+      "theySee": "A person who is honest about a mistake and already has the fix written down.",
+      "signals": [
+        {
+          "icon": "🧨",
+          "l": "Held card",
+          "t": "They hint that there is \"more to discuss offline\""
+        },
+        {
+          "icon": "🔎",
+          "l": "Digging questions",
+          "t": "They ask about the exact week your problem happened"
+        },
+        {
+          "icon": "📎",
+          "l": "Doc requests",
+          "t": "They ask for logs or invoices from that period"
+        },
+        {
+          "icon": "⏳",
+          "l": "Slow build",
+          "t": "They send small polite emails instead of one attack"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your worst fact",
+          "desc": "Write the one sentence you least want in the thread. That is what you say first."
+        },
+        {
+          "n": "2",
+          "title": "Attach the cause and the fix",
+          "desc": "Add why it happened and what you already changed. Two lines, no excuses."
+        },
+        {
+          "n": "3",
+          "title": "Move to the open question",
+          "desc": "End by naming what still needs a decision, so the thread moves off you."
+        }
+      ],
+      "script": "\"Putting the ugly part up front: <strong>we missed the QA gate in week 3 — my call, no sign-off.</strong> We added a two-person check on the 11th and it has held since. The open item is whether we re-test the old batch.\"",
+      "example": "Lena knew a peer was collecting a missed sign-off to use in a review thread. She wrote it herself in the first paragraph of a status email, with the fix. When the peer raised it a week later, the director replied \"yes, Lena flagged that already.\"",
+      "counter": "If someone confesses their worst fact early, they are taking your ammunition.\n• Notice a reply that admits something before you raise it.\n• Say: <strong>\"Appreciated. The part still unanswered is the old batch.\"</strong>\n• Do not praise the honesty and move on. Push straight to what they left out.",
+      "insight": "Confessing first takes the sting out of the ambush. It also puts your mistake in writing forever — the trade is worth it only if you also wrote the fix."
+    },
+    {
+      "id": 14,
+      "cat": "reframe",
+      "danger": "high",
+      "title": "Answer in Facts and Let Their Heat Show",
+      "principle": "Greene: Law 4 — Always Say Less Than Necessary",
+      "remember": "Stay short and cold. Their anger does the work.",
+      "when": "They send an emotional email full of words like unacceptable and disappointing.",
+      "hook": "Two emails sit side by side on the VP's screen. <strong>One is angry, one is four lines of dates.</strong>",
+      "truth": "Anyone senior reading the thread compares tone before content.\n• Short factual replies make their emotion look like the problem.\n• Every adjective you add moves you closer to their register.\n• The trap is one small jab at the end. That single line erases the contrast.",
+      "theySee": "A short, calm email with dates in it, next to their own long angry one.",
+      "signals": [
+        {
+          "icon": "🌶️",
+          "l": "Loaded adjectives",
+          "t": "They use words like unacceptable, shocking, or disappointing"
+        },
+        {
+          "icon": "❗",
+          "l": "Punctuation heat",
+          "t": "They write in bold, caps, or with exclamation marks"
+        },
+        {
+          "icon": "🧑‍⚖️",
+          "l": "Character talk",
+          "t": "They describe what kind of person you are, not what happened"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat sends",
+          "t": "They send two emails in ten minutes on the same point"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Strip every adjective",
+          "desc": "Delete every judgment word from your draft. Keep only dates, numbers, and names."
+        },
+        {
+          "n": "2",
+          "title": "Cut it to four lines",
+          "desc": "Four lines maximum. If it needs more, it needs a meeting instead."
+        },
+        {
+          "n": "3",
+          "title": "Delete your last line",
+          "desc": "Read your final sentence. If it has any bite, cut it. That line is the leak."
+        }
+      ],
+      "script": "\"Dates: <strong>scope signed 3 May, change requested 9 May, delivered 18 May.</strong> Cost is unchanged at 40k. Happy to go through it live if that's easier.\"",
+      "example": "Marco got a blistering email calling his work unacceptable, with three VPs on CC. He replied with four lines: three dates and one number. One VP wrote back to Marco privately: \"noted who kept their head.\" The sender was moved off the project that quarter.",
+      "counter": "If someone answers your heat with cold facts, they are letting you look unstable.\n• Notice the reply that ignores your tone entirely.\n• Say: <strong>\"Those dates are right. The gap is the 9 May change — who approved it?\"</strong>\n• Drop your heat immediately and ask one hard factual question.",
+      "insight": "Cold beats hot in front of an audience. Keep it up too long and you become the person nobody can read — which has its own price."
+    },
+    {
+      "id": 15,
+      "cat": "reframe",
+      "danger": "moderate",
+      "title": "Give Them a Ladder Down",
+      "principle": "Sun Tzu: Leave the Enemy a Way Out",
+      "remember": "Beat them, then hand them a way to save face.",
+      "when": "You have proven them wrong in front of the whole CC line.",
+      "hook": "A cornered person keeps writing forever. <strong>Give them a door and they use it.</strong>",
+      "truth": "People do not fight for the point. They fight to not look stupid in public.\n• Offer a reason their error was reasonable and they stop fighting.\n• Blame a document, a calendar, or an old process. Never their judgment.\n• Twist the knife instead and you buy yourself an enemy for two years.",
+      "theySee": "A coworker who won but gave them a clean line to agree with.",
+      "signals": [
+        {
+          "icon": "🧱",
+          "l": "Repeat defense",
+          "t": "They restate the same wrong point with new words"
+        },
+        {
+          "icon": "↪️",
+          "l": "Side complaint",
+          "t": "They open a second unrelated complaint in the same thread"
+        },
+        {
+          "icon": "🤐",
+          "l": "Sudden silence",
+          "t": "They stop replying but stay on the thread"
+        },
+        {
+          "icon": "📞",
+          "l": "Offline push",
+          "t": "They ask to \"take this offline\" right after being corrected"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Blame the paper",
+          "desc": "Name a document or an old process as the reason for the mix-up. Not the person."
+        },
+        {
+          "n": "2",
+          "title": "Give them a small win",
+          "desc": "Agree with one real point they made and say so by name."
+        },
+        {
+          "n": "3",
+          "title": "Close with joint next step",
+          "desc": "End with one action you both own, so agreeing costs them nothing."
+        }
+      ],
+      "script": "\"Honestly the scope doc had two dates in it — <strong>easy to read the 14th.</strong> Your point on the test coverage is fair and I'll take it. Shall we fix the doc together this week?\"",
+      "example": "Ivy proved a director had used a stale number in front of six people. Her next email blamed the shared dashboard for showing old data and thanked him for one valid point. He replied \"good catch, let's fix the dashboard.\" He backed her budget request a month later.",
+      "counter": "If someone hands you a graceful excuse after beating you, they want the fight over.\n• Notice the reply that blames a document instead of you.\n• Say: <strong>\"That doc is a mess — I'll take that. Let's fix it Thursday.\"</strong>\n• Take the ladder. Refusing it only proves the point they made.",
+      "insight": "The ladder ends the thread and buys goodwill. It also means the record shows a mix-up instead of your win — decide which one you needed."
+    },
+    {
+      "id": 16,
+      "cat": "boss",
+      "danger": "high",
+      "title": "When They CC Your Boss, Write to Your Boss",
+      "principle": "Greene: Law 2 — Judge Your Enemy by His Audience",
+      "remember": "They added your boss. Now your boss is the reader.",
+      "when": "A peer adds your manager to a thread where they are complaining about you.",
+      "hook": "Adding your boss is not escalation. <strong>It is a request for a spanking, in front of you.</strong>",
+      "truth": "The moment your boss lands on CC, the peer stops being your reader.\n• Your boss wants two things: no surprises and no work.\n• Give them the facts, the fix, and permission to stay out of it.\n• Arguing with the peer now just makes your boss read a long fight.",
+      "theySee": "A manager who gets a clear summary and nothing to clean up.",
+      "signals": [
+        {
+          "icon": "➕",
+          "l": "Boss added mid-thread",
+          "t": "Your manager appears on CC in reply number four"
+        },
+        {
+          "icon": "🧾",
+          "l": "Summary paragraph",
+          "t": "They add background your boss already knows"
+        },
+        {
+          "icon": "🎯",
+          "l": "Name switch",
+          "t": "They start writing \"as Dana's team decided\" instead of \"you\""
+        },
+        {
+          "icon": "🕰️",
+          "l": "Old items revived",
+          "t": "They bring back a closed issue from last quarter"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send your boss the short version",
+          "desc": "Reply to all with four lines aimed at your boss: what happened, what you did, what's open."
+        },
+        {
+          "n": "2",
+          "title": "Tell your boss they can stay out",
+          "desc": "Add one line saying you are handling it and will flag only if it needs them."
+        },
+        {
+          "n": "3",
+          "title": "Send one private line",
+          "desc": "Message your boss separately with the one detail you did not put in writing."
+        }
+      ],
+      "script": "\"Dana, short version: <strong>date was the 20th per signed scope, we shipped the 18th.</strong> The open item is the extra test round — I'm working it with Yusuf and will flag if it needs you. No action needed from you today.\"",
+      "example": "Bilal's peer added his director to a complaint thread. Bilal replied with four lines to the director and a note saying he had it handled. The director replied \"thanks, leave it with you.\" The peer's next two emails got no senior reply at all.",
+      "counter": "If someone answers your escalation by managing their boss, they just neutralized it.\n• Notice the reply that speaks past you to your added audience.\n• Say: <strong>\"Dana, I do need your read on the extra test round.\"</strong>\n• Ask the senior person for one specific decision. Escalation dies without an ask.",
+      "insight": "Handling it for your boss makes you safe this week. The harder question is whether they ever learn the peer is a problem."
+    },
+    {
+      "id": 17,
+      "cat": "boss",
+      "danger": "high",
+      "title": "Never Complain About the Peer in the Thread",
+      "principle": "Machiavelli: Never Show a Wound to a Prince",
+      "remember": "Report facts. Never report your feelings about a coworker.",
+      "when": "You want to tell your boss in writing that a peer is behaving badly.",
+      "hook": "Your boss does not want to hear who is difficult. <strong>They want to hear who is easy.</strong>",
+      "truth": "A written complaint about a peer makes you the second problem.\n• Managers file it as \"these two cannot work together,\" not \"Yusuf is wrong.\"\n• Facts with dates read as competence. Complaints read as drama.\n• Say the complaint out loud, in a room, with no record. Never in email.",
+      "theySee": "A person who never complains and always brings dates.",
+      "signals": [
+        {
+          "icon": "😤",
+          "l": "Urge to explain",
+          "t": "You want to write a paragraph about how they always do this"
+        },
+        {
+          "icon": "🧵",
+          "l": "Long draft",
+          "t": "Your draft is over ten lines and mostly about a person"
+        },
+        {
+          "icon": "🩹",
+          "l": "Fairness words",
+          "t": "You are about to type unfair, unprofessional, or disrespectful"
+        },
+        {
+          "icon": "🔂",
+          "l": "Pattern claims",
+          "t": "You want to list three past incidents as proof"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Cut every sentence about the person",
+          "desc": "Delete anything describing their behavior or character. Keep only events and dates."
+        },
+        {
+          "n": "2",
+          "title": "Put the pattern in a private call",
+          "desc": "Book fifteen minutes with your boss. Say the pattern out loud, not in writing."
+        },
+        {
+          "n": "3",
+          "title": "Ask for one process fix",
+          "desc": "Ask for a rule, not a punishment. Rules survive. Complaints get filed."
+        }
+      ],
+      "script": "\"Dana — nothing dramatic in writing, but <strong>can I get 15 minutes tomorrow?</strong> Want to walk you through the last three date changes and propose one rule that stops them.\"",
+      "example": "Reza wanted to email his director about a peer who kept changing deadlines. Instead he sent one line asking for fifteen minutes. In the room he showed three dates and asked for a written change-control rule. He got the rule and never looked like the difficult one.",
+      "counter": "If someone brings you a pattern verbally and never writes it, they are protecting their record.\n• Notice the coworker who only complains in rooms, never in email.\n• Say: <strong>\"Send me the three dates in an email so I can act on it.\"</strong>\n• Ask for it in writing. If they refuse, you know how serious it is.",
+      "insight": "Keeping complaints verbal protects your name. The cost is that nothing is on the record — so the day you need proof of a pattern, you have none."
+    },
+    {
+      "id": 18,
+      "cat": "boss",
+      "danger": "extreme",
+      "title": "Reply Above the Person Who Escalated",
+      "principle": "Greene: Law 5 — Guard Your Reputation With Your Life",
+      "remember": "Answer the senior person. Treat the attacker as background.",
+      "when": "A peer takes a complaint about you straight to a senior leader in writing.",
+      "hook": "They went over your head. <strong>So write to the head they went over.</strong>",
+      "truth": "Escalation gives you a gift: direct access to the person they wanted.\n• Answer the senior name only. Do not address the peer at all.\n• Senior people judge who solved it, not who started it.\n• The trap is one line at the peer. That line turns your reply into a fight.",
+      "theySee": "A senior leader reading a clean answer with no mention of the fight.",
+      "signals": [
+        {
+          "icon": "🚀",
+          "l": "Skip-level jump",
+          "t": "They emailed a VP directly with you on CC"
+        },
+        {
+          "icon": "🗂️",
+          "l": "Attached evidence",
+          "t": "They attached documents to make it look prepared"
+        },
+        {
+          "icon": "🧑‍🤝‍🧑",
+          "l": "Coalition names",
+          "t": "They added two peers who agree with them"
+        },
+        {
+          "icon": "⌛",
+          "l": "Urgency claim",
+          "t": "They say it needs a decision today"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write only to the senior name",
+          "desc": "Open your reply with the senior person's name. Never mention the peer's behavior."
+        },
+        {
+          "n": "2",
+          "title": "Give three facts and one fix",
+          "desc": "Three dated facts. One proposed action. Under six lines total."
+        },
+        {
+          "n": "3",
+          "title": "Offer a slot today",
+          "desc": "Offer a fifteen-minute call today. Fast access beats a long written defense."
+        }
+      ],
+      "script": "\"<strong>Marcus — here's the short version.</strong> Scope signed 3 May. Change requested 9 May. Delivered 18 May at the agreed cost. My proposal is one extra test round this week. Free at 3pm today if you want it live.\"",
+      "example": "Kate's peer emailed the COO accusing her team of a cost overrun. Kate replied only to the COO: three dates, one number, one proposal, and a 3pm offer. The COO took the call and approved her plan. Her peer was never mentioned in the reply or the meeting.",
+      "counter": "If someone answers your escalation by talking only to the senior person, they cut you out.\n• Notice a reply that never uses your name once.\n• Say: <strong>\"Marcus, happy to add the cost detail before you decide.\"</strong>\n• Get back in with new information, not with a protest about being ignored.",
+      "insight": "Going over the escalator's head wins the day. It also means the next time they move on you, they will not warn you first."
+    },
+    {
+      "id": 19,
+      "cat": "ending",
+      "danger": "moderate",
+      "title": "Write the Summary Email That Becomes the Truth",
+      "principle": "Greene: Law 6 — Court Attention, and Control the Story",
+      "remember": "Whoever writes the summary owns what happened.",
+      "when": "The argument has ended and nobody has written down the conclusion.",
+      "hook": "Six months from now, nobody reads twenty emails. <strong>They read the last one.</strong>",
+      "truth": "The summary email quietly becomes the official version of events.\n• Write it within a day, while everyone is tired of the thread.\n• Facts, decision, owners, dates. Your framing, no adjectives.\n• Everyone who does not object is now recorded as agreeing.",
+      "theySee": "A helpful person tidying up a messy thread for everybody.",
+      "signals": [
+        {
+          "icon": "😮‍💨",
+          "l": "Thread fatigue",
+          "t": "Replies have stopped for a day and nothing is written down"
+        },
+        {
+          "icon": "🤷",
+          "l": "Unclear owner",
+          "t": "Nobody knows who owns the next step"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Verbal decision",
+          "t": "The real decision happened on a call with no notes"
+        },
+        {
+          "icon": "📤",
+          "l": "New joiners",
+          "t": "Someone asks to be caught up on the thread"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write it within 24 hours",
+          "desc": "Send the summary the next morning. Late summaries get argued with."
+        },
+        {
+          "n": "2",
+          "title": "Use four headings only",
+          "desc": "What happened. What we decided. Who owns what. Dates. No commentary."
+        },
+        {
+          "n": "3",
+          "title": "Ask for corrections by a deadline",
+          "desc": "Give a 48-hour window for corrections. Silence then becomes agreement."
+        }
+      ],
+      "script": "\"Summary so we all have one version. <strong>Decision: ship 18 May, extra test round in the next release. Owners: me on test scope, Yusuf on sign-off. Date: 30 May.</strong> Corrections by Thursday please, otherwise I'll treat this as agreed.\"",
+      "example": "Hugo sent a five-line summary the morning after a nine-email fight. Nobody corrected it. Four months later, during a review, a director pasted Hugo's summary as the record of what happened. It named Hugo as the owner of the fix.",
+      "counter": "If someone sends the summary first, they wrote the history and you are in it.\n• Notice a tidy recap email with owners and dates.\n• Say: <strong>\"One correction: the 9 May change came from Ops, not from us.\"</strong>\n• Correct one specific line inside the same thread. Never send a rival summary.",
+      "insight": "The summary is the most valuable email in any fight. The hard part is being early enough that correcting you costs more effort than agreeing."
+    },
+    {
+      "id": 20,
+      "cat": "ending",
+      "danger": "low",
+      "title": "Take the Last Word by Closing the Loop, Not Winning It",
+      "principle": "Gracián: Know How to Withdraw",
+      "remember": "End with the next step, not with the final point.",
+      "when": "You want to stop replying but not look like you gave up.",
+      "hook": "The last email is not the winning one. <strong>It is the one nobody can reply to.</strong>",
+      "truth": "A closed thread needs an email with no open question in it.\n• End with a decision, an owner, and a date. Nothing to argue with.\n• Any question you leave open is an invitation for one more attack.\n• People who chase the last word keep the thread alive and lose the room.",
+      "theySee": "A person who wrapped things up and moved on to work.",
+      "signals": [
+        {
+          "icon": "🥱",
+          "l": "Points exhausted",
+          "t": "Nobody has said anything new in three emails"
+        },
+        {
+          "icon": "👏",
+          "l": "Score-keeping",
+          "t": "Replies now argue about who said what, not what to do"
+        },
+        {
+          "icon": "🚪",
+          "l": "Seniors leaving",
+          "t": "Senior names stop replying or drop off the thread"
+        },
+        {
+          "icon": "🔔",
+          "l": "Bait question",
+          "t": "Their last email ends with a question designed to pull you back"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer nothing in their last email",
+          "desc": "Do not respond to their final jab or question. Skip it completely."
+        },
+        {
+          "n": "2",
+          "title": "State the close",
+          "desc": "Write the decision, the owner, and the date in three short lines."
+        },
+        {
+          "n": "3",
+          "title": "Move it out of email",
+          "desc": "Offer a call for anything remaining. Then stop replying, whatever they send."
+        }
+      ],
+      "script": "\"Closing this out: <strong>we ship 18 May, extra test round lands 30 May, I own the test scope.</strong> Anything else on this one, grab me on a call — I'm off email for the rest of the thread.\"",
+      "example": "Jia was six emails deep with a peer who kept asking loaded questions. She sent three lines: decision, owner, date, and an offer to call. She never replied again. The peer sent two more emails to silence and then stopped.",
+      "counter": "If someone closes the thread while your question is open, they ended it on their terms.\n• Notice a closing email with a decision and no answer to you.\n• Say: <strong>\"Agreed on the ship date. The cost question is still open — answer by Friday?\"</strong>\n• Accept the close and put one dated question in a fresh thread.",
+      "insight": "A thread with no question left is dead. The trap is closing too early, before the decision you actually needed was written down."
+    },
+    {
+      "id": 21,
+      "cat": "record",
+      "danger": "moderate",
+      "title": "Write Every Email As If HR Reads It in a Year",
+      "principle": "Schelling: Credible Commitment in Writing",
+      "remember": "Assume a stranger reads this email out loud next year.",
+      "when": "You are typing something in email that you would not say in a meeting.",
+      "hook": "Email has no delete key. <strong>It has a search bar, and someone else knows how to use it.</strong>",
+      "truth": "Every email you send is a document that outlives the argument.\n• Write only what reads well to a stranger with no context.\n• Sarcasm and jokes read as hostility twelve months later.\n• Anything you would not say to a room, say on a call instead.",
+      "theySee": "A coworker whose emails are boring, exact, and impossible to quote against them.",
+      "signals": [
+        {
+          "icon": "😏",
+          "l": "Sarcasm urge",
+          "t": "You are about to write \"as I already explained twice\""
+        },
+        {
+          "icon": "🙄",
+          "l": "Character words",
+          "t": "Your draft describes what kind of person they are"
+        },
+        {
+          "icon": "🌚",
+          "l": "Late-night send",
+          "t": "You are writing this after 10 PM"
+        },
+        {
+          "icon": "📣",
+          "l": "Big CC list",
+          "t": "You are about to send something sharp to more than five people"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Read your draft as a stranger",
+          "desc": "Read it once as if you do not know either person. Cut anything that sounds petty."
+        },
+        {
+          "n": "2",
+          "title": "Delete every sarcastic line",
+          "desc": "Sarcasm has no tone in text. Remove it all, including the funny parts."
+        },
+        {
+          "n": "3",
+          "title": "Move the sharp part to a call",
+          "desc": "Take the one line you love most and say it out loud instead."
+        }
+      ],
+      "script": "\"Rather than go back and forth in writing on this one — <strong>can we take five minutes at 2pm?</strong> Easier to sort the detail live and I'll send the summary after.\"",
+      "example": "Omar deleted a sarcastic line from an email to a peer and said it on a call instead. Nine months later the peer's HR complaint quoted four emails, none of them his. His written record showed only dates and offers to talk.",
+      "counter": "If someone's emails are always flat and exact, they are writing for the record.\n• Notice a coworker who never jokes and never gets emotional in writing.\n• Say: <strong>\"Let's put the agreement in email so we both have it.\"</strong>\n• Match them. Keep your own record clean and stop expecting them to slip.",
+      "insight": "A clean record protects you in any inquiry. It also means you never get to say the thing you actually want to say — and some people need to hear it."
+    },
+    {
+      "id": 22,
+      "cat": "record",
+      "danger": "high",
+      "title": "Build the Thread You Will Need Six Months From Now",
+      "principle": "Sun Tzu: Prepare the Ground Before the Battle",
+      "remember": "Save the threads now. You will need them later.",
+      "when": "A pattern is starting and you have no proof of it yet.",
+      "hook": "The day you need the emails is the day you cannot find them. <strong>Save them before you need them.</strong>",
+      "truth": "Fights are decided by whoever kept the paper, not whoever remembers better.\n• Start a folder on day one of any pattern, not month six.\n• Save whole threads, not screenshots. Headers and dates are the value.\n• The mistake is waiting until you feel it is serious. By then someone deleted theirs.",
+      "theySee": "A coworker who always has the exact email, with the date, within a minute.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeat behavior",
+          "t": "The same problem has happened three times with the same person"
+        },
+        {
+          "icon": "🗑️",
+          "l": "Missing history",
+          "t": "An email you remember is no longer in the thread"
+        },
+        {
+          "icon": "💬",
+          "l": "Channel drift",
+          "t": "They stop using email and move everything to chat or calls"
+        },
+        {
+          "icon": "🧊",
+          "l": "Sudden formality",
+          "t": "Their tone in writing turns formal with no explanation"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Make one folder today",
+          "desc": "Create a folder with the person's name and drag in every relevant thread now."
+        },
+        {
+          "n": "2",
+          "title": "Confirm verbal decisions in email",
+          "desc": "After every call, send three lines confirming what was agreed. That builds the paper."
+        },
+        {
+          "n": "3",
+          "title": "Keep a dated one-line log",
+          "desc": "Keep a note with one line per event and its date. Ten seconds each time."
+        }
+      ],
+      "script": "\"Quick note from the call so we have it written: <strong>you asked us to move the date to the 14th, I flagged the test risk, you said proceed.</strong> Shout if I got any of that wrong.\"",
+      "example": "Dara started a folder the second time a peer changed a deadline verbally. She sent a three-line confirmation after every call for four months. When the peer blamed her in a review thread, she pasted six dated confirmations. The peer stopped mid-thread.",
+      "counter": "If someone sends a short recap after every call, they are building a record on you.\n• Notice the three-line confirmation email that arrives after every meeting.\n• Say: <strong>\"Mostly right — I said proceed if QA signed off. Adding that.\"</strong>\n• Correct their recap immediately, in writing. An uncorrected recap becomes the truth.",
+      "insight": "The folder wins the fight you can see coming. The harder question is what it does to you — six months of collecting paper on a coworker changes how you work with everyone."
+    }
+  ]
+}
