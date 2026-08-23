@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "id": "srv-force-the-room-to-decide",
+    "version": "1.0",
+    "title": "Force The Room To Decide",
+    "subtitle": "How to end deferrals and get a real yes or no",
+    "description": "A field manual for the exact moment a meeting ends with 'let's circle back' one time too many. Five moves for finding the real decision-maker, manufacturing a deadline that sticks, and making the room's silence cost more than a decision would.",
+    "author": "AI",
+    "createdAt": "2026-08-17T19:12:00.810Z",
+    "tags": [
+      "negotiation",
+      "decision-making",
+      "meetings",
+      "workplace",
+      "influence"
+    ],
+    "totalCards": 5,
+    "isSeeded": true,
+    "coverColor": "#8B1E1E",
+    "coverIcon": "⏳",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "diagnosis",
+      "label": "Diagnosis",
+      "color": "#6B7280"
+    },
+    {
+      "key": "pressure",
+      "label": "Pressure",
+      "color": "#B91C1C"
+    },
+    {
+      "key": "commitment",
+      "label": "Commitment",
+      "color": "#B45309"
+    },
+    {
+      "key": "allies",
+      "label": "Allies",
+      "color": "#1D4ED8"
+    },
+    {
+      "key": "closing",
+      "label": "Closing",
+      "color": "#7C2D12"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "diagnosis",
+      "danger": "low",
+      "title": "Spot the 'Let's Circle Back' Stall",
+      "principle": "Diffusion of Responsibility",
+      "remember": "A room with no owner will never decide. Find who's hiding.",
+      "when": "Your meeting ends with 'let's take this offline' for the third time.",
+      "hook": "No one in that room is against you. <strong>They're just not the one who has to say yes.</strong>",
+      "truth": "Groups defer because no single person owns the cost of saying no.\n• Everyone nods so no one owns the risk of blocking it.\n• The meeting ends and the decision quietly disappears with it.\n• You keep pitching to the room instead of the one person who can say yes.",
+      "theySee": "A room full of people nodding, no one raising a hand to own the call.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Circle back",
+          "t": "They say 'let's circle back' after every real question."
+        },
+        {
+          "icon": "🕳️",
+          "l": "No owner",
+          "t": "No one in the room says 'I'll decide by Friday.'"
+        },
+        {
+          "icon": "😶",
+          "l": "Passive nods",
+          "t": "Everyone nods along but nobody asks a follow-up question."
+        },
+        {
+          "icon": "📆",
+          "l": "Vague next step",
+          "t": "The next step listed is 'discuss further,' not a date."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the owner",
+          "desc": "Ask directly: 'Who signs off on this, you or someone else?'"
+        },
+        {
+          "n": "2",
+          "title": "Write down every nod",
+          "desc": "After the meeting, list who nodded and email them by name."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the calendar",
+          "desc": "Request the exact date the decision gets made, not 'soon.'"
+        }
+      ],
+      "script": "\"Before we wrap — whose name goes on this decision? I want to follow up with the right person.\"",
+      "example": "Devon pitched a vendor switch to a six-person committee for the third month running. After the third 'let's circle back,' he asked point-blank who signed the contract last time. The CFO's name came up. Devon skipped the committee and got a yes from her in one call.",
+      "counter": "If someone keeps pushing your group to name one owner, they're using this on you.\n• Notice when one person keeps asking 'who really decides this.'\n• Say: 'This is a group call, we decide together.'\n• Slow down and require reasons before anyone gets singled out.",
+      "insight": "Most people keep pitching to the whole room, hoping momentum carries it. The real move is finding the one name attached to the risk. The harder part is doing that without looking like you're going around everyone else."
+    },
+    {
+      "id": 2,
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "Set a Deadline They Didn't Ask For",
+      "principle": "Cialdini: Scarcity — Artificial Deadline",
+      "remember": "No deadline means no decision. Make one up and mean it.",
+      "when": "The room keeps saying 'let's revisit next quarter' with no real reason to wait.",
+      "hook": "Time doesn't run out on its own. <strong>You have to be the one who ends it.</strong>",
+      "truth": "Committees stall forever if nothing forces the clock to run out.\n• A deadline turns a maybe into a yes-or-no question today.\n• People suddenly find the ten minutes they claimed they didn't have.\n• If your deadline isn't real, they'll test it once and never respect it again.",
+      "theySee": "Someone calmly stating the exact date the offer, price, or slot closes.",
+      "signals": [
+        {
+          "icon": "♾️",
+          "l": "Endless quarter",
+          "t": "They keep saying 'next quarter' with no fixed date attached."
+        },
+        {
+          "icon": "🛋️",
+          "l": "No stakes",
+          "t": "Nothing bad happens to them if they wait another month."
+        },
+        {
+          "icon": "🔂",
+          "l": "Repeat ask",
+          "t": "This is the second or third meeting on the same topic."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Vague benefit",
+          "t": "They talk about upside but never what waiting costs them."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a real cost",
+          "desc": "Find something true that actually expires: a price, a slot, a resource."
+        },
+        {
+          "n": "2",
+          "title": "Say the date out loud",
+          "desc": "Tell them the exact day the offer changes, in the meeting, not after."
+        },
+        {
+          "n": "3",
+          "title": "Follow through once",
+          "desc": "If the date passes with no decision, let the terms actually change."
+        }
+      ],
+      "script": "\"This pricing holds through Friday. After that it resets to the standard rate and I have to reopen the queue.\"",
+      "example": "Priya's proposal sat in review for two months with no one pushing it. She told the committee the vendor discount expired in seven days — a real number pulled from the vendor's quote. They approved it in four days flat.",
+      "counter": "If someone hands you a deadline that appeared out of nowhere, they're using this on you.\n• Ask what actually happens on that date, specifically.\n• Say: 'Walk me through what changes if we go past that date.'\n• If the answer is vague, treat the deadline as soft and take your time.",
+      "insight": "A fake deadline gets tested once and dies forever. The real skill isn't inventing urgency — it's finding the true cost that was already sitting there unused."
+    },
+    {
+      "id": 3,
+      "cat": "commitment",
+      "danger": "low",
+      "title": "Get a Small Yes Before the Big One",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Small yeses make the big yes feel like the only option left.",
+      "when": "You need a full commitment but the room only wants to 'explore options.'",
+      "hook": "Nobody jumps straight to yes. <strong>They walk there one small step at a time.</strong>",
+      "truth": "People act consistent with what they already agreed to, even minutes ago.\n• A small yes now makes saying no later feel like backtracking.\n• You get them agreeing to the problem before you mention your solution.\n• Skip this step and the big ask feels like a leap instead of the next step.",
+      "theySee": "Someone asking a small, easy question that's hard to disagree with.",
+      "signals": [
+        {
+          "icon": "✅",
+          "l": "Easy agreement",
+          "t": "They already agreed the problem you named is real and costing money."
+        },
+        {
+          "icon": "🚫",
+          "l": "No solution yet",
+          "t": "Nobody has proposed a fix yet, so there's nothing to resist."
+        },
+        {
+          "icon": "🔓",
+          "l": "Open room",
+          "t": "The meeting is framed as exploratory, not as a final call."
+        },
+        {
+          "icon": "🙆",
+          "l": "Head nods",
+          "t": "You get nods on your framing before you ask for anything big."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask a yes-only question first",
+          "desc": "Ask something they can't reasonably say no to, out loud, in the room."
+        },
+        {
+          "n": "2",
+          "title": "Get it in writing",
+          "desc": "Repeat their yes back in an email summary right after the meeting."
+        },
+        {
+          "n": "3",
+          "title": "Build the ask on their own words",
+          "desc": "Open the next meeting with 'Since we all agreed X, here's the fix.'"
+        }
+      ],
+      "script": "\"So we're all agreed this delay is costing us real deals each month — is that fair to say?\"",
+      "example": "Marcus wanted budget for a new tool but the room kept deflecting. In the meeting he first got everyone to agree the current process was losing three days a week. Next meeting he opened with that number, and the budget passed without a second debate.",
+      "counter": "If someone gets you nodding on small stuff right before a bigger request, they're using this on you.\n• Notice a string of easy agreements right before a bigger ask lands.\n• Say: 'I agree with the problem, but that doesn't commit me to your fix.'\n• Separate agreeing on the problem from agreeing on the solution, out loud.",
+      "insight": "Most people save their persuading for the big ask and wonder why it feels like a wall. The real work happens in the small yeses nobody remembers agreeing to. The next problem is keeping those yeses on record so the room can't quietly forget them."
+    },
+    {
+      "id": 4,
+      "cat": "allies",
+      "danger": "moderate",
+      "title": "Go Around the Committee to the Real Decision-Maker",
+      "principle": "Greene: Law 3 — Conceal Your Intentions / Power Mapping",
+      "remember": "Committees hide who's actually in charge. Go find that person.",
+      "when": "A group keeps deferring a decision that one person could make alone.",
+      "hook": "Committees are where decisions go to disappear. <strong>Somewhere in that room, one person could end this in a sentence.</strong>",
+      "truth": "Groups exist partly so no one person has to own an unpopular call.\n• One person in that room can usually decide alone, they just haven't said so.\n• The committee gives everyone cover to avoid being the one who says yes.\n• Find that person privately and the group's stall stops mattering.",
+      "theySee": "Someone asking for five quiet minutes after the meeting, not more committee time.",
+      "signals": [
+        {
+          "icon": "👀",
+          "l": "One quiet nod",
+          "t": "One person nods fastest and asks the sharpest questions."
+        },
+        {
+          "icon": "👉",
+          "l": "Others defer",
+          "t": "Others in the room glance at that same person before speaking."
+        },
+        {
+          "icon": "💵",
+          "l": "Budget line",
+          "t": "That person's name is the one attached to the budget or the risk."
+        },
+        {
+          "icon": "😩",
+          "l": "Meeting fatigue",
+          "t": "The group has met on this three times with no new information."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch who the room checks with",
+          "desc": "During the meeting, note who others glance at before answering."
+        },
+        {
+          "n": "2",
+          "title": "Ask for five minutes alone",
+          "desc": "Request a short one-on-one right after the meeting ends."
+        },
+        {
+          "n": "3",
+          "title": "Bring the same ask, no audience",
+          "desc": "Repeat your pitch privately and ask for a direct yes or no."
+        }
+      ],
+      "script": "\"Got two minutes after this? I want to run one number by you directly before the next round of meetings.\"",
+      "example": "Lena's project sat in a five-person review for six weeks. She noticed everyone deferred to the ops director before speaking. She caught her after the meeting, walked through the numbers one-on-one, and had a signed approval by end of day.",
+      "counter": "If someone asks to pull you aside right after a group meeting, they're running this on the room.\n• Notice when someone skips the group to catch you alone right after.\n• Say: 'Let's bring that back to the full group so everyone hears it.'\n• Keep the decision inside the process it was supposed to go through.",
+      "insight": "The committee earlier deferred because no one owned the risk — this is where you find who actually does. The harder part is doing it without making the rest of the room feel cut out."
+    },
+    {
+      "id": 5,
+      "cat": "closing",
+      "danger": "high",
+      "title": "Make Doing Nothing Cost Something",
+      "principle": "Kahneman: Loss Aversion",
+      "remember": "People move faster to avoid a loss than to grab a gain.",
+      "when": "The room agrees your idea is good but still won't commit to a date.",
+      "hook": "Nobody's afraid of a good idea. <strong>They're afraid of what happens if they choose wrong.</strong>",
+      "truth": "People will sit on a good idea forever if staying still feels safe.\n• Show them what waiting already costs, not just what moving might gain.\n• A real loss on the table beats a hoped-for win every time.\n• Once inaction has a price tag, the room stops treating 'later' as free.",
+      "theySee": "Someone pointing at a number that's shrinking every week they wait.",
+      "signals": [
+        {
+          "icon": "🆓",
+          "l": "Free later",
+          "t": "They talk about 'later' like it costs nothing to wait."
+        },
+        {
+          "icon": "📈",
+          "l": "Gain only",
+          "t": "The pitch so far only talks about upside, never the cost of delay."
+        },
+        {
+          "icon": "😌",
+          "l": "Comfortable stall",
+          "t": "Nobody in the room feels any pain from the current stall."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat delay",
+          "t": "This is the second time 'later' has already come and gone."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the number that's shrinking",
+          "desc": "Calculate what the delay has already cost in money or time."
+        },
+        {
+          "n": "2",
+          "title": "Put it in the room, not the email",
+          "desc": "Say the cost out loud in the meeting, tied to a specific date."
+        },
+        {
+          "n": "3",
+          "title": "Offer the one choice that stops it",
+          "desc": "Give them a single decision that ends the bleeding today."
+        }
+      ],
+      "script": "\"Every month this sits, we lose about $40,000 to the old process. A yes today stops that number from growing.\"",
+      "example": "Wei's automation proposal got 'let's think on it' for two straight quarters. He came back with one slide: the exact dollar cost of the delay so far, growing monthly. The room approved it before the meeting ended.",
+      "counter": "If someone shows up with a scary cost number to rush your decision, they're using this on you.\n• Ask them to show the math behind the number, line by line.\n• Say: 'Walk me through how you calculated that cost.'\n• A real number survives that question; a made-up one falls apart fast.",
+      "insight": "This is the last lever after the deadline, the small yes, and the private ask all fail to close it. The real risk now is pushing so hard the room says yes just to end the pressure — and quietly resents it later."
+    }
+  ]
+}
