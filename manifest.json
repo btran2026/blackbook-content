@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 17,
+  "manifestVersion": 18,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -169,7 +169,20 @@
       "url": "playbooks/playbook-srv-force-the-yes-getting-a-decision-out-of-a-stalling-room.json",
       "addedAt": "2026-08-23T21:29:06.017Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-art-of-a-womanizer",
+      "title": "Art of a Womanizer",
+      "theme": "seduction",
+      "topic": "",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#7B1E3B",
+      "coverIcon": "🥀",
+      "url": "playbooks/playbook-srv-art-of-a-womanizer.json",
+      "addedAt": "2026-08-23T21:57:06.750Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-23T21:29:06.017Z"
+  "generatedAt": "2026-08-23T21:57:06.750Z"
 }
