@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 16,
+  "manifestVersion": 17,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -156,7 +156,20 @@
       "url": "playbooks/playbook-srv-the-poisoned-chalice.json",
       "addedAt": "2026-08-23T06:59:13.013Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-force-the-yes-getting-a-decision-out-of-a-stalling-room",
+      "title": "Force the Yes: Getting a Decision Out of a Stalling Room",
+      "theme": "negotiation",
+      "topic": "",
+      "cardCount": 5,
+      "contentVersion": 1,
+      "coverColor": "#dc2626",
+      "coverIcon": "⏳",
+      "url": "playbooks/playbook-srv-force-the-yes-getting-a-decision-out-of-a-stalling-room.json",
+      "addedAt": "2026-08-23T21:29:06.017Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-23T06:59:13.013Z"
+  "generatedAt": "2026-08-23T21:29:06.017Z"
 }
