@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 15,
+  "manifestVersion": 16,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -143,7 +143,20 @@
       "url": "playbooks/playbook-srv-winning-the-argument-in-the-cc-line.json",
       "addedAt": "2026-08-23T06:58:59.638Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-poisoned-chalice",
+      "title": "The Poisoned Chalice",
+      "theme": "office politics",
+      "topic": "",
+      "cardCount": 18,
+      "contentVersion": 1,
+      "coverColor": "#6B2D3C",
+      "coverIcon": "🍷",
+      "url": "playbooks/playbook-srv-the-poisoned-chalice.json",
+      "addedAt": "2026-08-23T06:59:13.013Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-23T06:58:59.638Z"
+  "generatedAt": "2026-08-23T06:59:13.013Z"
 }

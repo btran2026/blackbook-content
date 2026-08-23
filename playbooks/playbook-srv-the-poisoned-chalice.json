@@ -1,0 +1,1066 @@
+{
+  "meta": {
+    "id": "srv-the-poisoned-chalice",
+    "version": "1.0",
+    "title": "The Poisoned Chalice",
+    "subtitle": "When the project you were handed was built to sink",
+    "description": "Someone gave you a project with no budget, no authority, and a deadline that was already missed. That is not bad luck. It is a design. This dossier teaches you to read why it landed on you, how to reprice it before you say yes, how to set the terms where witnesses can see them, and how to walk out with your name clean whether it floats or sinks.",
+    "author": "AI",
+    "createdAt": "2026-08-22T23:01:13.909Z",
+    "tags": [
+      "office politics",
+      "career",
+      "risk",
+      "negotiation",
+      "blame",
+      "power"
+    ],
+    "totalCards": 18,
+    "isSeeded": true,
+    "coverColor": "#6B2D3C",
+    "coverIcon": "🍷",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "read",
+      "label": "Read Why It Landed On You",
+      "color": "#8E44AD"
+    },
+    {
+      "key": "before",
+      "label": "Before You Say Yes",
+      "color": "#C0392B"
+    },
+    {
+      "key": "public",
+      "label": "Set The Terms In Public",
+      "color": "#1F6FB2"
+    },
+    {
+      "key": "hatch",
+      "label": "Build The Escape Hatch",
+      "color": "#117A65"
+    },
+    {
+      "key": "while",
+      "label": "While You Run It",
+      "color": "#B9770E"
+    },
+    {
+      "key": "sinks",
+      "label": "If It Sinks Anyway",
+      "color": "#4A4A4A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "read",
+      "danger": "low",
+      "title": "Ask Who Turned It Down Before You",
+      "principle": "Greene: Law 26 — Keep Your Hands Clean",
+      "remember": "Find who said no first. That tells you the real price.",
+      "when": "Your boss hands you a big project and calls it a great opportunity for you.",
+      "hook": "Good projects get fought over. <strong>This one came to you without a fight.</strong>",
+      "truth": "Every doomed project has a trail of people who already refused it.\n• Ask two peers who else was offered the work.\n• The names tell you what senior people already priced in.\n• If nobody refused it, ask why it sat unstaffed for months.",
+      "theySee": "A new person who asks about the history of the work before starting it.",
+      "signals": [
+        {
+          "icon": "🕳️",
+          "l": "No competition",
+          "t": "Nobody else lobbied for this project"
+        },
+        {
+          "icon": "📅",
+          "l": "Old start date",
+          "t": "The kickoff deck has a date from two quarters ago"
+        },
+        {
+          "icon": "🚪",
+          "l": "Prior owner gone",
+          "t": "The last owner moved teams and will not talk about it"
+        },
+        {
+          "icon": "🎁",
+          "l": "Heavy selling",
+          "t": "Your boss keeps calling it visible and career-making"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask two peers",
+          "desc": "Message two people outside your team: 'Did this land on your desk before mine?'"
+        },
+        {
+          "n": "2",
+          "title": "Check the file dates",
+          "desc": "Open the project folder and look at when the first document was created."
+        },
+        {
+          "n": "3",
+          "title": "Find the last owner",
+          "desc": "Get 15 minutes with whoever ran it before and ask what killed it."
+        }
+      ],
+      "script": "\"Before I dig in — <strong>who else looked at this before me, and what made them pass?</strong> I want to know what they saw.\"",
+      "example": "Devon got handed a billing migration with a glowing pitch. He messaged two managers on other teams. Both said they had declined it in March because finance would not fund the vendor. Devon walked into his next 1-on-1 with that fact and asked for funding first.",
+      "counter": "If someone sells you work with excitement instead of details, they are running this move on you.\n• Notice the pitch is about your career, not the plan.\n• Say: <strong>\"Send me the last owner's status notes.\"</strong>\n• Read the notes before you say a single yes.",
+      "insight": "The history is free and nobody hides it, because nobody expects you to ask. The harder part is what you do once you know — refusing outright costs you, and the next card is the version that does not.",
+      "danger_note": ""
+    },
+    {
+      "id": 2,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "Tell The Difference Between A Test And A Trap",
+      "principle": "Machiavelli: The Prince — Fortune Favors The Prepared",
+      "remember": "A test comes with help. A trap comes with a speech.",
+      "when": "You cannot tell if this hard project is a real chance to prove yourself or a setup.",
+      "hook": "Both look the same on day one. <strong>The difference shows up in what they give you.</strong>",
+      "truth": "A test gives you resources. A trap gives you words.\n• Count what came with the work: people, money, a decision-maker.\n• A test has a named sponsor who takes calls within a day.\n• A trap has a sponsor who is always traveling.",
+      "theySee": "A person who asks for specific names and numbers instead of thanking them.",
+      "signals": [
+        {
+          "icon": "👥",
+          "l": "Team named",
+          "t": "They can name the people working for you, or they cannot"
+        },
+        {
+          "icon": "💰",
+          "l": "Budget line",
+          "t": "There is a real budget code, or a promise to sort it out later"
+        },
+        {
+          "icon": "📞",
+          "l": "Sponsor access",
+          "t": "The sponsor gives you a standing meeting, or dodges one"
+        },
+        {
+          "icon": "🎤",
+          "l": "Speech ratio",
+          "t": "They talk more about your potential than the plan"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count the three",
+          "desc": "Write down the people, the money, and the decision-maker. Any blank is a warning."
+        },
+        {
+          "n": "2",
+          "title": "Book the sponsor",
+          "desc": "Ask for a 30-minute weekly slot with the sponsor this week. Watch what happens."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the budget code",
+          "desc": "Send one email: 'What cost center do I charge this to?' Keep the reply."
+        }
+      ],
+      "script": "\"I want to run this well. <strong>Who is on the team, what is the budget code, and who signs off when we disagree?</strong> If any of those are open, I need to know before we start.\"",
+      "example": "Priya got two 'stretch' projects in one year. The first came with two engineers and a VP who met her every Monday. It made her career. The second came with a pep talk and no budget code. She asked for the code three times, got nothing, and moved it back to her director in writing.",
+      "counter": "If someone praises your potential while giving you nothing, they are running this move on you.\n• Notice praise arriving instead of people and money.\n• Say: <strong>\"I hear the trust. What comes with it?\"</strong>\n• Do not start work until one blank gets filled.",
+      "insight": "Resources are the only honest signal, because they cost the giver something. This works until the sponsor is genuinely powerless too — then you are both in the trap, and that changes who you negotiate with.",
+      "danger_note": ""
+    },
+    {
+      "id": 3,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "Find Out Whose Failure This Was First",
+      "principle": "Greene: Law 26 — Get A Scapegoat",
+      "remember": "Someone already failed here. They need a new name on it.",
+      "when": "You inherit a project that already has a bad reputation with other teams.",
+      "hook": "The project is not new. <strong>Only your name on it is new.</strong>",
+      "truth": "A failure needs a fresh owner more than it needs a fix.\n• Look for who gets protected when this fails again.\n• Their old mistake becomes your current problem.\n• Once your name is on the deck, the history disappears.",
+      "theySee": "A person who asks about last year's version instead of this year's plan.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Second attempt",
+          "t": "Other teams say 'they tried this before'"
+        },
+        {
+          "icon": "🙈",
+          "l": "Missing history",
+          "t": "Nobody will send you the old project documents"
+        },
+        {
+          "icon": "🛡️",
+          "l": "Protected person",
+          "t": "One senior person is never mentioned in the failure story"
+        },
+        {
+          "icon": "📝",
+          "l": "Renamed effort",
+          "t": "The project has a new name but the same scope"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Search the old name",
+          "desc": "Search your email and chat for the project's previous name. Read what people said."
+        },
+        {
+          "n": "2",
+          "title": "Ask a skeptic",
+          "desc": "Find the loudest critic in another team. Ask them what went wrong last time."
+        },
+        {
+          "n": "3",
+          "title": "Write the handover note",
+          "desc": "Send a summary of what you inherited, with dates, to your boss. Keep the sent copy."
+        }
+      ],
+      "script": "\"I found the 2025 version of this. <strong>I am inheriting the state it was left in, not a clean start.</strong> Here is what is already broken — can you confirm my read?\"",
+      "example": "Marcus took over 'Project Atlas' and found nine months of emails about 'Project Northstar' — same scope, same vendor, killed after a bad audit. He wrote a two-page handover note listing every open audit item and sent it to his director. When the audit came back, the note was already in the record.",
+      "counter": "If someone gives you work with no history, they are running this move on you.\n• Notice that nobody will send you the old files.\n• Say: <strong>\"I need last year's status reports before I own this.\"</strong>\n• If the files never come, write your own record of day one.",
+      "insight": "You cannot stop being the new owner. You can stop being the only owner. The next question is what your day-one record needs to say to survive being read by a hostile reader six months out.",
+      "danger_note": ""
+    },
+    {
+      "id": 4,
+      "cat": "read",
+      "danger": "high",
+      "title": "Spot The Deadline That Was Already Missed",
+      "principle": "Schelling: Commitment Traps",
+      "remember": "Check the date before you accept. Some clocks started without you.",
+      "when": "They give you a deadline and it sounds tight but doable.",
+      "hook": "They are not asking you to hit a date. <strong>They are asking you to own a date that already slipped.</strong>",
+      "truth": "Impossible deadlines get handed over, not renegotiated.\n• Work backward from the date and count the real weeks.\n• Compare that to how long the last similar project took.\n• The gap is the trap, and it was there before you arrived.",
+      "theySee": "A person who opens a calendar and counts weeks out loud in the meeting.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "Backward math",
+          "t": "The date works only if nothing goes wrong at all"
+        },
+        {
+          "icon": "📉",
+          "l": "No slack",
+          "t": "There is no buffer week anywhere in the plan"
+        },
+        {
+          "icon": "🤐",
+          "l": "Vague clock",
+          "t": "They will not say who set the deadline or why"
+        },
+        {
+          "icon": "🧾",
+          "l": "External promise",
+          "t": "Someone already promised this date to a client or a board"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count the weeks",
+          "desc": "Open a calendar. Write the number of working weeks left. Say it out loud in the meeting."
+        },
+        {
+          "n": "2",
+          "title": "Ask who set it",
+          "desc": "Ask: 'Who committed to this date, and to whom?' Write down the answer."
+        },
+        {
+          "n": "3",
+          "title": "Send the math",
+          "desc": "Email your week count and the minimum realistic date. Ask them to confirm which one governs."
+        }
+      ],
+      "script": "\"I count <strong>eleven working weeks</strong>, and the last project like this took twenty-two. I will start today, but I need you to know the date is already gone. Do you want the eleven-week version or the real one?\"",
+      "example": "Ana was handed a compliance launch due in ten weeks. She counted the weeks on a whiteboard while her VP watched, then emailed both dates. The VP moved the launch by a quarter that afternoon rather than see the email forwarded upward.",
+      "counter": "If someone gives you a date without saying who set it, they are running this move on you.\n• Notice the deadline arrives with no author.\n• Say: <strong>\"Who owns this date? I need to talk to them.\"</strong>\n• Put your own week count in writing the same day.",
+      "insight": "Saying the date is dead on day one costs you a bad meeting. Saying it in month five costs you the job. The real trap is that most people wait for proof, and by then the proof is their own missed date.",
+      "danger_note": ""
+    },
+    {
+      "id": 5,
+      "cat": "before",
+      "danger": "high",
+      "title": "Do Not Say Yes In The Room",
+      "principle": "Voss: No Deal Is Better Than A Bad Deal",
+      "remember": "Never accept a big project in the meeting where they offer it.",
+      "hook": "They pitch it warm and fast because <strong>agreement in the room is hard to take back.</strong>",
+      "when": "Your boss walks you into a room, praises you, and asks if you are in.",
+      "truth": "The offer is timed so you answer before you can count.\n• They build momentum with praise and a live audience.\n• Saying yes in the room turns the terms into details.\n• Delay one day and the terms become a negotiation again.",
+      "theySee": "A person who looks pleased, takes notes, and does not answer the question.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Fast close",
+          "t": "They ask for a yes in the first ten minutes"
+        },
+        {
+          "icon": "👏",
+          "l": "Audience present",
+          "t": "They invited other people to hear you accept"
+        },
+        {
+          "icon": "📄",
+          "l": "No document",
+          "t": "There is nothing written down to review"
+        },
+        {
+          "icon": "🕰️",
+          "l": "Urgency claim",
+          "t": "They say the announcement goes out tomorrow"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the delay line",
+          "desc": "Say you are in, then ask for 24 hours to come back with what you need."
+        },
+        {
+          "n": "2",
+          "title": "Write the list that night",
+          "desc": "List the people, budget, decision rights, and date you need. Three to five items only."
+        },
+        {
+          "n": "3",
+          "title": "Send it before the next meeting",
+          "desc": "Email the list and ask for a yes or no on each item in writing."
+        }
+      ],
+      "script": "\"This is the kind of work I want. <strong>Give me until tomorrow morning and I will come back with exactly what I need to hit it.</strong> Then you get a real yes, not a hopeful one.\"",
+      "example": "Ken got offered a turnaround in front of three directors. He said he wanted it and asked for a day. That night he sent five conditions. Four came back approved in writing. The fifth — the deadline — moved four weeks because his boss did not want to argue in email.",
+      "counter": "If someone asks for your yes in front of an audience, they are running this move on you.\n• Notice the praise and the clock arrive together.\n• Say: <strong>\"I want it. Give me a day to scope it.\"</strong>\n• Leave the room without agreeing to anything specific.",
+      "insight": "Enthusiasm buys you the delay; the delay buys you the terms. What you cannot buy is a second chance to ask — once you have said yes, every request sounds like a complaint.",
+      "danger_note": ""
+    },
+    {
+      "id": 6,
+      "cat": "before",
+      "danger": "high",
+      "title": "Trade Your Yes For Three Written Conditions",
+      "principle": "Cialdini: Commitment And Consistency",
+      "remember": "Sell your yes once. Get three things in writing for it.",
+      "when": "You have one day before you accept the project and you want something for it.",
+      "hook": "Your yes is worth the most before you give it. <strong>After that it is worth nothing.</strong>",
+      "truth": "They need your name on this more than they need to keep the terms.\n• Ask for three things, not ten. Three sounds reasonable.\n• Put them in one email and ask for a written reply.\n• Their written yes becomes the record you use later.",
+      "theySee": "A person who wants the job and brought a short, specific list.",
+      "signals": [
+        {
+          "icon": "✉️",
+          "l": "Reply avoidance",
+          "t": "They answer your email by asking for a call"
+        },
+        {
+          "icon": "🔢",
+          "l": "Counting down",
+          "t": "They agree to two items and go quiet on the third"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Verbal only",
+          "t": "They say yes out loud and never write it"
+        },
+        {
+          "icon": "⏳",
+          "l": "Later promises",
+          "t": "They promise to sort the budget once you start"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick three",
+          "desc": "Choose one person, one number, and one decision right. Drop everything else."
+        },
+        {
+          "n": "2",
+          "title": "Send one email",
+          "desc": "Write the three items as numbered lines. Ask for a written yes or no on each."
+        },
+        {
+          "n": "3",
+          "title": "Reply to the call",
+          "desc": "If they call instead of writing, send a summary email after: 'Confirming what we agreed.'"
+        }
+      ],
+      "script": "\"I am in, with three things. <strong>One: Sam full-time from Monday. Two: fifty thousand for the vendor. Three: I make the scope calls and you back me.</strong> Reply yes to these three and I start today.\"",
+      "example": "Rosa was offered a stalled data project. She sent three lines: one engineer, thirty thousand, and final say on scope. Her director replied 'yes to all three' in four words. Six months later, when the director tried to add scope, Rosa forwarded the four words back.",
+      "counter": "If someone trades their agreement for conditions, they are protecting themselves from you.\n• Notice they want your yes in writing, not in conversation.\n• Say: <strong>\"I can agree to two of these. Not the third.\"</strong>\n• Answer in writing anyway — vagueness costs you more than a clear no.",
+      "insight": "Three is the number because it reads as thoughtful and ten reads as a hostage note. This works until they say yes to all three and deliver none — which is why the next section makes the terms public instead of private.",
+      "danger_note": ""
+    },
+    {
+      "id": 7,
+      "cat": "before",
+      "danger": "moderate",
+      "title": "Name The One Thing That Makes It Impossible",
+      "principle": "Sun Tzu: Know The Ground Before The Battle",
+      "remember": "Find the one blocker you cannot fix. Say it before you start.",
+      "when": "You have looked at the project and found something nobody can solve at your level.",
+      "hook": "Every doomed project has one hard blocker. <strong>Name it out loud and it stops being yours alone.</strong>",
+      "truth": "The blocker is usually another team's refusal, not a technical problem.\n• Find the one thing that must change outside your control.\n• Say it in the kickoff, once, plainly, with a name attached.\n• After that, every status update points at the same name.",
+      "theySee": "A person who describes one specific blocker and asks who owns it.",
+      "signals": [
+        {
+          "icon": "🧱",
+          "l": "Outside owner",
+          "t": "The blocker sits with a team that does not report to your boss"
+        },
+        {
+          "icon": "😶",
+          "l": "Room goes quiet",
+          "t": "People change the subject when you name the blocker"
+        },
+        {
+          "icon": "📨",
+          "l": "Ignored requests",
+          "t": "That team has not answered emails about this for weeks"
+        },
+        {
+          "icon": "🎯",
+          "l": "Repeat mention",
+          "t": "The old project notes name the same blocker"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the blocker",
+          "desc": "Ask three people: 'What is the one thing that will stop this?' Look for the repeat answer."
+        },
+        {
+          "n": "2",
+          "title": "Name the owner",
+          "desc": "Find the person who can unblock it. Write their name next to the blocker."
+        },
+        {
+          "n": "3",
+          "title": "Say it in kickoff",
+          "desc": "State the blocker and the owner once in the kickoff meeting. Put it in the notes."
+        }
+      ],
+      "script": "\"There is one thing that decides this project. <strong>Legal has to approve the data sharing, and Priya owns that call.</strong> If that approval does not land by the fifteenth, nothing after it works. Who is getting Priya to yes?\"",
+      "example": "Tom inherited an integration that needed security sign-off from a team with a six-month queue. He named the team and the date in the kickoff notes. When the project slipped, three separate people remembered him saying it first.",
+      "counter": "If someone opens by naming a blocker they do not own, they are setting the record early.\n• Notice the blocker points away from them and at someone else.\n• Say: <strong>\"Agreed that is the blocker. What is your plan if it does not clear?\"</strong>\n• Make them own a fallback, not just the warning.",
+      "insight": "Naming the blocker moves the risk from your shoulders to the org chart. The harder part is that you still have to try — a person who names the blocker and then stops working looks like they wanted it to fail.",
+      "danger_note": ""
+    },
+    {
+      "id": 8,
+      "cat": "public",
+      "danger": "moderate",
+      "title": "Put The Terms In The Kickoff Notes",
+      "principle": "Schelling: Public Commitment",
+      "remember": "Private promises vanish. Notes with names in them do not.",
+      "when": "Your boss agreed to your conditions verbally and the project starts next week.",
+      "hook": "A verbal yes dies the moment it gets inconvenient. <strong>A line in the kickoff notes outlives your boss.</strong>",
+      "truth": "Written records beat memory, and everyone knows it.\n• Write the notes yourself. Nobody fights for the pen.\n• Put the terms in as facts, not as asks.\n• Send them to everyone who was in the room, including the skip-level.",
+      "theySee": "A helpful person who volunteered to write up the meeting.",
+      "signals": [
+        {
+          "icon": "✍️",
+          "l": "Nobody volunteers",
+          "t": "No one else offers to take the notes"
+        },
+        {
+          "icon": "📤",
+          "l": "Wide list",
+          "t": "You can add the skip-level to the send list without asking"
+        },
+        {
+          "icon": "🤔",
+          "l": "Late edits",
+          "t": "Your boss asks you to soften one specific line"
+        },
+        {
+          "icon": "🔇",
+          "l": "No reply",
+          "t": "Nobody corrects the notes, which means they stand"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Volunteer to write",
+          "desc": "In the kickoff, say 'I will send the notes.' Nobody will fight you for it."
+        },
+        {
+          "n": "2",
+          "title": "Write the terms as facts",
+          "desc": "Write 'Sam is full-time on this from Monday' — not 'we discussed staffing'."
+        },
+        {
+          "n": "3",
+          "title": "Send wide",
+          "desc": "Send within two hours to everyone in the room plus your boss's boss."
+        }
+      ],
+      "script": "\"I will write these up. <strong>Sending to everyone here plus Dana so we all have the same version.</strong> Flag anything I got wrong by tomorrow.\"",
+      "example": "Leah wrote the kickoff notes for a doomed platform migration. She listed the budget, the one engineer, and the deadline as plain facts and copied the VP. When staffing got pulled in month three, she replied to that same thread instead of arguing in a meeting.",
+      "counter": "If someone always writes the notes, they are shaping the record on you.\n• Notice their notes include the parts that protect them.\n• Say: <strong>\"One correction — the budget was not agreed, only discussed.\"</strong>\n• Reply to the thread, not in private. Silence becomes agreement.",
+      "insight": "The notes are power because nobody reads them until there is a fight, and then everybody reads them. This works until your boss starts editing your notes before they go out — and how you handle that edit is its own card.",
+      "danger_note": ""
+    },
+    {
+      "id": 9,
+      "cat": "public",
+      "danger": "high",
+      "title": "Publish The Risk Register Where Others Can See It",
+      "principle": "Gracián: Make Your Position Known Early",
+      "remember": "Write the risks down early. Date them. Share them wide.",
+      "when": "You have started the project and you can already see three ways it fails.",
+      "hook": "Risks you say out loud are shared. <strong>Risks in your head are yours.</strong>",
+      "truth": "A dated risk list changes who explains the failure.\n• List five risks with owners and dates, not vague worries.\n• Update it every two weeks so the dates prove you said it early.\n• Send it to the sponsor, not just your boss.",
+      "theySee": "A person running the project properly, with a clear list of what could go wrong.",
+      "signals": [
+        {
+          "icon": "📋",
+          "l": "No register exists",
+          "t": "Nobody has written down a single project risk yet"
+        },
+        {
+          "icon": "😬",
+          "l": "Pushback on tone",
+          "t": "Your boss asks you to make the list sound less negative"
+        },
+        {
+          "icon": "👤",
+          "l": "Owner gaps",
+          "t": "Three of the five risks have no named owner"
+        },
+        {
+          "icon": "📈",
+          "l": "Risk repeats",
+          "t": "The same risk stays red for three updates in a row"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write five risks",
+          "desc": "One line each. Name the risk, the owner, and the date it becomes real."
+        },
+        {
+          "n": "2",
+          "title": "Send it Friday",
+          "desc": "Email it to the sponsor and your boss with the subject 'Project risks — week 1'."
+        },
+        {
+          "n": "3",
+          "title": "Repeat every two weeks",
+          "desc": "Send the same list updated. Keep the old versions in the thread."
+        }
+      ],
+      "script": "\"Here are the five things that sink this, with owners and dates. <strong>Risk 1: vendor contract unsigned, owner Raj, becomes fatal April 12.</strong> I will resend this every two weeks with what moved.\"",
+      "example": "Ibrahim ran a warehouse rollout with no budget for overtime. He sent a five-risk list every other Friday for four months. When the rollout failed, his sponsor pulled up the March email in the review and pointed at the unsigned contract line.",
+      "counter": "If someone floods you with a risk list, they are building a paper trail against you.\n• Notice every risk has your name as the owner.\n• Say: <strong>\"I will own two of these. Risks three and four are yours.\"</strong>\n• Reply in writing and reassign the owners you do not accept.",
+      "insight": "The register works because it makes silence expensive for everyone else. The trap is writing risks nobody can act on — a list of ten becomes noise, and noise protects no one.",
+      "danger_note": ""
+    },
+    {
+      "id": 10,
+      "cat": "public",
+      "danger": "high",
+      "title": "Get The Scope Cut In Writing Before You Cut It",
+      "principle": "Voss: Calibrated Question — Get Them To Solve It",
+      "remember": "Never cut scope alone. Make them pick what dies.",
+      "when": "You realize you can deliver half the project on time, not all of it.",
+      "hook": "If you choose what to drop, you own the drop. <strong>Make them choose and they own it.</strong>",
+      "truth": "Scope cuts made quietly become your failures later.\n• Offer two named options, each with what it costs them.\n• Make them write back which one they pick.\n• Their written pick is the reason half the project is missing.",
+      "theySee": "A person who brings two clear options instead of bad news.",
+      "signals": [
+        {
+          "icon": "⚖️",
+          "l": "Both-please answer",
+          "t": "They say they need all of it and give you nothing"
+        },
+        {
+          "icon": "🕊️",
+          "l": "Silence on choice",
+          "t": "They will not answer which half to drop"
+        },
+        {
+          "icon": "🎣",
+          "l": "Reverse ask",
+          "t": "They ask what you recommend, to make it your call"
+        },
+        {
+          "icon": "📆",
+          "l": "Date creep",
+          "t": "They pick option A and then ask for B by the same date"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write two options",
+          "desc": "Option A: full scope, date moves eight weeks. Option B: half scope, date holds."
+        },
+        {
+          "n": "2",
+          "title": "Send and ask for one word",
+          "desc": "Email both and ask: 'Reply A or B by Thursday.'"
+        },
+        {
+          "n": "3",
+          "title": "Confirm the pick",
+          "desc": "When they answer, reply: 'Confirming B. Here is what we are not building.'"
+        }
+      ],
+      "script": "\"Two real options. <strong>A: everything, live in October. B: payments only, live in August.</strong> I can run either. Reply A or B and I will build the plan around it today.\"",
+      "example": "Nadia's e-commerce replatform could not ship both search and checkout by Q3. She sent two options with dates. Her VP picked checkout in one line. Search shipped in Q1 the next year and nobody called it a miss.",
+      "counter": "If someone hands you two options and asks you to pick, they are moving the decision to you.\n• Notice both options carry a loss they should own.\n• Say: <strong>\"Before I pick — what happens to you under each one?\"</strong>\n• Make them state the cost, then answer in writing with their words in it.",
+      "insight": "Two options work because refusing both looks unserious in front of witnesses. The next question is what you do when they pick and then quietly expect the other half anyway.",
+      "danger_note": ""
+    },
+    {
+      "id": 11,
+      "cat": "hatch",
+      "danger": "moderate",
+      "title": "Build Allies Above Your Boss",
+      "principle": "Greene: Law 18 — Do Not Build Fortresses",
+      "remember": "Meet people your boss does not control. Do it early.",
+      "when": "Your only channel upward is the boss who handed you this project.",
+      "hook": "One channel up is not a channel. <strong>It is a filter.</strong>",
+      "truth": "Whoever controls your only reporting line controls your story.\n• Get a standing meeting with the sponsor or a skip-level.\n• Bring facts and short updates, never complaints.\n• When the failure story gets written, you already have a reader.",
+      "theySee": "A person who keeps the wider group informed and never badmouths anyone.",
+      "signals": [
+        {
+          "icon": "🔗",
+          "l": "Single channel",
+          "t": "Every update you send goes only to your boss"
+        },
+        {
+          "icon": "🚧",
+          "l": "Blocked access",
+          "t": "Your boss says they will pass your update along"
+        },
+        {
+          "icon": "🍽️",
+          "l": "Open door",
+          "t": "A skip-level accepts a 20-minute coffee without hesitation"
+        },
+        {
+          "icon": "🗞️",
+          "l": "Story control",
+          "t": "Your boss retells your update with different numbers"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for 20 minutes",
+          "desc": "Email the sponsor: 'Can I give you a 20-minute walkthrough of where this stands?'"
+        },
+        {
+          "n": "2",
+          "title": "Bring three facts",
+          "desc": "Prepare three numbers and one open decision. No complaints about anyone."
+        },
+        {
+          "n": "3",
+          "title": "Send a one-line recap",
+          "desc": "After the meeting, email a two-sentence summary so the meeting exists in writing."
+        }
+      ],
+      "script": "\"You are the sponsor, so you should hear this from me directly. <strong>Three numbers and one decision I need from you — twenty minutes, any time this week.</strong>\"",
+      "example": "Grace ran a doomed vendor consolidation. She got a monthly 20-minute slot with the CFO and used it for numbers only, never gossip. When her director blamed her in a QBR, the CFO said 'that is not what she has been showing me.'",
+      "counter": "If someone on your team keeps meeting your boss without you, they are building cover.\n• Notice recap emails from meetings you were not in.\n• Say: <strong>\"Loop me in next time — I want the same picture.\"</strong>\n• Start your own upward channel instead of blocking theirs.",
+      "insight": "Allies above your boss cost nothing while things go well and are impossible to build once they go badly. The tradeoff is that your boss will notice — and how you explain it matters more than whether you deny it.",
+      "danger_note": ""
+    },
+    {
+      "id": 12,
+      "cat": "hatch",
+      "danger": "high",
+      "title": "Keep A Dated Folder Of Everything",
+      "principle": "Sunk-Cost Anchoring × Paper Trail",
+      "remember": "Save every email that shows what you asked for and when.",
+      "when": "You have asked for people or money three times and gotten nothing.",
+      "hook": "Six months from now, the argument is about who knew what. <strong>Dates win that argument.</strong>",
+      "truth": "Memory is soft and email is hard.\n• Save every ask, every refusal, and every date in one folder.\n• Keep a copy outside company tools where you can still read it.\n• You will use five emails, not fifty. Save fifty anyway.",
+      "theySee": "Nothing. This move is invisible until you need it.",
+      "signals": [
+        {
+          "icon": "🗂️",
+          "l": "Missing replies",
+          "t": "Your requests get answered in hallway conversations only"
+        },
+        {
+          "icon": "🔄",
+          "l": "Story changes",
+          "t": "Someone describes a past decision differently than you remember"
+        },
+        {
+          "icon": "🧹",
+          "l": "Cleanup talk",
+          "t": "Someone suggests deleting old threads or channels"
+        },
+        {
+          "icon": "📎",
+          "l": "Verbal redirect",
+          "t": "They reply to your email by asking to talk instead"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Make the folder today",
+          "desc": "Create one email folder named for the project. Move every related thread into it."
+        },
+        {
+          "n": "2",
+          "title": "Convert talk to text",
+          "desc": "After every verbal decision, send a two-line email: 'Confirming what we agreed.'"
+        },
+        {
+          "n": "3",
+          "title": "Copy the five key ones",
+          "desc": "Pick the five emails that show what you asked for and when. Save them where you can reach them."
+        }
+      ],
+      "script": "\"Quick note so we have one version. <strong>You said Sam stays on the project through June and the vendor money is not coming. Correct me if I have that wrong.</strong>\"",
+      "example": "Elias asked for a second engineer four times over five months, always in writing. When the launch slipped, the review asked why he was understaffed. He forwarded four dated emails and the conversation moved to his director in ten minutes.",
+      "counter": "If someone answers every request with 'let us talk', they are avoiding the record.\n• Notice they never reply in writing to a written ask.\n• Say: <strong>\"Happy to talk. I will send a recap after so we match.\"</strong>\n• Send the recap whether they like it or not.",
+      "insight": "The folder is worthless while things go well, which is exactly why most people skip it. The real trap is using it too early — a person who quotes emails in month two reads as defensive, not careful.",
+      "danger_note": ""
+    },
+    {
+      "id": 13,
+      "cat": "hatch",
+      "danger": "extreme",
+      "title": "Set Your Own Walk-Away Line Now",
+      "principle": "Voss: Know Your BATNA Before The Table",
+      "remember": "Decide today what makes you quit. Write the date down.",
+      "when": "You can see the project failing slowly and you keep telling yourself one more month.",
+      "hook": "Without a line, you will stay until the failure has your name carved in it. <strong>Pick the line while you are calm.</strong>",
+      "truth": "People do not leave doomed projects. They get buried in them.\n• Write one condition and one date that makes you step off.\n• Tell one person outside work so it is real.\n• Start looking at options before you need them.",
+      "theySee": "Nothing yet. This is the move nobody sees until you use it.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Same red",
+          "t": "The same risk stays red for six weeks with no action"
+        },
+        {
+          "icon": "🚫",
+          "l": "Refused asks",
+          "t": "They have said no to your last three requests"
+        },
+        {
+          "icon": "🩺",
+          "l": "Body signals",
+          "t": "You stop sleeping the night before status meetings"
+        },
+        {
+          "icon": "🗑️",
+          "l": "Sponsor drift",
+          "t": "Your sponsor cancels two meetings in a row"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the line",
+          "desc": "One sentence: 'If the vendor contract is unsigned by June 1, I move off this.'"
+        },
+        {
+          "n": "2",
+          "title": "Tell one person",
+          "desc": "Say the line out loud to a friend outside work. Give them the date."
+        },
+        {
+          "n": "3",
+          "title": "Open one door",
+          "desc": "Have one coffee with a manager on another team this month. No ask, just contact."
+        }
+      ],
+      "script": "(To your boss, at the line) \"<strong>I said in March that unsigned vendor terms by June would end this. It is June and they are unsigned.</strong> I am handing over a clean state. Where do you want me next?\"",
+      "example": "Simone set her line in writing: no second engineer by August means she moves. August came empty. She sent one calm email, handed over a documented state, and started on another team's platform work in three weeks. The original project was cancelled in October.",
+      "counter": "If someone tells you their walk-away line, they are not bluffing — they are recording it.\n• Notice the specific date and condition, not a threat.\n• Say: <strong>\"Understood. Tell me what changes that line.\"</strong>\n• Either meet the condition or plan the handover now.",
+      "insight": "The line only works if you set it before you are tired, because tired people negotiate with themselves. This works until the line arrives and quitting looks worse than staying — which is why you open the other door in month two, not month nine.",
+      "danger_note": ""
+    },
+    {
+      "id": 14,
+      "cat": "while",
+      "danger": "moderate",
+      "title": "Send The Same Status Format Every Week",
+      "principle": "Cialdini: Consistency × Paper Trail",
+      "remember": "Same format, same day, every week. Boring beats clever.",
+      "when": "You are running the project and nobody upstairs knows what is actually happening.",
+      "hook": "A boring weekly update is the cheapest protection you will ever buy. <strong>Twelve of them are a case file.</strong>",
+      "truth": "Repetition makes your version the official one.\n• Use four fixed lines: done, next, blocked, decision needed.\n• Send it the same day every week to the same list.\n• Nobody reads them until the review, and then they read all twelve.",
+      "theySee": "A reliable person who sends a short, predictable update every Friday.",
+      "signals": [
+        {
+          "icon": "📬",
+          "l": "No replies",
+          "t": "Nobody replies to your updates, which means nobody objects"
+        },
+        {
+          "icon": "🔍",
+          "l": "Late reading",
+          "t": "Someone quotes your week-three update in month five"
+        },
+        {
+          "icon": "🙋",
+          "l": "Decision skipped",
+          "t": "The 'decision needed' line goes unanswered three weeks running"
+        },
+        {
+          "icon": "✂️",
+          "l": "Edit request",
+          "t": "Your boss asks you to remove the blocked section"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Build the four lines",
+          "desc": "Write the template: Done, Next, Blocked, Decision needed. Keep it under 150 words."
+        },
+        {
+          "n": "2",
+          "title": "Pick the day",
+          "desc": "Send every Friday at the same hour. Put a recurring reminder in your calendar."
+        },
+        {
+          "n": "3",
+          "title": "Repeat the blocker",
+          "desc": "Keep an unresolved blocker on the list every week until someone acts on it."
+        }
+      ],
+      "script": "\"Week 7. <strong>Done: API contract signed. Next: pilot with two stores. Blocked: security review, owner Raj, 19 days waiting. Decision needed: do we launch without store 3?</strong> Same time next Friday.\"",
+      "example": "Owen sent the same four-line update for fourteen weeks on a failing rollout. The 'blocked: security review' line appeared eleven times. In the post-mortem, his VP counted the weeks out loud and the review turned into a security staffing conversation.",
+      "counter": "If someone sends you an identical update every week, they are building a record on you.\n• Notice the same blocker with your name on it, repeating.\n• Say: <strong>\"I see this blocker eight weeks running. Here is my plan and date.\"</strong>\n• Answer the decision line in writing or expect it quoted back.",
+      "insight": "The power is in the repetition count, not the wording — 'eleven weeks blocked' ends arguments that paragraphs cannot. The harder part is staying dull when you want to vent.",
+      "danger_note": ""
+    },
+    {
+      "id": 15,
+      "cat": "while",
+      "danger": "high",
+      "title": "Escalate To The Person, Not The Problem",
+      "principle": "Greene: Law 33 — Discover Each Person's Weakness",
+      "remember": "Ask for a person by name and a date. Never just flag a problem.",
+      "when": "You have flagged the same blocker for weeks and nothing has moved.",
+      "hook": "Flagging a problem gets sympathy. <strong>Naming a person and a date gets action.</strong>",
+      "truth": "Unowned problems live forever because nobody looks bad.\n• Turn the blocker into a request of one named person by one date.\n• Copy their boss, not as a threat, as a fact of the schedule.\n• Now inaction has an author, and authors move.",
+      "theySee": "A person asking a clear, dated question with their manager watching.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Ownerless issue",
+          "t": "Everyone agrees it is a problem and nobody owns it"
+        },
+        {
+          "icon": "↩️",
+          "l": "Loop replies",
+          "t": "Your request bounces between two teams for weeks"
+        },
+        {
+          "icon": "🎬",
+          "l": "Sudden motion",
+          "t": "The blocker moves within 48 hours of the name going in"
+        },
+        {
+          "icon": "😠",
+          "l": "Tone flip",
+          "t": "The blocked person calls you instead of replying"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name and date it",
+          "desc": "Rewrite the blocker as: 'Raj to approve by April 12 or the launch moves.'"
+        },
+        {
+          "n": "2",
+          "title": "Send with one copy",
+          "desc": "Email Raj, copy his manager, and state the schedule effect in one sentence."
+        },
+        {
+          "n": "3",
+          "title": "Offer the exit",
+          "desc": "Add: 'If April 12 does not work, tell me the date that does and I will replan.'"
+        }
+      ],
+      "script": "\"Raj — I need the security approval by <strong>April 12</strong>, or the launch moves to Q3. Copying Dana so the date is visible. <strong>If the twelfth is not possible, give me the date that is and I will replan around it.</strong>\"",
+      "example": "Hana's rollout sat behind a legal review for seven weeks. She sent one email naming the lawyer, the date, and the schedule effect, copying his director. The review came back in four days with two small edits.",
+      "counter": "If someone names you and a date in front of your boss, they are moving the blame to you.\n• Notice your name, a date, and their manager on one email.\n• Say: <strong>\"I can do it by the 20th, not the 12th. Replan to the 20th.\"</strong>\n• Give a real date fast. Silence makes their version the record.",
+      "insight": "Names move faster than problems because names can be embarrassed. This works until you burn a person who remembers — and the same person usually turns up in your next project.",
+      "danger_note": ""
+    },
+    {
+      "id": 16,
+      "cat": "while",
+      "danger": "extreme",
+      "title": "Refuse The Quiet Scope Add",
+      "principle": "Cialdini: Foot In The Door",
+      "remember": "Every new ask gets a price. Say the price out loud.",
+      "when": "Your boss adds a small piece of work and says it should be easy.",
+      "hook": "Doomed projects do not get killed. <strong>They get fattened until they collapse, one small ask at a time.</strong>",
+      "truth": "Each small add is cheap alone and fatal in a row.\n• Never refuse the ask. Price it instead.\n• Say what moves: a date, a person, or a dropped piece.\n• Make them choose. The price ends most requests on the spot.",
+      "theySee": "A person who says yes and then names what it costs.",
+      "signals": [
+        {
+          "icon": "🐜",
+          "l": "Small words",
+          "t": "They call it a quick add or a small tweak"
+        },
+        {
+          "icon": "🚪",
+          "l": "Hallway ask",
+          "t": "The request comes in chat or a corridor, never in writing"
+        },
+        {
+          "icon": "📚",
+          "l": "Add pattern",
+          "t": "This is the third small add in six weeks"
+        },
+        {
+          "icon": "😊",
+          "l": "Retreat on price",
+          "t": "They drop the request as soon as you name the cost"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say yes and price it",
+          "desc": "Answer: 'Yes — that is two weeks or we drop the reporting piece. Which one?'"
+        },
+        {
+          "n": "2",
+          "title": "Write it down",
+          "desc": "Send a one-line email logging the add, the cost, and their choice."
+        },
+        {
+          "n": "3",
+          "title": "Show the running total",
+          "desc": "In your Friday update, list every add and the total weeks they cost."
+        }
+      ],
+      "script": "\"Sure, I can add the export tool. <strong>It costs two weeks or the reporting dashboard — pick one and I will start today.</strong>\"",
+      "example": "Julio's platform project took four 'small' adds in two months. On the fifth, he replied with a price in the same chat: three weeks or drop notifications. His boss withdrew the request in eight minutes and stopped sending hallway adds.",
+      "counter": "If someone prices every request you make, they are protecting the plan from you.\n• Notice they never say no, only what it costs.\n• Say: <strong>\"Then we drop the dashboard. Confirming that in writing.\"</strong>\n• Pick a real trade instead of pushing for both.",
+      "insight": "Pricing works because most adds are wishes, not decisions, and wishes do not survive a bill. The real trap is a boss who happily pays every price — then the plan is not the problem, the sponsor is.",
+      "danger_note": ""
+    },
+    {
+      "id": 17,
+      "cat": "sinks",
+      "danger": "high",
+      "title": "Write The Post-Mortem Before They Do",
+      "principle": "Sun Tzu: Seize The Ground First",
+      "remember": "Write the failure story first. First version usually wins.",
+      "when": "The project is clearly failing and a review meeting is coming.",
+      "hook": "Someone will write the story of this failure. <strong>The first draft usually survives.</strong>",
+      "truth": "Reviews reward whoever brought a document.\n• Write four pages: what happened, dates, what was asked for, what you would change.\n• Own two real mistakes, in specific words. It buys the rest.\n• Send it before the meeting so the room reads yours first.",
+      "theySee": "A person who takes responsibility and brought the clearest account in the room.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Review scheduled",
+          "t": "Someone books a lessons-learned meeting"
+        },
+        {
+          "icon": "🤫",
+          "l": "Quiet prep",
+          "t": "People start asking you for old documents"
+        },
+        {
+          "icon": "🧍",
+          "l": "Empty room",
+          "t": "Nobody else has written anything down"
+        },
+        {
+          "icon": "🎙️",
+          "l": "Narrative test",
+          "t": "Your boss tries out a version of the story on you first"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Build the timeline",
+          "desc": "List every ask, refusal, and date from your folder. Ten lines, no adjectives."
+        },
+        {
+          "n": "2",
+          "title": "Own two mistakes",
+          "desc": "Name two things you got wrong in plain words. Be specific and do not over-apologize."
+        },
+        {
+          "n": "3",
+          "title": "Send it 48 hours early",
+          "desc": "Email it to the sponsor and your boss two days before the review."
+        }
+      ],
+      "script": "\"Sending my write-up ahead of Thursday so we start from facts. <strong>Two things I got wrong: I ran three months without a signed vendor contract, and I did not escalate security until week nine.</strong> The timeline of what was asked for and when is on page two.\"",
+      "example": "Bea's mobile launch died after eleven months. She sent a four-page write-up two days before the review, with two owned mistakes and a dated timeline of nine staffing requests. The review spent forty minutes on staffing policy. She was running a bigger project by the next quarter.",
+      "counter": "If someone hands out a post-mortem before the meeting, they have already framed it.\n• Notice their two owned mistakes are small and the rest points outward.\n• Say: <strong>\"Useful timeline. I want to add two events it leaves out.\"</strong>\n• Send your additions in writing before the meeting, not during it.",
+      "insight": "Owning two real mistakes is what makes the rest of the document credible — a clean self-report reads as a defense. The next question is which two you can afford to own.",
+      "danger_note": ""
+    },
+    {
+      "id": 18,
+      "cat": "sinks",
+      "danger": "moderate",
+      "title": "Take The Skill And Leave The Story Behind",
+      "principle": "Greene: Law 25 — Re-Create Yourself",
+      "remember": "Tell it as what you learned, never as what they did.",
+      "when": "The project failed and someone asks you about it in an interview or a new team.",
+      "hook": "The failure follows you only if you keep explaining it. <strong>Turn it into one clean sentence and move.</strong>",
+      "truth": "Nobody checks the details. They read your tone.\n• Give one sentence on what happened, then two on what you learned.\n• Never name a villain. Blame reads as risk, not as truth.\n• Bring one hard number that proves you learned something real.",
+      "theySee": "A person who talks about a failure calmly and does not blame anyone.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Bitterness test",
+          "t": "They ask an open question and watch how long you talk"
+        },
+        {
+          "icon": "🎯",
+          "l": "Detail probe",
+          "t": "They ask what you would do differently, not who was at fault"
+        },
+        {
+          "icon": "⌛",
+          "l": "Length tell",
+          "t": "You have talked for more than ninety seconds"
+        },
+        {
+          "icon": "🧲",
+          "l": "Blame bait",
+          "t": "They say it sounds like leadership set you up"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three sentences",
+          "desc": "What the project was, what killed it, what you do differently now. Under sixty words."
+        },
+        {
+          "n": "2",
+          "title": "Say it out loud twice",
+          "desc": "Practice it until it takes thirty seconds and sounds flat, not bitter."
+        },
+        {
+          "n": "3",
+          "title": "Add one number",
+          "desc": "Attach a real figure: weeks saved, users kept, cost avoided by the early cut."
+        }
+      ],
+      "script": "\"We tried to replatform in eleven weeks with one engineer. It did not ship. <strong>Now I get staffing and the contract signed in writing before week one — that is why my last two projects landed early.</strong>\"",
+      "example": "Karim's failed migration came up in four interviews. He gave the same thirty-second version each time and never named his old director. The fourth interviewer said the answer was the reason they hired him, because everyone else blamed someone.",
+      "counter": "If someone describes a failure with no villain, they have rehearsed it.\n• Notice the calm tone and the tidy thirty-second length.\n• Say: <strong>\"What did you ask for that you did not get?\"</strong>\n• Their answer to that shows what they actually learned.",
+      "insight": "Calm is the proof, not the content — the same facts told bitterly get you screened out. The harder part is being calm about it while it is still fresh, which is why you write the sentence before you need it.",
+      "danger_note": ""
+    }
+  ]
+}
