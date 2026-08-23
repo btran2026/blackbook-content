@@ -1,0 +1,1178 @@
+{
+  "meta": {
+    "id": "srv-losing-the-promotion-and-staying-in-the-room",
+    "version": "1.0",
+    "title": "Losing the Promotion and Staying in the Room",
+    "subtitle": "What to do in the 90 days after they picked someone else",
+    "description": "You did not get the job. You still sit in the same meetings, report to the same people, and now work for someone who was your equal last week. This dossier runs the whole arc: the first two days, getting the real reason out of them, handling the winner, managing the audience that watched you lose, rebuilding your position, and setting the date you leave.",
+    "author": "AI",
+    "createdAt": "2026-08-23T04:26:44.354Z",
+    "tags": [
+      "career",
+      "office politics",
+      "status",
+      "negotiation",
+      "promotion",
+      "power"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#2B3A55",
+    "coverIcon": "🪑",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "first48",
+      "label": "The First Forty-Eight Hours",
+      "color": "#C0392B"
+    },
+    {
+      "key": "realreason",
+      "label": "Getting The Real Reason",
+      "color": "#B7791F"
+    },
+    {
+      "key": "thewinner",
+      "label": "Facing The Person Who Won",
+      "color": "#6B46C1"
+    },
+    {
+      "key": "audience",
+      "label": "The Audience That Watched",
+      "color": "#2C7A7B"
+    },
+    {
+      "key": "rebuild",
+      "label": "Rebuilding Your Position",
+      "color": "#2F855A"
+    },
+    {
+      "key": "clock",
+      "label": "Setting Your Leaving Clock",
+      "color": "#4A5568"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "first48",
+      "danger": "high",
+      "title": "Say Almost Nothing in the Room Where They Tell You",
+      "principle": "Gracián: Maxim 3 — Keep Your Intentions Secret",
+      "remember": "In that meeting, ask one question and leave.",
+      "when": "Your boss closes the door and tells you they gave the job to someone else.",
+      "hook": "They expect a reaction. <strong>Whatever you do in the next ten minutes becomes your file.</strong>",
+      "truth": "The meeting is not a conversation. It is an observation.\n• Your boss watches how you take bad news, not what you argue.\n• Every word you say gets repeated to HR and the winner.\n• Most people negotiate in that room. There is nothing left to negotiate.",
+      "theySee": "A person who takes the news calmly, asks one short question, and walks out on time.",
+      "example": "Priya heard the news at 4pm on a Thursday. She said one line: \"Understood. Can we book thirty minutes next week to go through what got me close?\" She left after six minutes. Her boss told the VP she handled it better than anyone he had seen.",
+      "signals": [
+        {
+          "icon": "🚪",
+          "l": "Closed door",
+          "t": "They book a private room with no agenda in the invite"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Rehearsed lines",
+          "t": "They speak in phrases that sound written down"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Short meeting",
+          "t": "They booked fifteen minutes for news that needs an hour"
+        },
+        {
+          "icon": "👥",
+          "l": "Extra body",
+          "t": "An HR person sits in a meeting that should be one on one"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the short line",
+          "desc": "Say \"Understood.\" Then stop. Count to three in your head before you say anything else."
+        },
+        {
+          "n": "2",
+          "title": "Book the second meeting",
+          "desc": "Ask for thirty minutes next week to go through the decision. Do not ask for reasons now."
+        },
+        {
+          "n": "3",
+          "title": "Leave the building",
+          "desc": "Do not go back to your desk. Do not send any message about this for 24 hours."
+        }
+      ],
+      "script": "\"Understood. I'm not going to react to this on the spot. <strong>Can we book thirty minutes next week so you can walk me through what got me close and what didn't?</strong>\"",
+      "counter": "If someone gives you bad news and then waits in silence, they want your reaction on record.\n• Notice the pause. The pause is the question.\n• Say: <strong>\"Let me sit with that. I'll come back to you.\"</strong>\n• Leave the room before the feeling arrives. Take the meeting later.",
+      "insight": "Calm in that room buys you one thing only: a second meeting where you get to ask. The harder part is what you do with the eleven days after, when nobody is watching and you still have to answer emails.",
+      "risk": "high"
+    },
+    {
+      "id": 2,
+      "cat": "first48",
+      "danger": "extreme",
+      "title": "Do Not Send the Email You Wrote at Midnight",
+      "principle": "Sun Tzu: Never Move in Anger",
+      "remember": "Write it. Never send it. Anger is a permanent record.",
+      "when": "It is late, you have been drinking or thinking, and you have a long message half written to your boss.",
+      "hook": "That message feels true right now. <strong>It will be forwarded three times by Monday.</strong>",
+      "truth": "An angry message is the only evidence they need to justify the decision they already made.\n• Your written words outlive your reasons for writing them.\n• Your boss forwards it to HR to protect himself, not to hurt you.\n• The message becomes the story: he took it badly.",
+      "theySee": "Nothing. They see a person who went quiet for a day and came back normal.",
+      "example": "Dan wrote 900 words at 1am about the process being rigged. He saved it as a draft instead. Two weeks later his boss put him on the client that mattered. The draft is still in his folder, unsent.",
+      "signals": [
+        {
+          "icon": "🌙",
+          "l": "Late hour",
+          "t": "You are writing about work after 11pm"
+        },
+        {
+          "icon": "📜",
+          "l": "Long message",
+          "t": "Your message runs past three paragraphs"
+        },
+        {
+          "icon": "⚖️",
+          "l": "Fairness words",
+          "t": "You use the words fair, deserved, or process more than once"
+        },
+        {
+          "icon": "📨",
+          "l": "Wide list",
+          "t": "You add people to the To line who were not in the meeting"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Move it out of email",
+          "desc": "Cut the text and paste it into a private note. Delete the draft from your mail app."
+        },
+        {
+          "n": "2",
+          "title": "Set a 72-hour rule",
+          "desc": "Do not send any work message about the decision for three days. Reply to normal work as normal."
+        },
+        {
+          "n": "3",
+          "title": "Cut it to four lines",
+          "desc": "On day three, rewrite it as four lines with no feelings and one request. Then decide."
+        }
+      ],
+      "script": "(To yourself, in the note app) \"<strong>Draft — do not send. Reread Thursday.</strong>\" (To your boss on Thursday) \"I've had time to think. I want to understand the gap, not relitigate the call.\"",
+      "counter": "If a rival goes quiet and then sends a long emotional message, they just handed you the room.\n• Notice the length. Long means unedited.\n• Reply short and neutral: <strong>\"Let's talk in person tomorrow.\"</strong>\n• Do not forward it. Let the sender's own copy do the damage.",
+      "insight": "Silence for three days costs you nothing and protects everything. This works until someone reads your silence as agreement — which is why card three exists.",
+      "risk": "high"
+    },
+    {
+      "id": 3,
+      "cat": "first48",
+      "danger": "moderate",
+      "title": "Show Up Normal on Day One",
+      "principle": "Machiavelli: Appearances Govern Judgment",
+      "remember": "Same clothes, same hours, same jokes. Change nothing visible.",
+      "when": "It is the morning after the news and everyone in the office already knows.",
+      "hook": "The office is watching your desk, not your work. <strong>Your first normal day kills the story faster than any speech.</strong>",
+      "truth": "People decide what happened to you by watching how you walk in.\n• Arrive at your usual time and speak to your usual people.\n• They stop looking for damage when they do not find any.\n• The trap is over-performing cheerfulness. Loud good mood reads as bleeding.",
+      "theySee": "A colleague getting coffee at 8:40 like every other Tuesday, talking about the weekend.",
+      "example": "Marcus lost the director role on a Friday. Monday he came in at his usual 8:30, ran his standup, and told the same bad joke about the printer. By Wednesday nobody mentioned the promotion. Two people told him he seemed fine, which was the point.",
+      "signals": [
+        {
+          "icon": "👁️",
+          "l": "Quick looks",
+          "t": "People glance at you and look away when you enter"
+        },
+        {
+          "icon": "🤐",
+          "l": "Talk stops",
+          "t": "A conversation goes quiet when you walk to the kitchen"
+        },
+        {
+          "icon": "💬",
+          "l": "Careful greetings",
+          "t": "Someone asks how you are with a softer voice than usual"
+        },
+        {
+          "icon": "📅",
+          "l": "Cancelled invites",
+          "t": "A meeting you normally attend loses your name"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Keep your schedule",
+          "desc": "Arrive and leave at your usual times all week. Do not work late and do not go home early."
+        },
+        {
+          "n": "2",
+          "title": "Speak first",
+          "desc": "Greet three people before anyone greets you. Short, normal, about work or the weekend."
+        },
+        {
+          "n": "3",
+          "title": "Give one line only",
+          "desc": "If someone asks, use the same eight words every time. Do not vary it for anyone."
+        }
+      ],
+      "script": "(When anyone asks) \"<strong>They went a different way. I'm still on the Halberd account.</strong>\" Then ask them about their thing.",
+      "counter": "If someone behaves perfectly normal after losing, they are running this move.\n• Notice that the line they give you never changes.\n• Say: <strong>\"Fair enough. What are you working on now?\"</strong>\n• Do not push for feeling. Push for their plan. That is the real information.",
+      "insight": "Normal is a performance and it costs energy for about ten days. The harder part is that looking fine makes people assume you accepted it — and the person who accepted it gets asked for nothing.",
+      "risk": "low"
+    },
+    {
+      "id": 4,
+      "cat": "first48",
+      "danger": "high",
+      "title": "Write Down What They Actually Said Before You Forget It",
+      "principle": "Evidence Asymmetry — The Contemporaneous Record",
+      "remember": "Write their exact words the same day, with the date.",
+      "when": "You just got the news and your boss gave you a reason in the room.",
+      "hook": "In six weeks their reason will have changed. <strong>Only one of you will have it in writing.</strong>",
+      "truth": "Reasons drift. The first reason is usually the honest one.\n• Write the exact words, the date, the room, and who was there.\n• If the story changes later, you can name the change without accusing anyone.\n• Most people trust memory. Memory loses to a dated note every time.",
+      "theySee": "Nothing at the time. Later they see someone who quotes their own sentence back with a date attached.",
+      "example": "Ana typed her boss's exact line into her phone in the stairwell: \"You're not ready to manage the offshore team.\" In November he told HR she lacked client presence. She read both sentences back in her review. He gave her the offshore team in January.",
+      "signals": [
+        {
+          "icon": "📝",
+          "l": "Vague reason",
+          "t": "They give you a reason with no example attached to it"
+        },
+        {
+          "icon": "🔀",
+          "l": "Story shifts",
+          "t": "The reason you hear from HR differs from the one your boss gave"
+        },
+        {
+          "icon": "🙈",
+          "l": "No paper",
+          "t": "They refuse to put the feedback in an email"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Delay tactics",
+          "t": "They push your feedback meeting twice"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Type it in the stairwell",
+          "desc": "Within ten minutes, write their sentences word for word in a private note with the date."
+        },
+        {
+          "n": "2",
+          "title": "Send a soft confirm",
+          "desc": "Email one line: \"Just so I have it right, the gap was X. Correct me if I'm off.\""
+        },
+        {
+          "n": "3",
+          "title": "Keep it off company systems",
+          "desc": "Store the note somewhere you keep after you leave. Personal device, personal account."
+        }
+      ],
+      "script": "(Email, next morning) \"Thanks for yesterday. <strong>Capturing my understanding: the gap was scope of team leadership, not client results.</strong> Let me know if I've misread it.\"",
+      "counter": "If someone emails you a summary of what you said, they are building a record.\n• Notice the phrase \"just so I have it right\". That is the tell.\n• Reply only with what you will defend in six months.\n• Never reply \"that's right\" to a summary you did not read twice.",
+      "insight": "A dated note turns a feeling into a fact you can spend later. The next question is whether you can get them to say the real reason at all — most first reasons are the polite version.",
+      "risk": "high"
+    },
+    {
+      "id": 5,
+      "cat": "realreason",
+      "danger": "moderate",
+      "title": "Ask What the Other Person Had That You Didn't",
+      "principle": "Voss: Calibrated Question — Shift From Verdict to Comparison",
+      "remember": "Ask what they had, not why you lost.",
+      "when": "You are in the follow-up meeting and your boss is giving you soft, useless feedback.",
+      "hook": "\"Why not me\" gets you a hug. <strong>\"What did they have\" gets you a list.</strong>",
+      "truth": "Bosses are trained to avoid saying anything negative about you directly.\n• Point the question at the winner instead of at yourself.\n• They can praise someone else freely. HR has no rule against that.\n• The praise list is your gap list. Write it down as they talk.",
+      "theySee": "A person who seems genuinely curious about the winner, not wounded about themselves.",
+      "example": "Tom stopped asking why he lost. He asked what Rachel brought that tipped it. His boss talked for four minutes about her running the budget review alone. Tom asked for the next budget review that week and got it.",
+      "signals": [
+        {
+          "icon": "🫗",
+          "l": "Soft words",
+          "t": "They say you were very close and leave it there"
+        },
+        {
+          "icon": "🔄",
+          "l": "Same phrase",
+          "t": "They repeat one word like readiness without an example"
+        },
+        {
+          "icon": "🙅",
+          "l": "No specifics",
+          "t": "They will not name a single moment where you fell short"
+        },
+        {
+          "icon": "😌",
+          "l": "Comfort mode",
+          "t": "They tell you your time will come"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the comparison question",
+          "desc": "Ask what the winner had that tipped it. Use their name. Stay curious, not tight."
+        },
+        {
+          "n": "2",
+          "title": "Write the list as they speak",
+          "desc": "Open your notebook and write each item down in front of them. Say nothing while you write."
+        },
+        {
+          "n": "3",
+          "title": "Read it back",
+          "desc": "Read the list back and ask which item matters most. Their pick is your next project."
+        }
+      ],
+      "script": "\"I'm not asking you to relitigate it. <strong>What did Rachel bring to this that I didn't? I want the list, not the comfort.</strong>\"",
+      "counter": "If someone asks you what a rival had instead of why they lost, they are mining you.\n• Notice they took out a notebook. They are building a plan.\n• Say: <strong>\"Two things — and both are things you can get this quarter.\"</strong>\n• Give real items. Vague answers make you the obstacle they route around.",
+      "insight": "Praise for someone else is the only honest feedback most bosses can legally give. The trap is that the list they give you is the official list — the real reason is usually one item they left off.",
+      "risk": "low"
+    },
+    {
+      "id": 6,
+      "cat": "realreason",
+      "danger": "high",
+      "title": "Find Out Who Was Actually in the Room",
+      "principle": "Pfeffer: Power Comes From Knowing Who Decides",
+      "remember": "Find the real decider. Your boss may not be it.",
+      "when": "Your boss says the decision was made together and will not say by whom.",
+      "hook": "You have been arguing your case to a messenger. <strong>The person who said no may never have met you.</strong>",
+      "truth": "Promotion calls get made in a calibration meeting you never see.\n• Ask who was in the room and what each person owns.\n• Your boss may have argued for you and lost. That changes your whole plan.\n• Most people spend a year improving for the wrong audience.",
+      "theySee": "A person asking a process question, not a fairness question.",
+      "example": "Kofi asked his manager who else voted. His manager admitted the regional VP blocked it because she had never seen Kofi present. Kofi asked to run one section of the quarterly. He presented in October and got the role in March.",
+      "signals": [
+        {
+          "icon": "🤝",
+          "l": "Plural language",
+          "t": "Your boss says we decided instead of I decided"
+        },
+        {
+          "icon": "🚫",
+          "l": "No name",
+          "t": "They will not tell you who else was in the meeting"
+        },
+        {
+          "icon": "😬",
+          "l": "Discomfort",
+          "t": "Your boss looks uncomfortable defending the reason he gives"
+        },
+        {
+          "icon": "🧭",
+          "l": "Redirects",
+          "t": "They point you toward HR when you ask about the process"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the room question",
+          "desc": "Ask who sat in the calibration meeting. Frame it as understanding the process."
+        },
+        {
+          "n": "2",
+          "title": "Ask who had doubts",
+          "desc": "Ask which person had the biggest question about you. Do not ask what they said."
+        },
+        {
+          "n": "3",
+          "title": "Get one hour of exposure",
+          "desc": "Book yourself into something that person attends within thirty days. Present, do not observe."
+        }
+      ],
+      "script": "\"Not asking you to break confidence. <strong>Who was in the calibration room, and which of them had the biggest question mark next to my name?</strong> I'd rather fix it with them directly.\"",
+      "counter": "If someone asks who was in the decision room, they are mapping who to work on.\n• Notice they moved from why to who. That is a strategist.\n• Say: <strong>\"It was a group call. I'll bring your name up next cycle.\"</strong>\n• Decide whether you want them talking to the people above you.",
+      "insight": "Your boss's opinion is one vote and often not the loudest one. The harder part is that fixing yourself in front of a VP means going around your boss — and he will feel it.",
+      "risk": "high"
+    },
+    {
+      "id": 7,
+      "cat": "realreason",
+      "danger": "moderate",
+      "title": "Make Them Name One Thing You Can Fix in Ninety Days",
+      "principle": "Schelling: Force the Commitment",
+      "remember": "Get one fixable item and a date they agree to.",
+      "when": "Your boss gives you feedback that is true but impossible to act on this year.",
+      "hook": "\"Build more executive presence\" is a way of saying no forever. <strong>Ninety days makes it a promise.</strong>",
+      "truth": "Vague feedback protects the boss from ever having to promote you.\n• Force the feedback down to one item with a deadline attached.\n• Once they name a date, the next no needs a new reason.\n• The trap is accepting three items. Three items means no item.",
+      "theySee": "A person offering to do work, asking them to define what done looks like.",
+      "example": "Lena refused to leave with \"more strategic thinking\". She asked what one thing, by when. Her boss said own the vendor renegotiation by December. She closed it in November. When the next role opened he had nothing left to say.",
+      "signals": [
+        {
+          "icon": "☁️",
+          "l": "Big words",
+          "t": "They use words like presence, strategic, or readiness"
+        },
+        {
+          "icon": "📚",
+          "l": "Long list",
+          "t": "They give you four things to improve at once"
+        },
+        {
+          "icon": "🕰️",
+          "l": "No date",
+          "t": "They say over time or when you're ready"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same feedback",
+          "t": "You heard this same note in last year's review"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Cut the list to one",
+          "desc": "Ask which single item would have changed the decision. Make them choose one."
+        },
+        {
+          "n": "2",
+          "title": "Attach a date",
+          "desc": "Ask what you need to have done by which month. Say the month out loud."
+        },
+        {
+          "n": "3",
+          "title": "Put it in writing",
+          "desc": "Email the one item and the date the same day. Ask them to confirm with one word."
+        }
+      ],
+      "script": "\"If I do <strong>one thing</strong> between now and December, which one changes your answer? I'll take that one and leave the rest.\"",
+      "counter": "If someone pushes you to name one fixable item and a date, they are closing your exits.\n• Notice they narrowed four items into one. That is deliberate.\n• Say: <strong>\"I'll name the item. The date depends on the business.\"</strong>\n• Never confirm a month in writing you cannot control.",
+      "insight": "A named item with a date turns your boss from judge into witness. This works until the item gets done and they invent a new one — which tells you everything about whether to stay.",
+      "risk": "low"
+    },
+    {
+      "id": 8,
+      "cat": "realreason",
+      "danger": "extreme",
+      "title": "Ask HR the Question Your Boss Cannot Answer",
+      "principle": "Greene: Law 14 — Pose as a Friend, Work as a Spy",
+      "remember": "Ask HR about the process, never about the person.",
+      "when": "Your boss's reason keeps changing and you want to know if the job was ever open.",
+      "hook": "HR will not tell you who won or why. <strong>They will tell you how the process ran, and that is the real story.</strong>",
+      "truth": "HR protects the company, not you, and process questions are safe for them to answer.\n• Ask when the role was posted and how many people were interviewed.\n• A role decided before it was posted tells you your effort was theatre.\n• The trap is naming your boss. That turns a question into a complaint.",
+      "theySee": "An employee doing career planning, asking neutral questions about how promotions work here.",
+      "example": "Sam asked HR how the band-6 process worked in general. He learned the role was filled internally before it was posted. He stopped competing at his company and started interviewing outside. He left in five months at a higher band.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Fast posting",
+          "t": "The role was posted and filled inside three weeks"
+        },
+        {
+          "icon": "🎭",
+          "l": "Thin process",
+          "t": "You were the only person interviewed besides the winner"
+        },
+        {
+          "icon": "📄",
+          "l": "Tailored posting",
+          "t": "The job description matches one person's exact background"
+        },
+        {
+          "icon": "🤫",
+          "l": "HR hedges",
+          "t": "HR answers general questions but not questions about this role"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Book a career chat",
+          "desc": "Book thirty minutes with HR about career paths. Do not put the role in the invite."
+        },
+        {
+          "n": "2",
+          "title": "Ask process only",
+          "desc": "Ask how the band works, who signs off, and the usual timeline. Never name your boss."
+        },
+        {
+          "n": "3",
+          "title": "Compare the dates",
+          "desc": "Compare the posting date to your interview date. A gap under two weeks answers your question."
+        }
+      ],
+      "script": "\"I'm planning the next two years here. <strong>Can you walk me through how a band-6 opening usually runs — who signs off, and how long between posting and offer?</strong>\"",
+      "counter": "If someone asks HR neutral process questions after losing, they are checking whether the game was real.\n• Notice they never named a person. That is trained behavior.\n• Answer the process question honestly and briefly.\n• Assume they are now comparing your answer to what their boss said.",
+      "insight": "Learning the job was pre-wired hurts, and it also frees you. The next question is whether you spend that knowledge inside the building or on the way out.",
+      "risk": "high"
+    },
+    {
+      "id": 9,
+      "cat": "thewinner",
+      "danger": "high",
+      "title": "Congratulate Them in Public Within Two Days",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Congratulate them in front of people, once, early.",
+      "when": "The person who beat you walks into the team meeting with the new title.",
+      "hook": "Everyone is waiting to see if you will be bitter. <strong>Say it first and the question dies.</strong>",
+      "truth": "A public congratulation costs nothing and buys you two things.\n• The room stops watching you for damage and moves on.\n• The winner now owes you a debt they feel but cannot name.\n• Do it once. Repeating it turns it into something else.",
+      "theySee": "A colleague who says one warm sentence about them out loud, then goes back to the agenda.",
+      "example": "Devi said it in the Monday standup: \"Before we start — congrats to Ben. He earned it, and I'm glad it's someone who knows the account.\" Ben pulled her into his leadership sync two weeks later. She was the only non-manager in the room.",
+      "signals": [
+        {
+          "icon": "😶",
+          "l": "Awkward room",
+          "t": "Nobody mentions the promotion in the first team meeting"
+        },
+        {
+          "icon": "🧊",
+          "l": "Winner avoids you",
+          "t": "The new manager does not make eye contact with you"
+        },
+        {
+          "icon": "👂",
+          "l": "Others listen",
+          "t": "People go quiet when you and the winner are in the same room"
+        },
+        {
+          "icon": "💌",
+          "l": "Private only",
+          "t": "Congratulations happen over chat and never out loud"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say it out loud, early",
+          "desc": "In the first team meeting, say one sentence of congratulations before the agenda starts."
+        },
+        {
+          "n": "2",
+          "title": "Name a real strength",
+          "desc": "Name one specific thing they are good at. Vague praise sounds like a knife."
+        },
+        {
+          "n": "3",
+          "title": "Stop after one line",
+          "desc": "Move straight to the agenda. Do not linger, do not joke about losing."
+        }
+      ],
+      "script": "\"Before we start — <strong>congrats, Ben. You know that account better than anyone here and I'm glad it's you.</strong> Right, item one.\"",
+      "counter": "If the person you beat congratulates you publicly and fast, they just put you in their debt.\n• Notice the timing. Fast and public is a move, not a feeling.\n• Say: <strong>\"Thank you. I want you in the room for the next one.\"</strong>\n• Pay the debt with access, not with praise. Access is what they came for.",
+      "insight": "Generosity from the loser reads as strength and buys real access. The harder part starts the first time they give you an instruction you think is wrong.",
+      "risk": "moderate"
+    },
+    {
+      "id": 10,
+      "cat": "thewinner",
+      "danger": "extreme",
+      "title": "Take the First Order From Them Without a Fight",
+      "principle": "Greene: Law 1 — Never Outshine the Master",
+      "remember": "Obey the first order fast. Fight nothing in week one.",
+      "when": "Your former peer, now your boss, gives you your first direct instruction.",
+      "hook": "They are terrified you will make this hard. <strong>Make it easy once and you own their trust for a year.</strong>",
+      "truth": "A new manager's first fear is the person they beat.\n• Do the first task fast, well, and without comment.\n• Their fear drops and you stop being the problem they manage.\n• The trap is doing it well and then reminding them you did it well.",
+      "theySee": "A team member who says yes, delivers early, and never mentions the promotion.",
+      "example": "Jonas got his first instruction from Elena on a Tuesday: rework the pricing deck by Friday. He sent it Wednesday night with no note about the timeline. Elena started sending him the work she cared about most. By spring he ran half her portfolio.",
+      "signals": [
+        {
+          "icon": "🥴",
+          "l": "Over-explaining",
+          "t": "They give you a long justification for a small request"
+        },
+        {
+          "icon": "🧪",
+          "l": "Test task",
+          "t": "The first task they give you is easy and visible"
+        },
+        {
+          "icon": "📉",
+          "l": "Softened orders",
+          "t": "They phrase instructions as questions to avoid a fight"
+        },
+        {
+          "icon": "🛡️",
+          "l": "Backup present",
+          "t": "They give you the instruction with someone else on the call"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say yes in one line",
+          "desc": "Reply with three words. No conditions, no timeline negotiation, no history."
+        },
+        {
+          "n": "2",
+          "title": "Deliver early",
+          "desc": "Send it a day before it is due. Attach nothing but the work."
+        },
+        {
+          "n": "3",
+          "title": "Say nothing after",
+          "desc": "Do not point out that you delivered early. Let them notice it themselves."
+        }
+      ],
+      "script": "\"<strong>Got it. You'll have it Thursday.</strong>\" (Send it Wednesday. Say nothing else.)",
+      "counter": "If the person you beat delivers your first task early and silently, they are buying trust cheap.\n• Notice they skipped the negotiation. That is strategy, not compliance.\n• Say: <strong>\"That was fast. What else do you want to own?\"</strong>\n• Give them real scope or lose them. Cheap trust expires.",
+      "insight": "Fast compliance in week one is the cheapest position you will ever buy. This works until you need to disagree with them in front of others — and card eleven is that moment.",
+      "risk": "high"
+    },
+    {
+      "id": 11,
+      "cat": "thewinner",
+      "danger": "extreme",
+      "title": "Disagree With Your New Boss in Private, Never in the Room",
+      "principle": "Gracián: Maxim 43 — Think With the Few, Speak With the Many",
+      "remember": "Push back before the meeting, never during it.",
+      "when": "Your new manager, who used to be your peer, is about to make a call you know is wrong.",
+      "hook": "You still know more than them about this. <strong>Saying so in public makes you the threat they remove.</strong>",
+      "truth": "A new manager cannot survive being corrected by the person they beat.\n• Send your objection before the meeting, in one short message.\n• They get to walk in with your point as their own decision.\n• If you correct them in front of the team, they stop asking you anything.",
+      "theySee": "A person who backs them in the room and warns them before it.",
+      "example": "Rita saw the migration date was impossible. She messaged Ben at 8pm: \"One risk before tomorrow — vendor freeze is the 14th.\" He moved the date himself in the meeting and credited the vendor calendar. He called her before every decision after that.",
+      "signals": [
+        {
+          "icon": "⏰",
+          "l": "Late decisions",
+          "t": "They announce calls in meetings without asking you first"
+        },
+        {
+          "icon": "😳",
+          "l": "Public flinch",
+          "t": "They tense up when you speak in a group meeting"
+        },
+        {
+          "icon": "🔇",
+          "l": "Fewer invites",
+          "t": "You stop getting invited to the meetings where calls get made"
+        },
+        {
+          "icon": "📵",
+          "l": "No pre-reads",
+          "t": "They stop sending you the deck before the meeting"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Message the night before",
+          "desc": "Send one risk, in under thirty words, before the meeting starts."
+        },
+        {
+          "n": "2",
+          "title": "Give them the credit line",
+          "desc": "Tell them how to say it as their own call. Hand them the sentence."
+        },
+        {
+          "n": "3",
+          "title": "Back them out loud",
+          "desc": "In the meeting, support the decision even if they changed it after your message."
+        }
+      ],
+      "script": "(Night before, direct message) \"<strong>One risk before tomorrow: the vendor freeze starts the 14th, so the 12th launch has no rollback window.</strong> Your call — happy either way.\"",
+      "counter": "If someone always warns you privately and backs you publicly, they are managing you upward.\n• Notice the pattern. Every correction arrives where nobody can see it.\n• Say: <strong>\"Say it in the meeting next time. I'll back you.\"</strong>\n• Pull them into the open or you stay dependent on their private read.",
+      "insight": "Private correction protects their face and grows your access at the same time. The real trap is that nobody in the room ever sees you were right — which is why the next section is about the audience.",
+      "risk": "high"
+    },
+    {
+      "id": 12,
+      "cat": "thewinner",
+      "danger": "high",
+      "title": "Ask Them for Something Big in the First Month",
+      "principle": "Franklin Effect — Asking Creates Investment",
+      "remember": "Ask your new boss for one big thing early.",
+      "when": "Your new manager is still nervous around you and treating you carefully.",
+      "hook": "They expect you to ask for nothing and quietly leave. <strong>Ask for something big and you become their project.</strong>",
+      "truth": "A person who does you a favour starts believing in you.\n• Ask for scope, exposure, or a budget line — something with their name on it.\n• Once they spend capital on you, they need you to succeed.\n• Ask small and you confirm what they suspect: you are on your way out.",
+      "theySee": "A team member who wants more work, not more comfort.",
+      "example": "Owen asked Elena for the Asia expansion workstream in his second week. She had to fight the ops director for it. She won, and from then on she talked about Owen's project in every leadership meeting because it was hers too.",
+      "signals": [
+        {
+          "icon": "🪶",
+          "l": "Light touch",
+          "t": "They give you easy work and avoid stretching you"
+        },
+        {
+          "icon": "🙊",
+          "l": "Careful language",
+          "t": "They ask if you are okay more than once a week"
+        },
+        {
+          "icon": "🎁",
+          "l": "Small offers",
+          "t": "They offer you training or a conference instead of scope"
+        },
+        {
+          "icon": "🕳️",
+          "l": "No plans",
+          "t": "They never mention your name in next-quarter plans"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one thing with a budget",
+          "desc": "Choose a project with money, headcount, or a client name attached. Not a course."
+        },
+        {
+          "n": "2",
+          "title": "Ask in a one-on-one",
+          "desc": "Ask directly, in person, in under twenty words. Do not build a case first."
+        },
+        {
+          "n": "3",
+          "title": "Make it easy to say yes",
+          "desc": "Tell them exactly what you need from them: one email, one introduction, one approval."
+        }
+      ],
+      "script": "\"<strong>I want the Asia workstream. I know you'd have to go get it from Ops.</strong> If you can win that, I'll run it end to end and you'll never chase me on it.\"",
+      "counter": "If someone you just beat asks you for a big favour, they are binding you to them.\n• Notice the size. Big asks create investment, small asks do not.\n• Say: <strong>\"I'll get it. In exchange I want weekly numbers, not updates.\"</strong>\n• Take the trade openly. A debt you name is a debt you control.",
+      "insight": "A boss who spends capital on you cannot afford to write you off. The harder part is delivering it while half the floor still thinks of you as the person who lost.",
+      "risk": "moderate"
+    },
+    {
+      "id": 13,
+      "cat": "audience",
+      "danger": "moderate",
+      "title": "Give Everyone the Same Eight Words",
+      "principle": "Message Discipline — One Line, No Variants",
+      "remember": "One sentence about it. Same words every single time.",
+      "when": "A colleague corners you at the coffee machine and asks what happened.",
+      "hook": "Twelve people will ask. <strong>Give twelve different answers and you have started a rumour about yourself.</strong>",
+      "truth": "Office stories form from the differences between your answers.\n• Say the same short line every time, in the same words.\n• People compare notes. Identical answers give them nothing to build on.\n• The trap is giving your friend a longer version. Your friend talks.",
+      "theySee": "A colleague who gives a short, calm answer and then asks about their work.",
+      "example": "Nadia used the same line for six weeks: \"They went a different way. I'm running the Halberd account.\" Two people compared notes at lunch and found she had said the identical thing. The gossip died because there was nothing to compare.",
+      "signals": [
+        {
+          "icon": "☕",
+          "l": "Fishing questions",
+          "t": "Someone asks how you are really doing with a lowered voice"
+        },
+        {
+          "icon": "🔍",
+          "l": "Detail hunting",
+          "t": "They ask what your boss said word for word"
+        },
+        {
+          "icon": "🧩",
+          "l": "Cross-checking",
+          "t": "Two colleagues ask you the same question on the same day"
+        },
+        {
+          "icon": "🎣",
+          "l": "Bait offered",
+          "t": "They tell you the process was unfair to see if you agree"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your eight words",
+          "desc": "Write one sentence tonight. Under twelve words. No feelings, one current project."
+        },
+        {
+          "n": "2",
+          "title": "Say it out loud five times",
+          "desc": "Practise until it sounds bored. Bored is the tone that ends questions."
+        },
+        {
+          "n": "3",
+          "title": "Turn the question around",
+          "desc": "After the line, ask them one question about their work. Every time."
+        }
+      ],
+      "script": "\"<strong>They went a different way. I'm on Halberd now.</strong> How did your migration land?\"",
+      "counter": "If someone gives you the exact same sentence twice, they have a script and will not go off it.\n• Notice the identical wording. That is discipline, not honesty.\n• Say: <strong>\"That's the official version. What's the rest of it?\"</strong>\n• Expect nothing. Ask about their plans instead — plans leak more than feelings.",
+      "insight": "Message discipline starves the story of oxygen in about two weeks. The harder part is that the people who wanted you to bleed will keep testing you — and one of them will be a friend.",
+      "risk": "low"
+    },
+    {
+      "id": 14,
+      "cat": "audience",
+      "danger": "high",
+      "title": "Find the Person Who Enjoyed Watching You Lose",
+      "principle": "Greene: Law 2 — Never Trust Friends Too Much, Use Enemies",
+      "remember": "Someone is glad you lost. Find out who, quietly.",
+      "when": "You notice one colleague keeps bringing up the promotion in conversation.",
+      "hook": "Most people forgot by Friday. <strong>The one who keeps mentioning it wants something you have.</strong>",
+      "truth": "Your loss opened a slot in someone's plan.\n• Watch who keeps raising it after everyone else moved on.\n• They mention it to check whether you are still a threat.\n• The trap is arguing with them. Answer flat and watch what they do next.",
+      "theySee": "A colleague who does not take the bait and changes the subject with no edge in their voice.",
+      "example": "Every week Greg asked Marcus how he was \"holding up\". Marcus gave the same flat line each time and started noticing Greg had taken two of his old meetings. Marcus asked his boss to be added back. Greg stopped asking.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Keeps raising it",
+          "t": "They mention the promotion weeks after everyone stopped"
+        },
+        {
+          "icon": "🙂",
+          "l": "Sympathy with edge",
+          "t": "They say sorry about that in front of other people"
+        },
+        {
+          "icon": "🪑",
+          "l": "Taking your seats",
+          "t": "They appear in meetings that used to be yours"
+        },
+        {
+          "icon": "📣",
+          "l": "Retelling it",
+          "t": "You hear your own story back from someone who was not there"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List who still mentions it",
+          "desc": "Write the names of anyone who raised it after week two. Usually one or two names."
+        },
+        {
+          "n": "2",
+          "title": "Check what they gained",
+          "desc": "Look at their calendar and their projects. See what moved to them since the decision."
+        },
+        {
+          "n": "3",
+          "title": "Take one thing back",
+          "desc": "Ask your manager to put you back on one specific meeting. Name the meeting."
+        }
+      ],
+      "script": "(To the person, flat and friendly) \"<strong>All good. You seem more interested in it than I am.</strong>\" Smile, move on. Then go check their calendar.",
+      "counter": "If someone keeps checking how you feel about a loss, they are measuring whether you are done.\n• Notice the repetition. Concern does not need weekly renewal.\n• Say: <strong>\"I'm fine. Why do you keep asking?\"</strong>\n• Watch what they say next. The reason usually falls out of their mouth.",
+      "insight": "The person who keeps raising it is telling you what they took while you were distracted. The next question is who in the building will speak for you when you are not there.",
+      "risk": "high"
+    },
+    {
+      "id": 15,
+      "cat": "audience",
+      "danger": "moderate",
+      "title": "Get Three People Above You to Say Your Name",
+      "principle": "Pfeffer: Visibility Beats Performance",
+      "remember": "Three senior people must say your name without you there.",
+      "when": "You realise the people who decided your promotion barely know your work.",
+      "hook": "Your boss's opinion was one vote. <strong>You lost the votes from people who never saw you work.</strong>",
+      "truth": "Promotion rooms run on recognition, not results.\n• Get in front of three senior people with something useful in hand.\n• They repeat your name in rooms you will never enter.\n• The trap is asking for a mentor. Ask to solve their problem instead.",
+      "theySee": "A person who sent them something short and useful about a problem they actually have.",
+      "example": "Kofi sent the regional VP a one-page read on churn in her two worst markets. She replied in an hour and asked him to present it. Three senior people heard his name that month. He was in the next calibration room's conversation without being there.",
+      "signals": [
+        {
+          "icon": "👤",
+          "l": "No recognition",
+          "t": "A senior leader does not know what you work on"
+        },
+        {
+          "icon": "🚪",
+          "l": "Closed rooms",
+          "t": "Your work gets presented by someone else"
+        },
+        {
+          "icon": "📊",
+          "l": "Hidden results",
+          "t": "Your numbers appear in decks with no name attached"
+        },
+        {
+          "icon": "🤔",
+          "l": "Blank looks",
+          "t": "An executive asks who you report to when you speak"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name three people",
+          "desc": "Write three senior names who were in or near the decision. Not your boss."
+        },
+        {
+          "n": "2",
+          "title": "Send one useful page",
+          "desc": "Send each one a short read on a problem they own. One page, no ask attached."
+        },
+        {
+          "n": "3",
+          "title": "Ask for ten minutes",
+          "desc": "After they reply, ask for ten minutes to walk them through it. Not thirty."
+        }
+      ],
+      "script": "\"You mentioned churn in the two southern markets. <strong>I pulled the numbers and found one pattern nobody's flagged. One page attached — happy to walk you through it in ten minutes.</strong>\"",
+      "counter": "If someone junior sends you a useful one-pager out of nowhere, they are building visibility.\n• Notice there is no ask in the message. That is deliberate.\n• Say: <strong>\"Good work. What do you want next?\"</strong>\n• Make the trade explicit. Unnamed favours become expectations later.",
+      "insight": "Being known by three people above your boss changes who your boss is talking to. The harder part is doing it without your boss feeling you went around him — because you did.",
+      "risk": "low"
+    },
+    {
+      "id": 16,
+      "cat": "rebuild",
+      "danger": "high",
+      "title": "Take the Job Nobody Wants but Everyone Watches",
+      "principle": "Pfeffer: Control the Critical Resource",
+      "remember": "Take the ugly project everyone senior is watching.",
+      "when": "A messy, high-visibility project is open and nobody has volunteered.",
+      "hook": "Safe work made you invisible. <strong>The ugly project is where the senior people already look every week.</strong>",
+      "truth": "Attention follows problems, not polished work.\n• Take the broken thing that reports to someone senior every week.\n• You get a standing meeting with power and a story only you can tell.\n• The trap is taking a mess with no audience. Check who reads the update first.",
+      "theySee": "A person who put their hand up for the thing everyone else avoided eye contact about.",
+      "example": "Priya took the failing billing migration nobody wanted. It reported to the CFO every Friday. She fixed 60 percent of the errors in two months and stood in front of the CFO eight times. She was promoted before the project ended.",
+      "signals": [
+        {
+          "icon": "🙈",
+          "l": "Nobody volunteers",
+          "t": "A project sits unowned for weeks in leadership decks"
+        },
+        {
+          "icon": "👑",
+          "l": "Senior attention",
+          "t": "An executive asks about it in every all-hands"
+        },
+        {
+          "icon": "🔥",
+          "l": "Named problem",
+          "t": "The problem has a nickname everyone uses"
+        },
+        {
+          "icon": "📆",
+          "l": "Standing update",
+          "t": "There is a weekly meeting about it with senior people in it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check who reads the update",
+          "desc": "Find out which senior person gets the weekly status. If nobody senior, skip it."
+        },
+        {
+          "n": "2",
+          "title": "Ask for it directly",
+          "desc": "Tell your manager you want it. Ask for one thing: direct access to the sponsor."
+        },
+        {
+          "n": "3",
+          "title": "Send week-one numbers",
+          "desc": "In your first week, send the sponsor three numbers and one fix. Keep it to five lines."
+        }
+      ],
+      "script": "\"<strong>I'll take the billing migration.</strong> One condition — I report the numbers to the CFO directly each Friday. No filter, good or bad.\"",
+      "counter": "If someone volunteers for the mess everyone avoids, they are buying access to power.\n• Notice they asked for reporting access, not resources.\n• Say: <strong>\"You can have it. Updates come through me.\"</strong>\n• Whoever controls the update controls the story. Decide if you want that.",
+      "insight": "The ugly project puts you in a room your title does not earn. This works until the project succeeds and someone senior claims it — which is a problem you solve by owning the numbers.",
+      "risk": "high"
+    },
+    {
+      "id": 17,
+      "cat": "rebuild",
+      "danger": "high",
+      "title": "Build the Number Only You Can Report",
+      "principle": "Machiavelli: Depend on What You Control",
+      "remember": "Own one number the company checks every week.",
+      "when": "Your work is real but nobody can point to a number that belongs to you.",
+      "hook": "Good work is invisible without a number attached. <strong>Own the number and you own the meeting.</strong>",
+      "truth": "Companies promote people who appear in the numbers they check.\n• Pick one metric leadership already tracks and make it yours.\n• When it moves, people say your name in a room you are not in.\n• The trap is inventing a new metric. Nobody watches a number they did not ask for.",
+      "theySee": "A person whose name appears next to a number in the weekly deck.",
+      "example": "Tom took the renewal rate for the mid-market book. He sent it every Monday at 8am with one line of comment. Within a quarter the COO asked for \"Tom's number\" before the deck was even out. He never had to argue for his value again.",
+      "signals": [
+        {
+          "icon": "📈",
+          "l": "Owned numbers",
+          "t": "Other people's names sit next to metrics in the weekly deck"
+        },
+        {
+          "icon": "🫥",
+          "l": "No number",
+          "t": "You cannot name one number that would drop if you left"
+        },
+        {
+          "icon": "🗂️",
+          "l": "Effort talk",
+          "t": "Your updates describe activity instead of results"
+        },
+        {
+          "icon": "🔄",
+          "l": "Repeat questions",
+          "t": "Leaders keep asking the same question about one metric"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the number they already watch",
+          "desc": "Open the last three leadership decks. Pick the metric that appears every time."
+        },
+        {
+          "n": "2",
+          "title": "Claim it in writing",
+          "desc": "Tell your manager you will own that number and report it weekly. Get a yes in email."
+        },
+        {
+          "n": "3",
+          "title": "Send it Monday at 8am",
+          "desc": "Send the number and one line every Monday, without being asked, for twelve weeks."
+        }
+      ],
+      "script": "\"<strong>I'll own mid-market renewal rate. You'll have it every Monday at 8, with one line on what moved it.</strong> If it's bad, you'll hear it from me first.\"",
+      "counter": "If someone claims a metric leadership already watches, they just took a seat at the table.\n• Notice they picked an existing number, not a new one.\n• Say: <strong>\"Take it. You also own it when it drops.\"</strong>\n• Tie the number to consequences or you gave away visibility for free.",
+      "insight": "A number with your name on it survives a change of boss. The next question is whether you want to spend it here or carry it into an interview somewhere else.",
+      "risk": "moderate"
+    },
+    {
+      "id": 18,
+      "cat": "rebuild",
+      "danger": "moderate",
+      "title": "Get the Offer You Do Not Intend to Take",
+      "principle": "Schelling: Credible Outside Option",
+      "remember": "An outside offer changes how they talk to you.",
+      "when": "Six weeks have passed and nothing about your position has actually changed.",
+      "hook": "You cannot negotiate from inside a room you cannot leave. <strong>One real offer changes the whole conversation.</strong>",
+      "truth": "Your value inside the company is set by what someone outside will pay.\n• Run a real process and get a written offer, even if you stay.\n• You stop guessing your market price and start knowing it.\n• The trap is waving the offer around. Never threaten with it. Let it change your calm.",
+      "theySee": "A colleague who suddenly seems relaxed about deadlines and unbothered by politics.",
+      "example": "Sam interviewed quietly for two months and got a written offer 22 percent higher. He never mentioned it. He simply stopped agreeing to unpaid weekend work. His boss noticed the change and moved him to a better role within six weeks.",
+      "signals": [
+        {
+          "icon": "🧱",
+          "l": "Nothing changed",
+          "t": "Six weeks passed and your scope is exactly the same"
+        },
+        {
+          "icon": "📉",
+          "l": "No follow-up",
+          "t": "Your boss never brought up the ninety-day item again"
+        },
+        {
+          "icon": "💤",
+          "l": "Stalled plans",
+          "t": "Your development plan has not been opened since the meeting"
+        },
+        {
+          "icon": "🪤",
+          "l": "Loyalty talk",
+          "t": "They talk about your future here without naming a role or a date"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reply to three recruiters",
+          "desc": "Answer three messages you ignored. Say you are open to a conversation this month."
+        },
+        {
+          "n": "2",
+          "title": "Run it to written",
+          "desc": "Take at least one process to a written offer. A verbal number is not an offer."
+        },
+        {
+          "n": "3",
+          "title": "Say nothing at work",
+          "desc": "Do not mention it to anyone in the building. Let it change your behaviour, not your talk."
+        }
+      ],
+      "script": "(To a recruiter) \"<strong>I'm not actively looking, but I'll take a real conversation about a band-6 role with scope over a team.</strong> If the number's serious, I'll come in.\"",
+      "counter": "If a colleague suddenly stops chasing approval and starts saying no calmly, they have options.\n• Notice the new calm. Calm means someone else is bidding.\n• Say: <strong>\"What would keep you here for two years?\"</strong>\n• Ask before they resign. After the resignation, your money buys nothing.",
+      "insight": "An offer you never mention still changes how you say no. The harder part is that once you know your market price, staying becomes a choice you have to justify every month.",
+      "risk": "moderate"
+    },
+    {
+      "id": 19,
+      "cat": "clock",
+      "danger": "high",
+      "title": "Pick the Date You Leave If Nothing Changes",
+      "principle": "Schelling: Pre-Commitment",
+      "remember": "Pick a real date now. Write it down somewhere private.",
+      "when": "You are staying, working hard, and telling yourself the next cycle will be different.",
+      "hook": "Hope with no date is how people lose four years. <strong>Pick the date while you are still clear-headed.</strong>",
+      "truth": "Without a deadline you will keep paying for a promise nobody made.\n• Choose one date and one condition that must be true by then.\n• The date stops the slow drift where each quarter looks like the last.\n• The trap is moving the date. Move it once and it is no longer a date.",
+      "theySee": "Nothing. They see a steady employee doing good work with no drama.",
+      "example": "Lena wrote one line in her personal notes: \"If I do not have the director title by March 31, I leave.\" She worked hard and told nobody. March came with no title. She resigned on April 2 with two offers in hand and no argument.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Same conversation",
+          "t": "You have had the same career talk twice with no change"
+        },
+        {
+          "icon": "📆",
+          "l": "Next cycle talk",
+          "t": "They keep pointing you to the next promotion round"
+        },
+        {
+          "icon": "🧊",
+          "l": "Frozen scope",
+          "t": "Your responsibilities are identical to six months ago"
+        },
+        {
+          "icon": "🗣️",
+          "l": "New reasons",
+          "t": "The reason you were not promoted changed since the first meeting"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the date and the condition",
+          "desc": "Write one date and one thing that must be true by then. Keep it in a personal note."
+        },
+        {
+          "n": "2",
+          "title": "Set a calendar reminder",
+          "desc": "Put a private reminder two weeks before that date. Title it something neutral."
+        },
+        {
+          "n": "3",
+          "title": "Start the search sixty days out",
+          "desc": "Two months before the date, begin interviewing. Do not wait for the date to arrive."
+        }
+      ],
+      "script": "(In your private note) \"<strong>Condition: director title and the Asia book by 31 March. If not, I resign in the first week of April.</strong> No extensions.\"",
+      "counter": "If an employee sets a private deadline, you will not see it until the resignation lands.\n• Notice steady work with no complaints and no asks. That is a countdown.\n• Say: <strong>\"What has to be true here in six months for you to stay?\"</strong>\n• Ask early and put an actual date on your answer, or they leave anyway.",
+      "insight": "A date turns waiting into a decision you already made. The harder part is holding it when March arrives and someone offers you one more quarter of maybe.",
+      "risk": "high"
+    },
+    {
+      "id": 20,
+      "cat": "clock",
+      "danger": "extreme",
+      "title": "Leave Without Explaining Why",
+      "principle": "Gracián: Maxim 59 — Finish Well",
+      "remember": "Give notice, give thanks, give no reasons.",
+      "when": "Your date arrived, nothing changed, and you have signed somewhere else.",
+      "hook": "The exit interview is not for you. <strong>Every reason you give becomes a story told after you leave.</strong>",
+      "truth": "The last thing you do is what people remember about all of it.\n• Give notice in two sentences with no reason attached to it.\n• Your calm goodbye leaves them wondering what they missed.\n• The trap is honesty in the exit interview. It changes nothing and follows you.",
+      "theySee": "A person who resigns politely, hands over cleanly, and never says a bad word about anyone.",
+      "example": "Marcus resigned on a Tuesday with two lines and no reasons. In the exit interview he said the role was a good fit and left it there. Eighteen months later his old VP called him about a bigger job at a new company. He took it.",
+      "signals": [
+        {
+          "icon": "🎤",
+          "l": "Fishing questions",
+          "t": "HR asks what could have kept you in three different ways"
+        },
+        {
+          "icon": "💰",
+          "l": "Counter offer",
+          "t": "They offer money the week you resign, not before"
+        },
+        {
+          "icon": "🕵️",
+          "l": "Blame hunting",
+          "t": "Someone asks whether your manager was the reason"
+        },
+        {
+          "icon": "📝",
+          "l": "Written feedback",
+          "t": "They ask you to put your reasons in the exit form"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Resign in two sentences",
+          "desc": "Say you are leaving and give the last date. Give no reason. Thank them once."
+        },
+        {
+          "n": "2",
+          "title": "Refuse the counter-offer conversation",
+          "desc": "Say the decision is made. Do not hear the number. Hearing it starts a negotiation."
+        },
+        {
+          "n": "3",
+          "title": "Keep the exit interview boring",
+          "desc": "Say the role was a good fit and you are taking a new step. Repeat it if pushed."
+        }
+      ],
+      "script": "\"<strong>I've accepted another role. My last day is the 30th. I'm grateful for the last four years and I'll leave the handover clean.</strong>\" (If pushed for reasons) \"Nothing dramatic — it was the right step.\"",
+      "counter": "If someone resigns with no reasons and no complaints, they made the decision months ago.\n• Notice the calm and the clean date. That is a plan, not a reaction.\n• Say: <strong>\"I won't ask you to stay. I'd like to work with you again.\"</strong>\n• Keep the door open. People come back senior, or they hire you later.",
+      "insight": "Leaving quietly costs you the satisfaction of the speech and buys you every future call from these people. The next question is whether you run the same file at the new place before you need it.",
+      "risk": "high"
+    }
+  ]
+}
