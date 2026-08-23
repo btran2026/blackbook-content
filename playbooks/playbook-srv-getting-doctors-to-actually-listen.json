@@ -1,0 +1,1058 @@
+{
+  "meta": {
+    "id": "srv-getting-doctors-to-actually-listen",
+    "version": "1.0",
+    "title": "Getting Doctors To Actually Listen",
+    "subtitle": "Field moves for the 12-minute appointment",
+    "description": "The doctor has run your appointment 4,000 times. You have run it once. This dossier hands you their script, their clock, their chart language, and the exact lines that move a rushed clinician from dismissal to a written plan.",
+    "author": "AI",
+    "createdAt": "2026-08-23T06:27:38.484Z",
+    "tags": [
+      "medical",
+      "advocacy",
+      "negotiation",
+      "health",
+      "power",
+      "scripts"
+    ],
+    "totalCards": 18,
+    "isSeeded": true,
+    "coverColor": "#0E5C63",
+    "coverIcon": "🩺",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "prep",
+      "label": "Before You Walk In",
+      "color": "#0E5C63"
+    },
+    {
+      "key": "openroom",
+      "label": "The First 90 Seconds",
+      "color": "#1B7F8C"
+    },
+    {
+      "key": "dismissal",
+      "label": "When They Dismiss You",
+      "color": "#B23A48"
+    },
+    {
+      "key": "chart",
+      "label": "The Chart Game",
+      "color": "#5C4B8A"
+    },
+    {
+      "key": "escalate",
+      "label": "Escalation And Second Opinions",
+      "color": "#C0762A"
+    },
+    {
+      "key": "system",
+      "label": "Nurses, Staff, And The System",
+      "color": "#2F6B3A"
+    },
+    {
+      "key": "after",
+      "label": "After The Visit",
+      "color": "#3A5A78"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "prep",
+      "danger": "low",
+      "title": "Know The 18-Second Clock Before You Open Your Mouth",
+      "principle": "Beckman & Frankel: The 18-Second Interruption",
+      "remember": "You get 18 seconds before they cut in. Spend them well.",
+      "when": "You sit down for a new appointment with a problem you have never explained to this doctor.",
+      "hook": "The doctor interrupts your story after about 18 seconds. <strong>Whatever you did not say by then goes in the chart as nothing.</strong>",
+      "truth": "Doctors are trained to form a guess fast, then test it.\n• They listen until they have a candidate diagnosis, then start steering.\n• After they steer, your extra details sound like noise, not data.\n• Most patients save the scariest symptom for last. It never gets heard.",
+      "theySee": "A patient who says the worst symptom first and then stops talking.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "Early cut-in",
+          "t": "They start asking yes-or-no questions before you finish your first story"
+        },
+        {
+          "icon": "⌨️",
+          "l": "Typing shift",
+          "t": "They turn to the screen and start typing while you are still talking"
+        },
+        {
+          "icon": "🚪",
+          "l": "Door hand",
+          "t": "They keep one hand near the door handle or stay standing"
+        },
+        {
+          "icon": "📋",
+          "l": "Checklist voice",
+          "t": "They read questions in a flat order that ignores what you just said"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three lines the night before",
+          "desc": "Write your worst symptom, how long it has lasted, and what you fear it is. Three lines, nothing more."
+        },
+        {
+          "n": "2",
+          "title": "Say the worst thing first",
+          "desc": "Open with the symptom that scares you most, not the story of how it started."
+        },
+        {
+          "n": "3",
+          "title": "Stop talking and let them ask",
+          "desc": "After your three lines, close your mouth. Their first question tells you what they heard."
+        },
+        {
+          "n": "4",
+          "title": "Hand over the paper",
+          "desc": "Give them the written list. Paper enters the chart; talk does not."
+        }
+      ],
+      "script": "\"Three things, fast. <strong>Chest pain when I climb stairs, six weeks, getting worse.</strong> I stopped walking the dog. I am worried it is my heart. That is everything.\"",
+      "example": "Dana had a list of nine symptoms. She put chest pain on stairs at the top and said it in ten seconds. The doctor cancelled the rest of the visit plan and ordered a stress test that day.",
+      "counter": "If someone cuts you off inside twenty seconds, they have already decided.\n• Notice the moment their questions turn to yes or no.\n• Say: \"Hold on — one thing I have not said yet.\"\n• Then say the scary symptom in one short sentence.",
+      "insight": "Front position beats volume every time. The harder part is picking which symptom deserves the top slot when three of them scare you."
+    },
+    {
+      "id": 2,
+      "cat": "prep",
+      "danger": "low",
+      "title": "Bring A One-Page Timeline, Not A Story",
+      "principle": "Chunking (Miller: 7±2) × Anchoring",
+      "remember": "One page of dates beats twenty minutes of talking.",
+      "when": "You have months of symptoms, three past visits, and no idea how to compress it.",
+      "hook": "Doctors read documents faster than they listen to people. <strong>Give them something to read.</strong>",
+      "truth": "A written timeline turns you from a complainer into a data source.\n• Dates and numbers get copied into the chart word for word.\n• The doctor stops rebuilding your history and starts reading a pattern.\n• Anything longer than one page gets skimmed, then ignored.",
+      "theySee": "A patient handing over a single clean page with dates down the left side.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "Page taken",
+          "t": "They take your page and scan it top to bottom before speaking"
+        },
+        {
+          "icon": "✍️",
+          "l": "Copy behavior",
+          "t": "They type your exact dates into the visit note"
+        },
+        {
+          "icon": "🔍",
+          "l": "Pattern question",
+          "t": "They ask about the gap between two dates on your page"
+        },
+        {
+          "icon": "😐",
+          "l": "Page ignored",
+          "t": "They set your page face down without looking at it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write dates down the left",
+          "desc": "One line per event: date, symptom, what changed. Skip feelings and adjectives."
+        },
+        {
+          "n": "2",
+          "title": "Add every number you have",
+          "desc": "Put in weights, temperatures, blood pressure readings, pill doses, and how many days each lasted."
+        },
+        {
+          "n": "3",
+          "title": "Print two copies",
+          "desc": "Keep one, hand one over, and say out loud that it is for the chart."
+        }
+      ],
+      "script": "\"I put the history on one page so we do not burn the visit on it. <strong>Dates on the left, what changed on the right.</strong> Can this go in my chart?\"",
+      "example": "Omar's back pain had four false starts across two years. He printed one page with eight dated lines. The new doctor read it, circled two dates, and ordered the scan the last three doctors had skipped.",
+      "counter": "If a professional hands you a tidy summary, the summary is doing the arguing.\n• Notice what the page leaves out, not what it says.\n• Ask: \"What is not on here?\"\n• Read the raw records yourself before you agree.",
+      "insight": "Paper outranks speech in every clinic. This works until the page gets long enough to skim — then you are back to nothing."
+    },
+    {
+      "id": 3,
+      "cat": "prep",
+      "danger": "low",
+      "title": "Say How The Symptom Changed What You Do",
+      "principle": "Functional Impact Framing",
+      "remember": "Name what you stopped doing. Pain scores mean nothing.",
+      "when": "The doctor asks you to rate your pain from one to ten and you know the number will not land.",
+      "hook": "Nobody believes a seven. <strong>Everybody believes that you stopped driving your kids to school.</strong>",
+      "truth": "Pain numbers are noise. Lost function is evidence.\n• A number is your opinion. A cancelled activity is a fact.\n• Lost function raises the doctor's own risk of missing something real.\n• Say a big number and you get filed as dramatic. Say a lost activity and you get a test.",
+      "theySee": "A patient who names three specific things they used to do and now cannot.",
+      "signals": [
+        {
+          "icon": "🔢",
+          "l": "Number push",
+          "t": "They keep asking you for a number instead of a description"
+        },
+        {
+          "icon": "📝",
+          "l": "Note pause",
+          "t": "They stop typing when you name a lost activity"
+        },
+        {
+          "icon": "🏃",
+          "l": "Follow-up ask",
+          "t": "They ask how far you can walk now compared to before"
+        },
+        {
+          "icon": "🙃",
+          "l": "Label risk",
+          "t": "They say your pain sounds worse than the exam looks"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List three things you quit",
+          "desc": "Write the three activities you stopped in the last month because of the symptom."
+        },
+        {
+          "n": "2",
+          "title": "Attach a number to each",
+          "desc": "Say how far, how long, how many stairs. Two flights became one landing."
+        },
+        {
+          "n": "3",
+          "title": "Ask what would make them worry",
+          "desc": "Ask which change in your daily life would make them order the next test."
+        }
+      ],
+      "script": "\"I will skip the pain score. <strong>Three weeks ago I walked two miles. Now I stop at the mailbox.</strong> I sleep in a chair. I cancelled work twice. What does that tell you?\"",
+      "example": "Priya rated her fatigue an eight for a year and got vitamin advice. At the next visit she said she now naps in her car before the drive home. The doctor ordered a sleep study and a thyroid panel that week.",
+      "counter": "If someone asks you for a rating instead of specifics, they want a number they can dismiss.\n• Notice when the question strips out your details.\n• Say: \"The number is less useful than this — I stopped driving at night.\"\n• Repeat the lost activity every time the number comes back.",
+      "insight": "Function talk survives the chart summary; pain scores get averaged away. The next question is what you do when the function loss is invisible, like memory or mood."
+    },
+    {
+      "id": 4,
+      "cat": "openroom",
+      "danger": "low",
+      "title": "State Your Goal For The Visit In The First Minute",
+      "principle": "Schelling: Commitment Move",
+      "remember": "Say what you want out of the visit before they plan it.",
+      "when": "The doctor opens with what brings you in today and you have one thing you need.",
+      "hook": "Doctors decide the plan of the visit in the first minute. <strong>Get your goal into the plan before it closes.</strong>",
+      "truth": "The visit has an agenda and it forms early.\n• Name your goal out loud and it becomes an item they must address.\n• Unnamed goals get bumped by whatever the doctor came in to do.\n• Ask for one clear thing. Three asks turn into zero.",
+      "theySee": "A patient who names one specific goal in the first minute and does not add more.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Agenda set",
+          "t": "They repeat your goal back and add it to the visit"
+        },
+        {
+          "icon": "↩️",
+          "l": "Redirect",
+          "t": "They answer a different question than the one you asked"
+        },
+        {
+          "icon": "⏳",
+          "l": "Deferral",
+          "t": "They say we can look at that next time"
+        },
+        {
+          "icon": "✅",
+          "l": "Written down",
+          "t": "They type your request while you are saying it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one ask",
+          "desc": "Choose the single thing you need most: a referral, a test, a diagnosis in writing, or a medication change."
+        },
+        {
+          "n": "2",
+          "title": "Say it in the first minute",
+          "desc": "Say the ask before you tell any story. Then give the reason in one sentence."
+        },
+        {
+          "n": "3",
+          "title": "Confirm it made the list",
+          "desc": "Before the exam starts, ask them to say back what the visit will cover."
+        }
+      ],
+      "script": "\"Before we start — <strong>I need one thing today: a referral to a neurologist.</strong> I will tell you why in thirty seconds. Everything else can wait.\"",
+      "example": "Marcus needed a cardiology referral, not more advice about salt. He said the ask in his first sentence. The doctor spent the rest of the visit deciding which cardiologist, not whether to refer.",
+      "counter": "If someone opens by naming what they want from the meeting, they just set the agenda.\n• Notice that you are now debating their item, not yours.\n• Say: \"Noted. I also have two things I need to cover.\"\n• Put your items on the list out loud before you answer theirs.",
+      "insight": "One clear ask reads as competence; four asks read as anxiety. The trap is spending your one ask on the easy thing."
+    },
+    {
+      "id": 5,
+      "cat": "openroom",
+      "danger": "low",
+      "title": "Ask What They Think It Is Before You Say What You Think",
+      "principle": "Sun Tzu: Know The Terrain First",
+      "remember": "Get their guess out loud before you argue with it.",
+      "when": "You already read about your symptoms and you want to name a condition.",
+      "hook": "Say your theory first and you become the patient who diagnosed themselves online. <strong>Ask theirs first and you get to test it.</strong>",
+      "truth": "Doctors defend a diagnosis harder once they have said it in response to your guess.\n• Ask for their guess and you learn what they are ruling out.\n• Their answer shows you the gap your theory has to fill.\n• Lead with your theory and the rest of the visit becomes them proving you wrong.",
+      "theySee": "A patient who asks for the doctor's opinion first and listens to the whole answer.",
+      "signals": [
+        {
+          "icon": "🧠",
+          "l": "Named guess",
+          "t": "They name one likely cause and stop there"
+        },
+        {
+          "icon": "🚫",
+          "l": "Rule-outs",
+          "t": "They tell you what they are sure it is not"
+        },
+        {
+          "icon": "🤨",
+          "l": "Internet flag",
+          "t": "They ask where you read about the condition"
+        },
+        {
+          "icon": "🔒",
+          "l": "Locked in",
+          "t": "They repeat the same guess after new information"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask their top two",
+          "desc": "Ask what the two most likely causes are, in their order."
+        },
+        {
+          "n": "2",
+          "title": "Ask what would rule each out",
+          "desc": "Ask which test or sign would take each cause off the list."
+        },
+        {
+          "n": "3",
+          "title": "Slot your theory in as a third",
+          "desc": "Name your condition as one more thing to rule out, not as your answer."
+        }
+      ],
+      "script": "\"Before I say what I have been reading — <strong>what are your top two guesses, and what would rule each one out?</strong>\"",
+      "example": "Elena was sure she had endometriosis. She asked the doctor for his two guesses first. He said cysts and irritable bowel, then admitted neither explained the timing — and referred her to gynecology himself.",
+      "counter": "If someone asks your opinion before revealing theirs, they are measuring your position.\n• Notice they gave you no information yet.\n• Say: \"Give me yours first and I will tell you where I agree.\"\n• Hold your view back until you hear theirs.",
+      "insight": "You cannot move a diagnosis you have not heard. The harder problem is a doctor who refuses to name any guess at all."
+    },
+    {
+      "id": 6,
+      "cat": "openroom",
+      "danger": "moderate",
+      "title": "Repeat Their Words Back To Slow Them Down",
+      "principle": "Voss: Mirror",
+      "remember": "Repeat their last three words. They will explain more.",
+      "when": "The doctor gives you a fast answer you do not understand and reaches for the door.",
+      "hook": "A rushed doctor talks in shorthand. <strong>Repeat the shorthand and they translate it for free.</strong>",
+      "truth": "Repeating the last few words makes people fill the silence with detail.\n• It does not sound like a challenge, so nobody gets defensive.\n• They hear their own words and add the reasoning they skipped.\n• Ask why instead and you get a shorter answer with a harder edge.",
+      "theySee": "A patient repeating a phrase the doctor just used, then waiting.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Jargon drop",
+          "t": "They use a word they do not define"
+        },
+        {
+          "icon": "🏃",
+          "l": "Speed-up",
+          "t": "They talk faster as the visit runs long"
+        },
+        {
+          "icon": "🤐",
+          "l": "Short answer",
+          "t": "They answer in five words and stop"
+        },
+        {
+          "icon": "🔁",
+          "l": "They expand",
+          "t": "They add a full explanation after you repeat their phrase"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Catch the exact phrase",
+          "desc": "Write down the three or four words they used, in their order."
+        },
+        {
+          "n": "2",
+          "title": "Say the phrase back and stop",
+          "desc": "Repeat it with a slight rise at the end. Then stay quiet for four seconds."
+        },
+        {
+          "n": "3",
+          "title": "Repeat once more if needed",
+          "desc": "If the answer stays thin, mirror the new phrase they just used."
+        }
+      ],
+      "script": "\"<strong>Probably nothing structural?</strong>\" (Then say nothing. Count to four in your head.)",
+      "example": "Tom's doctor said the scan was unremarkable and stood up. Tom said \"unremarkable?\" and waited. The doctor sat back down, pulled up the images, and found a note about a disc the radiologist had flagged as minor.",
+      "counter": "If someone keeps repeating your words back, they are pulling more out of you.\n• Notice you are talking far more than they are.\n• Say: \"What specifically do you want me to explain?\"\n• Answer the narrow question and stop.",
+      "insight": "Silence does the work; the mirror only opens the door. This fails on doctors who are comfortable letting a pause sit."
+    },
+    {
+      "id": 7,
+      "cat": "dismissal",
+      "danger": "moderate",
+      "title": "Ask What Else It Could Be When They Say It Is Stress",
+      "principle": "Differential Diagnosis Demand",
+      "remember": "Stress is a guess, not a test. Ask what else it could be.",
+      "when": "The doctor tells you your symptoms are stress, anxiety, or your age, with no test ordered.",
+      "hook": "Stress is the cheapest answer in medicine. <strong>It costs nothing to say and closes the file.</strong>",
+      "truth": "A stress diagnosis with no test is a decision to stop looking.\n• Asking for other causes forces them back into diagnostic mode.\n• Doctors are trained to keep a list. Asking for the list is normal speech to them.\n• Argue that it is not stress and you sound like the diagnosis. Ask for the list and you sound like a colleague.",
+      "theySee": "A patient calmly asking for the other items on the list, without arguing.",
+      "signals": [
+        {
+          "icon": "🧘",
+          "l": "Stress default",
+          "t": "They name stress before they touch or test anything"
+        },
+        {
+          "icon": "🕰️",
+          "l": "Wait advice",
+          "t": "They tell you to come back in three months if it continues"
+        },
+        {
+          "icon": "📵",
+          "l": "No test",
+          "t": "They order no bloodwork and no imaging at all"
+        },
+        {
+          "icon": "😶",
+          "l": "Tone shift",
+          "t": "They soften their voice and start talking about sleep and screens"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Accept it as one item",
+          "desc": "Say stress may be on the list. Do not fight the word."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the other three",
+          "desc": "Ask what the next three causes on the list are and what test rules each out."
+        },
+        {
+          "n": "3",
+          "title": "Ask for one test today",
+          "desc": "Pick the cheapest test on their list and ask for that one now."
+        }
+      ],
+      "script": "\"Stress could be part of it. <strong>What are the next three things on your list, and what test rules each one out?</strong> Let's do the cheapest one today.\"",
+      "example": "Yara was told her racing heart was anxiety three times. The fourth doctor got the list question. He shrugged, ordered a thyroid panel to close it out, and found Graves disease.",
+      "counter": "If someone names one cause and stops, they have quit looking.\n• Notice there is no test attached to the answer.\n• Say: \"What else fits these symptoms?\"\n• Write their answer down while they say it.",
+      "insight": "The list question works because it is their own training turned around. The next problem is what to do when the list comes back and every item is already ruled out."
+    },
+    {
+      "id": 8,
+      "cat": "dismissal",
+      "danger": "moderate",
+      "title": "Ask Them To Write The Refusal In The Chart",
+      "principle": "Schelling: Costly Commitment",
+      "remember": "Ask them to write down the no. Many no's become yes.",
+      "when": "The doctor refuses a test or referral you asked for and gives no reason you can check.",
+      "hook": "A spoken no costs nothing. <strong>A written no goes in a record somebody may read later.</strong>",
+      "truth": "Documentation changes the price of a refusal.\n• A spoken refusal leaves no trail. A written one does.\n• The doctor now weighs the refusal against their own risk.\n• Say it flatly. Say it as a threat and they dig in to save face.",
+      "theySee": "A patient asking politely for the reason to be written in the note, with no heat in their voice.",
+      "signals": [
+        {
+          "icon": "🧾",
+          "l": "No reason",
+          "t": "They refuse without naming a medical reason"
+        },
+        {
+          "icon": "💸",
+          "l": "Cost dodge",
+          "t": "They say insurance will not cover it and change the subject"
+        },
+        {
+          "icon": "😬",
+          "l": "Pause",
+          "t": "They go quiet when you mention the chart"
+        },
+        {
+          "icon": "🔄",
+          "l": "Sudden yes",
+          "t": "They order the test right after you ask for the note"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the reason out loud",
+          "desc": "Ask what the medical reason for the no is, in one sentence."
+        },
+        {
+          "n": "2",
+          "title": "Ask for it in the note",
+          "desc": "Ask them to write the request and the reason for declining into the visit note."
+        },
+        {
+          "n": "3",
+          "title": "Read the note that night",
+          "desc": "Open the patient portal and check what they actually wrote."
+        }
+      ],
+      "script": "\"I understand. <strong>Can you put in the note that I asked for the MRI and the reason you decided against it?</strong> I want the record to be complete.\"",
+      "example": "Greg asked twice for a colonoscopy and got told he was too young. He asked for the refusal in the note. The doctor typed for ten seconds, then said they could go ahead and order it after all.",
+      "counter": "If someone asks you to put your refusal in writing, they are raising your cost.\n• Notice you now feel a pull to just say yes.\n• Say: \"I will write it. Here is the reason.\"\n• Write the real reason, not a softer one.",
+      "insight": "The ask works whether they say yes or write it down — both outputs help you. The harder move is knowing which single refusal is worth spending this on."
+    },
+    {
+      "id": 9,
+      "cat": "dismissal",
+      "danger": "high",
+      "title": "Say You Want This Documented As An Unresolved Problem",
+      "principle": "Open Loop Documentation",
+      "remember": "An unsolved problem in the chart does not disappear.",
+      "when": "Three visits have passed, nothing is diagnosed, and each doctor starts from zero.",
+      "hook": "Undiagnosed symptoms fall out of the chart between visits. <strong>Name it as unresolved and it stays on the list.</strong>",
+      "truth": "Charts carry a problem list. Off the list means invisible.\n• A named unresolved problem shows up at every future visit.\n• The next doctor sees a live open question instead of a fresh complaint.\n• Without it, you retell your story forever and nobody counts the visits.",
+      "theySee": "A patient asking to add one named item to the problem list in the chart.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Fresh start",
+          "t": "Each new doctor asks how long this has been going on"
+        },
+        {
+          "icon": "📂",
+          "l": "Missing history",
+          "t": "They cannot find your past visits for the same symptom"
+        },
+        {
+          "icon": "🏷️",
+          "l": "No label",
+          "t": "Your visit notes say symptom but never name a working diagnosis"
+        },
+        {
+          "icon": "📌",
+          "l": "List added",
+          "t": "They add the item to your problem list while you watch"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count the visits out loud",
+          "desc": "Say how many visits this symptom has taken and over how many months."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the problem list entry",
+          "desc": "Ask them to add it as an unresolved problem with the start date."
+        },
+        {
+          "n": "3",
+          "title": "Check the portal for the entry",
+          "desc": "Open your chart that evening and confirm the item shows on the problem list."
+        }
+      ],
+      "script": "\"This is visit four in eight months for the same thing. <strong>Please add it to my problem list as unresolved, dated February.</strong> I do not want the next doctor starting over.\"",
+      "example": "Renata had five visits for joint pain, each logged as a separate complaint. She asked for one unresolved problem entry dated January. The rheumatologist she saw in June opened the chart, saw eleven months, and ran the full panel on the first visit.",
+      "counter": "If someone insists an open question stay on the official record, they are building a case.\n• Notice the item now follows you into every future meeting.\n• Say: \"Let's define what closing it would look like.\"\n• Set the closing condition in writing yourself.",
+      "insight": "The problem list is the only part of the chart that travels. The next question is who reads it — and whether you have to point at it every single time."
+    },
+    {
+      "id": 10,
+      "cat": "chart",
+      "danger": "low",
+      "title": "Read Your Own Visit Notes The Same Night",
+      "principle": "Information Asymmetry Reversal",
+      "remember": "Read the note that night. It is what the next doctor sees.",
+      "when": "You leave an appointment feeling heard and assume the record matches.",
+      "hook": "The note is the patient. <strong>The next doctor reads the note, not you.</strong>",
+      "truth": "What goes in the note becomes the official version of you.\n• Wrong details in the note follow you for years.\n• Words like declined, refused, or anxious change how the next doctor reads you.\n• Corrections are easy in week one and nearly impossible in year two.",
+      "theySee": "A patient who quotes a line from their own visit note back at the next appointment.",
+      "signals": [
+        {
+          "icon": "🖥️",
+          "l": "Note online",
+          "t": "Your visit note appears in the portal within a day or two"
+        },
+        {
+          "icon": "❌",
+          "l": "Wrong facts",
+          "t": "The note lists symptoms or dates you never said"
+        },
+        {
+          "icon": "🏷️",
+          "l": "Loaded words",
+          "t": "The note describes you as anxious, noncompliant, or refusing care"
+        },
+        {
+          "icon": "👻",
+          "l": "Missing ask",
+          "t": "The note leaves out the test you requested"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open the portal that night",
+          "desc": "Read the whole visit note, including the assessment and plan at the bottom."
+        },
+        {
+          "n": "2",
+          "title": "List the errors with quotes",
+          "desc": "Write each wrong line, quote it, and write the correct fact next to it."
+        },
+        {
+          "n": "3",
+          "title": "Send one portal message",
+          "desc": "Ask for an amendment on the specific lines. Keep it to five sentences."
+        }
+      ],
+      "script": "\"Note from Tuesday says <strong>'patient declined imaging.'</strong> I asked for the MRI and you decided against it. Please amend that line. Happy to confirm anything else.\"",
+      "example": "Sam read his note and found the words \"patient declined bloodwork.\" He had asked for it twice. One portal message got the line amended, and the correction sat there when he changed doctors in the fall.",
+      "counter": "If someone writes the record of your conversation, they own the version that survives.\n• Notice you never saw what they wrote down.\n• Say: \"Send me a copy of your notes from this.\"\n• Read it the same day and correct it in writing.",
+      "insight": "You cannot fight a label you have never read. The harder part is a note that is technically accurate and still makes you sound difficult."
+    },
+    {
+      "id": 11,
+      "cat": "chart",
+      "danger": "moderate",
+      "title": "Use Their Own Guideline Numbers Back At Them",
+      "principle": "Cialdini: Authority × Consistency",
+      "remember": "Quote the guideline they follow. Ask which part applies to you.",
+      "when": "The doctor says you do not qualify for a test and you have read the actual screening rule.",
+      "hook": "Doctors bend to guidelines, not to patients. <strong>Bring the guideline.</strong>",
+      "truth": "A named guideline outranks both of your opinions.\n• Quote the rule and the argument stops being about you.\n• The doctor now has to explain a deviation, not a preference.\n• Guess at the rule or get the year wrong and you lose the room.",
+      "theySee": "A patient naming a specific screening rule and asking which part rules them out.",
+      "signals": [
+        {
+          "icon": "📏",
+          "l": "Rule claim",
+          "t": "They say guidelines do not recommend it at your age"
+        },
+        {
+          "icon": "❓",
+          "l": "No source",
+          "t": "They cannot say which group wrote the guideline"
+        },
+        {
+          "icon": "📖",
+          "l": "They look",
+          "t": "They pull up the guideline on their screen after you name it"
+        },
+        {
+          "icon": "🚪",
+          "l": "Exception talk",
+          "t": "They start talking about family history and risk factors"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the exact rule",
+          "desc": "Look up the screening group, the age range, and the year. Write the one line that applies."
+        },
+        {
+          "n": "2",
+          "title": "Ask which clause excludes you",
+          "desc": "Name the rule and ask which part of it takes you out."
+        },
+        {
+          "n": "3",
+          "title": "Name your risk factors",
+          "desc": "List the family history or symptom that moves you into the earlier-screening group."
+        }
+      ],
+      "script": "\"The screening guideline starts at 45, and earlier with a first-degree relative. <strong>My father had it at 52.</strong> Which part of the rule puts me outside that?\"",
+      "example": "Nadia was told 40 was too young for a mammogram. She quoted the 40-to-44 shared-decision line and named her aunt's diagnosis at 43. The order went in before she left the room.",
+      "counter": "If someone quotes a rule at you, check whether the rule says what they claim.\n• Notice they gave a number but no source.\n• Say: \"Which group wrote that, and what year?\"\n• Read the actual text before you concede anything.",
+      "insight": "Guidelines are a shared authority both of you must obey — that is why they work. The trap is bringing a rule that is two revisions out of date."
+    },
+    {
+      "id": 12,
+      "cat": "chart",
+      "danger": "low",
+      "title": "Ask For The Actual Numbers, Not Normal",
+      "principle": "Data Over Summary",
+      "remember": "Ask for the number and the range. Normal hides a lot.",
+      "when": "The doctor tells you your labs came back normal and moves to the next topic.",
+      "hook": "Normal is a range, not a result. <strong>You can sit at the edge of normal for years while something drifts.</strong>",
+      "truth": "Normal means inside a wide population range, nothing more.\n• Your number and last year's number show a direction. Normal hides direction.\n• Edge-of-range results get called normal and never get watched.\n• Nobody reviews the trend unless a patient asks for the numbers.",
+      "theySee": "A patient asking for the exact value and the reference range, then writing it down.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "Normal only",
+          "t": "They say everything looks fine and give you no numbers"
+        },
+        {
+          "icon": "📈",
+          "l": "No comparison",
+          "t": "They do not mention what the same test showed last year"
+        },
+        {
+          "icon": "🧪",
+          "l": "Edge value",
+          "t": "Your result sits within two points of the range limit"
+        },
+        {
+          "icon": "🖨️",
+          "l": "Copy offered",
+          "t": "They print the lab sheet when you ask for it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the value and range",
+          "desc": "Ask for the exact number and the low and high limits for each test."
+        },
+        {
+          "n": "2",
+          "title": "Ask for last year's number",
+          "desc": "Ask what the same test showed at your previous check and write both down."
+        },
+        {
+          "n": "3",
+          "title": "Ask what direction would worry them",
+          "desc": "Ask which change in that number would make them act, and by when."
+        }
+      ],
+      "script": "\"Normal is a range. <strong>What is my actual number, what are the limits, and what was it last year?</strong> At what point would you act on it?\"",
+      "example": "Bill was told his kidney numbers were normal four years running. He asked for the values and lined them up: a slow climb every year, still inside the range. The doctor moved him to a nephrologist for monitoring.",
+      "counter": "If someone reports a result as fine with no figure, they summarized away the detail.\n• Notice that no number ever got said out loud.\n• Say: \"Give me the raw number.\"\n• Compare it to the last one yourself.",
+      "insight": "A single normal is a snapshot; three normals in a row are a line. The next question is who is watching the line when you switch doctors."
+    },
+    {
+      "id": 13,
+      "cat": "escalate",
+      "danger": "moderate",
+      "title": "Ask For A Second Opinion Without Insulting The First",
+      "principle": "Face-Saving Escalation",
+      "remember": "Blame your own worry, never their judgment.",
+      "when": "You want another doctor's view and you still need this doctor for your referrals.",
+      "hook": "Doctors hear second opinion as a challenge to their competence. <strong>Aim the reason at yourself instead.</strong>",
+      "truth": "How you ask decides whether you get a warm referral or a cold one.\n• Frame the request as your own peace of mind and their ego stays intact.\n• A doctor who feels respected sends your records and calls ahead.\n• Frame it as doubt in them and you get a slow referral and a chilly note.",
+      "theySee": "A patient who credits the doctor's work and asks for help finding another set of eyes.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "Cool shift",
+          "t": "Their tone goes flat when you mention another doctor"
+        },
+        {
+          "icon": "📤",
+          "l": "Warm handoff",
+          "t": "They name a specific colleague and offer to send records"
+        },
+        {
+          "icon": "🐌",
+          "l": "Slow paper",
+          "t": "The referral takes three weeks and needs two phone calls"
+        },
+        {
+          "icon": "💬",
+          "l": "Ego check",
+          "t": "They ask what you think they got wrong"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Credit their work first",
+          "desc": "Name one thing they did that helped. Be specific about it."
+        },
+        {
+          "n": "2",
+          "title": "Put the reason on yourself",
+          "desc": "Say you need another view for your own peace of mind, not because of their call."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to pick the person",
+          "desc": "Ask who they would send their own family member to and ask them to send the records."
+        }
+      ],
+      "script": "\"You are the one who found the thyroid link, and I trust that. <strong>For my own peace of mind I want one more set of eyes.</strong> Who would you send your sister to?\"",
+      "example": "Claire's surgeon had recommended an operation. She thanked him for the clear scan review, then asked who he would send his own sister to. He named a colleague, sent the file himself, and the second surgeon confirmed a smaller procedure.",
+      "counter": "If someone praises you and then asks to check your work, they are protecting the relationship on purpose.\n• Notice the compliment came right before the request.\n• Say: \"Good idea — here is who I would ask.\"\n• Send the full file, not a summary.",
+      "insight": "Asking them to choose the second doctor buys you their reputation as backup. This works until the second opinion contradicts them and you need both."
+    },
+    {
+      "id": 14,
+      "cat": "escalate",
+      "danger": "high",
+      "title": "Name The Risk Out Loud When You Want Action",
+      "principle": "Loss Aversion × Liability Salience",
+      "remember": "Say the bad thing you both want to avoid. Then wait.",
+      "when": "The doctor wants to wait and watch, and your symptom is getting worse each week.",
+      "hook": "Doctors are trained on what they must not miss. <strong>Say the thing they must not miss and the plan changes.</strong>",
+      "truth": "Naming a specific serious possibility moves the doctor's own risk.\n• Wait-and-see costs nothing until somebody names what waiting risks.\n• Say it once, calmly, as a question about ruling out.\n• Push it twice and you become the patient who demands tests. Then they push back.",
+      "theySee": "A patient naming one serious condition and asking how it gets ruled out.",
+      "signals": [
+        {
+          "icon": "⏸️",
+          "l": "Watch plan",
+          "t": "They tell you to come back in three months and see"
+        },
+        {
+          "icon": "⚠️",
+          "l": "Hedge",
+          "t": "They say it is very unlikely but do not say how they know"
+        },
+        {
+          "icon": "📞",
+          "l": "Fast follow",
+          "t": "They ask the front desk to fit you in sooner"
+        },
+        {
+          "icon": "🖊️",
+          "l": "Order placed",
+          "t": "They order the test right after you name the condition"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name one condition, not five",
+          "desc": "Pick the single serious cause that fits your symptoms and say its name."
+        },
+        {
+          "n": "2",
+          "title": "Ask how it gets ruled out",
+          "desc": "Ask what specific test or finding takes it off the table, and when."
+        },
+        {
+          "n": "3",
+          "title": "Ask what would change the plan",
+          "desc": "Ask which new symptom means you call them instead of waiting."
+        }
+      ],
+      "script": "\"I hear the wait-and-see plan. <strong>How do we rule out a clot before then?</strong> If I am wrong I will feel silly and we move on.\"",
+      "example": "Hana's leg swelling got a two-month follow-up. She asked how they would rule out a clot first. The doctor sent her for an ultrasound that afternoon and it found one.",
+      "counter": "If someone names a worst case at you, they are moving the risk onto your side.\n• Notice the pressure to act now instead of think.\n• Say: \"Let's write down what we do if that is true and if it is not.\"\n• Decide on the facts, not on the named fear.",
+      "insight": "One named risk moves a plan; three named risks get you labelled. The harder part is choosing which fear to spend."
+    },
+    {
+      "id": 15,
+      "cat": "system",
+      "danger": "low",
+      "title": "Get The Nurse On Your Side Before The Doctor Walks In",
+      "principle": "Greene: Law 18 — Never Isolate Yourself",
+      "remember": "The nurse decides what the doctor reads first.",
+      "when": "You sit in the exam room and the nurse takes your vitals and asks why you came.",
+      "hook": "The nurse writes the first line of your visit. <strong>The doctor reads that line before opening the door.</strong>",
+      "truth": "The intake note sets the frame for the whole visit.\n• The nurse types the reason for visit and the doctor reads it walking in.\n• Give the nurse your one clear sentence and it lands in that field.\n• Save your point for the doctor and you fight a frame somebody else built.",
+      "theySee": "A patient giving the nurse one short clear reason and treating her as part of the team.",
+      "signals": [
+        {
+          "icon": "⌨️",
+          "l": "Intake typing",
+          "t": "The nurse types while you answer the why-are-you-here question"
+        },
+        {
+          "icon": "👀",
+          "l": "Doctor reads",
+          "t": "The doctor looks at the screen before looking at you"
+        },
+        {
+          "icon": "🧑‍⚕️",
+          "l": "Nurse repeats",
+          "t": "The doctor repeats a phrase you only said to the nurse"
+        },
+        {
+          "icon": "🤝",
+          "l": "Ally signal",
+          "t": "The nurse tells you what the doctor usually wants to see"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Give the nurse one sentence",
+          "desc": "Say your worst symptom, the duration, and your one ask. Same words you will use later."
+        },
+        {
+          "n": "2",
+          "title": "Ask what the doctor wants",
+          "desc": "Ask the nurse what this doctor usually needs before ordering that test."
+        },
+        {
+          "n": "3",
+          "title": "Hand the nurse your page",
+          "desc": "Give your one-page timeline to the nurse so it enters the chart before the doctor arrives."
+        }
+      ],
+      "script": "\"Put this in as the reason: <strong>chest pain on stairs, six weeks, getting worse, asking for a cardiology referral.</strong> Does Dr. Reed want anything specific before she refers?\"",
+      "example": "Luis told the nurse his exact sentence and asked what the doctor usually needed. The nurse said an EKG helps. She ran one before the doctor came in, and the referral took four minutes.",
+      "counter": "If someone charms your assistant before reaching you, they are shaping what you see first.\n• Notice your first impression came from someone else's summary.\n• Say: \"Tell me in your own words, from the top.\"\n• Read the raw information yourself before you decide.",
+      "insight": "The gatekeeper writes the frame the boss inherits. The next move is figuring out which staff member actually controls your referral paperwork."
+    },
+    {
+      "id": 16,
+      "cat": "system",
+      "danger": "moderate",
+      "title": "Ask For The Order Number Before You Leave The Room",
+      "principle": "Verification At The Point Of Promise",
+      "remember": "Get proof the order exists before you walk out.",
+      "when": "The doctor says they will send the referral or order the test and reaches for the door.",
+      "hook": "Half the promised orders never get placed. <strong>Nobody notices until you call in six weeks.</strong>",
+      "truth": "An intention is not an order. Only the system entry counts.\n• Ask them to place it now and you convert a promise into a record.\n• The paper or portal entry gives you something to chase with a name and a date.\n• Walk out on a verbal promise and you have nothing to point at.",
+      "theySee": "A patient waiting in the room while the order goes into the computer.",
+      "signals": [
+        {
+          "icon": "🗓️",
+          "l": "Vague timing",
+          "t": "They say the office will call you about scheduling"
+        },
+        {
+          "icon": "🖥️",
+          "l": "No entry",
+          "t": "They stand up without typing anything into the computer"
+        },
+        {
+          "icon": "📄",
+          "l": "Printout",
+          "t": "They print the order summary and hand it to you"
+        },
+        {
+          "icon": "📵",
+          "l": "No call",
+          "t": "Two weeks pass with no contact from the imaging center"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask them to enter it now",
+          "desc": "Ask them to place the order while you are still in the room."
+        },
+        {
+          "n": "2",
+          "title": "Get the printout or portal entry",
+          "desc": "Ask for a printed order summary, or check the portal before you leave the building."
+        },
+        {
+          "n": "3",
+          "title": "Write the follow-up date",
+          "desc": "Ask by which date you should have a call, and who to ask for if it does not come."
+        }
+      ],
+      "script": "\"Can you put the order in while I am here? <strong>I want the printout before I leave.</strong> If nobody calls me by the 12th, who do I ask for?\"",
+      "example": "Deb had a cardiology referral promised twice and never placed. The third time she asked for the printout in the room. She had the appointment booked from the parking lot.",
+      "counter": "If someone asks for proof before they leave the room, they do not trust the follow-through.\n• Notice they turned your promise into a deadline.\n• Say: \"Placing it now. Here is the number.\"\n• Do the task while they watch, or set a real date.",
+      "insight": "Verbal orders die in the hallway. The harder problem is what to do when the order exists and the scheduling desk sits on it for a month."
+    },
+    {
+      "id": 17,
+      "cat": "after",
+      "danger": "low",
+      "title": "Send One Portal Message That Restates The Plan",
+      "principle": "Voss: Summary And Confirmation",
+      "remember": "Write the plan down and ask them to confirm it.",
+      "when": "You get home from the visit and you are not sure what was actually decided.",
+      "hook": "A written summary they agree to becomes the plan. <strong>Memory becomes an argument.</strong>",
+      "truth": "The person who writes the summary controls what the plan says.\n• A short portal message forces a yes or a correction in writing.\n• Their reply is now part of the record and dated.\n• Silence works in your favor too. You sent it and nobody corrected it.",
+      "theySee": "A patient sending a five-line message listing the agreed steps and asking for a yes.",
+      "signals": [
+        {
+          "icon": "✅",
+          "l": "Confirm reply",
+          "t": "They reply confirming your list is correct"
+        },
+        {
+          "icon": "✏️",
+          "l": "Correction",
+          "t": "They reply with one item changed or removed"
+        },
+        {
+          "icon": "🕳️",
+          "l": "No reply",
+          "t": "Nobody answers within three business days"
+        },
+        {
+          "icon": "📎",
+          "l": "Note match",
+          "t": "Your visit note matches or contradicts your summary"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the plan in four lines",
+          "desc": "List each step, who does it, and by which date. Nothing else."
+        },
+        {
+          "n": "2",
+          "title": "Ask for a yes or a fix",
+          "desc": "End with a direct question: is this right, or what should change?"
+        },
+        {
+          "n": "3",
+          "title": "Save the reply",
+          "desc": "Screenshot the reply or print it. Keep it with your timeline page."
+        }
+      ],
+      "script": "\"Confirming today: <strong>1) MRI ordered, 2) I stop the pill for two weeks, 3) neurology referral sent, 4) follow-up May 3.</strong> Is that right, or should anything change?\"",
+      "example": "Ivan left his visit with four half-decisions. He sent a four-line message that night. The doctor replied that the medication pause was wrong and fixed it — a mistake that would have cost him two weeks.",
+      "counter": "If someone sends you a written summary of a talk, they are setting the official version.\n• Notice their list may add or drop an item.\n• Say: \"Two corrections before I agree.\"\n• Reply in writing the same day or the list stands.",
+      "insight": "Whoever writes it down wins the version. This works until a doctor stops replying to portal messages at all — then you need the phone and a name."
+    },
+    {
+      "id": 18,
+      "cat": "after",
+      "danger": "high",
+      "title": "Fire The Doctor And Take Your File With You",
+      "principle": "Sun Tzu: Do Not Besiege A Walled City",
+      "remember": "Three visits, no progress, no plan. Leave and take the records.",
+      "when": "You have run every move on this doctor and the answer is still wait and see.",
+      "hook": "Some doors do not open. <strong>The only move left is the door you walk out of.</strong>",
+      "truth": "A doctor who has decided your case is closed will not reopen it.\n• Each extra visit adds another note that says the same thing.\n• Those repeat notes teach the next doctor to dismiss you too.\n• Leave with the raw records, not the summary the office prints.",
+      "theySee": "A patient requesting the full record set in writing and booking elsewhere.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Same answer",
+          "t": "They give you the same plan for the third visit in a row"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Shorter visits",
+          "t": "Each appointment runs shorter than the last one"
+        },
+        {
+          "icon": "🚫",
+          "l": "No new test",
+          "t": "They order nothing new despite worse symptoms"
+        },
+        {
+          "icon": "🏷️",
+          "l": "Label appears",
+          "t": "The notes start describing your anxiety instead of your symptoms"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Request the full file in writing",
+          "desc": "Send a records request for all notes, labs, and images, not the summary."
+        },
+        {
+          "n": "2",
+          "title": "Get the images, not the reports",
+          "desc": "Ask for the imaging on a disc or a share link so the next doctor reads them fresh."
+        },
+        {
+          "n": "3",
+          "title": "Book the new doctor before you tell the old one",
+          "desc": "Get the new appointment on the calendar first. Then stop rebooking."
+        }
+      ],
+      "script": "\"I am requesting my complete record: <strong>all visit notes, all lab results, and the imaging files themselves, not the reports.</strong> Please confirm when it is ready for pickup.\"",
+      "example": "Farah spent fourteen months and six visits on the same answer. She requested her whole file, including the scan discs, and moved to a new practice. The new doctor re-read the original images and named the condition in one visit.",
+      "counter": "If someone collects their whole file and goes quiet, they are already gone.\n• Notice the records request came before any complaint.\n• Say: \"Before you go — what did we miss?\"\n• Ask while they still answer. After the transfer they will not.",
+      "insight": "Walking away costs you the relationship and buys you a clean read. The next question is how many times you can restart before the chart itself starts working against you."
+    }
+  ]
+}

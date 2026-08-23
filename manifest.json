@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 11,
+  "manifestVersion": 12,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -91,7 +91,20 @@
       "url": "playbooks/playbook-srv-force-the-room-to-decide.json",
       "addedAt": "2026-08-23T02:34:24.133Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-getting-doctors-to-actually-listen",
+      "title": "Getting Doctors To Actually Listen",
+      "theme": "medical",
+      "topic": "",
+      "cardCount": 18,
+      "contentVersion": 1,
+      "coverColor": "#0E5C63",
+      "coverIcon": "🩺",
+      "url": "playbooks/playbook-srv-getting-doctors-to-actually-listen.json",
+      "addedAt": "2026-08-23T06:54:42.852Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-23T02:34:24.133Z"
+  "generatedAt": "2026-08-23T06:54:42.852Z"
 }
