@@ -1,0 +1,948 @@
+{
+  "meta": {
+    "id": "srv-office-romance-without-the-fallout",
+    "version": "1.0",
+    "title": "Office Romance Without the Fallout",
+    "subtitle": "Keeping the job, the reputation, and the relationship",
+    "description": "Fifteen cards on running a romantic relationship at work without losing your career. HR's real script, the disclosure timing game, the breakup containment plan, and what to do when the rumor lands before you do.",
+    "author": "AI",
+    "createdAt": "2026-08-23T22:25:44.106Z",
+    "tags": [
+      "workplace",
+      "romance",
+      "hr",
+      "reputation",
+      "power",
+      "risk"
+    ],
+    "totalCards": 15,
+    "isSeeded": true,
+    "coverColor": "#8B1E3F",
+    "coverIcon": "🔥",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "before",
+      "label": "Before It Starts",
+      "color": "#B8860B"
+    },
+    {
+      "key": "secrecy",
+      "label": "Secrecy & Exposure",
+      "color": "#4B5D67"
+    },
+    {
+      "key": "hr",
+      "label": "HR & Policy",
+      "color": "#2E6E5B"
+    },
+    {
+      "key": "power",
+      "label": "Rank & Power Gaps",
+      "color": "#7A3B69"
+    },
+    {
+      "key": "optics",
+      "label": "Reputation Control",
+      "color": "#1F4E79"
+    },
+    {
+      "key": "breakup",
+      "label": "When It Ends",
+      "color": "#8B1E3F"
+    },
+    {
+      "key": "aftermath",
+      "label": "Aftermath & Exit",
+      "color": "#3D3D3D"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "before",
+      "danger": "moderate",
+      "title": "Read the Policy Before the Second Drink",
+      "principle": "Sun Tzu: Know the Ground Before the Battle",
+      "remember": "Read the rule before you break it. Guessing costs your job.",
+      "when": "You notice something starting with a coworker and you have never read the company dating policy.",
+      "hook": "Most people learn the rule after they broke it. <strong>By then HR is reading it to you.</strong>",
+      "truth": "Every company has a written rule about this, and almost nobody reads it.\n• The policy tells you exactly what gets you fired.\n• Once you know the line, you can stand next to it safely.\n• The trap is asking HR about it. That is a report.",
+      "theySee": "Nobody sees anything. You read a PDF alone at your desk.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "Policy exists",
+          "t": "The handbook has a section called conflicts of interest or fraternization"
+        },
+        {
+          "icon": "✍️",
+          "l": "Disclosure form",
+          "t": "You find a form named relationship disclosure in the HR portal"
+        },
+        {
+          "icon": "🚫",
+          "l": "Chain ban",
+          "t": "The policy bans relationships inside the same reporting line"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Time limit",
+          "t": "The policy gives a number of days to report a relationship"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Download the handbook",
+          "desc": "Search the HR portal for dating, romance, fraternization, and conflict of interest. Save the PDF to your personal phone."
+        },
+        {
+          "n": "2",
+          "title": "Mark the three lines",
+          "desc": "Find who must report, how many days you get, and what happens to each person if you say nothing."
+        },
+        {
+          "n": "3",
+          "title": "Check your own chain",
+          "desc": "Open the org chart. Trace whether either of you sits above the other at any level, including dotted lines."
+        }
+      ],
+      "script": "(To yourself, before anything starts) <strong>\"If this comes out tomorrow, which sentence in the handbook do they quote at me?\"</strong> If you cannot answer, you are not ready.",
+      "watchFor": "You find the exact clause and the number of days, and you stop guessing.",
+      "example": "Devon liked a woman on the analytics team. Before he asked her out he pulled the handbook and found the ban only covered direct reports. He kept the PDF page on his phone. Six months later a manager challenged the relationship and Devon read the clause back to him in ten seconds.",
+      "ifItFails": "You cannot find a policy at all. Do not ask HR. Ask a friend in another department to check their own onboarding packet, or search the company intranet for a disclosure form. Text them: <strong>\"Random question, does your team's onboarding packet still have the conflicts of interest page? Mine is missing.\"</strong>",
+      "counter": "If a coworker keeps asking you what the dating policy says, they are checking their own risk.\n• Notice they ask in general terms, never about themselves.\n• Say: <strong>\"No idea, why, who is it?\"</strong>\n• Watch the answer. Deflection tells you they are already in it.",
+      "insight": "Reading the rule costs an hour. Not reading it costs the job. The harder question is the one the handbook never answers: what your boss does when the rule is on your side and he still wants you gone."
+    },
+    {
+      "id": 2,
+      "cat": "before",
+      "danger": "high",
+      "title": "Never Date Inside Your Own Reporting Line",
+      "principle": "Status Asymmetry × Greene: Law 10, Avoid the Unhappy and Unlucky",
+      "remember": "One person's boss is nobody's partner. Change the line first.",
+      "when": "You are attracted to someone who reports to you, or to someone you report to.",
+      "hook": "Every company forgives an office romance. <strong>None of them forgive one inside a reporting line.</strong>",
+      "truth": "The rank gap is the part that gets people fired, not the romance.\n• A boss cannot give a fair review to someone in their bed.\n• Every raise you approve becomes evidence later.\n• The junior person absorbs the damage. The senior one absorbs the lawsuit.",
+      "theySee": "A manager who suddenly praises one team member more than the others in meetings.",
+      "signals": [
+        {
+          "icon": "📈",
+          "l": "Rating drift",
+          "t": "You gave them the highest rating on the team this cycle"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Extra one-on-ones",
+          "t": "Your one-on-ones with them run longer than everyone else's"
+        },
+        {
+          "icon": "👥",
+          "l": "Team notices",
+          "t": "A teammate jokes about who the favorite is"
+        },
+        {
+          "icon": "🔐",
+          "l": "Info leak",
+          "t": "You told them something about the team before you told the team"
+        },
+        {
+          "icon": "🚪",
+          "l": "Closed door",
+          "t": "You close the office door for them and not for others"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop the reviews now",
+          "desc": "Ask your own boss to move that person's review to a peer manager. Give a workload reason, not the real one."
+        },
+        {
+          "n": "2",
+          "title": "Move one of you",
+          "desc": "Start a transfer conversation for whichever person has the easier move. Do it before anyone asks why."
+        },
+        {
+          "n": "3",
+          "title": "Wait for the line to break",
+          "desc": "Do not start the relationship until the reporting line is gone on paper, not just in practice."
+        }
+      ],
+      "script": "(To your own boss) <strong>\"I want to hand Priya's review to Marcus this cycle. I have seven directs and he has three, and she is doing work closer to his area.\"</strong>",
+      "watchFor": "Your boss approves the review handoff without asking a second question.",
+      "example": "Ana managed Tom and things were heading somewhere. She asked her director to move Tom under a peer manager, citing headcount balance. Two months later they started dating and disclosed it. HR filed it as clean because no review, raise, or rating ever crossed between them.",
+      "ifItFails": "Your boss refuses the transfer or asks why. Do not explain. Give a second workload reason and drop it, then take the other route: stop the relationship until one of you changes teams, or accept that you will disclose from inside the line. If you disclose from inside the line, say it first: <strong>\"Before this goes further I need to move her reviews. There is a relationship and I want it on record from me.\"</strong>",
+      "counter": "If your boss starts treating you differently in private and better in public, check the direction of the favor.\n• Notice praise that arrives with no work behind it.\n• Say: <strong>\"I want my review from someone else this cycle.\"</strong>\n• Do not run this if they control your visa or your contract renewal.",
+      "insight": "The rank gap does not vanish when you disclose. It just becomes documented. The next problem is that everyone now reads every good thing that happens to the junior person as a payment."
+    },
+    {
+      "id": 3,
+      "cat": "before",
+      "danger": "moderate",
+      "title": "Agree on the Ending Before the Beginning",
+      "principle": "Schelling: Commitment Made in Advance",
+      "remember": "Decide how it ends while you still like each other.",
+      "when": "You and a coworker are about to start something and neither of you has said what happens if it stops.",
+      "hook": "Everyone plans the first date. <strong>Nobody plans the last one, and that is the one that costs your job.</strong>",
+      "truth": "The breakup is the dangerous part, and you can write its rules while you are still happy.\n• A promise made now is cheap and binding later.\n• It stops the angry version of your partner from improvising.\n• Say it once, plainly, and never bring it up again unless you need it.",
+      "theySee": "A person being honest and grown up about something most people avoid.",
+      "signals": [
+        {
+          "icon": "🤐",
+          "l": "No plan",
+          "t": "Neither of you has said what happens at work if it ends"
+        },
+        {
+          "icon": "😬",
+          "l": "Topic dodge",
+          "t": "They change the subject when you mention work and the two of you together"
+        },
+        {
+          "icon": "📱",
+          "l": "Chat drift",
+          "t": "Personal messages have moved onto the company chat tool"
+        },
+        {
+          "icon": "👨‍👩‍👧",
+          "l": "Third party",
+          "t": "A coworker already asked one of you a direct question about it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the sentence once",
+          "desc": "Tell them plainly that if this ends, neither of you talks about it at work or to anyone at work."
+        },
+        {
+          "n": "2",
+          "title": "Move the messages off company tools",
+          "desc": "Delete the personal thread from Slack or Teams. Move it to a personal phone number tonight."
+        },
+        {
+          "n": "3",
+          "title": "Name the person who moves",
+          "desc": "Agree now which of you would ask for a team change if it ends badly. Pick the one with more options."
+        }
+      ],
+      "script": "<strong>\"One thing before this goes further. If it ends, we do not tell people at work and we do not make anyone pick a side. And if one of us has to move teams, it is me.\"</strong>",
+      "watchFor": "They say yes and then add their own rule to the list.",
+      "example": "Kel and Ryan agreed on night one: no work chat, no telling the team, and Kel would move teams if it ended. It ended in April. Kel asked for a transfer in the same week, and nobody on the floor ever learned there had been a relationship.",
+      "ifItFails": "They laugh it off or say you are overthinking it. Do not push twice. Hold the rule alone: keep your messages off company tools and keep the relationship out of the office regardless of what they do. Then say once: <strong>\"Fine, but I am keeping work clean on my side either way.\"</strong>",
+      "counter": "If someone asks you to promise silence up front, ask what they are protecting.\n• Notice that the rule always protects the higher-ranked person more.\n• Say: <strong>\"Agreed, and it goes both ways. You do not tell your friends here either.\"</strong>\n• Write nothing down. A written pact reads terribly in an HR file."
+    },
+    {
+      "id": 4,
+      "cat": "secrecy",
+      "danger": "high",
+      "title": "Get Your Messages Off Company Tools Tonight",
+      "principle": "Machiavelli: Never Write What You Would Not Have Read Aloud",
+      "remember": "The company owns every message you send on its tools.",
+      "when": "You and your partner have been sending personal messages on Slack, Teams, or work email.",
+      "hook": "Your employer can read every word without telling you. <strong>Legal already can, and in a dispute they will.</strong>",
+      "truth": "Company chat is not private and deleting it does not delete it.\n• IT keeps a copy on a server you cannot reach.\n• In any complaint, legal pulls the whole thread, not the bad part.\n• The joke you made in March reads very differently in a deposition.",
+      "theySee": "Nothing. This move happens on your phone, alone.",
+      "signals": [
+        {
+          "icon": "💬",
+          "l": "Work chat drift",
+          "t": "Your last three personal messages went through the company chat tool"
+        },
+        {
+          "icon": "📧",
+          "l": "Calendar clue",
+          "t": "You put a personal plan in a work calendar invite"
+        },
+        {
+          "icon": "🖼️",
+          "l": "Photo sent",
+          "t": "You sent a photo through a work tool that you would not show your boss"
+        },
+        {
+          "icon": "🔗",
+          "l": "Shared drive",
+          "t": "A personal document sits in the company drive under your account"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Move the thread tonight",
+          "desc": "Send one last work-safe message on the company tool, then continue on personal numbers only."
+        },
+        {
+          "n": "2",
+          "title": "Clear the calendar",
+          "desc": "Delete personal invites from the work calendar. Rename recurring ones to something plain like Focus block."
+        },
+        {
+          "n": "3",
+          "title": "Set the rule out loud",
+          "desc": "Tell your partner that anything sent on a work tool must be something a manager could read."
+        }
+      ],
+      "script": "(Last message on the work tool) <strong>\"Moving us off here. Text me instead.\"</strong> Then delete the thread and stop.",
+      "watchFor": "They text your personal number within the hour and never use the work tool again.",
+      "example": "Sam and Nadia flirted on Teams for two months. Sam read one line about a retention case and moved everything to text that night. When Nadia later filed an unrelated complaint, legal pulled Teams and found only project talk.",
+      "ifItFails": "They keep sending personal messages on the work tool anyway. Do not reply on that channel. Answer every work-tool message with a work answer only, and text the real answer. Send once: <strong>\"I only answer work things on Teams now. Text me for the rest.\"</strong>",
+      "counter": "If someone keeps pulling personal talk back onto company tools, ask why they want a record.\n• Notice they write the emotional messages there, not the light ones.\n• Say: <strong>\"Text me, I do not do this on Teams.\"</strong>\n• Screenshot anything they send that sounds like a threat, to your personal phone.",
+      "insight": "Moving the messages protects you from the company. It does not protect you from your partner, who has their own copy of everything. That is a different card."
+    },
+    {
+      "id": 5,
+      "cat": "secrecy",
+      "danger": "moderate",
+      "title": "Stop Arriving and Leaving Together",
+      "principle": "Cialdini: Social Proof — The Pattern People Read",
+      "remember": "People spot the pattern, not the moment. Break the pattern.",
+      "when": "You and your partner ride in together, take lunch together, and leave within two minutes of each other.",
+      "hook": "Nobody catches you kissing. <strong>They catch you leaving at 5:32 for the ninth Tuesday in a row.</strong>",
+      "truth": "People find out through repetition, never through one event.\n• Coworkers do not watch you. They notice a rhythm.\n• Once they see the rhythm they go back and reread the last six months.\n• The fix is not hiding harder. It is being boring in a different order.",
+      "theySee": "Two coworkers who happen to keep the same schedule as everyone else on the floor.",
+      "signals": [
+        {
+          "icon": "🕠",
+          "l": "Same clock",
+          "t": "You leave within two minutes of each other most days"
+        },
+        {
+          "icon": "🥪",
+          "l": "Lunch pair",
+          "t": "You take lunch together more than twice a week"
+        },
+        {
+          "icon": "🚗",
+          "l": "Shared car",
+          "t": "You park in the same spot and arrive in one car"
+        },
+        {
+          "icon": "👀",
+          "l": "Room glance",
+          "t": "You look at each other first when someone makes a joke in a meeting"
+        },
+        {
+          "icon": "🎉",
+          "l": "Party exit",
+          "t": "You both left the last work event at the same time"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stagger by fifteen minutes",
+          "desc": "One of you leaves at 5:15 and the other at 5:35. Keep it for a month."
+        },
+        {
+          "n": "2",
+          "title": "Break the lunch habit",
+          "desc": "Take lunch with two other coworkers each week. Let people see you with other people."
+        },
+        {
+          "n": "3",
+          "title": "Park apart",
+          "desc": "If you drive in together, drop one person two blocks away or use a different garage level."
+        }
+      ],
+      "script": "(In the office, to your partner, at normal volume) <strong>\"I am staying late on the deck. Go ahead.\"</strong> Say it where people hear it and mean it.",
+      "watchFor": "The joking stops. Nobody mentions the two of you for two weeks straight.",
+      "example": "Priya and Wes left together every day at 5:30. A teammate started calling it the carpool. They staggered by twenty minutes and Priya joined the Thursday lunch group. Within a month the joke died and nobody brought it back.",
+      "ifItFails": "Someone already made the joke out loud, so staggering now looks like a reaction. Do not change the schedule that same week. Wait ten days, then change it, and give the joke a flat answer once: <strong>\"We live in the same direction. It is not that interesting.\"</strong>",
+      "counter": "If you want to know whether two coworkers are together, watch the clock, not the eyes.\n• Notice arrival and departure times across two weeks.\n• Say nothing. A joke tells them you are watching.\n• Do not run this on people who can end your contract."
+    },
+    {
+      "id": 6,
+      "cat": "hr",
+      "danger": "high",
+      "title": "Disclose Before Someone Else Does",
+      "principle": "Voss: Accusation Audit × Loss Aversion",
+      "remember": "Tell them first. Being told about you is the crime.",
+      "when": "You realize a coworker or manager has noticed the relationship and you have not reported it.",
+      "hook": "HR does not punish the relationship. <strong>HR punishes finding out from someone else.</strong>",
+      "truth": "Disclosure timing decides whether you are a colleague or a case.\n• Reporting it yourself makes you the person who follows rules.\n• Being reported makes you the person who hid something.\n• The report also freezes your partner's ability to use it against you later.",
+      "theySee": "An employee who walks in calm, states a fact, and asks what paperwork is needed.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Rumor moving",
+          "t": "A coworker asked you a direct question about the two of you"
+        },
+        {
+          "icon": "📅",
+          "l": "Clock running",
+          "t": "The policy gives a number of days and some have passed"
+        },
+        {
+          "icon": "🧑‍💼",
+          "l": "Manager hint",
+          "t": "Your manager made a joke about it in front of others"
+        },
+        {
+          "icon": "📝",
+          "l": "Review season",
+          "t": "Performance reviews or a promotion cycle starts within a month"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Agree on one version",
+          "desc": "Sit with your partner and settle the start date and the words you will both use. Same facts, same day."
+        },
+        {
+          "n": "2",
+          "title": "Book the meeting yourself",
+          "desc": "Email HR and ask for fifteen minutes about a conflict of interest disclosure. Do not say more in the email."
+        },
+        {
+          "n": "3",
+          "title": "State it in three sentences",
+          "desc": "Say who, since when, and what you already changed to remove the conflict. Then stop and let them talk."
+        }
+      ],
+      "script": "<strong>\"I am in a relationship with Dana from the pricing team. It started about two months ago. Neither of us reviews or pays the other, and I want it on record and to sign whatever form you need.\"</strong>",
+      "watchFor": "The HR person stops taking notes and starts explaining the form.",
+      "example": "Miguel heard a teammate joke about him and Dana at standup. He booked HR the next morning and disclosed in three sentences. HR filed a standard form. When the same teammate emailed HR two weeks later, the file already existed and the complaint went nowhere.",
+      "ifItFails": "HR treats it as a problem and starts asking about dates and messages. Stop giving detail. Answer only what the form needs and put the next move in writing: <strong>\"Happy to answer anything specific in writing. Can you send me what the policy requires from here?\"</strong> That forces them to name a rule instead of running an interview.",
+      "counter": "If HR asks you to describe the relationship in detail, they are building a file, not a form.\n• Notice questions about dates, messages, and hotel rooms.\n• Say: <strong>\"What does the policy require me to provide?\"</strong>\n• Do not disclose verbally to a manager who dislikes you. Go straight to HR.",
+      "insight": "Disclosing turns a secret into paperwork, and paperwork is survivable. The harder part starts after: your name and their name now sit in the same file forever, including on the day one of you gets promoted."
+    },
+    {
+      "id": 7,
+      "cat": "hr",
+      "danger": "high",
+      "title": "Know the HR Script Before You Sit Down",
+      "principle": "Sun Tzu: Know the Enemy — Trained Counterparty",
+      "remember": "HR protects the company. Answer the question they asked, nothing more.",
+      "when": "HR asks you for a meeting about your relationship and gives no agenda.",
+      "hook": "They have run this meeting a hundred times. <strong>You have run it never.</strong>",
+      "truth": "HR follows a fixed order and you can see every turn coming.\n• They open warm to get you talking, then they write.\n• They ask open questions because your extra words build their file.\n• The whole meeting is a record. Short answers keep the record thin.",
+      "theySee": "A calm employee who answers the question asked and then stops speaking.",
+      "signals": [
+        {
+          "icon": "☕",
+          "l": "Warm open",
+          "t": "They start with how are you and how is the team"
+        },
+        {
+          "icon": "✏️",
+          "l": "Note switch",
+          "t": "They begin writing only after you start explaining"
+        },
+        {
+          "icon": "🌀",
+          "l": "Open question",
+          "t": "They ask you to walk them through what happened"
+        },
+        {
+          "icon": "🤫",
+          "l": "Silence held",
+          "t": "They stop talking and wait for you to fill the gap"
+        },
+        {
+          "icon": "👤",
+          "l": "Second person",
+          "t": "A second HR person sits in and says almost nothing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the agenda in writing",
+          "desc": "Before the meeting, email and ask what the meeting is about and whether it is formal. Keep the reply."
+        },
+        {
+          "n": "2",
+          "title": "Answer in one sentence",
+          "desc": "Give the fact and stop. Do not explain motives, feelings, or history nobody asked for."
+        },
+        {
+          "n": "3",
+          "title": "Send your own recap",
+          "desc": "Within two hours, email a short summary of what you said and what they asked. Now you have a record too."
+        }
+      ],
+      "script": "(When they ask you to walk them through it) <strong>\"Happy to. What specifically do you need to know?\"</strong> Then answer only that.",
+      "watchFor": "They rephrase the same question a second time because your first answer gave them nothing to write.",
+      "example": "Grace got a vague HR invite. She emailed asking for the agenda and got \"informal chat about a conflict disclosure\" in writing. In the room she gave one-sentence answers and sent a recap email after. The file closed in a week with no findings.",
+      "ifItFails": "They refuse to give an agenda and press you in the room. Do not walk out and do not improvise. Slow it down and make them commit: <strong>\"I want to answer properly. Send me the questions in writing and I will reply today.\"</strong> Most informal fishing stops the moment it has to be written down.",
+      "counter": "If a friendly manager starts asking gentle questions about your personal life, they may be gathering for HR.\n• Notice questions that repeat a week apart with slightly different words.\n• Say: <strong>\"Is this a work question or a personal one?\"</strong>\n• Never explain yourself twice. The second version always differs from the first."
+    },
+    {
+      "id": 8,
+      "cat": "power",
+      "danger": "extreme",
+      "title": "Refuse Any Favor That Looks Like Payment",
+      "principle": "Greene: Law 40, Despise the Free Lunch",
+      "remember": "Any favor from your partner becomes evidence against you both.",
+      "when": "Your partner has more rank than you and offers to push your project, raise, or promotion.",
+      "hook": "The favor feels like love now. <strong>It reads like a bribe in the file.</strong>",
+      "truth": "In a rank gap, every good thing that happens to the junior person gets recounted later.\n• People rebuild your whole record once they know.\n• A single approved raise turns your work into a rumor.\n• Refusing the favor is the only version nobody can rewrite.",
+      "theySee": "A partner who says no to help and asks for a neutral person to decide instead.",
+      "signals": [
+        {
+          "icon": "💸",
+          "l": "Raise offer",
+          "t": "They offer to push your raise through in this cycle"
+        },
+        {
+          "icon": "🎤",
+          "l": "Stage handed",
+          "t": "They give you the visible presentation over a more senior peer"
+        },
+        {
+          "icon": "🗂️",
+          "l": "Project pick",
+          "t": "They assign you the best project without an open process"
+        },
+        {
+          "icon": "🧾",
+          "l": "Quiet approval",
+          "t": "They approved your expense or time off without the usual check"
+        },
+        {
+          "icon": "🧊",
+          "l": "Peer chill",
+          "t": "A peer went quiet with you after your last assignment"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say no once, out loud",
+          "desc": "Tell your partner you will not take anything they approve. Say it where you both remember it."
+        },
+        {
+          "n": "2",
+          "title": "Route it to a third person",
+          "desc": "Ask for a different manager to own your rating, your raise, and your project assignment."
+        },
+        {
+          "n": "3",
+          "title": "Keep your own record",
+          "desc": "Save the emails where you asked to be moved off their approvals. Store them on personal email."
+        }
+      ],
+      "script": "<strong>\"Do not put me on that. If it comes from you it stops being mine, and I would rather earn it somewhere you cannot sign.\"</strong>",
+      "watchFor": "They stop offering and start pointing you at people who can decide instead.",
+      "example": "Jonah's partner ran the department and offered him the keynote slot. He refused and asked a peer director to pick. The peer picked him anyway. When the relationship became public, three people remembered the peer had chosen, not Jonah's partner.",
+      "ifItFails": "They do it anyway without asking you. Do not accept quietly and do not blow it up. Put your objection in writing to the neutral manager the same day: <strong>\"I want to flag that Dana approved this. Can you re-review it so it does not sit on her signature?\"</strong> That single email survives longer than the favor.",
+      "counter": "If someone senior gives you something you did not compete for, ask who else wanted it.\n• Notice a gift that arrives with no process behind it.\n• Say: <strong>\"Who else was up for this?\"</strong>\n• Never take a raise signed by a partner. It voids your record.",
+      "insight": "Refusing help costs you real money in the short run. It buys the only thing that survives the breakup, which is the belief that you earned your job. The next problem is that people will still say it anyway."
+    },
+    {
+      "id": 9,
+      "cat": "power",
+      "danger": "extreme",
+      "title": "Say No to a Boss Who Pursues You",
+      "principle": "Schelling: The Costly Commitment × Status Asymmetry",
+      "remember": "Say no in a way that leaves a record and no insult.",
+      "when": "A person who controls your reviews, pay, or contract makes a move on you.",
+      "hook": "You have to say no without making an enemy who signs your review. <strong>Do it once, in writing, and stay warm.</strong>",
+      "truth": "The danger here is not the question. It is what happens to your rating after the answer.\n• A verbal no leaves nothing behind if they retaliate.\n• A written no is a date stamp you can produce later.\n• Keep the tone warm so they cannot call you hostile.",
+      "theySee": "A friendly colleague who declines clearly and then talks about work as if nothing happened.",
+      "signals": [
+        {
+          "icon": "🌙",
+          "l": "After hours",
+          "t": "They message you about non-work things after nine at night"
+        },
+        {
+          "icon": "🍸",
+          "l": "Drinks push",
+          "t": "They suggest one-on-one drinks outside any team event"
+        },
+        {
+          "icon": "🎁",
+          "l": "Small gifts",
+          "t": "They give you a gift they gave nobody else on the team"
+        },
+        {
+          "icon": "📉",
+          "l": "Cold turn",
+          "t": "Their tone in meetings changed after you did not reply to a message"
+        },
+        {
+          "icon": "🚪",
+          "l": "Door closed",
+          "t": "They close the door for conversations that are not confidential"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer once, clearly",
+          "desc": "Say no in plain words. Do not give a reason they can argue with, like being busy."
+        },
+        {
+          "n": "2",
+          "title": "Put it in a friendly email",
+          "desc": "Send a short work email the next morning that references the conversation and keeps the tone normal."
+        },
+        {
+          "n": "3",
+          "title": "Save the trail off-network",
+          "desc": "Forward their messages and your reply to your personal email or photograph them. Do it the same day."
+        }
+      ],
+      "script": "<strong>\"I am flattered, and I am going to keep this to work. I want to keep working with you and I do not want it to be weird.\"</strong>",
+      "watchFor": "They change the subject to work and keep the same tone in the next meeting.",
+      "example": "Lena's director asked her to dinner twice. She said no clearly, then emailed him the next morning about the roadmap in a normal, warm tone. She saved both messages to her personal email. When her rating dropped six months later, she had the dates.",
+      "ifItFails": "They keep asking or your rating drops after the no. Stop managing it alone. Take the saved messages to their boss or to HR and lead with the record, not the feeling: <strong>\"I said no on March 4, here are the messages, and my rating changed in the next cycle. I want someone else to review me.\"</strong>",
+      "counter": "If a senior person frames pursuit as mentoring, count the private invitations.\n• Notice one-on-one time that has no work agenda.\n• Say: <strong>\"Can we do this with the team in the room?\"</strong>\n• Do not confront them in front of others. A humiliated boss retaliates harder.",
+      "insight": "The written no is not about proving harassment. It is about owning the calendar when someone rewrites your performance history. The harder question is what you do when their boss is their friend."
+    },
+    {
+      "id": 10,
+      "cat": "optics",
+      "danger": "moderate",
+      "title": "Give the Rumor One Flat Answer",
+      "principle": "Gracián: Never Defend Yourself With Words Alone",
+      "remember": "One bored sentence kills a rumor. Denial feeds it.",
+      "when": "A coworker asks you straight out whether you and that person are together.",
+      "hook": "A rumor lives on your reaction. <strong>Give it nothing to eat.</strong>",
+      "truth": "People chase the story, not the fact, and your face decides which one they get.\n• A long answer proves the topic matters to you.\n• A flat, bored answer makes the asker feel small.\n• Use the same sentence every time. Different answers become the story.",
+      "theySee": "A coworker who answers without pausing and goes straight back to work.",
+      "signals": [
+        {
+          "icon": "🗨️",
+          "l": "Direct ask",
+          "t": "Someone asked you the question with no joke attached"
+        },
+        {
+          "icon": "😏",
+          "l": "Standup joke",
+          "t": "A teammate made the joke in a meeting to see your face"
+        },
+        {
+          "icon": "📵",
+          "l": "Chat probe",
+          "t": "Someone sent you a message with only a raised eyebrow emoji"
+        },
+        {
+          "icon": "👂",
+          "l": "Third-hand",
+          "t": "A person from another team already heard it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write one sentence",
+          "desc": "Pick your answer now, before you are asked. Ten words or fewer. Say it the same way every time."
+        },
+        {
+          "n": "2",
+          "title": "Match your partner's line",
+          "desc": "Tell your partner the exact sentence tonight. Two different answers make the rumor true."
+        },
+        {
+          "n": "3",
+          "title": "Change the subject immediately",
+          "desc": "After the sentence, ask them a work question. Do not leave a gap for a follow-up."
+        }
+      ],
+      "script": "<strong>\"We are friends. Did you get the numbers from Kim yet?\"</strong> Say it flat, then keep going.",
+      "watchFor": "The asker drops it and answers your work question instead.",
+      "example": "Tariq got asked at standup. He said \"we are friends, did the vendor reply?\" and looked back at his screen. The asker moved on. Two other people tried the same joke that week and got the same six words. It stopped.",
+      "ifItFails": "They push a second time or say someone saw you. Do not add detail and do not deny harder. Move it to their motive: <strong>\"That is the second time you have asked. What is this actually about?\"</strong> Asking them to explain themselves ends the game faster than any answer about you.",
+      "counter": "If someone gives you the identical flat answer twice, they rehearsed it.\n• Notice the wording repeats word for word.\n• Say nothing more. Pressing marks you as the office gossip.\n• Drop it. Being the person who chased it costs you more than knowing."
+    },
+    {
+      "id": 11,
+      "cat": "optics",
+      "danger": "moderate",
+      "title": "Build Public Proof That You Earn Your Work",
+      "principle": "Cialdini: Social Proof × Greene: Law 6, Court Attention",
+      "remember": "Let other people say your work is good, out loud, often.",
+      "when": "People at work know about the relationship and you are up for a project, raise, or promotion.",
+      "hook": "Once they know, every win of yours gets an asterisk. <strong>Put the proof somewhere they cannot edit.</strong>",
+      "truth": "You cannot argue people out of the asterisk. You can outnumber it.\n• Praise from a third party cannot be blamed on your partner.\n• Written praise survives the breakup and the rumor.\n• Collect it before you need it, because asking later looks defensive.",
+      "theySee": "A coworker whose clients and peers keep saying good things about the work in public channels.",
+      "signals": [
+        {
+          "icon": "🏷️",
+          "l": "Asterisk talk",
+          "t": "Someone credited your partner for your work in a meeting"
+        },
+        {
+          "icon": "🤨",
+          "l": "Peer doubt",
+          "t": "A peer asked how you got the assignment"
+        },
+        {
+          "icon": "📣",
+          "l": "Silent wins",
+          "t": "Your last three results were never mentioned outside your team"
+        },
+        {
+          "icon": "📬",
+          "l": "Praise buried",
+          "t": "A client thanked you by direct message instead of in a group channel"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask a client to say it publicly",
+          "desc": "When a client thanks you privately, ask them to post the same thing in the shared channel."
+        },
+        {
+          "n": "2",
+          "title": "Present to the skip-level",
+          "desc": "Get on one meeting a month where your partner is not in the room and you own the material."
+        },
+        {
+          "n": "3",
+          "title": "Save the praise file",
+          "desc": "Forward every written compliment to your personal email. Keep dates and names."
+        }
+      ],
+      "script": "(To a client who praised you by direct message) <strong>\"That means a lot, thank you. Would you mind dropping that in the project channel? It helps the whole team.\"</strong>",
+      "watchFor": "Someone other than your partner names your work in a meeting you are not in, and it gets back to you.",
+      "example": "Rosa's partner led her department, so her promotion drew whispers. She asked two clients to post their thanks in the shared channel and presented to the VP twice without her partner there. The promotion committee quoted the client posts, not her manager.",
+      "ifItFails": "Nobody repeats the praise and the asterisk stays. Stop chasing words and change the evidence. Take one visible job nobody wants, own it end to end, and report the result to the skip-level yourself: <strong>\"I took the migration nobody wanted. Here is what it saved. Happy to walk you through it.\"</strong>",
+      "counter": "If a colleague suddenly floods the channel with client praise, they are building a defense.\n• Notice praise that arrives right before a promotion cycle.\n• Say: <strong>\"Nice, what was the hard part?\"</strong>\n• Their answer shows whether the work is theirs. Do not say it in front of others.",
+      "insight": "Proof does not stop the whisper. It makes the whisper expensive to repeat in a room where results are on the screen."
+    },
+    {
+      "id": 12,
+      "cat": "breakup",
+      "danger": "high",
+      "title": "End It Away From the Building",
+      "principle": "Sun Tzu: Choose the Ground",
+      "remember": "Never end it in the office, the parking lot, or on chat.",
+      "when": "You have decided to end the relationship and you both work in the same place.",
+      "hook": "Where you end it decides who sees the worst ten minutes. <strong>Pick ground with no coworkers on it.</strong>",
+      "truth": "The breakup itself is private. The location makes it public.\n• A crying scene in the stairwell becomes the office story for a year.\n• A chat message becomes a screenshot they keep.\n• Neutral ground and a weekend give both of you time to reset your face.",
+      "theySee": "A person who chose a quiet place, said it plainly, and did not make a scene.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Bad timing",
+          "t": "You are about to do it during a work week with a big deadline"
+        },
+        {
+          "icon": "🏢",
+          "l": "Wrong place",
+          "t": "You planned to say it in a conference room or the parking lot"
+        },
+        {
+          "icon": "💻",
+          "l": "Chat draft",
+          "t": "You have a long message typed out in a chat app"
+        },
+        {
+          "icon": "🍷",
+          "l": "Work event",
+          "t": "A team offsite or party falls within the next few days"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a Friday and a neutral place",
+          "desc": "Choose somewhere off company ground, away from work bars. Give both of you the weekend."
+        },
+        {
+          "n": "2",
+          "title": "Say it in three sentences",
+          "desc": "State the decision, say it is final, and say the work rule. Do not relitigate the relationship."
+        },
+        {
+          "n": "3",
+          "title": "Repeat the work agreement",
+          "desc": "Say out loud that neither of you talks about it at work and that Monday is normal."
+        }
+      ],
+      "script": "<strong>\"I am ending this. It is not a conversation, it is a decision. Monday we are colleagues and neither of us says anything to anyone at work.\"</strong>",
+      "watchFor": "They ask what happens at work on Monday instead of arguing about the relationship.",
+      "example": "Dev ended it on a Friday at a park two towns over. He said the three sentences and repeated the work rule twice. Monday they nodded at each other in the kitchen. Nobody on the team ever learned the date it ended.",
+      "ifItFails": "They come to your desk Monday or message you all day on the work tool. Do not answer emotionally and do not meet in the building. Reset the ground once, in writing on personal text: <strong>\"I will not do this at work. Call me tonight and we can finish it properly.\"</strong> If it continues into a second week, take it to HR yourself before they do.",
+      "counter": "If someone insists on ending it at work, they want witnesses or they want you contained.\n• Notice they pick a conference room with glass walls.\n• Say: <strong>\"Not here. Tonight, off site.\"</strong>\n• Leave the room if they refuse. Do not give them the scene.",
+      "insight": "Choosing the ground protects the office version of you. It does nothing about the person who now knows everything about your work life and has a reason to use it."
+    },
+    {
+      "id": 13,
+      "cat": "breakup",
+      "danger": "extreme",
+      "title": "Contain the Ex Who Talks",
+      "principle": "Greene: Law 3, Conceal Your Intentions × Machiavelli: Deny the Weapon",
+      "remember": "Take away the audience and the story dies fast.",
+      "when": "Your ex starts telling coworkers their version of the breakup.",
+      "hook": "They do not need to lie. <strong>They only need to tell it first, and often.</strong>",
+      "truth": "The first version people hear becomes the true one in their heads.\n• You cannot outrun the story by telling yours louder.\n• You win by being boring and correct while they are dramatic.\n• Every rebuttal you make hands them another day of the topic.",
+      "theySee": "A calm ex who does not gossip, does not sulk, and keeps delivering work.",
+      "signals": [
+        {
+          "icon": "🫥",
+          "l": "Room shift",
+          "t": "Two coworkers stopped talking when you walked in"
+        },
+        {
+          "icon": "📩",
+          "l": "Version leaking",
+          "t": "Someone repeated a detail only your ex knew"
+        },
+        {
+          "icon": "🧊",
+          "l": "Invite drop",
+          "t": "You were left off a lunch or social invite you always got"
+        },
+        {
+          "icon": "🎯",
+          "l": "Work jab",
+          "t": "Your ex questioned your work in a meeting for the first time"
+        },
+        {
+          "icon": "👥",
+          "l": "Side forming",
+          "t": "A coworker asked you what really happened, then reported back"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Give the same six words to everyone",
+          "desc": "Pick one neutral line about the breakup and repeat it word for word to anyone who asks."
+        },
+        {
+          "n": "2",
+          "title": "Keep the work record clean",
+          "desc": "Answer every message from your ex about work in writing, politely, and only about work."
+        },
+        {
+          "n": "3",
+          "title": "Tell one senior ally, once",
+          "desc": "Give a short factual heads-up to a person above you who is not in the gossip circle."
+        }
+      ],
+      "script": "(To anyone who asks) <strong>\"We broke up. I am not going to talk about it here.\"</strong> Same words, same tone, every time.",
+      "watchFor": "A coworker who was cold last week starts talking to you normally again.",
+      "example": "Ines' ex told half the floor his version in a week. She said the same nine words to everyone and told her director once, plainly. Three weeks later people were tired of his version and it stopped moving. Her director later cited her handling of it in her review.",
+      "ifItFails": "They move from gossip to attacking your work in meetings. Stop treating it as personal and make it a work issue in writing. Send one email to them, copying your manager: <strong>\"You raised concerns about the migration timeline in standup. Send them to me in writing and I will respond with the data.\"</strong> Once it must be written and specific, most of it evaporates.",
+      "counter": "If an ex-partner at work suddenly plays the calm one, they are running this on you.\n• Notice they answer only in writing and only about work.\n• Say nothing about the relationship in any channel.\n• Do not try to win the floor. The loud one always loses the review."
+    },
+    {
+      "id": 14,
+      "cat": "aftermath",
+      "danger": "high",
+      "title": "Move Teams Before You Are Moved",
+      "principle": "Greene: Law 20, Do Not Commit to Anyone × Sun Tzu: Retreat as a Choice",
+      "remember": "Ask for the transfer first. Being moved looks like a verdict.",
+      "when": "The relationship ended and you still sit near your ex or share a manager.",
+      "hook": "Someone is going to be moved. <strong>The one who asks looks strategic. The one who is moved looks guilty.</strong>",
+      "truth": "A transfer you request reads as growth. A transfer you receive reads as punishment.\n• You control the reason when you go first.\n• You keep your relationship with your manager intact.\n• Wait too long and the story is written by whoever moves you.",
+      "theySee": "An employee asking for a new challenge, with a specific team and a specific reason.",
+      "signals": [
+        {
+          "icon": "🪑",
+          "l": "Seat problem",
+          "t": "You still sit within sight of your ex every day"
+        },
+        {
+          "icon": "🧑‍⚖️",
+          "l": "Manager knows",
+          "t": "Your manager has mentioned the situation to you once"
+        },
+        {
+          "icon": "📉",
+          "l": "Work friction",
+          "t": "A project needs both of you and it is getting slower"
+        },
+        {
+          "icon": "🚪",
+          "l": "Quiet planning",
+          "t": "You heard someone ask about your team's seating or headcount"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the team first",
+          "desc": "Choose a specific team and a specific role. A vague request gets you a vague answer."
+        },
+        {
+          "n": "2",
+          "title": "Sell the work reason",
+          "desc": "Ask your manager for the move using skills and growth. Never mention the relationship."
+        },
+        {
+          "n": "3",
+          "title": "Give a date",
+          "desc": "Propose a start date after your current project ends. It shows you are not fleeing."
+        }
+      ],
+      "script": "<strong>\"After the migration ships in October I want to move to the platform team. I want to work on the pipeline side and Ravi has the gap. Can you back me?\"</strong>",
+      "watchFor": "Your manager starts talking about timing and backfill instead of asking why.",
+      "example": "Owen and his ex shared a manager and a standup. In week two he asked his manager for a move to the platform team, citing a skills gap and an October date. He moved in November. The team read it as ambition and nobody linked it to the breakup.",
+      "ifItFails": "Your manager says no or stalls past a month. Do not repeat the ask to the same person. Go sideways: build the relationship with the hiring manager on the target team and let them ask for you. Say to them: <strong>\"If a spot opens on your team in Q1, I want it. Would you ask for me?\"</strong> A pull is stronger than a push.",
+      "counter": "If your manager suggests you move teams right after a breakup, they already decided.\n• Notice the suggestion arrives as a favor to you.\n• Say: <strong>\"I will move, and I want to pick where.\"</strong>\n• Do not refuse outright. Refusing turns a transfer into a performance case.",
+      "insight": "Moving first costs you the network you built on that team. It buys you a clean version of the story. The next question is whether the new team already heard the old one."
+    },
+    {
+      "id": 15,
+      "cat": "aftermath",
+      "danger": "high",
+      "title": "Decide Whether the Job or the Person Survives",
+      "principle": "Sunk-Cost Anchoring × Machiavelli: Cut Losses Early",
+      "remember": "Pick one and pay for it. Holding both costs you both.",
+      "when": "The relationship is serious and one of you would have to give up a career step to keep it.",
+      "hook": "Most people refuse to choose and lose both slowly. <strong>Choosing early is cheaper than choosing late.</strong>",
+      "truth": "You are already paying for the delay in career moves you do not take.\n• Every promotion either of you skips is a payment nobody records.\n• The unspoken deal breeds resentment because nobody named the price.\n• Set a date and a number now, while you both still want the same thing.",
+      "theySee": "A partner who names the tradeoff out loud instead of waiting for it to explode.",
+      "signals": [
+        {
+          "icon": "🚧",
+          "l": "Skipped role",
+          "t": "One of you turned down a role to avoid the conflict"
+        },
+        {
+          "icon": "💤",
+          "l": "Unspoken deal",
+          "t": "Neither of you has said out loud who moves and when"
+        },
+        {
+          "icon": "😤",
+          "l": "Resentment tell",
+          "t": "One of you brings up the sacrifice during unrelated arguments"
+        },
+        {
+          "icon": "🧭",
+          "l": "Ceiling reached",
+          "t": "The only promotion left puts one of you over the other"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Deadline near",
+          "t": "A reorg or promotion cycle lands in the next quarter"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the price out loud",
+          "desc": "Say what each of you is giving up right now to stay in the same building. Use real roles and money."
+        },
+        {
+          "n": "2",
+          "title": "Set a decision date",
+          "desc": "Pick a month by which one of you leaves the company or the relationship changes shape."
+        },
+        {
+          "n": "3",
+          "title": "Start the outside search now",
+          "desc": "Whoever agreed to move should take three outside interviews before the date, not after."
+        }
+      ],
+      "script": "<strong>\"I turned down the team lead role because of us. I am not doing that twice. By March one of us is working somewhere else, and I would rather it be me and on my terms.\"</strong>",
+      "watchFor": "They stop reassuring you and start naming dates and companies.",
+      "example": "Nora and Cam both wanted the same director track. In January they named it: Cam would search outside by June. He landed a better role in May. They kept the relationship and neither of them ever had to explain a reporting line again.",
+      "ifItFails": "They agree in words and take no action by the date. Do not extend the date twice. Move yourself and tell them plainly: <strong>\"The date passed, so I started interviewing. I am not asking you to do it anymore.\"</strong> The person who acts first keeps the choice.",
+      "counter": "If your partner keeps saying they will move and never books an interview, count the months.\n• Notice promises that always sit one quarter away.\n• Say: <strong>\"Show me one interview on the calendar this month.\"</strong>\n• Do not run this on a partner who controls your visa or your pay.",
+      "insight": "Choosing early is cheap and choosing late is not. The harder question is what you do when you pick the job and then find out the person was the better asset."
+    }
+  ]
+}

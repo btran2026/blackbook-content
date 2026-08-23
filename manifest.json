@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 18,
+  "manifestVersion": 19,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -182,7 +182,20 @@
       "url": "playbooks/playbook-srv-art-of-a-womanizer.json",
       "addedAt": "2026-08-23T21:57:06.750Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-office-romance-without-the-fallout",
+      "title": "Office Romance Without the Fallout",
+      "theme": "workplace",
+      "topic": "",
+      "cardCount": 15,
+      "contentVersion": 1,
+      "coverColor": "#8B1E3F",
+      "coverIcon": "🔥",
+      "url": "playbooks/playbook-srv-office-romance-without-the-fallout.json",
+      "addedAt": "2026-08-23T23:16:07.125Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-23T21:57:06.750Z"
+  "generatedAt": "2026-08-23T23:16:07.125Z"
 }
