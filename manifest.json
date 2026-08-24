@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 19,
+  "manifestVersion": 20,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -195,7 +195,20 @@
       "url": "playbooks/playbook-srv-office-romance-without-the-fallout.json",
       "addedAt": "2026-08-23T23:16:07.125Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-promotion-war",
+      "title": "The Promotion War",
+      "theme": "promotion",
+      "topic": "",
+      "cardCount": 35,
+      "contentVersion": 1,
+      "coverColor": "#8B1E2D",
+      "coverIcon": "♟️",
+      "url": "playbooks/playbook-srv-the-promotion-war.json",
+      "addedAt": "2026-08-24T22:46:02.390Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-23T23:16:07.125Z"
+  "generatedAt": "2026-08-24T22:46:02.390Z"
 }

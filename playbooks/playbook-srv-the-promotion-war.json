@@ -1,0 +1,2044 @@
+{
+  "meta": {
+    "id": "srv-the-promotion-war",
+    "version": "1.0",
+    "title": "The Promotion War",
+    "subtitle": "How to win the ladder when someone else wants your rung",
+    "description": "A closed file on workplace advancement. How decisions about your promotion actually get made, who makes them in the room you are not in, and what to do about the rival who is already ahead of you. Twenty-five cards of field moves — sponsor capture, credit control, rival containment, and the endgame after you win.",
+    "author": "AI",
+    "createdAt": "2026-08-23T23:33:04.146Z",
+    "tags": [
+      "promotion",
+      "office politics",
+      "career",
+      "power",
+      "rivals",
+      "influence",
+      "status"
+    ],
+    "totalCards": 35,
+    "isSeeded": true,
+    "coverColor": "#8B1E2D",
+    "coverIcon": "♟️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "terrain",
+      "label": "Read the Terrain",
+      "color": "#4A5568"
+    },
+    {
+      "key": "sponsor",
+      "label": "Sponsor Capture",
+      "color": "#8B1E2D"
+    },
+    {
+      "key": "visibility",
+      "label": "Credit and Visibility",
+      "color": "#B7791F"
+    },
+    {
+      "key": "rivals",
+      "label": "Rival Containment",
+      "color": "#2C5282"
+    },
+    {
+      "key": "attacks",
+      "label": "Under Attack",
+      "color": "#553C9A"
+    },
+    {
+      "key": "endgame",
+      "label": "The Ask and After",
+      "color": "#276749"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "terrain",
+      "danger": "low",
+      "title": "Find Out Who Actually Decides Your Promotion",
+      "principle": "Pfeffer: Rule 3 — Build Power by Understanding the Real Org Chart",
+      "remember": "Your boss recommends. Someone else approves. Learn that name.",
+      "when": "You are working hard for your boss and assuming they can promote you.",
+      "hook": "Your boss cannot promote you alone. <strong>Somebody upstairs signs it, and they have never heard your name.</strong>",
+      "truth": "Promotions get decided in a room with eight people and a spreadsheet.\n• Your boss puts your name on a list and defends it for ninety seconds.\n• The other seven people vote on a reputation you did not build with them.\n• Most people spend a year impressing the one person who cannot decide.",
+      "theySee": "A person who asks smart questions about how the company works, not a person who wants something.",
+      "signals": [
+        {
+          "icon": "🗓️",
+          "l": "Calendar block",
+          "t": "Your boss disappears into a long meeting every quarter and comes back tired"
+        },
+        {
+          "icon": "📋",
+          "l": "Named list",
+          "t": "Someone mentions a talent review or a calibration meeting"
+        },
+        {
+          "icon": "🤐",
+          "l": "Vague answer",
+          "t": "Your boss says the decision is above them but will not say whose"
+        },
+        {
+          "icon": "🎲",
+          "l": "Surprise promo",
+          "t": "A peer got promoted and nobody on your team saw it coming"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask your boss who else votes",
+          "desc": "Say you want to understand the process. Ask which other leaders are in the room."
+        },
+        {
+          "n": "2",
+          "title": "Write the list of names",
+          "desc": "Write every name down. Mark who has met you and who has not."
+        },
+        {
+          "n": "3",
+          "title": "Get one meeting with one stranger",
+          "desc": "Ask your boss to introduce you to one name on the list this month."
+        }
+      ],
+      "script": "\"I want to be useful for longer here, so I want to understand the process. When my level comes up, <strong>who is in the room besides you?</strong> I would rather learn that now than the week before.\"",
+      "example": "Devon assumed his director controlled his promotion. He asked once and learned five VPs voted. Three had never met him. He got introduced to two of them over the next quarter and made the list the following cycle.",
+      "watchFor": "Your boss starts naming people and explaining what each one cares about.",
+      "ifItFails": "Your boss dodges and says \"just focus on your work.\" That is a signal, not an answer — they either do not know or do not want you talking upward. Go sideways instead: ask a recently promoted peer who interviewed them for the level. Say: \"You just went through this. Who did you end up having to convince?\"",
+      "counter": "If someone keeps you focused only on your own tasks, they are keeping you off the map.\n• Notice when every answer about promotion points back to them alone.\n• Say: \"Who else weighs in? I want to meet them early.\"\n• Build one relationship above your boss this quarter, quietly.",
+      "insight": "Knowing the room is cheap. The harder part is that once you know the names, you cannot un-know that you are a stranger to most of them — and you have maybe nine months to fix that."
+    },
+    {
+      "id": 2,
+      "cat": "terrain",
+      "danger": "low",
+      "title": "Find the Job Nobody Wants But Everyone Watches",
+      "principle": "Pfeffer: Rule 1 — Get Out of Your Own Way × Resource Dependence",
+      "remember": "Take the ugly project everyone important is watching.",
+      "when": "Your team has a broken project and nobody will put their hand up to own it.",
+      "hook": "Safe work makes you competent. <strong>Broken work makes you known.</strong>",
+      "truth": "Leaders remember whoever stood next to the fire, win or lose.\n• A broken project has senior attention already attached to it.\n• Nobody expects a fix, so any progress reads as a big win.\n• The trap is picking a project that is broken because it has no money or no power behind it.",
+      "theySee": "A person volunteering for the thing that made everyone else look at their shoes.",
+      "signals": [
+        {
+          "icon": "🔥",
+          "l": "Named in updates",
+          "t": "A VP mentions the project by name in two different meetings"
+        },
+        {
+          "icon": "🙈",
+          "l": "Nobody volunteers",
+          "t": "The room goes quiet when your boss asks who will own it"
+        },
+        {
+          "icon": "🔄",
+          "l": "Third owner",
+          "t": "The project has already had two owners in a year"
+        },
+        {
+          "icon": "💰",
+          "l": "Real budget",
+          "t": "The project still has money and headcount attached to it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check who watches it",
+          "desc": "Ask if any VP reports on this project. If no senior person asks about it, skip it."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the fix, not the job",
+          "desc": "Tell your boss you will take it for ninety days with a clear target."
+        },
+        {
+          "n": "3",
+          "title": "Send a status note upward in week two",
+          "desc": "Write five lines: what was broken, what you changed, what you need. Copy the VP who cares."
+        }
+      ],
+      "script": "\"I will take the migration. <strong>Ninety days, and I will report the number every two weeks.</strong> If it is still broken at day ninety, you can hand it to someone else and I will not argue.\"",
+      "example": "Priya took the billing project that had burned two managers. She cut the error rate from 9% to 1.2% in eleven weeks and sent a two-line update to the CFO every Friday. She was promoted in the next cycle over a peer with better reviews.",
+      "watchFor": "A senior leader replies to your update email directly instead of through your boss.",
+      "ifItFails": "The project is worse than advertised and you are sinking. Do not go quiet — silence is how owners three and four died. Report the real number early and name the thing you cannot fix: \"The error rate is stuck at 4% because two teams own the same table. I need you to pick one owner by Friday.\" Now the blocker belongs to them.",
+      "counter": "If your boss pushes a broken project at you and nobody senior is watching, they are dumping.\n• Ask who reports on it upward and how often. Silence is your answer.\n• Say: \"Who sees the results of this? I want to send them updates directly.\"\n• If nobody senior cares, pass. Do not use this on a project with no budget.",
+      "insight": "Visible failure beats invisible success, but only inside a limit. The real question is how many quarters you can run hot before you need one clean win to prove you finish things."
+    },
+    {
+      "id": 3,
+      "cat": "terrain",
+      "danger": "moderate",
+      "title": "Learn the Exact Words They Use for Your Level",
+      "principle": "Cialdini: Consistency × Institutional Script Matching",
+      "remember": "Speak their promotion language back to them word for word.",
+      "when": "You keep hearing you are doing great work but you are not moving up.",
+      "hook": "Every company has five words that unlock a level. <strong>If you do not say them, you did not qualify.</strong>",
+      "truth": "Promotion committees run on a written rubric and a tired reader.\n• The reader scans your packet for the exact words in the rubric.\n• Your accomplishments in your own words score as \"unclear scope.\"\n• Most people describe what they did. The winners describe it in the company's vocabulary.",
+      "theySee": "A person whose work sounds like it already belongs at the next level.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "Rubric exists",
+          "t": "HR has a leveling document nobody on your team has opened"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeated phrase",
+          "t": "Your skip-level uses the same phrase three times a month"
+        },
+        {
+          "icon": "❓",
+          "l": "Scope question",
+          "t": "Feedback says your impact was unclear even though the project shipped"
+        },
+        {
+          "icon": "📝",
+          "l": "Peer packet",
+          "t": "A promoted peer's write-up uses phrases you have never used"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get the leveling document",
+          "desc": "Ask HR or your boss for the written criteria for the next level. Read it twice."
+        },
+        {
+          "n": "2",
+          "title": "Underline the repeated verbs",
+          "desc": "Mark every verb that appears more than once. Those are the words that score."
+        },
+        {
+          "n": "3",
+          "title": "Rewrite your last three wins in those words",
+          "desc": "Send the rewritten version to your boss as your quarterly update."
+        }
+      ],
+      "script": "\"Can you send me the written criteria for the next level? I want to <strong>check my last quarter against it line by line</strong> and tell you where the gaps are before you have to.\"",
+      "example": "Marcus shipped two systems and got told his \"scope was unclear.\" He read the rubric, found the phrase \"drove cross-team alignment,\" and rewrote the same two projects using it. Same work, same year. He got the level.",
+      "watchFor": "Your boss copies your sentences into their own write-up without changing them.",
+      "ifItFails": "There is no written rubric, or HR will not share it. Then build it from evidence: ask two recently promoted people to send you their packets. Say: \"You just got through it. Can I read your write-up? I want to see what a passing one looks like.\" A real example beats a policy document anyway.",
+      "counter": "If someone praises your work but never uses level language about it, you are being kept comfortable.\n• Notice praise that is warm and vague: \"great job,\" \"real rock star.\"\n• Say: \"Against the criteria for the next level, where am I short?\"\n• Make them answer in the rubric's words or admit there is no plan.",
+      "insight": "The rubric is a translation problem, not a merit problem. What follows is harder: once you speak the language fluently, you find out whether the gap was ever really about your work."
+    },
+    {
+      "id": 4,
+      "cat": "terrain",
+      "danger": "moderate",
+      "title": "Count the Open Slots Before You Compete",
+      "principle": "Sun Tzu: Know the Ground — Terrain Before Tactics",
+      "remember": "Check how many spots exist before you fight for one.",
+      "when": "You and two strong peers are all clearly going for the same level.",
+      "hook": "You can win every argument and still lose because there was only one chair. <strong>Count chairs first.</strong>",
+      "truth": "Most promotion budgets are fixed before anyone is evaluated.\n• Finance sets a number of slots per team, per cycle, months in advance.\n• Your performance decides your rank, not whether a slot exists.\n• The move is not to outwork rivals. It is to find the team with a spare chair.",
+      "theySee": "A person asking practical questions about budget and headcount, like a manager would.",
+      "signals": [
+        {
+          "icon": "🪑",
+          "l": "One slot",
+          "t": "Only one person on your team got promoted in each of the last two cycles"
+        },
+        {
+          "icon": "📉",
+          "l": "Budget freeze",
+          "t": "Your boss mentions a hiring pause or a flat headcount plan"
+        },
+        {
+          "icon": "👥",
+          "l": "Crowded bench",
+          "t": "Three people at your level all have strong reviews"
+        },
+        {
+          "icon": "🚪",
+          "l": "Open seat elsewhere",
+          "t": "Another team just lost someone at the level you want"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask how many slots your team gets",
+          "desc": "Ask your boss directly how many promotions the team can fund this cycle."
+        },
+        {
+          "n": "2",
+          "title": "Count the people ahead of you",
+          "desc": "List peers at your level with strong reviews. That is your real queue."
+        },
+        {
+          "n": "3",
+          "title": "Look at one other team",
+          "desc": "Find a team with a vacancy at your target level. Ask for coffee with that manager."
+        }
+      ],
+      "script": "\"Straight question, no drama: <strong>how many promotions can this team fund this cycle?</strong> If the answer is one and Aisha is ahead of me, I would rather know now and plan around it.\"",
+      "example": "Tom found out his team had one slot and his peer had a two-year head start. He moved to the platform team, which had lost a senior engineer and had funded backfill. He was promoted eight months later instead of waiting three years.",
+      "watchFor": "Your boss hesitates, then gives you a number instead of a speech.",
+      "ifItFails": "Your boss will not give a number and calls the question inappropriate. Do not push them twice. Go around: ask a friendly recruiter or a finance partner how the headcount plan works. Then say to your boss: \"I hear the plan funds one at my level. If that is right, tell me where I sit in the order.\"",
+      "counter": "If a manager keeps you competing hard for a slot that does not exist, they are farming your effort.\n• Notice years of \"almost there\" with no peer ever promoted.\n• Say: \"How many people at my level has this team promoted in three years?\"\n• If the answer is zero, the problem is the chair, not you. Move teams.",
+      "insight": "Changing ground beats fighting harder on bad ground. The cost is that you restart your reputation from scratch, and the clock on a new team runs about two quarters before anyone will back you."
+    },
+    {
+      "id": 5,
+      "cat": "sponsor",
+      "danger": "moderate",
+      "title": "Get a Sponsor, Not Another Mentor",
+      "principle": "Hewlett: Sponsorship vs Mentorship × Pfeffer: Rule 4 — Build a Network",
+      "remember": "A mentor talks to you. A sponsor talks about you.",
+      "when": "You have people who give you career advice but nobody who fights for you.",
+      "hook": "Advice is free because it costs the giver nothing. <strong>You need somebody who will spend their own credit on your name.</strong>",
+      "truth": "A sponsor is a senior person who will lose something if you fail.\n• They argue for you in the room while you are not there.\n• They only do it if backing you makes them look smart.\n• Most people collect mentors, who feel good and change nothing.",
+      "theySee": "A person solving a problem the senior leader personally owns.",
+      "signals": [
+        {
+          "icon": "☕",
+          "l": "Advice only",
+          "t": "Your mentor gives you great advice and has never mentioned you to anyone"
+        },
+        {
+          "icon": "🎯",
+          "l": "They ask for you",
+          "t": "A senior leader requests you by name for a piece of work"
+        },
+        {
+          "icon": "📣",
+          "l": "Public credit",
+          "t": "Someone senior repeats your idea in a meeting and says your name"
+        },
+        {
+          "icon": "🛡️",
+          "l": "Defended once",
+          "t": "A leader pushed back when someone criticized your work"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one leader with a live problem",
+          "desc": "Find a senior person with a public goal that is behind. Read their last update."
+        },
+        {
+          "n": "2",
+          "title": "Deliver something they did not ask for",
+          "desc": "Solve one small piece of their problem and send it in under a page."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to use you again",
+          "desc": "Say you want more of this work. Do not ask for sponsorship yet."
+        }
+      ],
+      "script": "\"I saw the onboarding number is stuck at 40%. I pulled the drop-off data and <strong>found two screens causing half of it.</strong> One page attached. If it is useful, I would like to fix it.\"",
+      "example": "Nadia noticed a VP's retention target was missing by 12 points. She sent him a one-page teardown he never asked for. Three weeks later he pulled her into his staff meeting, and at the next talent review he argued for her level himself.",
+      "watchFor": "They forward your work to someone else with your name at the top.",
+      "ifItFails": "They take your work and say nothing. Do not send a second gift — that reads as need. Ask for a small return instead, one that costs them almost nothing but puts your name in their mouth: \"Would you introduce me to Dana? You mentioned she owns the next phase.\" A referral is the first real test of sponsorship.",
+      "counter": "If a senior person keeps giving you advice and never your name, you are their hobby, not their bet.\n• Notice long coffees with zero introductions after six months.\n• Say: \"What would you need to see before you would back me for the next level?\"\n• If the answer stays vague twice, stop investing. Find someone with a problem.",
+      "insight": "Sponsors buy you with their own reputation, which means they need you to win publicly. The next problem is that you now owe them, and the bill usually arrives as a job you did not want."
+    },
+    {
+      "id": 6,
+      "cat": "sponsor",
+      "danger": "moderate",
+      "title": "Make Your Boss Look Good to Their Boss",
+      "principle": "Greene: Law 1 — Never Outshine the Master",
+      "remember": "Feed your boss wins they can carry upstairs with their name on them.",
+      "when": "Your boss controls the first vote on your promotion and cares about their own standing.",
+      "hook": "Your boss is not judging your work. <strong>They are judging what your work does to their reputation.</strong>",
+      "truth": "Your manager gets measured by their team's results, not your talent.\n• Give them a number they can say out loud in their own review.\n• They start defending you because your win is their win.\n• The trap is doing it so loudly it looks like you want their job.",
+      "theySee": "A person who hands them a clean result they can report upward without editing.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "Number hunger",
+          "t": "Your boss asks for metrics right before their skip-level meeting"
+        },
+        {
+          "icon": "😰",
+          "l": "Pre-meeting stress",
+          "t": "They get tense on the day of their leadership review"
+        },
+        {
+          "icon": "🔁",
+          "l": "They repeat you",
+          "t": "Your framing shows up in their slides word for word"
+        },
+        {
+          "icon": "🎁",
+          "l": "Reciprocal ask",
+          "t": "They start asking what you need from them"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find out what they get measured on",
+          "desc": "Ask which three numbers their boss asks them about every month."
+        },
+        {
+          "n": "2",
+          "title": "Move one of those numbers",
+          "desc": "Pick the one you can touch. Change it and record the before and after."
+        },
+        {
+          "n": "3",
+          "title": "Hand it over the day before their review",
+          "desc": "Send two lines with the number and the cause. Say it is for their update."
+        }
+      ],
+      "script": "\"Before your review tomorrow — <strong>ticket backlog is down from 210 to 74 since March.</strong> Cause was the triage rule change. Use it however you want, no need to mention me.\"",
+      "example": "Sam learned his director was measured on deploy frequency. He automated one release step and pushed weekly deploys from 3 to 11. He handed the number over the night before the director's review. The director named him unprompted at the next talent meeting.",
+      "watchFor": "They start telling the story upward themselves, using your exact numbers.",
+      "ifItFails": "They take the number and never mention you anywhere. Stop giving gifts and start creating a record. Put the next number in a written update that goes to both your boss and their boss, with the work attributed once, flatly: \"Recap for the thread: triage rule change, backlog 210 to 74, shipped by me and Chen.\"",
+      "counter": "If someone keeps handing you wins and asking for nothing, they are building a debt.\n• Notice a peer who is generous with credit and quiet about their goal.\n• Say: \"This helps me. What do you want out of this quarter?\"\n• Pay it back small and early. An unpaid debt is what they will spend later.",
+      "insight": "Making your boss look good works right up to the moment they realize you could replace them. The next card in this file is the one about what to do when they start slowing you down."
+    },
+    {
+      "id": 7,
+      "cat": "sponsor",
+      "danger": "high",
+      "title": "Build a Second Line to Your Skip-Level",
+      "principle": "Machiavelli: The Prince — Do Not Depend on One Patron",
+      "remember": "One boss is a single point of failure. Build a second door.",
+      "when": "Your entire career depends on one manager's opinion of you.",
+      "hook": "Managers leave, get fired, or turn on you. <strong>If your name only lives in one person's mouth, you are one reorg from invisible.</strong>",
+      "truth": "A single channel to power is a channel someone else can close.\n• A skip-level relationship gives your name a second route into the room.\n• Your boss becomes one voice among several, not the gate.\n• Do it clumsily and it reads as going around them. Then they fight you.",
+      "theySee": "A person their skip-level already knows and speaks well of, which is awkward to argue with.",
+      "signals": [
+        {
+          "icon": "🚧",
+          "l": "Gatekeeping",
+          "t": "Your boss forwards your updates upward instead of letting you present"
+        },
+        {
+          "icon": "🙅",
+          "l": "Blocked intro",
+          "t": "They say the skip-level is too busy for a short meeting"
+        },
+        {
+          "icon": "👂",
+          "l": "Skip knows you",
+          "t": "Your skip-level mentions a detail about your work you never told them"
+        },
+        {
+          "icon": "🔀",
+          "l": "Reorg rumor",
+          "t": "People start talking about a team restructure"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask your boss to open the door",
+          "desc": "Ask them to introduce you. Doing it through them removes the threat."
+        },
+        {
+          "n": "2",
+          "title": "Bring one problem, not a resume",
+          "desc": "In the meeting, ask about their biggest blocker. Do not sell yourself."
+        },
+        {
+          "n": "3",
+          "title": "Send one short follow-up a month",
+          "desc": "Three lines on the thing they cared about. Copy your boss every time."
+        }
+      ],
+      "script": "(To your boss) \"I want to understand what Priya's team is chasing this year so I stop guessing. <strong>Would you set up twenty minutes with the three of us,</strong> and then I will keep her posted on the migration directly with you copied?\"",
+      "example": "Rachel's director blocked her from senior meetings for a year. She asked him to introduce her to his VP for a single project sync, then sent the VP a three-line update monthly with her director copied. When her director left, the VP already had a view of her and moved her up in the same cycle.",
+      "watchFor": "Your skip-level replies to your update directly and asks a follow-up question.",
+      "ifItFails": "Your boss refuses the introduction and gets cold about it. Stop asking — you have your answer, and now you know your boss is the obstacle. Use neutral ground instead: join a cross-team working group your skip-level attends. Say in that room: \"I own the migration piece. I will send a weekly note to this group.\" Now the channel exists and nobody granted it.",
+      "counter": "If your manager insists all communication upward goes through them, you are being contained.\n• Notice that you never present your own work to their boss.\n• Say: \"I would like to present this piece myself next time. Same slides.\"\n• Do not use this on a manager who signs your review and already distrusts you. Wait for a project that needs a cross-team room.",
+      "insight": "Two channels beat one, and three beat two. The harder problem is keeping your boss comfortable while you build them, because a manager who feels bypassed will move against you before your second channel is strong."
+    },
+    {
+      "id": 8,
+      "cat": "sponsor",
+      "danger": "moderate",
+      "title": "Ask for a Favor to Make Them Like You",
+      "principle": "Cialdini: Consistency × The Benjamin Franklin Effect",
+      "remember": "Ask a busy senior person for a small favor. They invest in you.",
+      "when": "You need a senior leader to notice you and you have nothing to offer them yet.",
+      "hook": "You cannot win over a powerful stranger by being useful — they have a hundred useful people. <strong>Get them to spend five minutes on you instead.</strong>",
+      "truth": "People trust whoever they have already invested in.\n• A small favor makes them explain their own choice to themselves.\n• Their brain settles on: I helped that one because they are worth helping.\n• Ask too big and it reverses. Then you are a cost, not an investment.",
+      "theySee": "A person who values their opinion enough to ask for it, and who came prepared.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "They gave time",
+          "t": "They agreed to a short meeting without pushing it out a month"
+        },
+        {
+          "icon": "✍️",
+          "l": "They edited",
+          "t": "They marked up your document instead of saying it looked fine"
+        },
+        {
+          "icon": "🔁",
+          "l": "They follow up",
+          "t": "They ask you later how the thing they advised turned out"
+        },
+        {
+          "icon": "🗣️",
+          "l": "They claim you",
+          "t": "They describe you to someone else as \"someone I have been helping\""
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a favor that costs ten minutes",
+          "desc": "Ask them to review one page or answer one specific question. Nothing bigger."
+        },
+        {
+          "n": "2",
+          "title": "Make it about their expertise",
+          "desc": "Name the exact reason you asked them and not somebody else."
+        },
+        {
+          "n": "3",
+          "title": "Report back what you did with it",
+          "desc": "Within two weeks, tell them what changed because of their advice."
+        }
+      ],
+      "script": "\"You built the pricing model everyone still uses. I have a one-page proposal and I keep second-guessing the assumptions. <strong>Would you spend ten minutes marking up the ugly parts?</strong>\"",
+      "example": "Leo asked a distant VP to review one page on pricing assumptions. She sent back four comments. He implemented three and emailed her the result two weeks later. She started copying him on strategy threads and later put his name forward for a stretch role.",
+      "watchFor": "They give you more time than you asked for and start telling you a story about their own career.",
+      "ifItFails": "They ignore the ask or send back one word. Do not chase and do not apologize. Close the loop anyway a month later with the result — that costs them nothing and puts you back in view: \"You did not need to reply, but I shipped the change we talked about and it moved conversion 4 points. Thank you.\" People answer a thank-you they did not earn.",
+      "counter": "If a junior person keeps asking you for small favors, they are building a claim on you.\n• Notice the pattern: little asks, warm follow-ups, growing familiarity.\n• Say: \"Happy to. What are you actually going for here?\"\n• Decide once whether you want to back them. Do not drift into it.",
+      "insight": "Getting help makes people like you more than giving help does. The next question is what you do when they finally ask for something back and it is not convenient."
+    },
+    {
+      "id": 9,
+      "cat": "visibility",
+      "danger": "low",
+      "title": "Send the Weekly Note Nobody Asked For",
+      "principle": "Zajonc: Mere Exposure × Availability Heuristic",
+      "remember": "A short weekly update makes people remember you when it counts.",
+      "when": "You do good work but senior people cannot describe what you do.",
+      "hook": "At promotion time, they can only argue for what they remember. <strong>Memory is built weekly, not in one big presentation.</strong>",
+      "truth": "Decision makers back the name that comes to mind fastest.\n• A five-line weekly note puts your name in their inbox 50 times a year.\n• They begin to feel they know your work without ever reviewing it.\n• The trap is writing a long status report. Nobody reads past line six.",
+      "theySee": "A person who is organized, low-maintenance, and always shipping something.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Wrong description",
+          "t": "A senior leader describes your job incorrectly in a meeting"
+        },
+        {
+          "icon": "🕳️",
+          "l": "Skipped in credit",
+          "t": "Your project gets praised and someone else's name is attached"
+        },
+        {
+          "icon": "📬",
+          "l": "Replies start",
+          "t": "Someone replies to your note with a question about line three"
+        },
+        {
+          "icon": "📢",
+          "l": "Quoted back",
+          "t": "You hear your own phrasing repeated in a meeting you were not in"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write five lines every Friday",
+          "desc": "Shipped, numbers, blocked, next week, one ask. Nothing else."
+        },
+        {
+          "n": "2",
+          "title": "Send it to three people",
+          "desc": "Your boss, your skip-level, and one leader in another team who touches your work."
+        },
+        {
+          "n": "3",
+          "title": "Keep every one in a folder",
+          "desc": "At review time you have a dated record instead of a memory."
+        }
+      ],
+      "script": "\"Friday note. <strong>Shipped:</strong> new triage rule, live Wednesday. <strong>Number:</strong> backlog 210 → 74. <strong>Blocked:</strong> need a decision on data owner. <strong>Next:</strong> auto-routing. <strong>Ask:</strong> ten minutes with you Tuesday.\"",
+      "example": "Elena sent a five-line Friday note to her VP for seven months. She never asked for anything big. In the promotion meeting, the VP was the one who said \"she has been running that migration since March\" — the only person in the room who could describe her work.",
+      "watchFor": "Someone quotes a line from your note back to you weeks later.",
+      "ifItFails": "Nobody replies for a month and you feel foolish. Silence is not failure here — inbox presence works without replies. But add one hook: put a real question in the ask line that only they can answer. \"Ask: do you want auto-routing before or after the audit? I will go with your call.\" A decision request gets answered when a status update does not.",
+      "counter": "If a peer sends constant updates upward, they are building a record you do not have.\n• Notice whose name leaders use when describing shared work.\n• Say in the shared channel: \"Adding to that — I owned the routing piece.\"\n• Start your own note the same week. Do not complain about theirs.",
+      "insight": "Being remembered beats being right. The harder part is that once leaders can describe your work, they start assigning you more of the same — and you have to steer what they remember, not just how often."
+    },
+    {
+      "id": 10,
+      "cat": "visibility",
+      "danger": "moderate",
+      "title": "Take Credit in the Room Without Sounding Like It",
+      "principle": "Pfeffer: Rule 5 — Make Your Power Visible",
+      "remember": "Say what you did in one flat sentence. Then stop talking.",
+      "when": "Your work gets praised in a meeting and nobody says your name.",
+      "hook": "Modesty is a tax you pay to people who will not pay you back. <strong>State the fact and move on.</strong>",
+      "truth": "Credit gets assigned by whoever speaks first, not by who did the work.\n• A flat factual sentence sets the record without triggering the room.\n• People accept plain facts. They resist a story about how hard you worked.\n• The trap is over-explaining. Length signals insecurity and invites doubt.",
+      "theySee": "A person calmly adding a fact, not a person defending themselves.",
+      "signals": [
+        {
+          "icon": "🫥",
+          "l": "Passive credit",
+          "t": "Someone says the project \"got done\" with no name attached"
+        },
+        {
+          "icon": "🎤",
+          "l": "Summary theft",
+          "t": "A peer summarizes your work at the top of the meeting"
+        },
+        {
+          "icon": "👤",
+          "l": "Wrong owner",
+          "t": "A leader thanks the wrong person for your result"
+        },
+        {
+          "icon": "🤏",
+          "l": "Team language",
+          "t": "Your solo work keeps getting described as \"the team's\""
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Prepare one sentence before the meeting",
+          "desc": "Write it out: what you built, the number, done. Under fifteen words."
+        },
+        {
+          "n": "2",
+          "title": "Say it right after the praise lands",
+          "desc": "Do not wait for a gap. Add it directly onto the compliment."
+        },
+        {
+          "n": "3",
+          "title": "Hand credit to one other person",
+          "desc": "Name someone real who helped. It stops you sounding like you are grabbing."
+        }
+      ],
+      "script": "\"Glad it landed. <strong>I built the routing layer, Chen did the tests.</strong> Next thing on it is the audit — I will bring numbers Thursday.\"",
+      "example": "Anika's director praised \"the team\" for a launch she had built alone over six weeks. She said nine words: \"I built the pipeline, Raj ran the rollout.\" The director corrected himself in the follow-up email. Two peers copied the move within a month.",
+      "watchFor": "The senior person writes your name down or repeats it back in the same meeting.",
+      "ifItFails": "Someone talks over you or says \"well, it was really a group effort.\" Do not fight it in the room. Put it in writing within the hour, where written records outrank memory: send the recap to the same group with the split named once, no complaint. \"Recap for the thread: routing layer — me, tests — Chen, rollout — Raj. Audit numbers Thursday.\"",
+      "counter": "If a peer states credit flatly and fast, they are setting the record before you can.\n• Notice who speaks in the first ten seconds after praise.\n• Say: \"Right, and I owned the piece that fed into that.\"\n• Speak within the same minute. After the meeting, it is already lost.",
+      "insight": "Facts stated once win. Facts stated twice sound like a complaint. The real trap is the person who never grabs credit loudly but always writes the recap email — that person is beating you quietly."
+    },
+    {
+      "id": 11,
+      "cat": "visibility",
+      "danger": "moderate",
+      "title": "Own the Recap Email After Every Meeting",
+      "principle": "Schelling: Focal Point × Documentation as Power",
+      "remember": "Whoever writes the summary decides what happened.",
+      "when": "Decisions in your meetings keep getting remembered differently later.",
+      "hook": "Meetings are noise. <strong>The email after the meeting is the only version anybody will read again.</strong>",
+      "truth": "The written record beats everyone's memory within about three days.\n• You choose which decisions were made and who owns what.\n• Nobody argues with a recap unless it hurts them directly.\n• Do it fairly the first ten times. Then nobody questions the eleventh.",
+      "theySee": "A person being helpful and organized, saving everyone the work of remembering.",
+      "signals": [
+        {
+          "icon": "🌀",
+          "l": "Disputed decision",
+          "t": "Two people leave the same meeting with different conclusions"
+        },
+        {
+          "icon": "📎",
+          "l": "No notes",
+          "t": "Nobody takes notes and the action items evaporate"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat debate",
+          "t": "The same question gets argued again two weeks later"
+        },
+        {
+          "icon": "📨",
+          "l": "Forwarded up",
+          "t": "Someone forwards your recap to their own boss"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send it within one hour",
+          "desc": "Speed decides whose version becomes the record. Beat everyone else."
+        },
+        {
+          "n": "2",
+          "title": "List decisions and owners only",
+          "desc": "Three decisions, three names, three dates. Skip the discussion."
+        },
+        {
+          "n": "3",
+          "title": "Include your own name as owner once",
+          "desc": "Attach yourself to the decision you want associated with your level."
+        }
+      ],
+      "script": "\"Recap so we do not redo this: <strong>1) We ship auto-routing first — I own it, Oct 3. 2) Audit moves to Q4 — Dana owns. 3) No decision yet on data ownership.</strong> Shout if I got any of it wrong.\"",
+      "example": "Julian started sending recaps after a weekly cross-team sync where decisions kept reversing. Within two months, three other teams cited his emails as the source of record. When a dispute reached the VP, the VP asked \"what did Julian's recap say?\"",
+      "watchFor": "People start quoting your recap in later meetings instead of arguing from memory.",
+      "ifItFails": "A senior person edits your recap to remove your name or shift ownership. Do not re-edit it back — you will lose that fight publicly. Take the next meeting instead: volunteer to run the agenda. \"I will put the agenda together and send the recap after. Send me items by Monday.\" Agenda control beats recap control.",
+      "counter": "If someone always sends the recap, they control what the company remembers.\n• Notice a recap where your contribution turned into \"the team.\"\n• Reply to the whole thread within the hour: \"One correction — I owned the routing piece.\"\n• Correct fast and once. A late correction reads as sour.",
+      "insight": "Written records beat spoken ones, and fast records beat accurate ones. The next problem is that once you own the record, everyone reads your bias in it — and one obviously self-serving recap burns all the ones before it."
+    },
+    {
+      "id": 12,
+      "cat": "visibility",
+      "danger": "moderate",
+      "title": "Present Your Own Work to the People Above You",
+      "principle": "Pfeffer: Rule 5 — Make Power Visible × Direct Exposure",
+      "remember": "Never let someone else present the work you did.",
+      "when": "Your boss presents your project to leadership and you stay in your seat.",
+      "hook": "Every layer between you and the decision maker is a layer that can erase you. <strong>Get in the room.</strong>",
+      "truth": "Leaders promote people they have watched handle pressure.\n• Presenting shows judgment, not just output. Nobody can relay that.\n• Ten minutes in front of a VP outweighs a year of good reviews.\n• The trap is asking for stage time instead of offering to save your boss work.",
+      "theySee": "A manager getting an offer to hand off a slide they did not want to prepare.",
+      "signals": [
+        {
+          "icon": "🎭",
+          "l": "Proxy presenting",
+          "t": "Your boss presents your slides and answers questions about your work"
+        },
+        {
+          "icon": "❓",
+          "l": "Relay failure",
+          "t": "Your boss cannot answer a detailed question and says they will follow up"
+        },
+        {
+          "icon": "🚪",
+          "l": "Not invited",
+          "t": "You are not on the invite for the review of your own project"
+        },
+        {
+          "icon": "👋",
+          "l": "Direct question",
+          "t": "A VP emails you directly instead of going through your boss"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Offer to take one slide",
+          "desc": "Tell your boss you will present the technical slide so they can focus on the rest."
+        },
+        {
+          "n": "2",
+          "title": "Rehearse the two hardest questions",
+          "desc": "Write the two worst questions and your answers. Say them out loud once."
+        },
+        {
+          "n": "3",
+          "title": "Answer short and stop",
+          "desc": "Give the number and the reason in two sentences. Do not fill silence."
+        }
+      ],
+      "script": "\"You have six slides for Thursday. <strong>I will take the migration one so you do not have to prep it</strong> — I can answer the detail questions live. You keep the framing and the ask.\"",
+      "example": "Karim's manager always presented his work. He offered to take one slide off her plate for a quarterly review. He answered a hard question from the CTO in two sentences. The CTO asked for him by name on the next project.",
+      "watchFor": "A senior leader asks you a follow-up question directly instead of asking your boss.",
+      "ifItFails": "Your boss says no and keeps the whole deck. Do not argue about fairness. Make yourself the required attendee instead: \"Then I should be in the room for the Q&A — the data questions will come to me anyway and you should not have to take them.\" Being in the room is 80% of it. Do not run this on a boss who already feels threatened by you; wait for a review where they are underwater on prep.",
+      "counter": "If your manager always presents your work and never brings you, they are farming your output.\n• Notice you are missing from meetings about projects you own.\n• Say: \"I will take the detail questions in the room so you do not have to.\"\n• If they refuse twice, they are protecting their position, not the agenda. Plan a move.",
+      "insight": "Ten minutes of exposure beats a year of quiet delivery. What comes next is harder: once they see you, they compare you to the person one level up, and that comparison starts whether you are ready or not."
+    },
+    {
+      "id": 13,
+      "cat": "rivals",
+      "danger": "moderate",
+      "title": "Work Out What Your Rival Actually Wants",
+      "principle": "Sun Tzu: Know Your Enemy × Greene: Law 43 — Work on Hearts and Minds",
+      "remember": "Find out what your rival wants. It may not be your job.",
+      "when": "A strong peer is clearly competing with you for the same level.",
+      "hook": "You assume they want what you want. <strong>Half the time they want something you would happily give them.</strong>",
+      "truth": "Most rivalries are accidents of assumption, not real conflicts.\n• Learn their actual goal: money, title, a specific team, or a visa.\n• If their goal differs from yours, you can trade instead of fight.\n• The trap is fighting a two-year war over a chair they never wanted.",
+      "theySee": "A peer being unusually direct and curious about their plans, not their weaknesses.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Different focus",
+          "t": "They keep volunteering for work that does not lead to your level"
+        },
+        {
+          "icon": "💬",
+          "l": "Money talk",
+          "t": "They mention pay bands more than titles"
+        },
+        {
+          "icon": "🧳",
+          "l": "Team envy",
+          "t": "They talk about another team's work with obvious interest"
+        },
+        {
+          "icon": "⏳",
+          "l": "Time pressure",
+          "t": "They mention a visa, a move, or a personal deadline"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask them directly over lunch",
+          "desc": "Ask what they want in two years. Most people answer honestly when asked plainly."
+        },
+        {
+          "n": "2",
+          "title": "Compare their answer to yours",
+          "desc": "Write both goals side by side. Mark where they actually collide."
+        },
+        {
+          "n": "3",
+          "title": "Offer a trade if they do not",
+          "desc": "Give them the piece they want. Take the piece that maps to your level."
+        }
+      ],
+      "script": "\"Straight question. <strong>What do you actually want in two years — the title, the money, or a different kind of work?</strong> I am asking because I would rather we split the work than trip over each other.\"",
+      "example": "Grace assumed Ben was after her manager role. Over lunch he said he wanted to move into data science and cared mostly about pay. She gave him the analytics workstream and took the people-leading one. Both got promoted in the same cycle, different tracks.",
+      "watchFor": "They answer in specifics — a number, a team name, a date — instead of a vague ambition.",
+      "ifItFails": "They give you a smooth non-answer and stay competitive. Now you know it is real. Stop sharing information with them and watch what they volunteer for — that is the honest answer. Say to your boss instead: \"Ben and I are both aiming at the same level. I would rather you split our scope clearly than have us overlap.\" Let the split come from above.",
+      "counter": "If a rival asks you what you want, they are mapping your goal to plan around it.\n• Notice a friendly peer asking career questions and sharing nothing back.\n• Say: \"Depends on the year. What are you going for?\"\n• Answer one level less specific than they did. Make them go first.",
+      "insight": "Most rivals are not enemies, just people standing near your chair. The harder case is the one who wants exactly what you want and is better at this than you — that is the next section of this file."
+    },
+    {
+      "id": 14,
+      "cat": "rivals",
+      "danger": "high",
+      "title": "Let Your Strongest Rival Take the Doomed Project",
+      "principle": "Greene: Law 7 — Get Others to Do the Work × Sun Tzu: Attack Where They Cannot Defend",
+      "remember": "Point your rival at the project that cannot succeed.",
+      "when": "A high-visibility project is quietly unwinnable and your rival wants attention.",
+      "hook": "You do not have to beat a strong rival. <strong>You just have to be somewhere else when they lose.</strong>",
+      "truth": "An ambitious person will take any project with senior eyes on it.\n• Praise the project's visibility to them. Never mention the risk.\n• They volunteer, believing they outmaneuvered you for it.\n• The trap is showing enthusiasm. Reluctance sells it better than praise.",
+      "theySee": "A peer who clearly wanted the shiny project and just lost it to them.",
+      "signals": [
+        {
+          "icon": "☠️",
+          "l": "Structural block",
+          "t": "The project needs a decision two VPs have refused to make for a year"
+        },
+        {
+          "icon": "👁️",
+          "l": "High attention",
+          "t": "Leadership asks about it constantly but funds nothing"
+        },
+        {
+          "icon": "🏃",
+          "l": "Rival hunger",
+          "t": "Your rival keeps asking to be in senior meetings"
+        },
+        {
+          "icon": "🕳️",
+          "l": "No owner survives",
+          "t": "Two people have already owned it and moved teams after"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Confirm it truly cannot be won",
+          "desc": "Check what blocks it. If the blocker is a person's refusal, it is unwinnable."
+        },
+        {
+          "n": "2",
+          "title": "Show mild interest, then step back",
+          "desc": "Say you were considering it but your current work makes the timing bad."
+        },
+        {
+          "n": "3",
+          "title": "Take the boring project with a clear finish",
+          "desc": "Pick work you can complete and measure while they burn."
+        }
+      ],
+      "script": "\"I was going to put my hand up for the platform rewrite — <strong>it is the one everyone upstairs watches</strong> — but I cannot drop the migration mid-quarter. You should take it.\"",
+      "example": "Owen wanted the data-unification project until he learned two VPs had refused to name a single owner for the source data. He mentioned to his rival how much airtime it got, then took the boring cost-cutting project. His rival spent nine months producing nothing. Owen cut spend 18% and got the level.",
+      "watchFor": "They ask your boss for the project within a week and mention the visibility.",
+      "ifItFails": "They take it and somehow succeed, or leadership finally unblocks it. Do not sulk and do not undermine it — that is how you get caught. Attach yourself to the win late and cheaply instead: offer the one piece they cannot staff. Say: \"You will need someone to own the data contract. I will take it if it helps.\" Half a shared win beats a clean loss. Do not run this move if you would be the one asked to rescue the project.",
+      "counter": "If a peer talks up a project's visibility and then declines it, check why they declined.\n• Notice enthusiasm that stops short of them actually taking it.\n• Ask the last owner: \"Why did you leave it? What is actually blocking it?\"\n• If the blocker is a person, not the work, pass and say so out loud.",
+      "insight": "You win more promotions by avoiding losses than by chasing wins. The trap is that a reputation for only taking safe work catches up with you in about two cycles."
+    },
+    {
+      "id": 15,
+      "cat": "rivals",
+      "danger": "high",
+      "title": "Make an Ally of the Rival You Cannot Beat",
+      "principle": "Machiavelli: The Prince — Ally With the Stronger When You Cannot Win",
+      "remember": "If you cannot beat them this cycle, tie your name to theirs.",
+      "when": "A peer is clearly ahead of you and will get the promotion first.",
+      "hook": "Fighting a stronger rival costs you both. <strong>Standing next to them costs you nothing and buys you their next opening.</strong>",
+      "truth": "The person promoted before you leaves a chair behind and gains a vote.\n• Back them publicly and early, before the result is obvious.\n• They remember who supported them when it was still uncertain.\n• The trap is supporting them after they have already won. That reads as fear.",
+      "theySee": "A capable peer choosing to back them instead of fighting, which they did not expect.",
+      "signals": [
+        {
+          "icon": "📈",
+          "l": "Clear lead",
+          "t": "Leadership names them first when they talk about the team"
+        },
+        {
+          "icon": "🕰️",
+          "l": "Head start",
+          "t": "They have two more years at the level than you"
+        },
+        {
+          "icon": "🪑",
+          "l": "Chair opens",
+          "t": "Their promotion would leave their current scope unowned"
+        },
+        {
+          "icon": "🤝",
+          "l": "Open to allies",
+          "t": "They ask for help on something they cannot cover alone"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Back them out loud once",
+          "desc": "In a meeting, say their work is the strongest thing the team shipped."
+        },
+        {
+          "n": "2",
+          "title": "Ask for their current scope",
+          "desc": "Tell them you will take the piece they must drop when they move up."
+        },
+        {
+          "n": "3",
+          "title": "Get them to say it to your boss",
+          "desc": "Ask them to name you as the successor for their work."
+        }
+      ],
+      "script": "\"You are going up this cycle and we both know it. <strong>When you move, I want the payments scope.</strong> Tell Dana I am the one to hand it to and I will make sure you never get pulled back into it.\"",
+      "example": "Nina was two years behind Kofi and knew it. She backed him publicly, then asked him to name her as successor for his workstream. He did, because it protected him from being dragged back. She inherited his scope in March and got promoted the following cycle on it.",
+      "watchFor": "They say your name to your boss without you being in the room.",
+      "ifItFails": "They take your support and name someone else as successor. Do not confront them. Go straight to the scope owner and claim the work before the handover is written: \"Kofi is moving up. Payments needs an owner Monday. I have been in that code for a year — I will take it.\" Speed beats permission on an unowned scope.",
+      "counter": "If a peer suddenly backs you hard right before a promotion cycle, they are buying your next chair.\n• Notice public support arriving exactly when the result is still uncertain.\n• Say: \"Thanks. What do you want when I move?\"\n• Name the trade openly. An unspoken debt gets collected at the worst time.",
+      "insight": "Second place in a two-person race is a good position if you claim the ground they leave. The harder question is whether you can hold that ground once you are the one everybody is measuring."
+    },
+    {
+      "id": 16,
+      "cat": "rivals",
+      "danger": "extreme",
+      "title": "Beat the Rival Who Only Wins in Meetings",
+      "principle": "Schopenhauer: The Art of Controversy — Shift From Rhetoric to Record",
+      "remember": "Move the fight from talking to numbers. Talkers lose there.",
+      "when": "A peer with weaker results keeps outshining you because they talk better.",
+      "hook": "They win because the meeting is their home ground. <strong>Change the ground.</strong>",
+      "truth": "Talkers depend on live rooms where nobody checks the claim.\n• Ask for a number in the meeting, calmly, without accusation.\n• They cannot produce it live, and the room notices the gap.\n• The trap is attacking their style. Attack the missing number instead.",
+      "theySee": "A colleague asking a simple factual question, which is impossible to call an attack.",
+      "signals": [
+        {
+          "icon": "🎙️",
+          "l": "Room dominance",
+          "t": "They speak first and longest in every leadership meeting"
+        },
+        {
+          "icon": "🌫️",
+          "l": "No numbers",
+          "t": "Their updates use words like momentum and traction, never figures"
+        },
+        {
+          "icon": "🏗️",
+          "l": "Thin delivery",
+          "t": "Their shipped list is short but their reputation is large"
+        },
+        {
+          "icon": "😶",
+          "l": "Deflect on detail",
+          "t": "They redirect when someone asks how something actually works"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for one number in the room",
+          "desc": "Ask what the current figure is. Ask once, plainly, then stop talking."
+        },
+        {
+          "n": "2",
+          "title": "Bring your own number every time",
+          "desc": "Open every update with a figure and a date. Make it your habit, not a reaction."
+        },
+        {
+          "n": "3",
+          "title": "Push for a written scoreboard",
+          "desc": "Suggest the team track two shared metrics in a doc everyone can see."
+        }
+      ],
+      "script": "\"Quick one so I can line up my work — <strong>what is the current number on that?</strong> Mine is 74, down from 210 since March. I want to know if we are measuring the same way.\"",
+      "example": "Dana's peer talked his way into every leadership meeting on a project with no results. She asked for his conversion number twice, in two meetings, without any edge in her voice. He gave a range both times. The VP started asking him for figures directly, and he stopped presenting within two months.",
+      "watchFor": "The senior person in the room asks them the follow-up question instead of you.",
+      "ifItFails": "They produce a fake-sounding number and the room accepts it. Do not challenge it live — that makes you the aggressor. Put the real figures in a written place where they cannot be improvised: start a shared metrics doc and send it to the group. \"Put together a live dashboard for both workstreams so nobody has to remember numbers in meetings. Link inside.\" Do not run this on a rival who is close to the person who signs your review.",
+      "counter": "If someone starts asking you for specific numbers in public, they are moving you onto ground you cannot hold.\n• Notice a peer opening every update with a figure and a date.\n• Say: \"I will send the exact figure today\" — then actually send it within the hour.\n• Never guess a number out loud. One wrong figure ends your credibility.",
+      "insight": "Numbers beat charm in writing and lose to charm in a room. The real fight is over which format the decision gets made in, and that is usually decided before anyone speaks."
+    },
+    {
+      "id": 17,
+      "cat": "rivals",
+      "danger": "high",
+      "title": "Cut a Rival Off From the Person They Feed",
+      "principle": "Greene: Law 42 — Strike the Shepherd × Coalition Warfare",
+      "remember": "Your rival has one backer. Get closer to that backer than they are.",
+      "when": "A rival's whole position rests on one senior person who champions them.",
+      "hook": "Their power is borrowed. <strong>Borrowed power has a lender, and lenders can be talked to.</strong>",
+      "truth": "A rival with one sponsor has a single point of failure.\n• Become useful to their sponsor directly, on the sponsor's actual problem.\n• The sponsor now has two options and your rival's value drops.\n• Never criticize the rival to the sponsor. That marks you and protects them.",
+      "theySee": "A capable person solving their problem, standing next to the person they already back.",
+      "signals": [
+        {
+          "icon": "🧲",
+          "l": "Single patron",
+          "t": "One leader mentions your rival by name in every meeting"
+        },
+        {
+          "icon": "🚀",
+          "l": "Unearned scope",
+          "t": "Your rival gets big projects that do not match their results"
+        },
+        {
+          "icon": "🔒",
+          "l": "Closed loop",
+          "t": "Your rival meets that leader weekly and nobody else does"
+        },
+        {
+          "icon": "🧩",
+          "l": "Unsolved problem",
+          "t": "That leader has a public goal that is behind schedule"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the sponsor's real problem",
+          "desc": "Read their goals. Find the one that is behind and nobody is fixing."
+        },
+        {
+          "n": "2",
+          "title": "Deliver on it without being asked",
+          "desc": "Ship one piece and send it directly to them. Keep it to one page."
+        },
+        {
+          "n": "3",
+          "title": "Never mention the rival",
+          "desc": "Say nothing about them, ever. Let the comparison happen on its own."
+        }
+      ],
+      "script": "\"You said in the all-hands that support cost per ticket is the number you are watching. <strong>I cut ours 31% with the triage change.</strong> Here is the one-pager. Happy to run the same play for the other three teams.\"",
+      "example": "Yusuf's rival had one VP backing him and nothing else. Yusuf found the VP's stalled cost target, cut ticket cost 31%, and sent one page. Within two months the VP was asking Yusuf into the same meetings. The rival's scope was reassigned at the next planning cycle.",
+      "watchFor": "The sponsor starts inviting you to the meeting your rival used to attend alone.",
+      "ifItFails": "The sponsor stays loyal and forwards your work to your rival to execute. That is a warning: you are being used as their supply. Stop sending finished work and start sending choices instead. Say: \"I have two ways to do the next phase. Fifteen minutes to pick one and I will run it.\" Access, not output, is what you are trading for.",
+      "counter": "If someone starts serving your sponsor directly and never mentions you, they are replacing you.\n• Notice a peer appearing in your sponsor's meetings uninvited by you.\n• Say to your sponsor: \"I want to own the whole cost workstream, not a slice.\"\n• Widen your own base fast. One sponsor is how you got exposed. Do not use this move if the sponsor is also your rival's family friend or long-time colleague — loyalty that old does not move.",
+      "insight": "Attacking the rival is loud and traceable. Serving their backer is quiet and permanent. The next problem is that you have now inherited their sponsor's expectations, and those come with a delivery schedule."
+    },
+    {
+      "id": 18,
+      "cat": "attacks",
+      "danger": "high",
+      "title": "Answer the Peer Who Undermines You in Public",
+      "principle": "Greene: Law 15 — Crush Your Enemy Totally × Voss: Label",
+      "remember": "Name what they did out loud, once, calmly. Then stop.",
+      "when": "A peer makes a small cutting remark about your work in front of leadership.",
+      "hook": "They rely on you being too polite to name it. <strong>Naming it costs them everything and you nothing.</strong>",
+      "truth": "A public jab only works while it stays unnamed.\n• Say what they did in flat words: that sounded like a shot at my work.\n• The room turns to them and they must explain themselves.\n• The trap is defending your work. Defense confirms the attack landed.",
+      "theySee": "A colleague calmly asking them to explain a comment everyone just heard.",
+      "signals": [
+        {
+          "icon": "😏",
+          "l": "Joke cover",
+          "t": "They wrap the criticism in a laugh so nobody can object"
+        },
+        {
+          "icon": "🎯",
+          "l": "Pattern target",
+          "t": "The remarks only ever land on your work, never anyone else's"
+        },
+        {
+          "icon": "👀",
+          "l": "Audience timing",
+          "t": "They only do it when a senior person is in the room"
+        },
+        {
+          "icon": "📝",
+          "l": "Written version",
+          "t": "They add a critical note in a shared doc without telling you"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pause two seconds before answering",
+          "desc": "Let the silence sit. It makes the room replay what they said."
+        },
+        {
+          "n": "2",
+          "title": "Name it in one flat sentence",
+          "desc": "Say what it sounded like. Do not add adjectives or emotion."
+        },
+        {
+          "n": "3",
+          "title": "Hand them the floor",
+          "desc": "Ask them to say the full version. Then stop talking and wait."
+        }
+      ],
+      "script": "\"That sounded like you think the rollout was mishandled. <strong>Say the whole thing — I would rather hear it here than later.</strong>\"",
+      "example": "Ravi's peer joked in front of the VP that \"someone should check Ravi's numbers this time.\" Ravi paused, then said: \"That sounded like you think last quarter's were wrong. Say it fully.\" The peer backed down and said he was joking. He never did it again in front of that VP.",
+      "watchFor": "They soften, laugh it off, and say they did not mean anything by it.",
+      "ifItFails": "They double down and lay out a real criticism in front of everyone. Do not argue the facts live — you will lose on tone. Take it offline in the same breath and set a deadline: \"Fair. Send me the specifics by end of day and I will answer every one in writing to this group.\" Now they must produce evidence or drop it. Do not run this move on someone senior to you in the same room as their own boss.",
+      "counter": "If someone names your comment out loud and asks you to expand, they are turning the room on you.\n• Notice the pause, then the flat question, then the silence.\n• Say: \"Fair — my concern is the timeline, nothing else,\" and give the specific.\n• Never say you were joking. That admits it was a jab.",
+      "insight": "One clean public answer buys you a year of quiet. The harder part is that you have now made an enemy who will work in writing instead of out loud."
+    },
+    {
+      "id": 19,
+      "cat": "attacks",
+      "danger": "high",
+      "title": "Break the Manager Who Keeps Moving the Goalposts",
+      "principle": "Schelling: Commitment Device × Written Criteria",
+      "remember": "Get the promotion conditions in writing with dates attached.",
+      "when": "Your boss gives you a new requirement every time you meet the last one.",
+      "hook": "A moving target is not feedback. <strong>It is a stall dressed as coaching.</strong>",
+      "truth": "Vague criteria let a manager keep you working without ever paying.\n• Ask for the conditions in writing, with a date and a named decision.\n• A written list cannot be quietly replaced next quarter.\n• Most people accept verbal feedback and lose the record every cycle.",
+      "theySee": "A serious person asking for a plan, which is hard to refuse without looking bad.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "New condition",
+          "t": "You meet the criteria and a new one appears the same meeting"
+        },
+        {
+          "icon": "📅",
+          "l": "No date",
+          "t": "They say next cycle but never name which one"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Verbal only",
+          "t": "Every promotion conversation happens out loud and never in email"
+        },
+        {
+          "icon": "🌫️",
+          "l": "Soft words",
+          "t": "They use words like readiness and maturity with no definition"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for three written conditions",
+          "desc": "Ask them to list exactly three things and a date to review them."
+        },
+        {
+          "n": "2",
+          "title": "Send your own summary that day",
+          "desc": "Email the three items back with the date. Ask them to confirm in writing."
+        },
+        {
+          "n": "3",
+          "title": "Bring the email to the review",
+          "desc": "Open the meeting with the list and check each item off out loud."
+        }
+      ],
+      "script": "\"I want to stop guessing. <strong>Give me the three things I need to show, and a date you will decide.</strong> I will send it back in an email so we are both working from the same list.\"",
+      "example": "Sofia had been told \"almost there\" for five quarters. She asked for three written conditions and a March date, then emailed them back the same afternoon. Her boss confirmed. In March she walked in with the email and all three checked. She got the level because the list existed.",
+      "watchFor": "They reply to your email confirming the list instead of leaving it unanswered.",
+      "ifItFails": "They never reply to the email, or they reply with vague language. Silence is the answer — treat it as a no and start moving. Loop in a third party without accusing anyone: ask HR or your skip-level in your next check-in, \"What does the written promotion plan usually look like here? I want to make sure mine matches.\" That question travels back to your manager on its own.",
+      "counter": "If someone asks you to put promotion conditions in writing, they are building a case.\n• Notice the same-day email that restates your verbal comments.\n• Reply with the version you can actually stand behind, not silence.\n• Silence in writing is read as agreement later. Answer or expect it quoted back.",
+      "insight": "A written list turns a favor into a contract. The tradeoff is that you have now told your manager you are counting — and some managers start planning your replacement the day you do that."
+    },
+    {
+      "id": 20,
+      "cat": "attacks",
+      "danger": "extreme",
+      "title": "Survive the Rival Who Attacks You in Private",
+      "principle": "Greene: Law 3 — Conceal Your Intentions × Reputation Defense",
+      "remember": "Fight a whisper with witnesses, never with a denial.",
+      "when": "You hear a peer has been criticizing you privately to leadership.",
+      "hook": "You cannot answer a whisper directly. <strong>You can make the whisper impossible to believe.</strong>",
+      "truth": "A private attack works because you never get to reply to it.\n• Denying it makes you the person with something to answer for.\n• Instead, make three other senior people say good things about you unprompted.\n• Volume of independent praise kills a single quiet voice faster than any defense.",
+      "theySee": "A person who seems unaware of the attack and who keeps getting praised by others.",
+      "signals": [
+        {
+          "icon": "🌡️",
+          "l": "Sudden chill",
+          "t": "A leader who was warm with you turns short and formal"
+        },
+        {
+          "icon": "🚫",
+          "l": "Quiet exclusion",
+          "t": "You get dropped from a meeting you used to attend"
+        },
+        {
+          "icon": "🐦",
+          "l": "Leaked line",
+          "t": "A friendly colleague repeats a criticism using words you never heard"
+        },
+        {
+          "icon": "❓",
+          "l": "Odd question",
+          "t": "Your boss asks about an old incident nobody has mentioned in months"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find out what the exact claim is",
+          "desc": "Ask one trusted colleague what version they heard. You need the actual words."
+        },
+        {
+          "n": "2",
+          "title": "Get three people to speak for you",
+          "desc": "Ask three senior colleagues you have helped to mention your work to that leader."
+        },
+        {
+          "n": "3",
+          "title": "Give the leader one clean data point",
+          "desc": "Send the leader a short update with a number that contradicts the claim, without referencing it."
+        }
+      ],
+      "script": "(To a colleague you helped) \"You mentioned the routing fix saved your team weeks. <strong>Would you tell Priya that directly?</strong> She is deciding where to put the next investment and she has not seen our side.\"",
+      "example": "Alex learned a peer had told two VPs he was \"hard to work with.\" He never mentioned it. He asked three partner teams to send their own thanks directly to those VPs, and shipped a joint project with the loudest one. The rumor died in six weeks without Alex ever answering it.",
+      "watchFor": "The leader who went cold starts including you in threads again without explanation.",
+      "ifItFails": "The attack keeps working and you get formally excluded from something. Now you name it once, upward, without naming your rival: \"I am hearing secondhand that there are concerns about how I work with people. Tell me straight what you have heard so I can answer it.\" Asking your boss to say it out loud forces them to either back the rumor with facts or drop it. Do not do this if the person spreading it is the one who writes your review — go to their peer or HR instead.",
+      "counter": "If someone builds a wall of independent praise around themselves right after a conflict, they are defusing something.\n• Notice three unrelated people suddenly vouching for one person.\n• Say nothing about the rumor. Repeating it now marks you as the source.\n• Move your criticism into writing with specifics, or drop it entirely.",
+      "insight": "You cannot win a rumor fight by arguing. You win by making it expensive to repeat. The harder problem is finding out who started it, because that person is not done."
+    },
+    {
+      "id": 21,
+      "cat": "attacks",
+      "danger": "high",
+      "title": "Handle the Boss Who Blocks You Because You Are Useful",
+      "principle": "Machiavelli: The Prince — The Prince Who Fears the Capable Servant",
+      "remember": "Being irreplaceable in your job is how you stay in it forever.",
+      "when": "Your boss praises you constantly and never moves you up.",
+      "hook": "You made yourself too valuable where you are. <strong>Now your excellence is the cage.</strong>",
+      "truth": "A manager loses if you leave and gains nothing if you rise.\n• Train a replacement out loud so your departure stops costing them.\n• Their reason to block you disappears when the risk does.\n• The trap is working harder. More value makes the cage stronger.",
+      "theySee": "A person building the team's depth, which looks like exactly what a senior person does.",
+      "signals": [
+        {
+          "icon": "🏆",
+          "l": "Praise no promo",
+          "t": "You get called essential in every review and stay at the same level"
+        },
+        {
+          "icon": "🧱",
+          "l": "Bus factor",
+          "t": "Two systems would break tomorrow if you were out sick"
+        },
+        {
+          "icon": "🙅",
+          "l": "Transfer blocked",
+          "t": "Your boss says the timing is bad every time you mention another team"
+        },
+        {
+          "icon": "📚",
+          "l": "No documentation",
+          "t": "Nothing you own is written down anywhere but your head"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name a successor out loud",
+          "desc": "Tell your boss which teammate you are training on your systems."
+        },
+        {
+          "n": "2",
+          "title": "Write down what only you know",
+          "desc": "Document one system a week. Share the doc with the team, not just your boss."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the next level with the handover attached",
+          "desc": "Say the handover is done and the level is the next step. Give a date."
+        }
+      ],
+      "script": "\"Chen can run payments end to end now — I handed it over in March and he has done two releases without me. <strong>That was the last thing tying me here.</strong> I want to talk about the next level this cycle.\"",
+      "example": "Marco was told he was too critical to move for three years. He documented his two systems and trained a teammate over one quarter, announcing each handover in the team channel. Then he asked, with the handover as evidence. His boss ran out of reasons and put him up.",
+      "watchFor": "Your boss stops using the word \"critical\" about you and starts talking about timing.",
+      "ifItFails": "You hand everything over and they still stall. The block was never about risk — it was about them. Create a real deadline they cannot control: take an interview, get a competing offer, or ask your skip-level for a transfer conversation directly. Say to your boss: \"I have handed over everything. If there is no path here this cycle, tell me now and I will plan accordingly.\" Do not bluff this line unless you are prepared to leave.",
+      "counter": "If your manager keeps calling you essential and never moves you, that word is the block.\n• Notice praise that describes your current job, never the next one.\n• Say: \"Who would take my work if I moved up? Let me train them now.\"\n• Watch whether they help. Refusal to plan a handover is the whole answer.",
+      "insight": "Making yourself replaceable is the only way to become promotable. The tradeoff is real: for a few months you are neither essential nor promoted, and that is the window where a bad manager cuts you loose."
+    },
+    {
+      "id": 22,
+      "cat": "endgame",
+      "danger": "moderate",
+      "title": "Ask for the Promotion Before the Cycle Starts",
+      "principle": "Anchoring × Schelling: Move First to Set the Frame",
+      "remember": "Ask three months early. By cycle time the decision is already made.",
+      "when": "Your company's promotion cycle is a few months away and you have not raised it.",
+      "hook": "By the time the cycle opens, the list is written. <strong>You are asking to be added to a decision that already happened.</strong>",
+      "truth": "Managers build their promotion case months before the meeting.\n• Ask early and your boss must plan for you, not react to you.\n• Being on the list early means your evidence gets gathered, not remembered.\n• Most people ask during the cycle, which is the same as asking too late.",
+      "theySee": "A person who understands how the process works and is making their manager's job easier.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Quiet season",
+          "t": "Nobody is talking about promotions yet and the cycle is months out"
+        },
+        {
+          "icon": "📥",
+          "l": "Data gathering",
+          "t": "Your boss starts asking people for accomplishment lists"
+        },
+        {
+          "icon": "✅",
+          "l": "Others already asked",
+          "t": "A peer mentions they raised it with the boss weeks ago"
+        },
+        {
+          "icon": "📝",
+          "l": "Draft exists",
+          "t": "Your boss mentions they are writing up the team's cases"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say it out loud three months early",
+          "desc": "Tell your boss you are going for the level this cycle. Not asking — telling."
+        },
+        {
+          "n": "2",
+          "title": "Hand them the evidence in one page",
+          "desc": "Give them the three wins with numbers, written in the rubric's words."
+        },
+        {
+          "n": "3",
+          "title": "Ask what would sink it",
+          "desc": "Ask what the strongest argument against you is. Fix it before the meeting."
+        }
+      ],
+      "script": "\"I am going for the senior level this cycle. <strong>Here is the one-pager with the three cases and numbers</strong> so you are not writing it from memory. What is the strongest argument someone will make against me?\"",
+      "example": "Hana told her director in January that she was going for the June cycle and handed him a one-page case. He told her the weak spot was cross-team work. She fixed it by April. In June he presented her case using her own sentences and she cleared it.",
+      "watchFor": "Your boss asks you a question about the gap instead of praising the document.",
+      "ifItFails": "They say it is too early to discuss. That is a deflection, not a schedule. Convert it into a date: \"Fine — when should I bring this back? Give me the month and I will hold the one-pager until then.\" A named month is a commitment you can quote later. Send it in email the same day.",
+      "counter": "If a peer raises promotion months early, they are getting first claim on a limited slot.\n• Notice a colleague having quiet career conversations out of season.\n• Book your own conversation the same week. Do not wait for fairness.\n• Bring written evidence. A verbal ask loses to a written one every time.",
+      "insight": "Early asks get planned for. Late asks get squeezed in. The next problem is that once you declare, you are visibly competing — and everyone at your level now knows to move too."
+    },
+    {
+      "id": 23,
+      "cat": "endgame",
+      "danger": "high",
+      "title": "Turn an Outside Offer Into an Inside Promotion",
+      "principle": "BATNA × Cialdini: Scarcity",
+      "remember": "An outside offer is the only proof that your price is real.",
+      "when": "You have been told to wait for the next cycle more than once.",
+      "hook": "Companies pay market rate to strangers and loyalty rate to you. <strong>An offer makes you a stranger again.</strong>",
+      "truth": "Internal pay bands only move when losing you costs more than paying you.\n• A real offer converts your value from opinion into a number with a deadline.\n• Deadlines force decisions that would otherwise slip two more cycles.\n• The trap is bluffing. If they call it, you have to leave or lose everything.",
+      "theySee": "A calm person stating a fact about their situation, not a person making a threat.",
+      "signals": [
+        {
+          "icon": "⏭️",
+          "l": "Repeat deferral",
+          "t": "You have been told next cycle at least twice"
+        },
+        {
+          "icon": "💸",
+          "l": "Band excuse",
+          "t": "They say the band does not allow it but never show you the band"
+        },
+        {
+          "icon": "📞",
+          "l": "Recruiter flow",
+          "t": "Recruiters contact you for roles a level above yours"
+        },
+        {
+          "icon": "🏃",
+          "l": "Retention pattern",
+          "t": "People who resigned got counteroffers within a week"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get a real written offer",
+          "desc": "Interview properly. Do not start this conversation with a hypothetical."
+        },
+        {
+          "n": "2",
+          "title": "Tell your boss without a threat",
+          "desc": "State the offer, state what you prefer, give the date you must answer."
+        },
+        {
+          "n": "3",
+          "title": "Ask for title, not just money",
+          "desc": "Say the level matters more than the cash. Money without the level repeats this next year."
+        }
+      ],
+      "script": "\"I have a written offer at the senior level, and I need to answer by the 14th. <strong>I would rather stay and do this here.</strong> Can you get me the level by then, or should I take it?\"",
+      "example": "Ben was told \"next cycle\" three times. He interviewed, got a written senior offer, and told his director on a Monday with a Friday deadline. He asked for the title, not the money. He had the promotion approved by Thursday and stayed two more years.",
+      "watchFor": "Your boss asks what number and what date instead of talking about loyalty.",
+      "ifItFails": "They call your bluff or say they cannot match. Take the offer — you started this and backing down marks you permanently as the person who threatened and folded. If you truly cannot leave, do not run this card at all. Never say this to a manager you have not already told you want the level; the offer must confirm an existing ask, not replace one.",
+      "counter": "If someone brings you an outside offer, they are converting your indecision into a deadline.\n• Notice a firm date attached to a calm, non-emotional statement.\n• Say: \"I will get you an answer by the 12th\" — and actually answer.\n• Decide whether you would replace them. That answer sets your whole response.",
+      "insight": "An offer is the only bargaining chip that cannot be argued with, and you can only spend it once. The harder question is what your manager remembers about it two years later."
+    },
+    {
+      "id": 24,
+      "cat": "endgame",
+      "danger": "moderate",
+      "title": "Take the Ground Left Empty After Someone Leaves",
+      "principle": "Resource Dependence × Sun Tzu: Occupy the Vacant Ground",
+      "remember": "When someone senior quits, claim their work in 48 hours.",
+      "when": "A senior person on your team resigns or moves and their work has no owner.",
+      "hook": "A resignation opens a hole that somebody will fill by Friday. <strong>Speed matters more than qualification.</strong>",
+      "truth": "Unowned scope gets assigned to whoever moves first, not whoever is ready.\n• Claim one specific piece within two days, in writing, with a plan.\n• Once you are doing the work, the title argument gets much easier.\n• The trap is waiting to be asked. By then it is split among three people.",
+      "theySee": "A person volunteering to solve the problem their manager woke up worried about.",
+      "signals": [
+        {
+          "icon": "🚪",
+          "l": "Resignation",
+          "t": "A senior person gives notice and their projects go quiet"
+        },
+        {
+          "icon": "❓",
+          "l": "Ownership gap",
+          "t": "People start asking in channels who owns something now"
+        },
+        {
+          "icon": "😣",
+          "l": "Manager stress",
+          "t": "Your boss mentions coverage twice in one week"
+        },
+        {
+          "icon": "🐢",
+          "l": "Slow backfill",
+          "t": "Hiring a replacement would take three months minimum"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the piece closest to your level",
+          "desc": "Choose the part of their scope that maps to the job you want next."
+        },
+        {
+          "n": "2",
+          "title": "Claim it in writing within 48 hours",
+          "desc": "Email your boss naming the piece, your plan, and your first date."
+        },
+        {
+          "n": "3",
+          "title": "Run it publicly from day one",
+          "desc": "Send the first status update to the same list they used to send to."
+        }
+      ],
+      "script": "\"Before this gets split up — <strong>I will take the vendor relationships and the quarterly forecast.</strong> I have shadowed both for a year. First forecast lands the 9th, same format. Say no if you have another plan.\"",
+      "example": "Tanya's team lead resigned on a Tuesday. By Thursday she had emailed the director claiming the two workstreams she knew best, with dates attached. Nobody else moved. She ran them for five months, then used that record as her whole promotion case.",
+      "watchFor": "Your boss replies \"yes, take it\" without asking whether you have capacity.",
+      "ifItFails": "Your boss gives the scope to someone else or plans an outside hire. Do not sulk — become the bridge instead. Say: \"Then I will run it until the hire starts, and I will train them.\" Interim owners frequently become permanent ones, and hiring often slips two quarters. Put your interim ownership in writing so the record exists.",
+      "counter": "If a peer claims a departed colleague's scope immediately, they are buying their next promotion case.\n• Notice a fast written claim in the first two days after a resignation.\n• Say to your boss: \"I want the forecast piece. Here is my plan and my date.\"\n• Move within 48 hours or accept whatever is left. Do not grab scope you cannot deliver; a failed claim costs more than the wait.",
+      "insight": "Empty ground is the cheapest promotion there is. The hard part comes after: you are now doing two jobs, and the company will happily let that continue for a year if you let it."
+    },
+    {
+      "id": 25,
+      "cat": "endgame",
+      "danger": "high",
+      "title": "Handle the People You Beat After You Win",
+      "principle": "Machiavelli: The Prince — Secure the Defeated × Greene: Law 2, Judge Your Friends",
+      "remember": "The people you beat decide how long you keep the job.",
+      "when": "You just got the promotion and a peer who wanted it now reports to you or sits beside you.",
+      "hook": "Winning the title is the easy half. <strong>The people you passed are still in the building.</strong>",
+      "truth": "New leaders fail because of the peers they defeated, not the job itself.\n• Give the strongest loser something real within the first two weeks.\n• A rival with visible scope stops recruiting others against you.\n• The trap is being generous with sympathy instead of with territory.",
+      "theySee": "A person handing them real ownership instead of a consolation speech.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "Cold shift",
+          "t": "A peer stops replying quickly and answers only in public threads"
+        },
+        {
+          "icon": "🕳️",
+          "l": "Quiet withdrawal",
+          "t": "They stop volunteering and only do exactly what is asked"
+        },
+        {
+          "icon": "🗨️",
+          "l": "Side conversations",
+          "t": "Two peers go quiet when you join a channel or a call"
+        },
+        {
+          "icon": "📄",
+          "l": "Job hunting",
+          "t": "They update their profile or take unexplained afternoons off"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Talk to the strongest loser in week one",
+          "desc": "Do not wait for it to settle. Ask what they want next, and listen."
+        },
+        {
+          "n": "2",
+          "title": "Give them real scope, not comfort",
+          "desc": "Hand over one visible piece with their name on it. Announce it publicly."
+        },
+        {
+          "n": "3",
+          "title": "Back them in the next cycle out loud",
+          "desc": "Tell your boss you want them promoted next. Then tell them you said it."
+        }
+      ],
+      "script": "\"You should have had a shot at this and we both know it. <strong>I am giving you the whole vendor program — your name, your call, you present it.</strong> And I am telling Dana you are next.\"",
+      "example": "When Aaron got the lead role over Mei, he gave her the entire vendor program in his first week and announced it in the all-hands. She stayed, ran it well, and defended him twice in meetings he was not in. His two other peers left within a year; Mei did not.",
+      "watchFor": "They start bringing you problems again instead of routing around you.",
+      "ifItFails": "They take the scope and keep working against you anyway. Stop investing and start documenting. Move the relationship into writing with clear owners and dates, so their next quiet move has a paper trail. Say once, directly and privately: \"I gave you the program because I want you here. If that is not what you want, tell me now and I will help you find the next thing.\" Do not use this line in front of anyone else.",
+      "counter": "If someone who just beat you hands you a big piece of scope, they are buying your loyalty cheaply.\n• Notice the gift arriving within days of their promotion.\n• Say: \"I will take it. I want it to count toward my level — tell Dana that.\"\n• Convert the gift into a written commitment or it is just a workload.",
+      "insight": "The promotion is not the end of the file. It is the moment your rivals stop competing with you and start evaluating you — and the first person who tests you will do it within a month."
+    },
+    {
+      "id": 26,
+      "cat": "terrain",
+      "danger": "low",
+      "title": "Float the Idea Before You Make the Ask",
+      "principle": "Cialdini: Pre-Suasion — Test the Frame Before You Commit",
+      "remember": "Ask a small question before you ask the big one.",
+      "hook": "A formal ask you can't take back is a bet. <strong>Test the odds first, quietly, where a no costs nothing.</strong>",
+      "when": "You think you're close to ready for the promotion, but you don't know if your boss sees it the same way.",
+      "truth": "A trial question gets you real information before you spend your one big ask.\n• A casual question reads as curiosity, not a demand they must answer now.\n• It shows you their real timeline instead of the one they say out loud.\n• Skip this and you learn their true answer only after you've asked in public.",
+      "theySee": "A person casually checking in on their own growth, not someone applying pressure.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Quick answer",
+          "t": "They answer inside the same conversation instead of saying they'll think about it."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Vague timeline",
+          "t": "They give you a season instead of a real month."
+        },
+        {
+          "icon": "📛",
+          "l": "Name check",
+          "t": "They mention who else would need to sign off."
+        },
+        {
+          "icon": "↩️",
+          "l": "Redirect",
+          "t": "They change the subject to your current project instead of your future one."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the small version",
+          "desc": "In a 1-on-1, ask: 'What would need to be true for me to be ready for [title]?'"
+        },
+        {
+          "n": "2",
+          "title": "Write down the exact words",
+          "desc": "Right after, write their answer word for word. A vague answer is information too."
+        },
+        {
+          "n": "3",
+          "title": "Set your own date",
+          "desc": "If they name a condition, ask when you can check progress on it. Put the date in writing."
+        }
+      ],
+      "script": "\"Before I put in a formal ask — what would need to be true for you to back me for [title]?\"",
+      "watchFor": "They start listing specific gaps instead of giving a generic 'you're doing great.'",
+      "ifItFails": "They give you a vague, feel-good non-answer with no condition and no date. Don't let it sit — send a follow-up: <strong>\"Got it — I'll check in with you in 6 weeks on where things stand.\"</strong> That turns their vagueness into a deadline they now have to react to.",
+      "counter": "If your own boss floats a vague question about your growth, they may be probing you before a decision that's already made.\n• Notice when a casual check-in has an oddly specific structure.\n• Answer with a real number, not modesty — name the result you delivered.\n• Ask them directly: \"Is there a decision this is feeding into?\"",
+      "insight": "A trial balloon only works once per relationship — ask it too often and it reads as nagging. The harder part is turning their vague answer into a real date without sounding like you're keeping score."
+    },
+    {
+      "id": 27,
+      "cat": "sponsor",
+      "danger": "moderate",
+      "title": "Replace a Sponsor Who Leaves or Falls",
+      "principle": "Machiavelli: The Prince — Do Not Ride a Falling Patron",
+      "remember": "When your sponsor's power drops, move fast before you drop with them.",
+      "hook": "Your sponsor's exit doesn't erase your work. <strong>It erases the person who was going to vouch for it.</strong>",
+      "when": "Your sponsor quits, gets moved to another team, or loses influence at the top.",
+      "truth": "Your case for promotion lived inside your sponsor's credibility, and that credibility just left the building.\n• Decision-makers weighted your sponsor's word, not your work directly.\n• Without them, your case reverts to a stranger's file until someone new backs it.\n• Wait too long to replace them and the next cycle runs without you.",
+      "theySee": "Someone moving fast to reconnect, not someone panicking about a loss.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Meeting drop",
+          "t": "Your recurring 1-on-1 with your sponsor gets cancelled and not rescheduled."
+        },
+        {
+          "icon": "🗂️",
+          "l": "Chart change",
+          "t": "Your sponsor's name moves to a different box or disappears from the directory."
+        },
+        {
+          "icon": "🤐",
+          "l": "Case silence",
+          "t": "Nobody mentions your promotion case in the next planning meeting."
+        },
+        {
+          "icon": "🚪",
+          "l": "New gatekeeper",
+          "t": "A new name starts approving what your sponsor used to approve."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map the successor",
+          "desc": "Find out who inherited your sponsor's seat, budget, or vote in the room that matters."
+        },
+        {
+          "n": "2",
+          "title": "Reintroduce your case fast",
+          "desc": "Meet the new person inside two weeks. Bring the same numbers your old sponsor already knew."
+        },
+        {
+          "n": "3",
+          "title": "Ask the departing sponsor for one thing",
+          "desc": "Before they go, ask them to send one email introducing your case to their successor."
+        }
+      ],
+      "script": "\"Before you go, could you send [successor] a short note on the case we built together? I don't want it to start from zero.\"",
+      "watchFor": "Your old sponsor cc's you on the introduction email instead of just telling you they'll do it.",
+      "ifItFails": "The departing sponsor is too busy leaving to write anything, or the successor never reads it. Go around the paper and book time directly: <strong>\"I know you're new to this — can I walk you through what I've been working on and where it stood?\"</strong> Make yourself the source, not the leftover file.",
+      "counter": "If a rival's sponsor just left, that's your opening, not theirs.\n• Notice the same signals — cancelled meetings, silence on their case.\n• Say nothing publicly; let their case go cold on its own.\n• Move first with the new decision-maker while they're still settling in.",
+      "insight": "Sponsorship looks personal but it's positional — the seat matters more than the person in it. Do not court the successor where the departing sponsor can see it; that reads as disloyalty and burns the reference you still need. The harder part is doing this without looking like you only cared about the power, not the person."
+    },
+    {
+      "id": 28,
+      "cat": "visibility",
+      "danger": "low",
+      "title": "Turn What You Did Into Numbers Before the Review",
+      "principle": "Availability Heuristic — Numbers Travel, Stories Don't",
+      "remember": "A number a stranger repeats beats a story only you remember.",
+      "hook": "Nobody in the calibration room was there when you did the work. <strong>Give them a number they can repeat without you in the room.</strong>",
+      "when": "Your review or promotion packet is due and your work reads like a list of tasks, not results.",
+      "truth": "A committee that doesn't know you votes on what's written down, not on what you actually did.\n• A story needs you there to explain it; a number travels on its own.\n• People repeat numbers in meetings; they rarely repeat paragraphs.\n• Skip this and someone else's clean number beats your true, messy story.",
+      "theySee": "A specific, memorable line — a person reporting, not a person bragging.",
+      "signals": [
+        {
+          "icon": "🔤",
+          "l": "Generic phrasing",
+          "t": "Your self-review says 'improved' or 'helped' with nothing next to it."
+        },
+        {
+          "icon": "📏",
+          "l": "No baseline",
+          "t": "You can name the after but not the before."
+        },
+        {
+          "icon": "🔁",
+          "l": "Borrowed metric",
+          "t": "A peer's promotion packet has a number where yours has an adjective."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Gets repeated",
+          "t": "Someone in the room says your number back to you weeks later."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the before number",
+          "desc": "For your three biggest projects, write the number before you touched them."
+        },
+        {
+          "n": "2",
+          "title": "Find the after number",
+          "desc": "Write the number today. Subtract. That's your line."
+        },
+        {
+          "n": "3",
+          "title": "Attach a name to it",
+          "desc": "Add who benefits: 'cut onboarding time from 6 weeks to 9 days for new hires.'"
+        }
+      ],
+      "script": "\"I cut the deploy failure rate from 12% to 2% over two quarters — that's the line I want in my packet.\"",
+      "watchFor": "Your manager copies your exact number into the promotion doc without rewriting it.",
+      "ifItFails": "You genuinely don't have a clean number — the work was qualitative, like mentoring. Don't force a fake metric; use a named outcome instead: <strong>\"Three engineers I onboarded are shipping independently within 60 days instead of 90.\"</strong> A named result still travels; a vague claim doesn't.",
+      "counter": "If a rival's packet is full of sharp numbers, don't compete on adjectives.\n• Ask where their number came from before you accept it as fact.\n• Say: \"What was the baseline before that change?\"\n• Build your own number in the same format so the room compares fairly.",
+      "insight": "A number is a compressed story that survives being repeated by someone who wasn't there. The harder part is picking one that's true and still sounds big — an inflated one gets caught, a small one gets ignored."
+    },
+    {
+      "id": 29,
+      "cat": "rivals",
+      "danger": "moderate",
+      "title": "Handle the Rival Who Is Also Your Friend",
+      "principle": "Greene: Law 15, Softened — Compete Without Crushing When the Relationship Outlasts the Race",
+      "remember": "Fight for the job. Don't fight for the friendship's ending.",
+      "hook": "One of you gets the title. <strong>Only one of you needs to lose the friendship too — and that part is optional.</strong>",
+      "when": "You and a close friend are both up for the same promotion or the same slot.",
+      "truth": "Most people either go soft and lose the job, or go hard and lose the friend — both are avoidable.\n• The job and the friendship run on different rules; mixing them loses both.\n• Silence about the competition breeds worse resentment than naming it does.\n• A friend who feels blindsided later becomes an enemy who knows your weak spots.",
+      "theySee": "Someone who named the awkward thing out loud instead of pretending it isn't happening.",
+      "signals": [
+        {
+          "icon": "🙈",
+          "l": "Topic avoidance",
+          "t": "You both stop mentioning the promotion cycle around each other."
+        },
+        {
+          "icon": "😬",
+          "l": "Forced jokes",
+          "t": "One of you jokes about 'may the best person win' more than once."
+        },
+        {
+          "icon": "🔒",
+          "l": "Info drop",
+          "t": "Your friend stops sharing what they hear through their own channels."
+        },
+        {
+          "icon": "👥",
+          "l": "Outside pressure",
+          "t": "Other people ask you who you think will get it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name it directly, once",
+          "desc": "Say plainly you're both in the running and you want to handle it like adults."
+        },
+        {
+          "n": "2",
+          "title": "Set one rule together",
+          "desc": "Agree out loud: no bad-mouthing each other to the decision-makers, win or lose."
+        },
+        {
+          "n": "3",
+          "title": "Decide the after, before the after",
+          "desc": "Agree now how you'll act toward each other the day the decision comes out."
+        }
+      ],
+      "script": "\"We're both up for this. I don't want to pretend it's not happening, and I don't want it to mess up us. Can we agree neither of us plays dirty here?\"",
+      "watchFor": "They visibly relax and agree to the same terms instead of deflecting with a joke.",
+      "ifItFails": "They deny there's any competition at all, or agree in words but quietly undercut you to a decision-maker anyway. Stop relying on the informal agreement and confirm it directly, once: <strong>\"I heard you told Sam I'm not ready. I thought we agreed not to do that — what happened?\"</strong>",
+      "counter": "If a friend proposes this 'let's keep it clean' talk, take the deal — but verify it.\n• Notice if they ask for the deal right after they hear you're ahead.\n• Say yes to the terms, and hold them to it like you'd hold anyone.\n• Watch what they do with decision-makers, not just what they say to you.",
+      "insight": "Do not try this with a friend who already has a reputation for playing dirty — naming a deal only works if they'll honor it. Most damage between friends happens in the silence before the decision, not after. The harder part is honoring the deal when you win and they don't."
+    },
+    {
+      "id": 30,
+      "cat": "attacks",
+      "danger": "high",
+      "title": "Contain a Public Mistake Before It Defines You",
+      "principle": "Greene: Law 5 — Reputation Repair Through Speed, Not Silence",
+      "remember": "Name the mistake yourself before someone else names it for you.",
+      "hook": "One bad demo doesn't kill a promotion case. <strong>Three weeks of silence about it does.</strong>",
+      "when": "You make a visible mistake — a bad demo, a missed deadline, a wrong call — during your promotion window.",
+      "truth": "A mistake becomes a character flaw only if you let someone else write the story of it.\n• People remember the last version of the story they heard, not the first.\n• Silence reads as denial or not caring — both cost more than the mistake did.\n• A fast, factual account of the fix closes the story before it spreads.",
+      "theySee": "Someone in control of the situation, not someone hiding from it.",
+      "signals": [
+        {
+          "icon": "🗯️",
+          "l": "Gossip speed",
+          "t": "People who weren't in the room already know a version of what happened."
+        },
+        {
+          "icon": "🤫",
+          "l": "Sponsor silence",
+          "t": "Your sponsor hasn't mentioned it directly, meaning they heard it from someone else first."
+        },
+        {
+          "icon": "📢",
+          "l": "Story drift",
+          "t": "The version you hear back is worse than what actually happened."
+        },
+        {
+          "icon": "🚫",
+          "l": "Quiet exclusion",
+          "t": "You stop getting invited to the kind of meeting where the mistake happened."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Tell your sponsor within 24 hours",
+          "desc": "Go to them with the facts before they hear a worse version elsewhere."
+        },
+        {
+          "n": "2",
+          "title": "Separate the fact from the fix",
+          "desc": "State what went wrong in one sentence, then what you already changed in the next."
+        },
+        {
+          "n": "3",
+          "title": "Ask for one visible next chance",
+          "desc": "Request a small, watched task where you can show the fix worked."
+        }
+      ],
+      "script": "\"I want you to hear this from me first: the demo failed because I skipped the load test. I've already added it to the checklist for every release going forward.\"",
+      "watchFor": "Your sponsor asks about the fix instead of the failure — that means the story already moved on.",
+      "ifItFails": "The story keeps spreading anyway, distorted, and people start treating it as a pattern. Stop correcting the rumor mill directly — repeating it just links your name to the mistake again. Instead, ask for a visible task and let a clean result overwrite the old one: <strong>\"Put me on [visible task] — I want the next thing people hear about me to be this.\"</strong>",
+      "counter": "If a rival is doing damage control on their own mistake, don't help spread the old version.\n• Notice when someone keeps re-raising a mistake they've already owned.\n• Say nothing that re-tells the story — that does their damage for them.\n• If asked directly, give the neutral, current version: \"They caught it and fixed it.\"",
+      "insight": "Do not use this if the mistake harmed someone else's work directly — own that separately and in person, not as reputation management. The mistake rarely costs the promotion; the untold version people build in the silence does."
+    },
+    {
+      "id": 31,
+      "cat": "attacks",
+      "danger": "high",
+      "title": "Spot the Ally Who Reports Your Moves to Your Rival",
+      "principle": "Sun Tzu: The Use of Spies — Find the Doubled Agent in Your Own Camp",
+      "remember": "Someone close to you is telling your rival what you say.",
+      "hook": "Your rival keeps answering things before you've said them out loud. <strong>That's not luck. That's a leak.</strong>",
+      "when": "Your rival seems to know your plans, your timeline, or your private complaints before you've told them yourself.",
+      "truth": "A promotion fight has a spy in it more often than people admit, usually someone who owes both sides something.\n• People who float between two camps trade information as their price of entry to both.\n• The leak isn't usually malicious — it's someone who treats gossip as currency.\n• Confront the wrong person and you just taught the real leak to be careful.",
+      "theySee": "Nothing — that's the point. A careful leak looks like a normal friendly coworker.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "Timing match",
+          "t": "Your rival's move follows your private conversation by a day or two, every time."
+        },
+        {
+          "icon": "💬",
+          "l": "Phrase echo",
+          "t": "Your rival uses a phrase you only said to one person."
+        },
+        {
+          "icon": "🔗",
+          "l": "Shared circle",
+          "t": "The same person shows up in both your inner circle and your rival's."
+        },
+        {
+          "icon": "🎣",
+          "l": "Fishing questions",
+          "t": "Someone asks oddly specific questions about your plans right before your rival acts."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Run a canary test",
+          "desc": "Tell a slightly different version of your plan to each suspect. Watch which version reaches your rival."
+        },
+        {
+          "n": "2",
+          "title": "Cut the flow, not the person",
+          "desc": "Stop sharing real information with the suspect. Keep the relationship normal on the surface."
+        },
+        {
+          "n": "3",
+          "title": "Feed a false detail if you need proof",
+          "desc": "Give the suspect one false detail. If it reaches your rival, you have your answer."
+        }
+      ],
+      "script": "\"Hey, off the record — I'm thinking about pushing for the Denver project instead of the platform rebuild. Still deciding.\" (Say a different false detail to each suspect and watch which one comes back.)",
+      "watchFor": "Your rival mentions the exact false detail you planted with only one person.",
+      "ifItFails": "The canary test comes back clean, or the leak stops the moment you get suspicious — which just means they got more careful. Don't accuse anyone without proof. Permanently downgrade what you share instead: real plans go to your sponsor and one trusted peer only, nobody else, from now on.",
+      "counter": "If someone runs a canary test on you by feeding you an oddly specific detail, don't repeat it anywhere.\n• Notice when gossip feels clean and specific, like it was built to be traced.\n• Say nothing about it to anyone until you know where it came from.\n• Ask the source directly: \"Why are you telling me this?\"",
+      "insight": "Do not accuse anyone based on a single coincidence — a wrongly accused ally becomes a real enemy overnight. Every camp has more leaks than sponsors, because information is cheaper to trade than loyalty is to earn."
+    },
+    {
+      "id": 32,
+      "cat": "endgame",
+      "danger": "moderate",
+      "title": "Get the Real Reason When They Say Not Yet",
+      "principle": "Voss: Label — Turn a Canned Rejection Into a Real Answer",
+      "remember": "A vague no hides the real reason. Push for it.",
+      "hook": "'Not this cycle' is not an answer. <strong>It's a sentence built to end the conversation, not inform you.</strong>",
+      "when": "You're told you didn't get the promotion, with a vague or generic reason attached.",
+      "truth": "Managers give a soft, generic reason because it's easier than the specific, awkward truth.\n• A vague reason protects them from a hard conversation, not you from bad news.\n• The real reason is usually one of three things: budget, politics, or one named gap.\n• Accept the vague version and you'll spend a year fixing the wrong thing.",
+      "theySee": "Someone taking the news professionally, not someone about to make it their problem.",
+      "signals": [
+        {
+          "icon": "🔤",
+          "l": "Generic language",
+          "t": "They use words like 'timing' or 'not quite yet' with nothing attached."
+        },
+        {
+          "icon": "👀",
+          "l": "Body language",
+          "t": "They look at their notes more than at you while delivering it."
+        },
+        {
+          "icon": "⏩",
+          "l": "Fast wrap-up",
+          "t": "They try to close the meeting right after telling you."
+        },
+        {
+          "icon": "🚪",
+          "l": "No next step",
+          "t": "They don't offer you a plan or a date for the next attempt."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Let the first answer land, then ask again",
+          "desc": "Say you appreciate the honesty, then ask directly for the specific reason."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the vote, not the vibe",
+          "desc": "Ask what specifically came up in the room, not how they personally feel about you."
+        },
+        {
+          "n": "3",
+          "title": "Get one written condition",
+          "desc": "Ask them to put the one thing you need to fix in writing, with a check-in date."
+        }
+      ],
+      "script": "\"I appreciate you telling me straight. Before I take that at face value — what specifically came up in the room that I should know about?\"",
+      "watchFor": "They pause, then name one real, specific thing instead of repeating the vague version.",
+      "ifItFails": "They repeat the same vague line a second time, refusing to get specific. Stop asking them and go around: ask your sponsor separately, since they may have heard the real reason in the room you weren't in. Say to your sponsor: <strong>\"I got a generic answer from my manager — did you hear what actually came up?\"</strong>",
+      "counter": "If you're the one delivering a vague 'not this cycle,' expect this pushback.\n• Notice when your generic reason doesn't satisfy them — that's fair, not overreach.\n• Have the specific reason ready before the meeting.\n• If there truly isn't one, say that plainly: \"It came down to budget, not you.\"",
+      "insight": "Do not push for the real reason in the same meeting if you're visibly upset — come back in a day and ask calmly instead. The vague no is designed to close a conversation, and pushing past it is the only way to get something you can act on."
+    },
+    {
+      "id": 33,
+      "cat": "endgame",
+      "danger": "moderate",
+      "title": "Negotiate the Pay to Match the Title",
+      "principle": "Anchoring × Cialdini: Consistency — Close the Gap Between the New Title and the Old Number",
+      "remember": "A new title with old pay is a discount, not a win.",
+      "hook": "They'll hand you the title fast. <strong>The money moves slower unless you make it move.</strong>",
+      "when": "You get the promotion, but the pay bump attached to it is smaller than the market rate for the new title.",
+      "truth": "Companies often approve the title change and the smallest number that legally counts as a raise.\n• Titles cost the company nothing on paper; money is the part they ration.\n• Once you accept the number, it becomes the anchor for every raise after it.\n• The window to negotiate is wide open right after the promotion, then shuts fast.",
+      "theySee": "Someone grateful for the title who's also doing basic homework on the number.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Below-band pay",
+          "t": "The new number sits at the bottom of the range for the new title."
+        },
+        {
+          "icon": "✍️",
+          "l": "Quick close",
+          "t": "They ask you to sign or confirm within the same conversation."
+        },
+        {
+          "icon": "🔇",
+          "l": "No comparison",
+          "t": "They don't mention what others at your new title earn."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Vague promise",
+          "t": "They say your pay will 'catch up' at the next cycle with no number attached."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the market number first",
+          "desc": "Check the going rate for your new title before the pay conversation happens."
+        },
+        {
+          "n": "2",
+          "title": "Say thanks, then ask for the gap",
+          "desc": "Accept the promotion warmly, then raise the number as its own separate topic."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a number, not a promise",
+          "desc": "If they can't move now, get a specific number and date in writing for the next review."
+        }
+      ],
+      "script": "\"Thank you for this — I'm genuinely glad about the title. Separately, I looked at the range for this role and the offer is at the bottom of it. Can we close that gap now?\"",
+      "watchFor": "They go quiet for a moment, then ask what number you had in mind — that means the budget has room.",
+      "ifItFails": "They say the budget is fixed for this cycle with no room to move. Don't drop it — convert it into a written commitment instead: <strong>\"Understood. Can we put in writing that my pay gets reviewed against the new band in six months, not at the next annual cycle?\"</strong>",
+      "counter": "If your manager says 'the title is the win, the money will catch up,' recognize the anchor they're setting.\n• Notice that 'it'll catch up' never comes with a number or a date.\n• Ask directly: \"What number, by when?\" Silence tells you it's not coming.\n• If you're giving the promotion, only promise a date you'll actually keep.",
+      "insight": "Do not push hard on pay in the same breath as thanking them if the budget freeze is public and company-wide — get the written commitment instead. A title is permanent and cheap to hand out; a raise is recurring and expensive, which is exactly why they're kept separate."
+    },
+    {
+      "id": 34,
+      "cat": "endgame",
+      "danger": "high",
+      "title": "Turn Former Peers Into Reports Without Losing the Room",
+      "principle": "Machiavelli: The Prince — The New Prince Among Old Equals",
+      "remember": "You changed rank. Change how you enter the room.",
+      "hook": "Yesterday they were your equal at lunch. <strong>Today they wait for you to speak first, whether you meant to change that or not.</strong>",
+      "when": "You get promoted to manage people who were your peers, sometimes including the rival you beat.",
+      "truth": "The room re-reads every word you say the day the title changes, even if you don't feel different.\n• Peers now watch for favoritism, insecurity, or a power trip in your first small calls.\n• The first person you correct or praise sets the pattern everyone else expects.\n• Move too fast and you confirm their fear; move too slow and you look unable to run the team.",
+      "theySee": "Someone acting like a manager on purpose, in small visible choices, not someone performing a role.",
+      "signals": [
+        {
+          "icon": "😏",
+          "l": "Test comment",
+          "t": "A former peer jokes to test whether you'll laugh along or act like a boss now."
+        },
+        {
+          "icon": "📧",
+          "l": "Old habit",
+          "t": "Someone still cc's you the way they used to cc your old manager, or skips you entirely."
+        },
+        {
+          "icon": "👁️",
+          "l": "Watching reaction",
+          "t": "People glance at each other after you make your first call as their manager."
+        },
+        {
+          "icon": "🤬",
+          "l": "Private complaint",
+          "t": "Someone who wanted the job vents to a peer instead of to you directly."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Have the direct conversation first",
+          "desc": "Meet each former peer 1-on-1 before the team meeting where it becomes official."
+        },
+        {
+          "n": "2",
+          "title": "Name the change out loud",
+          "desc": "Say plainly the working relationship changes even if the respect doesn't."
+        },
+        {
+          "n": "3",
+          "title": "Make your first decision small and fair",
+          "desc": "Pick a low-stakes call early and make it visibly by-the-rule, not by-the-friendship."
+        }
+      ],
+      "script": "\"I know this is a change for both of us. I still want your honest take, and I'm going to make some calls you won't always agree with. I'd rather you tell me that directly than let it sit.\"",
+      "watchFor": "They test you once with a boundary-pushing comment, then drop it once you hold a clear, calm line.",
+      "ifItFails": "A former peer keeps treating you like an equal in front of the team, undercutting your calls or venting to others. Address it privately, specifically, and once: <strong>\"When you pushed back on my call in front of the team, it undercut me. Bring it to me first next time.\"</strong> If it repeats, it becomes a documented performance conversation, not a friendship problem.",
+      "counter": "If your new manager is a former peer testing their authority on you, decide fast whether to challenge or fall in line.\n• Notice their first small decision and treat it as the real signal.\n• If you disagree, say it to them privately, not to the team.\n• If they handle it fairly, drop the old peer-level pushback in group settings.",
+      "insight": "Do not skip the direct one-on-one with the peer you personally beat for the role — skipping it is the fastest way to lose the room. The harder question is what you do with the peer who wanted this more than anyone and now reports to you."
+    },
+    {
+      "id": 35,
+      "cat": "terrain",
+      "danger": "moderate",
+      "title": "Take the Acting Role Without Signing Away the Promotion",
+      "principle": "Schelling: Commitment Device — Get the Terms Before You Do the Free Work",
+      "remember": "Get the date and title in writing before you start.",
+      "hook": "'Acting director' sounds like a promotion. <strong>Without a date attached, it's just a bigger job at the old price.</strong>",
+      "when": "You're offered an interim or acting role covering a bigger title, with promotion talked about but not promised.",
+      "truth": "Companies get the output of the bigger role for the price of the smaller one, and 'we'll see how it goes' has no expiration date.\n• The interim label lets them test you without spending a title or raise yet.\n• The longer you run it well without terms, the more normal free work looks.\n• Ask for terms after six months of doing the job and you've lost your leverage.",
+      "theySee": "Someone confident enough to ask for structure, not someone ungrateful for the opportunity.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "No end date",
+          "t": "Nobody names when the 'acting' period ends or gets reviewed."
+        },
+        {
+          "icon": "❓",
+          "l": "No criteria",
+          "t": "Nobody tells you what you need to show to make it permanent."
+        },
+        {
+          "icon": "💵",
+          "l": "Same pay",
+          "t": "Your paycheck doesn't move even though your responsibilities did."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Open language",
+          "t": "They describe it as 'let's see how it goes' instead of naming a process."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the criteria before you start",
+          "desc": "Ask exactly what needs to be true for 'acting' to become permanent."
+        },
+        {
+          "n": "2",
+          "title": "Ask for a review date",
+          "desc": "Get a specific date, not a season, when the role gets formally reconsidered."
+        },
+        {
+          "n": "3",
+          "title": "Ask for interim pay",
+          "desc": "Request a stipend or partial bump for the interim period, separate from the final promotion."
+        }
+      ],
+      "script": "\"I want to do this well. Before I start, can we agree on what 'permanent' looks like and put a review date on the calendar — say, 90 days out?\"",
+      "watchFor": "They give you an actual date and write it down somewhere, instead of just nodding along.",
+      "ifItFails": "They resist naming a date or criteria, saying it's 'too early to lock in.' Protect yourself in writing on your own terms: send a follow-up email summarizing the conversation. Say: <strong>\"Confirming what we discussed — I'll take this on, and we'll revisit the permanent title and pay in 90 days.\"</strong> Silence back from them is still a record you can point to later.",
+      "counter": "If you're handing someone an acting role with no terms, expect a savvy person to ask for exactly this structure.\n• Notice if they ask for a date and criteria; that's a sign they'll do the job well.\n• Decide before the offer whether you can actually commit to a review date.\n• If you can't commit to terms, say so honestly instead of letting 'we'll see' become the plan.",
+      "insight": "Do not accept the acting role at all if they refuse even an informal date or stipend — that refusal is a sign the interim label is meant to be permanent. The harder part is asking for structure at the exact moment you're supposed to look grateful."
+    }
+  ]
+}
