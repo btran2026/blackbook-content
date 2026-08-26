@@ -106,7 +106,9 @@
       "script": "\"Hey, quick HR question — can you confirm who's listed as my official manager for review purposes?\"",
       "example": "Dana had two directors giving her tasks daily. She checked Workday and found only one, Director Park, was listed as her rating manager. She started clearing every deadline through Park first. Her review came in at the top of the scale.",
       "counter": "If someone starts asking HR who really rates you, they're mapping the real power before you notice.\n• Notice a coworker suddenly asking about review chains or org charts.\n• Say nothing that confirms who the real decision maker is.\n• Keep both managers equally informed so no one can play favorites against you.",
-      "insight": "Knowing the real boss is easy. The harder part is acting on it without the other one noticing you picked."
+      "insight": "Knowing the real boss is easy. The harder part is acting on it without the other one noticing you picked.",
+      "watchFor": "HR replies in writing naming one manager, not two.",
+      "ifItFails": "HR hedges and says the reporting line is shared or unclear. Don't ask again — pull the org-chart field in Workday or the HRIS yourself and quote it back to them. Say: \"No worries, I found it in Workday — looks like it lists [name]. Just wanted to double check that's still accurate.\""
     },
     {
       "id": 2,
@@ -161,7 +163,9 @@
       "script": "\"Just for my own records — which cost center does my role actually sit under?\"",
       "example": "Marcus split his time between Sales and Product. When layoffs hit, Product's budget got cut first. He had already noticed his cost center was Product-funded and spent the prior month over-delivering for Sales instead. He kept his job; two Product-funded peers did not.",
       "counter": "If a coworker starts asking payroll about cost centers, they're locating who can fire them.\n• Watch for sudden interest in budget codes or headcount approvals.\n• Don't volunteer which side actually controls the money.\n• Make sure both sides see value from you regardless of who pays.",
-      "insight": "The budget always tells the truth even when the org chart lies. The next problem is what you do once you know which side can end you."
+      "insight": "The budget always tells the truth even when the org chart lies. The next problem is what you do once you know which side can end you.",
+      "watchFor": "Finance or HR names one cost center owner without hedging.",
+      "ifItFails": "They say the line is shared or they don't know. Ask a narrower proxy question instead — who signs off on your expense reports or PTO, since that can't be dodged the same way. Say: \"No worries — quick one instead, who approves my PTO requests these days?\""
     },
     {
       "id": 3,
@@ -216,7 +220,9 @@
       "script": "\"Hey, off the record — did my name come up in yesterday's meeting? How'd it go?\"",
       "example": "Priya heard through a peer that her VP had quietly defended her missed deadline in a leadership sync, while her other manager stayed silent. She started running her hardest problems past the VP first. Six months later, the VP fought to keep her role when the team got restructured.",
       "counter": "If a peer starts fishing for what was said about them in your meetings, they're mapping their real allies.\n• Notice casual questions about closed-door conversations involving them.\n• Give a vague, friendly answer that reveals nothing specific.\n• Decide for yourself who deserves your loyalty instead of trusting the report.",
-      "insight": "Words to your face are free. Words behind your back cost something and tell you who's real. The harder part is finding a witness you can actually trust."
+      "insight": "Words to your face are free. Words behind your back cost something and tell you who's real. The harder part is finding a witness you can actually trust.",
+      "watchFor": "The boss recounts a specific detail from the meeting instead of brushing it off.",
+      "ifItFails": "They deflect with \"nothing really came up\" and shut the topic down. Don't press them again — ask a peer who was actually in the room, since a colleague talks more freely than a boss protecting themselves. Say to the colleague: \"Hey, did my name come up in that meeting yesterday? Just curious how it went.\""
     },
     {
       "id": 4,
@@ -271,7 +277,9 @@
       "script": "\"Confirming what we discussed — you want me to prioritize the client report over the audit this week, correct?\"",
       "example": "Two directors told Ben opposite priorities in the same afternoon. He emailed both back with a recap of what each had asked. When the audit came in late, one director tried to claim he'd never said to deprioritize it. Ben's email proved otherwise, and the blame landed elsewhere.",
       "counter": "If someone keeps emailing you recaps of your verbal orders, they're building a file to use against you later.\n• Notice when a report over-documents casual conversations with you.\n• Reply carefully, since your words in writing can be used later.\n• Say things you'd stand behind, verbal or written, every time.",
-      "insight": "Paper protects you from memory, not from politics. The next problem is what happens when both instructions are in writing and still contradict."
+      "insight": "Paper protects you from memory, not from politics. The next problem is what happens when both instructions are in writing and still contradict.",
+      "watchFor": "The manager types back \"confirmed\" or \"yes\" instead of just nodding.",
+      "ifItFails": "They say \"yep\" out loud but never reply to the email or text. Don't wait on them — send your own recap right after and treat their silence as agreement, since a written record with no objection still beats no record. Say: \"Following up here so it's written down — moving ahead with the client report unless I hear otherwise by end of day.\""
     },
     {
       "id": 5,
@@ -326,7 +334,9 @@
       "script": "\"If this project ever pulls me two directions, who should I treat as the final call?\"",
       "example": "Layla asked her regional director and her functional director the same question a week apart. Both claimed final say. She kept the two emails and, when the clash came, forwarded both answers to their shared boss and let him settle it, staying clean herself.",
       "counter": "If someone starts asking you who has final say over shared work, they're setting up cover for the coming fight.\n• Notice when a peer suddenly wants your authority in writing.\n• Give an honest, specific answer instead of a vague one.\n• Loop in your own boss so the answer is on record for you too.",
-      "insight": "The question exposes the truth fast, but two people who both say yes just handed you a bigger problem to manage."
+      "insight": "The question exposes the truth fast, but two people who both say yes just handed you a bigger problem to manage.",
+      "watchFor": "The manager names an actual person, theirs or the other boss's.",
+      "ifItFails": "They dodge with \"let's just play it by ear.\" Take the same question straight to the other boss — if their answers conflict, you now have two contradictory claims on record to point back to later. Say to the other boss: \"Quick one — if this project ever pulls me two directions, who should I treat as the final call?\""
     },
     {
       "id": 6,
@@ -381,7 +391,9 @@
       "script": "\"Just so I have it on record — can you send that request over email too?\"",
       "example": "Tom noticed his two co-managers were starting to snipe at each other in shared meetings. He quietly started logging every instruction in a private doc. When they finally clashed over a missed deliverable three weeks later, Tom pulled up dated proof of both requests and stayed out of the blame entirely.",
       "counter": "If a coworker suddenly starts logging everything and forwarding casual chats to email, they're building a file.\n• Notice unusual formality creeping into someone's normal requests.\n• Assume anything you say to them may get written down.\n• Keep your own instructions clean and consistent either way.",
-      "insight": "A paper trail built early looks like diligence. The harder part is using it without looking like you planned the ambush."
+      "insight": "A paper trail built early looks like diligence. The harder part is using it without looking like you planned the ambush.",
+      "watchFor": "They say \"sure\" and actually hit send on the email.",
+      "ifItFails": "They say \"no need, just handle it\" and won't put anything in writing. Send the recap yourself right after the conversation — their silence in response to your version still counts as a record. Say: \"Just confirming what we covered so I don't misstep — you want the audit prioritized, correct? Let me know if I've got that wrong.\""
     },
     {
       "id": 7,
@@ -436,7 +448,9 @@
       "script": "\"Got it — I can have this to you by 3pm. I'm also finishing an urgent ask from [name] first.\"",
       "example": "Sofia got two 'need this now' Slack messages four minutes apart. She replied to both within ten minutes with exact delivery times instead of a yes. Both managers got what they needed on schedule, and neither felt bumped for the other.",
       "counter": "If someone gives you a specific delivery time instead of a yes, they're managing you, not avoiding you.\n• Notice when a vague yes turns into a scheduled promise instead.\n• Ask directly if anything else is competing for their time today.\n• Decide if the time they gave you is actually good enough.",
-      "insight": "A timeline beats a yes because it's a promise you can actually keep. The next problem is what happens when you can't hit either time."
+      "insight": "A timeline beats a yes because it's a promise you can actually keep. The next problem is what happens when you can't hit either time.",
+      "watchFor": "The boss says \"okay, 3pm works\" instead of demanding it right now.",
+      "ifItFails": "They push back with \"no, I need mine first, immediately.\" Don't cave and don't silently drop the other boss's task — name the collision out loud and make the two of them coordinate instead of you guessing. Say: \"Both of you have me at urgent right now — can you two decide between yourselves who goes first?\""
     },
     {
       "id": 8,
@@ -491,7 +505,9 @@
       "script": "\"I'm heads-down on [task] until 2pm for [other boss] — I'll have yours done right after, by 3.\"",
       "example": "Two directors both needed a slide deck ready before the same 2pm meeting. Kevin gave the full hour to the director presenting first, and texted the second director a new 3pm delivery time immediately. Both decks landed clean, and neither director felt ignored.",
       "counter": "If someone tells you they're heads-down for someone else, they've already ranked you second for that hour.\n• Notice when your request gets pushed for a competing one.\n• Ask for the real new time instead of assuming you're forgotten.\n• Decide if being second in line today is a pattern worth addressing.",
-      "insight": "Splitting your hour looks fair but delivers two weak results instead of one strong one. The real trap is doing this so often that everyone assumes you're always available."
+      "insight": "Splitting your hour looks fair but delivers two weak results instead of one strong one. The real trap is doing this so often that everyone assumes you're always available.",
+      "watchFor": "Both bosses accept the staggered times without arguing the order.",
+      "ifItFails": "One insists their task can't move past the hour you promised the other. Stop absorbing the collision alone — put both requests in front of both bosses and make them negotiate the hour, since only they can rank each other. Say: \"I've got you both landing at the same hour — can you two agree who goes first?\""
     },
     {
       "id": 9,
@@ -546,7 +562,9 @@
       "script": "\"That sounds like something you two should sync on directly — want me to set up a quick call?\"",
       "example": "Erin's two managers kept using her to send jabs back and forth about a shared project. She finally said, 'This sounds like a you-two conversation,' and set up a fifteen-minute call between them. The sniping stopped, and Erin was out of the crossfire for good.",
       "counter": "If someone offers to 'connect you directly' instead of relaying your message, they're refusing to be your proxy.\n• Notice when your request gets bounced back to the other party.\n• Accept the direct conversation instead of pushing back through them.\n• Handle your own conflicts instead of routing them through staff.",
-      "insight": "Refusing the middle role protects you today. The harder part is doing it without looking like you're dodging work."
+      "insight": "Refusing the middle role protects you today. The harder part is doing it without looking like you're dodging work.",
+      "watchFor": "The boss messages the other one directly instead of asking you to relay it.",
+      "ifItFails": "They refuse and say \"just tell them for me.\" Don't become the go-between — relay it in writing with both of them on the thread, so you're delivering a message on record instead of interpreting it in private. Say: \"Sending this to both of you so nothing gets lost in translation — see below.\""
     },
     {
       "id": 10,
@@ -601,7 +619,9 @@
       "script": "\"I got two different directions on this — can we spend fifteen minutes together to land on one?\"",
       "example": "Owen had spent two weeks getting contradictory answers from his co-leads on a launch date. He booked a joint fifteen-minute call and laid out both instructions side by side. They picked a date on the spot, in front of him, and neither could walk it back later.",
       "counter": "If someone books you into a joint meeting to 'get clarity,' they're forcing a public decision you can't unmake.\n• Notice when a private disagreement suddenly gets a shared calendar invite.\n• Decide your position before the meeting starts, not during it.\n• Hold your ground in the room since backing down there is permanent.",
-      "insight": "A public decision is hard to reverse, which is exactly the point. The next problem is picking your moment so it reads as clarity, not as a setup."
+      "insight": "A public decision is hard to reverse, which is exactly the point. The next problem is picking your moment so it reads as clarity, not as a setup.",
+      "watchFor": "Both bosses actually show up and put time on the calendar.",
+      "ifItFails": "One or both decline and say \"just do what I said.\" Send a written recap of both instructions to both of them and name the default you're taking unless someone objects by a set time — forcing them to object instead of you deciding. Say: \"Since we can't sync live, I'll go with the client version by 3pm unless one of you tells me otherwise.\""
     },
     {
       "id": 11,
@@ -656,7 +676,9 @@
       "script": "\"Quoting both notes below so we're aligned — can you two confirm which approach I should run with by Thursday?\"",
       "example": "Nadia's two managers gave her opposite feedback on a proposal by email. She replied-all quoting both, asked one direct question, and set a Thursday deadline. They hashed it out in the thread within a day, and Nadia had a clean written answer to point to going forward.",
       "counter": "If someone replies-all quoting your own words back at you, they're forcing you to answer in public.\n• Notice when a private disagreement gets pasted into a shared thread.\n• Answer the direct question fast instead of letting silence read as guilt.\n• Settle it in writing since the thread now outlives the conversation.",
-      "insight": "Written conflict is uncomfortable but it's honest, and honesty forces movement. The harder part is doing this without looking like you're keeping score against them."
+      "insight": "Written conflict is uncomfortable but it's honest, and honesty forces movement. The harder part is doing this without looking like you're keeping score against them.",
+      "watchFor": "One or both reply-all with a clear pick instead of going quiet.",
+      "ifItFails": "No one responds by Thursday, or one boss quietly overrides you outside the thread. Don't chase a reply — post the default you're taking in the same thread and start executing, since silence in front of both of them is a bigger tell than silence to you alone. Say: \"No response by end of day, so I'm moving forward with approach A — flag me here if that's wrong.\""
     },
     {
       "id": 12,
@@ -711,7 +733,9 @@
       "script": "\"Sorry for the delay — juggling a heavy load this week, but this has my full attention now.\"",
       "example": "Devon quietly started clearing his VP's requests before his director's, every time, without ever saying so. His director noticed slower replies but never got proof of favoritism because Devon's excuse was always workload, never the VP's name. Devon kept both relationships intact and the VP's trust grew.",
       "counter": "If someone's replies to you always come slightly slower than to a more senior person, they've already picked without telling you.\n• Notice patterns in response time more than words said to your face.\n• Ask directly if you're being deprioritized instead of guessing.\n• Escalate to a shared boss if the pattern costs you real results.",
-      "insight": "Silent priority is safer than spoken loyalty because it leaves no quote to repeat. The real trap is keeping it up long enough that the weaker boss stops trusting you anyway."
+      "insight": "Silent priority is safer than spoken loyalty because it leaves no quote to repeat. The real trap is keeping it up long enough that the weaker boss stops trusting you anyway.",
+      "watchFor": "The weaker boss accepts the delay explanation and doesn't push further.",
+      "ifItFails": "They don't buy it and escalate straight to the powerful boss or to HR. Get ahead of the complaint yourself before it reaches the powerful boss secondhand, and frame it on your terms first. Say to the powerful boss: \"Heads-up, [name] flagged a delay on their ask — wanted you to hear it from me first.\""
     },
     {
       "id": 13,
@@ -766,7 +790,9 @@
       "script": "\"Just want to flag — this approach was [name]'s idea originally, it worked really well.\"",
       "example": "Ana was clearing her SVP's requests first for months, leaving her director thinner on time. She started publicly crediting her director's ideas in every team update. The director never got more of Ana's hours, but stayed loyal and vocal in Ana's defense when budget cuts came.",
       "counter": "If a colleague suddenly starts crediting you publicly while giving you less actual time, they're managing you, not honoring you.\n• Notice praise increasing while access or response time decreases.\n• Ask directly for the thing you actually need: time, not credit.\n• Decide if praise alone is worth the trade you're making.",
-      "insight": "Credit is the cheapest currency that still buys real loyalty. The next question is whether the weaker boss eventually wants more than a mention."
+      "insight": "Credit is the cheapest currency that still buys real loyalty. The next question is whether the weaker boss eventually wants more than a mention.",
+      "watchFor": "The weaker boss thanks you for the credit and drops the priority question.",
+      "ifItFails": "They notice the mismatch and ask why credit didn't come with actual priority. Make the credit bigger and more public instead of retreating — say it in front of the team or in an email the powerful boss also sees. Say: \"Actually, let's flag this in the team update — this approach was [name]'s idea.\""
     },
     {
       "id": 14,
@@ -821,7 +847,9 @@
       "script": "\"Honestly, I try to just serve whatever the company needs most that day.\"",
       "example": "At a team happy hour, a coworker asked Grace point-blank which of her two bosses she'd side with if it came to it. Grace laughed it off with the company-first line and changed the subject. Months later, when the two bosses did clash, nobody could quote her taking a side, even though her actions clearly had.",
       "counter": "If someone deflects a direct loyalty question with a vague company-first line, they've already picked and won't say who.\n• Notice a smooth, rehearsed-sounding non-answer to a direct question.\n• Stop asking directly and watch their actions over the next month instead.\n• Judge them by their calendar, not by anything they've said to you.",
-      "insight": "Silence protects you today but someone eventually reads your pattern anyway. The harder part is what you do when they finally call it out to your face."
+      "insight": "Silence protects you today but someone eventually reads your pattern anyway. The harder part is what you do when they finally call it out to your face.",
+      "watchFor": "The person nods and drops the loyalty question.",
+      "ifItFails": "They push harder and demand you name a side outright. Stop answering with an opinion and point to a fact instead — your actual logged hours this week — since a number is harder to argue with than a claim. Say: \"Look at my calendar — it's basically 50/50 this week. That's not me being diplomatic, that's just where the work landed.\""
     },
     {
       "id": 15,
@@ -876,7 +904,9 @@
       "script": "\"Here's exactly what happened, in order — [date], [name] asked for X, then [date], [name] asked for Y.\"",
       "example": "When Raj's two managers finally realized they'd given him opposite priorities for a month, they called a joint meeting. Raj had already written out the full timeline the night before and walked in with dated emails. He read it calmly, and the blame landed on the miscommunication between them, not on him.",
       "counter": "If someone walks into a tense meeting with a printed timeline, they prepared for this moment before you called it.\n• Notice unusual calm and precise dates from someone under pressure.\n• Check their dates against your own memory and records carefully.\n• Ask questions instead of accepting the timeline as the full story.",
-      "insight": "Preparation reads as innocence even when the situation is messy. The next question is whether the two bosses trust each other again after this, and whether that's your problem now."
+      "insight": "Preparation reads as innocence even when the situation is messy. The next question is whether the two bosses trust each other again after this, and whether that's your problem now.",
+      "watchFor": "They nod along to your timeline without jumping in to correct it.",
+      "ifItFails": "They catch a gap or contradiction in your account. Stop relying on memory — pull up the actual saved emails or texts and let the dated paper trail answer instead of your recollection. Say: \"Let me just pull up the emails instead of going from memory — here's exactly what each of you sent, with dates.\""
     },
     {
       "id": 16,
@@ -931,7 +961,9 @@
       "script": "\"I'll let you two work out the right call — happy to follow whatever you land on together.\"",
       "example": "When Lena's two managers finally started arguing directly about her conflicting deadlines, she stopped explaining herself to either. She told them she'd follow whatever they agreed on, gave the same answer to both, and let their shared boss settle it. Neither manager blamed her for the mess.",
       "counter": "If someone stops explaining themselves and just asks you to decide, they've handed the whole fight to you.\n• Notice when a person refuses to defend a position and stays neutral.\n• Push for their opinion directly instead of settling it without them.\n• Make the decision and document it so it doesn't repeat.",
-      "insight": "Stepping back protects you once, but the two bosses now know their setup breaks under pressure. The real question is whether you'll still be splitting your time between them next quarter."
+      "insight": "Stepping back protects you once, but the two bosses now know their setup breaks under pressure. The real question is whether you'll still be splitting your time between them next quarter.",
+      "watchFor": "They start addressing each other instead of looking at you.",
+      "ifItFails": "They stop fighting each other and turn back to you to pick a side. Refuse the referee role a second time, name explicitly that it's their call, and go quiet until they answer each other instead of you. Say: \"I really can't make that call between you two — that one's on you both.\""
     }
   ]
 }
