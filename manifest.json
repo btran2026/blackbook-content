@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 30,
+  "manifestVersion": 31,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -132,19 +132,6 @@
       "minTier": "pro"
     },
     {
-      "id": "srv-when-someone-senior-decides-they-don-t-like-you",
-      "title": "When Someone Senior Decides They Don't Like You",
-      "theme": "office politics",
-      "topic": "",
-      "cardCount": 18,
-      "contentVersion": 2,
-      "coverColor": "#3B2F4A",
-      "coverIcon": "🎯",
-      "url": "playbooks/playbook-srv-when-someone-senior-decides-they-don-t-like-you.json",
-      "addedAt": "2026-08-23T06:55:23.638Z",
-      "minTier": "pro"
-    },
-    {
       "id": "srv-losing-the-promotion-and-staying-in-the-room",
       "title": "Losing the Promotion and Staying in the Room",
       "theme": "career",
@@ -208,7 +195,20 @@
       "url": "playbooks/playbook-srv-getting-doctors-to-actually-listen.json",
       "addedAt": "2026-08-23T06:54:42.852Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-when-someone-senior-decides-they-don-t-like-you",
+      "title": "When Someone Senior Decides They Don't Like You",
+      "theme": "office politics",
+      "topic": "",
+      "cardCount": 18,
+      "contentVersion": 3,
+      "coverColor": "#3B2F4A",
+      "coverIcon": "🎯",
+      "url": "playbooks/playbook-srv-when-someone-senior-decides-they-don-t-like-you.json",
+      "addedAt": "2026-08-23T06:55:23.638Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-26T14:23:03.223Z"
+  "generatedAt": "2026-08-26T14:23:08.861Z"
 }
