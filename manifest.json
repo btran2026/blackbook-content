@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 28,
+  "manifestVersion": 29,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -132,19 +132,6 @@
       "minTier": "pro"
     },
     {
-      "id": "srv-art-of-a-womanizer",
-      "title": "Art of a Womanizer",
-      "theme": "seduction",
-      "topic": "",
-      "cardCount": 35,
-      "contentVersion": 2,
-      "coverColor": "#7B1E3B",
-      "coverIcon": "🥀",
-      "url": "playbooks/playbook-srv-art-of-a-womanizer.json",
-      "addedAt": "2026-08-23T21:57:06.750Z",
-      "minTier": "pro"
-    },
-    {
       "id": "srv-getting-doctors-to-actually-listen",
       "title": "Getting Doctors To Actually Listen",
       "theme": "medical",
@@ -208,7 +195,20 @@
       "url": "playbooks/playbook-srv-office-romance-without-the-fallout.json",
       "addedAt": "2026-08-23T23:16:07.125Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-art-of-a-womanizer",
+      "title": "Art of a Womanizer",
+      "theme": "seduction",
+      "topic": "",
+      "cardCount": 35,
+      "contentVersion": 3,
+      "coverColor": "#7B1E3B",
+      "coverIcon": "🥀",
+      "url": "playbooks/playbook-srv-art-of-a-womanizer.json",
+      "addedAt": "2026-08-23T21:57:06.750Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-26T14:22:52.262Z"
+  "generatedAt": "2026-08-26T14:22:57.696Z"
 }
