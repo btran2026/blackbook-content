@@ -99,7 +99,9 @@
       ],
       "script": "\"Before we meet again — whose sign-off actually makes this final? I want to make sure they're in the room.\"",
       "counter": "If someone starts privately asking who really decides, they're hunting for your veto.\n• Notice they're mapping the room instead of pushing the plan.\n• Say: <strong>\"I'll raise concerns in the room, not before it.\"</strong>\n• Don't let them isolate your objection before the group hears it.",
-      "insight": "Finding the blocker feels like the win, but naming them out loud can make them dig in harder. The next problem is getting their yes without ever cornering them in front of everyone."
+      "insight": "Finding the blocker feels like the win, but naming them out loud can make them dig in harder. The next problem is getting their yes without ever cornering them in front of everyone.",
+      "watchFor": "They name a specific person's title instead of saying 'the team' or 'we'.",
+      "ifItFails": "They dodge and say it's a group decision with no single name. Ask a different attendee the same question in private, or ask it out loud in the meeting itself. Send: \"Just so I follow up with the right person after — whose name goes on the approval?\""
     },
     {
       "id": 2,
@@ -152,7 +154,9 @@
       ],
       "script": "\"If we don't have a decision by Friday, the vendor slot closes and we lose the pricing. Can we get a yes or no by then?\"",
       "counter": "If someone hands you a sudden deadline, check if the cost is real or made up.\n• Ask what actually breaks if the date slips.\n• Say: <strong>\"Show me what's really tied to that date.\"</strong>\n• If nothing breaks, the deadline is pressure, not fact — push back.",
-      "insight": "A deadline only works if the room believes the cost is real. The next problem is what you do when they call your bluff and ask you to prove it."
+      "insight": "A deadline only works if the room believes the cost is real. The next problem is what you do when they call your bluff and ask you to prove it.",
+      "watchFor": "They start asking what they need from others to hit the deadline.",
+      "ifItFails": "They ask you to push the deadline back instead of deciding. Don't hand out more time for free — let the deadline pass and move ahead on the fallback option, so they have to act to stop it. Send: \"Since we didn't hear back, we're booking the vendor slot Friday unless you tell us otherwise by noon.\""
     },
     {
       "id": 3,
@@ -205,7 +209,9 @@
       ],
       "script": "\"Forget the whole rollout for now — can we just approve a two-week pilot with five users and look at it again on the 30th?\"",
       "counter": "If someone shrinks their ask suddenly, they may be setting up bigger asks later.\n• Notice when a 'small favor' sits inside a much larger plan.\n• Say: <strong>\"I'll approve this step. The rest gets its own review.\"</strong>\n• Approve the piece, not the pattern — make them come back and ask again.",
-      "insight": "A small yes is easy to get and easy to build on. The harder part is turning that first small yes into the big one without the room noticing the plan grew."
+      "insight": "A small yes is easy to get and easy to build on. The harder part is turning that first small yes into the big one without the room noticing the plan grew.",
+      "watchFor": "They say yes to the small version before the meeting ends.",
+      "ifItFails": "They stall the small ask too and ask for more time to think it over. Shrink it again to one line only they can approve, and put a date on that piece. Send: \"Just the five users, just two weeks — can you say yes to that piece today?\""
     },
     {
       "id": 4,
@@ -258,7 +264,9 @@
       ],
       "script": "\"Before Thursday's meeting — what would make this an easy yes for you?\"",
       "counter": "If someone is quietly polling the room before a meeting, they're locking in votes early.\n• Notice private pre-meeting check-ins you weren't looped into.\n• Say: <strong>\"I'll share my view when everyone's in the room.\"</strong>\n• Keep your position open until you hear the actual proposal live.",
-      "insight": "Lining up votes early gets you a fast yes, but it can look like you went around the room if it leaks. The next problem is running the meeting so it still feels like a real conversation."
+      "insight": "Lining up votes early gets you a fast yes, but it can look like you went around the room if it leaks. The next problem is running the meeting so it still feels like a real conversation.",
+      "watchFor": "They tell you the exact condition that would make them vote yes.",
+      "ifItFails": "They stay vague and say they'll just see how the meeting goes. Go to a peer who already agreed and ask them to raise it first in the meeting, so the holdout answers to the room, not just you. Send: \"Mind opening with your take on the pilot Thursday? I think it moves us faster.\""
     },
     {
       "id": 5,
@@ -311,7 +319,9 @@
       ],
       "script": "\"So to be clear before we go — we're doing the pilot, Sarah owns it, and we review results on the 30th. Right?\"",
       "counter": "If someone rushes a summary as the meeting ends, check whether it matches what was actually agreed.\n• Notice a recap that adds detail nobody said out loud.\n• Say: <strong>\"Hold on, that's not what I heard — let's confirm.\"</strong>\n• Get your own version on record before you leave the room.",
-      "insight": "Naming the decision out loud locks it in, but only if you're fast enough to say it before the room scatters. The harder part is holding people to it once they're back at their desks and the urgency is gone."
+      "insight": "Naming the decision out loud locks it in, but only if you're fast enough to say it before the room scatters. The harder part is holding people to it once they're back at their desks and the urgency is gone.",
+      "watchFor": "They nod or say 'right' to your recap instead of adding a new objection.",
+      "ifItFails": "Someone cuts in with 'let's take this offline' before you finish the recap. Don't argue in the room — send the recap in writing within the hour so it stands unless someone corrects it. Send: \"Recap from today: pilot approved, Sarah owns it, review on the 30th. Tell me if I got anything wrong.\""
     }
   ]
 }
