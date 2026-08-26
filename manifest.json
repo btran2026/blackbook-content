@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 25,
+  "manifestVersion": 26,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -90,19 +90,6 @@
       "coverIcon": "⏳",
       "url": "playbooks/playbook-srv-force-the-room-to-decide.json",
       "addedAt": "2026-08-23T02:34:24.133Z",
-      "minTier": "pro"
-    },
-    {
-      "id": "srv-losing-the-promotion-and-staying-in-the-room",
-      "title": "Losing the Promotion and Staying in the Room",
-      "theme": "career",
-      "topic": "",
-      "cardCount": 20,
-      "contentVersion": 1,
-      "coverColor": "#2B3A55",
-      "coverIcon": "🪑",
-      "url": "playbooks/playbook-srv-losing-the-promotion-and-staying-in-the-room.json",
-      "addedAt": "2026-08-23T06:58:54.125Z",
       "minTier": "pro"
     },
     {
@@ -208,7 +195,20 @@
       "url": "playbooks/playbook-srv-when-someone-senior-decides-they-don-t-like-you.json",
       "addedAt": "2026-08-23T06:55:23.638Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-losing-the-promotion-and-staying-in-the-room",
+      "title": "Losing the Promotion and Staying in the Room",
+      "theme": "career",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 2,
+      "coverColor": "#2B3A55",
+      "coverIcon": "🪑",
+      "url": "playbooks/playbook-srv-losing-the-promotion-and-staying-in-the-room.json",
+      "addedAt": "2026-08-23T06:58:54.125Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-26T14:15:23.807Z"
+  "generatedAt": "2026-08-26T14:15:29.220Z"
 }
