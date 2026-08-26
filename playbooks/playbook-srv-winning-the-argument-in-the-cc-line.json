@@ -113,7 +113,9 @@
       "script": "\"Got it — I want to give this a proper answer with the numbers in front of me. <strong>I'll come back to you tomorrow morning.</strong>\"",
       "example": "Dev got an email at 5 PM saying his team missed a deadline, with the COO on CC. He wrote a furious reply, then closed the laptop without sending. Next morning he sent four lines and one date-stamped screenshot instead. The COO replied to him, not to the accuser.",
       "counter": "If someone stalls your email with a polite holding line, they are buying time to build a case.\n• Notice the reply that answers nothing but sounds cooperative.\n• Say: <strong>\"Sure — I'll need it by 10 tomorrow for the deck.\"</strong>\n• Put a clock on the delay. Delay without a deadline is a win for them.",
-      "insight": "The hour is easy. The harder part is what you do with it — most people just cool down and send a softer version of the same weak email."
+      "insight": "The hour is easy. The harder part is what you do with it — most people just cool down and send a softer version of the same weak email.",
+      "watchFor": "They stop sending follow-up emails and wait for your morning reply instead of pushing again.",
+      "ifItFails": "They forward the thread to your boss before your hour is up, demanding an immediate answer. Reply to the whole thread right away with one line and the same deadline: \"Confirming — full answer with numbers by 9am tomorrow.\" That puts the delay on record so the escalation looks premature."
     },
     {
       "id": 2,
@@ -168,7 +170,9 @@
       "script": "\"On the delivery date — <strong>we shipped on the 14th, ticket 4021.</strong> The rest of this is between Ops and Finance, so I'll stay out of it.\"",
       "example": "Nadia sat on CC while two directors fought about a missed launch for nine emails. She replied once with a single ticket number when named. Three months later the VP asked who had handled it well. Her name came up because it was the only calm line in the thread.",
       "counter": "If someone stays silent while you fight, they are letting you spend your credit.\n• Notice who reads every email and answers none.\n• Say: <strong>\"Priya, you own this step — what's your read?\"</strong>\n• Name them and ask a direct question. Silence gets expensive when it has a name on it.",
-      "insight": "Staying out costs nothing until the day the story gets written without you in it — then the question is whether you have the emails to get back in."
+      "insight": "Staying out costs nothing until the day the story gets written without you in it — then the question is whether you have the emails to get back in.",
+      "watchFor": "They stop tagging you on the Ops-Finance replies and argue it out between themselves.",
+      "ifItFails": "They keep looping you in and asking you to weigh in on the fight anyway. Reply once more, name the ticket again, and ask to be dropped: \"Same answer as before — ticket 4021. Please take me off this thread, I'm not part of the Ops/Finance call.\""
     },
     {
       "id": 3,
@@ -223,7 +227,9 @@
       "script": "\"Before we go line by line — <strong>is the real concern that your team gets named on the launch?</strong> If so, I can fix that in one email and we can drop the rest.\"",
       "example": "Tom got a hostile email about his team's naming convention, with two directors on CC. He guessed the sender wanted his own team listed as a launch owner. Tom offered that in one line. The naming argument vanished and the thread died in two replies.",
       "counter": "If someone skips your stated complaint and offers you something else, they read your real want.\n• Notice the reply that gives you a win you did not ask for.\n• Say: <strong>\"I'll take that. The date issue still stands though.\"</strong>\n• Take the gift and keep your original ask alive in the same sentence.",
-      "insight": "Guessing their want right ends the thread fast. Guessing it wrong tells them you were never listening — and now they know what you think of them."
+      "insight": "Guessing their want right ends the thread fast. Guessing it wrong tells them you were never listening — and now they know what you think of them.",
+      "watchFor": "They answer your real-concern question instead of continuing to argue the small detail.",
+      "ifItFails": "They deny that's the issue and keep hammering the small detail anyway. Fix the detail in writing once, then stop responding to further nitpicks so any new complaint has to be named outright: \"Fixed the line either way — let me know if there's something else specific.\""
     },
     {
       "id": 4,
@@ -278,7 +284,9 @@
       "script": "\"Adding Renata since she owns the budget line, and <strong>moving Legal to BCC so we don't clutter their inbox</strong> until there's an actual decision.\"",
       "example": "Isabel noticed her skip-level got added to a thread about a late report. She stopped answering the sender and wrote four lines aimed at the skip-level, with dates. The skip-level replied \"clear, thanks\" and the sender went quiet for a week.",
       "counter": "If someone adds powerful names to a thread with you, they are building an audience for your mistake.\n• Notice new senior names on an ordinary thread.\n• Say: <strong>\"Adding Dana here — she has the actual numbers.\"</strong>\n• Add your own witness. An audience only helps them if it is only theirs.",
-      "insight": "Reading the CC line takes ten seconds and changes who you write to. The next question is harder: who is on BCC, and you will never see it."
+      "insight": "Reading the CC line takes ten seconds and changes who you write to. The next question is harder: who is on BCC, and you will never see it.",
+      "watchFor": "Renata responds with budget input, and Legal never replies to the thread at all.",
+      "ifItFails": "Someone re-adds the BCC'd people back onto the CC line before there's a decision to show them. Send a fresh, smaller thread without them and note it plainly, without explaining yourself to the group: \"Moving this back to a smaller group for now — will loop everyone in once there's something to decide.\""
     },
     {
       "id": 5,
@@ -333,7 +341,9 @@
       "script": "\"<strong>Marcus — you own this call.</strong> Two options: ship Friday with the known gap, or slip to Tuesday and close it. I'd take Friday. Which do you want?\"",
       "example": "Wei spent six emails fighting a peer about test coverage. Then he wrote one email straight to the engineering director: two options, one recommendation, one question. The director picked in nine minutes. The peer's next email got no replies at all.",
       "counter": "If someone starts writing to your boss instead of you, they are cutting you out of the decision.\n• Notice the reply that ignores your points and addresses someone senior.\n• Say: <strong>\"Happy for Marcus to call it — here's the piece he's missing.\"</strong>\n• Do not fight for the mic. Add the fact the decider does not have.",
-      "insight": "Going straight to the decider works once or twice. Do it every week and you become the person who cannot handle their own peers."
+      "insight": "Going straight to the decider works once or twice. Do it every week and you become the person who cannot handle their own peers.",
+      "watchFor": "Marcus answers with one of the two options instead of the group debating it further.",
+      "ifItFails": "Nobody with the authority to decide responds, and other people start chiming in to dilute it into a group vote. Reply-all with a deadline and a default so silence still produces a decision: \"If I don't hear back by 5pm, we ship Friday.\""
     },
     {
       "id": 6,
@@ -388,7 +398,9 @@
       "script": "\"Confirming: <strong>we cut the QA step on the 12th, approved by Elena in the go/no-go call</strong> — notes attached. What's this feeding into, so I send the right version?\"",
       "example": "Karim noticed a peer asking him to confirm three old decisions in one week, always in writing, never in chat. He answered each with the approver's name on CC. When the peer took the file to HR, every quote came with a director's signature attached.",
       "counter": "If you are collecting emails on someone, expect them to do the same.\n• Notice when their replies start including approvers and dates.\n• Say nothing about the file. Keep asking normal questions.\n• Stop asking for confirmations. Ask for documents instead.",
-      "insight": "A file built on you is only dangerous if your answers are short. The trap is politeness — brief answers read like admissions six months later."
+      "insight": "A file built on you is only dangerous if your answers are short. The trap is politeness — brief answers read like admissions six months later.",
+      "watchFor": "They stop asking you to confirm further small details in writing.",
+      "ifItFails": "They ignore your question about what it's feeding into and keep collecting more written confirmations. Answer only exactly what was asked from now on, and loop your own manager into the next request: \"Adding Priya here since this is turning into a bigger record than a quick confirm.\""
     },
     {
       "id": 7,
@@ -443,7 +455,9 @@
       "script": "\"Moving Sofia and Dan to BCC so we don't fill their inboxes while we sort the detail. <strong>Yusuf — 15 minutes at 2pm to close this?</strong>\"",
       "example": "Grace watched a peer send four grandstanding emails to eleven people. She replied with the two VPs moved to BCC and offered a call. The peer's next email went to four people and said almost nothing. The thread ended that afternoon.",
       "counter": "If someone quietly moves your audience to BCC, they are cutting your reach.\n• Notice the CC list shrinking while the argument continues.\n• Say: <strong>\"Looping Sofia back in — she asked to follow this one.\"</strong>\n• Give a reason for the re-add. A re-add without a reason looks like panic.",
-      "insight": "Shrinking the room usually ends the fight. It also means the win is now invisible — and invisible wins do not show up at review time."
+      "insight": "Shrinking the room usually ends the fight. It also means the win is now invisible — and invisible wins do not show up at review time.",
+      "watchFor": "Yusuf agrees to the 15-minute call instead of continuing to write for the audience.",
+      "ifItFails": "They reply-all anyway, pulling Sofia and Dan back onto the thread to keep the audience. Stop replying in the thread — message Yusuf directly and post only the resolved outcome back to the full list afterward: \"Following up from a quick call — here's where we landed: [outcome].\""
     },
     {
       "id": 8,
@@ -499,7 +513,9 @@
       "script": "\"Quick correction first: <strong>the agreed date was the 20th, in the signed scope on the 3rd.</strong> We delivered on the 18th. If the question is why the 14th got mentioned in the deck, I can walk through that.\"",
       "example": "Priya got an email asking why her team blew the launch date, with the CTO on CC. Her first line quoted the signed scope date and her delivery date. The sender never mentioned the deadline again and switched to a different complaint.",
       "counter": "If someone rewrites your question before answering, they are refusing your frame.\n• Notice a reply that opens with \"quick correction\" or a date.\n• Say: <strong>\"Fine on the date. My question was about the scope cut.\"</strong>\n• Accept the correction and restate your real ask immediately. Do not defend the bad question.",
-      "insight": "Fixing the question wins the paragraph. The harder part is that they now know you read carefully, and their next email will be built cleaner."
+      "insight": "Fixing the question wins the paragraph. The harder part is that they now know you read carefully, and their next email will be built cleaner.",
+      "watchFor": "They drop the 'why did you miss it' framing and address the correction you gave.",
+      "ifItFails": "They ignore the correction and repeat the same loaded question in a follow-up email. Restate the fact once with the source doc attached, then stop answering the loaded version entirely: \"Same answer as before, scope doc attached — let me know once you've had a look.\""
     },
     {
       "id": 9,
@@ -554,7 +570,9 @@
       "script": "\"Can you point me to the email where we agreed the 14th? <strong>I have the scope doc from the 3rd saying the 20th</strong> — attaching it so we're all on the same page.\"",
       "example": "Owen was told he had broken an agreed process, with two directors on CC. He asked once for the email that set it. Silence for two days. He then posted the actual process doc, which said the opposite. The complaint disappeared.",
       "counter": "If someone asks you to produce the document, they suspect it does not exist.\n• Notice the polite request for a date or a link.\n• Say: <strong>\"It was the 9 May call — sending the notes now.\"</strong>\n• Produce something real and fast, or drop the claim. A dodge reads as a bluff.",
-      "insight": "Asking for the document is the cheapest move in email. The cost comes when they produce it, and it says what they claimed."
+      "insight": "Asking for the document is the cheapest move in email. The cost comes when they produce it, and it says what they claimed.",
+      "watchFor": "They stop citing 'the 14th' and go quiet instead of naming a source.",
+      "ifItFails": "They can't produce the document but keep repeating the claim in the next reply anyway. State plainly that no source has been shown and that the signed scope doc governs unless one appears: \"No email's turned up yet, so we're planning against the signed scope from the 3rd until one does.\""
     },
     {
       "id": 10,
@@ -609,7 +627,9 @@
       "script": "\"Three things that matter here. <strong>One: delivered the 18th, ticket 4021. Two: scope change approved by Elena on the 9th. Three: the cost number in your email is the old quote.</strong> The rest are detail — happy to walk through on a call.\"",
       "example": "Sandra got a fourteen-point email from a peer, with her director on CC. She answered three points with three dates and one attachment. Her director replied \"this looks resolved\" and nobody ever mentioned points four through fourteen again.",
       "counter": "If someone answers only three of your points, they are starving the rest.\n• Notice the short reply that skips most of your list.\n• Say: <strong>\"Good on those three. Points 6 and 9 are still open — need answers by Thursday.\"</strong>\n• Re-raise two only, with a date. A flood twice reads as noise.",
-      "insight": "Three answers beat fourteen every time. The risk is real though — the point you ignore is the one they take to HR."
+      "insight": "Three answers beat fourteen every time. The risk is real though — the point you ignore is the one they take to HR.",
+      "watchFor": "They stop listing new complaints and respond only to the three you addressed.",
+      "ifItFails": "They send another email repeating the smaller accusations you didn't answer. Don't work through them point by point — hold the line and require a call for the rest: \"Same three facts stand. Happy to cover the rest live — got 15 minutes?\""
     },
     {
       "id": 11,
@@ -664,7 +684,9 @@
       "script": "\"From your email on 9 May: <strong>'we're fine to slip to the 20th if scope holds.'</strong> Scope held. Which version should the team plan against?\"",
       "example": "Felix was accused of pushing a date without approval. He pasted one sentence from the accuser's own email, dated, with no commentary. The accuser replied \"fair enough, let's move on.\" The director on CC replied only to Felix: \"nicely handled.\"",
       "counter": "If someone quotes your old email at you, they have the thread and you do not.\n• Notice a dated quote with no commentary. That is a prepared move.\n• Say: <strong>\"That was right then. Two things changed since: X and Y.\"</strong>\n• Do not deny the quote. Name what changed, with dates.",
-      "insight": "A quote with a date ends most disputes. The next problem is that everyone on CC now knows you keep receipts, and people who know that write to you differently."
+      "insight": "A quote with a date ends most disputes. The next problem is that everyone on CC now knows you keep receipts, and people who know that write to you differently.",
+      "watchFor": "They go quiet on the reversal instead of denying the earlier email.",
+      "ifItFails": "They claim the earlier email doesn't count or that the context changed since then. Attach the actual email or thread link, not just the quote, and force a direct choice in front of the decider: \"Attaching the thread — Marcus, which version should the team plan against?\""
     },
     {
       "id": 12,
@@ -719,7 +741,9 @@
       "script": "\"Facts once: <strong>scope changed on the 9th, we shipped the 18th.</strong> Two ways forward: add a week and close the gap, or ship and fix in the next release. <strong>Marcus, can you pick by Thursday 10am?</strong>\"",
       "example": "Anton's thread hit nine emails of fault-swapping with the VP silent on CC. He sent one email: three facts, two options, one deadline. The VP replied within an hour picking option two. The blame conversation never resumed.",
       "counter": "If someone converts your complaint into a decision, they just took the thread from you.\n• Notice the reply with two options and a deadline in it.\n• Say: <strong>\"I'll take option two. The cause still needs a look — separate thread.\"</strong>\n• Agree to the decision and open a new thread for the fault. Do not fight in theirs.",
-      "insight": "Whoever writes the options controls the answer. The catch is that you must be happy with both, because they will pick the one you like less."
+      "insight": "Whoever writes the options controls the answer. The catch is that you must be happy with both, because they will pick the one you like less.",
+      "watchFor": "Marcus picks one of the two options instead of the blame argument continuing.",
+      "ifItFails": "Nobody decides by the deadline and the blame arguing starts back up. Announce the default yourself and make silence cost them the choice: \"No decision by 10am, so we're proceeding with option two — ship and fix in the next release.\""
     },
     {
       "id": 13,
@@ -774,7 +798,9 @@
       "script": "\"Putting the ugly part up front: <strong>we missed the QA gate in week 3 — my call, no sign-off.</strong> We added a two-person check on the 11th and it has held since. The open item is whether we re-test the old batch.\"",
       "example": "Lena knew a peer was collecting a missed sign-off to use in a review thread. She wrote it herself in the first paragraph of a status email, with the fix. When the peer raised it a week later, the director replied \"yes, Lena flagged that already.\"",
       "counter": "If someone confesses their worst fact early, they are taking your ammunition.\n• Notice a reply that admits something before you raise it.\n• Say: <strong>\"Appreciated. The part still unanswered is the old batch.\"</strong>\n• Do not praise the honesty and move on. Push straight to what they left out.",
-      "insight": "Confessing first takes the sting out of the ambush. It also puts your mistake in writing forever — the trade is worth it only if you also wrote the fix."
+      "insight": "Confessing first takes the sting out of the ambush. It also puts your mistake in writing forever — the trade is worth it only if you also wrote the fix.",
+      "watchFor": "They skip repeating the mistake and move straight to the open decision.",
+      "ifItFails": "They pile on about the mistake anyway and ignore the fix already in place. Don't defend it twice — redirect once to the decision still on the table: \"Understood — so on re-testing the old batch, yes or no?\""
     },
     {
       "id": 14,
@@ -829,7 +855,9 @@
       "script": "\"Dates: <strong>scope signed 3 May, change requested 9 May, delivered 18 May.</strong> Cost is unchanged at 40k. Happy to go through it live if that's easier.\"",
       "example": "Marco got a blistering email calling his work unacceptable, with three VPs on CC. He replied with four lines: three dates and one number. One VP wrote back to Marco privately: \"noted who kept their head.\" The sender was moved off the project that quarter.",
       "counter": "If someone answers your heat with cold facts, they are letting you look unstable.\n• Notice the reply that ignores your tone entirely.\n• Say: <strong>\"Those dates are right. The gap is the 9 May change — who approved it?\"</strong>\n• Drop your heat immediately and ask one hard factual question.",
-      "insight": "Cold beats hot in front of an audience. Keep it up too long and you become the person nobody can read — which has its own price."
+      "insight": "Cold beats hot in front of an audience. Keep it up too long and you become the person nobody can read — which has its own price.",
+      "watchFor": "Their next reply drops the charged language and sticks to dates and numbers.",
+      "ifItFails": "They escalate the emotional tone instead of cooling off. Stop replying in the thread and pull the conversation off email entirely: \"Let's take this live instead — I'm free at 3pm.\""
     },
     {
       "id": 15,
@@ -884,7 +912,9 @@
       "script": "\"Honestly the scope doc had two dates in it — <strong>easy to read the 14th.</strong> Your point on the test coverage is fair and I'll take it. Shall we fix the doc together this week?\"",
       "example": "Ivy proved a director had used a stale number in front of six people. Her next email blamed the shared dashboard for showing old data and thanked him for one valid point. He replied \"good catch, let's fix the dashboard.\" He backed her budget request a month later.",
       "counter": "If someone hands you a graceful excuse after beating you, they want the fight over.\n• Notice the reply that blames a document instead of you.\n• Say: <strong>\"That doc is a mess — I'll take that. Let's fix it Thursday.\"</strong>\n• Take the ladder. Refusing it only proves the point they made.",
-      "insight": "The ladder ends the thread and buys goodwill. It also means the record shows a mix-up instead of your win — decide which one you needed."
+      "insight": "The ladder ends the thread and buys goodwill. It also means the record shows a mix-up instead of your win — decide which one you needed.",
+      "watchFor": "They take the offer and agree to fix the doc together instead of pressing further.",
+      "ifItFails": "They refuse the ladder and keep arguing the point you already won. Stop offering exits — restate the fact once, flatly, and let the thread show them refuse a reasonable deal: \"Doc's getting fixed either way — happy to go through the test coverage point too if you still want to.\""
     },
     {
       "id": 16,
@@ -939,7 +969,9 @@
       "script": "\"Dana, short version: <strong>date was the 20th per signed scope, we shipped the 18th.</strong> The open item is the extra test round — I'm working it with Yusuf and will flag if it needs you. No action needed from you today.\"",
       "example": "Bilal's peer added his director to a complaint thread. Bilal replied with four lines to the director and a note saying he had it handled. The director replied \"thanks, leave it with you.\" The peer's next two emails got no senior reply at all.",
       "counter": "If someone answers your escalation by managing their boss, they just neutralized it.\n• Notice the reply that speaks past you to your added audience.\n• Say: <strong>\"Dana, I do need your read on the extra test round.\"</strong>\n• Ask the senior person for one specific decision. Escalation dies without an ask.",
-      "insight": "Handling it for your boss makes you safe this week. The harder question is whether they ever learn the peer is a problem."
+      "insight": "Handling it for your boss makes you safe this week. The harder question is whether they ever learn the peer is a problem.",
+      "watchFor": "Your boss replies 'no action needed' or stays out of the thread entirely.",
+      "ifItFails": "The peer replies-all again, trying to reopen the complaint in front of your boss. Don't argue it out in the thread — message your boss directly and let the public thread go unanswered: \"Dana — flagging in case this keeps going, happy to walk you through it anytime.\""
     },
     {
       "id": 17,
@@ -994,7 +1026,9 @@
       "script": "\"Dana — nothing dramatic in writing, but <strong>can I get 15 minutes tomorrow?</strong> Want to walk you through the last three date changes and propose one rule that stops them.\"",
       "example": "Reza wanted to email his director about a peer who kept changing deadlines. Instead he sent one line asking for fifteen minutes. In the room he showed three dates and asked for a written change-control rule. He got the rule and never looked like the difficult one.",
       "counter": "If someone brings you a pattern verbally and never writes it, they are protecting their record.\n• Notice the coworker who only complains in rooms, never in email.\n• Say: <strong>\"Send me the three dates in an email so I can act on it.\"</strong>\n• Ask for it in writing. If they refuse, you know how serious it is.",
-      "insight": "Keeping complaints verbal protects your name. The cost is that nothing is on the record — so the day you need proof of a pattern, you have none."
+      "insight": "Keeping complaints verbal protects your name. The cost is that nothing is on the record — so the day you need proof of a pattern, you have none.",
+      "watchFor": "Your boss agrees to the 15 minutes instead of asking you to explain it in writing.",
+      "ifItFails": "Your boss asks you to just lay it out over email instead of meeting. Keep it short and factual in writing, but still push for the live slot: \"Quick summary: three date changes in two weeks [dates]. Would rather walk through the fix live — 15 minutes tomorrow?\""
     },
     {
       "id": 18,
@@ -1049,7 +1083,9 @@
       "script": "\"<strong>Marcus — here's the short version.</strong> Scope signed 3 May. Change requested 9 May. Delivered 18 May at the agreed cost. My proposal is one extra test round this week. Free at 3pm today if you want it live.\"",
       "example": "Kate's peer emailed the COO accusing her team of a cost overrun. Kate replied only to the COO: three dates, one number, one proposal, and a 3pm offer. The COO took the call and approved her plan. Her peer was never mentioned in the reply or the meeting.",
       "counter": "If someone answers your escalation by talking only to the senior person, they cut you out.\n• Notice a reply that never uses your name once.\n• Say: <strong>\"Marcus, happy to add the cost detail before you decide.\"</strong>\n• Get back in with new information, not with a protest about being ignored.",
-      "insight": "Going over the escalator's head wins the day. It also means the next time they move on you, they will not warn you first."
+      "insight": "Going over the escalator's head wins the day. It also means the next time they move on you, they will not warn you first.",
+      "watchFor": "The senior leader replies to you directly instead of to the peer who escalated.",
+      "ifItFails": "The leader doesn't engage and the peer keeps pushing their version in the thread. Send a calendar invite for the time you offered instead of waiting on a reply, so the conversation moves somewhere the written framing doesn't carry: \"Sent a hold for 3pm — easier to close this out live.\""
     },
     {
       "id": 19,
@@ -1104,7 +1140,9 @@
       "script": "\"Summary so we all have one version. <strong>Decision: ship 18 May, extra test round in the next release. Owners: me on test scope, Yusuf on sign-off. Date: 30 May.</strong> Corrections by Thursday please, otherwise I'll treat this as agreed.\"",
       "example": "Hugo sent a five-line summary the morning after a nine-email fight. Nobody corrected it. Four months later, during a review, a director pasted Hugo's summary as the record of what happened. It named Hugo as the owner of the fix.",
       "counter": "If someone sends the summary first, they wrote the history and you are in it.\n• Notice a tidy recap email with owners and dates.\n• Say: <strong>\"One correction: the 9 May change came from Ops, not from us.\"</strong>\n• Correct one specific line inside the same thread. Never send a rival summary.",
-      "insight": "The summary is the most valuable email in any fight. The hard part is being early enough that correcting you costs more effort than agreeing."
+      "insight": "The summary is the most valuable email in any fight. The hard part is being early enough that correcting you costs more effort than agreeing.",
+      "watchFor": "Nobody corrects the summary by the deadline, or people reply agreeing to it.",
+      "ifItFails": "Someone disputes a detail in the summary after the correction deadline has passed. Don't argue it in the thread — update the doc once, note who requested the change, and reset a final deadline: \"Updated per Marcus's note — corrections by EOD Friday, then this is final.\""
     },
     {
       "id": 20,
@@ -1159,7 +1197,9 @@
       "script": "\"Closing this out: <strong>we ship 18 May, extra test round lands 30 May, I own the test scope.</strong> Anything else on this one, grab me on a call — I'm off email for the rest of the thread.\"",
       "example": "Jia was six emails deep with a peer who kept asking loaded questions. She sent three lines: decision, owner, date, and an offer to call. She never replied again. The peer sent two more emails to silence and then stopped.",
       "counter": "If someone closes the thread while your question is open, they ended it on their terms.\n• Notice a closing email with a decision and no answer to you.\n• Say: <strong>\"Agreed on the ship date. The cost question is still open — answer by Friday?\"</strong>\n• Accept the close and put one dated question in a fresh thread.",
-      "insight": "A thread with no question left is dead. The trap is closing too early, before the decision you actually needed was written down."
+      "insight": "A thread with no question left is dead. The trap is closing too early, before the decision you actually needed was written down.",
+      "watchFor": "Nobody replies after your close-out email and the thread goes dead.",
+      "ifItFails": "Someone replies trying to reopen the argument after you've closed it out. Don't answer in the thread — that defeats the close. Take it off email if it's genuinely new: \"Anything new, call me — I'm off this thread from here.\""
     },
     {
       "id": 21,
@@ -1214,7 +1254,9 @@
       "script": "\"Rather than go back and forth in writing on this one — <strong>can we take five minutes at 2pm?</strong> Easier to sort the detail live and I'll send the summary after.\"",
       "example": "Omar deleted a sarcastic line from an email to a peer and said it on a call instead. Nine months later the peer's HR complaint quoted four emails, none of them his. His written record showed only dates and offers to talk.",
       "counter": "If someone's emails are always flat and exact, they are writing for the record.\n• Notice a coworker who never jokes and never gets emotional in writing.\n• Say: <strong>\"Let's put the agreement in email so we both have it.\"</strong>\n• Match them. Keep your own record clean and stop expecting them to slip.",
-      "insight": "A clean record protects you in any inquiry. It also means you never get to say the thing you actually want to say — and some people need to hear it."
+      "insight": "A clean record protects you in any inquiry. It also means you never get to say the thing you actually want to say — and some people need to hear it.",
+      "watchFor": "They agree to the call instead of continuing to type it out.",
+      "ifItFails": "They refuse the call and keep pushing for a written answer to bait you. Give one flat, fact-only line with no charged language and repeat the offer once: \"Numbers are in the doc, dates checked out. Still happy to do 2pm if it helps.\""
     },
     {
       "id": 22,
@@ -1269,7 +1311,9 @@
       "script": "\"Quick note from the call so we have it written: <strong>you asked us to move the date to the 14th, I flagged the test risk, you said proceed.</strong> Shout if I got any of that wrong.\"",
       "example": "Dara started a folder the second time a peer changed a deadline verbally. She sent a three-line confirmation after every call for four months. When the peer blamed her in a review thread, she pasted six dated confirmations. The peer stopped mid-thread.",
       "counter": "If someone sends a short recap after every call, they are building a record on you.\n• Notice the three-line confirmation email that arrives after every meeting.\n• Say: <strong>\"Mostly right — I said proceed if QA signed off. Adding that.\"</strong>\n• Correct their recap immediately, in writing. An uncorrected recap becomes the truth.",
-      "insight": "The folder wins the fight you can see coming. The harder question is what it does to you — six months of collecting paper on a coworker changes how you work with everyone."
+      "insight": "The folder wins the fight you can see coming. The harder question is what it does to you — six months of collecting paper on a coworker changes how you work with everyone.",
+      "watchFor": "They don't correct your written recap, letting it stand as the record.",
+      "ifItFails": "They dispute the recap later and claim they never said that. Don't argue memory against memory — point to whatever record exists, or if none does, put the disagreement itself in writing: \"Noted, we recall that differently — let's confirm next steps in writing from here so there's no ambiguity.\""
     }
   ]
 }

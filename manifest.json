@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 33,
+  "manifestVersion": 34,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -90,19 +90,6 @@
       "coverIcon": "⏳",
       "url": "playbooks/playbook-srv-force-the-room-to-decide.json",
       "addedAt": "2026-08-23T02:34:24.133Z",
-      "minTier": "pro"
-    },
-    {
-      "id": "srv-winning-the-argument-in-the-cc-line",
-      "title": "Winning the Argument in the CC Line",
-      "theme": "email",
-      "topic": "",
-      "cardCount": 22,
-      "contentVersion": 1,
-      "coverColor": "#1B2838",
-      "coverIcon": "✉️",
-      "url": "playbooks/playbook-srv-winning-the-argument-in-the-cc-line.json",
-      "addedAt": "2026-08-23T06:58:59.638Z",
       "minTier": "pro"
     },
     {
@@ -208,7 +195,20 @@
       "url": "playbooks/playbook-srv-the-poisoned-chalice.json",
       "addedAt": "2026-08-23T06:59:13.013Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-winning-the-argument-in-the-cc-line",
+      "title": "Winning the Argument in the CC Line",
+      "theme": "email",
+      "topic": "",
+      "cardCount": 22,
+      "contentVersion": 2,
+      "coverColor": "#1B2838",
+      "coverIcon": "✉️",
+      "url": "playbooks/playbook-srv-winning-the-argument-in-the-cc-line.json",
+      "addedAt": "2026-08-23T06:58:59.638Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-26T14:23:20.118Z"
+  "generatedAt": "2026-08-26T14:23:25.166Z"
 }
