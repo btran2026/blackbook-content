@@ -107,7 +107,9 @@
       "script": "\"How am I supposed to get this done by Friday with the Kessler deadline still open?\"",
       "counter": "If someone answers your objection with a how question, they're handing you their problem.\n• Notice you're suddenly doing their thinking for free.\n• Say: <strong>\"That's your call to make, not mine.\"</strong>\n• Hand the planning back before you offer a single solution.",
       "insight": "This works because most people can't refuse a question, only a demand. The harder part is what happens when they answer with their own how question right back at you.",
-      "example": "Dana's manager dropped a new report on her desk due Friday. Instead of listing reasons she couldn't, she asked, 'How am I supposed to finish this and the audit by Friday?' Her manager pulled the audit deadline back a week without being asked."
+      "example": "Dana's manager dropped a new report on her desk due Friday. Instead of listing reasons she couldn't, she asked, 'How am I supposed to finish this and the audit by Friday?' Her manager pulled the audit deadline back a week without being asked.",
+      "watchFor": "They stop repeating the deadline and start naming what could move or who could help.",
+      "ifItFails": "They just repeat the demand flatter: \"I don't care how, just get it done.\" Don't ask again — name the trade yourself and make them own the cut. Send: \"Then Kessler slips to Monday so this ships Friday — confirm that's the call.\""
     },
     {
       "id": 2,
@@ -162,7 +164,9 @@
       "script": "\"Walk me through what happened between the draft and the send — where did it slip?\"",
       "counter": "If someone asks about the process right after a failure, they may already know who's at fault and are letting you hang yourself.\n• Notice if they already have the timeline and are testing your version.\n• Say: <strong>\"Here's exactly what I did, step by step.\"</strong>\n• Give the full sequence yourself before they piece it together.",
       "insight": "This gets the facts fast, and it means you learn who did what without anyone feeling caught. The next question is what you do with that information once you have it.",
-      "example": "Raj's team missed a client deadline. Instead of asking who dropped it, he asked, 'Where did it break between design and sign-off?' Priya admitted she'd sat on the file for two days, unprompted, because nobody was pointing at her."
+      "example": "Raj's team missed a client deadline. Instead of asking who dropped it, he asked, 'Where did it break between design and sign-off?' Priya admitted she'd sat on the file for two days, unprompted, because nobody was pointing at her.",
+      "watchFor": "They start walking through the timeline step by step instead of naming who to blame.",
+      "ifItFails": "They loop back to blaming a person instead of the sequence. Stop asking and pull the paper trail instead — drafts, timestamps, the send log. Say: \"Send me the thread so we can line up exactly when it slipped.\""
     },
     {
       "id": 3,
@@ -217,7 +221,9 @@
       "script": "\"You seemed off earlier — what's actually going on?\"",
       "counter": "If someone keeps circling back to the same question, they're not buying your first answer.\n• Notice the second and third ask landing softer, not louder.\n• Say: <strong>\"I already told you, I'm good.\"</strong> if you want the door shut.\n• Or give the real answer on pass two — waiting for pass three costs you both time.",
       "insight": "This gets real answers out of people trained to say they're fine. The next problem is what you do with the truth once you finally have it.",
-      "example": "Wes asked his wife how her day was and got 'fine.' An hour later he asked about her 3pm meeting specifically. At dinner he asked what was actually bothering her — she finally said she'd been passed over for the promotion that morning."
+      "example": "Wes asked his wife how her day was and got 'fine.' An hour later he asked about her 3pm meeting specifically. At dinner he asked what was actually bothering her — she finally said she'd been passed over for the promotion that morning.",
+      "watchFor": "On the third ask, their shoulders drop and they give an answer longer than one sentence.",
+      "ifItFails": "They get annoyed and repeat \"I said I'm fine\" with an edge. Stop asking — a fourth ask reads as pressure, not care. Say: \"Okay. I'm not buying it, but I'm not going to push — I'm here when you want to say it.\""
     },
     {
       "id": 4,
@@ -272,7 +278,9 @@
       "script": "\"What does a win here look like — a number, a date, or a project you can point to?\"",
       "counter": "If your boss asks you to define success on your own project, they're setting you up to own the goalposts too — good or bad.\n• Notice if they hand the definition back to you with no input.\n• Say: <strong>\"What's the minimum you need to see to call this a win?\"</strong>\n• Get their number before you commit to yours.",
       "insight": "Pinning the target down early protects you from a moved goalpost. The harder part is holding them to it when the deadline arrives and they've changed their mind.",
-      "example": "Mia's director asked her to 'improve onboarding.' She asked what a win looked like and got a number: cut ramp time by two weeks. Three months later when the director wanted more, she pointed back to the number they'd agreed on and closed the project clean."
+      "example": "Mia's director asked her to 'improve onboarding.' She asked what a win looked like and got a number: cut ramp time by two weeks. Three months later when the director wanted more, she pointed back to the number they'd agreed on and closed the project clean.",
+      "watchFor": "They give you a number, date, or named deliverable instead of a vague adjective.",
+      "ifItFails": "They stay vague — \"just make it good.\" Don't ask a third time; hand them a definition to veto instead of approve. Send: \"I'm going to aim for 20% signups by Friday unless you tell me that's wrong.\""
     },
     {
       "id": 5,
@@ -327,7 +335,9 @@
       "script": "\"What does it cost us if we sit on this for another month?\"",
       "counter": "If someone asks you what inaction costs, they're building a case to push you into their timeline.\n• Notice the question comes right before an ask for a decision.\n• Say: <strong>\"Waiting costs less than deciding wrong.\"</strong>\n• Name your own real deadline instead of accepting theirs.",
       "insight": "This turns a stall into a cost they can't unsee. The next problem is making sure the cost you named is actually true — inflate it once and they stop trusting your numbers.",
-      "example": "Tom's client kept delaying a contract renewal. He asked what a lapsed contract would cost them in downtime. The client did the math out loud, landed on $40,000, and signed by end of week."
+      "example": "Tom's client kept delaying a contract renewal. He asked what a lapsed contract would cost them in downtime. The client did the math out loud, landed on $40,000, and signed by end of week.",
+      "watchFor": "They start listing what it costs to wait instead of saying \"let's revisit next week.\"",
+      "ifItFails": "They shrug — \"we'll be fine, no rush.\" Stop waiting on their clock and put a default in writing with a date attached. Send: \"Without a call from you by Friday, I'm moving ahead with option B.\""
     },
     {
       "id": 6,
@@ -382,7 +392,9 @@
       "script": "\"What do you need from me right now?\"",
       "counter": "If someone asks what you need mid-argument, they're managing you, not necessarily agreeing with you.\n• Notice the question can lower your guard before they push their point.\n• Say: <strong>\"I need you to hear my side first, then ask me that.\"</strong>\n• Get your version in before you answer what you need.",
       "insight": "This ends most fights faster because most people are fighting to be heard, not to win a point. The harder part is not using this as a trick to skip an argument you actually owe them.",
-      "example": "Priya's coworker stormed into her office over a missed handoff. Instead of explaining herself, Priya asked, 'What do you need from me right now?' Her coworker asked for a five-minute fix, got it, and the blow-up never happened."
+      "example": "Priya's coworker stormed into her office over a missed handoff. Instead of explaining herself, Priya asked, 'What do you need from me right now?' Her coworker asked for a five-minute fix, got it, and the blow-up never happened.",
+      "watchFor": "Their voice drops in volume and they name one concrete thing instead of listing grievances.",
+      "ifItFails": "They keep listing complaints without ever answering what they need. Cut it off and force a single answer. Say: \"Tell me the one thing that fixes this right now, or we table it and pick this up tomorrow.\""
     },
     {
       "id": 7,
@@ -437,7 +449,9 @@
       "script": "\"What made you choose the harder route on that project when the easy option was right there?\"",
       "counter": "If someone asks you a question that flatters your specific work, check whether they want something from you next.\n• Notice if the compliment-question comes right before a favor request.\n• Say: <strong>\"Glad you asked — what's this really about?\"</strong>\n• Make them name the actual ask before you give the long answer.",
       "insight": "This buys you five minutes of someone's full attention for the price of ten minutes of homework. The next question is what you do with that attention before it fades.",
-      "example": "Devon met a VP at a conference and asked about a specific pricing decision from her old startup, not her current title. She talked for ten minutes and introduced him to two people before the night ended."
+      "example": "Devon met a VP at a conference and asked about a specific pricing decision from her old startup, not her current title. She talked for ten minutes and introduced him to two people before the night ended.",
+      "watchFor": "They lean forward and tell a longer, more specific story instead of a one-line answer.",
+      "ifItFails": "They give a flat, generic answer and look past you. Don't push for more in the moment — exit clean and follow up on the one detail they did give. Send: \"You mentioned the Denver call almost fell apart — what actually turned it around?\""
     },
     {
       "id": 8,
@@ -492,7 +506,9 @@
       "script": "\"You've run a launch like this before — where would you attack this plan first?\"",
       "counter": "If a coworker suddenly asks for your advice on something they've already decided, they may just want you invested in their outcome.\n• Notice if your advice changes nothing about their actual plan.\n• Say: <strong>\"Sounds like you've already decided — what do you actually need from me?\"</strong>\n• Make them name the real ask.",
       "insight": "This turns a skeptic into a stakeholder for the cost of one honest question. The harder part is not doing this so often that people notice the pattern and stop believing you want their opinion.",
-      "example": "Jamal needed his skeptical VP to back a new tool. Instead of pitching it cold, he asked her where she'd stress-test the plan. She gave him one fix, he used it, and she defended the tool to the CFO herself."
+      "example": "Jamal needed his skeptical VP to back a new tool. Instead of pitching it cold, he asked her where she'd stress-test the plan. She gave him one fix, he used it, and she defended the tool to the CFO herself.",
+      "watchFor": "They point at a specific flaw or number instead of saying \"looks fine\" or staying silent.",
+      "ifItFails": "They stonewall with \"not my call\" or a flat non-answer. Narrow it to one number they can't dodge without looking careless. Say: \"Just this one — does a 20% churn assumption hold up to you?\""
     },
     {
       "id": 9,
@@ -547,7 +563,9 @@
       "script": "\"So — is that number final?\" (then say nothing else)",
       "counter": "If someone asks you something and goes quiet, they're waiting for you to crack first.\n• Notice the urge to fill dead air with extra information.\n• Say: <strong>\"Take your time — I'll wait too.\"</strong>\n• Out-silence them. Whoever talks first gives something up.",
       "insight": "This costs nothing and works on almost anyone, because quiet feels like losing to most people. The next problem is knowing when the silence has gone on long enough that you look stuck instead of strong.",
-      "example": "Elena asked a vendor if his final price was really final, then said nothing. He filled the silence at eight seconds with a 10% discount she never had to ask for."
+      "example": "Elena asked a vendor if his final price was really final, then said nothing. He filled the silence at eight seconds with a 10% discount she never had to ask for.",
+      "watchFor": "They speak first and revise their own number without you asking again.",
+      "ifItFails": "They out-wait you and the silence just sits there with no movement. Don't repeat the question — repeat only the number, flat, and let the silence run again. Say: \"$40,000.\" Then nothing."
     },
     {
       "id": 10,
@@ -602,7 +620,9 @@
       "script": "\"If this fails in six months, what's the reason going to be?\"",
       "counter": "If your boss asks this right before you expect a yes, they're testing whether you actually believe your own plan.\n• Notice if the question comes right when you thought you were done.\n• Say: <strong>\"Here's the one way it fails, and here's our plan for it.\"</strong>\n• Have that answer ready before you walk in, not after.",
       "insight": "This catches weak plans before they cost real money. The harder part is asking it in a way that sharpens the room instead of shutting it down.",
-      "example": "Carlos's team wanted fast approval on a new vendor. He asked what would make the deal fail in six months. Someone flagged a single-point-of-failure clause nobody had caught, and they fixed it before signing."
+      "example": "Carlos's team wanted fast approval on a new vendor. He asked what would make the deal fail in six months. Someone flagged a single-point-of-failure clause nobody had caught, and they fixed it before signing.",
+      "watchFor": "Someone in the room states a specific risk out loud instead of nodding along.",
+      "ifItFails": "The room stays quiet and nods keep going. Stop asking the group and name the one person who owns the outcome. Say: \"Sarah, you own execution on this — what's your answer to that?\""
     }
   ]
 }
