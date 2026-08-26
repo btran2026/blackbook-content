@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 22,
+  "manifestVersion": 23,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -171,19 +171,6 @@
       "minTier": "pro"
     },
     {
-      "id": "srv-art-of-a-womanizer",
-      "title": "Art of a Womanizer",
-      "theme": "seduction",
-      "topic": "",
-      "cardCount": 10,
-      "contentVersion": 1,
-      "coverColor": "#7B1E3B",
-      "coverIcon": "🥀",
-      "url": "playbooks/playbook-srv-art-of-a-womanizer.json",
-      "addedAt": "2026-08-23T21:57:06.750Z",
-      "minTier": "pro"
-    },
-    {
       "id": "srv-the-promotion-war",
       "title": "The Promotion War",
       "theme": "promotion",
@@ -208,7 +195,20 @@
       "url": "playbooks/playbook-srv-office-romance-without-the-fallout.json",
       "addedAt": "2026-08-23T23:16:07.125Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-art-of-a-womanizer",
+      "title": "Art of a Womanizer",
+      "theme": "seduction",
+      "topic": "",
+      "cardCount": 35,
+      "contentVersion": 2,
+      "coverColor": "#7B1E3B",
+      "coverIcon": "🥀",
+      "url": "playbooks/playbook-srv-art-of-a-womanizer.json",
+      "addedAt": "2026-08-23T21:57:06.750Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-26T14:15:08.306Z"
+  "generatedAt": "2026-08-26T14:15:13.416Z"
 }
