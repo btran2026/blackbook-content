@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 37,
+  "manifestVersion": 38,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -38,19 +38,6 @@
       "coverIcon": "🗝️",
       "url": "playbooks/playbook-srv-the-art-of-strategic-questions.json",
       "addedAt": "2026-08-18T19:06:57.551Z",
-      "minTier": "pro"
-    },
-    {
-      "id": "srv-force-the-room-to-decide",
-      "title": "Force The Room To Decide",
-      "theme": "negotiation",
-      "topic": "",
-      "cardCount": 5,
-      "contentVersion": 1,
-      "coverColor": "#8B1E1E",
-      "coverIcon": "⏳",
-      "url": "playbooks/playbook-srv-force-the-room-to-decide.json",
-      "addedAt": "2026-08-23T02:34:24.133Z",
       "minTier": "pro"
     },
     {
@@ -208,7 +195,20 @@
       "url": "playbooks/playbook-srv-talking-to-police-during-a-stop.json",
       "addedAt": "2026-08-22T21:24:02.521Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-force-the-room-to-decide",
+      "title": "Force The Room To Decide",
+      "theme": "negotiation",
+      "topic": "",
+      "cardCount": 5,
+      "contentVersion": 2,
+      "coverColor": "#8B1E1E",
+      "coverIcon": "⏳",
+      "url": "playbooks/playbook-srv-force-the-room-to-decide.json",
+      "addedAt": "2026-08-23T02:34:24.133Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-26T14:23:41.865Z"
+  "generatedAt": "2026-08-26T14:23:47.641Z"
 }
