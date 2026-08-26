@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 26,
+  "manifestVersion": 27,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -132,19 +132,6 @@
       "minTier": "pro"
     },
     {
-      "id": "srv-the-promotion-war",
-      "title": "The Promotion War",
-      "theme": "promotion",
-      "topic": "",
-      "cardCount": 35,
-      "contentVersion": 2,
-      "coverColor": "#8B1E2D",
-      "coverIcon": "♟️",
-      "url": "playbooks/playbook-srv-the-promotion-war.json",
-      "addedAt": "2026-08-24T22:46:02.390Z",
-      "minTier": "pro"
-    },
-    {
       "id": "srv-office-romance-without-the-fallout",
       "title": "Office Romance Without the Fallout",
       "theme": "workplace",
@@ -208,7 +195,20 @@
       "url": "playbooks/playbook-srv-losing-the-promotion-and-staying-in-the-room.json",
       "addedAt": "2026-08-23T06:58:54.125Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-promotion-war",
+      "title": "The Promotion War",
+      "theme": "promotion",
+      "topic": "",
+      "cardCount": 35,
+      "contentVersion": 3,
+      "coverColor": "#8B1E2D",
+      "coverIcon": "♟️",
+      "url": "playbooks/playbook-srv-the-promotion-war.json",
+      "addedAt": "2026-08-24T22:46:02.390Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-26T14:15:29.220Z"
+  "generatedAt": "2026-08-26T14:22:45.061Z"
 }
