@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 29,
+  "manifestVersion": 30,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -132,19 +132,6 @@
       "minTier": "pro"
     },
     {
-      "id": "srv-getting-doctors-to-actually-listen",
-      "title": "Getting Doctors To Actually Listen",
-      "theme": "medical",
-      "topic": "",
-      "cardCount": 18,
-      "contentVersion": 2,
-      "coverColor": "#0E5C63",
-      "coverIcon": "🩺",
-      "url": "playbooks/playbook-srv-getting-doctors-to-actually-listen.json",
-      "addedAt": "2026-08-23T06:54:42.852Z",
-      "minTier": "pro"
-    },
-    {
       "id": "srv-when-someone-senior-decides-they-don-t-like-you",
       "title": "When Someone Senior Decides They Don't Like You",
       "theme": "office politics",
@@ -208,7 +195,20 @@
       "url": "playbooks/playbook-srv-art-of-a-womanizer.json",
       "addedAt": "2026-08-23T21:57:06.750Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-getting-doctors-to-actually-listen",
+      "title": "Getting Doctors To Actually Listen",
+      "theme": "medical",
+      "topic": "",
+      "cardCount": 18,
+      "contentVersion": 3,
+      "coverColor": "#0E5C63",
+      "coverIcon": "🩺",
+      "url": "playbooks/playbook-srv-getting-doctors-to-actually-listen.json",
+      "addedAt": "2026-08-23T06:54:42.852Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-26T14:22:57.696Z"
+  "generatedAt": "2026-08-26T14:23:03.223Z"
 }
