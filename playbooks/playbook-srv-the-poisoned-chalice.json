@@ -108,7 +108,9 @@
       "example": "Devon got handed a billing migration with a glowing pitch. He messaged two managers on other teams. Both said they had declined it in March because finance would not fund the vendor. Devon walked into his next 1-on-1 with that fact and asked for funding first.",
       "counter": "If someone sells you work with excitement instead of details, they are running this move on you.\n• Notice the pitch is about your career, not the plan.\n• Say: <strong>\"Send me the last owner's status notes.\"</strong>\n• Read the notes before you say a single yes.",
       "insight": "The history is free and nobody hides it, because nobody expects you to ask. The harder part is what you do once you know — refusing outright costs you, and the next card is the version that does not.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "He hesitates, then names one person instead of giving you a straight answer.",
+      "ifItFails": "If he says nobody turned it down and you're the first, that's a cover story — the predecessor exists somewhere in the org chart. Go around him and ask the team directly. Send: \"Who worked on this before me, and where can I find them?\""
     },
     {
       "id": 2,
@@ -164,7 +166,9 @@
       "example": "Priya got two 'stretch' projects in one year. The first came with two engineers and a VP who met her every Monday. It made her career. The second came with a pep talk and no budget code. She asked for the code three times, got nothing, and moved it back to her director in writing.",
       "counter": "If someone praises your potential while giving you nothing, they are running this move on you.\n• Notice praise arriving instead of people and money.\n• Say: <strong>\"I hear the trust. What comes with it?\"</strong>\n• Do not start work until one blank gets filled.",
       "insight": "Resources are the only honest signal, because they cost the giver something. This works until the sponsor is genuinely powerless too — then you are both in the trap, and that changes who you negotiate with.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "He starts writing notes down instead of answering out loud.",
+      "ifItFails": "If he waves off the questions with \"we'll figure that out as we go,\" the vague answer is the trap confirming itself. Put the same three questions in writing so his silence becomes visible later. Send: \"Following up so we're aligned — team, budget code, and sign-off owner. Can you confirm these three before Monday?\""
     },
     {
       "id": 3,
@@ -220,7 +224,9 @@
       "example": "Marcus took over 'Project Atlas' and found nine months of emails about 'Project Northstar' — same scope, same vendor, killed after a bad audit. He wrote a two-page handover note listing every open audit item and sent it to his director. When the audit came back, the note was already in the record.",
       "counter": "If someone gives you work with no history, they are running this move on you.\n• Notice that nobody will send you the old files.\n• Say: <strong>\"I need last year's status reports before I own this.\"</strong>\n• If the files never come, write your own record of day one.",
       "insight": "You cannot stop being the new owner. You can stop being the only owner. The next question is what your day-one record needs to say to survive being read by a hostile reader six months out.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "They go quiet, then correct one small detail instead of denying the bigger picture.",
+      "ifItFails": "If they insist nothing was broken and you're starting clean, don't argue — get it confirmed on paper instead. Pull the old tickets or emails yourself and forward them. Send: \"Found these from the last round — flagging before we plan around a clean start that might not exist.\""
     },
     {
       "id": 4,
@@ -276,7 +282,9 @@
       "example": "Ana was handed a compliance launch due in ten weeks. She counted the weeks on a whiteboard while her VP watched, then emailed both dates. The VP moved the launch by a quarter that afternoon rather than see the email forwarded upward.",
       "counter": "If someone gives you a date without saying who set it, they are running this move on you.\n• Notice the deadline arrives with no author.\n• Say: <strong>\"Who owns this date? I need to talk to them.\"</strong>\n• Put your own week count in writing the same day.",
       "insight": "Saying the date is dead on day one costs you a bad meeting. Saying it in month five costs you the job. The real trap is that most people wait for proof, and by then the proof is their own missed date.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "He stops repeating the date and asks what you'd need to actually hit it.",
+      "ifItFails": "If he says \"just make the eleven weeks work,\" he's refusing to own the math. Don't repeat the numbers — put both timelines in writing and make him choose in front of someone else. Send: \"Sending both plans to you and Dana — eleven weeks scoped to X, or twenty-two weeks scoped to everything. Reply with which one we're building.\""
     },
     {
       "id": 5,
@@ -332,7 +340,9 @@
       "example": "Ken got offered a turnaround in front of three directors. He said he wanted it and asked for a day. That night he sent five conditions. Four came back approved in writing. The fifth — the deadline — moved four weeks because his boss did not want to argue in email.",
       "counter": "If someone asks for your yes in front of an audience, they are running this move on you.\n• Notice the praise and the clock arrive together.\n• Say: <strong>\"I want it. Give me a day to scope it.\"</strong>\n• Leave the room without agreeing to anything specific.",
       "insight": "Enthusiasm buys you the delay; the delay buys you the terms. What you cannot buy is a second chance to ask — once you have said yes, every request sounds like a complaint.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "He agrees to wait until tomorrow instead of pushing for an answer in the room.",
+      "ifItFails": "If he pushes back with \"I need an answer now, in the room,\" that's pressure, not a real deadline. Give him a yes to the conversation, not the project. Say: \"I'm in for figuring out what this needs. My real answer comes tomorrow with numbers attached.\""
     },
     {
       "id": 6,
@@ -388,7 +398,9 @@
       "example": "Rosa was offered a stalled data project. She sent three lines: one engineer, thirty thousand, and final say on scope. Her director replied 'yes to all three' in four words. Six months later, when the director tried to add scope, Rosa forwarded the four words back.",
       "counter": "If someone trades their agreement for conditions, they are protecting themselves from you.\n• Notice they want your yes in writing, not in conversation.\n• Say: <strong>\"I can agree to two of these. Not the third.\"</strong>\n• Answer in writing anyway — vagueness costs you more than a clear no.",
       "insight": "Three is the number because it reads as thoughtful and ten reads as a hostage note. This works until they say yes to all three and deliver none — which is why the next section makes the terms public instead of private.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "He replies to two of the three conditions and stays silent on the third.",
+      "ifItFails": "If he agrees out loud but won't put it in writing, treat the missing reply as a no on that condition. Don't start work until the gap closes. Send: \"Noticed condition two wasn't in your reply — I need written confirmation on the vendor budget before Monday.\""
     },
     {
       "id": 7,
@@ -444,7 +456,9 @@
       "example": "Tom inherited an integration that needed security sign-off from a team with a six-month queue. He named the team and the date in the kickoff notes. When the project slipped, three separate people remembered him saying it first.",
       "counter": "If someone opens by naming a blocker they do not own, they are setting the record early.\n• Notice the blocker points away from them and at someone else.\n• Say: <strong>\"Agreed that is the blocker. What is your plan if it does not clear?\"</strong>\n• Make them own a fallback, not just the warning.",
       "insight": "Naming the blocker moves the risk from your shoulders to the org chart. The harder part is that you still have to try — a person who names the blocker and then stops working looks like they wanted it to fail.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "He asks you to set up the meeting with Priya yourself instead of naming who owns it.",
+      "ifItFails": "If he says \"just work around it for now,\" he's asking you to build on ground that isn't there. Refuse to plan past that point and make the blocker the headline of your next update. Send: \"Holding the plan at the data-sharing approval — everything after it depends on Priya's yes. Who is getting that by the fifteenth?\""
     },
     {
       "id": 8,
@@ -500,7 +514,9 @@
       "example": "Leah wrote the kickoff notes for a doomed platform migration. She listed the budget, the one engineer, and the deadline as plain facts and copied the VP. When staffing got pulled in month three, she replied to that same thread instead of arguing in a meeting.",
       "counter": "If someone always writes the notes, they are shaping the record on you.\n• Notice their notes include the parts that protect them.\n• Say: <strong>\"One correction — the budget was not agreed, only discussed.\"</strong>\n• Reply to the thread, not in private. Silence becomes agreement.",
       "insight": "The notes are power because nobody reads them until there is a fight, and then everybody reads them. This works until your boss starts editing your notes before they go out — and how you handle that edit is its own card.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "He replies \"looks good\" without flagging a single line, or he goes silent instead of correcting it.",
+      "ifItFails": "If he tries to renegotiate a term later, don't argue it out loud — point back to the written version. Reply-all: \"This matches what we agreed on the [date] call — happy to discuss changes, but let's keep the written version current for the team.\""
     },
     {
       "id": 9,
@@ -556,7 +572,9 @@
       "example": "Ibrahim ran a warehouse rollout with no budget for overtime. He sent a five-risk list every other Friday for four months. When the rollout failed, his sponsor pulled up the March email in the review and pointed at the unsigned contract line.",
       "counter": "If someone floods you with a risk list, they are building a paper trail against you.\n• Notice every risk has your name as the owner.\n• Say: <strong>\"I will own two of these. Risks three and four are yours.\"</strong>\n• Reply in writing and reassign the owners you do not accept.",
       "insight": "The register works because it makes silence expensive for everyone else. The trap is writing risks nobody can act on — a list of ten becomes noise, and noise protects no one.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "Someone outside the project asks about a risk by name before you've raised it.",
+      "ifItFails": "If your boss asks you to soften or cut a risk from the list, that's an attempt to hide it from people above him. Keep the risk in and note the request in writing. Send: \"Leaving Risk 1 as-is — happy to add a mitigation note next to it if that helps.\""
     },
     {
       "id": 10,
@@ -612,7 +630,9 @@
       "example": "Nadia's e-commerce replatform could not ship both search and checkout by Q3. She sent two options with dates. Her VP picked checkout in one line. Search shipped in Q1 the next year and nobody called it a miss.",
       "counter": "If someone hands you two options and asks you to pick, they are moving the decision to you.\n• Notice both options carry a loss they should own.\n• Say: <strong>\"Before I pick — what happens to you under each one?\"</strong>\n• Make them state the cost, then answer in writing with their words in it.",
       "insight": "Two options work because refusing both looks unserious in front of witnesses. The next question is what you do when they pick and then quietly expect the other half anyway.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "He picks one option but tacks \"and also\" onto it instead of replying clean.",
+      "ifItFails": "If he won't choose and says \"just do your best on both,\" he's setting up to blame you for whichever one slips. Force the choice by attaching a real cost to waiting. Send: \"Without a pick by Friday, I'm building Plan B — payments only, live in August — and treating anything past that as a new ask.\""
     },
     {
       "id": 11,
@@ -668,7 +688,9 @@
       "example": "Grace ran a doomed vendor consolidation. She got a monthly 20-minute slot with the CFO and used it for numbers only, never gossip. When her director blamed her in a QBR, the CFO said 'that is not what she has been showing me.'",
       "counter": "If someone on your team keeps meeting your boss without you, they are building cover.\n• Notice recap emails from meetings you were not in.\n• Say: <strong>\"Loop me in next time — I want the same picture.\"</strong>\n• Start your own upward channel instead of blocking theirs.",
       "insight": "Allies above your boss cost nothing while things go well and are impossible to build once they go badly. The tradeoff is that your boss will notice — and how you explain it matters more than whether you deny it.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "The sponsor's assistant actually finds you twenty minutes within the week.",
+      "ifItFails": "If your boss intercepts and says he'll pass the update along himself, you've lost the direct line. Go around him in writing instead. Send the sponsor a short note, copying your boss: \"Wanted to loop you in directly given how central this project is — happy to send a two-minute written version if a call doesn't fit.\""
     },
     {
       "id": 12,
@@ -724,7 +746,9 @@
       "example": "Elias asked for a second engineer four times over five months, always in writing. When the launch slipped, the review asked why he was understaffed. He forwarded four dated emails and the conversation moved to his director in ten minutes.",
       "counter": "If someone answers every request with 'let us talk', they are avoiding the record.\n• Notice they never reply in writing to a written ask.\n• Say: <strong>\"Happy to talk. I will send a recap after so we match.\"</strong>\n• Send the recap whether they like it or not.",
       "insight": "The folder is worthless while things go well, which is exactly why most people skip it. The real trap is using it too early — a person who quotes emails in month two reads as defensive, not careful.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "He corrects a detail in your recap instead of ignoring it, which means he read it.",
+      "ifItFails": "If he never replies to the recap at all, the silence becomes your record — don't chase a response. Move the next ask up a level with the thread attached. Send to his manager: \"Following up on three requests from [dates] with no response — can you help unblock one of these?\""
     },
     {
       "id": 13,
@@ -780,7 +804,9 @@
       "example": "Simone set her line in writing: no second engineer by August means she moves. August came empty. She sent one calm email, handed over a documented state, and started on another team's platform work in three weeks. The original project was cancelled in October.",
       "counter": "If someone tells you their walk-away line, they are not bluffing — they are recording it.\n• Notice the specific date and condition, not a threat.\n• Say: <strong>\"Understood. Tell me what changes that line.\"</strong>\n• Either meet the condition or plan the handover now.",
       "insight": "The line only works if you set it before you are tired, because tired people negotiate with themselves. This works until the line arrives and quitting looks worse than staying — which is why you open the other door in month two, not month nine.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "He offers a new promise instead of accepting the handover.",
+      "ifItFails": "If he counters with \"just give it one more month,\" that's the same move that got you here — don't move the line twice. Hold the date and hand it over with or without his sign-off. Send: \"The line was June, and I'm handing over today regardless — here's the state file and who I'm briefing next.\""
     },
     {
       "id": 14,
@@ -836,7 +862,9 @@
       "example": "Owen sent the same four-line update for fourteen weeks on a failing rollout. The 'blocked: security review' line appeared eleven times. In the post-mortem, his VP counted the weeks out loud and the review turned into a security staffing conversation.",
       "counter": "If someone sends you an identical update every week, they are building a record on you.\n• Notice the same blocker with your name on it, repeating.\n• Say: <strong>\"I see this blocker eight weeks running. Here is my plan and date.\"</strong>\n• Answer the decision line in writing or expect it quoted back.",
       "insight": "The power is in the repetition count, not the wording — 'eleven weeks blocked' ends arguments that paragraphs cannot. The harder part is staying dull when you want to vent.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "People start replying to the Blocked line before anything else in the email.",
+      "ifItFails": "If nobody responds to the blocked item for several weeks straight, the format is working but it isn't reaching someone who can act. Escalate the same line to a name, not a list. Send: \"Raj — this has been blocked 19 days per my weekly updates. Copying Dana so it has a decision-maker attached.\""
     },
     {
       "id": 15,
@@ -892,7 +920,9 @@
       "example": "Hana's rollout sat behind a legal review for seven weeks. She sent one email naming the lawyer, the date, and the schedule effect, copying his director. The review came back in four days with two small edits.",
       "counter": "If someone names you and a date in front of your boss, they are moving the blame to you.\n• Notice your name, a date, and their manager on one email.\n• Say: <strong>\"I can do it by the 20th, not the 12th. Replan to the 20th.\"</strong>\n• Give a real date fast. Silence makes their version the record.",
       "insight": "Names move faster than problems because names can be embarrassed. This works until you burn a person who remembers — and the same person usually turns up in your next project.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "Raj gives you an actual date instead of another reason for the delay.",
+      "ifItFails": "If Raj still won't answer, the copy to Dana was the real move — she now has to act because the delay is visible to her. Send Dana a direct ask: \"Raj hasn't given me a date for the security review. Can you help me get one this week?\""
     },
     {
       "id": 16,
@@ -948,7 +978,9 @@
       "example": "Julio's platform project took four 'small' adds in two months. On the fifth, he replied with a price in the same chat: three weeks or drop notifications. His boss withdrew the request in eight minutes and stopped sending hallway adds.",
       "counter": "If someone prices every request you make, they are protecting the plan from you.\n• Notice they never say no, only what it costs.\n• Say: <strong>\"Then we drop the dashboard. Confirming that in writing.\"</strong>\n• Pick a real trade instead of pushing for both.",
       "insight": "Pricing works because most adds are wishes, not decisions, and wishes do not survive a bill. The real trap is a boss who happily pays every price — then the plan is not the problem, the sponsor is.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "He pauses, weighing which one he's willing to give up.",
+      "ifItFails": "If he says \"just do both, we'll figure out the tradeoff later,\" that tradeoff lands on you unless it's on paper now. Put the choice back in his hands in writing. Send: \"Adding the export tool to the plan as a trade against the reporting dashboard, per our chat — flag if that's not right.\""
     },
     {
       "id": 17,
@@ -1004,7 +1036,9 @@
       "example": "Bea's mobile launch died after eleven months. She sent a four-page write-up two days before the review, with two owned mistakes and a dated timeline of nine staffing requests. The review spent forty minutes on staffing policy. She was running a bigger project by the next quarter.",
       "counter": "If someone hands out a post-mortem before the meeting, they have already framed it.\n• Notice their two owned mistakes are small and the rest points outward.\n• Say: <strong>\"Useful timeline. I want to add two events it leaves out.\"</strong>\n• Send your additions in writing before the meeting, not during it.",
       "insight": "Owning two real mistakes is what makes the rest of the document credible — a clean self-report reads as a defense. The next question is which two you can afford to own.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "People in the review quote your write-up back instead of writing their own version.",
+      "ifItFails": "If someone tries to rewrite the story in the room with different facts, don't argue live — point to the sent version and its date. Say: \"That's not what I sent Tuesday — happy to go through the timeline line by line if this needs debate.\""
     },
     {
       "id": 18,
@@ -1060,7 +1094,9 @@
       "example": "Karim's failed migration came up in four interviews. He gave the same thirty-second version each time and never named his old director. The fourth interviewer said the answer was the reason they hired him, because everyone else blamed someone.",
       "counter": "If someone describes a failure with no villain, they have rehearsed it.\n• Notice the calm tone and the tidy thirty-second length.\n• Say: <strong>\"What did you ask for that you did not get?\"</strong>\n• Their answer to that shows what they actually learned.",
       "insight": "Calm is the proof, not the content — the same facts told bitterly get you screened out. The harder part is being calm about it while it is still fresh, which is why you write the sentence before you need it.",
-      "danger_note": ""
+      "danger_note": "",
+      "watchFor": "The interviewer leans in and asks what you do differently now, instead of about the failure itself.",
+      "ifItFails": "If they keep pressing on the failure instead of the fix, don't defend the old project — redirect to proof from the next one. Say: \"That project taught me the lesson — my last two shipped early because I applied it. Happy to walk through how.\""
     }
   ]
 }
