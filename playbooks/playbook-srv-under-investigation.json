@@ -1,0 +1,1550 @@
+{
+  "meta": {
+    "id": "srv-under-investigation",
+    "version": "1.0",
+    "title": "Under Investigation",
+    "subtitle": "Surviving an HR Inquiry Into You",
+    "description": "HR has opened a file with your name on it. The investigator has run this a hundred times; you are running it once. Eighteen cards on the summons, the interview, the silence between rounds, the finding, and the year after.",
+    "author": "AI",
+    "createdAt": "2026-08-26T20:13:19.293Z",
+    "tags": [
+      "hr",
+      "investigation",
+      "workplace",
+      "power",
+      "interrogation",
+      "defense",
+      "corporate"
+    ],
+    "totalCards": 26,
+    "isSeeded": true,
+    "coverColor": "#7A2B2B",
+    "coverIcon": "🗂️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "summons",
+      "label": "The Summons",
+      "color": "#8E2F2F"
+    },
+    {
+      "key": "before",
+      "label": "Before The First Interview",
+      "color": "#A8552B"
+    },
+    {
+      "key": "inside",
+      "label": "Inside The Interview",
+      "color": "#B08033"
+    },
+    {
+      "key": "between",
+      "label": "Between Interviews",
+      "color": "#3F6B57"
+    },
+    {
+      "key": "finding",
+      "label": "The Finding",
+      "color": "#3B5A83"
+    },
+    {
+      "key": "after",
+      "label": "Staying On The Team After",
+      "color": "#5B4380"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "summons",
+      "danger": "moderate",
+      "title": "Do Not Answer Questions At The Summons Meeting",
+      "principle": "Reid Technique: The Pre-Interview Probe",
+      "remember": "The invite is already the interview. Say yes to the meeting, nothing else.",
+      "hook": "HR walks up and asks for \"fifteen minutes to clear something up.\" <strong>The clearing up started the second they said your name.</strong>",
+      "truth": "The casual walk-up is a first pass at your story before you have one.\n• They ask soft questions while you think this is not official yet.\n• Your loose answer becomes the version they test everyone else against.\n• Once your first version exists, every later correction reads as a change.",
+      "when": "An HR partner stops by your desk and asks for a quick chat about a concern.",
+      "principle_note": "",
+      "theySee": "A calm employee who agrees to the meeting and asks what it is about.",
+      "signals": [
+        {
+          "icon": "🚪",
+          "l": "Casual approach",
+          "t": "They catch you at your desk instead of sending a calendar invite"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Small ask",
+          "t": "They say it will only take a few minutes"
+        },
+        {
+          "icon": "🙈",
+          "l": "No subject",
+          "t": "They will not tell you the topic when you ask"
+        },
+        {
+          "icon": "👤",
+          "l": "Second person",
+          "t": "A second HR person sits in on a chat they called informal"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Agree to the meeting, not the topic",
+          "desc": "Say yes to a time. Do not discuss any facts standing in the hallway."
+        },
+        {
+          "n": "2",
+          "title": "Ask what it is about, once",
+          "desc": "Ask plainly and write down their exact answer, word for word."
+        },
+        {
+          "n": "3",
+          "title": "Send a confirmation email",
+          "desc": "Email them the time and what they told you the topic is. That creates a record."
+        }
+      ],
+      "script": "\"Happy to meet. <strong>What is the subject, so I come prepared?</strong> I'd rather not talk about it in the hallway.\"",
+      "watchFor": "They stop asking questions and start scheduling a time instead.",
+      "example": "Dev's HR partner caught him by the coffee machine and asked if there was 'tension' with his team lead. Dev said he would meet properly and asked for the topic. She named it. He emailed her back that afternoon confirming both, and two weeks later that email fixed the scope when they tried to widen it.",
+      "ifItFails": "They push and say it is easier to just talk now. Do not argue about your rights — you will sound guilty. Move it with a task instead: \"I'm mid-deploy and I won't do this justice. What about 3pm?\" Then send the calendar invite yourself with the topic in the title.",
+      "counter": "If someone opens with a friendly no-big-deal chat, they want your first version.\n• Notice the missing invite. Informal is a choice, not an accident.\n• Say: <strong>\"Send me the details and I'll come ready.\"</strong>\n• Write down what they said within ten minutes, while it is exact.",
+      "insight": "Fear makes people talk fast to make the moment end. The moment ends either way. The harder part is the next 48 hours, when nobody tells you anything and your own mind starts writing the case against you."
+    },
+    {
+      "id": 2,
+      "cat": "summons",
+      "danger": "moderate",
+      "title": "Get The Allegation In Writing Before You Respond",
+      "principle": "Sun Tzu: Know The Ground",
+      "remember": "Do not defend a charge nobody has said out loud.",
+      "hook": "They describe \"some concerns\" and wait. <strong>You will fill the blank with your own worst secret.</strong>",
+      "truth": "Vague charges make you investigate yourself and hand them the results.\n• They keep it broad so you volunteer things they never knew.\n• You confess to the wrong thing and widen their file.\n• Asking for the specific claim costs nothing and shrinks the ground.",
+      "when": "HR tells you there are concerns about your conduct but will not say what happened.",
+      "theySee": "An employee who wants to answer properly and asks which event they mean.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Plural concerns",
+          "t": "They say concerns and behaviors instead of naming one event"
+        },
+        {
+          "icon": "📅",
+          "l": "No date",
+          "t": "They will not give you a date or a meeting where it happened"
+        },
+        {
+          "icon": "🎣",
+          "l": "Open prompt",
+          "t": "They ask if you know why you are here"
+        },
+        {
+          "icon": "📝",
+          "l": "Note-taking spike",
+          "t": "They write more when you talk about things they did not ask about"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask which specific event",
+          "desc": "Ask for the date, the meeting, and what they say you did. One question."
+        },
+        {
+          "n": "2",
+          "title": "Say nothing about anything else",
+          "desc": "Answer only the event they name. Do not offer other examples to show context."
+        },
+        {
+          "n": "3",
+          "title": "Email a summary after",
+          "desc": "Write what they told you the claim is and send it to them the same day."
+        }
+      ],
+      "script": "\"I want to answer this properly. <strong>Which day and which meeting are we talking about, and what am I said to have done?</strong> I don't want to guess.\"",
+      "watchFor": "They name a date or a specific meeting instead of repeating the word concerns.",
+      "example": "Priya's HR lead opened with 'we've had reports about how you handle pushback.' Priya asked for the one event. HR named a single Tuesday standup. Priya answered that Tuesday and nothing else. The three other incidents in the file never got tested because she never mentioned them.",
+      "ifItFails": "They refuse and say they cannot share details yet. Do not fill the silence. Say: \"Then I'll answer what I can today and give a full response once I know the claim.\" Then email the same sentence to them and the note-taker so the refusal is on the record, not just in the room.",
+      "counter": "If someone keeps a charge vague, they are fishing for what else exists.\n• Notice they never name a date. That gap is the tactic.\n• Say: <strong>\"Tell me the specific thing and I'll answer it.\"</strong>\n• Answer one event only. Never add a second example yourself.",
+      "insight": "A vague charge is not weak evidence, it is a wide net. Narrowing it is your single cheapest win. The trap is that narrowing works only if you then stay inside the narrow ground you just built."
+    },
+    {
+      "id": 3,
+      "cat": "summons",
+      "danger": "high",
+      "title": "Assume Every Company Device Is Already Being Read",
+      "principle": "Machiavelli: The Prince — Assume Hostile Intent",
+      "remember": "Your work chat is their evidence. Stop typing about the case.",
+      "hook": "They opened the file on Monday. <strong>The message export was pulled before anyone spoke to you.</strong>",
+      "truth": "By the time you hear about it, they already have your messages.\n• Legal holds and message exports run before the first interview.\n• Anything you send now looks like a reaction, and reactions get quoted.\n• Deleting is the worst move — deletion is the finding they can prove.",
+      "when": "HR tells you an investigation is open and you are about to text a coworker about it.",
+      "theySee": "An employee whose work chat activity looks completely normal and boring.",
+      "signals": [
+        {
+          "icon": "🔒",
+          "l": "Access change",
+          "t": "A shared drive or channel you used goes read-only overnight"
+        },
+        {
+          "icon": "📤",
+          "l": "Legal hold",
+          "t": "You get an email telling you to preserve documents"
+        },
+        {
+          "icon": "👻",
+          "l": "Quiet channels",
+          "t": "A group chat you were in goes silent when you post"
+        },
+        {
+          "icon": "🖥️",
+          "l": "IT contact",
+          "t": "IT asks about your device or laptop for no clear reason"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop discussing it on company systems",
+          "desc": "No Slack, no Teams, no work email about the case. Not one line."
+        },
+        {
+          "n": "2",
+          "title": "Delete nothing",
+          "desc": "Leave every message and file exactly where it is. Deleting turns a maybe into a fireable act."
+        },
+        {
+          "n": "3",
+          "title": "Save your own copies legally",
+          "desc": "Save documents you already had access to, in the normal way, before access changes."
+        }
+      ],
+      "script": "(To a coworker who messages you on Slack about it) <strong>\"Not something I'll get into over chat. Let's talk about the sprint.\"</strong>",
+      "watchFor": "The coworker drops the subject and answers about work instead.",
+      "example": "Marcus got the summons on a Thursday and immediately Slacked a friend: 'this is such garbage, Dana has always had it out for me.' HR read it in the export. That one line became the evidence of hostility toward Dana. The original claim was never proven; the Slack was.",
+      "ifItFails": "A coworker keeps pushing over chat, or worse, baits you into venting. Move it off the system and make the move visible: \"Let's grab a coffee.\" If they keep typing about it, stop answering that thread entirely and start a new one about work. Silence in a chat log reads better than any clever reply.",
+      "counter": "If a friendly coworker suddenly wants your opinion on the case in writing, treat it as collection.\n• Notice the sudden interest and the written channel.\n• Say: <strong>\"I'm keeping it off chat. Ask me in person if you need to.\"</strong>\n• Never explain why in the same chat. Just change the subject.",
+      "insight": "Most people are not caught by the original act. They are caught by their reaction to being investigated. The next question is who told them, and whether that person is still on your side."
+    },
+    {
+      "id": 4,
+      "cat": "before",
+      "danger": "moderate",
+      "title": "Build Your Timeline Before They Build Theirs",
+      "principle": "Sun Tzu: The Battle Is Won Before It Is Fought",
+      "remember": "Write the dates down now. Memory gets worse and edits itself.",
+      "hook": "They have a document with dates on it. <strong>If you have only memory, you will lose every fact fight.</strong>",
+      "truth": "The person with the timeline runs the interview, regardless of rank.\n• You write every date, meeting, and message about the disputed period.\n• Specific dates make you sound accurate, not defensive.\n• The trap is inventing detail you are not sure of. One wrong date kills the rest.",
+      "when": "You have a scheduled HR interview and a few days before it happens.",
+      "theySee": "An employee who answers with dates and specifics instead of feelings.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Date questions",
+          "t": "They keep asking you when something happened"
+        },
+        {
+          "icon": "📄",
+          "l": "Their document",
+          "t": "The investigator reads from a printed page during questions"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat asks",
+          "t": "They ask the same event twice at different points"
+        },
+        {
+          "icon": "🧮",
+          "l": "Sequence probe",
+          "t": "They ask what happened right before or right after an event"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Build a dated list",
+          "desc": "Write every meeting, message, and event in the disputed period. One line each."
+        },
+        {
+          "n": "2",
+          "title": "Mark what you can prove",
+          "desc": "Put a P next to anything backed by a calendar entry, email, or ticket."
+        },
+        {
+          "n": "3",
+          "title": "Mark what you are unsure of",
+          "desc": "Put a question mark on anything fuzzy. In the room, say you are unsure about those."
+        }
+      ],
+      "script": "\"On March 4th, in the 10am design review, I said the deadline was unrealistic. <strong>On March 6th I emailed Ravi the revised plan.</strong> I'm certain of those two. Other dates I'd have to check.\"",
+      "watchFor": "The investigator stops reading from their page and starts writing on it.",
+      "example": "Elena spent one evening rebuilding her calendar for six weeks before her interview. In the room, she answered three questions with exact dates and one with 'I'm not sure, I'd have to check.' The investigator's report described her account as consistent and documented. The complainant's account had no dates at all.",
+      "ifItFails": "They hit you with an event you have no record of. Do not guess to fill the hole. Say: \"I don't have that one. I'd want to check my calendar before I answer.\" Then send the answer in writing within 24 hours — a fast, written follow-up reads as cooperation and puts your version in the file.",
+      "counter": "If someone arrives with a dated document and you have none, they will set every fact.\n• Notice them reading dates aloud while you answer from memory.\n• Say: <strong>\"I'd want to check that date before I agree to it.\"</strong>\n• Never accept a date you have not verified. Vague agreement becomes a quoted fact.",
+      "insight": "Accuracy beats innocence in these rooms. A documented person who admits two small errors outranks a confident person with no dates. The harder part is resisting the urge to fill your gaps with a story."
+    },
+    {
+      "id": 5,
+      "cat": "before",
+      "danger": "high",
+      "title": "Find Out If You Are The Subject Or A Witness",
+      "principle": "Status Asymmetry",
+      "remember": "Ask which chair you are in. The answer changes everything.",
+      "hook": "Witnesses get told the topic. Subjects get told nothing. <strong>Which one are you?</strong>",
+      "truth": "Companies blur the line so subjects behave like helpful witnesses.\n• A witness talks freely. A subject who talks freely writes the case.\n• They rarely lie if you ask directly — the policy usually requires an answer.\n• If they dodge the question, you have your answer.",
+      "when": "HR asks you to attend an interview and does not say whether the complaint is about you.",
+      "theySee": "An employee who asks one direct process question and then waits quietly.",
+      "signals": [
+        {
+          "icon": "🪑",
+          "l": "Dodged question",
+          "t": "They will not say whether the complaint names you"
+        },
+        {
+          "icon": "📋",
+          "l": "Rights script",
+          "t": "They read a statement about confidentiality and retaliation at the start"
+        },
+        {
+          "icon": "👥",
+          "l": "Two interviewers",
+          "t": "Two people attend and one only takes notes"
+        },
+        {
+          "icon": "🔁",
+          "l": "Your conduct",
+          "t": "Most questions are about what you did, not what you saw"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the direct question",
+          "desc": "Ask whether you are the subject of the complaint or a witness to someone else's."
+        },
+        {
+          "n": "2",
+          "title": "Write down their exact words",
+          "desc": "Note the answer word for word, including any dodge."
+        },
+        {
+          "n": "3",
+          "title": "Set your mode",
+          "desc": "Witness: answer plainly. Subject: answer only what is asked, in short sentences."
+        }
+      ],
+      "script": "\"Before we start — <strong>am I the subject of this complaint, or a witness to something involving someone else?</strong>\"",
+      "watchFor": "They pause before answering, or look at their notes instead of at you.",
+      "example": "Tomas was called in about a team conflict and assumed he was a witness. He asked the question anyway. HR said he was named. He shortened every answer from that sentence on, and later saw the report quoted only four of his lines instead of a page.",
+      "ifItFails": "They say they cannot tell you. Treat that as a yes and say so out loud, calmly: \"Understood — I'll answer as if it concerns me.\" That single sentence goes in the notes and quietly warns them you know the shape of the room.",
+      "counter": "If someone invites you to help with an investigation, check whose name is on it.\n• Notice questions about your own conduct dressed as questions about others.\n• Say: <strong>\"Is this about me? I'll answer either way, I just want to know.\"</strong>\n• If they dodge, shorten every answer from that point on.",
+      "insight": "Most people find out they were the subject when they read the finding. Asking costs one sentence. This does not work if you ask it angrily — the same words in a hot voice read as guilt."
+    },
+    {
+      "id": 6,
+      "cat": "before",
+      "danger": "high",
+      "title": "Decide On A Lawyer Before You Say Anything, Not After",
+      "principle": "Schelling: Commitment Moves",
+      "remember": "Get advice before the interview. After it, you are fixing not planning.",
+      "hook": "A lawyer before your first interview shapes what you say. <strong>A lawyer after it just reads what you already said.</strong>",
+      "truth": "Legal advice loses most of its value the second your statement exists.\n• One consult tells you what claims exist and what to never say.\n• Naming a lawyer in the room usually escalates it — the advice is for you, not for them.\n• The trap is spending money and then ignoring the advice to look cooperative.",
+      "when": "The complaint against you involves harassment, discrimination, money, or anything that could end your job.",
+      "theySee": "An employee who answers the same way as before, calm and short.",
+      "signals": [
+        {
+          "icon": "⚖️",
+          "l": "Outside firm",
+          "t": "The investigator is from an outside firm, not internal HR"
+        },
+        {
+          "icon": "📵",
+          "l": "Suspension",
+          "t": "They put you on paid leave while they investigate"
+        },
+        {
+          "icon": "🧾",
+          "l": "Written statement",
+          "t": "They ask you to sign a written statement"
+        },
+        {
+          "icon": "🕰️",
+          "l": "Long history",
+          "t": "They ask about events from more than a year ago"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Book a one-hour consult",
+          "desc": "Call an employment lawyer this week. Many do a paid first hour. Bring your timeline."
+        },
+        {
+          "n": "2",
+          "title": "Ask three questions",
+          "desc": "What can this become legally, what must I never say, and should I sign anything."
+        },
+        {
+          "n": "3",
+          "title": "Keep it to yourself",
+          "desc": "Do not tell HR or coworkers you spoke to a lawyer unless the lawyer tells you to."
+        }
+      ],
+      "script": "(To the lawyer, on the call) <strong>\"Here is my timeline. What are the three sentences I should never say in this interview?\"</strong>",
+      "watchFor": "The lawyer names specific phrases to avoid instead of giving general reassurance.",
+      "example": "Nadia paid for one hour before her interview. The lawyer told her to never use the word 'joking' about anything and never to characterize the complainant's motives. She followed both. The report had nothing about intent or hostility, because she never gave them a line to quote.",
+      "ifItFails": "You cannot afford a lawyer or cannot get one in time. Get the same value cheaper: read your company's own investigation policy line by line, and write your answers out in full before the meeting. If the process is already running and you have said too much, a consult is still worth it — the question changes from what to say to how to correct the record in writing.",
+      "counter": "If HR tells you a lawyer is unnecessary or would slow things down, they are managing your options.\n• Notice them framing legal advice as an escalation.\n• Say: <strong>\"Understood. I'll follow the process either way.\"</strong>\n• Get the advice quietly. Do not announce it. Do not use it as a threat.",
+      "insight": "Saying 'I'm getting a lawyer' feels powerful and usually costs you the room. Having one and never mentioning it is the stronger position. The next question is whether you can sit through the interview without spending that card."
+    },
+    {
+      "id": 7,
+      "cat": "inside",
+      "danger": "moderate",
+      "title": "Answer The Question They Asked And Then Stop",
+      "principle": "Reid Technique: The Silence Prompt",
+      "remember": "Answer it. Then stop talking. Let the quiet sit.",
+      "hook": "The investigator's best tool is not a question. <strong>It is the four seconds after your answer.</strong>",
+      "truth": "Trained interviewers use silence because people fill it with new material.\n• You answer, they say nothing, you keep talking to be helpful.\n• Everything after your real answer is unforced and unprepared.\n• The trap is thinking silence means they did not believe you.",
+      "when": "You finish an answer in the interview and the investigator says nothing and keeps looking at you.",
+      "theySee": "An employee who answers, stops, and waits calmly without fidgeting.",
+      "signals": [
+        {
+          "icon": "⏸️",
+          "l": "Long pause",
+          "t": "They stay quiet for several seconds after you finish"
+        },
+        {
+          "icon": "✍️",
+          "l": "Slow writing",
+          "t": "They write slowly while looking at you, not the page"
+        },
+        {
+          "icon": "🤨",
+          "l": "Open face",
+          "t": "They raise their eyebrows and wait instead of asking the next question"
+        },
+        {
+          "icon": "↩️",
+          "l": "Echo",
+          "t": "They repeat your last three words back as a question"
+        },
+        {
+          "icon": "🕳️",
+          "l": "And then",
+          "t": "They say and then and nothing else"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Practice the full stop",
+          "desc": "Before the meeting, say three answers out loud and stop dead at the end of each."
+        },
+        {
+          "n": "2",
+          "title": "Count to five in your head",
+          "desc": "When they go quiet, count to five silently. Then wait for their next question."
+        },
+        {
+          "n": "3",
+          "title": "Hand the turn back",
+          "desc": "If the silence keeps going, ask what else they want to know. Do not add facts."
+        }
+      ],
+      "script": "\"That's what happened.\" (Then nothing. If the silence stretches past ten seconds: <strong>\"Is there something more specific you want on that?\"</strong>)",
+      "watchFor": "They break first and move to the next question on their list.",
+      "example": "Sam answered a question about a heated meeting in two sentences and stopped. The investigator let five seconds pass. Sam counted and said nothing. The investigator moved on. Sam's colleague, in the same investigation, filled the same silence with a story about a different meeting that ended up in the report.",
+      "ifItFails": "They use the echo instead: they repeat your last words as a question to reopen the answer. Do not expand. Confirm and hand it back: \"Yes — that's right. What else do you need?\" That returns the work to them without adding a single new fact.",
+      "counter": "If someone goes quiet after your answer and holds eye contact, they want more material.\n• Notice you feel a pull to explain. That pull is the tool.\n• Say: <strong>\"What else would be useful?\"</strong>\n• Ask a question back. The person asking is not the person exposed.",
+      "insight": "Nervous people treat silence as an accusation and answer it with a confession. The harder part is that this works both ways — the moment you stop over-talking, they may start, and what they leak tells you who complained."
+    },
+    {
+      "id": 8,
+      "cat": "inside",
+      "danger": "high",
+      "title": "Never Guess At Motives, Yours Or Theirs",
+      "principle": "Greene: Law 4 — Always Say Less Than Necessary",
+      "remember": "Say what happened. Never say why anyone did it.",
+      "hook": "Facts are checkable. <strong>Motives are free ammunition you hand them.</strong>",
+      "truth": "The single most quoted line in any HR report is a statement about intent.\n• You say the complainant is jealous, and now you look hostile.\n• You say you were only joking, and you just admitted the act.\n• Facts can be verified. A motive claim can only be used against you.",
+      "when": "The investigator asks why you think this complaint was made, or what you meant by something.",
+      "theySee": "An employee who describes actions and dates and refuses to speculate about people.",
+      "signals": [
+        {
+          "icon": "🎭",
+          "l": "Why question",
+          "t": "They ask why you think the person complained"
+        },
+        {
+          "icon": "🧠",
+          "l": "Mind reading",
+          "t": "They ask what the other person was thinking or feeling"
+        },
+        {
+          "icon": "🃏",
+          "l": "Intent bait",
+          "t": "They suggest maybe it was just a joke and wait for you to agree"
+        },
+        {
+          "icon": "🔥",
+          "l": "History invite",
+          "t": "They ask if you two have had problems before"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer with actions only",
+          "desc": "Say what was said or done, and when. Do not describe what anyone meant."
+        },
+        {
+          "n": "2",
+          "title": "Refuse the mind-reading question",
+          "desc": "Say you cannot speak to what someone else thought. Then stop."
+        },
+        {
+          "n": "3",
+          "title": "Kill the joke defense",
+          "desc": "Never say it was a joke. Describe the words you actually used instead."
+        }
+      ],
+      "script": "\"I can tell you what I said and when. <strong>I can't tell you why someone else did something — I'd only be guessing.</strong>\"",
+      "watchFor": "They drop the why questions and go back to dates and events.",
+      "example": "Karim was asked why he thought his teammate filed the complaint. He almost said she was angry about the promotion. Instead he said he could not speak to her reasons. The final report noted no evidence of animosity from him — the exact finding that saved his role.",
+      "ifItFails": "They push: 'You must have some idea.' Do not soften into a guess. Hold it and give them something usable instead: \"I really don't. If it helps, I can walk you through what happened on the 12th again.\" You trade a motive for a fact and stay on ground you can prove.",
+      "counter": "If someone invites you to explain another person's motives, they are collecting a quote.\n• Notice the question asks about someone else's head, not your actions.\n• Say: <strong>\"I won't guess at what she meant.\"</strong>\n• Redirect to a date or an event you can prove. Do not use this to hint at bias — hinting counts.",
+      "insight": "Every investigation looks for a story, and motives are the cheapest story available. Refusing to supply one leaves them with only facts. The trap is that facts alone rarely explain you, so someone else's story fills the gap unless you have witnesses."
+    },
+    {
+      "id": 9,
+      "cat": "inside",
+      "danger": "high",
+      "title": "Correct The Note-Taker In The Room",
+      "principle": "Voss: Label — Make The Record Explicit",
+      "remember": "If they wrote it wrong, fix it now. Later is a change of story.",
+      "hook": "The notes become the report. <strong>The report becomes the finding.</strong> Nobody re-reads the room.",
+      "truth": "The written summary outlives every word actually spoken.\n• A note-taker compresses your two sentences into one wrong one.\n• Fixing it in the room is a correction. Fixing it next week is inconsistency.\n• Most people stay quiet because interrupting feels rude. Rude beats wrong.",
+      "when": "The investigator repeats your answer back and gets a detail wrong.",
+      "theySee": "An employee who stops, points at one specific word, and gives the correct one.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Wrong summary",
+          "t": "They repeat your answer back with a changed word"
+        },
+        {
+          "icon": "⬆️",
+          "l": "Upgraded verb",
+          "t": "They turn said into yelled, or asked into demanded"
+        },
+        {
+          "icon": "📉",
+          "l": "Dropped context",
+          "t": "Their summary leaves out the part that explains you"
+        },
+        {
+          "icon": "✅",
+          "l": "Confirm push",
+          "t": "They ask is that fair and wait for you to nod"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop them at the word",
+          "desc": "Interrupt at the wrong word, not at the end of the paragraph."
+        },
+        {
+          "n": "2",
+          "title": "Give the exact replacement",
+          "desc": "Say the correct word and repeat the full sentence the way you said it."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to read it back",
+          "desc": "Ask them to read the corrected line aloud so you both hear the final version."
+        }
+      ],
+      "step_note": "",
+      "script": "\"Small correction before we move on — <strong>I said 'I disagreed', not 'I refused'. Can you read back what you have?</strong>\"",
+      "watchFor": "They cross something out and write again, or read the line back to you.",
+      "example": "Joel heard the note-taker summarize his answer as 'he ignored the request.' He stopped her mid-sentence and said he had answered it in writing the same day. She corrected the note. When the report came, that line read as documented, and the insubordination claim collapsed.",
+      "ifItFails": "They say they will fix it later, or that the notes are just for them. That is a soft no. Take the record yourself: email them within two hours with 'For accuracy, here is what I said on two points' and quote your own words. Now your version exists in a system they cannot edit.",
+      "counter": "If someone paraphrases you with a stronger verb, they are writing the version that survives.\n• Notice the word swap: said becomes yelled, asked becomes demanded.\n• Say: <strong>\"That's not the word I used. I said…\"</strong>\n• Follow up in email the same day. Do not do this on every line — pick the two that matter.",
+      "insight": "Investigations are won on paper, not in conversation. One corrected verb can decide a finding. The harder part is knowing which two words matter, because correcting everything makes you look like you are managing the record."
+    },
+    {
+      "id": 10,
+      "cat": "inside",
+      "danger": "extreme",
+      "title": "Do Not Sign A Statement You Have Not Read Slowly",
+      "principle": "Sunk-Cost Anchoring",
+      "remember": "Never sign in the room. Take it away and read it twice.",
+      "hook": "They slide the page over at minute fifty-five, when you want to leave. <strong>That timing is not luck.</strong>",
+      "truth": "Signature pressure comes at the end because you are drained and want out.\n• A signed summary becomes your official account, errors included.\n• Refusing to sign on the spot is normal and rarely held against you.\n• The trap is signing with a small verbal caveat. Verbal caveats do not exist on paper.",
+      "when": "HR hands you a written summary of your interview and asks you to sign it before you leave.",
+      "theySee": "An employee who takes the page, says they will review it, and does not sign yet.",
+      "signals": [
+        {
+          "icon": "⏳",
+          "l": "End timing",
+          "t": "They produce the document in the last five minutes"
+        },
+        {
+          "icon": "🖊️",
+          "l": "Pen ready",
+          "t": "They hand you a pen before you have read a line"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Just a formality",
+          "t": "They call the signature a formality or standard process"
+        },
+        {
+          "icon": "🚪",
+          "l": "Door pressure",
+          "t": "They mention their next meeting while you are reading"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Take the copy, not the pen",
+          "desc": "Say you will read it carefully and return it. Ask for a copy to keep."
+        },
+        {
+          "n": "2",
+          "title": "Read it against your timeline",
+          "desc": "Check every date and quote against the notes you made before the interview."
+        },
+        {
+          "n": "3",
+          "title": "Return it with written corrections",
+          "desc": "Send corrections in an email or as marked changes. Sign only the corrected version."
+        }
+      ],
+      "script": "\"I'll read it properly and get it back to you tomorrow. <strong>Can I take a copy?</strong> I'm not signing something I've only skimmed.\"",
+      "watchFor": "They stop pushing the pen and agree to a return date.",
+      "example": "Aisha was handed a two-page summary at the end of a ninety-minute interview. She took it home. Three dates were wrong and one quote reversed who said what. She returned it with corrections in writing. The corrected version went in the file, and the reversed quote never became a finding.",
+      "ifItFails": "They say the process requires a signature today. Sign nothing blind, but do not stonewall either — write your refusal into the document itself: sign under a line that says \"Signed as received, not as accurate. Corrections to follow by [date].\" Then send the corrections that day. Do not use this move if you have already agreed verbally to the summary — the mismatch looks worse than either one alone.",
+      "counter": "If someone pushes paper at you when you are tired and ready to leave, that is the design.\n• Notice the timing: the document appears as the meeting ends.\n• Say: <strong>\"I'll review it and return it tomorrow.\"</strong>\n• Never rely on a spoken correction. If it is not written, it did not happen.",
+      "insight": "A signature converts your worst-remembered hour into a permanent fact. Delay costs you a day and buys you the record. The real trap is that once you have corrected one document, they will watch how you handle the next one."
+    },
+    {
+      "id": 11,
+      "cat": "between",
+      "danger": "high",
+      "title": "Do Not Contact The Complainant Or The Witnesses",
+      "principle": "Schelling: The Self-Binding Commitment",
+      "remember": "One friendly message to them can end your job by itself.",
+      "hook": "You want to clear it up with one honest conversation. <strong>That conversation is a separate, easier charge.</strong>",
+      "truth": "Contact during an investigation is the offense they can always prove.\n• The original claim needs evidence. Your text needs only a screenshot.\n• Even a kind message reads as pressure once it is in a report.\n• The trap is a mutual friend carrying your message. That counts as you.",
+      "when": "You want to text the person who complained, or a coworker who might be interviewed.",
+      "theySee": "A coworker who behaves exactly as before and never raises the case.",
+      "signals": [
+        {
+          "icon": "📵",
+          "l": "No-contact rule",
+          "t": "HR tells you not to discuss the matter with anyone involved"
+        },
+        {
+          "icon": "🕊️",
+          "l": "Peace urge",
+          "t": "You feel a strong urge to explain yourself to one person"
+        },
+        {
+          "icon": "🧑‍🤝‍🧑",
+          "l": "Middle man",
+          "t": "A friend offers to pass along your side to the complainant"
+        },
+        {
+          "icon": "📱",
+          "l": "Late-night draft",
+          "t": "You start writing a message after 10pm and reread it five times"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the message and do not send it",
+          "desc": "Put the message in a note on your personal phone. Never in a work app. Never send it."
+        },
+        {
+          "n": "2",
+          "title": "Tell your friend to stop",
+          "desc": "If someone offers to mediate, say no clearly and once. Their help becomes your act."
+        },
+        {
+          "n": "3",
+          "title": "Route everything through HR",
+          "desc": "If something must be said, ask HR to say it. Send that request by email."
+        }
+      ],
+      "script": "(To a mutual friend who offers to help) <strong>\"Don't say anything to her on my behalf. I need this to go through HR, not through you.\"</strong>",
+      "watchFor": "The friend backs off and stops offering to carry messages.",
+      "example": "Ben passed a message through a teammate: just tell her I never meant it that way. The teammate mentioned it in her interview. The report added a finding for interfering with the investigation. The original complaint was found unproven. He was let go for the message.",
+      "ifItFails": "The complainant contacts you first. Do not reply, even to be polite — a warm reply becomes a conversation you took part in. Screenshot it, do not respond, and email HR the same day: \"For the record, [name] contacted me at 4:12pm today. I have not replied and will not.\" You just turned their move into your evidence.",
+      "counter": "If someone under investigation asks you to pass a message, they are making you part of it.\n• Notice the request sounds small and kind.\n• Say: <strong>\"I'm not carrying that. Tell HR directly.\"</strong>\n• Do not repeat what they said to anyone. You become a witness the moment you do.",
+      "insight": "Investigations mostly fail to prove the original claim. They almost never fail to prove contact. The next question is how you survive weeks of silence without one person to talk to at work."
+    },
+    {
+      "id": 12,
+      "cat": "between",
+      "danger": "moderate",
+      "title": "Keep Working Normally And Let Your Output Speak",
+      "principle": "Greene: Law 30 — Make Your Accomplishments Seem Effortless",
+      "remember": "Ship your work on time. Boring performance is a defense.",
+      "hook": "They are deciding whether you are a problem or a person having a bad month. <strong>Your calendar answers that.</strong>",
+      "truth": "Decision-makers look at your recent behavior more than the disputed event.\n• Normal delivery makes the complaint look like an outlier.\n• Withdrawal, sick days, and missed deadlines confirm the story about you.\n• The trap is overperforming loudly. That reads as a performance, and people notice.",
+      "when": "An investigation is open and you have to keep going to work every day.",
+      "theySee": "A coworker who joins the same meetings, ships the same work, and says nothing about the case.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Meeting drop",
+          "t": "You have skipped meetings you used to attend"
+        },
+        {
+          "icon": "🛏️",
+          "l": "Sick days",
+          "t": "You have taken more sick days than usual in the last two weeks"
+        },
+        {
+          "icon": "🔕",
+          "l": "Slow replies",
+          "t": "Your replies to normal work messages take days"
+        },
+        {
+          "icon": "🎤",
+          "l": "Loud extras",
+          "t": "You volunteer for visible extra work you would never normally take"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Protect three deliverables",
+          "desc": "Pick the three most visible things due in the next month. Hit those dates exactly."
+        },
+        {
+          "n": "2",
+          "title": "Keep your calendar unchanged",
+          "desc": "Attend the same meetings, same camera setting, same seat. Change nothing visible."
+        },
+        {
+          "n": "3",
+          "title": "Send one normal weekly update",
+          "desc": "Send the same status update you always send. Facts, no tone, no mention of the case."
+        }
+      ],
+      "script": "(In your weekly update, unchanged from every other week) <strong>\"Migration is on track for the 14th. Two blockers cleared. Nothing needed from you this week.\"</strong>",
+      "watchFor": "Your manager keeps assigning you new work instead of routing it around you.",
+      "example": "During a six-week investigation, Ines shipped both her quarter commitments and skipped nothing on her calendar. Her skip-level cited her delivery record when the finding came back inconclusive. The complainant's manager had already stopped assigning her work — everyone noticed which one looked steady.",
+      "ifItFails": "Your manager starts routing work around you anyway. Do not sulk and do not confront. Ask for the work in writing: \"I have capacity for the Q3 piece. Is there a reason I shouldn't take it?\" If they say the investigation, you now have a written retaliation trail — forward that thread to HR and ask them to confirm the expectation.",
+      "counter": "If someone under a cloud suddenly becomes the hardest worker in the room, they are managing the record.\n• Notice the timing: the effort started the week the complaint did.\n• Say: <strong>\"Good to have you on it. Can you take the Thursday piece too?\"</strong>\n• Judge them on the delivery date, not on the visible effort.",
+      "insight": "Investigators do not measure your character, they measure your pattern. Boring is the strongest signal available. This fails if you were already on a performance plan — then normal output only confirms the existing story."
+    },
+    {
+      "id": 13,
+      "cat": "between",
+      "danger": "high",
+      "title": "Ask For The Timeline In Writing Every Two Weeks",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Ask when it ends, in email, on a schedule. Silence is a tactic.",
+      "hook": "They let it run long because waiting breaks people. <strong>A dated email makes the clock theirs, not yours.</strong>",
+      "truth": "Long silence is not neglect, it is pressure that costs them nothing.\n• A polite written check-in forces them to state a date or refuse.\n• Once they name a date in email, delay becomes their problem.\n• The trap is asking too often. Every two weeks reads as reasonable; weekly reads as panic.",
+      "when": "Weeks have passed since your interview and nobody has told you anything.",
+      "theySee": "An employee who sends a short, calm email asking about process, not about the case.",
+      "signals": [
+        {
+          "icon": "📭",
+          "l": "No update",
+          "t": "Two weeks pass with no message from HR"
+        },
+        {
+          "icon": "🤷",
+          "l": "Soon",
+          "t": "They answer your question with soon or in progress"
+        },
+        {
+          "icon": "🔄",
+          "l": "New interviewer",
+          "t": "A different person takes over your case with no handover note"
+        },
+        {
+          "icon": "📆",
+          "l": "Missed date",
+          "t": "They pass a date they gave you and do not mention it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send a short process email",
+          "desc": "Ask for the expected completion date and what is still outstanding. Three lines maximum."
+        },
+        {
+          "n": "2",
+          "title": "Set a two-week reminder",
+          "desc": "Put a calendar reminder to send the next one. Same wording each time."
+        },
+        {
+          "n": "3",
+          "title": "Keep every reply",
+          "desc": "Save their answers to your personal notes with dates. This is your delay record."
+        }
+      ],
+      "script": "\"Quick process question — <strong>do you have an expected completion date for this?</strong> I want to plan my work around it. Happy to provide anything still outstanding.\"",
+      "watchFor": "They reply with an actual date instead of the word soon.",
+      "example": "Omar's investigation went quiet for five weeks. He sent the same three-line email every second Friday. The fourth one got a date. Two days later, HR closed the case — his emails were the only pressure in the system, and they were all on the record.",
+      "ifItFails": "They keep answering with 'soon' or stop replying. Escalate the channel, not the tone: copy your manager on the next one, or send it to the HR lead's manager with the same three lines plus a list of your previous send dates. A visible list of unanswered emails does the arguing for you.",
+      "counter": "If someone lets a process run open with no dates, the delay is the punishment.\n• Notice there is no promised date anywhere in writing.\n• Say: <strong>\"What date should I expect a decision?\"</strong>\n• Ask in email, never in person. In person leaves no record. Do not do this weekly — it reads as panic.",
+      "insight": "An open case with no end date is a quiet way to make you quit without firing you. Your emails make the delay expensive. The harder part is that once they give a date, you have to be ready for what lands on it."
+    },
+    {
+      "id": 14,
+      "cat": "finding",
+      "danger": "high",
+      "title": "Get The Finding In Writing And Read What It Actually Says",
+      "principle": "Gracián: Know How To Read The Words Behind The Words",
+      "remember": "Ask for the finding on paper. Verbal findings change later.",
+      "hook": "They tell you it is resolved and smile. <strong>Resolved is not a finding, and a smile is not a record.</strong>",
+      "truth": "A spoken result gives you nothing to hold and nothing to appeal.\n• Written findings use exact words: substantiated, unsubstantiated, inconclusive.\n• Each word carries a different consequence for your file and your promotion.\n• The trap is accepting a friendly summary instead of the actual wording.",
+      "when": "HR tells you in a meeting that the investigation is closed.",
+      "theySee": "An employee who thanks them and asks one question about documentation.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Verbal only",
+          "t": "They tell you the result out loud and offer nothing on paper"
+        },
+        {
+          "icon": "🌀",
+          "l": "Soft words",
+          "t": "They say resolved or addressed instead of substantiated or not"
+        },
+        {
+          "icon": "📎",
+          "l": "File mention",
+          "t": "They mention a note going in your file without showing you"
+        },
+        {
+          "icon": "🤝",
+          "l": "Move on",
+          "t": "They ask you to put it behind you and get back to work"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the exact finding word",
+          "desc": "Ask whether the claim was substantiated, unsubstantiated, or inconclusive. Use those words."
+        },
+        {
+          "n": "2",
+          "title": "Ask what goes in your file",
+          "desc": "Ask what document goes in your personnel record and ask to see it."
+        },
+        {
+          "n": "3",
+          "title": "Email a confirmation the same day",
+          "desc": "Write what they told you and send it to them. Ask them to correct anything wrong."
+        }
+      ],
+      "script": "\"Thanks. So I'm clear for my own records — <strong>was the complaint substantiated, unsubstantiated, or inconclusive?</strong> And what goes in my file?\"",
+      "watchFor": "They use one of the three official words instead of saying it is handled.",
+      "example": "Grace was told her case was 'closed with no further action.' She emailed the same afternoon asking which of the three findings applied. HR answered 'unsubstantiated' in writing. Eight months later a new manager referenced 'that incident' and Grace forwarded the email. The subject never came up again.",
+      "ifItFails": "They refuse to put anything in writing. Do not argue — write it yourself. Send: \"Confirming my understanding of today's meeting: you told me the matter is closed and no finding was made against me. Please correct me if that's wrong.\" Unanswered, that email becomes the record. Do not send this to HR alone if HR is the problem — copy your manager.",
+      "counter": "If someone gives you good news verbally and rushes you back to work, the paper does not match the smile.\n• Notice there is no document and no exact finding word.\n• Say: <strong>\"Can you put the outcome in an email?\"</strong>\n• If they will not, send your own version and let silence confirm it.",
+      "insight": "Companies close cases with words that sound clean and file records that are not. The written word decides your next promotion, not the meeting. The next question is what to do if that word is substantiated."
+    },
+    {
+      "id": 15,
+      "cat": "finding",
+      "danger": "extreme",
+      "title": "Appeal On Process, Not On Feelings",
+      "principle": "Schopenhauer: The Art of Controversy — Attack The Ground, Not The Conclusion",
+      "remember": "Do not argue you are innocent. Show what the process skipped.",
+      "hook": "Nobody overturns a finding because you disagree with it. <strong>They overturn it because the process has a hole they can be sued over.</strong>",
+      "truth": "An appeal is a legal risk review, not a second chance to explain yourself.\n• Process errors create liability. Your innocence claim creates nothing.\n• Name the witness never interviewed, the document never reviewed, the date range never covered.\n• The trap is writing three pages about how unfair it feels. That gets filed, not read.",
+      "when": "HR tells you the complaint against you was substantiated and you have a right to appeal.",
+      "theySee": "An employee who submits a short numbered list of gaps in the process, with dates.",
+      "signals": [
+        {
+          "icon": "🚫",
+          "l": "Skipped witness",
+          "t": "They never interviewed someone who was in the room"
+        },
+        {
+          "icon": "📂",
+          "l": "Ignored evidence",
+          "t": "They never asked for the email thread you offered"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Wrong window",
+          "t": "The report covers dates outside the original complaint"
+        },
+        {
+          "icon": "📏",
+          "l": "Policy gap",
+          "t": "The company's own policy required a step they skipped"
+        },
+        {
+          "icon": "⚖️",
+          "l": "One-sided",
+          "t": "The report quotes the complainant far more than it quotes you"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the gaps, numbered",
+          "desc": "Write three to five specific things the investigation did not do. One line each."
+        },
+        {
+          "n": "2",
+          "title": "Quote your own policy",
+          "desc": "Find the investigation policy on the intranet. Quote the step they skipped, word for word."
+        },
+        {
+          "n": "3",
+          "title": "Ask for one specific remedy",
+          "desc": "Name what you want: reinterview a witness, review a document, or reissue the finding."
+        }
+      ],
+      "script": "\"I'm appealing on process, not on the conclusion. <strong>Three witnesses in the room on March 4th were never interviewed, and the email thread I offered on March 6th was never requested.</strong> I'm asking that both be reviewed before the finding is final.\"",
+      "watchFor": "The appeal reviewer asks you for the names or the document instead of restating the finding.",
+      "example": "Wei's finding came back substantiated. He wrote four numbered lines: two witnesses never contacted, one email thread never requested, and the company's own policy requiring a written notice he never got. The finding was changed to inconclusive within three weeks. He never once wrote that it was unfair.",
+      "ifItFails": "The appeal is denied with a one-line answer. Do not send a longer version of the same letter. Shift to the record and the future: ask in writing what specific behavior change they expect and by when. That converts a punishment into a documented plan, and a plan you complete is a defense against the next round. Do not run this appeal at all if you are close to a settlement — a lawyer decides that order, not you.",
+      "counter": "If someone appeals a decision to you by talking about fairness, they have no process argument.\n• Notice whether they cite a skipped step or only their feelings.\n• Say: <strong>\"Which part of the process was missed? Give me the specific step.\"</strong>\n• A vague appeal is a weak one. Judge it on named gaps only.",
+      "insight": "Companies defend findings but fear procedure claims, because procedure is what a court reads. The harder part is that a successful appeal buys you a clean file, not a clean reputation."
+    },
+    {
+      "id": 16,
+      "cat": "after",
+      "danger": "high",
+      "title": "Assume The Team Already Knows And Say Nothing",
+      "principle": "Greene: Law 6 — Court Attention, But Never Explain Yourself",
+      "remember": "Never explain. Explaining spreads the story further than the story did.",
+      "hook": "HR said it was confidential. <strong>Six people knew by Friday.</strong> Your explanation would make it twelve.",
+      "truth": "Every explanation you give restarts the story and adds your details to it.\n• People forget an unexplained absence. They repeat a defended one.\n• Your version travels further and lasts longer than the original rumor.\n• The trap is the sympathetic coworker who asks what really happened.",
+      "when": "You are back at work and a coworker asks what all that was about.",
+      "theySee": "A coworker who shrugs once, says it is done, and changes the subject to work.",
+      "signals": [
+        {
+          "icon": "👂",
+          "l": "The gentle ask",
+          "t": "A coworker says they heard something and asks if you are okay"
+        },
+        {
+          "icon": "🫥",
+          "l": "Room shift",
+          "t": "A conversation changes topic when you walk over"
+        },
+        {
+          "icon": "🍽️",
+          "l": "Lunch drop",
+          "t": "Two people who always invited you stopped inviting you"
+        },
+        {
+          "icon": "💬",
+          "l": "Third-hand version",
+          "t": "Someone repeats a version of events you have never told anyone"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Build one short line",
+          "desc": "Write one sentence you will use every time. Same words, every person, no variations."
+        },
+        {
+          "n": "2",
+          "title": "Change the subject immediately",
+          "desc": "After the line, ask them a work question. Do not leave a pause for follow-ups."
+        },
+        {
+          "n": "3",
+          "title": "Tell nobody the details",
+          "desc": "Not the work friend, not over drinks, not once. One telling becomes the office version."
+        }
+      ],
+      "script": "\"It's closed and I'm not getting into it. <strong>Where did we land on the Thursday release?</strong>\"",
+      "watchFor": "They answer your work question and drop the subject.",
+      "example": "After his case closed, Raj used the same eleven words with everyone who asked. Six people asked in two weeks. By the following month nobody raised it, because there was no new detail to pass along. His teammate in a similar spot explained herself twice and was still answering questions in December.",
+      "ifItFails": "Someone repeats a false version out loud, in front of others. Correcting the detail feeds it. Correct the source instead, privately and once: \"That's not what happened, and I'm not going to litigate it. If you have a question, ask me directly.\" Then never mention it to them again. Do not run this move on your manager — your manager gets a short factual update, not a shrug.",
+      "counter": "If someone asks kindly what really happened, they are collecting, not caring.\n• Notice the ask comes with sympathy and a lowered voice.\n• Say: <strong>\"It's done. Nothing to tell.\"</strong>\n• Judge them by whether they ask twice. The second ask tells you who they are.",
+      "insight": "Silence starves a rumor and explanation feeds it. The cost is that people fill the gap with something. The harder question is which of them fed the file in the first place, and whether you can work next to that person for another year."
+    },
+    {
+      "id": 17,
+      "cat": "after",
+      "danger": "high",
+      "title": "Find Out Who Talked, And Do Not Punish Them",
+      "principle": "Greene: Law 19 — Know Who You Are Dealing With",
+      "remember": "Learn who talked. Change nothing. Just stop feeding them.",
+      "hook": "Someone gave them the quote. <strong>Knowing who is worth more than getting even.</strong>",
+      "truth": "The person who talked is now a permanent fact about your workplace.\n• The report quotes phrases only two or three people ever heard.\n• Match the phrase to who was in the room. That is your list.\n• Revenge restarts the case with you as the aggressor. Distance costs nothing.",
+      "when": "You have read the finding and it quotes something only a few people could have heard.",
+      "theySee": "A coworker who is exactly as friendly as before and shares nothing personal anymore.",
+      "signals": [
+        {
+          "icon": "🔍",
+          "l": "Private phrase",
+          "t": "The report quotes something you said to only one or two people"
+        },
+        {
+          "icon": "😬",
+          "l": "Avoidance",
+          "t": "Someone who used to seek you out now keeps meetings short"
+        },
+        {
+          "icon": "🎁",
+          "l": "Over-friendly",
+          "t": "A coworker is suddenly warmer than they have ever been"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Fishing return",
+          "t": "The same person keeps asking how you feel about the finding"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Match quotes to rooms",
+          "desc": "List each quoted phrase and write who was present when you said it. Names only."
+        },
+        {
+          "n": "2",
+          "title": "Test with one small thing",
+          "desc": "Tell one person a harmless, specific detail. See if it comes back to you."
+        },
+        {
+          "n": "3",
+          "title": "Keep them close and dry",
+          "desc": "Stay friendly. Stop sharing anything personal, negative, or unfinished with them."
+        }
+      ],
+      "script": "(To the person you now know talked, same tone as always) <strong>\"Morning. Can you take the client note today? I'll cover the standup.\"</strong>",
+      "watchFor": "They relax around you again and stop testing whether you know.",
+      "example": "Sofia matched two quotes in her report to a single lunch with one teammate. She said nothing. She kept inviting him to lunch and never again mentioned anything about her manager. Nine months later he was still friendly and had nothing new to report about her.",
+      "ifItFails": "They escalate — they file a second complaint saying you have frozen them out. Do not defend your feelings; produce the record. Reply to HR with dates: meetings you invited them to, work you assigned, messages you answered. \"Here are the last six weeks. Tell me what you'd like me to do differently.\" Do not run any part of this if you manage the person — the same distance from a boss is retaliation.",
+      "counter": "If someone treats you exactly as before but never tells you anything real again, they know.\n• Notice the warmth stays and the information stops.\n• Say nothing about it. Asking confirms what they suspect.\n• Rebuild by giving them something useful, not by asking for trust back.",
+      "insight": "Punishing the source turns a closed case into an open one with you as the subject. Distance is invisible and permanent. The next question is whether a team you cannot speak freely on is worth staying on."
+    },
+    {
+      "id": 18,
+      "cat": "after",
+      "danger": "extreme",
+      "title": "Decide Whether To Stay By Watching What They Assign You",
+      "principle": "Machiavelli: The Prince — Judge By Actions, Not Words",
+      "remember": "Watch the work you get, not the words you hear. Work tells the truth.",
+      "hook": "They say it is behind us. <strong>Then the good project goes to someone else.</strong> Watch the projects.",
+      "truth": "After a finding, your future shows up in assignments long before it shows up in reviews.\n• They will say the right things for months while quietly routing work around you.\n• Track three things: project quality, meeting invites, and who your skip-level talks to.\n• The trap is waiting for a formal signal. There is never a formal signal.",
+      "when": "Your case is closed, everyone says it is fine, and you cannot tell if your career is over.",
+      "theySee": "An employee who asks directly for a specific high-value project and waits for the answer.",
+      "signals": [
+        {
+          "icon": "📦",
+          "l": "Work quality drop",
+          "t": "You get maintenance work while peers get new projects"
+        },
+        {
+          "icon": "🚪",
+          "l": "Meeting removal",
+          "t": "You are no longer invited to planning meetings you used to attend"
+        },
+        {
+          "icon": "🧑‍💼",
+          "l": "Skip-level silence",
+          "t": "Your skip-level stopped speaking to you directly"
+        },
+        {
+          "icon": "📝",
+          "l": "Vague review",
+          "t": "Your review says solid and reliable with no growth path named"
+        },
+        {
+          "icon": "🚀",
+          "l": "Promotion pass",
+          "t": "A peer with your record gets promoted and you get a talk about timing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for one specific big project",
+          "desc": "Name a real project by name and ask for it in writing. Not more responsibility — that one."
+        },
+        {
+          "n": "2",
+          "title": "Give it ninety days",
+          "desc": "Track what you get assigned for three months. Write it down weekly. Compare to a peer."
+        },
+        {
+          "n": "3",
+          "title": "Start looking while you decide",
+          "desc": "Take three outside calls in that window. Options change how the next conversation goes."
+        }
+      ],
+      "script": "\"I want the Q4 platform work. <strong>If that's not on the table for me, tell me now and tell me why</strong> — I'd rather plan around a real answer than a polite one.\"",
+      "watchFor": "They either name a date and a project, or they get vague — both are answers.",
+      "example": "Ten weeks after his case closed, Andre asked for the platform rebuild by name. His director said the timing was not right and gave no second option. Andre took three recruiter calls that month and left in eleven weeks with a title bump. His replacement got the platform rebuild.",
+      "ifItFails": "They give you the project and then quietly reassign parts of it. That is the same answer, delivered slower. Do not raise the investigation — raise the scope in writing: \"Two pieces moved off my plate this month. Is the scope changing, or am I?\" Send it to your manager and put it in your next one-on-one agenda. Do not use this line if you are inside a probation period tied to the finding — finish that first.",
+      "counter": "If a manager assures you your record is clean while your work quality drops, watch the work.\n• Notice the gap between the warm words and the assignment list.\n• Say: <strong>\"I want that project. Yes or no?\"</strong>\n• A vague answer to a specific ask is a no. Plan on it. Do not confront it.",
+      "insight": "Companies rarely fire the investigated; they shrink them until leaving is your idea. The upper hand comes back the day you have another offer in hand. The harder question is whether you want the win here or somewhere nobody has read your file."
+    },
+    {
+      "id": 19,
+      "cat": "summons",
+      "danger": "low",
+      "title": "Ask What Happens To Your Access And Pay Before You Leave The Room",
+      "when": "HR tells you to hand over your badge and go home while they investigate.",
+      "hook": "Silence about your paycheck breeds fear faster than any accusation. <strong>Ask the flat questions now — they answer differently in front of you.</strong>",
+      "truth": "HR often leaves leave terms vague on purpose, so people panic and talk.\n• A scared employee overshares to fill the gap.\n• Once you leave the room, you lose the chance to ask in person.\n• Most people accept vague terms and spend weeks calling around confused.",
+      "principle": "Voss: Calibrated Questions",
+      "remember": "Get the facts on pay and access before you walk out the door.",
+      "theySee": "Someone calm asking logistics questions instead of pleading or arguing about the accusation.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Vague return",
+          "t": "They give you a vague date to return."
+        },
+        {
+          "icon": "💰",
+          "l": "Pay unclear",
+          "t": "They don't say if the leave is paid."
+        },
+        {
+          "icon": "✍️",
+          "l": "Rushed signature",
+          "t": "They ask you to sign something before explaining it."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Rushed exit",
+          "t": "They rush you to clear your desk in minutes."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask pay status",
+          "desc": "Ask directly: 'Is this paid leave, and starting when?'"
+        },
+        {
+          "n": "2",
+          "title": "Ask about access",
+          "desc": "Ask what happens to your email, badge, and laptop right now."
+        },
+        {
+          "n": "3",
+          "title": "Get a contact",
+          "desc": "Ask who to contact with questions and get that name in writing."
+        }
+      ],
+      "script": "\"Before I go — is this leave paid, do I keep my badge and laptop, and who is my point of contact for questions?\"",
+      "watchFor": "They pull out a checklist or call someone to confirm the answer instead of guessing.",
+      "ifItFails": "They say 'we'll follow up' and dodge a straight answer. Don't leave without something in writing. Send an email within the hour: 'Confirming what we discussed — my leave starts today, I understand it's paid, and I keep access to X. Please correct me if wrong.'",
+      "counter": "If HR won't commit to a straight answer, they may be stalling to see what you volunteer.\n• Notice when they answer a policy question with a feeling, not a fact.\n• Say: 'I need this in writing, not a reassurance.'\n• Escalate to the person who owns the paperwork, not the messenger.",
+      "insight": "Getting the pay answer settles the fear. It does not settle whether the investigation goes anywhere. The harder question is what you do with the weeks off the clock."
+    },
+    {
+      "id": 20,
+      "cat": "before",
+      "danger": "moderate",
+      "title": "Get The Actual Policy Text, Not Just The Allegation",
+      "when": "You work somewhere with no formal HR department and you're told you broke 'policy.'",
+      "hook": "You can't defend against a rule nobody will show you. <strong>Make them point to the line, not the mood.</strong>",
+      "truth": "In small companies, 'policy' is often whatever the boss feels like today.\n• Many workplaces have no written rule for what you're accused of breaking.\n• Asking for the exact text forces them to produce it or admit it's a guess.\n• Most people apologize for an unwritten rule instead of testing if it's real.",
+      "principle": "Documentation Asymmetry",
+      "remember": "Ask for the exact rule in writing. Don't argue against a feeling.",
+      "theySee": "Someone reasonable asking for the specific document instead of getting defensive.",
+      "signals": [
+        {
+          "icon": "📖",
+          "l": "No section",
+          "t": "They cite 'company policy' but can't name a section."
+        },
+        {
+          "icon": "🤷",
+          "l": "Common sense",
+          "t": "They say 'it's just common sense' instead of pointing to a rule."
+        },
+        {
+          "icon": "📄",
+          "l": "Outdated handbook",
+          "t": "The handbook you're given is missing the section they mention."
+        },
+        {
+          "icon": "😤",
+          "l": "Impatience",
+          "t": "They get impatient when you ask for the exact wording."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the section",
+          "desc": "Ask them to send the specific policy section this falls under."
+        },
+        {
+          "n": "2",
+          "title": "Ask the date",
+          "desc": "Ask when that section was last updated."
+        },
+        {
+          "n": "3",
+          "title": "Ask who decides",
+          "desc": "If no policy exists, ask who owns the decision and get their name."
+        }
+      ],
+      "script": "\"I want to understand this correctly — can you send me the exact policy section I'm accused of breaking, in writing?\"",
+      "watchFor": "They go quiet, say they'll check, or send a generic handbook link instead of a section number.",
+      "ifItFails": "They can't produce a written rule and call it 'judgment' or 'culture' instead. Don't fight that in the room — it's their weakest ground. Say: 'If there's no written policy, can we agree on one so this doesn't happen again?' That puts the gap on record without you conceding fault.",
+      "counter": "If someone cites an unwritten 'policy' to pressure you into agreeing you were wrong, they're using this on you.\n• Notice the rule described gets more specific only after you push back.\n• Say: 'Send me that in writing and I'll respond to it directly.'\n• Wait for the document — vague rules die in writing.",
+      "insight": "A written policy is a fixed target; a feeling isn't. Skip this if the rule is real and documented — it just looks evasive. The harder fight starts once they produce the page and you're arguing wording, not the accusation."
+    },
+    {
+      "id": 21,
+      "cat": "inside",
+      "danger": "high",
+      "title": "Don't Confirm Details When They Show You 'Evidence'",
+      "when": "The investigator slides a printout, screenshot, or transcript across the table mid-interview.",
+      "hook": "That screenshot might be real, partial, or a bluff. <strong>Your job is to read it, not narrate it.</strong>",
+      "truth": "Investigators are trained to show partial evidence and let you fill the gaps.\n• A folder, a printout, even a blank page can make people over-explain.\n• Most people panic and add details the document doesn't show, to seem cooperative.\n• What you add joins the record — they didn't need to prove it if you admitted it.",
+      "principle": "Reid Technique: The Evidence Ploy",
+      "remember": "Look at what's actually on the page. Don't fill in the blanks for them.",
+      "theySee": "Someone reading carefully and answering only what's on the page, not rushing to explain the whole story.",
+      "signals": [
+        {
+          "icon": "🖐️",
+          "l": "Covered page",
+          "t": "They show you a document but cover part of it with their hand."
+        },
+        {
+          "icon": "❓",
+          "l": "Vague ask",
+          "t": "They ask 'does this look familiar?' instead of a direct question."
+        },
+        {
+          "icon": "👁️",
+          "l": "Watching face",
+          "t": "They pause and watch your face after showing it to you."
+        },
+        {
+          "icon": "📁",
+          "l": "Phantom file",
+          "t": "They reference a document they never actually show you."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask to read it fully",
+          "desc": "Ask to read the whole document, not just the highlighted line."
+        },
+        {
+          "n": "2",
+          "title": "Ask the exact question",
+          "desc": "Ask 'what's your question about this, specifically?'"
+        },
+        {
+          "n": "3",
+          "title": "Answer only that",
+          "desc": "Answer just that one question, in one sentence."
+        }
+      ],
+      "script": "\"Can I read the whole page? ... Okay — what's your specific question about it?\"",
+      "watchFor": "They narrow the question to something concrete instead of letting the document imply the rest.",
+      "ifItFails": "They refuse to let you read the full document and keep pressing 'just tell me what happened.' Don't guess at what it says. Say once: 'I can't respond to a document I haven't fully read. Let me see the whole thing or send me a copy after,' then stop talking until they move on.",
+      "counter": "If someone waves a partial document at you to get you talking, they're running the same play.\n• Notice the reveal is timed right after a pause, not a question.\n• Say: 'I'd need to see that in full before I comment.'\n• Don't fill silence with guesses about what it contains.",
+      "insight": "The document rarely says as much as the pause after showing it implies. Don't play dumb about something you already discussed earlier in the same interview — that reads as backtracking. The harder skill is staying quiet when a blank folder gets shown as confidently as a full one."
+    },
+    {
+      "id": 22,
+      "cat": "between",
+      "danger": "moderate",
+      "title": "Treat A Second Interview Request Like A New One, Not A Rerun",
+      "when": "They call you back for a follow-up interview weeks after the first one.",
+      "hook": "Nobody gets called back to confirm they already believe you. <strong>A second round means the story moved.</strong>",
+      "truth": "Investigators reopen an interview when new facts contradict the first one, or a witness changed something.\n• Your first answers are now the fixed anchor they test the new facts against.\n• A follow-up almost always targets one specific gap, not a general recap.\n• Most people relax because 'we already covered this' — that's when they get pinned on a detail.",
+      "principle": "Anchoring Effect — First Answers Get Tested Against New Facts",
+      "remember": "A second interview means they found something. Don't assume it's routine.",
+      "theySee": "Someone treating this round as seriously as the first, not casually recapping.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Just recap",
+          "t": "They ask you to 'just walk through that day again.'"
+        },
+        {
+          "icon": "📛",
+          "l": "New name",
+          "t": "They reference a specific date or name that wasn't central before."
+        },
+        {
+          "icon": "⏳",
+          "l": "Timing",
+          "t": "The request comes right after another employee's interview."
+        },
+        {
+          "icon": "✏️",
+          "l": "Add or change",
+          "t": "They ask if you want to 'add or change anything' from before."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask why",
+          "desc": "Ask why they need a second session before agreeing to a time."
+        },
+        {
+          "n": "2",
+          "title": "Review your notes",
+          "desc": "Reread your own timeline notes before you go in — don't rely on memory."
+        },
+        {
+          "n": "3",
+          "title": "Ask what changed",
+          "desc": "In the room, ask what's changed since the first interview."
+        }
+      ],
+      "script": "\"Before we start again — has something changed since our last conversation that you want to ask about?\"",
+      "watchFor": "They name the specific topic instead of saying 'just routine' — that shows you where the real question is.",
+      "ifItFails": "They say it's 'just routine' and won't name a topic. Don't take that at face value — assume there's a gap and answer carefully instead of casually. Say: 'Understood — I'll answer what you ask,' and hold to short, exact answers like your first interview, not a longer recap.",
+      "counter": "If someone treats your second meeting as low-stakes to loosen you up, notice it.\n• They say 'this is just a formality' right before the real question.\n• Say: 'Happy to help — what specifically changed?'\n• Match your first interview's exact wording, don't improve on it.",
+      "insight": "A second interview is proof the file is still open, not that it's closing in your favor. Don't get cagey if the callback is genuinely routine — treating every request as an ambush burns goodwill you may need later. The next test is whether your two accounts line up without you having to remember what you said."
+    },
+    {
+      "id": 23,
+      "cat": "between",
+      "danger": "low",
+      "title": "Use Leave Time To Build Your Next Option, Not Just Wait",
+      "when": "You're sitting on administrative leave with no news and no return date.",
+      "hook": "The investigation moves on its own clock. <strong>Yours doesn't have to wait for theirs.</strong>",
+      "truth": "People on leave often freeze, refreshing email and waiting for permission to act.\n• The company controls the timeline, not you — waiting hands them all the power.\n• A second option changes what a bad finding can do to you.\n• Most people wait passively and only start looking for an option once the finding lands.",
+      "principle": "Fisher & Ury: BATNA — Build Your Best Alternative",
+      "remember": "Waiting for the finding is not a plan. Build a backup while you wait.",
+      "theySee": "Nothing — this move is invisible to them by design. That's the point.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Pushed calls",
+          "t": "Your calls with HR keep getting pushed a week at a time."
+        },
+        {
+          "icon": "🚫",
+          "l": "No date",
+          "t": "Nobody will give you a date for the decision."
+        },
+        {
+          "icon": "🤐",
+          "l": "Frozen out",
+          "t": "Coworkers stop looping you into projects without explanation."
+        },
+        {
+          "icon": "⏰",
+          "l": "Extended leave",
+          "t": "The leave stretches past what was promised."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Update your profile",
+          "desc": "Update your resume and LinkedIn quietly, without announcing why."
+        },
+        {
+          "n": "2",
+          "title": "Reach out weekly",
+          "desc": "Contact one person outside the company per week, framed as networking."
+        },
+        {
+          "n": "3",
+          "title": "Track your runway",
+          "desc": "Track your finances so you know exactly how many months you can hold out."
+        }
+      ],
+      "script": "\"Hey — not job hunting exactly, but wanted to reconnect and hear what you're working on these days.\"",
+      "watchFor": "You feel less afraid of the finding once you have a second option lined up — that's the real signal it worked.",
+      "ifItFails": "You reach out and nobody bites right away — normal, not a failure. Keep the weekly outreach going regardless of the investigation's timeline; one contact a week compounds by month three. Don't stop the search just because HR finally calls with an update.",
+      "counter": "If you're managing someone on leave and they go dark for weeks, that silence isn't loyalty — assume they're building an option elsewhere.\n• Notice if they suddenly update their LinkedIn photo or headline.\n• Don't read continued silence as guaranteed return.\n• If you want to keep them, give them a real timeline, not 'soon.'",
+      "insight": "A second option doesn't mean you want to leave. It means the finding can't be the only exit door in the building. The harder part is deciding, once you have it, whether to use it even if the finding comes back clean."
+    },
+    {
+      "id": 24,
+      "cat": "finding",
+      "danger": "high",
+      "title": "Take The Smaller Finding When They Offer A Choice",
+      "when": "HR offers you a choice between a lesser finding and a fight over the bigger one.",
+      "hook": "Total victory sounds better than it survives contact. <strong>The safe move is small, on paper, and over.</strong>",
+      "truth": "Investigations often end with a menu, not a verdict: coaching note vs written warning, warning vs suspension.\n• Fighting for full clearance can drag the file open for months.\n• A smaller finding closes the case and starts the clock for it to age off your record.\n• Most people fight the label instead of comparing what each option actually costs them.",
+      "principle": "Machiavelli: The Prince — Choose The Lesser Evil",
+      "remember": "Pick the small loss on paper. Don't gamble it all on being fully cleared.",
+      "theySee": "Someone practical, negotiating terms instead of relitigating the whole case.",
+      "signals": [
+        {
+          "icon": "🗂️",
+          "l": "Two doors",
+          "t": "They present two outcomes and ask which you'd prefer."
+        },
+        {
+          "icon": "⏳",
+          "l": "Expiration",
+          "t": "They mention timelines for how long each finding stays on file."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Soft vs formal",
+          "t": "They use soft words like 'coaching' for one option, formal words for the other."
+        },
+        {
+          "icon": "🏁",
+          "l": "Eager to close",
+          "t": "They seem eager to close the file quickly."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what each costs",
+          "desc": "Ask exactly what each option means for pay, promotion, and file duration."
+        },
+        {
+          "n": "2",
+          "title": "Ask about wording",
+          "desc": "Ask if the smaller finding can skip admitting the original allegation."
+        },
+        {
+          "n": "3",
+          "title": "Get it written",
+          "desc": "Get the agreed wording in writing before you accept either one."
+        }
+      ],
+      "script": "\"Before I choose — can you tell me exactly how long each option stays on my file, and can the smaller one be worded without admitting the original claim?\"",
+      "watchFor": "They can quote an exact expiration date — that means the menu was decided before you walked in.",
+      "ifItFails": "They say the wording isn't negotiable and it's take-it-or-leave-it today. Don't cave to a rushed choice. Say: 'I need 24 hours to review this in writing before I respond,' and get it emailed to you. A forced same-day answer is a pressure tactic, not a real deadline.",
+      "counter": "If someone offers you a 'choice' that's really a script with only one good answer, notice it.\n• Both options may be worse than a version nobody mentioned.\n• Say: 'What other outcomes have been used for similar cases?'\n• Don't accept the frame that only two doors exist.",
+      "insight": "The smaller finding is a discount, not a dismissal. Don't take a lesser finding that requires admitting something you didn't do, just to end the file fast. The harder question is whether you can live with a filed admission just to make the process end faster."
+    },
+    {
+      "id": 25,
+      "cat": "finding",
+      "danger": "moderate",
+      "title": "Get Ahead Of The Rumor Before The Finding Is Announced",
+      "when": "People already seem to know the outcome before HR has told you officially.",
+      "hook": "Silence doesn't stay neutral for long. <strong>Somebody always fills it before HR does.</strong>",
+      "truth": "A finding leaks through the note-taker, the witness, or a manager's slip long before it's official.\n• People fill information gaps with the worst plausible version, not the true one.\n• Whoever tells the story first sets what everyone else remembers.\n• Most people wait for the official word and let the rumor version harden first.",
+      "principle": "Information Vacuum — Rumors Fill What Official Channels Leave Empty",
+      "remember": "If the rumor beats the memo, the rumor becomes the story. Move first.",
+      "theySee": "Someone who seems unbothered and normal, not someone hiding or confirming anything.",
+      "signals": [
+        {
+          "icon": "🤫",
+          "l": "Room goes quiet",
+          "t": "Coworkers go quiet when you walk into a room."
+        },
+        {
+          "icon": "🗯️",
+          "l": "Too much detail",
+          "t": "Someone mentions details about the case they shouldn't know yet."
+        },
+        {
+          "icon": "👀",
+          "l": "Avoiding eyes",
+          "t": "Your manager avoids eye contact before the official date."
+        },
+        {
+          "icon": "📭",
+          "l": "Dropped invites",
+          "t": "Meeting invites you'd normally get start going to someone else."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Don't confirm anything",
+          "desc": "Do not confirm or deny anything you hear secondhand."
+        },
+        {
+          "n": "2",
+          "title": "Ask HR for the date",
+          "desc": "Ask HR directly for the exact date the finding will be communicated."
+        },
+        {
+          "n": "3",
+          "title": "Correct it once",
+          "desc": "If wrong info spreads, tell your manager once, plainly, that you'll wait for the official finding."
+        }
+      ],
+      "script": "\"I've heard a few things floating around — I'm not going to comment until HR gives me the official finding, and I'd ask the team do the same.\"",
+      "watchFor": "The room's behavior toward you doesn't change after you say this — that means it landed as calm, not defensive.",
+      "ifItFails": "The rumor keeps spreading and someone repeats it to your face as fact. Don't argue the content of the rumor — argue the source. Say: 'That's not the finding — that's someone guessing before HR has spoken. Ask them when they'll hear it officially,' and let HR's actual timeline do the correcting.",
+      "counter": "If you're hearing a 'finding' before it's official, someone broke the process to tell you.\n• Notice you can't name where the information actually came from.\n• Don't repeat it further — you become the next leak.\n• Ask HR to confirm or deny the timeline, not the content.",
+      "insight": "The leak usually isn't malicious — it's someone needing to feel important with information. Don't accuse a specific coworker of leaking without proof; you'll create a second, real conflict on top of the fake one. The harder problem is that once the wrong version spreads, the true finding sounds like the surprising one."
+    },
+    {
+      "id": 26,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Let A Closed File Work For You In Your Next Ask",
+      "when": "The investigation closed with no action against you, and it's been quiet for a few months.",
+      "hook": "They watched you closely and found nothing. <strong>That's evidence you can spend, not just relief you should feel.</strong>",
+      "truth": "A closed, clean file means the company already tested you harder than a normal review ever would.\n• Managers who backed you during the investigation remember it as a decision they made.\n• That memory fades fast — six months later it's only on your mind.\n• Most people just feel grateful it's over and let the moment pass unused.",
+      "principle": "Precedent Leverage — A Survived Investigation Is Proof, Not Just Relief",
+      "remember": "Surviving a clean investigation is proof. Use it before it fades from memory.",
+      "theySee": "Someone confident, moving forward normally, asking for something reasonable — not someone still recovering.",
+      "signals": [
+        {
+          "icon": "🔕",
+          "l": "Case unmentioned",
+          "t": "Your manager mentions the case only if you bring it up first."
+        },
+        {
+          "icon": "📈",
+          "l": "Normal staffing",
+          "t": "You're being staffed on normal or better work again."
+        },
+        {
+          "icon": "📝",
+          "l": "Clean review",
+          "t": "Nobody mentions the investigation in your recent review."
+        },
+        {
+          "icon": "📊",
+          "l": "Growth talk",
+          "t": "A stretch project or promotion conversation is coming up naturally."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait for the right moment",
+          "desc": "Wait for a natural review or planning talk — don't force it right after closure."
+        },
+        {
+          "n": "2",
+          "title": "Ask directly",
+          "desc": "Ask directly for the thing you want: a project, a raise, a transfer."
+        },
+        {
+          "n": "3",
+          "title": "Name it once",
+          "desc": "If needed, say 'that's behind me and closed,' once, then move to the ask."
+        }
+      ],
+      "script": "\"I want to talk about [the project/raise/move] — that other matter is closed and behind me, and I'd like to focus on what's next.\"",
+      "watchFor": "They agree to discuss the ask without circling back to the investigation first.",
+      "ifItFails": "They bring the investigation back up as a reason to slow-walk your ask. Don't relitigate the finding — restate the fact and redirect. Say: 'The finding is closed with no action — I'd like to keep this conversation about the role,' and if they keep stalling, take the ask to the next manager up or to HR directly.",
+      "counter": "If someone keeps a closed investigation alive to hold you back, recognize the move.\n• Notice they mention it only when you ask for something, never otherwise.\n• Say: 'That's closed — is there a current, specific concern?'\n• Make them name a real, present issue or drop it.",
+      "insight": "A closed file is worth more the moment it closes than a year later, when nobody but you remembers it happened. Don't lean on it with a manager who wasn't involved in your case — naming an old investigation they don't know about just plants a new question. The harder move is asking before you feel fully ready, because ready never quite arrives."
+    }
+  ]
+}

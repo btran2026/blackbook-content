@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 40,
+  "manifestVersion": 41,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -208,7 +208,20 @@
       "url": "playbooks/playbook-srv-the-art-of-strategic-questions.json",
       "addedAt": "2026-08-18T19:06:57.551Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-under-investigation",
+      "title": "Under Investigation",
+      "theme": "hr",
+      "topic": "",
+      "cardCount": 26,
+      "contentVersion": 1,
+      "coverColor": "#7A2B2B",
+      "coverIcon": "🗂️",
+      "url": "playbooks/playbook-srv-under-investigation.json",
+      "addedAt": "2026-08-27T18:56:55.917Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-26T14:26:20.506Z"
+  "generatedAt": "2026-08-27T18:56:55.917Z"
 }
