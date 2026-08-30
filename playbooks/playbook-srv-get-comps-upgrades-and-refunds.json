@@ -1,0 +1,899 @@
+{
+  "meta": {
+    "id": "srv-get-comps-upgrades-and-refunds",
+    "version": "1.0",
+    "title": "Get Comps, Upgrades, And Refunds",
+    "subtitle": "Field moves for the person on the other side of the counter",
+    "description": "A closed file on service recovery: how airlines, hotels, banks, and support desks decide who gets money back and who gets an apology. Fifteen cards on the scripts they run, the words that unlock their budget, and the exact moment to ask.",
+    "author": "AI",
+    "createdAt": "2026-08-23T07:28:12.329Z",
+    "tags": [
+      "refunds",
+      "upgrades",
+      "complaints",
+      "customer service",
+      "negotiation",
+      "travel",
+      "consumer power"
+    ],
+    "totalCards": 15,
+    "isSeeded": true,
+    "coverColor": "#1F6F5C",
+    "coverIcon": "🎫",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "setup",
+      "label": "Before You Ask",
+      "color": "#2E7D6F"
+    },
+    {
+      "key": "frontline",
+      "label": "Working The Front Line",
+      "color": "#3B7EA1"
+    },
+    {
+      "key": "upgrade",
+      "label": "Upgrades & Comps",
+      "color": "#8A6D3B"
+    },
+    {
+      "key": "refund",
+      "label": "Getting Money Back",
+      "color": "#9C4A3C"
+    },
+    {
+      "key": "escalate",
+      "label": "Going Over Their Head",
+      "color": "#6B4A8A"
+    },
+    {
+      "key": "defense",
+      "label": "When It Is Run On You",
+      "color": "#4A4A55"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "setup",
+      "danger": "low",
+      "title": "Learn What They Are Allowed To Give You",
+      "principle": "Information Gap",
+      "remember": "Ask what they can give before you ask for anything.",
+      "when": "You are about to complain about a bad room, a late flight, or a broken order.",
+      "hook": "Every desk has a list of things it can hand out for free. <strong>You are guessing. They know the list by heart.</strong>",
+      "truth": "The person at the desk works from a fixed menu of fixes.\n• The menu has points, credits, free nights, waived fees, and vouchers.\n• Ask for something off-menu and they say no by reflex.\n• Ask what is on the menu first, then pick the biggest item.",
+      "theySee": "A customer who asks a calm question instead of making a demand.",
+      "signals": [
+        {
+          "icon": "📋",
+          "l": "Menu language",
+          "t": "They say \"what I can do is\" before naming one small fix"
+        },
+        {
+          "icon": "⌨️",
+          "l": "Screen check",
+          "t": "They stop and read their screen before they answer you"
+        },
+        {
+          "icon": "🔐",
+          "l": "Approval hint",
+          "t": "They say a manager has to approve anything bigger"
+        },
+        {
+          "icon": "🎟️",
+          "l": "Voucher first",
+          "t": "They offer a voucher before they offer money"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the menu question",
+          "desc": "Say: \"What options do you have for something like this?\" Then stop talking."
+        },
+        {
+          "n": "2",
+          "title": "Write down every item they name",
+          "desc": "List each fix they mention. The last one they name is usually the biggest."
+        },
+        {
+          "n": "3",
+          "title": "Pick one and ask for it by name",
+          "desc": "Name the item back to them. \"Let's do the 20,000 points then.\""
+        }
+      ],
+      "script": "\"Before I ask for anything — <strong>what options do you have for a situation like this?</strong> I'd rather ask for something you can actually approve.\"",
+      "example": "Dev's flight got cut in Denver. Instead of demanding a hotel, he asked the gate agent what she was allowed to offer. She listed a hotel voucher, meal cards, and 15,000 miles. He asked for all three and got two.",
+      "counter": "If someone asks you what you are allowed to give, they are working your menu.\n• Notice they ask about your limits, not about the problem.\n• Say: \"Tell me what happened first and I'll see what fits.\"\n• Name your smallest fix out loud and hold there.",
+      "insight": "Most people burn the first two minutes on anger and never learn the menu. The harder part is that the menu changes by desk, by hour, and by how full the flight is.",
+      "tip": "The menu is bigger at 9pm than at 9am. Late shifts have fewer managers watching."
+    },
+    {
+      "id": 2,
+      "cat": "setup",
+      "danger": "low",
+      "title": "Bring The Paper Before You Bring The Feelings",
+      "principle": "Cialdini: Authority — Documentation as Proof",
+      "remember": "Photos and receipts beat any story you tell.",
+      "when": "You want money back for a stained room, a damaged package, or a service that never showed.",
+      "hook": "Anger makes them defensive. A photo makes them process a claim. <strong>One is a fight, the other is paperwork.</strong>",
+      "truth": "Support staff get judged on closed cases, not on happy customers.\n• A photo with a timestamp turns your story into a file they can approve.\n• Their manager will not question a claim with paper attached.\n• No paper means they need your feelings to be true. They won't risk it.",
+      "theySee": "A customer holding out a phone with a clear photo instead of raising their voice.",
+      "signals": [
+        {
+          "icon": "📷",
+          "l": "Proof request",
+          "t": "They ask you to send a photo before they discuss money"
+        },
+        {
+          "icon": "🕒",
+          "l": "Time question",
+          "t": "They ask exactly when the problem started"
+        },
+        {
+          "icon": "🧾",
+          "l": "Order lookup",
+          "t": "They ask for the order number three separate times"
+        },
+        {
+          "icon": "📝",
+          "l": "Note taking",
+          "t": "They type while you talk and read your words back"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Photograph the problem now",
+          "desc": "Take three photos: wide, close, and one with a receipt or room number in frame."
+        },
+        {
+          "n": "2",
+          "title": "Write one dated line",
+          "desc": "Type: \"Aug 23, 9:40pm — arrived, AC dead, front desk told.\" Keep it factual."
+        },
+        {
+          "n": "3",
+          "title": "Lead with the file, not the mood",
+          "desc": "Say \"I have photos and the timestamp\" in your first sentence."
+        }
+      ],
+      "script": "\"I have <strong>three photos and the exact time I reported it</strong>. Where do I send them so this goes in the file?\"",
+      "example": "Renata's hotel room smelled of smoke in a non-smoking floor. She shot two photos and texted the front desk at 10:12pm. The next morning the manager waived both nights without argument, because the timestamp matched the night audit.",
+      "counter": "If someone leads with photos and timestamps, they came prepared to win.\n• Notice they never raise their voice. They just present the file.\n• Say: \"Send those to me and I'll log the case number.\"\n• Give a case number, not a number of dollars, in the first call.",
+      "insight": "Proof beats persuasion almost every time. The trap is that proof only unlocks the policy amount — the bigger comps still come from the human, and paper alone does not move a human.",
+      "do": "Report the problem while you are still standing in it.",
+      "dont": "Do not wait until checkout to mention the broken AC."
+    },
+    {
+      "id": 3,
+      "cat": "setup",
+      "danger": "low",
+      "title": "Ask At The Quietest Minute Of Their Day",
+      "principle": "Sun Tzu: Attack Where They Are Weakest — Timing",
+      "remember": "Ask when the line behind you is empty.",
+      "when": "You need a favor from a front desk, gate, or store counter and there are six people behind you.",
+      "hook": "The same person says no at 8am and yes at 10pm. <strong>Nothing changed but the line.</strong>",
+      "truth": "Front-line staff give more when nobody is watching them give it.\n• A queue makes them protect the clock and follow the script.\n• An empty counter lets them look you up properly and get creative.\n• Come back later instead of pushing now. The person changes with the hour.",
+      "theySee": "A customer who steps aside politely and comes back when the desk is calm.",
+      "signals": [
+        {
+          "icon": "⏳",
+          "l": "Rushed answers",
+          "t": "They answer before you finish your sentence"
+        },
+        {
+          "icon": "👥",
+          "l": "Line pressure",
+          "t": "They glance past you at the people waiting"
+        },
+        {
+          "icon": "🔄",
+          "l": "Shift change",
+          "t": "A new person takes over and pulls up your record fresh"
+        },
+        {
+          "icon": "🌙",
+          "l": "Night calm",
+          "t": "The desk is empty and they lean on the counter to talk"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Step out of the line",
+          "desc": "Say \"I'll come back in twenty minutes\" and go. Do not argue in the queue."
+        },
+        {
+          "n": "2",
+          "title": "Return when the counter is empty",
+          "desc": "Late evening or mid-afternoon. Look for a desk with nobody at it."
+        },
+        {
+          "n": "3",
+          "title": "Open with the small ask",
+          "desc": "Say \"Do you have two minutes for something small?\" Then make the real ask."
+        }
+      ],
+      "script": "\"You've got a line — I'll come back. <strong>Is there a quieter time tonight when you can actually look at this?</strong>\"",
+      "example": "Colin's upgrade request got a flat no at the 7am check-in rush. He came back at 9:40pm to an empty desk. The same agent found a suite that nobody had claimed and moved him for free.",
+      "counter": "If someone waits for your quiet moment, they timed you.\n• Notice they leave the line and reappear when you are alone.\n• Say: \"Let me pull the same record I had this morning.\"\n• Answer from the record, not from the calm. The calm is the trap.",
+      "insight": "Timing costs nothing and beats most arguments. The next question is who is on shift — the hour only matters because it changes who holds the keyboard.",
+      "risk": "low"
+    },
+    {
+      "id": 4,
+      "cat": "frontline",
+      "danger": "low",
+      "title": "Give Them A Way To Say Yes Without Blame",
+      "principle": "Voss: Calibrated Question — How Am I Supposed To…",
+      "remember": "Make the problem theirs to solve, not yours to win.",
+      "when": "The agent says the policy does not allow what you want.",
+      "hook": "They cannot break a rule for you. They can find a different rule. <strong>Ask them to find it.</strong>",
+      "truth": "Front-line staff have workarounds they will not offer to people who fight them.\n• A how-question puts them on the same side of the desk as you.\n• They start listing codes and exceptions out loud to themselves.\n• Push them with a demand instead and they hide behind the policy again.",
+      "theySee": "A customer asking for help with a problem instead of blaming them for it.",
+      "signals": [
+        {
+          "icon": "🤔",
+          "l": "Thinking out loud",
+          "t": "They start naming codes and exceptions under their breath"
+        },
+        {
+          "icon": "🖥️",
+          "l": "Second screen",
+          "t": "They open another system to check something else"
+        },
+        {
+          "icon": "🙋",
+          "l": "Colleague call",
+          "t": "They wave over a coworker and ask a quiet question"
+        },
+        {
+          "icon": "🔓",
+          "l": "Softened no",
+          "t": "They say \"normally we can't\" instead of \"we can't\""
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Drop the demand",
+          "desc": "Stop asking for the thing. Ask how the thing gets done here."
+        },
+        {
+          "n": "2",
+          "title": "Use the how-question",
+          "desc": "Say \"How do people usually get this handled?\" Then wait five full seconds."
+        },
+        {
+          "n": "3",
+          "title": "Take the first crack they show you",
+          "desc": "When they name an exception, say \"Let's do that one\" immediately."
+        }
+      ],
+      "script": "\"I know the policy says no. <strong>How am I supposed to get home tonight then?</strong> You've seen this a hundred times — what do people do?\"",
+      "example": "Aisha's rental car reservation vanished at midnight. She stopped demanding a car and asked the clerk how anyone gets out of that lot at that hour. He remembered a returned SUV in the cleaning bay and gave it to her at the compact rate.",
+      "counter": "If someone asks you how they are supposed to solve their problem, they handed you the work.\n• Notice you started listing options nobody asked you for.\n• Say: \"Here is the one thing I can do.\" Name it once.\n• Stop naming options after the first. The list is the leak.",
+      "insight": "People defend rules and volunteer exceptions. This works until they truly have no exception left, and then you need a name higher up the building.",
+      "do": "Ask how. Wait in silence.",
+      "dont": "Do not say \"that's ridiculous\" — it closes the workaround."
+    },
+    {
+      "id": 5,
+      "cat": "frontline",
+      "danger": "low",
+      "title": "Use Their Name And Give Them Credit In Writing",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Praise them by name and they will fight for you.",
+      "when": "An agent has some power over your case and you want them on your side for the next twenty minutes.",
+      "hook": "Support staff get yelled at all day and measured on survey scores. <strong>You hold something they actually want.</strong>",
+      "truth": "Named praise is worth real money to a front-line worker.\n• Survey scores decide their bonus, their shift, and their promotion.\n• Offer the praise before the fix and they invest in your case.\n• Promise it and never send it. Next time they remember your account.",
+      "theySee": "A customer who writes their name down and says they will mention it to the manager.",
+      "signals": [
+        {
+          "icon": "🏷️",
+          "l": "Name badge",
+          "t": "They tell you their name twice, unprompted"
+        },
+        {
+          "icon": "📊",
+          "l": "Survey mention",
+          "t": "They mention a survey will come by email after the call"
+        },
+        {
+          "icon": "🎯",
+          "l": "Extra effort",
+          "t": "They put you on hold to check one more system"
+        },
+        {
+          "icon": "☎️",
+          "l": "Direct line",
+          "t": "They give you an extension or a case number to come back to"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get the name early",
+          "desc": "Ask \"Sorry, what was your name?\" in the first minute. Write it down."
+        },
+        {
+          "n": "2",
+          "title": "Say the credit out loud",
+          "desc": "Say you will name them to their manager if this gets fixed today."
+        },
+        {
+          "n": "3",
+          "title": "Actually send it",
+          "desc": "Email the praise the same day. Keep the thread for your next problem."
+        }
+      ],
+      "script": "\"Marcus, right? <strong>If you can get this sorted today, I'm writing your name into the survey and to your manager.</strong> You're the first person here who actually looked.\"",
+      "example": "Tom got a phone rep named Priya on his third call about a double charge. He asked her name, promised written praise, then emailed it that night. Two weeks later she called him back with a goodwill credit he never asked for.",
+      "counter": "If someone dangles a good review before you fix anything, they are buying your effort up front.\n• Notice the praise arrives before the work does.\n• Say: \"Thank you — let's see what the account allows first.\"\n• Fix what the record supports. Do not spend the extra for a survey.",
+      "insight": "Cheap to give, expensive to receive. The catch is you can only spend it once per person, so pick the agent who actually has the button."
+    },
+    {
+      "id": 6,
+      "cat": "frontline",
+      "danger": "moderate",
+      "title": "Say The Word Nobody At The Desk Wants Written Down",
+      "principle": "Schelling: Credible Threat",
+      "remember": "Name the next step calmly and only once.",
+      "when": "The agent has said no twice and you know the company has a regulator or a chargeback path.",
+      "hook": "Front-line staff have one job: keep your case off the escalation report. <strong>Say the magic word and your file gets a new price.</strong>",
+      "truth": "Certain words move a case out of their hands and onto their record.\n• Chargeback, regulator, ombudsman, small claims — each triggers a process they hate.\n• Say it flatly, as a plan, not a threat. Then go quiet.\n• Shout it and you become the problem instead of the file.",
+      "theySee": "A customer who names the next step in a normal voice and then stops talking.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "Tone shift",
+          "t": "Their voice slows down right after you name the process"
+        },
+        {
+          "icon": "📞",
+          "l": "Sudden transfer",
+          "t": "They offer to move you to a \"resolutions\" team"
+        },
+        {
+          "icon": "💰",
+          "l": "Number jump",
+          "t": "Their offer doubles within one minute"
+        },
+        {
+          "icon": "⌛",
+          "l": "Hold request",
+          "t": "They put you on a long hold to \"check with someone\""
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get the second no on record",
+          "desc": "Ask them to note in the file that the request was denied twice."
+        },
+        {
+          "n": "2",
+          "title": "Name the next step once",
+          "desc": "Say the word — chargeback, regulator, small claims. One sentence. No heat."
+        },
+        {
+          "n": "3",
+          "title": "Go silent for ten seconds",
+          "desc": "Do not fill the pause. Let them decide what your file costs."
+        }
+      ],
+      "script": "\"Okay. Then I'll file the chargeback with my card and send the photos there instead. <strong>Can you note in the file that the refund was denied twice?</strong>\"",
+      "example": "Nadia's airline refused a refund for a cancelled leg. She asked them to log the second denial, then said she would file with the transport regulator. The agent came back off hold with a full refund and a €400 payment.",
+      "counter": "If someone names a regulator or chargeback calmly, they have already decided to file.\n• Notice they ask you to log the denial. That is evidence gathering.\n• Say: \"Let me get this in front of the resolutions team now.\"\n• Move it up before they file. A filed case costs more than a refund.",
+      "insight": "The threat only works if you would actually do it, because trained agents can hear a bluff in the pause. The harder part is picking the one path you will really follow through on.",
+      "risk": "med"
+    },
+    {
+      "id": 7,
+      "cat": "upgrade",
+      "danger": "low",
+      "title": "Ask For The Upgrade At Check-In, Not At Booking",
+      "principle": "Perishable Inventory",
+      "remember": "Empty rooms and seats lose all value at the deadline.",
+      "when": "You are checking into a hotel or standing at the gate with an unassigned better seat on the map.",
+      "hook": "A suite that goes unsold tonight is worth zero tomorrow. <strong>At check-in, they know that and you do too.</strong>",
+      "truth": "Upgrades get cheap in the last hour because the clock kills the inventory.\n• Weeks out, they hold the room for a full-price buyer who might appear.\n• At check-in, nobody is coming. Cash beats an empty room.\n• Ask early and you pay the rack rate. Ask late and you name the price.",
+      "theySee": "A guest at the counter who asks a specific question about tonight's empty rooms.",
+      "signals": [
+        {
+          "icon": "🗺️",
+          "l": "Open seat map",
+          "t": "The seat map still shows empty rows in the front cabin"
+        },
+        {
+          "icon": "🏨",
+          "l": "Low occupancy",
+          "t": "The lobby is quiet and the parking lot is half empty"
+        },
+        {
+          "icon": "💳",
+          "l": "Paid offer",
+          "t": "They offer you an upgrade for a small cash amount"
+        },
+        {
+          "icon": "🔑",
+          "l": "Key hesitation",
+          "t": "They pause and re-check availability before printing your key"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the map before you walk up",
+          "desc": "Open the app and count empty premium seats or rooms. Know the number."
+        },
+        {
+          "n": "2",
+          "title": "Ask the specific question",
+          "desc": "Say \"Is anything open in the front cabin tonight?\" Never say \"any chance of an upgrade?\""
+        },
+        {
+          "n": "3",
+          "title": "Offer a small number",
+          "desc": "Name a low cash figure. Say \"I'd pay 60 for it right now.\""
+        }
+      ],
+      "script": "\"I saw four seats open up front. <strong>I'd pay 60 dollars for one right now if that's easier than flying them empty.</strong>\"",
+      "example": "Sofia checked the seat map an hour before boarding and saw five empty business seats. At the gate she offered 80 dollars cash. The agent moved her for 75 and thanked her for making the number easy.",
+      "counter": "If a guest names your empty inventory back to you, they know your clock.\n• Notice they quote a count of open rooms or seats.\n• Say: \"The paid upgrade rate tonight is X.\" Give one number.\n• Hold the published rate until the last thirty minutes.",
+      "insight": "The deadline is your only real upper hand here. It works until they run a full flight, and then the same ask makes you look like a tourist.",
+      "do": "Count the empty seats first."
+    },
+    {
+      "id": 8,
+      "cat": "upgrade",
+      "danger": "low",
+      "title": "Give Them A Reason That Makes Them Look Good",
+      "principle": "Cialdini: Because — Reason-Why Compliance",
+      "remember": "Add a small reason and yes gets easier for them.",
+      "when": "You ask a front desk clerk for a better room, a late checkout, or a waived fee.",
+      "hook": "\"Can I get an upgrade?\" is a favor. <strong>\"It's our tenth anniversary\" is a story they get to be part of.</strong>",
+      "truth": "A reason gives the clerk cover to spend the company's goodwill on you.\n• Any reason works, because the reason is what they write in the notes field.\n• Anniversaries, first visit, a long delay, a birthday — all are approved categories.\n• Give no reason and they must justify a gift to nobody. So they don't.",
+      "theySee": "A guest who mentions a small personal detail and then makes one polite ask.",
+      "signals": [
+        {
+          "icon": "🎂",
+          "l": "Occasion probe",
+          "t": "They ask if you are here for a special occasion"
+        },
+        {
+          "icon": "⌨️",
+          "l": "Notes field",
+          "t": "They type a short note into the reservation before answering"
+        },
+        {
+          "icon": "😊",
+          "l": "Warm shift",
+          "t": "Their tone changes as soon as you name the reason"
+        },
+        {
+          "icon": "🍾",
+          "l": "Extra offered",
+          "t": "They add something small you did not ask for"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one true small reason",
+          "desc": "Anniversary, first stay in the city, a rough travel day. One sentence only."
+        },
+        {
+          "n": "2",
+          "title": "Say the reason before the ask",
+          "desc": "Reason first, then the request. \"It's our anniversary — is anything nicer open?\""
+        },
+        {
+          "n": "3",
+          "title": "Stop after the ask",
+          "desc": "Do not explain further. Extra words sound like pressure."
+        }
+      ],
+      "script": "\"It's our tenth anniversary and we drove nine hours to get here. <strong>Is anything nicer open tonight?</strong>\"",
+      "example": "Jonas mentioned his first trip back to the city since his father died, then asked if a higher floor was open. The clerk typed a note, upgraded him to a corner suite, and sent up two glasses of wine.",
+      "counter": "If someone gives you a reason right before the ask, the reason is doing the work.\n• Notice the story arrives one breath before the request.\n• Say: \"Congratulations — let me see what's actually free tonight.\"\n• Check the inventory, not the story. Give what is free anyway.",
+      "insight": "The reason does not have to be strong, only writable. The trap is stacking three reasons — one reads as true, three read as a pitch."
+    },
+    {
+      "id": 9,
+      "cat": "upgrade",
+      "danger": "moderate",
+      "title": "Trade Your Flexibility For A Voucher",
+      "principle": "Schelling: Commitment — Selling Your Option",
+      "remember": "If you can wait, they will pay you to wait.",
+      "when": "The gate agent announces the flight is oversold and asks for volunteers.",
+      "hook": "Oversold flights have a budget and a deadline. <strong>The first volunteer sets the price for everybody.</strong>",
+      "truth": "Airlines start low because the first offer usually clears the seat.\n• The opening number is the bottom of the range, never the top.\n• Every unanswered announcement pushes their number up.\n• Wait for the second call, then ask for cash plus a confirmed seat.",
+      "theySee": "A passenger who walks up early, asks about the cap, and stays polite.",
+      "signals": [
+        {
+          "icon": "📢",
+          "l": "Repeat calls",
+          "t": "They announce the same offer a second and third time"
+        },
+        {
+          "icon": "📈",
+          "l": "Rising number",
+          "t": "The voucher amount goes up between announcements"
+        },
+        {
+          "icon": "⏰",
+          "l": "Boarding clock",
+          "t": "They keep looking at the departure time on the monitor"
+        },
+        {
+          "icon": "🙋",
+          "l": "No volunteers",
+          "t": "Nobody in the gate area walks up to the counter"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Go to the desk early and ask the cap",
+          "desc": "Say \"What's the most you're authorized to pay tonight?\" Write the number down."
+        },
+        {
+          "n": "2",
+          "title": "Wait for the second announcement",
+          "desc": "Let the first offer die. Their number moves when nobody bites."
+        },
+        {
+          "n": "3",
+          "title": "Name your package, not a price",
+          "desc": "Ask for cash, a confirmed later seat, a hotel, and a lounge pass together."
+        }
+      ],
+      "script": "\"I'll take it, but not for the voucher alone. <strong>Cash, a confirmed seat on the morning flight, and a hotel tonight</strong> — do that and I'll clear the seat right now.\"",
+      "example": "Priya heard the 400-dollar offer and stayed seated. At the third call she walked up and asked for 900 in cash, a confirmed morning seat, and a hotel. The agent had 1,000 authorized and paid it in ninety seconds.",
+      "counter": "If a passenger asks your authorized cap before volunteering, they intend to hold out.\n• Notice they ask about your limit, not about the offer.\n• Say: \"The current offer is X and I have three seats to fill.\"\n• Take the first volunteer at the low number and close the list.",
+      "insight": "Waiting pays until the seats fill without you, and then you fly on the original ticket with nothing. The next question is how late you can hold with a real deadline the other side of the trip.",
+      "risk": "med"
+    },
+    {
+      "id": 10,
+      "cat": "refund",
+      "danger": "low",
+      "title": "Name The Number Yourself Before They Offer One",
+      "principle": "Anchoring",
+      "remember": "Say your number first. Their first offer is always low.",
+      "when": "The support agent says \"what would make this right for you?\"",
+      "hook": "That question is not kindness. <strong>It is them checking whether you will ask for less than they budgeted.</strong>",
+      "truth": "The first number in the room sets the whole range.\n• Their opening offer is the floor of what they can pay, not the ceiling.\n• Name a specific, slightly high number with a reason attached.\n• Say \"whatever you think is fair\" and you get the lowest line on their menu.",
+      "theySee": "A customer who states one exact figure and one short reason for it.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Fairness probe",
+          "t": "They ask what you think would be fair"
+        },
+        {
+          "icon": "🎁",
+          "l": "Token offer",
+          "t": "They open with a small credit or a coupon"
+        },
+        {
+          "icon": "🔢",
+          "l": "Round number",
+          "t": "Their first number is suspiciously round, like 25 or 50"
+        },
+        {
+          "icon": "🤐",
+          "l": "Silence after",
+          "t": "They go quiet after you name your figure"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Do the arithmetic before you call",
+          "desc": "Add the cost, the wasted day, and the fees. Write one total figure."
+        },
+        {
+          "n": "2",
+          "title": "Say the number and the reason once",
+          "desc": "\"340 dollars — two nights I couldn't use plus the taxi.\" Then stop."
+        },
+        {
+          "n": "3",
+          "title": "Refuse the coupon first time",
+          "desc": "Say \"a credit doesn't cover the taxi\" and repeat your figure unchanged."
+        }
+      ],
+      "script": "\"<strong>340 dollars.</strong> Two nights I couldn't use and the taxi to the other hotel. That's the actual number — I'm not asking for extra.\"",
+      "example": "Marcus's delivery destroyed a 300-dollar monitor. Before the rep could offer a coupon, he said \"420 — the monitor plus the day I took off.\" The rep offered 300, then settled at 400 within four minutes.",
+      "counter": "If someone opens with a precise number and a receipt-level reason, they anchored you.\n• Notice the figure is oddly specific. Specific numbers feel earned.\n• Say: \"Walk me through how you got to that number.\"\n• Price each line separately. The total hides the soft parts.",
+      "insight": "Specific beats big — 340 reads as a calculation, 500 reads as a grab. The harder part is holding your number through the second no."
+    },
+    {
+      "id": 11,
+      "cat": "refund",
+      "danger": "moderate",
+      "title": "Split The Refund From The Complaint",
+      "principle": "Issue Decoupling",
+      "remember": "Settle the money first. Complain about the service later.",
+      "when": "You want both your money back and someone held responsible for how you were treated.",
+      "hook": "Ask for money and an apology in the same breath and you get the apology. <strong>It's free.</strong>",
+      "truth": "Companies pay out fast on clean transaction claims and slow on conduct claims.\n• A refund request is a line item. A complaint about a person is an investigation.\n• Bundle them and your refund waits for the investigation to close.\n• Take the money, close the claim, then file the conduct complaint separately.",
+      "theySee": "A customer who asks only about the charge and says nothing about the staff yet.",
+      "signals": [
+        {
+          "icon": "🙏",
+          "l": "Apology first",
+          "t": "They apologize three times before mentioning any money"
+        },
+        {
+          "icon": "🔍",
+          "l": "Investigation talk",
+          "t": "They say the matter needs to be looked into internally"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Delay language",
+          "t": "They quote a review window of 10 to 15 business days"
+        },
+        {
+          "icon": "🧩",
+          "l": "Bundling",
+          "t": "They tie your refund to the outcome of the review"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the money only",
+          "desc": "Mention the charge, the date, and the amount. Say nothing about the person."
+        },
+        {
+          "n": "2",
+          "title": "Get the refund confirmed in writing",
+          "desc": "Ask for an email with the amount and the date it lands."
+        },
+        {
+          "n": "3",
+          "title": "File the conduct complaint after it lands",
+          "desc": "Send a separate message the next day naming the person and the behavior."
+        }
+      ],
+      "script": "\"Let's keep these separate. <strong>First the 260 charge — can you refund that today?</strong> I'll send a separate note about how the call went.\"",
+      "example": "Ellen was screamed at by a rep and also owed 260 dollars. She asked only about the charge, got it refunded in a day, then filed the conduct complaint with the transcript. She kept the money and the rep got coached.",
+      "counter": "If a customer refuses to discuss the staff and only presses on the charge, they are protecting the payout.\n• Notice they answer conduct questions with \"later, separately.\"\n• Say: \"I can process the refund now and log a separate note.\"\n• Process the refund. Do not tie it to a review you cannot control.",
+      "insight": "Two claims move faster than one hybrid claim. This works until the company links them anyway, and then the order you filed in decides which one gets paid.",
+      "do": "Get the refund in writing before you name names.",
+      "dont": "Do not mention the rep's name in the refund call."
+    },
+    {
+      "id": 12,
+      "cat": "refund",
+      "danger": "high",
+      "title": "File The Chargeback Before The Deadline Passes",
+      "principle": "Loss Aversion — Merchant Risk",
+      "remember": "Your card company has more power than any support desk.",
+      "when": "A merchant has denied your refund twice and you paid by credit card.",
+      "hook": "A chargeback costs the merchant a fee, a strike, and a review. <strong>Your refund costs them nothing.</strong>",
+      "truth": "Card networks give you a window and merchants fear it more than they fear you.\n• A chargeback fee plus a dispute ratio strike hurts their processing rate.\n• Most merchants refund the moment the dispute lands rather than fight it.\n• Miss the window — usually 60 to 120 days — and your best card disappears.",
+      "theySee": "A customer who stops arguing and quietly opens a dispute with the bank instead.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Stalling clock",
+          "t": "They keep asking you to wait another ten business days"
+        },
+        {
+          "icon": "🔁",
+          "l": "Loop replies",
+          "t": "You get the same template email from three different agents"
+        },
+        {
+          "icon": "🚫",
+          "l": "Final no",
+          "t": "They tell you the decision cannot be reviewed again"
+        },
+        {
+          "icon": "⚡",
+          "l": "Sudden refund",
+          "t": "The refund appears within days of the dispute filing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check your window today",
+          "desc": "Look up your card's dispute deadline. Write the last possible date down."
+        },
+        {
+          "n": "2",
+          "title": "Gather three documents",
+          "desc": "The receipt, the two denials, and the photo or timestamp of the problem."
+        },
+        {
+          "n": "3",
+          "title": "File in the app and say nothing more",
+          "desc": "Open the dispute, upload the three files, and stop emailing the merchant."
+        }
+      ],
+      "script": "\"I've had two written denials, so I'm filing a dispute with my card today. <strong>The bank will contact you for the records.</strong> Nothing further needed from me.\"",
+      "example": "Owen's tour company kept promising a refund for a cancelled trip and never paid. On day 84 he filed a dispute with his card and uploaded the two denial emails. The bank reversed 1,180 dollars in nine days and the company never contested it.",
+      "counter": "If a customer collects your denials in writing and goes quiet, a dispute is coming.\n• Notice they stop replying and stop negotiating at the same time.\n• Say: \"Before you file — I can refund this today, in full.\"\n• Pay it. The fee and the strike cost more than the refund.",
+      "insight": "The bank is the only party in the chain that outranks the merchant. Use it too often on the same card and you become the account they close.",
+      "risk": "high"
+    },
+    {
+      "id": 13,
+      "cat": "escalate",
+      "danger": "moderate",
+      "title": "Write To One Named Executive, Not To Support",
+      "principle": "Greene: Law 5 — Reputation × Executive Escalation",
+      "remember": "One email to a named boss beats ten to support.",
+      "when": "Support has closed your case and the template replies have stopped meaning anything.",
+      "hook": "Executive inboxes are staffed by people paid to make problems disappear. <strong>They have a budget support has never seen.</strong>",
+      "truth": "Large companies run a small team behind the executive email address.\n• That team measures itself on closed escalations, not on policy.\n• They can override any front-line no in one message.\n• Send a rant and it gets filed. Send six lines and a number and it gets paid.",
+      "theySee": "An email with a name, dates, a case number, and one clear ask at the bottom.",
+      "signals": [
+        {
+          "icon": "📨",
+          "l": "Fast reply",
+          "t": "You get a reply within one business day from a real name"
+        },
+        {
+          "icon": "☎️",
+          "l": "Phone call",
+          "t": "Someone calls you instead of emailing back"
+        },
+        {
+          "icon": "🎖️",
+          "l": "Title change",
+          "t": "The signature says executive, office of the president, or resolutions"
+        },
+        {
+          "icon": "✅",
+          "l": "Full grant",
+          "t": "They approve the whole ask without haggling"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find one real name and address",
+          "desc": "Search the company leadership page. Use firstname.lastname at the domain."
+        },
+        {
+          "n": "2",
+          "title": "Write six lines maximum",
+          "desc": "Dates, case number, what broke, what you asked for, what they said, your one ask."
+        },
+        {
+          "n": "3",
+          "title": "Put the ask in the last line",
+          "desc": "One sentence, one number, one deadline. \"340 dollars by Friday closes this.\""
+        }
+      ],
+      "script": "\"Case 88421. Two nights unusable, reported at 9:40pm with photos. Support denied twice. <strong>A 340 dollar refund closes this and I'll take it no further.</strong>\"",
+      "example": "Grace emailed the airline's CEO address after four template denials. Six lines, one number, one case reference. The executive office called her the next morning and paid 640 dollars plus miles.",
+      "counter": "If a customer writes straight to your executive inbox with a tight case file, they skipped the whole funnel.\n• Notice the email has a case number and no emotion.\n• Say: \"I own this now — here is what I'll do by Friday.\"\n• Pay the ask and close it. A second escalation costs far more.",
+      "insight": "Short and specific reads as credible; long and angry reads as a crank. The harder part is that this card only works once or twice per company before your name gets flagged.",
+      "risk": "med"
+    },
+    {
+      "id": 14,
+      "cat": "escalate",
+      "danger": "high",
+      "title": "Post The Facts In Public And Tag The Support Handle",
+      "principle": "Cialdini: Social Proof — Public Reputation Cost",
+      "remember": "Public posts get answered faster than private complaints.",
+      "when": "You have proof, two denials, and the company runs a public social account.",
+      "hook": "A private complaint costs them one agent's time. <strong>A public one costs them the next customer reading it.</strong>",
+      "truth": "Social teams work to a different rulebook than the phone queue.\n• They are measured on public sentiment, so they escalate to make the post stop.\n• Facts, dates, and a photo get answered. Insults get ignored or blocked.\n• They will ask you to move to direct message. Only move after they name a fix.",
+      "theySee": "A short public post with a photo, a date, and a polite question attached.",
+      "signals": [
+        {
+          "icon": "💬",
+          "l": "Fast public reply",
+          "t": "They reply publicly within an hour asking for details"
+        },
+        {
+          "icon": "📥",
+          "l": "DM invite",
+          "t": "They ask you to move to direct messages right away"
+        },
+        {
+          "icon": "🧹",
+          "l": "Quiet fix",
+          "t": "The refund appears before anyone replies to your post"
+        },
+        {
+          "icon": "👥",
+          "l": "Pile-on",
+          "t": "Other customers reply with the same complaint under your post"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write four factual lines",
+          "desc": "Date, what broke, what you asked, what they answered. Attach one photo."
+        },
+        {
+          "n": "2",
+          "title": "Tag the support handle, not the brand",
+          "desc": "Support handles have staff. Brand handles run ads."
+        },
+        {
+          "n": "3",
+          "title": "Move to DM only after they name the fix",
+          "desc": "Reply publicly: \"Happy to DM once you confirm the refund amount here.\""
+        }
+      ],
+      "script": "\"@AirlineHelp — flight 214, Aug 12, cancelled. Two written refund denials. <strong>Photo and case number attached. What's the fix?</strong>\"",
+      "example": "Leo posted four lines and one photo of his flooded hotel bathroom, tagged the support handle, and stayed polite. The chain's social team replied in forty minutes and refunded three nights before he ever sent a private message.",
+      "counter": "If a customer posts a clean factual complaint in public, they are pricing your silence.\n• Notice there is no insult in it. That is deliberate and effective.\n• Say: \"Sending you a DM now with the resolution.\"\n• Resolve it fast and get the thread closed publicly, not just privately.",
+      "insight": "Facts in public are hard to answer and easy to spread. It works until you sound bitter, because a bitter post protects the company for free.",
+      "risk": "high"
+    },
+    {
+      "id": 15,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Spot The Voucher That Is Cheaper Than Your Refund",
+      "principle": "Sunk-Cost Anchoring",
+      "remember": "A voucher is their money. Cash is yours.",
+      "when": "The agent offers you credit, points, or a voucher instead of a refund.",
+      "hook": "A 200-dollar voucher costs them about 40 dollars. <strong>They know that. Now you do.</strong>",
+      "truth": "Vouchers are the cheapest thing on the goodwill menu and they look the biggest.\n• Most vouchers expire, restrict dates, and force you to spend more to use them.\n• A voucher also locks you into buying from the company that just failed you.\n• Take it only if it beats your cash number after you subtract the strings.",
+      "theySee": "A customer who asks about expiry dates and blackout rules before saying yes.",
+      "signals": [
+        {
+          "icon": "🎫",
+          "l": "Big voucher",
+          "t": "The voucher number is far larger than the cash they offered"
+        },
+        {
+          "icon": "📆",
+          "l": "Short expiry",
+          "t": "The credit expires in twelve months or fewer"
+        },
+        {
+          "icon": "🚧",
+          "l": "Blackout rules",
+          "t": "They mention the voucher does not work on certain dates or fares"
+        },
+        {
+          "icon": "⚖️",
+          "l": "Waiver clause",
+          "t": "Accepting it means you give up any further claim"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the three voucher questions",
+          "desc": "Ask: when does it expire, what is blacked out, and does it waive my claim?"
+        },
+        {
+          "n": "2",
+          "title": "Cut the number in half",
+          "desc": "Treat any voucher as worth half its face value. Compare that to your cash figure."
+        },
+        {
+          "n": "3",
+          "title": "Ask for cash once, plainly",
+          "desc": "Say \"I'd rather have the cash, even if it's less.\" Then wait."
+        }
+      ],
+      "script": "\"Before I accept — <strong>does taking the voucher waive my right to the refund?</strong> If so I'll take the cash, even if it's a smaller number.\"",
+      "example": "Hana was offered a 500-dollar airline credit for a cancelled flight. She asked about expiry and found it died in ten months with fare restrictions. She pushed for cash and took 310 dollars that same week.",
+      "counter": "If someone hands you a voucher fast and cheerfully, the voucher costs them less than you.\n• Notice the offer arrives before you name any number.\n• Say: \"What's the cash equivalent on that?\" Then go quiet.\n• Compare both after strings. Take whichever survives the questions.",
+      "insight": "The face value is theatre and the strings are the real price. The next question is which of these fifteen moves you spend first, because most companies only let you win twice before your account gets a note on it.",
+      "tip": "Always ask whether accepting closes your claim. That one question is worth more than the voucher."
+    }
+  ]
+}

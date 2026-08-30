@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 42,
+  "manifestVersion": 43,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -208,7 +208,20 @@
       "url": "playbooks/playbook-srv-under-investigation.json",
       "addedAt": "2026-08-27T18:56:55.917Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-get-comps-upgrades-and-refunds",
+      "title": "Get Comps, Upgrades, And Refunds",
+      "theme": "refunds",
+      "topic": "",
+      "cardCount": 15,
+      "contentVersion": 1,
+      "coverColor": "#1F6F5C",
+      "coverIcon": "🎫",
+      "url": "playbooks/playbook-srv-get-comps-upgrades-and-refunds.json",
+      "addedAt": "2026-08-30T03:55:28.160Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-27T18:56:55.917Z"
+  "generatedAt": "2026-08-30T03:55:28.160Z"
 }
