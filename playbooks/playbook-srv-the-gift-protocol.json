@@ -1,0 +1,1783 @@
+{
+  "meta": {
+    "id": "srv-the-gift-protocol",
+    "version": "1.0",
+    "title": "The Gift Protocol",
+    "subtitle": "Giving to a woman you want to keep",
+    "description": "Ten field cards on gifts as signal, memory, and quiet power inside a romantic relationship. What she actually reads when she opens the box, why price is the weakest lever, and how to recover when a gift lands wrong.",
+    "author": "AI",
+    "createdAt": "2026-08-30T06:20:43.860Z",
+    "tags": [
+      "relationships",
+      "gifts",
+      "attention",
+      "romance",
+      "influence",
+      "repair"
+    ],
+    "totalCards": 30,
+    "isSeeded": true,
+    "coverColor": "#7B1E3A",
+    "coverIcon": "🎁",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "read",
+      "label": "Read Her First",
+      "color": "#B23A5B"
+    },
+    {
+      "key": "signal",
+      "label": "What The Gift Says",
+      "color": "#8E44AD"
+    },
+    {
+      "key": "timing",
+      "label": "Timing & Delivery",
+      "color": "#C0761E"
+    },
+    {
+      "key": "repair",
+      "label": "When It Lands Wrong",
+      "color": "#2E6E8E"
+    },
+    {
+      "key": "long",
+      "label": "The Long Game",
+      "color": "#3E7C4F"
+    },
+    {
+      "key": "traps",
+      "label": "Traps & Counters",
+      "color": "#6B6B6B"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "read",
+      "danger": "low",
+      "title": "Write Down What She Says She Wants",
+      "principle": "Zeigarnik Effect — Unfinished Business Sticks",
+      "remember": "She already told you. Write it down within the hour.",
+      "hook": "She names the thing she wants out loud, once, in a normal week. <strong>Then she forgets she said it. You must not.</strong>",
+      "truth": "Most men shop in December. The information arrives in March.\n• She names wants in passing, never as a request.\n• A gift from a six-month-old comment reads as proof you listen.\n• The trap is asking her later. Asking erases the whole effect.",
+      "when": "She points at something in a shop window or says \"I've been meaning to get one of these\" and moves on.",
+      "theySee": "A boyfriend who remembered a sentence she said months ago and never mentioned again.",
+      "signals": [
+        {
+          "icon": "🪟",
+          "l": "Window pause",
+          "t": "She slows down in front of one specific shop window"
+        },
+        {
+          "icon": "📱",
+          "l": "Screenshot habit",
+          "t": "She screenshots a product and does not send it to you"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Passing mention",
+          "t": "She says a brand name twice in one month"
+        },
+        {
+          "icon": "🧴",
+          "l": "Empty bottle",
+          "t": "She keeps an empty bottle or worn-out item instead of replacing it"
+        },
+        {
+          "icon": "👀",
+          "l": "Friend's item",
+          "t": "She compliments the same item on a friend"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open a note today",
+          "desc": "Make one note on your phone called with her name. Nothing else goes in it."
+        },
+        {
+          "n": "2",
+          "title": "Log within the hour",
+          "desc": "Every time she names or points at something, write the exact words and the date."
+        },
+        {
+          "n": "3",
+          "title": "Never confirm",
+          "desc": "Do not ask her about anything on the list. Asking tells her you are shopping."
+        }
+      ],
+      "script": "(Say nothing in the moment. Later, in the note:) <strong>\"March 4 — she said the grey wool coat in the window on Elm was 'the one I'd actually wear.'\"</strong>",
+      "watchFor": "She opens it and says \"How did you even know?\" before she says thank you.",
+      "example": "Daniel wrote down that Nour called her hand cream \"the one they stopped making.\" He found two tubes on a resale site in July and gave them in November with no card. She kept one unopened on her shelf for a year.",
+      "ifItFails": "The list runs dry because she stops naming things around you — that usually means she thinks you do not listen. Do not ask her for ideas. Ask her sister or her closest friend once, in a text, and never mention it again: <strong>\"Quick one — is there anything she's been talking about wanting? Don't tell her I asked.\"</strong>",
+      "counter": "If someone gives you a gift built from a comment you forgot making, they kept a file on you.\n• Notice the gift matches a detail you never repeated.\n• Say: <strong>\"You've been paying attention longer than I thought.\"</strong>\n• Decide if that is care or control. Watch what else they track.",
+      "insight": "The value of the gift is the date on the note, not the price on the tag. The harder part is keeping the list secret for eight months without dropping a hint."
+    },
+    {
+      "id": 2,
+      "cat": "signal",
+      "danger": "moderate",
+      "title": "Do Not Give Her Something She Has To Maintain",
+      "principle": "Endowment Effect × Hidden Cost Transfer",
+      "remember": "A gift with a chore inside it is not a gift.",
+      "hook": "Some gifts arrive with a job attached. <strong>She has to feed it, clean it, learn it, or find room for it.</strong>",
+      "truth": "A gift with upkeep moves work from you to her and calls itself love.\n• Plants, pets, gadgets and machines all carry a chore.\n• She now owes the object attention and cannot say so.\n• The trap is her guilt when it dies, wilts, or sits unused.",
+      "when": "You are about to buy her a plant, a pet, a fitness gadget, or a machine that needs setup.",
+      "theySee": "A partner who understood that her week is already full.",
+      "signals": [
+        {
+          "icon": "🪴",
+          "l": "Dead plant row",
+          "t": "She already has one plant that is not doing well"
+        },
+        {
+          "icon": "📦",
+          "l": "Unopened box",
+          "t": "A past gadget from you sits in the box in the closet"
+        },
+        {
+          "icon": "🕐",
+          "l": "Time complaint",
+          "t": "She said twice this month that she has no time"
+        },
+        {
+          "icon": "🧹",
+          "l": "Tidy pressure",
+          "t": "She apologises for the state of her flat when you arrive"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the chore question",
+          "desc": "Before you buy, ask yourself: what will she have to do every week to keep this alive?"
+        },
+        {
+          "n": "2",
+          "title": "Swap upkeep for use",
+          "desc": "Choose something she uses up: good coffee, a candle, bath oil, a bottle she will finish."
+        },
+        {
+          "n": "3",
+          "title": "Carry the setup yourself",
+          "desc": "If you do give a machine, unbox it, charge it, set it up, and hand it ready to use."
+        }
+      ],
+      "script": "<strong>\"I set it up already. It's charged, it's linked to your phone, and there's nothing for you to do but use it.\"</strong>",
+      "watchFor": "She uses it the same day instead of putting it on a shelf.",
+      "example": "Marcus almost bought Rina a puppy. He bought a weekend at a dog-friendly hotel with a rescue-shelter visit instead. She cried at the shelter, went home to a clean flat, and told him it was the smartest thing he had ever done.",
+      "ifItFails": "You already gave the high-upkeep thing and it is dying. Do not let her carry the guilt. Take it back into your own hands: <strong>\"The plant's coming to mine — I'll keep it alive and you visit it. That was my mistake, not yours.\"</strong>",
+      "counter": "If a gift arrives with a job attached, someone bought you a duty.\n• Notice you now have a weekly task you did not choose.\n• Say: <strong>\"I love it. Will you keep it at yours?\"</strong>\n• Give the chore back once, warmly. Watch whether they take it.",
+      "insight": "Every object she owns asks something of her. The best gift asks nothing and still gets used. The next question is which of your past gifts she is quietly still maintaining."
+    },
+    {
+      "id": 3,
+      "cat": "signal",
+      "danger": "high",
+      "title": "Don't Give Her A Gift That Fixes Her",
+      "principle": "Greene: Laws of Human Nature — The Wounded Self-Image",
+      "remember": "Never gift a solution to a problem she did not name.",
+      "hook": "Gym membership. Diet book. Skincare set for the skin she mentioned once. <strong>Every one of them says: you are not finished yet.</strong>",
+      "truth": "A self-improvement gift tells her what you see when you look at her.\n• The object names a flaw she has to accept in public.\n• She must thank you while swallowing the insult.\n• The trap: she smiles, then remembers it for years.",
+      "when": "You are considering a gift aimed at her body, skin, weight, organisation, or habits.",
+      "theySee": "A partner who thinks she is already enough and gives her something purely for pleasure.",
+      "signals": [
+        {
+          "icon": "😶",
+          "l": "Flat thank you",
+          "t": "She thanks you in a voice one level quieter than usual"
+        },
+        {
+          "icon": "📕",
+          "l": "Book untouched",
+          "t": "A past self-help gift from you sits unread"
+        },
+        {
+          "icon": "🪞",
+          "l": "Mirror comment",
+          "t": "She has mentioned this body part with a joke, twice"
+        },
+        {
+          "icon": "🎁",
+          "l": "Fast wrap-up",
+          "t": "She closes the box quickly and moves to the next thing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Run the flaw test",
+          "desc": "Ask: does this gift only make sense if something about her needs fixing? If yes, drop it."
+        },
+        {
+          "n": "2",
+          "title": "Give pleasure, not progress",
+          "desc": "Choose something with no goal attached — silk, chocolate, a record, a good knife she wanted."
+        },
+        {
+          "n": "3",
+          "title": "Wait for her to ask",
+          "desc": "If she asks you directly for the running shoes or the course, buy it that week and say nothing about why."
+        }
+      ],
+      "script": "(When she asks for it herself) <strong>\"You asked for these in March. They're the ones you circled. That's the whole story — no plan attached.\"</strong>",
+      "watchFor": "She unwraps it and laughs out loud instead of going quiet.",
+      "example": "Tom gave Priya a food scale in year one. She said thank you and never used it. In year two he gave her a bread knife she had complained about not owning. She used it that night and mentioned it to her mother.",
+      "ifItFails": "You already gave the fixing gift and the room went cold. Do not explain that you meant well — that makes her argue with your intent. Name it and remove it: <strong>\"That landed wrong and I can hear it. I'm returning it. What I actually wanted to say is that I like you exactly as you are — I picked a bad way to say it.\"</strong> Then bring the replacement within a week.",
+      "counter": "If a gift implies a project, someone is renovating you.\n• Notice the gift solves a problem you never raised.\n• Say: <strong>\"Interesting pick. What made you think of this for me?\"</strong>\n• Make them say the reason out loud. Most will not.",
+      "insight": "Do not run the wait-until-she-asks version on someone who has already told you they feel judged by you. The harder part is the honest case where she did ask — and you have to give it with zero commentary."
+    },
+    {
+      "id": 4,
+      "cat": "timing",
+      "danger": "low",
+      "title": "Give It On A Tuesday",
+      "principle": "Reward Prediction Error — Unexpected Beats Expected",
+      "remember": "An expected gift pays a debt. An unexpected one buys memory.",
+      "hook": "On her birthday she already knows a box is coming. <strong>On a normal Tuesday she has no defence.</strong>",
+      "truth": "A gift on a marked date is scored against expectation. Off-date, there is no scale.\n• Birthdays and holidays make her compare your gift to last year's.\n• A random Tuesday has no standard to fail.\n• The trap is skipping the marked date. Cover it, then add the Tuesday.",
+      "when": "You want the gift to be remembered, and the calendar has no occasion this month.",
+      "theySee": "A partner handing her something on an ordinary evening with no reason attached.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Date pressure",
+          "t": "She asks what the plan is weeks before her birthday"
+        },
+        {
+          "icon": "🧾",
+          "l": "Score keeping",
+          "t": "She compares this year's gift to last year's out loud"
+        },
+        {
+          "icon": "😐",
+          "l": "Polite open",
+          "t": "She opens holiday gifts with a fixed smile"
+        },
+        {
+          "icon": "⚡",
+          "l": "Real reaction",
+          "t": "She reacts loudest to small things you bring home unannounced"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Cover the calendar first",
+          "desc": "Never trade the birthday for the Tuesday. Do the expected date properly, then add."
+        },
+        {
+          "n": "2",
+          "title": "Pick a dead week",
+          "desc": "Choose a week with nothing in it. Mid-month, midweek, after a hard workday."
+        },
+        {
+          "n": "3",
+          "title": "Hand it over flat",
+          "desc": "No speech, no build-up. Put it on the table and keep doing what you were doing."
+        }
+      ],
+      "script": "<strong>\"Saw this and it was you. That's it — no occasion.\"</strong> Then go back to cooking.",
+      "watchFor": "She asks \"Wait, what's today?\" and checks her phone.",
+      "example": "Ivan gave Lena a birthday dinner in June like always. In October he came home with the exact green notebook she had used at university. She told the story to three friends that week. Nobody heard about June.",
+      "ifItFails": "She gets suspicious and asks what you did wrong. That means past gifts arrived only after fights. Do not deny it — name the pattern and break it on purpose: <strong>\"Fair question. I've only ever given you things after I messed up. I'm changing that. Nothing's wrong.\"</strong> Then do it again within a month with nothing to apologise for.",
+      "counter": "If someone gives you an off-date gift right after a bad week for them, check the timing.\n• Notice the gift arrives before a confession or a request.\n• Say: <strong>\"Lovely. Is there something you want to tell me?\"</strong>\n• Accept the gift, hold the question open. Watch their face.",
+      "insight": "The calendar is where gifts go to be graded. Off the calendar, they get remembered. This works until you become predictable in your unpredictability."
+    },
+    {
+      "id": 5,
+      "cat": "timing",
+      "danger": "moderate",
+      "title": "Hand It Over In Private, Not At The Party",
+      "principle": "Cialdini: Social Proof — Reversed",
+      "remember": "An audience makes her perform. Give it when nobody is watching.",
+      "hook": "In front of her friends she has to react well. <strong>You will never know what she actually thought.</strong>",
+      "truth": "A public gift buys you applause and costs you the truth.\n• The audience forces her into a performance of delight.\n• She cannot say it is wrong, so you learn nothing.\n• The trap: she remembers the performance, not the gift.",
+      "when": "You are about to give her something at a dinner, a party, or in front of family.",
+      "theySee": "A partner who gave her the box in the car, before anyone else was around.",
+      "signals": [
+        {
+          "icon": "👏",
+          "l": "Loud reaction",
+          "t": "She reacts bigger in the room than she does with you alone"
+        },
+        {
+          "icon": "📸",
+          "l": "Camera up",
+          "t": "Someone lifts a phone the moment you produce the box"
+        },
+        {
+          "icon": "🤐",
+          "l": "Later silence",
+          "t": "She does not mention the gift again after the guests leave"
+        },
+        {
+          "icon": "🎭",
+          "l": "Fixed smile",
+          "t": "Her smile arrives before the paper is fully off"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Move it earlier",
+          "desc": "Give it in the car, the kitchen, or the morning before the event."
+        },
+        {
+          "n": "2",
+          "title": "Say the reason once",
+          "desc": "Tell her in one sentence why you chose it. Do not repeat it in public later."
+        },
+        {
+          "n": "3",
+          "title": "Let her set the stage",
+          "desc": "If she wants to show it to people, she will. Let her run that, not you."
+        }
+      ],
+      "script": "<strong>\"Before we go in — this is yours. I wanted you to open it without an audience.\"</strong>",
+      "watchFor": "She turns the object over slowly instead of looking up at the room.",
+      "example": "Julien planned to give Sofia the bracelet at her mother's table. He gave it in the parking lot instead. She put it on, sat in silence, then told her mother about it herself an hour later.",
+      "ifItFails": "She opens it in private and the reaction is thin. That is the information you paid for. Do not defend the choice. Ask once, plainly, then act on the answer: <strong>\"Tell me straight — is it right? I'd rather swap it than watch you wear something you don't love.\"</strong>",
+      "counter": "If someone hands you a gift in front of an audience, they bought your reaction.\n• Notice you feel pressure to react before you have looked at it.\n• Say: <strong>\"I want to open this properly later.\"</strong>\n• Put it aside. Open it alone. Answer honestly then.",
+      "insight": "Do not run this on a woman whose love language is being publicly claimed — some want the room to see it. The next question is which one she is, and whether you have ever actually asked."
+    },
+    {
+      "id": 6,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "Buy For The Woman She Is Becoming",
+      "principle": "Self-Discrepancy Theory — The Ideal Self",
+      "remember": "Give her a piece of the life she is moving toward.",
+      "hook": "Buy for who she is and it is fine. <strong>Buy for who she is turning into and she will not forget it.</strong>",
+      "truth": "Everyone carries a private picture of the next version of themselves.\n• She has told you about it in small pieces — the course, the move, the plan.\n• A gift aimed there says: I already see her.\n• The trap is aiming at your version of her future, not hers.",
+      "when": "She has mentioned a plan, a course, a move, or a career step in the last six months.",
+      "theySee": "A partner who bought equipment for the thing she has only talked about, never started.",
+      "signals": [
+        {
+          "icon": "🗺️",
+          "l": "Future talk",
+          "t": "She describes a plan in detail late at night"
+        },
+        {
+          "icon": "🔖",
+          "l": "Saved posts",
+          "t": "She sends you links about a field she does not work in"
+        },
+        {
+          "icon": "💬",
+          "l": "Repeated dream",
+          "t": "She has mentioned the same ambition three times this year"
+        },
+        {
+          "icon": "🙅",
+          "l": "Self-doubt",
+          "t": "She says \"that's not really me\" right after describing it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name her stated goal",
+          "desc": "Write down the exact words she used about the future thing. Use her words, not yours."
+        },
+        {
+          "n": "2",
+          "title": "Buy the first tool",
+          "desc": "Get the entry-level version of what that life needs — the knife roll, the drawing set, the first course fee."
+        },
+        {
+          "n": "3",
+          "title": "Hand it over with no deadline",
+          "desc": "Say she can start whenever. Do not ask about progress afterwards. Ever."
+        }
+      ],
+      "script": "<strong>\"You've talked about the pottery class three times. I paid for the first term. There's no pressure and no deadline — the spot's just there when you want it.\"</strong>",
+      "watchFor": "She stops talking and looks at you instead of the gift.",
+      "example": "Ben heard Amara mention illustration every few months and never do it. He bought a small drawing tablet and said nothing about using it. She filled it inside three weeks and now sells prints.",
+      "ifItFails": "She thanks you, then never touches it — that means you aimed at a fantasy, not a plan. Do not chase it or ask why. Take the pressure off out loud: <strong>\"The tablet's yours to sell, gift, or ignore. I bought it because I believe you, not because you owe me a picture.\"</strong>",
+      "counter": "If someone funds a version of you that you have not chosen, that is a leash, not a gift.\n• Notice they invest in the you they prefer.\n• Say: <strong>\"What made you pick this direction for me?\"</strong>\n• If the answer is about them, do not take the money.",
+      "insight": "Do not do this if you would resent her using it — funding her growth means funding a woman with more options. The harder part comes when she outgrows the version of the relationship you built."
+    },
+    {
+      "id": 7,
+      "cat": "traps",
+      "danger": "high",
+      "title": "Stop Using Money To End Arguments",
+      "principle": "Reciprocity Debt — Weaponised",
+      "remember": "A gift after a fight buys silence, not forgiveness.",
+      "hook": "Flowers the morning after. <strong>They do not close the argument. They close her mouth.</strong>",
+      "truth": "An apology gift converts your fault into her debt.\n• She now has to be gracious instead of finishing the point.\n• The problem goes unsaid and comes back bigger.\n• The trap: she starts to read every gift as evidence of guilt.",
+      "when": "You had a real fight last night and your first instinct is to buy something on the way home.",
+      "theySee": "A partner who came home with nothing in his hands and said the hard sentence first.",
+      "signals": [
+        {
+          "icon": "🌹",
+          "l": "Flower reflex",
+          "t": "You have bought flowers after your last three arguments"
+        },
+        {
+          "icon": "🚪",
+          "l": "Topic drop",
+          "t": "The argument never gets finished, only interrupted"
+        },
+        {
+          "icon": "😒",
+          "l": "Cool thanks",
+          "t": "She says thank you without looking at the flowers"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same fight",
+          "t": "The same fight has repeated three times this year"
+        },
+        {
+          "icon": "🧊",
+          "l": "Gift suspicion",
+          "t": "She asks \"what's this for?\" when you bring anything home"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Arrive empty handed",
+          "desc": "Buy nothing. Walk in with your hands free and sit down at her level."
+        },
+        {
+          "n": "2",
+          "title": "Say the specific fault",
+          "desc": "Name what you actually did, in one sentence, with no 'but' attached."
+        },
+        {
+          "n": "3",
+          "title": "Give the gift a week later",
+          "desc": "Wait seven days after the repair. Then give something unrelated to the fight."
+        }
+      ],
+      "script": "<strong>\"I cut you off in front of your brother and then made it your problem. That was mine. I'm not going to do it again.\"</strong>",
+      "watchFor": "She restarts the conversation from last night instead of changing the subject.",
+      "example": "Kofi always bought Adeline earrings after fights. The fourth time, he came home with nothing and named what he had done. She talked for forty minutes about something he had never heard before. The fight did not come back.",
+      "ifItFails": "She refuses the apology and stays cold. Do not escalate to a bigger gift — that confirms her reading. Hand her the timing instead: <strong>\"I'm not going to keep pushing. I said what I did wrong and I meant it. Come find me when you want to talk — I'll be here.\"</strong> Then actually leave it alone.",
+      "counter": "If gifts always follow bad behaviour, you are being paid to stay quiet.\n• Notice every present arrives within 24 hours of a fight.\n• Say: <strong>\"I'll take the flowers. I still want to finish last night.\"</strong>\n• Accept the object, refuse the trade. Keep the topic open.",
+      "insight": "Do not run the empty-handed version if the fight involved something you have promised to fix three times — words have no credit left there. The real trap is when she starts preferring the earrings to the conversation."
+    },
+    {
+      "id": 8,
+      "cat": "long",
+      "danger": "low",
+      "title": "Give The Same Thing Every Year",
+      "principle": "Ritual Formation — Serial Position and Meaning Accrual",
+      "remember": "One small gift repeated yearly beats ten expensive surprises.",
+      "hook": "Anyone can buy something impressive once. <strong>Almost nobody keeps a small promise for nine years running.</strong>",
+      "truth": "A repeated gift stops being an object and becomes a marker of time.\n• The first year it is small. The fifth year it is a record.\n• She starts counting them and telling people about the count.\n• The trap: you cannot skip a year without saying something.",
+      "when": "You want one thing in the relationship that survives moves, jobs, and bad years.",
+      "theySee": "A partner who has handed her the same small thing on the same date for years.",
+      "signals": [
+        {
+          "icon": "📚",
+          "l": "Kept set",
+          "t": "She keeps every one of them together in one place"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Date awareness",
+          "t": "She mentions the date a few days before it arrives"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Told story",
+          "t": "She explains the tradition to a new friend without prompting"
+        },
+        {
+          "icon": "🧷",
+          "l": "Order kept",
+          "t": "She can name which year each one came from"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick something cheap and repeatable",
+          "desc": "One book, one ornament, one photo printed, one letter. Under the cost of a dinner."
+        },
+        {
+          "n": "2",
+          "title": "Fix the date and write it in",
+          "desc": "Choose the date and put a recurring reminder in your calendar for ten years."
+        },
+        {
+          "n": "3",
+          "title": "Add one line each time",
+          "desc": "Write the year and one sentence about that year on the item or inside the book."
+        }
+      ],
+      "script": "<strong>\"Number six. Same date, same deal. I wrote this year on the inside cover like always.\"</strong>",
+      "watchFor": "She goes and gets the previous ones to line them up.",
+      "example": "Rob gave Hana a secondhand poetry book on the first cold day of every autumn, with the year in the front. By book eight the shelf had its own row. Her mother asked for a photo of it.",
+      "ifItFails": "You miss a year — travel, a bad stretch, a fight. Do not pretend it did not happen or double up next time. Mark the gap on purpose: <strong>\"Year seven is late and it's late because of me. I wrote that inside it, so we both remember what that year was.\"</strong>",
+      "counter": "If someone builds a tradition with you, they are building something you will find costly to walk away from.\n• Notice how much history the ritual now holds.\n• Ask yourself whether you stay for them or for the shelf.\n• Keep the objects. Make the decision separately.",
+      "insight": "Cheap plus repeated beats expensive plus rare, every time. The harder part is year four, when it feels boring to you and has just started to matter to her."
+    },
+    {
+      "id": 9,
+      "cat": "repair",
+      "danger": "moderate",
+      "title": "Get The Sizing And Taste From Her Sister",
+      "principle": "Sun Tzu: Use of Spies — The Inside Agent",
+      "remember": "Ask one person close to her, once, then go quiet.",
+      "hook": "You do not have to guess her size, her metal, or her brand. <strong>Someone in her life already knows all three.</strong>",
+      "truth": "Every woman has one friend or sister who holds the file.\n• That person knows size, allergy, colour, and the thing she returned last year.\n• One quiet text gets you what months of guessing will not.\n• The trap is asking too many people. Two sources leak.",
+      "when": "You want to buy clothing, jewellery, or perfume and you are guessing on the details.",
+      "theySee": "A partner who somehow got the ring size and the metal exactly right.",
+      "signals": [
+        {
+          "icon": "👭",
+          "l": "The one friend",
+          "t": "One friend is in every story she tells about shopping"
+        },
+        {
+          "icon": "🔁",
+          "l": "Past returns",
+          "t": "She has quietly returned two things you bought"
+        },
+        {
+          "icon": "💍",
+          "l": "Metal habit",
+          "t": "She only ever wears one colour of metal"
+        },
+        {
+          "icon": "🧥",
+          "l": "Borrowed clothes",
+          "t": "She and her sister swap clothes, so the size is known"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one source only",
+          "desc": "Choose the sister or the closest friend. One person. Not the group chat."
+        },
+        {
+          "n": "2",
+          "title": "Ask three specific things",
+          "desc": "Size, metal or colour, and one thing she has said she does not like."
+        },
+        {
+          "n": "3",
+          "title": "Buy it and never say who helped",
+          "desc": "Keep the source secret permanently. A named source turns your gift into theirs."
+        }
+      ],
+      "script": "<strong>\"Need your help and it stays between us — what's her ring size, does she wear gold or silver, and is there anything she'd hate?\"</strong>",
+      "watchFor": "She puts it on immediately instead of saying she will try it later.",
+      "example": "Nate texted Zoe's sister three questions in April. In June he gave Zoe a gold chain in her size. Zoe told him he was the first man who had ever got her jewellery right, and never learned about the text.",
+      "ifItFails": "The source leaks and she finds out you asked. Do not deny it or make it sound like a scheme. Own it as effort, not espionage: <strong>\"I asked your sister for your size because I'd rather ask than guess and get it wrong on you. That's the whole conspiracy.\"</strong>",
+      "counter": "If a gift is too precisely right, someone briefed the giver.\n• Notice they knew a detail you never told them.\n• Say: <strong>\"Who did you ask? I'm impressed, not annoyed.\"</strong>\n• Decide whether the network around you should be that easy to open.",
+      "insight": "The inside source is the cheapest upgrade available in gift giving. Do not use it on a friend who wants your relationship to fail — she will hand you the wrong answer with a straight face. The next question is what else that person could be asked for."
+    },
+    {
+      "id": 10,
+      "cat": "repair",
+      "danger": "high",
+      "title": "Ask Her What She Actually Wants This Year",
+      "principle": "Voss: Calibrated Question — Give Up the Guess",
+      "remember": "After a bad miss, stop guessing and ask her outright.",
+      "hook": "Surprise is a bonus, not the point. <strong>Two wrong guesses in a row and the surprise is costing you more than it earns.</strong>",
+      "truth": "Men keep guessing because a correct guess feels like proof of love.\n• She reads a bad guess as proof you do not know her.\n• Asking directly removes the risk and the theatre together.\n• The trap: asking every year makes you a wallet, not a partner.",
+      "when": "Your last two gifts missed and she is being careful about her reaction now.",
+      "theySee": "A partner who admitted he got it wrong and asked her straight what she wants.",
+      "signals": [
+        {
+          "icon": "🫤",
+          "l": "Careful thanks",
+          "t": "She thanks you in a voice that is managing your feelings"
+        },
+        {
+          "icon": "🏷️",
+          "l": "Tags on",
+          "t": "Last year's gift still has the tag on it"
+        },
+        {
+          "icon": "🤷",
+          "l": "No requests",
+          "t": "She says \"don't get me anything\" and means it"
+        },
+        {
+          "icon": "📉",
+          "l": "Lowered ask",
+          "t": "She asks for something obviously cheaper than usual"
+        },
+        {
+          "icon": "🚫",
+          "l": "No display",
+          "t": "She does not wear or use what you gave her"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the misses out loud",
+          "desc": "Say you got the last two wrong. Do not defend either choice."
+        },
+        {
+          "n": "2",
+          "title": "Ask one direct question",
+          "desc": "Ask what she actually wants this year, and say you want the real answer, not a polite one."
+        },
+        {
+          "n": "3",
+          "title": "Buy exactly what she said",
+          "desc": "Buy her answer. Do not improve on it, upgrade it, or add a surprise on top."
+        }
+      ],
+      "script": "<strong>\"I've got the last two wrong and I know it. So I'm not guessing this year — tell me what you actually want. Not the polite answer, the real one.\"</strong>",
+      "watchFor": "She names a specific thing within thirty seconds. She had it ready.",
+      "example": "Alex missed twice with Dana — a scarf she never wore, a speaker she never opened. In November he asked her straight. She named a specific pair of boots. He bought those boots and nothing else. She wore them every week that winter.",
+      "ifItFails": "She says \"anything is fine\" and will not name a thing. That is a test, not an answer. Do not guess again and do not push twice. Give her a choice instead of a blank page: <strong>\"Then I'll pick from three and you veto: the boots, a weekend away, or the coat. Say which one is out.\"</strong>",
+      "counter": "If someone keeps asking you what you want instead of learning, they are outsourcing the work.\n• Notice you now do the choosing every single year.\n• Say: <strong>\"I'd rather you picked. Guess wrong — I want to see what you see.\"</strong>\n• Hand the risk back. Watch whether they take it.",
+      "insight": "Do not run this on a woman who has already told you she wants to be surprised — asking will read as one more thing she has to manage. The harder part is earning back the right to guess, and knowing which year to try again."
+    },
+    {
+      "id": 11,
+      "cat": "read",
+      "danger": "low",
+      "title": "Watch Her Face For Three Seconds Before She Composes It",
+      "principle": "Ekman: Micro-Expressions — Leakage",
+      "remember": "Her first three seconds are real. After that, she's performing.",
+      "hook": "Everyone fakes a smile. Almost nobody fakes the half-second before it. <strong>That half-second is the only true read you get.</strong>",
+      "when": "You just handed her the gift and she's about to open her mouth.",
+      "truth": "Her trained response comes online in about three seconds.\n• Before that, her face runs on instinct, not manners.\n• A flash of disappointment there beats anything she says next.\n• Most people wait for words. That's where the real answer hides.",
+      "theySee": "You watching her face closely instead of waiting for her to say thank you.",
+      "signals": [
+        {
+          "icon": "😐",
+          "l": "Brow flash",
+          "t": "Her eyebrows lift and drop fast before she smiles."
+        },
+        {
+          "icon": "🤐",
+          "l": "Mouth freeze",
+          "t": "Her mouth stays still for a beat before it curves up."
+        },
+        {
+          "icon": "👀",
+          "l": "Eye check",
+          "t": "Her eyes go to you, not the gift, right after she opens it."
+        },
+        {
+          "icon": "😮‍💨",
+          "l": "Held breath",
+          "t": "She takes a short breath in before she speaks."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch, don't talk",
+          "desc": "Stay quiet for the first three seconds after she opens it. Do not fill the silence."
+        },
+        {
+          "n": "2",
+          "title": "Log the flash",
+          "desc": "Note the very first expression, not the one that follows. Compare it to her words."
+        },
+        {
+          "n": "3",
+          "title": "Ask if they don't match",
+          "desc": "If her face and her words disagree, ask later, alone, what she actually thought."
+        }
+      ],
+      "script": "\"Hey, before you tell me — what was the very first thing you felt when you opened that?\"",
+      "example": "Derek gave Priya a bracelet for her birthday. Her face went tight for a second before she smiled and said she loved it. He asked about it that night. She admitted the chain was too delicate for her job, and he exchanged it the next day.",
+      "watchFor": "She pauses before she smiles, even for half a second.",
+      "ifItFails": "She catches you watching and shuts down, giving you a rehearsed reaction on purpose. Don't call it out in the moment — that makes her perform harder. Wait until you're alone and ask a specific question about the object itself, not her feelings: <strong>\"Does the color work with anything you already wear?\"</strong>",
+      "counter": "If someone studies your face for a few seconds after you open something, they're running this on you.\n• Notice the pause before they ask how you like it.\n• Give your real reaction on purpose if you want them to know it.\n• If you want privacy, look at the object, not at them, and take your time.",
+      "insight": "Reading her face buys you real information. The harder part is using it without ever admitting you looked."
+    },
+    {
+      "id": 12,
+      "cat": "read",
+      "danger": "low",
+      "title": "Notice What She Touches Twice",
+      "principle": "Behavioral Tell — Repeated Contact as Preference Signal",
+      "remember": "She touches what she wants more than once, even by accident.",
+      "hook": "She'll say she doesn't need anything. Her hands say something else. <strong>Watch where they go back to.</strong>",
+      "when": "You're in a store together, or she's scrolling something on her phone near you.",
+      "truth": "People touch things they want more than once without noticing it.\n• A second touch is not an accident. It's her hand voting.\n• She won't remember doing it, so she can't deny it later.\n• One touch means curious. Two means write it down.",
+      "theySee": "You standing next to her, seemingly just browsing along.",
+      "signals": [
+        {
+          "icon": "🖐️",
+          "l": "Return touch",
+          "t": "She picks the same item back up after putting it down."
+        },
+        {
+          "icon": "🧣",
+          "l": "Lingering hand",
+          "t": "Her hand stays on the fabric or object longer than a glance needs."
+        },
+        {
+          "icon": "📱",
+          "l": "Scroll-back",
+          "t": "She scrolls past something on her phone, then scrolls back to it."
+        },
+        {
+          "icon": "💬",
+          "l": "Quiet comment",
+          "t": "She says something small and unprompted, like 'that's nice,' and moves on fast."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Trail, don't lead",
+          "desc": "Walk one step behind her in a store instead of beside her, so you see her hands."
+        },
+        {
+          "n": "2",
+          "title": "Note the second touch",
+          "desc": "When she picks something up twice, write it in your notes app that night."
+        },
+        {
+          "n": "3",
+          "title": "Buy it later, not that day",
+          "desc": "Wait a few weeks so the purchase doesn't look like it followed her hand."
+        }
+      ],
+      "script": "\"She touched that scarf twice and didn't buy it. That's the one.\"",
+      "example": "Marcus watched Elena pick up the same candle in a gift shop twice, then put it back and say it was too expensive. He bought it online three weeks later, and she teared up a little when she opened it.",
+      "watchFor": "She goes back to touch or look at the same thing a second time.",
+      "ifItFails": "You misread a habit — she touches everything twice and it means nothing. Cross-check before you spend money on one signal alone. Ask her sister or a friend, <strong>\"Did she mention a scarf from that trip?\"</strong> — a second confirmation beats guessing from one gesture.",
+      "counter": "If someone is quietly watching your hands more than your face while you shop, they may be reading you for later.\n• Notice if they trail behind you instead of walking beside you.\n• If you don't want them to know what you like, keep your hands still.\n• Say what you want out loud instead — it's faster and it's yours to control.",
+      "insight": "This gives you a want list she never spoke. The harder part is timing the purchase so it doesn't look like surveillance."
+    },
+    {
+      "id": 13,
+      "cat": "read",
+      "danger": "low",
+      "title": "Her Complaints Are A Wish List",
+      "principle": "Displacement — Indirect Desire Through Complaint",
+      "remember": "What she complains about twice is what she actually wants fixed.",
+      "hook": "She won't ask you for it directly. She'll just mention it's broken, three separate times. <strong>That's the ask.</strong>",
+      "when": "She mentions the same annoyance more than once, in passing, without asking you for anything.",
+      "truth": "Direct requests feel like nagging, so people route wants through complaints instead.\n• A repeated complaint is a want wearing a disguise.\n• She keeps her pride; you get to look like you noticed on your own.\n• One complaint is venting. The same complaint twice is a request.",
+      "theySee": "A partner who happens to remember small annoying things and quietly deals with them.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeat gripe",
+          "t": "She mentions the same broken thing on two different days."
+        },
+        {
+          "icon": "🙅",
+          "l": "Deflected offer",
+          "t": "She says 'don't worry about it' when you offer to help right then."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Third-party version",
+          "t": "She tells a friend about the annoyance while you're in the room."
+        },
+        {
+          "icon": "😤",
+          "l": "Sigh pattern",
+          "t": "She sighs at the same object or task every time she uses it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Track the repeat",
+          "desc": "Write down any complaint you hear a second time, word for word if you can."
+        },
+        {
+          "n": "2",
+          "title": "Wait past the moment",
+          "desc": "Do not fix it right when she complains. Let a week pass first."
+        },
+        {
+          "n": "3",
+          "title": "Solve it without a speech",
+          "desc": "Just have the new thing there or the problem gone. Don't announce it."
+        }
+      ],
+      "script": "\"You mentioned it a couple times. Figured I'd just deal with it.\"",
+      "example": "Sofia mentioned twice that her favorite mug had a chip. Ray said nothing. Three weeks later he replaced it with the same mug, no occasion attached, and she asked immediately how he remembered.",
+      "watchFor": "She stops mentioning the annoyance because it's already gone.",
+      "ifItFails": "You fix the wrong complaint because two different annoyances sounded similar. Ask one clarifying question before you buy anything, phrased as a memory check: <strong>\"Wait, was it the mug handle or the lid that was cracked?\"</strong> That gets the exact detail without exposing that you're tracking her at all.",
+      "counter": "If someone fixes something you only complained about, never asked for, they've been listening closer than you thought.\n• Notice if a small annoyance disappears right after you mentioned it twice.\n• If you don't want to be read this closely, ask directly instead of hinting.\n• If you like it, let them know it landed — that tells them to keep listening.",
+      "insight": "Complaints are cheaper to collect than direct answers and just as accurate. The next problem is knowing which complaints are really about something else entirely."
+    },
+    {
+      "id": 14,
+      "cat": "signal",
+      "danger": "low",
+      "title": "Wrap It Yourself, Badly",
+      "principle": "Costly Signaling Theory",
+      "remember": "A crooked wrap job proves you didn't pay someone else to care.",
+      "hook": "A perfect bow means the store did it. <strong>An ugly one means your hands did.</strong>",
+      "when": "You're about to hand over a gift you actually want to land.",
+      "truth": "Effort that a stranger could buy doesn't prove anything about you.\n• Store wrapping is available to anyone with five extra dollars.\n• A clumsy fold done by your own hands can't be outsourced.\n• People read visible effort as care, even when the effort is small.",
+      "theySee": "A slightly messy package that clearly wasn't done by a store clerk.",
+      "signals": [
+        {
+          "icon": "🎀",
+          "l": "Store finish",
+          "t": "The wrapping is perfectly creased with a printed ribbon."
+        },
+        {
+          "icon": "🩹",
+          "l": "Rushed tape",
+          "t": "Tape is visible and a little crooked."
+        },
+        {
+          "icon": "✍️",
+          "l": "Handwritten tag",
+          "t": "The gift tag is handwritten instead of a printed store card."
+        },
+        {
+          "icon": "🎨",
+          "l": "Odd paper",
+          "t": "The paper doesn't match — leftover from something else in the house."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Skip the store wrap counter",
+          "desc": "Say no to gift wrap service, even if it's free and faster."
+        },
+        {
+          "n": "2",
+          "title": "Wrap it yourself, once",
+          "desc": "Do one pass with paper and tape. Don't redo it if it's crooked."
+        },
+        {
+          "n": "3",
+          "title": "Write the tag by hand",
+          "desc": "Use your own handwriting on the tag, not a printed store card."
+        }
+      ],
+      "script": "\"No wrapping, thanks — I've got it.\"",
+      "example": "James used to pay for gift wrapping every year. One year he forgot and wrapped it himself at midnight, paper crooked, tape visible. His girlfriend kept the paper in a drawer for a month.",
+      "watchFor": "She comments on the wrapping before she even opens the gift.",
+      "ifItFails": "She doesn't notice the wrapping at all and rips straight through it. Don't mention that you wrapped it yourself — pointing it out turns a signal into a request for credit. Save the effort tell for the tag instead, where she has to read your handwriting to get to the gift.",
+      "counter": "If someone hands you a slightly messy, hand-wrapped gift, they spent time a store could have saved them.\n• Notice handwriting on the tag instead of a printed card.\n• Don't rush past the wrapping to get to the gift — open it slowly once.\n• Say \"you wrapped this yourself\" out loud. That's the payoff they were hoping for.",
+      "insight": "A bad wrap job is proof of hands, not money. The next question is whether you can keep doing small proof-of-effort moves without ever asking to be noticed for them."
+    },
+    {
+      "id": 15,
+      "cat": "signal",
+      "danger": "low",
+      "title": "Give Her Something Only The Two Of You Would Get",
+      "principle": "Relational Signaling — Shared Narrative Encoding",
+      "remember": "A gift with a private meaning says more than one with a public price tag.",
+      "hook": "Anyone can buy jewelry. <strong>Only you know why that specific mug matters.</strong>",
+      "when": "You want a gift to say 'I know you' instead of 'I have money.'",
+      "truth": "A gift tied to a private memory can't be evaluated by outsiders, only by her.\n• Nobody else can price it or compare it, so it escapes every comparison game.\n• It forces her to explain the story if anyone asks — and she likes telling it.\n• A generic expensive gift gets admired. A coded one gets kept forever.",
+      "theySee": "An object that looks small or plain to anyone else, but clearly means something to her.",
+      "signals": [
+        {
+          "icon": "😂",
+          "l": "Immediate laugh",
+          "t": "She laughs or gasps the second she sees it, before she says anything."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Story trigger",
+          "t": "She explains the backstory to whoever's in the room."
+        },
+        {
+          "icon": "🪟",
+          "l": "Display spot",
+          "t": "She puts it somewhere visible instead of storing it away."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat mention",
+          "t": "She brings it up again days or weeks later, unprompted."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Mine your own history",
+          "desc": "List three inside jokes, trips, or moments only you two would recognize."
+        },
+        {
+          "n": "2",
+          "title": "Find the object that codes it",
+          "desc": "Pick something that represents the memory without spelling it out."
+        },
+        {
+          "n": "3",
+          "title": "Say nothing when she opens it",
+          "desc": "Let her find the connection herself. Don't explain unless she asks."
+        }
+      ],
+      "script": "\"You'll get it.\"",
+      "example": "Nadia bought Tom a cheap plastic dinosaur, the same model from the gas station where their car broke down on a road trip. He laughed so hard he had to sit down, and it sat on his desk for two years.",
+      "watchFor": "She looks up at you, not at the gift, once she gets it.",
+      "ifItFails": "She doesn't get the reference and just says thanks politely. Don't force the explanation right then — it kills the moment worse than silence. Bring it up later, casually, in a way that lets her connect it herself: <strong>\"Remember the gas station in Ohio?\"</strong>",
+      "counter": "If someone gives you something plain that ties to a private memory, they're betting on shared history over price.\n• Notice if the gift makes no sense without a story attached.\n• Ask for the story if you don't get it — don't fake understanding.\n• If it lands, tell them exactly what part you remember. That's the real thank-you.",
+      "insight": "A coded gift can't be topped by money because money isn't the currency it's priced in. The harder version is building enough shared history that you have more than one of these to draw from."
+    },
+    {
+      "id": 16,
+      "cat": "signal",
+      "danger": "moderate",
+      "title": "Skip A Gift On Purpose Once",
+      "principle": "Scarcity — Pattern Interrupt",
+      "remember": "Giving every single time trains her to expect it, not feel it.",
+      "hook": "If a gift always shows up, it stops being a gift. <strong>It becomes rent.</strong>",
+      "when": "You've built a steady pattern of gifts for the same occasions, year after year.",
+      "truth": "A pattern with zero exceptions turns into an expectation, not a signal.\n• Constant giving flattens the meaning of any single gift.\n• One deliberately skipped occasion, replaced with full presence, resets the value.\n• Most people never test this because skipping feels like failing. It's not — it's a move.",
+      "theySee": "You showing up with your full attention and nothing in your hands, on a day she expected a box.",
+      "signals": [
+        {
+          "icon": "😳",
+          "l": "Quiet surprise",
+          "t": "She notices there's no gift and says something about it, half-joking."
+        },
+        {
+          "icon": "⏳",
+          "l": "Extra attention",
+          "t": "You give her a full uninterrupted evening instead of an object."
+        },
+        {
+          "icon": "🤫",
+          "l": "No prior warning",
+          "t": "You don't announce the skip ahead of time or explain it."
+        },
+        {
+          "icon": "👁️",
+          "l": "Watch her react",
+          "t": "She either shrugs it off or clearly registers the change."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a low-stakes occasion",
+          "desc": "Choose a minor date, not her birthday or an anniversary, for the first skip."
+        },
+        {
+          "n": "2",
+          "title": "Replace the object with time",
+          "desc": "Give full attention instead — no phone, no rush, just the evening."
+        },
+        {
+          "n": "3",
+          "title": "Never explain it as a test",
+          "desc": "If she asks, say you wanted the day to be about being together, nothing else."
+        }
+      ],
+      "script": "\"No gift this year — I wanted tonight to just be us, no box in the way.\"",
+      "example": "Wei always brought flowers to their monthly dinner. One month he brought nothing and planned the whole night around her instead. She told him later that dinner stuck with her more than any of the flowers had.",
+      "watchFor": "She stops treating the occasion as a checklist item and starts paying closer attention herself.",
+      "ifItFails": "She reads the skip as neglect instead of intention, especially if you've never done anything like it before. Do not defend the theory behind it — that sounds like a strategy, because it is one. Say plainly: <strong>\"That was on me, I should have said something.\"</strong> Bring a gift next time with no commentary. This only works on someone secure — do not run it during a rough patch in the relationship.",
+      "counter": "If someone who always gives suddenly doesn't, and seems very at ease about it, they may be testing what the pattern is worth.\n• Notice if the skip comes with unusually full attention instead.\n• Ask directly if something's wrong rather than guessing.\n• If it was a test and it worked on you, you don't have to say so.",
+      "insight": "A pattern with no gaps trains people to stop noticing it. The trap is timing it wrong and reading as the neglect you were trying to avoid."
+    },
+    {
+      "id": 17,
+      "cat": "timing",
+      "danger": "low",
+      "title": "Don't Hand It Over When She's Mid-Crisis",
+      "principle": "State-Dependent Reception",
+      "remember": "A great gift at the wrong moment gets no attention at all.",
+      "hook": "She can't feel your gift while she's dealing with a work fire or a sick parent. <strong>Timing beats the gift itself.</strong>",
+      "when": "You've got a gift ready but she's visibly stressed, distracted, or mid-emergency.",
+      "truth": "People process gifts with the attention they have left over, not more.\n• A stressed brain files a gift as one more thing to deal with.\n• Waiting costs you nothing; a wasted moment costs you the whole effect.\n• Most people give on the planned date anyway, out of habit, and wonder why it fell flat.",
+      "theySee": "You holding back or setting the gift aside instead of pushing to hand it over on schedule.",
+      "signals": [
+        {
+          "icon": "📵",
+          "l": "Short answers",
+          "t": "She answers in one word or checks her phone mid-conversation."
+        },
+        {
+          "icon": "😬",
+          "l": "Visible tension",
+          "t": "Her shoulders are up, her jaw is tight, she's pacing."
+        },
+        {
+          "icon": "🙏",
+          "l": "Repeated apology",
+          "t": "She says sorry for being distracted more than once."
+        },
+        {
+          "icon": "📅",
+          "l": "Rescheduled plans",
+          "t": "She's already cancelled or moved something else that day."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Read the room first",
+          "desc": "Check her state before you reach for the gift, not after."
+        },
+        {
+          "n": "2",
+          "title": "Delay without apology",
+          "desc": "Say nothing about the gift. Just wait for a calmer day."
+        },
+        {
+          "n": "3",
+          "title": "Reintroduce it later, fresh",
+          "desc": "Give it on an ordinary day instead, with no explanation for the delay."
+        }
+      ],
+      "script": "\"Saved this for you — figured you had enough going on last week.\"",
+      "example": "Alicia planned to give Ben his anniversary gift on the exact date, but he'd just been laid off that morning. She held it for five days and gave it on a random Thursday instead. He remembered that Thursday more than the actual anniversary.",
+      "watchFor": "She's calm enough to sit still and actually look at what's in front of her.",
+      "ifItFails": "The stressful stretch runs longer than expected and the right moment never comes. Don't wait indefinitely — after two weeks, give it anyway and say it plainly: <strong>\"This has been sitting here waiting for a good day. Today's as good as any.\"</strong> Waiting forever reads as forgetting.",
+      "counter": "If someone holds a gift back and gives it later than planned, they may be timing your attention, not avoiding you.\n• Notice if a gift shows up on a random day instead of the expected one.\n• Don't assume they forgot — ask if there's a reason for the delay.\n• If you like the read, say so — it tells them the timing worked.",
+      "insight": "Good timing makes an average gift land harder than a great gift at the wrong moment. The next problem is judging how long is patience and how long is just delay."
+    },
+    {
+      "id": 18,
+      "cat": "timing",
+      "danger": "moderate",
+      "title": "If You Have Bad News Too, Give The Gift After, Not Before",
+      "principle": "Order Effects — Recency in Emotional Memory",
+      "remember": "The last thing that happens in the room is what she remembers most.",
+      "hook": "Lead with the gift, then drop bad news, and the gift turns into a bribe in her memory. <strong>Order decides what it means.</strong>",
+      "when": "You need to tell her something hard on the same day you planned to give her something.",
+      "truth": "Whatever comes last in a sequence colors how she remembers everything before it.\n• Gift-then-bad-news reads as the gift was meant to soften what's coming.\n• Bad-news-then-gift reads as the gift wasn't a trick, it was already planned.\n• Most people front-load the gift to buy goodwill first. It backfires once she connects the dots.",
+      "theySee": "You delivering hard news first, without anything in your hands to soften it.",
+      "signals": [
+        {
+          "icon": "🤨",
+          "l": "Suspicion delay",
+          "t": "She waits a beat before reacting, like she's checking for a catch."
+        },
+        {
+          "icon": "❓",
+          "l": "Direct question",
+          "t": "She asks if the gift is 'because of something' if it shows up too close to bad news."
+        },
+        {
+          "icon": "😶",
+          "l": "Flat reaction",
+          "t": "She thanks you for the gift without much warmth if the order was wrong."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Separate reactions",
+          "t": "She reacts fully to the news, then separately and later to the gift."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the hard thing plainly",
+          "desc": "Deliver the bad news first, alone, with nothing else attached to it."
+        },
+        {
+          "n": "2",
+          "title": "Let it sit",
+          "desc": "Give her time to react fully before you bring up anything else."
+        },
+        {
+          "n": "3",
+          "title": "Give the gift later, unlinked",
+          "desc": "Hand it over afterward, or the next day, so it can't read as payment."
+        }
+      ],
+      "script": "\"I need to tell you something first, and it's not good news. I also got you something, but that's separate — I'll give it to you later.\"",
+      "example": "Owen had to tell his wife he'd lost a big client right before her birthday. He told her that morning, let her react, and gave the gift that evening as planned. She said later the gift felt like him showing up, not him apologizing.",
+      "watchFor": "She reacts to the gift on its own terms, separate from the bad news.",
+      "ifItFails": "She still reads the gift as compensation no matter the order, especially if the bad news directly affects her. Do not argue the sequence was innocent — that sounds defensive. Say instead: <strong>\"This isn't instead of dealing with the real thing — we still need to talk about that.\"</strong> Then go deal with it. This fails badly if the bad news is about trust — don't run it if you cheated or lied; no order fixes that.",
+      "counter": "If someone gives you a gift right after or right before bad news, check which came first.\n• Notice if the good thing arrives suspiciously close to the bad thing.\n• Ask directly: 'Is this related to what you just told me?'\n• Take the gift on its own merits only after the real issue gets a real conversation.",
+      "insight": "Sequencing can protect a gift's meaning, but it can't launder a bad reason for giving it. The next question is always whether the news itself gets handled, gift or no gift."
+    },
+    {
+      "id": 19,
+      "cat": "timing",
+      "danger": "low",
+      "title": "Never Give It When You Have Somewhere To Be",
+      "principle": "Peak-End Rule — Attention Shapes Memory",
+      "remember": "A rushed gift moment gets remembered as rushed, not as a gift.",
+      "hook": "Ten unhurried minutes beat a perfect gift handed over on the way out the door. <strong>She'll remember the rush, not the ribbon.</strong>",
+      "when": "You've got a gift ready but you're about to leave for work, a flight, or a dinner reservation.",
+      "truth": "The last moments of an experience shape the memory of the whole thing.\n• A gift given in a rush gets filed under hurried, no matter what's inside the box.\n• People need a few unhurried seconds to actually register a gift, not just unwrap it.\n• Most people give gifts around their own schedule instead of around hers.",
+      "theySee": "You sitting down, phone away, with nowhere else to be for the next few minutes.",
+      "signals": [
+        {
+          "icon": "⌚",
+          "l": "Clock checking",
+          "t": "You keep glancing at your watch or phone while she opens it."
+        },
+        {
+          "icon": "🏃",
+          "l": "Fast unwrap",
+          "t": "She rushes through the wrapping because she senses you're in a hurry."
+        },
+        {
+          "icon": "😐",
+          "l": "Short reaction",
+          "t": "Her response is a quick thank-you instead of a real look."
+        },
+        {
+          "icon": "📞",
+          "l": "Interrupted moment",
+          "t": "A phone call, alarm, or someone else walks in mid-gift."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Block real time",
+          "desc": "Pick a moment with at least fifteen free minutes on both sides."
+        },
+        {
+          "n": "2",
+          "title": "Remove the exits",
+          "desc": "Put your phone away and sit down, so there's no obvious next thing."
+        },
+        {
+          "n": "3",
+          "title": "Let the moment run long",
+          "desc": "Don't move on right after she opens it. Stay a little longer than feels necessary."
+        }
+      ],
+      "script": "\"Before we head out — actually, let's sit for a second. I want to give you this properly.\"",
+      "example": "Priya used to hand gifts to her boyfriend on her way out the door for work. One year she moved the moment to a slow Sunday morning instead. He said it was the first time a gift from her felt like a moment, not an errand.",
+      "watchFor": "She slows down instead of rushing through the unwrapping.",
+      "ifItFails": "Life interrupts anyway — a call comes in, someone needs something. Don't push through the interruption to finish on schedule. Stop, deal with the interruption fully, then say: <strong>\"Let's pick this back up tonight, just us.\"</strong> A resumed moment beats a half-finished one.",
+      "counter": "If someone clears real time and puts their phone away before giving you something, they're building the moment on purpose.\n• Notice if they remove obvious distractions before handing it over.\n• Match their pace — don't rush through it just because you're used to rushing.\n• If the slow version lands better for you, tell them plainly.",
+      "insight": "Time is the part of a gift that can't be bought back after the fact. The next problem is protecting that time when the rest of life doesn't cooperate."
+    },
+    {
+      "id": 20,
+      "cat": "repair",
+      "danger": "moderate",
+      "title": "Catch The Flat Face Before She Fakes Gratitude",
+      "principle": "Voss: Labeling — Name The Emotion Before It Hardens",
+      "remember": "Name the bad reaction fast, before she has to fake a good one.",
+      "hook": "The second she starts performing thank-you, the truth is buried for good. <strong>You have about two seconds to stop that.</strong>",
+      "when": "You see her face fall for a second right after she opens a gift.",
+      "truth": "Once she says she loves it out loud, she's committed to the line in front of you.\n• People rarely walk back a compliment they just gave.\n• Naming the flat reaction before she speaks removes the pressure to perform.\n• Most people wait for her to finish talking, which locks the fake response in place.",
+      "theySee": "You noticing something's off before they've said a single word about it.",
+      "signals": [
+        {
+          "icon": "😕",
+          "l": "Face drop",
+          "t": "Her expression falls for a beat before any words come out."
+        },
+        {
+          "icon": "🐌",
+          "l": "Slow reach",
+          "t": "She reaches for the item slower than she reached for the box."
+        },
+        {
+          "icon": "🙂",
+          "l": "Delayed smile",
+          "t": "The smile arrives a beat after it should, not with the reveal."
+        },
+        {
+          "icon": "🎚️",
+          "l": "Overcorrect voice",
+          "t": "Her voice pitches up higher than usual when she says she loves it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Speak before she does",
+          "desc": "Jump in fast with a neutral label: that's not the reaction you were going for."
+        },
+        {
+          "n": "2",
+          "title": "Make it safe to be honest",
+          "desc": "Say you'd rather know now than find out later it sat in a drawer."
+        },
+        {
+          "n": "3",
+          "title": "Fix it together, not alone",
+          "desc": "Ask what she'd swap it for, right there if you can."
+        }
+      ],
+      "script": "\"Hey — that's not the face I was hoping for. Tell me straight, no need to perform this.\"",
+      "example": "Carlos saw his girlfriend's face drop for a second over a pair of earrings. He said it out loud before she could say she loved them. She admitted the style wasn't her, and they exchanged them together that weekend.",
+      "watchFor": "Her shoulders drop and her voice changes to something more normal, less performed.",
+      "ifItFails": "She insists she loves it anyway, doubling down out of guilt or habit. Don't push a third time — that turns into an interrogation. Let it go that day, then follow up alone later: <strong>\"Real answer, no wrong response — do you actually wear that kind of earring?\"</strong> Distance and privacy get you the honesty the moment couldn't.",
+      "counter": "If someone calls out your reaction before you've said a word, they caught something real on your face.\n• Notice if they speak fast, before you've had a chance to perform gratitude.\n• Give the honest answer if you're comfortable — it saves everyone the return trip.\n• If you're not ready to be honest yet, just say you need to sit with it.",
+      "insight": "Catching the reaction early gets you the truth cheaper than any return-desk conversation. This fails on someone who shuts down under any direct question — for her, drop it in the moment and come back later instead."
+    },
+    {
+      "id": 21,
+      "cat": "repair",
+      "danger": "moderate",
+      "title": "Don't Compete With Her Friend's Boyfriend",
+      "principle": "Social Comparison Theory — Festinger",
+      "remember": "If she brings up someone else's gift, don't try to beat it.",
+      "hook": "The second you try to outdo another guy's gift, you've made his gift the standard. <strong>Refuse to compete on his terms.</strong>",
+      "when": "She mentions what a friend's partner gave, right after you gave her something.",
+      "truth": "Comparison only has power over you if you accept the same category as the target.\n• Trying to match or beat it confirms the comparison was fair.\n• Refusing the frame and doubling down on your own angle takes the air out of it.\n• Most people panic and overspend next time. That just proves the comparison worked.",
+      "theySee": "You not flinching or getting defensive when she mentions the other gift.",
+      "signals": [
+        {
+          "icon": "🗨️",
+          "l": "Direct comparison",
+          "t": "She says another guy's gift out loud, unprompted."
+        },
+        {
+          "icon": "👁️",
+          "l": "Watching reaction",
+          "t": "She glances at you right after mentioning it."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat mention",
+          "t": "She brings up the same comparison more than once over following days."
+        },
+        {
+          "icon": "💰",
+          "l": "Price detail",
+          "t": "She specifically mentions the cost, not just the item."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Don't flinch",
+          "desc": "Keep your face and voice neutral when she brings up the other gift."
+        },
+        {
+          "n": "2",
+          "title": "Refuse the category",
+          "desc": "Say your gifts run on a different logic than a price contest."
+        },
+        {
+          "n": "3",
+          "title": "Return to your own thing",
+          "desc": "Bring the conversation back to something specific and personal you did."
+        }
+      ],
+      "script": "\"Sounds like a nice gift. I'm not really trying to win that game though — I'd rather get you something that actually means something to you.\"",
+      "example": "When Maya mentioned her friend got a designer bag, her boyfriend Dan didn't react or promise anything bigger. He said, \"That's not really the game I'm playing,\" and reminded her about the trip he'd been quietly planning. She dropped the comparison and looked forward to the trip instead.",
+      "watchFor": "She stops repeating the comparison and moves the conversation elsewhere herself.",
+      "ifItFails": "She keeps pushing the comparison directly, asking why you can't do the same. Don't get pulled into justifying your budget — that's a losing argument. Ask the harder question back, calmly: <strong>\"Is this actually about the bag, or about something else you want from me?\"</strong> Do not use this move if money really is a sore spot in the relationship right now — name that honestly instead.",
+      "counter": "If someone refuses to compete when you bring up a comparison, they're not ignoring you — they're reframing the game.\n• Notice if they redirect instead of getting defensive or promising more.\n• Ask yourself if the comparison was really about the gift or about feeling unseen.\n• Say the real want out loud instead of hinting through someone else's gift.",
+      "insight": "Refusing the comparison denies it the fuel it needs. The harder part is telling the difference between a passing comment and a real signal that she feels undervalued."
+    },
+    {
+      "id": 22,
+      "cat": "repair",
+      "danger": "moderate",
+      "title": "Own The Miss Before She Has To Pretend",
+      "principle": "Preemptive Disclosure — Defusing Through Self-Correction",
+      "remember": "Say you got it wrong before she has to lie about liking it.",
+      "hook": "If you say it first, she never has to fake a smile. <strong>Confession beats her cover story every time.</strong>",
+      "when": "You already know the size, color, or style is wrong the second she opens it.",
+      "truth": "A gift-giver's silence forces the receiver to manage both reactions at once.\n• If you stay quiet, she has to fake gratitude and hide the miss simultaneously.\n• Naming the miss yourself removes her need to protect your feelings.\n• Most people hope she won't notice. She always notices.",
+      "theySee": "You laughing at your own mistake instead of waiting for her verdict.",
+      "signals": [
+        {
+          "icon": "📏",
+          "l": "Wrong size",
+          "t": "You already know the item doesn't fit or match what she likes."
+        },
+        {
+          "icon": "⏸️",
+          "l": "Her polite pause",
+          "t": "She holds the item up and studies it a beat too long."
+        },
+        {
+          "icon": "🗒️",
+          "l": "Careful wording",
+          "t": "She chooses generic words like 'interesting' or 'different.'"
+        },
+        {
+          "icon": "🚫",
+          "l": "No follow-up plan",
+          "t": "She doesn't mention wearing or using it anytime soon."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say it before she does",
+          "desc": "Admit the guess out loud the second you see the reaction, or before she opens it."
+        },
+        {
+          "n": "2",
+          "title": "Make the fix easy",
+          "desc": "Offer the receipt or exchange option immediately, no drama attached."
+        },
+        {
+          "n": "3",
+          "title": "Turn it into a joke, once",
+          "desc": "Let it become a small running joke between you two, not a wound."
+        }
+      ],
+      "script": "\"Okay, full disclosure — I guessed on the size. Receipt's in the bag if it's wrong, no hard feelings.\"",
+      "example": "Leo bought his girlfriend a jacket in the wrong size and knew it the second she pulled it out. He said the receipt was inside before she said a word. She laughed, tried it on anyway, and they exchanged it together that weekend.",
+      "watchFor": "She laughs or relaxes instead of scrambling for a polite response.",
+      "ifItFails": "She's embarrassed anyway and insists it's fine, refusing the exchange out of pride. Don't argue the point in front of anyone else. Bring it up again privately, later: <strong>\"I really don't mind exchanging it — I'd rather you have the right one than a nice thing you never wear.\"</strong>",
+      "counter": "If someone admits a miss before you've reacted, they're taking the pressure off you on purpose.\n• Notice the confession lands before you've said a word about it.\n• Take the offered exchange — pretending it's fine helps no one.\n• Thank them for saying it first; that's the actual gift here.",
+      "insight": "Owning the miss trades a small embarrassment for her trust. The next problem is not doing it so often that the pattern becomes she guesses wrong every time."
+    },
+    {
+      "id": 23,
+      "cat": "repair",
+      "danger": "moderate",
+      "title": "When She Says You Shouldn't Have And Means It",
+      "principle": "Equity Theory — Perceived Imbalance",
+      "remember": "'You shouldn't have' sometimes means the gift felt too big, not too small.",
+      "hook": "Sometimes too much is a real complaint, not a compliment. <strong>She's telling you the scale is off.</strong>",
+      "when": "She says 'you shouldn't have' in a flat or uneasy tone, not a delighted one.",
+      "truth": "A gift that outweighs what she can currently match creates discomfort, not joy.\n• People need the exchange to feel roughly even to relax into it.\n• An oversized gift can read as pressure to catch up, or as pity.\n• Most givers hear the words as modesty and miss the real discomfort underneath.",
+      "theySee": "You noticing the tone under her words instead of just taking the words at face value.",
+      "signals": [
+        {
+          "icon": "😶",
+          "l": "Flat tone",
+          "t": "She says the line without energy or a smile behind it."
+        },
+        {
+          "icon": "🔀",
+          "l": "Quick deflection",
+          "t": "She changes the subject fast after opening it."
+        },
+        {
+          "icon": "💵",
+          "l": "Cost comment",
+          "t": "She asks directly what it cost, more than once."
+        },
+        {
+          "icon": "😟",
+          "l": "No reciprocation plan",
+          "t": "She seems worried out loud about what she got you in comparison."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the scale, not the gift",
+          "desc": "Say the gift wasn't a test of what she owes back."
+        },
+        {
+          "n": "2",
+          "title": "Separate love from ledger",
+          "desc": "Tell her plainly this isn't a balance she needs to even out."
+        },
+        {
+          "n": "3",
+          "title": "Recalibrate going forward",
+          "desc": "Dial the next few gifts down to match her comfort zone, on purpose."
+        }
+      ],
+      "script": "\"This isn't a scoreboard. I got it because I wanted to, not because I need something back that matches it.\"",
+      "example": "When Anh gave her boyfriend a watch worth more than he expected, he went quiet and said she shouldn't have, without any warmth in it. She told him straight: \"This isn't a bill you owe me for.\" He relaxed and actually started wearing it.",
+      "watchFor": "Her shoulders drop and she stops glancing at the price tag or the box.",
+      "ifItFails": "She stays uneasy no matter what you say, because the discomfort is about a bigger gap she feels in the relationship, not just the gift. Don't keep reassuring her verbally — that starts to sound hollow. Dial down the next several gifts noticeably and let the pattern make the point instead of your words.",
+      "counter": "If someone insists a gift they gave you isn't a debt, notice whether their actions match the words over time.\n• Watch what they give next — words mean less than the pattern that follows.\n• Say plainly if the size of a gift makes you uncomfortable, don't just deflect it.\n• Accept the recalibration if it comes; don't punish them for correcting course.",
+      "insight": "An oversized gift can flatten trust instead of building it. The harder skill is reading her comfort zone accurately enough that this never happens twice."
+    },
+    {
+      "id": 24,
+      "cat": "repair",
+      "danger": "high",
+      "title": "Say Sorry With Words First, Then With Nothing For A While",
+      "principle": "Reciprocity Backlash — Delayed Repair Signaling",
+      "remember": "After a real mistake, words come first and gifts wait.",
+      "hook": "A gift right after you actually hurt her looks like a receipt for buying it back. <strong>Silence on the gift front says the words were the real thing.</strong>",
+      "when": "You did something that genuinely wronged her — lied, broke a promise, embarrassed her — not a routine disagreement.",
+      "truth": "A material gift given too close to a real wrong gets read as an attempt to buy the apology's way out.\n• Immediate gifts short-circuit the accountability she actually needs from you.\n• A gift-free stretch after the apology proves the words weren't a transaction.\n• Most people panic and reach for their wallet. That reads as guilt management, not remorse.",
+      "theySee": "You showing up with words, changed behavior, and empty hands, for longer than feels comfortable.",
+      "signals": [
+        {
+          "icon": "💳",
+          "l": "Reflex reach",
+          "t": "Your own instinct is to buy something right after the apology."
+        },
+        {
+          "icon": "🕵️",
+          "l": "Her wariness",
+          "t": "She watches for whether you follow words with a purchase."
+        },
+        {
+          "icon": "🔍",
+          "l": "Behavior test",
+          "t": "She notices whether your actions change, not just your speech."
+        },
+        {
+          "icon": "🧊",
+          "l": "Delayed thaw",
+          "t": "Her warmth returns slowly over days, not right after you apologize."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Apologize with no attachment",
+          "desc": "Say what you did wrong, specifically, with nothing in your hands."
+        },
+        {
+          "n": "2",
+          "title": "Hold the gift impulse",
+          "desc": "Don't buy anything gift-shaped for at least a few weeks after a real wrong."
+        },
+        {
+          "n": "3",
+          "title": "Let changed behavior do the talking",
+          "desc": "Show the fix through what you do differently, not through an object."
+        }
+      ],
+      "script": "\"I was wrong about that, and I'm not going to try to fix it with a gift. I just want to actually do better.\"",
+      "example": "After Marcus forgot his anniversary and lied about why, he apologized directly with no gift attached, and kept it that way for a month. When he finally did bring something small, his wife told him it was the first gift in years that felt clean of guilt.",
+      "watchFor": "She starts initiating warmth again on her own timeline, without you pushing for it.",
+      "ifItFails": "She stays cold regardless, or explicitly says the apology wasn't enough. Don't escalate to a bigger gift to compensate — that's the exact move this card tells you to avoid. Ask directly what would actually rebuild trust: <strong>\"What do you need from me, specifically, over the next month?\"</strong> Do not run this move if the wrong involved betrayal like infidelity — that needs more than a card can cover, likely outside help.",
+      "counter": "If someone apologizes and pointedly gives you nothing material afterward, notice whether their behavior actually changes too.\n• Watch what they do differently, not just what they don't buy you.\n• Say plainly if you need more than words to feel okay again.\n• Don't mistake the absence of gifts alone for real repair — check the follow-through.",
+      "insight": "Withholding gifts after a real wrong proves the apology wasn't a purchase. The harder part is that this only works if the behavior actually changes — otherwise it's just a cheaper version of the same trick."
+    },
+    {
+      "id": 25,
+      "cat": "long",
+      "danger": "low",
+      "title": "Keep A Private File On Every Gift You've Given Her",
+      "principle": "Longitudinal Data Advantage",
+      "remember": "Write down every gift and her real reaction, right after it happens.",
+      "hook": "You will not remember what you gave her three years ago. <strong>She will.</strong>",
+      "when": "Right after any gift-giving moment, while the reaction is still fresh.",
+      "truth": "Memory fades fast, but a written record never argues with itself.\n• A private log beats your memory of thinking you already got her that.\n• It shows you patterns — what she keeps, what she quietly returns.\n• Most people rely on memory alone and repeat the same mistake years apart.",
+      "theySee": "Nothing. This one is invisible to her by design.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeat risk",
+          "t": "You're about to buy something similar to a past gift without checking."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Faded memory",
+          "t": "You can't remember what you gave her last year for the same occasion."
+        },
+        {
+          "icon": "🎯",
+          "l": "Pattern blindness",
+          "t": "You keep guessing wrong on the same category of gift."
+        },
+        {
+          "icon": "📝",
+          "l": "No record",
+          "t": "You have no note of her actual reaction, only a vague memory."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Start a private note",
+          "desc": "Open a note only you can see. Title it with her name and 'gifts.'"
+        },
+        {
+          "n": "2",
+          "title": "Log right after, not later",
+          "desc": "Write the gift, the date, and her real reaction within a day."
+        },
+        {
+          "n": "3",
+          "title": "Check it before every purchase",
+          "desc": "Read the note before buying anything new for her."
+        }
+      ],
+      "script": "\"March 2026 — scarf, blue, said too itchy but kept it anyway. Try softer fabric next time.\"",
+      "example": "Tariq kept a running note on his girlfriend for two years. Before her birthday, he checked it and realized he'd already bought her the same brand of headphones the year before, unopened in a drawer. He got her something else instead.",
+      "watchFor": "You catch yourself about to repeat a past miss, because the note stopped you.",
+      "ifItFails": "The habit lapses and you stop logging for months, so the record has gaps right when you need it. Don't try to reconstruct it all from memory — that reintroduces the exact problem the note solves. Ask her sister or a close friend one specific question to fill the gap: <strong>\"Did I already get her a scarf recently?\"</strong> Then restart the habit immediately.",
+      "counter": "There's nothing to counter here — this move happens entirely inside your own head and a private note.\n• If you ever find someone's written log about your preferences, that's a different, more serious situation.\n• Notice instead how well someone tracks your taste over time without a visible system.\n• If their memory for your preferences seems unusually sharp, they likely have their own version of this.",
+      "insight": "A private record turns gift-giving into a skill you build instead of a guess you repeat. The next problem is using the data without ever letting the system show."
+    },
+    {
+      "id": 26,
+      "cat": "long",
+      "danger": "moderate",
+      "title": "Break The Escalation Curve On Purpose",
+      "principle": "Hedonic Adaptation — Diminishing Returns",
+      "remember": "Bigger every year trains her to expect bigger, not to feel more.",
+      "hook": "If every year has to top the last, you're running a race with no finish line. <strong>Step off it before it breaks you.</strong>",
+      "when": "You notice each year's gift has gotten more expensive or elaborate than the last, with no plan to stop.",
+      "truth": "A steadily rising baseline resets what counts as enough every single year.\n• What thrilled her at year one becomes the minimum by year three.\n• Breaking the curve on purpose, with a smaller but more thoughtful gift, resets the baseline.\n• Most people keep climbing until money or creativity runs out, then crash badly.",
+      "theySee": "A gift that's clearly smaller or simpler than last year's, delivered with total confidence, no apology.",
+      "signals": [
+        {
+          "icon": "📈",
+          "l": "Rising cost",
+          "t": "Each year's gift has cost noticeably more than the last."
+        },
+        {
+          "icon": "😏",
+          "l": "Expectation talk",
+          "t": "She jokingly asks what you're going to top last year with."
+        },
+        {
+          "icon": "😩",
+          "l": "Effort fatigue",
+          "t": "You feel dread instead of excitement planning the next gift."
+        },
+        {
+          "icon": "🏷️",
+          "l": "Comparison anchor",
+          "t": "You catch yourself measuring this year's gift against last year's price."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Notice the curve",
+          "desc": "Look back at the last three years and be honest about the trend."
+        },
+        {
+          "n": "2",
+          "title": "Pick a reset year",
+          "desc": "Choose one occasion to deliberately give something smaller and more personal."
+        },
+        {
+          "n": "3",
+          "title": "Frame it as intention, not budget",
+          "desc": "Make clear the smaller gift was a choice, not a shortage of money."
+        }
+      ],
+      "script": "\"I could have gone bigger this year, but I wanted this one to be about the thought instead of the size.\"",
+      "example": "After three years of increasingly expensive anniversary gifts, David gave his wife a handwritten letter and a cheap bottle of the wine from their first date instead of jewelry. She said it was the first anniversary gift that made her cry.",
+      "watchFor": "She reacts to the meaning of the gift rather than commenting on its size.",
+      "ifItFails": "She reads the smaller gift as a step back or a sign something's wrong financially or emotionally. Don't over-explain in the moment — that undercuts the confidence the move needs. If she asks directly, say plainly: <strong>\"Nothing's wrong — I just wanted this year to be different, not less.\"</strong> Follow through with genuine warmth for the rest of the day.",
+      "counter": "If someone breaks their own gift-giving pattern with something smaller, check whether it comes with real presence and explanation, or with distance and excuses.\n• Notice if the smaller gift is paired with more attention, not less.\n• Ask directly if you're unsure whether it's a reset or a red flag.\n• Reward the reset if you like it — that tells them it worked and it's safe to do again.",
+      "insight": "Stepping off the escalation curve protects the relationship from turning gifts into a budget contest. The next problem is knowing which years can take a smaller gift and which years actually need a bigger one."
+    },
+    {
+      "id": 27,
+      "cat": "long",
+      "danger": "moderate",
+      "title": "Don't Let A Raise Show Up In The Box Right Away",
+      "principle": "Status Consistency — Signal Timing",
+      "remember": "A sudden jump in gift price announces a change before you're ready to explain it.",
+      "hook": "A new job or a raise changes what you can buy overnight. <strong>Don't let the first gift after it do your announcing for you.</strong>",
+      "when": "Your income just changed significantly — a raise, a new job, a windfall — and a gift occasion is coming up soon.",
+      "truth": "A gift price jump is information, and people read information whether you meant to send it or not.\n• A sudden luxury gift raises questions about where the money came from.\n• It also resets her expectations upward before you've decided if that's permanent.\n• Most people spend the first bonus check on a big gift without thinking through what it signals.",
+      "theySee": "A gift that's roughly consistent with your usual pattern, not a visible jump.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "Sudden jump",
+          "t": "The gift's price or scale is far above your normal range."
+        },
+        {
+          "icon": "❓",
+          "l": "Unexplained source",
+          "t": "She asks how you could afford it and you haven't told her about the change yet."
+        },
+        {
+          "icon": "📌",
+          "l": "New baseline risk",
+          "t": "She references the gift later as the new normal to expect."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Timing overlap",
+          "t": "The gift lands right around when the income change happened."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Tell her about the change first",
+          "desc": "Share the raise or new job as its own conversation, separate from any gift."
+        },
+        {
+          "n": "2",
+          "title": "Hold the gift steady for one cycle",
+          "desc": "Keep the next gift close to your usual range, even if you can afford more."
+        },
+        {
+          "n": "3",
+          "title": "Scale up gradually, later",
+          "desc": "Let any increase in gift size happen slowly, over multiple occasions."
+        }
+      ],
+      "script": "\"Got some good news at work — wanted to tell you before anything else changes around here.\"",
+      "example": "When Ken got a big promotion, he told his girlfriend about it over dinner that week, then kept her birthday gift close to his usual budget instead of splurging immediately. Two gifts later, he let the budget rise naturally, and she never felt whiplash from it.",
+      "watchFor": "She reacts to the news itself, not to a gift trying to reveal it.",
+      "ifItFails": "She finds out about the income change some other way first, and a same-size gift right after looks like you're hiding money from her. Don't let the timing accident stand unaddressed. Say directly: <strong>\"I know the timing looks off — I wasn't hiding it, I just didn't want the gift to be how you found out.\"</strong> Then have the fuller money conversation you were postponing.",
+      "counter": "If someone's gifts suddenly jump in price with no explanation, that's information about a change they haven't told you yet.\n• Notice the gap between what they say their situation is and what they can now afford.\n• Ask directly rather than guessing at the source of new money.\n• Decide for yourself if a new gift baseline is something you want to expect going forward.",
+      "insight": "Controlling what a gift announces protects you from conversations happening on the wrong terms. The next problem is deciding how long you can hold a signal back before withholding starts to look like hiding."
+    },
+    {
+      "id": 28,
+      "cat": "traps",
+      "danger": "moderate",
+      "title": "When She Says She Doesn't Want Anything, She's Testing You",
+      "principle": "Reactance Theory — The Test Behind The Refusal",
+      "remember": "'I don't need anything' is rarely the whole truth.",
+      "hook": "If you take that sentence at face value, you fail a test you didn't know was running. <strong>She's checking if you'll actually look, or just take the easy out.</strong>",
+      "when": "You ask what she wants and she says 'nothing' or 'I don't need anything,' in a tone that isn't quite closed.",
+      "truth": "A flat refusal of a gift is often a check on whether you'll do the work anyway.\n• Taking 'nothing' literally is the low-effort answer, and she can tell.\n• The real test is whether you keep paying attention after she waves you off.\n• Most men treat the refusal as permission to skip planning. That's the trap.",
+      "theySee": "You not asking again directly, but clearly still watching and planning behind the scenes.",
+      "signals": [
+        {
+          "icon": "😏",
+          "l": "Soft refusal",
+          "t": "She says 'nothing' with a small pause or half-smile, not flatly."
+        },
+        {
+          "icon": "💭",
+          "l": "Later hint",
+          "t": "She mentions something she likes a few days after saying she wants nothing."
+        },
+        {
+          "icon": "👀",
+          "l": "Watching for effort",
+          "t": "She asks later if you're planning anything, despite her earlier refusal."
+        },
+        {
+          "icon": "🤷",
+          "l": "Deflection tone",
+          "t": "Her 'I don't need anything' comes with a shrug, not eye contact."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Don't take it as the final word",
+          "desc": "Treat 'nothing' as the opening line, not the answer."
+        },
+        {
+          "n": "2",
+          "title": "Go quiet, then investigate",
+          "desc": "Stop asking her directly and start watching or asking others instead."
+        },
+        {
+          "n": "3",
+          "title": "Deliver anyway, without announcing the workaround",
+          "desc": "Give her something thoughtful without saying 'I know you said nothing, but...'"
+        }
+      ],
+      "script": "\"She keeps saying she doesn't want anything — any idea what she's actually been eyeing?\"",
+      "example": "When Diego's wife insisted she didn't want anything for her birthday, he didn't argue. He quietly asked her best friend, found out about a jacket she'd mentioned, and gave it to her without a word about the earlier refusal. She lit up immediately.",
+      "watchFor": "Her reaction to receiving something anyway is warmer than her refusal suggested it would be.",
+      "ifItFails": "She really did mean it, and a gift now feels like you weren't listening to her actual wishes. This happens more with women who are genuinely minimalist or stressed about money, not testing you at all — watch for a flat, repeated, low-energy refusal versus a playful one. If you misread it, keep the gift small and say: <strong>\"I hear you on not wanting more stuff — this is small, not a whole thing.\"</strong>",
+      "counter": "If someone keeps digging after you say you don't want anything, they're testing whether the refusal was real.\n• Notice if they stop asking you directly and start asking people around you.\n• If you genuinely mean nothing, say it plainly and repeat it the same way each time.\n• If you're testing them, know that a flat 'no really, nothing' every time removes the test entirely.",
+      "insight": "The gap between what she says and what she means is where this whole game lives. The harder skill is telling a real refusal from a test, because guessing wrong costs you either way."
+    },
+    {
+      "id": 29,
+      "cat": "traps",
+      "danger": "high",
+      "title": "Spot The Gift That's Really A Tracking Device",
+      "principle": "Control Disguised As Care — Trojan Gift",
+      "remember": "A gift that watches you is a leash with a bow on it.",
+      "hook": "A smartwatch, a shared-location app, a subscription only she can see — some gifts come with a wire attached. <strong>Notice what the gift can see or reach after it's given.</strong>",
+      "when": "Someone gives you a gift that includes tracking, shared access, or ongoing visibility into your life.",
+      "truth": "Some gifts are chosen for what they let the giver monitor, not for what they let you enjoy.\n• A gift that reports location, activity, or messages back to the giver isn't neutral.\n• Accepting it without noticing hands over ongoing access, not a one-time object.\n• Most people focus on the gesture and miss the wire running back to the giver.",
+      "theySee": "You accepting the gift graciously while quietly deciding how much access it actually gets.",
+      "signals": [
+        {
+          "icon": "🔗",
+          "l": "Shared access",
+          "t": "The gift requires a shared account, shared location, or shared login."
+        },
+        {
+          "icon": "📍",
+          "l": "Unprompted tracking",
+          "t": "It includes features neither of you discussed needing, like location history."
+        },
+        {
+          "icon": "🛡️",
+          "l": "Framed as safety",
+          "t": "It's presented as being 'just in case' or 'for peace of mind.'"
+        },
+        {
+          "icon": "⚡",
+          "l": "Odd insistence",
+          "t": "They push hard for you to set it up immediately, in front of them."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the function, not the gesture",
+          "desc": "Ask directly what data or access the gift shares, before setting it up."
+        },
+        {
+          "n": "2",
+          "title": "Separate acceptance from activation",
+          "desc": "Take the gift graciously, delay turning on any shared features."
+        },
+        {
+          "n": "3",
+          "title": "Set the terms yourself",
+          "desc": "Decide what you're comfortable sharing, and say so plainly before agreeing to anything."
+        }
+      ],
+      "script": "\"I appreciate this, but I want to set the sharing settings myself, not turn everything on by default.\"",
+      "example": "When her boyfriend gave Rachel a smartwatch and immediately asked to link their location sharing, she thanked him for the watch but said she'd handle the settings herself. She left location sharing off, and he never brought it up again, which told her plenty.",
+      "watchFor": "They push back or seem unusually invested in a specific setting being turned on.",
+      "ifItFails": "They keep pressing after you've set your own boundary, framing your hesitation as distrust or as you having something to hide. That reaction is itself information — don't argue your way out of the accusation. Say plainly: <strong>\"Needing privacy isn't the same as hiding something. This isn't up for more debate.\"</strong> Do not use a shared-tracking gift on someone else either — if you're the one giving it, you're the one running this play, not defending against it.",
+      "counter": "If someone hands you a gift that comes with monitoring built in, you're on the receiving end of this exact move.\n• Notice any gift that needs a shared login, location, or account access to work.\n• Ask directly what it tracks and who can see it before accepting the setup.\n• Set your own sharing settings, on your own device, out of their sight if needed.",
+      "insight": "A gift that watches costs more than its price tag ever shows. The next question is whether the relationship can survive you saying no to the tracking part out loud."
+    },
+    {
+      "id": 30,
+      "cat": "traps",
+      "danger": "low",
+      "title": "Don't Let Instagram Set Your Price",
+      "principle": "Social Proof Manipulation — Anchoring By Curated Comparison",
+      "remember": "Other people's posted gifts are a highlight reel, not a real budget.",
+      "hook": "You're not actually competing with that couple's vacation photo. <strong>You're competing with a filtered version of one good day.</strong>",
+      "when": "You see other couples post lavish gifts or gestures online right before you're planning your own.",
+      "truth": "Posted gifts are the small, curated fraction people choose to broadcast.\n• What you see is the best day out of a hundred ordinary ones.\n• Anchoring your gift to a stranger's post inflates your budget with no relationship benefit.\n• Most people quietly raise their spending to match a number they never had to verify.",
+      "theySee": "A gift that's clearly yours, at your own scale, unaffected by what's trending online.",
+      "signals": [
+        {
+          "icon": "📈",
+          "l": "Budget creep",
+          "t": "You catch yourself increasing your planned spend right after scrolling."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Comparison talk",
+          "t": "You bring up another couple's gift unprompted in conversation."
+        },
+        {
+          "icon": "📸",
+          "l": "Post pressure",
+          "t": "You feel pressure to document your own gift for others to see."
+        },
+        {
+          "icon": "❔",
+          "l": "Vague standard",
+          "t": "You can't say exactly why you picked a number besides that's what people do."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set your budget before you scroll",
+          "desc": "Decide what you're spending before you open any social app that day."
+        },
+        {
+          "n": "2",
+          "title": "Mute the comparison",
+          "desc": "Skip past gift-reveal posts in the days before you're planning your own."
+        },
+        {
+          "n": "3",
+          "title": "Measure against her, not a stranger",
+          "desc": "Judge the gift only by whether it fits her, not whether it matches a post."
+        }
+      ],
+      "script": "\"That's their highlight reel. Not my budget.\"",
+      "example": "Before his girlfriend's birthday, Sam kept seeing extravagant gift videos online and almost doubled his planned budget. He stuck to his original plan, something specific to her, and she never once compared it to anyone else's.",
+      "watchFor": "You stop mentioning other couples' gifts in conversation entirely.",
+      "ifItFails": "She's the one bringing up the comparison, not you, and the online pressure becomes a real conversation between you two. Don't dismiss her feelings as shallow — that shuts the conversation down without solving it. Ask what's actually behind it: <strong>\"Is this about the gift, or about feeling like we don't do enough of this stuff?\"</strong> That question usually finds the real issue behind the borrowed standard.",
+      "counter": "If you notice your own gift budget shifting right after scrolling social media, someone else's curated post is setting your number.\n• Notice the exact moment your planned budget changed and what you were looking at.\n• Ask whether the new number fits your relationship or a stranger's post.\n• Reset to a figure you can explain without mentioning anyone else's gift.",
+      "insight": "Outside comparison is free to generate and expensive to chase. The next problem is telling the difference between a real want she has and a borrowed standard from someone else's feed."
+    }
+  ]
+}
