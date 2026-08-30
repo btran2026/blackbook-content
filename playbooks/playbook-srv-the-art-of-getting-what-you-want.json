@@ -1,0 +1,627 @@
+{
+  "meta": {
+    "id": "srv-the-art-of-getting-what-you-want",
+    "version": "1.0",
+    "title": "The Art of Getting What You Want",
+    "subtitle": "Ten moves that make people say yes",
+    "description": "A field manual on getting agreement out of anyone — anchoring, framing, silence, escalation, and the close. No theory. Just the moves and the second move for when the first one fails.",
+    "author": "AI",
+    "createdAt": "2026-08-30T03:58:30.793Z",
+    "tags": [
+      "persuasion",
+      "negotiation",
+      "influence",
+      "psychology",
+      "power"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#7A1F1F",
+    "coverIcon": "🗝️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "persuasion",
+      "label": "Persuasion",
+      "color": "#C9A227"
+    },
+    {
+      "key": "negotiation",
+      "label": "Negotiation",
+      "color": "#B0413E"
+    },
+    {
+      "key": "influence",
+      "label": "Influence",
+      "color": "#6B4E9E"
+    },
+    {
+      "key": "resistance",
+      "label": "Resistance",
+      "color": "#2E6E62"
+    },
+    {
+      "key": "authority",
+      "label": "Authority",
+      "color": "#3B4A6B"
+    },
+    {
+      "key": "closing",
+      "label": "Closing",
+      "color": "#8A5A2B"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "persuasion",
+      "danger": "low",
+      "title": "Anchor First With a Number That Feels Insane",
+      "principle": "Anchoring Bias — Kahneman & Tversky",
+      "remember": "Say a big number first. It bends everything that comes after.",
+      "hook": "Whoever speaks first sets the scale. <strong>The first number said becomes the ruler everyone measures against.</strong>",
+      "when": "You are about to name a price, a deadline, or a number and no one has said one yet.",
+      "truth": "The brain grabs the first number it hears and judges everything else against it.\n• Your number sets the range before they open their mouth.\n• They start bargaining down from your number, not up from theirs.\n• Go too high with nothing to back it and you look foolish, not strong.",
+      "theySee": "Someone who names a big number without blinking and waits.",
+      "signals": [
+        {
+          "icon": "👀",
+          "l": "Eyebrow flick",
+          "t": "They pause and glance away right after you say the number."
+        },
+        {
+          "icon": "🔁",
+          "l": "Fast pushback",
+          "t": "They repeat your number back like it's a joke."
+        },
+        {
+          "icon": "🤫",
+          "l": "Silence",
+          "t": "They go quiet and start doing math in their head."
+        },
+        {
+          "icon": "⚡",
+          "l": "Counter too fast",
+          "t": "They fire back a low number in under two seconds."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the ceiling",
+          "desc": "Write down the highest number you could say with a straight face."
+        },
+        {
+          "n": "2",
+          "title": "Say it plain",
+          "desc": "State the number flat, no laugh, no 'crazy as it sounds'."
+        },
+        {
+          "n": "3",
+          "title": "Hold the line",
+          "desc": "Wait for their reaction before you explain or defend the number."
+        }
+      ],
+      "script": "\"Here's where I need to start: <strong>$180,000</strong>. Let's work from there.\"",
+      "example": "Derek wanted $90k for the contract. He opened at $150k instead. The client countered at $110k — twenty thousand above what Derek actually needed.",
+      "watchFor": "They start negotiating down from your number instead of stating their own.",
+      "ifItFails": "They laugh it off and refuse to counter at all, treating your opener as noise. Don't retreat to your real number immediately — ask a question instead: <strong>\"What number were you working with before we started?\"</strong> That makes them anchor next, and you can judge the real gap.",
+      "counter": "If someone opens with a wild number, they are anchoring you.\n• Notice the number landed before any facts did.\n• Say: <strong>\"That's a big jump from market — walk me through it.\"</strong>\n• Name your own number next, don't just negotiate down from theirs.",
+      "insight": "Anchoring works because most people negotiate from the number in the room, not the number in their head. The harder part is knowing your ceiling before you walk in — without it, you're just guessing how far you can push."
+    },
+    {
+      "id": 2,
+      "cat": "persuasion",
+      "danger": "low",
+      "title": "Give Them a Reason, Any Reason",
+      "principle": "Cialdini: The 'Because' Heuristic (Langer Copier Study)",
+      "remember": "Add the word because. People say yes to reasons, not requests.",
+      "hook": "People don't obey the request. <strong>They obey the word 'because' attached to it.</strong>",
+      "when": "You need someone to let you skip a line, break a small rule, or move fast for you.",
+      "truth": "The brain accepts almost any reason as long as the word 'because' is attached.\n• A real reason works. A weak reason works almost as well.\n• People stop checking your logic once they hear the trigger word.\n• This dies instantly on big asks — the reason has to match the size of the favor.",
+      "theySee": "Someone who sounds like they have a legitimate reason, not just a want.",
+      "signals": [
+        {
+          "icon": "🙂",
+          "l": "Quick nod",
+          "t": "They nod before you finish the sentence."
+        },
+        {
+          "icon": "🚫",
+          "l": "No follow-up",
+          "t": "They don't ask what the reason actually means."
+        },
+        {
+          "icon": "🚶",
+          "l": "Step aside",
+          "t": "They physically move or make room before you finish talking."
+        },
+        {
+          "icon": "⚡",
+          "l": "Reflex yes",
+          "t": "They say okay in the same breath you stop talking."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Attach a because",
+          "desc": "Add 'because' plus any reason, even an obvious one, to your ask."
+        },
+        {
+          "n": "2",
+          "title": "Keep it short",
+          "desc": "State the reason in five words or fewer, no over-explaining."
+        },
+        {
+          "n": "3",
+          "title": "Ask and move",
+          "desc": "Make the ask and start moving before they can think it over."
+        }
+      ],
+      "script": "\"Can I jump in front of you? I only have five pages, because I'm on a deadline.\"",
+      "example": "Priya needed the copier first. She said, 'Can I go ahead, because I have to make copies?' — a reason that explained nothing. The man behind her stepped aside anyway.",
+      "watchFor": "They step aside or agree before processing what the reason actually means.",
+      "ifItFails": "They ask a follow-up question, which means the reason didn't land and now you need a real one. Have your actual reason ready as backup: <strong>\"Fair question — I've got a meeting in four minutes and this is the last thing I need.\"</strong> A specific detail beats a vague one on the second try.",
+      "counter": "If someone slips 'because' onto a strange request, check if the reason actually explains anything.\n• Notice you agreed before you evaluated the logic.\n• Ask: <strong>\"Because why, exactly?\"</strong>\n• Make them justify the size of the ask against the size of the reason.",
+      "insight": "This works because most people process 'because' as a signal, not a sentence. The real skill is knowing which asks are small enough for a weak reason and which ones need a true one."
+    },
+    {
+      "id": 3,
+      "cat": "negotiation",
+      "danger": "moderate",
+      "title": "Ask for More Than You Want First",
+      "principle": "Cialdini: Reciprocal Concessions (Door-in-the-Face)",
+      "remember": "Ask big, get told no, then ask for what you actually wanted.",
+      "hook": "The first no isn't a loss. <strong>It's the setup for the yes you actually wanted.</strong>",
+      "when": "You need a favor or a deal and you know your real ask might get refused on its own.",
+      "truth": "A refusal creates pressure on the other side to give ground somewhere.\n• Your first ask is designed to get rejected, not accepted.\n• Once they say no, they feel they owe you a concession back.\n• Push it twice and they see the setup — one big ask, one real ask, no more.",
+      "theySee": "Someone who asked for a lot, took the no well, and came back reasonable.",
+      "signals": [
+        {
+          "icon": "😬",
+          "l": "Guilty pause",
+          "t": "They hesitate before saying no to the first ask."
+        },
+        {
+          "icon": "🎙️",
+          "l": "Softer tone",
+          "t": "Their voice gets warmer right after they refuse you."
+        },
+        {
+          "icon": "⚡",
+          "l": "Quick yes",
+          "t": "They agree to the second ask faster than normal."
+        },
+        {
+          "icon": "💬",
+          "l": "Over-explaining",
+          "t": "They explain why they said no without you asking."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set the big ask",
+          "desc": "Open with a request one size above what you actually want."
+        },
+        {
+          "n": "2",
+          "title": "Accept the no gracefully",
+          "desc": "Say 'okay, I understand' with no pushback or sulking."
+        },
+        {
+          "n": "3",
+          "title": "Drop to the real ask",
+          "desc": "Within the same conversation, ask for what you originally wanted."
+        }
+      ],
+      "script": "\"Could you cover my shift the whole weekend? ... No worries. Could you at least take Saturday?\"",
+      "example": "Tom asked his neighbor to watch his dog for two weeks. She said no. He asked for just the weekend — she said yes immediately, relieved to give something.",
+      "watchFor": "They agree to the smaller ask faster than they would have cold.",
+      "ifItFails": "They say no to the second ask too, which means the guilt didn't stick or you asked too soon after the first no. Let a full day pass, then come back with a smaller favor unrelated to money or time: <strong>\"No problem on the dog — could you grab my mail while I'm gone instead?\"</strong> A different type of ask resets the exchange.",
+      "counter": "If someone's first ask feels absurd, they may be setting up a smaller one.\n• Notice the second ask always looks reasonable by comparison.\n• Say: <strong>\"Let me think about what actually works for me, not what you're offering.\"</strong>\n• Judge the real ask on its own, not against the fake one before it.",
+      "insight": "This works because refusal feels like a debt to most people, even when no debt exists. The harder part is timing the drop — too fast and it reads as a script, too slow and the guilt fades."
+    },
+    {
+      "id": 4,
+      "cat": "negotiation",
+      "danger": "low",
+      "title": "Go Silent After You Name Your Price",
+      "principle": "Voss: Tactical Silence",
+      "remember": "Say your number, then stop talking. Let them fill the gap.",
+      "hook": "Silence feels like losing. <strong>It's actually the loudest thing you can say.</strong>",
+      "when": "You just named your price, your terms, or your ask, and the room goes quiet.",
+      "truth": "Whoever talks first after a number usually gives something away.\n• Silence pressures the other side to react, explain, or offer something.\n• They read your quiet as confidence, not doubt.\n• Break first and you hand them the next move for free.",
+      "theySee": "Someone who is completely comfortable with the number just sitting there.",
+      "signals": [
+        {
+          "icon": "🦵",
+          "l": "Fidgeting",
+          "t": "They shift in their seat or check their phone."
+        },
+        {
+          "icon": "💬",
+          "l": "Filler talk",
+          "t": "They start talking just to fill the quiet."
+        },
+        {
+          "icon": "🎁",
+          "l": "Early concession",
+          "t": "They offer something you didn't ask for."
+        },
+        {
+          "icon": "👁️",
+          "l": "Eye contact break",
+          "t": "They look away first."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State the number once",
+          "desc": "Say your price or term one time, clearly, no hedge words."
+        },
+        {
+          "n": "2",
+          "title": "Close your mouth",
+          "desc": "Stop talking the instant the number leaves your mouth."
+        },
+        {
+          "n": "3",
+          "title": "Count to ten in your head",
+          "desc": "Hold the silence even if it feels unbearably long."
+        }
+      ],
+      "script": "\"$4,200 for the full job.\" (then nothing)",
+      "example": "Ana quoted $4,200 and stopped talking. The client shifted twice, then said, 'Okay — can you throw in the extra visit?' She said yes to a $200 add-on she'd already planned to offer for free.",
+      "watchFor": "They speak next and offer something before you say another word.",
+      "ifItFails": "They out-wait you and the silence turns awkward without a concession coming. Don't blink and restate the number lower — ask a question instead: <strong>\"What's making you pause?\"</strong> That hands the silence back to them without you giving anything up.",
+      "counter": "If someone goes quiet right after a number, they're waiting you out.\n• Notice the urge to fill the silence is the trap, not politeness.\n• Say nothing back — match their silence instead of talking.\n• If you must speak, ask a question, never offer a concession.",
+      "insight": "This works because silence reads as strength to a brain wired to fill gaps. The harder part is training yourself to sit in a silence that feels ten times longer than it actually is."
+    },
+    {
+      "id": 5,
+      "cat": "influence",
+      "danger": "moderate",
+      "title": "Let Them Think It Was Their Idea",
+      "principle": "Psychological Ownership Effect",
+      "remember": "People defend ideas they think they had. Give them the idea quietly.",
+      "hook": "Nobody fights for your idea. <strong>Everybody fights for their own.</strong>",
+      "when": "You have a good idea but the person who needs to approve it resents being told what to do.",
+      "truth": "People protect and push ideas they believe they thought of themselves.\n• Plant the idea as a question, not a statement, and let them land on it.\n• They now defend it to other people, doing your selling for you.\n• Take credit out loud later and you kill the ownership that made it work.",
+      "theySee": "Someone who asked a curious question, not someone who pitched a plan.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeats it back",
+          "t": "They restate your idea in their own words within minutes."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Uses 'I'",
+          "t": "They say 'I think we should' about a point you raised."
+        },
+        {
+          "icon": "📤",
+          "l": "Pitches it up",
+          "t": "They bring it to their boss or team as their own plan."
+        },
+        {
+          "icon": "🛡️",
+          "l": "Defends it",
+          "t": "They argue for it when someone else pushes back."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Turn it into a question",
+          "desc": "Ask 'What if we tried X?' instead of saying 'We should do X.'"
+        },
+        {
+          "n": "2",
+          "title": "Let them finish the thought",
+          "desc": "Stay quiet while they build out the idea in their own words."
+        },
+        {
+          "n": "3",
+          "title": "Feed it back as theirs",
+          "desc": "Say 'like you said' the next time the idea comes up."
+        }
+      ],
+      "script": "\"What if the deadline moved up a week — would that even help you?\"",
+      "example": "Marcus wanted his manager to change the review cycle. He asked, 'What if reviews happened quarterly instead?' His manager announced the change the next week, calling it 'a shift I've been considering.'",
+      "watchFor": "They start using 'I' language about your idea within the same conversation.",
+      "ifItFails": "They agree the idea is good but give credit to someone else in the room, cutting you out of the story entirely. Don't correct the record in front of people — pull them aside after: <strong>\"Glad it's moving — want me to help build it out since I know the details?\"</strong> That puts you back inside the work without a fight over credit.",
+      "counter": "If a question keeps steering you toward one conclusion, someone may be planting it.\n• Notice you're doing all the talking while they just nod and ask questions.\n• Say: <strong>\"This sounds like it's coming from somewhere — what's the actual ask?\"</strong>\n• Name the idea as a joint one out loud before it gets used against you.",
+      "insight": "This works because ownership beats logic almost every time. The harder part is staying quiet enough, long enough, to let someone else finish claiming the idea."
+    },
+    {
+      "id": 6,
+      "cat": "influence",
+      "danger": "low",
+      "title": "Stack Three Small Yeses Before the Real Ask",
+      "principle": "Cialdini: Consistency Principle (Foot-in-the-Door)",
+      "remember": "Get three small yeses first. The big yes gets easier every time.",
+      "hook": "People don't want to look like they changed their mind. <strong>Every yes locks the next one in.</strong>",
+      "when": "You have one real ask and worry it's too big to land cold.",
+      "truth": "Once someone agrees a few times, saying no starts to feel inconsistent.\n• Each small yes builds a private story: 'I'm the kind of person who helps.'\n• The real ask now conflicts with that story if they refuse.\n• Stack too many and the pattern becomes obvious — they'll feel played.",
+      "theySee": "Someone asking a series of small, reasonable, easy-to-agree-with things.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Fast agreement",
+          "t": "They say yes to the small asks without pausing."
+        },
+        {
+          "icon": "🔁",
+          "l": "Rhythm forms",
+          "t": "Their answers get shorter and more automatic each time."
+        },
+        {
+          "icon": "🙂",
+          "l": "Tone stays warm",
+          "t": "They keep the same friendly tone through each ask."
+        },
+        {
+          "icon": "🚫",
+          "l": "No pushback pattern",
+          "t": "They haven't said no once yet."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Line up three small asks",
+          "desc": "Pick three easy requests that lead naturally toward the real one."
+        },
+        {
+          "n": "2",
+          "title": "Space them out",
+          "desc": "Ask each one a few minutes or a day apart, not back to back."
+        },
+        {
+          "n": "3",
+          "title": "Land the real ask last",
+          "desc": "Make the final ask sound like the natural next step, not a new one."
+        }
+      ],
+      "script": "\"Could you glance at this doc? ... Could you add a comment? ... Since you're already in it — want to be the reviewer on the launch?\"",
+      "example": "Sana got a coworker to glance at her deck, then leave one comment, then join a five-minute call. By the third ask, he agreed to co-present it — something he'd refused a week earlier.",
+      "watchFor": "They agree to the real ask without hesitating the way they would cold.",
+      "ifItFails": "They catch the pattern and say, 'Feels like you're building up to something' — the escalation is now visible and dead. Drop the sequence and go direct: <strong>\"You're right, I do need the bigger thing — can we just talk about that?\"</strong> Honesty recovers more trust than pretending it wasn't a pattern.",
+      "counter": "If someone's small asks keep escalating, check where they're leading.\n• Notice each yes is making the next ask harder to refuse.\n• Say: <strong>\"Before I agree to more — what's this actually building toward?\"</strong>\n• Judge the real ask on its own weight, not on your streak of yeses.",
+      "insight": "This works because consistency feels like integrity to the person doing it. The harder part is picking small asks that actually lead where you need them to go."
+    },
+    {
+      "id": 7,
+      "cat": "resistance",
+      "danger": "low",
+      "title": "Use a Calibrated Question to Make Them Solve Your Problem",
+      "principle": "Voss: Calibrated Questions ('How am I supposed to do that?')",
+      "remember": "Ask how, not tell them no. Make them fix your problem for you.",
+      "hook": "Saying no starts a fight. <strong>Asking a question makes them do the work of saying yes.</strong>",
+      "when": "Someone asks for something you can't or won't give at those terms.",
+      "truth": "An open 'how' question hands your problem to them without an argument.\n• They start solving your constraint instead of pushing their demand.\n• It feels collaborative, so they don't feel refused.\n• Ask a yes/no question instead and you're back to a flat standoff.",
+      "theySee": "Someone who seems stuck and genuinely wants their help figuring it out.",
+      "signals": [
+        {
+          "icon": "🤔",
+          "l": "Thinking pause",
+          "t": "They go quiet and think instead of repeating the demand."
+        },
+        {
+          "icon": "📋",
+          "l": "Offers options",
+          "t": "They suggest two or three ways to make it work."
+        },
+        {
+          "icon": "🎙️",
+          "l": "Tone softens",
+          "t": "Their voice loses the pushy edge from before."
+        },
+        {
+          "icon": "⏳",
+          "l": "Drops urgency",
+          "t": "They stop insisting on the original deadline or number."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Don't say no flat out",
+          "desc": "Skip 'that won't work' and go straight to a how question."
+        },
+        {
+          "n": "2",
+          "title": "Ask how",
+          "desc": "Say 'How am I supposed to do that with the budget I have?'"
+        },
+        {
+          "n": "3",
+          "title": "Let them fill the silence",
+          "desc": "Stop talking and let them propose the fix."
+        }
+      ],
+      "script": "\"I hear you need it Friday. How am I supposed to do that with the team I've got right now?\"",
+      "example": "Leo's client demanded a rush delivery with no extra budget. He asked, 'How am I supposed to hit Friday without more hands?' The client found budget for overtime by the next email.",
+      "watchFor": "They start proposing solutions instead of repeating their original demand.",
+      "ifItFails": "They shrug and say 'that's your problem to figure out,' handing it right back to you. Follow with a narrower version: <strong>\"Okay — then which part matters more to you, the date or the scope?\"</strong> Forcing a choice beats absorbing their whole problem.",
+      "counter": "If someone answers your demand with a 'how' question, they're deflecting it back to you.\n• Notice you're now doing their problem-solving for free.\n• Say: <strong>\"That's what I'm paying you to figure out.\"</strong>\n• Refuse to propose the fix — hold the original ask in place.",
+      "insight": "This works because a question feels like teamwork, not refusal. The harder part is asking it without sounding like you're stalling — tone carries the whole move."
+    },
+    {
+      "id": 8,
+      "cat": "resistance",
+      "danger": "moderate",
+      "title": "Give Them a Way to Say Yes Without Losing Face",
+      "principle": "Sun Tzu: Leave a Golden Bridge for the Retreating Enemy",
+      "remember": "Never corner them. Give them a way to fold that still looks like winning.",
+      "hook": "A cornered person fights, not folds. <strong>Give them an exit that looks like a win.</strong>",
+      "when": "Someone is dug into a position and backing down would make them look weak.",
+      "truth": "People will lose a deal before they'll lose face in front of others.\n• Give their retreat a story that protects their pride.\n• They take the exit because it costs them nothing socially.\n• Force them to admit they were wrong and they'll dig in instead.",
+      "theySee": "Someone offering a graceful way out, not a public surrender.",
+      "signals": [
+        {
+          "icon": "😌",
+          "l": "Relief in posture",
+          "t": "Their shoulders drop after you offer the out."
+        },
+        {
+          "icon": "🔁",
+          "l": "Takes the story",
+          "t": "They repeat your framing back as their own reasoning."
+        },
+        {
+          "icon": "⚡",
+          "l": "Quick agreement",
+          "t": "They agree faster once no one else is watching."
+        },
+        {
+          "icon": "📢",
+          "l": "Saves face publicly",
+          "t": "They announce the change using your excuse, not an apology."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Build the excuse for them",
+          "desc": "Invent a reason unrelated to being wrong: 'new information,' 'timing,' 'budget shifted.'"
+        },
+        {
+          "n": "2",
+          "title": "Offer it privately first",
+          "desc": "Give them the out one-on-one before any public conversation."
+        },
+        {
+          "n": "3",
+          "title": "Let them use it as their own",
+          "desc": "Don't correct them when they repeat your excuse as their idea."
+        }
+      ],
+      "script": "\"New numbers came in from finance — might be worth revisiting the plan, no fault on either side.\"",
+      "example": "Rita's boss refused to reverse a bad call in front of the team. Privately, she said, 'The vendor changed terms — this might be the moment to pivot.' He announced the reversal at the next meeting, crediting the vendor.",
+      "watchFor": "They use your excuse publicly instead of defending the original position.",
+      "ifItFails": "They reject the excuse and double down in front of others, now more locked in than before. Stop pushing the reversal directly — table it: <strong>\"Let's revisit this after the next data point comes in.\"</strong> A delay costs less than a public loss and reopens the door later.",
+      "counter": "If someone hands you a convenient excuse to change your mind, notice the gift.\n• See that the excuse lets you exit without admitting fault.\n• Ask yourself if the position was actually wrong or just inconvenient for them.\n• Take the exit if it serves you — don't refuse it out of stubborn pride.",
+      "insight": "This works because face matters more than facts to most people under pressure. The harder part is inventing an excuse good enough that they can say it with a straight face."
+    },
+    {
+      "id": 9,
+      "cat": "authority",
+      "danger": "high",
+      "title": "Never Skip a Rung on the Ladder",
+      "principle": "Chain-of-Command Capital — Machiavelli: Use Intermediaries",
+      "remember": "Ask the person in charge before you go over their head. Spend that move once.",
+      "hook": "Going over someone's head works exactly once. <strong>After that, everyone below you stops trusting you.</strong>",
+      "when": "You're stuck on a decision and you're tempted to skip your manager and go straight to their boss.",
+      "truth": "Skipping a rung buys a fast answer and a slow, permanent cost.\n• The person you skipped finds out — they always find out.\n• You get labeled as someone who goes around people, not through them.\n• Use this move without warning first and there's no walking it back.",
+      "theySee": "Someone who respected the process and only escalated because they had to.",
+      "signals": [
+        {
+          "icon": "🤐",
+          "l": "Silence after",
+          "t": "Your manager goes quiet or short with you for weeks after."
+        },
+        {
+          "icon": "🔒",
+          "l": "Info gets cut",
+          "t": "You stop getting looped into decisions you used to see."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Whispered warning",
+          "t": "A colleague tells you 'people are talking' about how you handled it."
+        },
+        {
+          "icon": "📧",
+          "l": "Formal only",
+          "t": "Communication with your manager turns strictly professional."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask directly first",
+          "desc": "Tell your manager exactly what you need and give them a real deadline."
+        },
+        {
+          "n": "2",
+          "title": "Say the escalation out loud",
+          "desc": "Warn them before you go up: 'If this isn't resolved by Friday, I'll ask Dana.'"
+        },
+        {
+          "n": "3",
+          "title": "Keep the ask factual",
+          "desc": "When you do escalate, describe the situation, not the person who blocked you."
+        }
+      ],
+      "script": "\"I've asked twice and I'm still blocked. I'm going to loop in Dana Friday if we can't resolve it before then — wanted you to hear that from me first.\"",
+      "example": "Jordan warned his manager before escalating a stalled approval. His manager, given the notice, pushed it through the same day — no surprise, no damage to the relationship.",
+      "watchFor": "They move faster once they know the escalation is coming, not after it lands.",
+      "ifItFails": "They ignore the warning and the deadline passes with nothing moved. Escalate exactly as promised, and lead with the paper trail: <strong>\"I gave Alex until Friday and flagged the risk — here's the thread, here's what I need from you.\"</strong> Following through on the warning is what makes the next warning work. Do not use this move against someone who controls your reviews without a paper trail already in place.",
+      "counter": "If someone warns you before escalating past you, they're giving you a last chance, not a threat.\n• Notice the warning is a real deadline, not a bluff, if they've kept promises before.\n• Say: <strong>\"Understood — give me until Thursday and I'll have an answer.\"</strong>\n• Move the thing rather than testing whether they'll actually escalate.",
+      "insight": "This works because most people never warn before they escalate, so the warning itself feels rare and respectful. The harder part is following through when the deadline passes and nothing changed."
+    },
+    {
+      "id": 10,
+      "cat": "closing",
+      "danger": "low",
+      "title": "Get the Yes Locked Before Doubt Creeps In",
+      "principle": "Commitment Consistency — Post-Decision Doubt Window",
+      "remember": "Get it in writing fast. A yes left alone starts to shrink.",
+      "hook": "A yes is a soft thing. <strong>Left alone overnight, it starts finding reasons to become a no.</strong>",
+      "when": "Someone just said yes to your ask, out loud, and nothing is written down yet.",
+      "truth": "Doubt grows fastest in the gap between a spoken yes and a recorded one.\n• A yes with no follow-up leaves room for someone else to talk them out of it.\n• Confirming it in writing turns a feeling into a commitment they now owe.\n• Wait a day and you're re-selling the whole thing from zero.",
+      "theySee": "Someone organized and on top of it, not someone rushing them.",
+      "signals": [
+        {
+          "icon": "😴",
+          "l": "Delay signals",
+          "t": "They say 'let me sleep on it' right after already saying yes."
+        },
+        {
+          "icon": "👥",
+          "l": "Third party mention",
+          "t": "They bring up checking with a spouse, boss, or partner."
+        },
+        {
+          "icon": "🐢",
+          "l": "Slow reply",
+          "t": "Their response time to your follow-up text gets longer."
+        },
+        {
+          "icon": "🤷",
+          "l": "Hedge language",
+          "t": "They start using 'probably' or 'should be fine' instead of 'yes.'"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Confirm on the spot",
+          "desc": "Say the agreement back out loud the second they say yes."
+        },
+        {
+          "n": "2",
+          "title": "Send it in writing same day",
+          "desc": "Text or email the details within the hour, not the next morning."
+        },
+        {
+          "n": "3",
+          "title": "Ask for one small action",
+          "desc": "Get them to reply, sign, or pay a deposit — anything that locks it."
+        }
+      ],
+      "script": "\"Great — I'll send the confirmation now so we both have it. Can you reply 'confirmed' once you see it?\"",
+      "example": "Wei closed a client verbally at 4pm and sent the contract by 4:15. The client signed that night. A colleague who waited until morning lost an identical deal to a competitor's faster follow-up.",
+      "watchFor": "They reply to your written confirmation the same day instead of going quiet.",
+      "ifItFails": "They go quiet after the written confirmation and don't reply within a day or two. Don't send a bigger ask or a discount — send a smaller, easier one: <strong>\"No rush on the full agreement — can you just confirm the date works?\"</strong> A tiny yes restarts the momentum the silence killed.",
+      "counter": "If someone rushes you to confirm right after you say yes, notice the speed.\n• See that fast confirmation is meant to lock you in before you reconsider.\n• Say: <strong>\"Send it over — I'll confirm once I've had a look.\"</strong>\n• Take the night if you actually need it; don't let speed replace your own judgment.",
+      "insight": "This works because commitment fades fast once the conversation ends and real life interrupts it. The harder part is closing quickly without making the other person feel rushed into it."
+    }
+  ]
+}
