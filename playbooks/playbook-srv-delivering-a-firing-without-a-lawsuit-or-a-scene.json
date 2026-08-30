@@ -1,0 +1,997 @@
+{
+  "meta": {
+    "id": "srv-delivering-a-firing-without-a-lawsuit-or-a-scene",
+    "version": "1.0",
+    "title": "Delivering a Firing Without a Lawsuit or a Scene",
+    "subtitle": "The twelve-minute meeting, run like a pro",
+    "description": "Sixteen cards on how to end someone's job without a courtroom, a viral post, or a screaming match in the hallway. Written for the person who has to say the words. Covers the paperwork before the room, the first sentence, every reaction they can throw at you, the lines that create liability, the logistics of the same afternoon, and the team you still have to lead on Monday.",
+    "author": "AI",
+    "createdAt": "2026-08-28T21:21:43.838Z",
+    "tags": [
+      "management",
+      "firing",
+      "hr",
+      "conflict",
+      "legal-risk",
+      "difficult-conversations",
+      "leadership"
+    ],
+    "totalCards": 16,
+    "isSeeded": true,
+    "coverColor": "#8B1E2D",
+    "coverIcon": "🗝️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "before",
+      "label": "Before the Room",
+      "color": "#7C4A3A"
+    },
+    {
+      "key": "first",
+      "label": "The First Sentence",
+      "color": "#8B1E2D"
+    },
+    {
+      "key": "reaction",
+      "label": "Their Reaction",
+      "color": "#B05A2A"
+    },
+    {
+      "key": "notsay",
+      "label": "What You Must Not Say",
+      "color": "#5C4B8A"
+    },
+    {
+      "key": "logistics",
+      "label": "The Logistics",
+      "color": "#2F6B5F"
+    },
+    {
+      "key": "after",
+      "label": "After They Leave",
+      "color": "#3A4C7C"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "before",
+      "danger": "high",
+      "title": "Build the Paper Trail Before You Book the Meeting",
+      "principle": "Sun Tzu: Win First, Then Go to Battle",
+      "remember": "Write the record before the meeting, never after.",
+      "when": "You have decided to fire someone but the file has no written warnings in it.",
+      "hook": "A firing is decided in the file, not in the room. <strong>If it is not written down, it did not happen.</strong>",
+      "truth": "Lawyers do not read your intentions. They read dates.\n• A dated record turns your opinion into a fact.\n• Their lawyer looks for the gap between your story and the file.\n• Most managers write the record after the firing. That date kills you.",
+      "theySee": "A manager who sends short written recaps after every one-on-one.",
+      "signals": [
+        {
+          "icon": "📁",
+          "l": "Empty file",
+          "t": "You cannot name a written warning with a date on it"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Verbal only",
+          "t": "You gave the feedback out loud and never sent it in writing"
+        },
+        {
+          "icon": "⭐",
+          "l": "Good reviews",
+          "t": "Their last review says they meet expectations"
+        },
+        {
+          "icon": "📈",
+          "l": "Recent raise",
+          "t": "You approved a raise or bonus in the last six months"
+        },
+        {
+          "icon": "⏱️",
+          "l": "No dates",
+          "t": "You remember the problems but not when they happened"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the dates",
+          "desc": "Write every incident with a date, what happened, and who saw it. No adjectives."
+        },
+        {
+          "n": "2",
+          "title": "Send the recap",
+          "desc": "Email them a short summary of the last conversation and what must change by when."
+        },
+        {
+          "n": "3",
+          "title": "Check the raise",
+          "desc": "Pull their last review and any bonus. If it praises them, fix the record before you move."
+        }
+      ],
+      "script": "\"Recap of today so we both have it in writing: the three deadlines we discussed were missed on the 3rd, the 11th, and the 19th. <strong>The plan is that the next two ship on time. I will check on the 30th.</strong>\"",
+      "watchFor": "They reply to your recap email and argue the details instead of the dates.",
+      "example": "Dana wanted to fire an engineer in March. His file held nothing but a glowing review from January. She stopped, wrote a 30-day plan with three dated checkpoints, and emailed it. He missed two of three. The firing in May took eleven minutes and no lawyer ever called.",
+      "ifItFails": "HR reads your file and says it is too thin to fire on. Do not argue for an exception — you will lose and be remembered for asking. Ask for the exact standard instead, in writing: \"Tell me what the file needs, and I will have it in 30 days.\" Then send the plan to the employee the same day.",
+      "counter": "If your boss suddenly starts emailing you recaps of your own work, the file is being built on you.\n• Notice the shift from talking to writing. That is the tell.\n• Reply in writing every time: \"Here is what I delivered, with dates.\"\n• Start your own file. Save the praise emails somewhere off the company laptop.",
+      "insight": "Do not run a thin firing on someone who has a lawyer's phone number and a reason to use it. The paper trail is not proof you were right — it is proof you were consistent. The harder question is whether you treated the other three people on your team the same way."
+    },
+    {
+      "id": 2,
+      "cat": "before",
+      "danger": "high",
+      "title": "Get HR and Legal to Sign Off in Writing",
+      "principle": "Schelling: Commitment Through a Third Party",
+      "remember": "Never fire alone. Get the yes in an email.",
+      "when": "HR told you on a call that the firing is fine, and nothing about it is in writing.",
+      "hook": "A verbal yes from HR disappears the moment the claim lands. <strong>Get it in a sentence you can forward.</strong>",
+      "truth": "HR protects the company. On a bad day, you are not the company.\n• A written sign-off moves the decision from you to the company.\n• If it goes wrong, the defense is institutional, not personal.\n• Most managers accept a hallway nod. That nod cannot be forwarded.",
+      "theySee": "A manager who sends a tight summary and asks for a one-word confirmation.",
+      "signals": [
+        {
+          "icon": "📞",
+          "l": "Phone only",
+          "t": "HR gives approvals on calls and never follows up in email"
+        },
+        {
+          "icon": "🌫️",
+          "l": "Soft words",
+          "t": "They say you should be fine rather than yes, proceed"
+        },
+        {
+          "icon": "🔁",
+          "l": "Passing it back",
+          "t": "They ask what you want to do instead of telling you"
+        },
+        {
+          "icon": "📅",
+          "l": "No date set",
+          "t": "Nobody has named the termination date out loud"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the summary",
+          "desc": "Send HR five lines: name, reason, dates of warnings, planned date, severance offer."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the word",
+          "desc": "End the email with: please reply approved or hold. Nothing else."
+        },
+        {
+          "n": "3",
+          "title": "Save the reply",
+          "desc": "Keep the approval email in a folder with the file. Do not delete the thread."
+        }
+      ],
+      "script": "\"Here is the summary for Marcus: three dated warnings, plan closed on the 12th, proposed last day Friday. <strong>Please reply 'approved' or 'hold' so I have it on record before I book the room.</strong>\"",
+      "watchFor": "HR replies with the single word you asked for instead of a paragraph of hedging.",
+      "example": "Priya sent HR a five-line summary and asked for one word. HR replied \"approved\" in nine minutes. Four months later the ex-employee filed a complaint. Priya forwarded the thread once and was never asked about it again.",
+      "ifItFails": "HR stalls or answers with vague comfort. Read the stall as a no. Send one more email that names the risk and the clock: \"Without written approval I will hold the meeting scheduled for Friday. Tell me what you need to approve it.\" Silence after that is your answer — do not fire on it.",
+      "counter": "If someone asks you to make a call verbally and refuses to put it in email, they are moving the risk to you.\n• Notice who owns the decision if it goes wrong. Usually you.\n• Say: \"Send me that in an email and I will run it.\"\n• If no email comes, do not act. Write down that you asked.",
+      "insight": "Do not push HR into a rushed approval if you plan to fire during a protected leave or right after a complaint — that timing is the first thing a lawyer checks. Written sign-off makes the firing survivable. The next question is whether HR will actually sit in the room with you, or just approve from a distance."
+    },
+    {
+      "id": 3,
+      "cat": "before",
+      "danger": "moderate",
+      "title": "Pick the Room, the Day, and the Exit Route",
+      "principle": "Sun Tzu: Ground — Choose the Terrain",
+      "remember": "Pick a private room with a door near the stairs.",
+      "when": "You have approval to fire and you are about to send a calendar invite.",
+      "hook": "The room decides whether this is a conversation or a performance. <strong>Glass walls turn a firing into theater.</strong>",
+      "truth": "Scenes need an audience. Remove the audience and most scenes die.\n• A private room with a close door cuts the crowd to zero.\n• They can leave without walking past twenty desks.\n• Most managers book the glass conference room because it was free.",
+      "signals": [
+        {
+          "icon": "🪟",
+          "l": "Glass walls",
+          "t": "The only free room has clear walls facing the floor"
+        },
+        {
+          "icon": "🚪",
+          "l": "Long walk",
+          "t": "The exit from the room passes their whole team"
+        },
+        {
+          "icon": "📅",
+          "l": "Bad slot",
+          "t": "You booked it right before their team standup"
+        },
+        {
+          "icon": "🎂",
+          "l": "Bad day",
+          "t": "It lands on their birthday or their work anniversary"
+        }
+      ],
+      "theySee": "A calendar invite for 30 minutes with a manager and one other name on it.",
+      "steps": [
+        {
+          "n": "1",
+          "title": "Book the closed room",
+          "desc": "Pick a room with solid walls near a side door or stairwell. Hold it for an hour."
+        },
+        {
+          "n": "2",
+          "title": "Set the time",
+          "desc": "Choose a mid-morning slot early in the week. Avoid Friday at 4pm and avoid holidays."
+        },
+        {
+          "n": "3",
+          "title": "Walk the route",
+          "desc": "Walk from the room to the building exit yourself. Count who they would pass."
+        }
+      ],
+      "script": "\"I have booked us the small room on the fourth floor at 10 on Tuesday. <strong>Sarah from HR will join.</strong> Thirty minutes.\"",
+      "watchFor": "They arrive alone and sit down without asking what the meeting is about.",
+      "example": "Tom moved a firing out of the glass room and into a windowless office by the fire stairs. The employee cried for two minutes, walked down the stairs, and nobody on the floor knew until the email went out. His previous firing, in the glass room, was on Slack within four minutes.",
+      "ifItFails": "They guess the topic and refuse the invite, or they show up with a colleague. Do not fight over the invite. Say it plainly and offer the choice back: \"This is a conversation about your role and it has to happen today. You can come at 10 or at 2. Pick one.\" Send the second time by email so it is on record.",
+      "counter": "If your manager books an odd 30-minute meeting with HR on the invite, you already know.\n• Check who else is invited. HR on the list means the decision is made.\n• Say nothing before the meeting. Do not send a defensive email.\n• Back up your personal files and contacts that night, not the next morning.",
+      "insight": "Do not book Friday afternoon because it feels kinder — it hands them a weekend with no HR to call and a lot of time to build a case. Terrain buys you quiet. The harder part is the first twelve seconds inside the room."
+    },
+    {
+      "id": 4,
+      "cat": "before",
+      "danger": "moderate",
+      "title": "Have the Severance Offer Printed Before You Sit Down",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Bring the paper. An offer in hand cools the room.",
+      "when": "You are about to fire someone and the severance terms are still being finalized.",
+      "hook": "A firing with nothing in your hand is a wound. <strong>A firing with an envelope is a transaction.</strong>",
+      "truth": "People sue when the only thing they leave with is anger.\n• A printed number moves them from feeling to arithmetic.\n• They start thinking about rent and health cover, not revenge.\n• Most managers say the number will come later. That gap is where lawyers get hired.",
+      "theySee": "A manager who slides a folder across the table within the first two minutes.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "No paper",
+          "t": "You planned to explain the package out loud"
+        },
+        {
+          "icon": "❓",
+          "l": "Open number",
+          "t": "Finance has not confirmed the final amount"
+        },
+        {
+          "icon": "🏥",
+          "l": "Health gap",
+          "t": "Nobody has written down when their health cover ends"
+        },
+        {
+          "icon": "✍️",
+          "l": "No release",
+          "t": "There is no signed release form in the packet"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get the number",
+          "desc": "Confirm the exact severance amount and the last day of health cover with HR."
+        },
+        {
+          "n": "2",
+          "title": "Print two copies",
+          "desc": "Print the letter, the release, and a one-page summary of dates and money."
+        },
+        {
+          "n": "3",
+          "title": "Mark the deadline",
+          "desc": "Highlight the date the offer expires and the number to call with questions."
+        }
+      ],
+      "script": "\"This folder has everything: your last day, twelve weeks of pay, health cover through November 30, and the release form. <strong>You have 21 days to sign it. Do not sign it today.</strong>\"",
+      "watchFor": "They open the folder and start reading the number while you are still talking.",
+      "example": "Alan handed a printed packet across the table in minute two. The employee stopped mid-sentence, read the severance figure, and asked about health cover for his daughter. The meeting ended in nine minutes. He signed the release on day eighteen.",
+      "ifItFails": "They push the folder back and say they will not take it. Do not sell it. Leave it and shift who has to act: \"Then take it home unopened. The offer stands for 21 days and the number to call is on the front page.\" Mail a second copy to their home address that afternoon.",
+      "counter": "If someone hands you money on the same day they hand you bad news, they are buying something.\n• Notice what you sign. The release usually gives up your right to sue.\n• Say: \"I will read this with someone and get back to you before the deadline.\"\n• Never sign in the room. Take the full window every time.",
+      "insight": "Do not hand over a packet you cannot fund — a promised number that shrinks later turns a quiet exit into a claim. The envelope buys quiet, not loyalty. The real question is what you are paying for: their silence, their signature, or just a calm walk to the door."
+    },
+    {
+      "id": 5,
+      "cat": "first",
+      "danger": "high",
+      "title": "Say the Word Fired in the First Thirty Seconds",
+      "principle": "Voss: Accusation Audit — Lead With the Bad News",
+      "remember": "Say it in the first thirty seconds. No warm-up.",
+      "when": "You sit down across from the person you are about to fire.",
+      "hook": "Every second of small talk makes the drop harder. <strong>Say it before they finish sitting down.</strong>",
+      "truth": "Hope is what makes people fight. Kill hope fast and cleanly.\n• A flat first sentence tells them the decision is already made.\n• They stop building arguments because there is nothing to argue against.\n• Most managers warm up for two minutes. Those two minutes build hope, then anger.",
+      "theySee": "A manager who sits down, makes eye contact, and says the decision in one sentence.",
+      "signals": [
+        {
+          "icon": "☕",
+          "l": "Small talk",
+          "t": "You catch yourself asking about their weekend"
+        },
+        {
+          "icon": "🌀",
+          "l": "Long wind-up",
+          "t": "You start with as you know, this has been a hard quarter"
+        },
+        {
+          "icon": "🙈",
+          "l": "No eye contact",
+          "t": "You look at your notes instead of at them"
+        },
+        {
+          "icon": "🧊",
+          "l": "Soft words",
+          "t": "You use transition or move on instead of the actual word"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the sentence",
+          "desc": "Write one sentence with the word ending in it. Read it out loud twice before the meeting."
+        },
+        {
+          "n": "2",
+          "title": "Sit and say it",
+          "desc": "Sit down, look at them, and deliver the sentence within thirty seconds."
+        },
+        {
+          "n": "3",
+          "title": "Stop talking",
+          "desc": "Say nothing after the sentence. Let the silence sit for a full ten seconds."
+        }
+      ],
+      "script": "\"Marcus, I have hard news. <strong>Today is your last day at the company. The decision is final and it has been reviewed.</strong>\" Then stop.",
+      "watchFor": "They sit back in the chair and go quiet instead of asking whether the decision is settled.",
+      "example": "Rachel walked in, sat, and said the sentence in eighteen seconds. The employee blinked, exhaled, and said \"okay, what happens with my visa.\" They spent the rest of the meeting on logistics. Her previous firing, with a four-minute warm-up, ended with shouting in the corridor.",
+      "ifItFails": "They keep asking if the decision can be changed. Do not explain again — explanation reads as an opening. Close the door once, in the same words each time: \"The decision is final. What I can help with is what happens next.\" If they ask a third time, move to the folder and start on dates.",
+      "counter": "If your manager opens a meeting with a flat, rehearsed sentence, the decision was made days ago.\n• Notice the missing small talk. That silence means paperwork exists.\n• Do not argue the merits. Say: \"Understood. Walk me through the package.\"\n• Ask for everything in writing before you respond to anything.",
+      "insight": "Do not use this cold open on someone who is about to lose a work visa without first knowing their timeline — mercy there is also risk control. Speed is kindness disguised as bluntness. The harder part is the next sixty seconds, when they ask why."
+    },
+    {
+      "id": 6,
+      "cat": "first",
+      "danger": "high",
+      "title": "Give One Reason and Never a Second",
+      "principle": "Gracián: Say Less Than You Know",
+      "remember": "One reason. Repeat it. Never add another.",
+      "when": "They ask why, and you feel the pull to justify the decision.",
+      "hook": "The second reason is the one their lawyer builds the case on. <strong>Two reasons look like a search for an excuse.</strong>",
+      "truth": "Every extra reason is a new thing to disprove.\n• One reason tied to the written file is nearly impossible to attack.\n• They stop hunting for the real cause because you gave one.\n• Most managers pile on reasons to seem fair. The pile reads as a cover story.",
+      "theySee": "A manager who answers why with the same sentence twice, calmly.",
+      "signals": [
+        {
+          "icon": "📚",
+          "l": "Reason stack",
+          "t": "You hear yourself say and also and then add another point"
+        },
+        {
+          "icon": "🕰️",
+          "l": "Old material",
+          "t": "You bring up something from two years ago"
+        },
+        {
+          "icon": "🙋",
+          "l": "Comparisons",
+          "t": "You start comparing them to a teammate"
+        },
+        {
+          "icon": "😶",
+          "l": "Filling silence",
+          "t": "You keep talking because they said nothing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the reason",
+          "desc": "Choose the one reason that matches the written warnings in the file. Write it down."
+        },
+        {
+          "n": "2",
+          "title": "Say it twice",
+          "desc": "Use the same words both times they ask. Do not improve the wording."
+        },
+        {
+          "n": "3",
+          "title": "Redirect",
+          "desc": "After the second time, move to the packet: \"Let's go through what happens next.\""
+        }
+      ],
+      "script": "\"The reason is the missed delivery dates we documented on the 3rd, the 11th, and the 19th. <strong>That is the reason. There is not a second one.</strong>\"",
+      "watchFor": "They stop asking why and start asking about money or references.",
+      "example": "Devon fired a salesman and named one thing: the quota misses in the file. The man pushed four times for something deeper. Devon repeated the same sentence four times. The severance was signed without a single question from a lawyer.",
+      "ifItFails": "They say the reason is a cover and demand the real one. Do not defend and do not add. Hand the question back with the record: \"Everything the decision rests on is in the file, and you have copies of all of it. If you think something is missing, write to HR and they will answer.\" Then move to logistics.",
+      "counter": "If someone gives you three reasons for one decision, none of them is the real one.\n• Notice the pile. A true reason arrives alone and stays the same.\n• Ask: \"Which one of those is the deciding one?\"\n• Get their answer in writing. The written version is always shorter.",
+      "insight": "Do not run the one-reason line if your one reason is not in the file — an undocumented reason spoken twice is a gift to their lawyer. One reason is a wall. The next problem is what they do when they hit it."
+    },
+    {
+      "id": 7,
+      "cat": "first",
+      "danger": "moderate",
+      "title": "Use Past Tense From the First Word",
+      "principle": "Schelling: Irreversible Commitment",
+      "remember": "Talk about the job as something that already ended.",
+      "when": "You need them to accept that the decision is closed, not open for debate.",
+      "hook": "Present tense sounds like a negotiation. <strong>Past tense sounds like a fact.</strong>",
+      "truth": "Grammar tells people whether to fight.\n• Past tense frames the job as finished, not at risk.\n• They shift from defending the role to planning the next one.\n• Most managers say things like we are considering. That invites a counter-offer.",
+      "theySee": "A manager who says your role ended rather than your role is ending.",
+      "signals": [
+        {
+          "icon": "🔮",
+          "l": "Future words",
+          "t": "You say we will be making a change"
+        },
+        {
+          "icon": "🤝",
+          "l": "Bargain talk",
+          "t": "They start offering to take a pay cut or a demotion"
+        },
+        {
+          "icon": "📆",
+          "l": "Open date",
+          "t": "You have not named the last day out loud"
+        },
+        {
+          "icon": "🎣",
+          "l": "Fishing",
+          "t": "They ask what they would have to do to stay"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Rewrite the verbs",
+          "desc": "Go through your script and change every future verb to past. Read it again."
+        },
+        {
+          "n": "2",
+          "title": "Name the last day",
+          "desc": "Say the exact date out loud in the first minute. Do not leave it open."
+        },
+        {
+          "n": "3",
+          "title": "Refuse the counter",
+          "desc": "If they offer a demotion or pay cut, say the role is closed and move to the packet."
+        }
+      ],
+      "script": "\"Your role ended today. <strong>Your last day on payroll is the 31st.</strong> There is no version of this where the job continues.\"",
+      "watchFor": "They stop offering fixes and start asking about the last day and the money.",
+      "example": "Nina caught herself saying \"we are planning to make a change\" and stopped mid-sentence. She restarted: \"Your role ended today.\" The employee, who had been building a case for a transfer, went quiet and asked about his final paycheck instead.",
+      "ifItFails": "They keep pitching a demotion, a transfer, or three more months. Do not evaluate the pitch — evaluating it reopens the door. Close it once and hand them the useful thing: \"There is no open role for you here. What I will do is give you a reference line we agree on today.\" Then write the line together.",
+      "counter": "If your manager uses past tense about your job, the decision is closed and no pitch will land.\n• Listen for ended instead of ending. That one letter is the whole message.\n• Stop selling yourself. Say: \"Then let's talk about the package and the reference.\"\n• Spend your remaining minutes on money and wording, not on persuasion.",
+      "insight": "Do not use past tense before HR has approved the date in writing — if the date slips, you have just announced a firing you cannot execute. Grammar closes the door quietly. The next card is about what walks through it anyway: their reaction."
+    },
+    {
+      "id": 8,
+      "cat": "reaction",
+      "danger": "moderate",
+      "title": "When They Cry, Stop Talking and Push the Tissues",
+      "principle": "Voss: Silence as a Tool",
+      "remember": "Say nothing. Slide the tissues. Wait it out.",
+      "when": "They start crying thirty seconds after you deliver the news.",
+      "hook": "Tears are not a request for words. <strong>Filling the silence is how managers talk themselves into a lawsuit.</strong>",
+      "truth": "Crying is the body finishing the news. It ends on its own.\n• Silence gives them room to land without an audience reaction.\n• They recover faster because nobody is watching them perform.\n• Most managers start comforting and end up promising things. Those promises become claims.",
+      "theySee": "A manager who puts a tissue box within reach and does not speak.",
+      "signals": [
+        {
+          "icon": "🧻",
+          "l": "No tissues",
+          "t": "There is no tissue box in the room"
+        },
+        {
+          "icon": "💬",
+          "l": "Over-talking",
+          "t": "You hear yourself say I know how hard this is"
+        },
+        {
+          "icon": "🎁",
+          "l": "New offers",
+          "t": "You start inventing extra severance to stop the tears"
+        },
+        {
+          "icon": "🚪",
+          "l": "Escape urge",
+          "t": "You want to end the meeting early and send the rest by email"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Put tissues out",
+          "desc": "Set a tissue box on the table before they arrive. Do not point at it."
+        },
+        {
+          "n": "2",
+          "title": "Wait",
+          "desc": "Say nothing for as long as it takes. Count slowly if you need to."
+        },
+        {
+          "n": "3",
+          "title": "Restart small",
+          "desc": "When breathing steadies, ask one small question: \"Do you want water, or should we keep going?\""
+        }
+      ],
+      "script": "(after the tears slow) \"<strong>Take the time you need. When you are ready, I will walk you through the packet.</strong>\"",
+      "watchFor": "They take a tissue, breathe out, and ask a practical question about dates or money.",
+      "example": "Owen said nothing for ninety seconds while a designer cried. He pushed the tissues once. She wiped her face, said \"sorry,\" and asked whether her health cover ran to the end of the month. The meeting finished calmly in six more minutes.",
+      "ifItFails": "The crying does not stop and they cannot speak. Do not push through the packet. Change the venue and the clock: \"I am going to stop here. Take the folder, go home, and I will call you at four to walk through it.\" Then actually call at four.",
+      "counter": "If someone stays silent while you fall apart, they are running the clock, not being cold.\n• Notice that they added nothing new while you cried. That was deliberate.\n• Say: \"I need ten minutes, then I want the terms in writing.\"\n• Do not agree to anything while your voice is shaking.",
+      "insight": "Do not improvise extra severance to stop the tears — an unapproved promise made in a soft moment is still enforceable. Silence costs you nothing and protects everything. The harder reaction is the one that comes at you instead of collapsing."
+    },
+    {
+      "id": 9,
+      "cat": "reaction",
+      "danger": "high",
+      "title": "When They Get Angry, Drop Your Volume",
+      "principle": "Greene: Law 4 — Always Say Less Than Necessary",
+      "remember": "They go loud, you go quiet. Never match volume.",
+      "when": "They raise their voice, swear at you, or slam a hand on the table.",
+      "hook": "Anger needs a partner. <strong>Refuse the duet and the song stops.</strong>",
+      "truth": "A shouting match needs two shouters. You control one of them.\n• Lower volume forces them to lean in and quiet down to hear you.\n• Their anger has no target and burns out in about ninety seconds.\n• Most managers raise their voice to hold control. That is how it reaches the hallway.",
+      "theySee": "A manager who keeps both hands on the table and speaks quieter than before.",
+      "signals": [
+        {
+          "icon": "📣",
+          "l": "Volume jump",
+          "t": "They go from talking to shouting in one sentence"
+        },
+        {
+          "icon": "👉",
+          "l": "Pointing",
+          "t": "They point a finger across the table at you"
+        },
+        {
+          "icon": "🪑",
+          "l": "Standing up",
+          "t": "They push the chair back and stand"
+        },
+        {
+          "icon": "🚪",
+          "l": "Door open",
+          "t": "Someone outside turns their head toward the room"
+        },
+        {
+          "icon": "🤬",
+          "l": "Personal attack",
+          "t": "They stop attacking the decision and start attacking you"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Lower your voice",
+          "desc": "Cut your volume in half. Slow your words. Keep your hands flat on the table."
+        },
+        {
+          "n": "2",
+          "title": "Name it once",
+          "desc": "Say: \"You are angry, and that makes sense.\" Then stop. Do not defend."
+        },
+        {
+          "n": "3",
+          "title": "Offer the pause",
+          "desc": "If they keep escalating, offer ten minutes outside the room and a restart."
+        }
+      ],
+      "script": "(quietly) \"<strong>You are angry. That is fair.</strong> I am not going to argue with you. When you want, we will go through the money and the dates.\"",
+      "watchFor": "Their volume drops within two sentences of yours dropping.",
+      "example": "A sales lead swore and stood up. Ken kept his hands flat and answered at half volume. Within a minute the man sat back down, said \"this is bullshit,\" and then asked about his commission. HR heard nothing from the hallway.",
+      "ifItFails": "They keep escalating or move toward you. End it — a firing is not worth an injury. Stand, open the door, and change who acts: \"I am stopping this meeting now. Security will walk you out and HR will call you this afternoon.\" Send the packet by courier the same day.",
+      "counter": "If someone drops their voice while you shout, they are managing you, not calming you.\n• Notice that they stopped answering your points. That is on purpose.\n• Say: \"I will stop. I want the terms in writing before I say anything else.\"\n• Leave the room angry if you must, but leave nothing on record.",
+      "insight": "Do not run this alone with someone who has threatened anyone before — have HR in the room and the door unlocked. Quiet beats loud in every room with a door. The next reaction is harder to handle because it is silent."
+    },
+    {
+      "id": 10,
+      "cat": "reaction",
+      "danger": "high",
+      "title": "When They Name a Lawyer, Stop the Meeting",
+      "principle": "Schelling: Credible Threat — Do Not Bargain Against It",
+      "remember": "They say lawyer. You say nothing else that day.",
+      "when": "They say they will call a lawyer, mention discrimination, or start recording.",
+      "hook": "The word lawyer changes what your sentences are for. <strong>From that moment, everything you say is evidence.</strong>",
+      "truth": "You will not out-argue a threat. You will only add material.\n• Ending the meeting freezes the record where it is.\n• They lose the chance to draw a bad quote out of you.\n• Most managers try to talk them down. Every extra sentence is a new exhibit.",
+      "theySee": "A manager who closes the folder, gives one line, and stands up.",
+      "signals": [
+        {
+          "icon": "⚖️",
+          "l": "Lawyer named",
+          "t": "They say they will talk to a lawyer"
+        },
+        {
+          "icon": "📱",
+          "l": "Phone flat",
+          "t": "Their phone sits face up on the table between you"
+        },
+        {
+          "icon": "🏷️",
+          "l": "Protected words",
+          "t": "They say age, race, gender, disability, or retaliation"
+        },
+        {
+          "icon": "📝",
+          "l": "Taking notes",
+          "t": "They start writing down what you say word for word"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Timing claim",
+          "t": "They point out the firing came right after a complaint"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop",
+          "desc": "Stop explaining mid-topic. Do not finish the sentence you were on."
+        },
+        {
+          "n": "2",
+          "title": "Give the handoff line",
+          "desc": "Say that HR and legal will handle it from here, and give the contact name."
+        },
+        {
+          "n": "3",
+          "title": "Write it up",
+          "desc": "Within the hour, email HR exactly what was said, in their words and yours."
+        }
+      ],
+      "script": "\"That is your right, and I am not going to talk you out of it. <strong>I am going to stop here so the right people handle it. HR will contact you today with everything in writing.</strong>\"",
+      "watchFor": "They stop pressing you for a reaction and ask who at HR will call.",
+      "example": "When an employee said the word discrimination, Ana closed her folder mid-sentence and gave the handoff line. She emailed legal within twenty minutes with a verbatim note. Legal later said the short meeting was the reason the claim went nowhere.",
+      "ifItFails": "They keep pushing for a reaction and follow you out of the room. Do not answer the substance, not even to deny it. Repeat one line, walk, and put it in writing: \"I am not the right person for that conversation. HR will call you today.\" Then send them HR's name and number by email before you sit back down.",
+      "counter": "If your manager suddenly stops talking when you mention a lawyer, they were told to.\n• Notice the sentence they did not finish. That was the useful one.\n• Say: \"Send me the reason and the file in writing today.\"\n• Write your own notes that night, with times. Memory fades in a week.",
+      "insight": "Do not try to settle a claim in the room, even if you think you could — an off-book promise from a manager can bind the company and end your career. Ending the meeting looks like weakness and is actually the strongest move available. The next question is what you say to everyone else, and how little of it."
+    },
+    {
+      "id": 11,
+      "cat": "notsay",
+      "danger": "extreme",
+      "title": "Never Say This Is Hard for Me Too",
+      "principle": "Greene: Law 3 — Conceal Your Intentions",
+      "remember": "Your feelings are not part of this meeting.",
+      "when": "You feel the urge to tell them how much you hate doing this.",
+      "hook": "They are losing their income. <strong>Your discomfort is not a topic.</strong>",
+      "truth": "Sharing your pain asks them to comfort you. That flips into rage.\n• Keeping your feelings out keeps the meeting about facts and money.\n• They stay in problem-solving mode instead of resentment.\n• Most managers say it to feel less cruel. It reads as self-pity and it lands as insult.",
+      "theySee": "A manager who talks only about dates, money, and next steps.",
+      "signals": [
+        {
+          "icon": "😢",
+          "l": "Me-talk",
+          "t": "You say I lost sleep over this"
+        },
+        {
+          "icon": "🫂",
+          "l": "Comfort seeking",
+          "t": "You wait for them to say it is not your fault"
+        },
+        {
+          "icon": "🙏",
+          "l": "Apology loop",
+          "t": "You apologize more than once in the meeting"
+        },
+        {
+          "icon": "🧍",
+          "l": "Blame shift",
+          "t": "You say this came from above me"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Cut the I-lines",
+          "desc": "Read your script and delete every sentence that starts with I feel or I hate."
+        },
+        {
+          "n": "2",
+          "title": "Replace with facts",
+          "desc": "Where an I-line was, put a date, a number, or a next step instead."
+        },
+        {
+          "n": "3",
+          "title": "Own the decision",
+          "desc": "If they ask who decided, say you did. Never blame a name upstairs."
+        }
+      ],
+      "script": "\"I am not going to tell you how I feel about this — that is not useful to you right now. <strong>What is useful is the money, the dates, and the reference. Let's go through those.</strong>\"",
+      "watchFor": "They stop watching your face and start reading the paperwork.",
+      "example": "Greg used to open with \"this is the worst part of my job.\" One employee snapped back, \"then imagine my day.\" The next time, Greg said nothing about himself and moved straight to the packet. That meeting ended in eight minutes with a handshake.",
+      "ifItFails": "You slip and say it anyway, and they turn cold or sarcastic. Do not apologize for apologizing. Take it back once and move: \"That was about me and it should not have been. Back to your last day and the payment schedule.\" Then keep every following sentence factual.",
+      "counter": "If someone tells you how hard it is for them while they take something from you, they want absolution.\n• Notice the ask hidden in it: comfort me so I feel clean.\n• Say: \"Let's stick to the terms.\" Do not reassure them.\n• Every minute spent on their feelings is a minute not spent on your severance.",
+      "insight": "Do not perform coldness either — flat is not cruel, but sarcasm in a firing gets quoted in a complaint word for word. Your job in the room is not to be liked. The harder discipline is holding that line while they beg you to be human."
+    },
+    {
+      "id": 12,
+      "cat": "notsay",
+      "danger": "extreme",
+      "title": "Never Promise a Reference in the Room",
+      "principle": "Machiavelli: Never Make a Promise You Cannot Control",
+      "remember": "Agree on one sentence in writing. Promise nothing more.",
+      "when": "They ask what you will say if someone calls to check on them.",
+      "hook": "A warm promise made at the worst moment is a claim waiting to happen. <strong>Write one line and stick to it.</strong>",
+      "truth": "References get repeated, forwarded, and compared to your file.\n• A single agreed sentence protects both sides and cannot drift.\n• They leave with something usable instead of a vague kindness.\n• Most managers promise a glowing reference to soften the blow, then say something different on the call.",
+      "theySee": "A manager who writes one sentence on paper and hands it across the table.",
+      "signals": [
+        {
+          "icon": "🌟",
+          "l": "Big promise",
+          "t": "You hear yourself say I will say great things"
+        },
+        {
+          "icon": "📵",
+          "l": "No policy check",
+          "t": "You do not know if HR only confirms dates"
+        },
+        {
+          "icon": "🖊️",
+          "l": "Nothing written",
+          "t": "The reference exists only as a spoken promise"
+        },
+        {
+          "icon": "🤞",
+          "l": "Vague words",
+          "t": "You say I will look after you"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the policy",
+          "desc": "Ask HR what the company confirms: dates only, or dates and title."
+        },
+        {
+          "n": "2",
+          "title": "Write the sentence",
+          "desc": "Write one sentence you can repeat to any caller. Show it to them."
+        },
+        {
+          "n": "3",
+          "title": "Send it",
+          "desc": "Email the agreed sentence to them and to HR the same day."
+        }
+      ],
+      "script": "\"Here is the exact sentence I will say to anyone who calls: <strong>'She worked here from 2023 to 2026 as a senior analyst and I would take her call.'</strong> That is the sentence, in writing, and it will not change.\"",
+      "watchFor": "They read the sentence and ask you to change one word instead of asking for more.",
+      "example": "Bea wrote one line on a card and slid it over. The employee asked her to swap \"analyst\" for \"lead analyst,\" which matched his title. She fixed it and emailed it that afternoon. He used it for two years and never called her again.",
+      "ifItFails": "They push for a full letter of recommendation. Do not refuse flatly and do not agree. Give a smaller thing with a deadline: \"I will not write a letter, but the sentence is yours and I will confirm it to any caller. If you want it on letterhead, ask HR by Friday.\" Send the sentence to HR so the answer is consistent.",
+      "counter": "If a manager promises you a glowing reference while firing you, get it in writing that day.\n• Notice that nothing spoken survives their next job change.\n• Say: \"Great — email me that exact wording before I leave.\"\n• If the email never comes, the reference does not exist.",
+      "insight": "Do not offer a reference at all if the firing was for dishonesty — that sentence follows you when the truth surfaces. One written line is worth more than any warm promise. The next problem is mechanical: badges, laptops, and the shared drive."
+    },
+    {
+      "id": 13,
+      "cat": "logistics",
+      "danger": "moderate",
+      "title": "Cut System Access While the Meeting Runs",
+      "principle": "Sun Tzu: Speed Is the Essence of War",
+      "remember": "IT kills access at the minute the meeting starts.",
+      "when": "You have set the meeting time and IT has not been told anything yet.",
+      "hook": "The gap between the news and the lockout is where the damage happens. <strong>Close it to zero.</strong>",
+      "truth": "Access is not about trust. It is about timing.\n• A lockout during the meeting removes the option entirely.\n• They never face the choice of what to take on the way out.\n• Most managers cut access after the meeting. Fifteen minutes is enough for a full download.",
+      "theySee": "An employee whose laptop asks for a password that no longer works.",
+      "signals": [
+        {
+          "icon": "⏳",
+          "l": "Late lockout",
+          "t": "IT plans to disable the account at the end of the day"
+        },
+        {
+          "icon": "💾",
+          "l": "Big downloads",
+          "t": "Their file exports jumped in the last two weeks"
+        },
+        {
+          "icon": "📤",
+          "l": "Self-emails",
+          "t": "They forwarded work documents to a personal address"
+        },
+        {
+          "icon": "🔑",
+          "l": "Shared logins",
+          "t": "They hold a password that other people also use"
+        },
+        {
+          "icon": "📱",
+          "l": "Phone access",
+          "t": "Company email still sits on their personal phone"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Book IT to the minute",
+          "desc": "Email IT the exact time. Ask them to disable email, VPN, and chat at that minute."
+        },
+        {
+          "n": "2",
+          "title": "List the shared logins",
+          "desc": "Write down every shared account they know. Have IT change those passwords too."
+        },
+        {
+          "n": "3",
+          "title": "Wipe the phone profile",
+          "desc": "Ask IT to remove the company profile from their personal phone the same hour."
+        }
+      ],
+      "script": "(to IT, by email) \"<strong>Disable all access for Marcus Reed at 10:00 exactly on Tuesday — email, VPN, chat, and the shared build account.</strong> Reply to confirm the time is locked in.\"",
+      "watchFor": "IT replies confirming the exact minute rather than saying they will handle it today.",
+      "example": "Sam scheduled the lockout for 10:00 and started the meeting at 10:00. The employee tried to open his laptop at 10:06 out of habit and it was already dead. Nothing left the building. The month before, a different manager waited until 5pm and lost a full client list.",
+      "ifItFails": "IT misses the window and the account stays live. Do not wait and do not send a second polite email. Call IT from the hallway and escalate in one line: \"I need the account off in five minutes. Who can do it now?\" Then pull the laptop before the person leaves the room.",
+      "counter": "If your laptop logs you out during a meeting with your boss, the decision was made before you sat down.\n• Notice the timing. Access dies at the start, not the end.\n• Do not scramble. Say: \"Send me my personal files and my payroll records.\"\n• Keep personal contacts off the company phone from your first week.",
+      "insight": "Do not lock out someone mid-crisis on a live customer incident without a handover plan — you will trade a small risk for an outage. Cutting access is cheap and unwinding data theft is not. The harder question is what you cut for a person who has done nothing wrong."
+    },
+    {
+      "id": 14,
+      "cat": "logistics",
+      "danger": "moderate",
+      "title": "Walk Them Out Yourself, Not Security",
+      "principle": "Status Asymmetry",
+      "remember": "Walk beside them. A guard makes it a spectacle.",
+      "when": "The meeting is over and they need to collect their things and leave.",
+      "hook": "A uniform in the hallway tells the whole floor a story. <strong>You choose which story that is.</strong>",
+      "truth": "How they leave is what the team remembers, not why.\n• Walking beside them reads as respect, not escort.\n• They keep their face in front of colleagues, so they do not need revenge.\n• Most companies default to security. That image turns an ex-employee into an enemy.",
+      "theySee": "A manager who carries one of their boxes and talks about traffic on the way down.",
+      "signals": [
+        {
+          "icon": "👮",
+          "l": "Guard waiting",
+          "t": "A security officer stands outside the meeting room door"
+        },
+        {
+          "icon": "📦",
+          "l": "Packed already",
+          "t": "Someone boxed their desk before the meeting ended"
+        },
+        {
+          "icon": "👀",
+          "l": "Floor watching",
+          "t": "The team turns to look as they walk past"
+        },
+        {
+          "icon": "🕔",
+          "l": "Peak hour",
+          "t": "You are leaving at the busiest time on the floor"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Offer the choice",
+          "desc": "Ask if they want to pack now or come back after hours for their things."
+        },
+        {
+          "n": "2",
+          "title": "Walk beside them",
+          "desc": "Walk at their pace, on their side. Carry something if they have two boxes."
+        },
+        {
+          "n": "3",
+          "title": "End at the door",
+          "desc": "Shake hands at the exit and say the last line. Do not linger or watch them go."
+        }
+      ],
+      "step_note": "",
+      "script": "\"You can pack now, or I will meet you here at seven tonight and it will be just us. <strong>Your call.</strong> Either way, I walk down with you.\"",
+      "watchFor": "They pick a time instead of arguing, and they let you carry a box.",
+      "example": "Marta gave the choice and the employee picked 7pm. She met him at the door, carried his monitor, and shook his hand in the lobby. He posted nothing online. Two months later he referred a candidate to her team.",
+      "ifItFails": "They refuse to leave the building or sit back down at their desk. Do not touch them and do not raise your voice. Change who has to act and make it small: \"I am going to give you ten minutes. Then I will need to call building security, and I would rather not.\" Stand nearby and wait out the ten minutes.",
+      "counter": "If a manager insists on walking you out personally, they are managing the room, not being kind.\n• Notice that the walk is for the audience, not for you.\n• Say: \"I will come back after hours for my things.\" Take the quiet option.\n• Send yourself your personal files before the meeting ever happens.",
+      "insight": "Do not walk out alone with someone who has just threatened you — that is exactly when security exists. Dignity on the way out buys silence online. The next cost is the one you pay with the people who stay."
+    },
+    {
+      "id": 15,
+      "cat": "after",
+      "danger": "high",
+      "title": "Tell the Team the Same Day in Four Sentences",
+      "principle": "Cialdini: Social Proof — Control the First Version",
+      "remember": "Say it today, in four sentences, with no reason attached.",
+      "when": "The person has left and your team is watching the empty desk.",
+      "hook": "The story gets told today whether you tell it or not. <strong>The first version wins.</strong>",
+      "truth": "Silence does not protect anyone. It just hands the story to the loudest guesser.\n• A short same-day message stops the rumor before it forms.\n• The team learns you handle things fast and do not gossip.\n• Most managers wait a day to be respectful. In that day the team writes a worse story.",
+      "theySee": "A manager standing in front of the team saying four sentences and then taking questions about work.",
+      "signals": [
+        {
+          "icon": "🤫",
+          "l": "Whisper clusters",
+          "t": "Two people stop talking when you walk by"
+        },
+        {
+          "icon": "💬",
+          "l": "DM traffic",
+          "t": "Your team goes quiet in public channels and busy in private ones"
+        },
+        {
+          "icon": "🪑",
+          "l": "Empty desk",
+          "t": "Nobody has touched the empty desk or asked about it"
+        },
+        {
+          "icon": "😰",
+          "l": "Fear questions",
+          "t": "Someone asks whether more cuts are coming"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write four sentences",
+          "desc": "He has left. Today was his last day. I will not discuss why. Here is who covers his work."
+        },
+        {
+          "n": "2",
+          "title": "Say it in person",
+          "desc": "Tell the team in a short standing meeting, not by email. Keep it under two minutes."
+        },
+        {
+          "n": "3",
+          "title": "Answer the real fear",
+          "desc": "Say plainly whether more cuts are coming. If none are planned, say so in one sentence."
+        }
+      ],
+      "script": "\"Marcus left the company today. <strong>I am not going to discuss the reasons, now or later — he is owed that.</strong> Priya covers his accounts until we hire. No other changes are planned on this team.\"",
+      "watchFor": "Somebody asks a work question about coverage instead of asking why he left.",
+      "example": "Ken told his team in ninety seconds at 4pm, refused the why, and named who covered the accounts. Two people asked about coverage. Nobody asked why again. The Slack channel stayed on work all week.",
+      "ifItFails": "Someone pushes in public for the reason, or a rumor is already running. Do not correct the rumor in detail — detail feeds it. Say the boundary once and move the meeting: \"I am not going to confirm or deny anything about that. Ask me anything about the work.\" Then talk privately to the one person spreading it.",
+      "counter": "If your manager announces a departure in four flat sentences and refuses the why, that person was fired.\n• Notice the refusal itself. Resignations get reasons; firings do not.\n• Do not push in the room. Ask later: \"Should I be worried about my role?\"\n• Watch what happens to the workload. That tells you more than the announcement.",
+      "insight": "Do not describe the reason to the team even in general terms — one sentence to nine people becomes an exhibit with nine witnesses. Controlling the first version costs two minutes. The harder job is the one nobody schedules: the people who stayed."
+    },
+    {
+      "id": 16,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Talk to the Survivors One by One This Week",
+      "principle": "Greene: Laws of Human Nature — Manage the Fear You Create",
+      "remember": "After a firing, meet each person alone within a week.",
+      "when": "It is the day after the firing and your team is quiet and working late.",
+      "hook": "Everyone left behind is doing the same math. <strong>Answer the question they will not ask out loud.</strong>",
+      "truth": "A firing teaches the team a rule. You decide which rule.\n• A one-on-one lets each person hear the answer meant for them.\n• They stop scanning for danger and start working again.\n• Most managers say nothing and hope it settles. Instead the best people update their resumes.",
+      "theySee": "A manager who books fifteen minutes with each person and says where they stand.",
+      "signals": [
+        {
+          "icon": "🕰️",
+          "l": "Late nights",
+          "t": "People start staying late to look busy"
+        },
+        {
+          "icon": "🙅",
+          "l": "No risks",
+          "t": "Nobody proposes anything new for two weeks"
+        },
+        {
+          "icon": "📤",
+          "l": "Quiet exits",
+          "t": "A strong performer books unexplained afternoons off"
+        },
+        {
+          "icon": "🔗",
+          "l": "Profile updates",
+          "t": "Two people update their LinkedIn in the same week"
+        },
+        {
+          "icon": "🧊",
+          "l": "Flat standups",
+          "t": "Standup answers get shorter and safer"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Book fifteen minutes each",
+          "desc": "Put a short one-on-one with every team member in the calendar this week."
+        },
+        {
+          "n": "2",
+          "title": "Say where they stand",
+          "desc": "Tell each person plainly whether their job is safe. Use the word safe or not safe."
+        },
+        {
+          "n": "3",
+          "title": "Give one specific",
+          "desc": "Name one thing they do well and one thing you want from them next quarter."
+        }
+      ],
+      "script": "\"You are probably wondering if you are next. <strong>You are not. Your job is safe and I would tell you if it were not.</strong> What I want from you next quarter is the migration finished by March.\"",
+      "watchFor": "They exhale, then bring up a work problem they had been holding back.",
+      "example": "After firing a team lead, Priya booked fifteen minutes with all six engineers in three days. She used the word safe with five of them and told the sixth exactly what had to change. Nobody quit that quarter. Two told her later it was the reason they stayed.",
+      "ifItFails": "Someone does not believe you and starts interviewing anyway. Do not argue about your credibility. Make the promise cost you something concrete: \"I will put it in writing — here is your scope and your review date for next quarter.\" Send that email the same day, and keep the date.",
+      "counter": "If your manager suddenly books a one-on-one to tell you that you are safe, count the specifics.\n• Notice whether they name a project and a date, or only give comfort.\n• Ask: \"What does my role look like in six months?\"\n• Vague answers mean the plan is not written yet. Update your options quietly.",
+      "insight": "Do not tell someone they are safe if a second round is already approved — that lie is the one your whole team will remember. The firing is over in twelve minutes; the team's read on you lasts a year. The next question is whether you can keep the promise you just made."
+    }
+  ]
+}

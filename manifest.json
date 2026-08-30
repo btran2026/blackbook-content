@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 43,
+  "manifestVersion": 44,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -221,7 +221,20 @@
       "url": "playbooks/playbook-srv-get-comps-upgrades-and-refunds.json",
       "addedAt": "2026-08-30T03:55:28.160Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-delivering-a-firing-without-a-lawsuit-or-a-scene",
+      "title": "Delivering a Firing Without a Lawsuit or a Scene",
+      "theme": "management",
+      "topic": "",
+      "cardCount": 16,
+      "contentVersion": 1,
+      "coverColor": "#8B1E2D",
+      "coverIcon": "🗝️",
+      "url": "playbooks/playbook-srv-delivering-a-firing-without-a-lawsuit-or-a-scene.json",
+      "addedAt": "2026-08-30T03:55:38.160Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-30T03:55:28.160Z"
+  "generatedAt": "2026-08-30T03:55:38.160Z"
 }
