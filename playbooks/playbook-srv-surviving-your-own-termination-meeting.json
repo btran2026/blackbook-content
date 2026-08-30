@@ -1,0 +1,1089 @@
+{
+  "meta": {
+    "id": "srv-surviving-your-own-termination-meeting",
+    "version": "1.0",
+    "title": "Surviving Your Own Termination Meeting",
+    "subtitle": "The moves for the room they never train you for",
+    "description": "A field manual for the meeting that ends your job — reading the signs, the first sixty seconds, the paperwork, the terms you can still get, the walk out, and the week after.",
+    "author": "AI",
+    "createdAt": "2026-08-30T16:27:26.655Z",
+    "tags": [
+      "termination",
+      "layoffs",
+      "severance",
+      "negotiation",
+      "career",
+      "workplace power"
+    ],
+    "totalCards": 18,
+    "isSeeded": true,
+    "coverColor": "#7A1F2B",
+    "coverIcon": "🚪",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "signs",
+      "label": "Reading the Signs Before the Meeting",
+      "color": "#4A4A4A"
+    },
+    {
+      "key": "first-sixty",
+      "label": "The First Sixty Seconds in the Room",
+      "color": "#B33A3A"
+    },
+    {
+      "key": "signing",
+      "label": "What They Want You to Sign",
+      "color": "#6B4226"
+    },
+    {
+      "key": "terms",
+      "label": "Getting the Terms You're Owed",
+      "color": "#2F6F4E"
+    },
+    {
+      "key": "walkout",
+      "label": "Walking Out",
+      "color": "#34495E"
+    },
+    {
+      "key": "aftermath",
+      "label": "The First Week After",
+      "color": "#7D5BA6"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "signs",
+      "danger": "low",
+      "title": "Spot the Calendar Invite With No Agenda",
+      "when": "You get a meeting invite with a vague title, no agenda, and HR or a second manager added.",
+      "hook": "Your calendar just got an invite with no agenda and your manager's manager cc'd. <strong>That blank subject line is the tell.</strong>",
+      "truth": "Companies script terminations to limit surprise and legal risk.\n• HR joins early to control the story and the room.\n• Real meetings state a topic. Vague ones hide bad news.\n• Most people ignore the pattern until it's already happening to them.",
+      "principle": "Pattern Recognition — Baseline Deviation",
+      "remember": "A meeting with no subject line is never good news.",
+      "theySee": "A calm employee who shows up on time like any other meeting.",
+      "signals": [
+        {
+          "icon": "📭",
+          "l": "Blank subject",
+          "t": "The invite has no subject line or a generic one like 'Quick Chat.'"
+        },
+        {
+          "icon": "👥",
+          "l": "Extra attendee",
+          "t": "HR or a second-level manager gets added at the last minute."
+        },
+        {
+          "icon": "🕓",
+          "l": "Time slot",
+          "t": "The meeting lands right after lunch or right before end of day."
+        },
+        {
+          "icon": "🔒",
+          "l": "Access change",
+          "t": "Your badge or laptop login glitches the same morning."
+        },
+        {
+          "icon": "📅",
+          "l": "Calendar clear",
+          "t": "Your manager clears their own calendar right after your slot."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the room",
+          "desc": "Look up who else got invited before you walk in."
+        },
+        {
+          "n": "2",
+          "title": "Save files",
+          "desc": "Email yourself any personal files from your work drive tonight."
+        },
+        {
+          "n": "3",
+          "title": "Screenshot",
+          "desc": "Screenshot recent praise, reviews, and approvals before you lose access."
+        }
+      ],
+      "script": "\"Hey, saw the invite — is this about the Q3 project or should I bring anything?\"",
+      "example": "Dana saw a no-agenda invite with HR cc'd for 4:45pm. She spent her lunch break forwarding three client emails to her personal account. An hour later she was told her role was cut — and she still had the emails.",
+      "watchFor": "They answer your question about the agenda with a vague non-answer.",
+      "ifItFails": "They dodge your question and give nothing away. Stop asking and start preparing anyway — move your files and screenshots now, assuming the worst case. Send yourself one email: \"Forwarding these for my records.\"",
+      "counter": "This same blind-invite move gets used to ambush you in performance reviews too.\n• A vague invite with a peer or skip-level added is never neutral.\n• Ask the sender directly: \"What's this about, so I can prepare?\"\n• If they dodge twice, assume it's serious and prep like it is.",
+      "insight": "The tell is almost always visible a day early. The harder part is acting on it instead of hoping you're wrong."
+    },
+    {
+      "id": 2,
+      "cat": "signs",
+      "danger": "moderate",
+      "title": "Notice When IT Access Gets Quietly Tightened",
+      "when": "Your badge, VPN, or shared drive access breaks or changes without an IT ticket you filed.",
+      "hook": "Your badge stops opening one door. Your VPN asks for a password reset you didn't request. <strong>That's not IT being slow. That's the company locking the exits.</strong>",
+      "truth": "Legal teams cut access before the meeting, not after, to stop data walking out the door.\n• The access cut always comes before the news, never after.\n• You find out you're being managed as a risk, not an employee.\n• Most people call IT to fix it instead of reading what it means.",
+      "principle": "Pattern Recognition — Pre-Termination Signal",
+      "remember": "Lost access before a meeting means the decision is already made.",
+      "theySee": "A confused employee calling IT about a glitch, not someone who's caught on.",
+      "signals": [
+        {
+          "icon": "🪪",
+          "l": "Badge fail",
+          "t": "Your badge stops working on a door it opened yesterday."
+        },
+        {
+          "icon": "🔑",
+          "l": "Password reset",
+          "t": "You get a password reset prompt you never requested."
+        },
+        {
+          "icon": "🗂️",
+          "l": "Drive locked",
+          "t": "A shared folder you use daily shows 'access denied.'"
+        },
+        {
+          "icon": "📆",
+          "l": "Calendar block",
+          "t": "Someone books your calendar solid with placeholder events."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check drive",
+          "desc": "Try opening your usual shared files today, before anything else."
+        },
+        {
+          "n": "2",
+          "title": "Ask IT",
+          "desc": "Call IT and ask plainly: was a ticket filed on my account?"
+        },
+        {
+          "n": "3",
+          "title": "Move files",
+          "desc": "Send yourself copies of any personal documents right now."
+        }
+      ],
+      "script": "\"Hi, my badge just failed on the east door — was a ticket filed on my account today?\"",
+      "example": "Marcus noticed his VPN logged him out twice in one morning. IT confirmed a security ticket had opened that day with no explanation. He spent the next hour forwarding his portfolio samples home. He was let go by 3pm.",
+      "watchFor": "IT gets vague or transfers you to a manager instead of answering.",
+      "ifItFails": "IT won't confirm anything and just says 'try again later.' Stop asking IT and move what you can reach right now — email yourself files, screenshot approvals, note the time access broke. Send one line to your personal email: \"Timestamp for my records: access issue started at 9:14am.\"",
+      "counter": "If you ever manage someone out, know they can read this same pattern.\n• Cutting access early tips off a sharp employee before you're ready.\n• Time any access change to happen during the meeting, not before.\n• Never let IT act on a ticket before HR is in the room.",
+      "insight": "The company treats the exit as a security problem before it treats it as a conversation. The harder part is not panicking once you see it — panic is what makes you sloppy."
+    },
+    {
+      "id": 3,
+      "cat": "signs",
+      "danger": "moderate",
+      "title": "Read the Sudden Silence From Your Boss",
+      "when": "Your manager stops giving feedback, skips your 1-on-1, or goes quiet on threads you used to be part of.",
+      "hook": "Your boss stops asking about your projects. Stops copying you on threads. <strong>Silence is the loudest thing they can tell you.</strong>",
+      "truth": "Managers avoid people they're about to cut because conflict feels worse before the decision is final.\n• Silence lets them avoid a conversation whose ending they've already decided.\n• You lose the chance to fix anything because there's nothing left to fix.\n• Most people read silence as being busy, not as a verdict already reached.",
+      "principle": "Greene: Law 3 — Conceal Your Intentions",
+      "remember": "A boss who goes quiet has already made the call.",
+      "theySee": "A confident employee asking for direct feedback like nothing is wrong.",
+      "signals": [
+        {
+          "icon": "🚫",
+          "l": "Missed 1-on-1",
+          "t": "Your manager cancels or reschedules your 1-on-1 twice in a row."
+        },
+        {
+          "icon": "📧",
+          "l": "Dropped from threads",
+          "t": "You stop getting copied on emails you used to be on."
+        },
+        {
+          "icon": "👍",
+          "l": "No feedback",
+          "t": "Your last three updates get a thumbs-up with no comment."
+        },
+        {
+          "icon": "🥶",
+          "l": "Cold body language",
+          "t": "They avoid eye contact in the hallway or stand further away."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask directly",
+          "desc": "Ask your manager for a real 1-on-1 this week, not a status check."
+        },
+        {
+          "n": "2",
+          "title": "Request feedback",
+          "desc": "Ask one clear thing: \"Where do you see me in six months?\""
+        },
+        {
+          "n": "3",
+          "title": "Document wins",
+          "desc": "Write down your last five wins with dates while you still can."
+        }
+      ],
+      "script": "\"I've noticed our 1-on-1s keep slipping — can we grab 20 minutes this week? I want a real read on where I stand.\"",
+      "example": "Priya's manager stopped commenting on her reports for three weeks straight. She asked for a direct 1-on-1 and got a vague answer about 'restructuring.' She spent that weekend updating her resume instead of waiting for clarity that never came.",
+      "watchFor": "They give you a date for the 1-on-1 but keep pushing it back.",
+      "ifItFails": "They keep dodging the real conversation and reschedule again. Stop chasing the meeting and start building your plan now — resume, references, savings check. Message a mentor tonight: \"Might be looking soon, keep an ear out.\"",
+      "counter": "If you're pulling away from someone before a hard talk, know they'll feel it.\n• Going quiet reads as guilt, and sharp people notice fast.\n• Have the hard conversation earlier, even if it's not final yet.\n• Silence you didn't intend as a signal still gets read as one.",
+      "insight": "Nobody tells you it's over. They just stop showing up the way they used to. The next question is whether you start moving before they say the word, or after."
+    },
+    {
+      "id": 4,
+      "cat": "first-sixty",
+      "danger": "low",
+      "title": "Say Nothing for the First Ten Seconds",
+      "when": "Your manager or HR just said the words \"we've decided to let you go.\"",
+      "hook": "They just told you the job is over. <strong>Your silence right now says more than any argument could.</strong>",
+      "truth": "Silence forces the other side to fill the gap, and they usually fill it with information.\n• They expect you to react, defend, or beg — a script they've rehearsed for.\n• Saying nothing breaks their script and they start explaining more than planned.\n• Most people fill silence from fear, and lose extra information it would have bought.",
+      "principle": "Voss: Tactical Silence",
+      "remember": "Whoever talks first after bad news gives something away.",
+      "theySee": "A person sitting still, not arguing, not crying, just watching them.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "Script reading",
+          "t": "They read from a printed page or a set of notes."
+        },
+        {
+          "icon": "⏩",
+          "l": "Fast pace",
+          "t": "They rush through the reason and move straight to next steps."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Extra talking",
+          "t": "They keep talking to fill silence you're not breaking."
+        },
+        {
+          "icon": "📁",
+          "l": "Document ready",
+          "t": "A folder or envelope sits on the table before they start."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count silently",
+          "desc": "Count to ten in your head before you say one word."
+        },
+        {
+          "n": "2",
+          "title": "Watch them",
+          "desc": "Watch what they add once the silence gets uncomfortable for them."
+        },
+        {
+          "n": "3",
+          "title": "Ask one thing",
+          "desc": "Ask only: \"What happens next, step by step?\""
+        }
+      ],
+      "script": "\"...Okay. Walk me through what happens next, step by step.\"",
+      "example": "Tom got the news on a Tuesday morning. He said nothing for what felt like a full minute. His manager, uncomfortable, added that the severance offer was 'negotiable' — a detail not in the original script. Tom used it an hour later.",
+      "watchFor": "They start adding details that weren't in their opening lines.",
+      "ifItFails": "They sit in the silence just as long and say nothing more. Don't break first — ask your one question anyway and let the silence return after. Say: \"What happens next, step by step?\" and wait again.",
+      "counter": "If someone goes quiet on you after hard news, don't assume they're calm.\n• Their silence is likely a tactic to get you talking and revealing more.\n• Say your piece once, clearly, then stop matching their silence.\n• Ask them directly: \"Is there something you're waiting to hear from me?\"",
+      "insight": "The room is built for you to talk first. The harder part is holding still when every instinct says fill the space."
+    },
+    {
+      "id": 5,
+      "cat": "first-sixty",
+      "danger": "low",
+      "title": "Ask Who Else Is in the Room and Why",
+      "when": "You walk into the meeting and notice more people than a normal check-in would need.",
+      "hook": "HR is there. Maybe security. Maybe a second manager. <strong>Every extra person in that room is there to manage you, not comfort you.</strong>",
+      "truth": "Extra attendees exist to witness, document, and prevent anything you say from being disputed later.\n• HR is there to control legal exposure, not to support you.\n• A second person means they expect pushback or documented risk.\n• Most people read the extra bodies as a formality and miss the signal.",
+      "principle": "Status Asymmetry — Room Control",
+      "remember": "Count the people in the room before you count your losses.",
+      "theySee": "A person who notices the room, stays composed, and doesn't get rattled by numbers.",
+      "signals": [
+        {
+          "icon": "👔",
+          "l": "HR presence",
+          "t": "HR sits in on what used to be a manager-only conversation."
+        },
+        {
+          "icon": "📝",
+          "l": "Notepad out",
+          "t": "Someone takes notes the entire time you're talking."
+        },
+        {
+          "icon": "🛡️",
+          "l": "Security nearby",
+          "t": "A security or facilities person waits just outside the door."
+        },
+        {
+          "icon": "👤",
+          "l": "Manager's manager",
+          "t": "Your manager's manager joins without being on your usual calls."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the room",
+          "desc": "Say out loud who's present: \"I see it's you, HR, and Dana today.\""
+        },
+        {
+          "n": "2",
+          "title": "Ask the role",
+          "desc": "Ask HR directly: \"What's your role in this conversation?\""
+        },
+        {
+          "n": "3",
+          "title": "Match the formality",
+          "desc": "Slow your own pace to match theirs — don't rush to fill silence."
+        }
+      ],
+      "script": "\"I notice HR and Dana are both here — can someone tell me each of your roles in this conversation?\"",
+      "example": "Wei walked in and saw three people instead of one. She asked each person's role before anyone spoke further. HR's answer — 'I'm here to walk through your separation paperwork' — told her the decision was already final, and she stopped fighting it.",
+      "watchFor": "They answer the role question faster than they answer anything else.",
+      "ifItFails": "They deflect with 'just a formality' and give no real answer. Stop asking and note it instead — write down every name and title the second you leave. Email yourself: \"Present in the meeting: [names], [time], [date].\"",
+      "counter": "If you're stacking a room against someone, know a sharp person will name it.\n• Extra attendees tip your hand that this is more serious than stated.\n• Only bring people whose presence you can explain plainly if asked.\n• A named role calms the room faster than a vague one does.",
+      "insight": "The number of people in the room tells you how final the decision already is. The next move is deciding how much energy to spend on a decision that's already made."
+    },
+    {
+      "id": 6,
+      "cat": "first-sixty",
+      "danger": "moderate",
+      "title": "Don't Argue the Decision, Only the Facts",
+      "when": "You feel the urge to convince them to reverse the termination.",
+      "hook": "The decision is final before you walk in. <strong>Arguing it just burns time you need for the details that are still open.</strong>",
+      "truth": "The decision got made above your manager's head days before this meeting.\n• Arguing the decision reads as denial and gets you nothing back.\n• Every minute spent arguing is a minute not spent locking in terms.\n• Most people lose the negotiable parts by fighting the part that's already closed.",
+      "principle": "Schelling — Fighting the Unwinnable Fight",
+      "remember": "You can't undo the decision, only fix what's wrong in it.",
+      "theySee": "A person who accepts the decision calmly and moves straight to logistics.",
+      "signals": [
+        {
+          "icon": "🔒",
+          "l": "Firm language",
+          "t": "They use words like 'final' or 'not up for discussion.'"
+        },
+        {
+          "icon": "🚪",
+          "l": "No reversal offer",
+          "t": "They never mention a path back to the role."
+        },
+        {
+          "icon": "📮",
+          "l": "Redirect to HR",
+          "t": "They redirect every pushback straight to HR or paperwork."
+        },
+        {
+          "icon": "📑",
+          "l": "Prepared documents",
+          "t": "They already have a folder of severance terms ready."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Accept out loud",
+          "desc": "Say plainly: \"I hear this is final. Let's talk about the details.\""
+        },
+        {
+          "n": "2",
+          "title": "List questions",
+          "desc": "Ask about severance, benefits end date, and final pay in order."
+        },
+        {
+          "n": "3",
+          "title": "Skip the appeal",
+          "desc": "Save any appeal for HR later in writing, not in this room."
+        }
+      ],
+      "script": "\"I understand this is final. Let's talk about severance, my last paycheck, and benefits — what's on the table?\"",
+      "example": "Carlos wanted to argue his performance record for ten minutes straight. He caught himself, said 'understood, this is final,' and pivoted to asking about his unused vacation payout. He recovered three days of pay he almost talked past.",
+      "watchFor": "Their posture relaxes once you stop pushing on the decision itself.",
+      "ifItFails": "You still feel the urge to relitigate and it slips out anyway. Stop mid-sentence and reset: \"Let me rephrase — what are the severance terms?\" One reset costs nothing; three make you look unstable.",
+      "counter": "If you're delivering hard news and they push back on the decision itself, redirect them.\n• Arguing with someone in denial wastes both people's time in the room.\n• Say once: \"This part is decided. Let's cover what's still open.\"\n• Repeat that line calmly instead of re-explaining the reasoning.",
+      "insight": "Fighting a closed door just tires you out before the open ones. The harder part is knowing which door is which in the moment."
+    },
+    {
+      "id": 7,
+      "cat": "signing",
+      "danger": "high",
+      "title": "Never Sign the Severance Agreement That Day",
+      "when": "HR asks you to sign the severance agreement in the termination meeting itself.",
+      "hook": "They hand you papers and a pen in the same meeting. <strong>Signing today only benefits the side that wrote it.</strong>",
+      "truth": "Companies want a signature before shock wears off and a lawyer gets involved.\n• A signed release that day locks in terms before you know what's fair.\n• Federal law gives you 21 days to review most severance releases — use it.\n• Most people sign fast out of fear the offer disappears, which it rarely does.",
+      "principle": "Schelling — Commitment Under Time Pressure",
+      "remember": "A deadline that day is designed to stop you from reading it twice.",
+      "theySee": "A composed person who takes the papers, says thanks, and leaves without signing.",
+      "signals": [
+        {
+          "icon": "✍️",
+          "l": "Same-day ask",
+          "t": "They ask for a signature before you leave the room."
+        },
+        {
+          "icon": "🖊️",
+          "l": "Pen ready",
+          "t": "A pen sits on the table next to the papers."
+        },
+        {
+          "icon": "⏰",
+          "l": "Urgency language",
+          "t": "They say the offer is 'only good today' or 'time-sensitive.'"
+        },
+        {
+          "icon": "📋",
+          "l": "No copy offered",
+          "t": "They don't offer to let you take a copy home."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Take the papers",
+          "desc": "Say 'I'll take this with me' and put it straight in your bag."
+        },
+        {
+          "n": "2",
+          "title": "Ask the window",
+          "desc": "Ask HR directly: \"How many days do I have to review this?\""
+        },
+        {
+          "n": "3",
+          "title": "Call a lawyer",
+          "desc": "Call an employment lawyer this week before you sign anything."
+        }
+      ],
+      "script": "\"I'll take this home to review — how many days do I have before I need to respond?\"",
+      "example": "Renee was handed a release and a pen in the same breath as the bad news. She said she needed time, took the folder, and had an employment lawyer review it two days later. The lawyer caught a clause waiving her unpaid bonus — HR fixed it once challenged.",
+      "watchFor": "They stop pushing the pen once you say you're taking it home.",
+      "ifItFails": "They insist the offer expires today if you don't sign now. Don't cave — that claim is almost always false and hard for them to enforce. Say: \"Then I'll decline today's version and we can discuss it in writing this week.\"",
+      "counter": "If you're the one asking someone to sign something fast, expect resistance from anyone who's done this before.\n• A same-day signature ask reads as a red flag to any prepared person.\n• Give a real review window and expect them to use all of it.\n• Rushing a signature invites a lawyer into the conversation, not out of it.",
+      "insight": "Time pressure is the whole trick — remove it and most bad terms fall apart on their own. The harder part is staying calm enough in the room to actually take the papers instead of the pen."
+    },
+    {
+      "id": 8,
+      "cat": "signing",
+      "danger": "moderate",
+      "title": "Read the Non-Disparagement Clause Twice",
+      "when": "You're reviewing the severance agreement and hit the non-disparagement section.",
+      "hook": "The clause says you can't say anything bad about the company. <strong>Read it again — does it say the same thing about them?</strong>",
+      "truth": "Companies write these clauses one-sided by default, and most people never check.\n• A one-way clause lets them badmouth you while you stay silent.\n• You can ask for mutual language before you sign anything.\n• Most people accept the clause as boilerplate and never push back.",
+      "principle": "Contract Asymmetry — Mutuality Gap",
+      "remember": "Check if the gag order runs both ways, not just yours.",
+      "theySee": "A careful reader flagging one clause instead of signing on the spot.",
+      "signals": [
+        {
+          "icon": "📜",
+          "l": "One-sided language",
+          "t": "The clause names only you as the party who can't disparage."
+        },
+        {
+          "icon": "❓",
+          "l": "Vague scope",
+          "t": "The clause doesn't define what counts as disparagement."
+        },
+        {
+          "icon": "🚫",
+          "l": "No carve-out",
+          "t": "There's no exception for truthful statements to a lawyer or regulator."
+        },
+        {
+          "icon": "🔇",
+          "l": "Reference silence",
+          "t": "There's no matching agreement on what they'll tell future employers."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Compare the language",
+          "desc": "Check if 'both parties' appears, not just your name."
+        },
+        {
+          "n": "2",
+          "title": "Ask for mutual terms",
+          "desc": "Ask HR in writing to add mutual non-disparagement language."
+        },
+        {
+          "n": "3",
+          "title": "Get the reference line",
+          "desc": "Ask what exact words they'll give to reference checks."
+        }
+      ],
+      "script": "\"This clause only names me — can we make it mutual, covering the company too?\"",
+      "example": "Jae's draft agreement barred him from criticizing the company with no matching promise from them. He asked in writing for mutual language. HR added it within a day rather than risk the delay.",
+      "watchFor": "HR agrees fast to the mutual add, which tells you it cost them nothing.",
+      "ifItFails": "HR says the clause is standard and won't change. Ask instead for a side letter defining the exact reference language they'll give — that's often easier for them to grant. Say: \"Then let's put the agreed reference wording in a separate letter.\"",
+      "counter": "If you're the one drafting a one-sided clause, expect a prepared reader to catch it.\n• A one-way gag clause is an easy, obvious ask for anyone who reads closely.\n• Offer mutual language up front to skip the negotiation entirely.\n• A side letter on reference wording often settles the same worry faster.",
+      "insight": "The clause protects them by default, not you. The next question is whether you catch the other one-sided clause sitting a paragraph below it."
+    },
+    {
+      "id": 9,
+      "cat": "signing",
+      "danger": "high",
+      "title": "Spot the Release That Waives Age Discrimination Claims",
+      "when": "You're over 40 and reviewing a severance agreement that waives legal claims.",
+      "hook": "If you're over 40, federal law gives you protections this agreement may be quietly waiving. <strong>The company isn't required to explain that to you.</strong>",
+      "truth": "The law requires specific disclosures for age-related waivers, and violations void the waiver.\n• The OWBPA requires 21 days to review and 7 days to revoke after signing.\n• Group layoffs require a disclosure of ages and job titles of everyone affected.\n• Most people sign early anyway, giving up a right that cost nothing to keep.",
+      "principle": "OWBPA — Older Workers Benefit Protection Act",
+      "remember": "Workers over 40 get extra time and rights the paperwork won't announce.",
+      "theySee": "A calm employee asking a legal-sounding question instead of signing right away.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Short window",
+          "t": "You're given fewer than 21 days to review the agreement."
+        },
+        {
+          "icon": "↩️",
+          "l": "No revoke line",
+          "t": "There's no mention of a 7-day period to change your mind after signing."
+        },
+        {
+          "icon": "📊",
+          "l": "Missing disclosure",
+          "t": "In a group layoff, there's no list of ages and titles of others let go."
+        },
+        {
+          "icon": "🔍",
+          "l": "Age-blind language",
+          "t": "The release doesn't specifically name age discrimination claims at all."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the calendar",
+          "desc": "Count the actual days given against the 21-day legal minimum."
+        },
+        {
+          "n": "2",
+          "title": "Find the revoke clause",
+          "desc": "Look for language on the 7-day period to cancel after signing."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the list",
+          "desc": "In a layoff, ask for the ages and titles of everyone else affected."
+        }
+      ],
+      "script": "\"Since I'm over 40, I believe I'm owed 21 days to review and 7 days to revoke — can you confirm this agreement meets that?\"",
+      "example": "Fred, 52, was given 5 days to sign in a round of layoffs. He asked HR to confirm OWBPA compliance in writing. HR extended his window to 21 days rather than risk the whole release being challenged later.",
+      "watchFor": "HR goes quiet, then comes back with a corrected timeline in writing.",
+      "ifItFails": "HR insists the short window is standard and won't budge. Don't sign inside a non-compliant window — a release that violates OWBPA can be thrown out entirely, which removes their protection, not yours. Say: \"I'll have a lawyer confirm compliance before I sign anything.\"",
+      "counter": "If you're managing a layoff and someone raises OWBPA, take it seriously.\n• A challenged waiver can undo the whole release, not just one clause.\n• Give the full 21 and 7 days rather than risk the agreement collapsing.\n• Provide the age and title disclosure for any group layoff unasked.",
+      "insight": "This is the one clause the law protects you on whether they mention it or not. The harder part is knowing the number exists at all before the clock runs out."
+    },
+    {
+      "id": 10,
+      "cat": "terms",
+      "danger": "moderate",
+      "title": "Ask for More Severance Than They Offer",
+      "when": "HR presents a severance number as if it's the only offer on the table.",
+      "hook": "They hand you a number like it's fixed. <strong>It's not fixed. It's an opening bid.</strong>",
+      "truth": "The first severance number is almost always the floor, not the ceiling.\n• Companies budget more than the first offer to avoid a lawsuit or bad press.\n• Asking for more costs them nothing to consider and costs you nothing to ask.\n• Most people accept the first number out of relief that any offer exists.",
+      "principle": "Cialdini: Anchoring — First Offer Bias",
+      "remember": "Their first number is a starting point, not a final one.",
+      "theySee": "Someone who pauses, asks a sharp question, and doesn't grab the pen.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Fast offer",
+          "t": "They present the number within the first few minutes."
+        },
+        {
+          "icon": "🔢",
+          "l": "Round number",
+          "t": "The severance amount is a clean round figure, like exactly 4 weeks."
+        },
+        {
+          "icon": "📃",
+          "l": "No mention of policy",
+          "t": "They don't cite a written severance policy or formula."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Quick close attempt",
+          "t": "They ask you to accept before you've asked a single question."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pause first",
+          "desc": "Say you need to review before responding to any number."
+        },
+        {
+          "n": "2",
+          "title": "Name a target",
+          "desc": "Ask for a specific increase: \"Can we get this to 8 weeks?\""
+        },
+        {
+          "n": "3",
+          "title": "Tie it to risk",
+          "desc": "Mention tenure, unused vacation, or timing as your reason."
+        }
+      ],
+      "script": "\"Before I respond — is 4 weeks the standard formula, or is there room to discuss 8 given my tenure?\"",
+      "example": "Lena was offered 4 weeks after 6 years. She asked if that matched a written policy or was negotiable. HR came back with 6 weeks two days later, no lawyer needed.",
+      "watchFor": "They ask for time to 'check with someone' instead of saying no outright.",
+      "ifItFails": "They hold firm at the original number and call it final. Ask for the increase in a different form instead — extended benefits, a later end date, or accelerated vesting. Say: \"If the number is fixed, can we extend my health coverage instead?\"",
+      "counter": "If you're the one handing over the first number, expect a countered ask.\n• A quick, round number invites a request for more almost every time.\n• Anchor lower than your real ceiling so there's room to move.\n• Tie any increase you grant to something specific, like tenure or timing.",
+      "insight": "The number in the room is never the number in the budget. The next fight is over which form the extra takes if the check itself won't move."
+    },
+    {
+      "id": 11,
+      "cat": "terms",
+      "danger": "moderate",
+      "title": "Get the Reference Story Agreed in Writing",
+      "when": "You're finalizing severance terms and no one has mentioned what future employers will hear.",
+      "hook": "Six months from now, a recruiter calls your old company. <strong>What they say next was decided today, or it wasn't decided at all.</strong>",
+      "truth": "Most companies only confirm dates and titles by policy, but you can negotiate more.\n• An agreed reference story removes the risk of an off-script comment later.\n• Without it, any manager could say something damaging in an informal call.\n• Most people forget to ask, and find out what was said only after a rejection.",
+      "principle": "Narrative Control — Post-Exit Framing",
+      "remember": "Agree on the story they'll tell before you leave the building.",
+      "theySee": "Someone thinking ahead to their next job instead of just processing today.",
+      "signals": [
+        {
+          "icon": "📋",
+          "l": "Policy-only mention",
+          "t": "HR says they 'only confirm dates and title' with no further detail."
+        },
+        {
+          "icon": "❔",
+          "l": "No named contact",
+          "t": "No one names who will actually field reference calls."
+        },
+        {
+          "icon": "🤐",
+          "l": "Silence on wording",
+          "t": "Nobody offers you draft language to review."
+        },
+        {
+          "icon": "🙅",
+          "l": "Manager left out",
+          "t": "Your direct manager isn't included in the reference discussion at all."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the policy",
+          "desc": "Ask exactly what HR will confirm to a reference call."
+        },
+        {
+          "n": "2",
+          "title": "Draft the line",
+          "desc": "Write one sentence describing your exit and propose it to HR."
+        },
+        {
+          "n": "3",
+          "title": "Name the contact",
+          "desc": "Ask who future calls should be directed to, and get it in writing."
+        }
+      ],
+      "script": "\"Can we agree on the exact line that goes to reference checks, and who fields the call?\"",
+      "example": "Omar asked HR to confirm the reference line before he left: 'Omar's position was eliminated in a restructuring; he's eligible for rehire.' He got it in email. A recruiter called three months later and heard exactly that.",
+      "watchFor": "HR agrees to put the line in writing without pushing back.",
+      "ifItFails": "HR says they can't guarantee what a manager says informally. Get the official policy line in writing anyway, and separately ask your manager for a personal reference outside the company channel. Say: \"Then I'll ask you directly for a personal reference I can list separately.\"",
+      "counter": "If you're asked to give a reference for someone who left on bad terms, know the same move applies.\n• A vague answer on your end invites the same written-agreement ask.\n• Agree to a short, factual line rather than leave it improvised.\n• Put it in writing yourself if no one else offers to.",
+      "insight": "Nobody controls the story by accident. The harder part is that even a written line can't stop an offhand comment in a call nobody records."
+    },
+    {
+      "id": 12,
+      "cat": "terms",
+      "danger": "low",
+      "title": "Negotiate the COBRA Subsidy, Not Just the Check",
+      "when": "You're reviewing severance terms and health coverage isn't in the number they quoted.",
+      "hook": "COBRA can run $600 to $2,000 a month out of pocket. <strong>That number is a bigger hit than the check they just handed you.</strong>",
+      "truth": "Severance offers often quote a cash number without covering the real cost of health insurance.\n• COBRA replaces your coverage but you pay the full premium, employer share included.\n• A subsidized COBRA period is a separate ask most people never make.\n• Most people focus on the check and get blindsided by the first COBRA bill.",
+      "principle": "Total Compensation Framing",
+      "remember": "Health coverage costs more than most severance checks cover.",
+      "theySee": "Someone who asks about health coverage instead of just the cash number.",
+      "signals": [
+        {
+          "icon": "💵",
+          "l": "Cash-only offer",
+          "t": "The offer names a dollar amount with no mention of health coverage."
+        },
+        {
+          "icon": "❓",
+          "l": "Vague benefits line",
+          "t": "Benefits are described as 'ending per COBRA rules' with no detail."
+        },
+        {
+          "icon": "🚫",
+          "l": "No subsidy mention",
+          "t": "Nobody says whether the company will pay any part of COBRA."
+        },
+        {
+          "icon": "📉",
+          "l": "Short coverage window",
+          "t": "Coverage ends the same day as your last day, with no bridge period."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get the premium",
+          "desc": "Ask HR for the exact monthly COBRA cost for your plan."
+        },
+        {
+          "n": "2",
+          "title": "Ask for months",
+          "desc": "Ask for a specific number of months of subsidized COBRA."
+        },
+        {
+          "n": "3",
+          "title": "Compare the trade",
+          "desc": "Weigh a smaller check against months of paid health coverage."
+        }
+      ],
+      "script": "\"What's my monthly COBRA cost, and can the company subsidize it for 3 months instead of increasing the check?\"",
+      "example": "Nina's severance was cash-only. She asked for the COBRA number, then requested 3 months subsidized instead of a marginal cash bump. HR agreed, since it cost them less than the cash ask would have.",
+      "watchFor": "HR pulls up the COBRA number faster than they discuss cash increases.",
+      "ifItFails": "HR says they don't subsidize COBRA under any circumstance. Ask for the cash equivalent added to your severance check instead, calculated against the real premium. Say: \"Then add three months of COBRA cost directly to the severance total.\"",
+      "counter": "If you're structuring an exit package, know a sharp employee will ask this.\n• A cash-only offer invites a harder ask once they price out COBRA.\n• Offering a subsidy option upfront often costs less than a cash increase.\n• Naming the real premium yourself controls where the conversation goes.",
+      "insight": "The check feels like the whole deal, but health coverage is the part with a monthly bill attached. The next problem is timing it against a new job's waiting period."
+    },
+    {
+      "id": 13,
+      "cat": "walkout",
+      "danger": "low",
+      "title": "Control How You Leave the Building",
+      "when": "The meeting is over and it's time to physically leave the office.",
+      "hook": "You can walk out through the lobby with your head up, or get escorted like a risk. <strong>One of those is your choice.</strong>",
+      "truth": "How you leave becomes the story people remember, more than anything you said in the room.\n• A calm walkout denies anyone a story worth repeating.\n• An escorted, emotional walkout becomes the office headline for a week.\n• Most people don't think about the walk out until they're already in it.",
+      "principle": "Greene: Law 47 — Know When to Stop",
+      "remember": "You choose how you leave, or they choose it for you.",
+      "theySee": "A person who leaves at a normal pace, calm, and unremarkable.",
+      "signals": [
+        {
+          "icon": "🛡️",
+          "l": "Security mention",
+          "t": "Someone mentions a security escort before you've asked for one."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Timing pressure",
+          "t": "They ask you to leave immediately, during work hours."
+        },
+        {
+          "icon": "📦",
+          "l": "Box provided",
+          "t": "A box for your things appears before you've packed anything."
+        },
+        {
+          "icon": "↪️",
+          "l": "Route suggested",
+          "t": "They suggest a side door instead of the main lobby."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick your route",
+          "desc": "Ask to leave through the main entrance, not a back door."
+        },
+        {
+          "n": "2",
+          "title": "Set your pace",
+          "desc": "Walk at a normal pace — don't rush and don't linger."
+        },
+        {
+          "n": "3",
+          "title": "Say one line",
+          "desc": "If someone asks what happened, use one flat sentence, nothing more."
+        }
+      ],
+      "script": "\"I'll go out through the main lobby, thanks — no need for an escort.\"",
+      "example": "Ben was offered a side door to 'avoid awkwardness.' He asked for the main lobby instead, walked out calmly past his old team, and nodded to two people on the way. No story circulated about how he left.",
+      "watchFor": "They stop insisting on the side door once you name the main one.",
+      "ifItFails": "Security insists on an escort regardless of your preference. Accept it without a fight — arguing with security guards makes the story, not the escort itself. Say: \"Understood, let's go,\" and keep your pace even the whole way.",
+      "counter": "If you're managing someone else's exit, know the walk matters as much as the meeting.\n• A forced side-door route reads as punishment and gets talked about.\n• Offer the choice of route unless there's a real safety reason not to.\n• A calm walk-out protects the company's story as much as the person's.",
+      "insight": "The meeting ends in a room nobody else sees. The walk out happens in front of everyone who does."
+    },
+    {
+      "id": 14,
+      "cat": "walkout",
+      "danger": "moderate",
+      "title": "Don't Say Goodbye to Everyone on the Way Out",
+      "when": "You're packing up and want to say goodbye to coworkers before you leave.",
+      "hook": "Every hallway goodbye becomes a retelling of your last day. <strong>You don't control what they repeat once you're gone.</strong>",
+      "truth": "Anything said in that hallway gets repeated, edited, and passed around within the hour.\n• A rushed goodbye tour reads as either bitter or desperate, depending who tells it.\n• You lose control of your own words the moment they leave your mouth in that building.\n• Most people want closure in the moment and give up the story to get it.",
+      "principle": "Information Control — Need-to-Know",
+      "remember": "Save the goodbyes for outside the building, on your own time.",
+      "theySee": "A coworker who says one short, warm line and keeps moving without lingering.",
+      "signals": [
+        {
+          "icon": "👥",
+          "l": "Crowd forming",
+          "t": "Coworkers start gathering near your desk once word spreads."
+        },
+        {
+          "icon": "❓",
+          "l": "Loaded questions",
+          "t": "Someone asks 'what really happened' within earshot of others."
+        },
+        {
+          "icon": "👀",
+          "l": "Manager hovering",
+          "t": "Your manager or HR stays nearby while you pack."
+        },
+        {
+          "icon": "⏳",
+          "l": "Time pressure",
+          "t": "You're given a short window to clear your desk."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Keep it short",
+          "desc": "Say one neutral line to anyone who approaches: \"It's been good, I'll be in touch.\""
+        },
+        {
+          "n": "2",
+          "title": "Skip the story",
+          "desc": "Don't explain the reason to anyone while still in the building."
+        },
+        {
+          "n": "3",
+          "title": "Follow up later",
+          "desc": "Message close coworkers personally once you're home, not in the office."
+        }
+      ],
+      "script": "\"It's been a good run — I'll reach out once I'm settled. Take care.\"",
+      "example": "Sam wanted to explain his side to five different coworkers on the way out. He held back, said one neutral line to each, and packed fast. That evening he texted the three people who mattered with the real story, on his own terms.",
+      "watchFor": "Coworkers nod and let you keep moving instead of pressing for more.",
+      "ifItFails": "Someone presses hard for details right there in the office. Don't give in and start explaining — redirect and keep walking. Say: \"I'll tell you the real story once I'm not standing in this building.\"",
+      "counter": "If a coworker is leaving and presses you for the real story on their way out, don't corner them.\n• Pressing someone mid-exit gets you a rehearsed line, not the truth.\n• Ask instead: \"Want to grab coffee once you're settled?\"\n• The real story comes later, calmer, and more accurate outside the building.",
+      "insight": "Closure inside the building costs you the story outside it. The harder part is waiting a few hours when you want to explain yourself right now."
+    },
+    {
+      "id": 15,
+      "cat": "walkout",
+      "danger": "high",
+      "title": "Send One Email Before You Hand Back the Laptop",
+      "when": "You're about to return company equipment and lose access to your work accounts for good.",
+      "hook": "Once you hand back the laptop, your access to the record disappears with it. <strong>Send yourself the facts first.</strong>",
+      "truth": "A record made at the time protects you if any term of the exit gets disputed later.\n• Memory fades and gets challenged; a timestamped email doesn't.\n• Once the laptop is gone, so is your proof of what was said and when.\n• Most people leave this until later and lose access to write it down at all.",
+      "principle": "Documentation — Contemporaneous Record",
+      "remember": "Write down what happened while it's still fresh and provable.",
+      "theySee": "Someone calmly typing an email before packing up the desk.",
+      "signals": [
+        {
+          "icon": "💻",
+          "l": "Equipment request",
+          "t": "Someone asks for the laptop and badge before you've written anything down."
+        },
+        {
+          "icon": "📄",
+          "l": "No copy given",
+          "t": "Nobody offers you a copy of the severance terms discussed verbally."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Verbal-only promises",
+          "t": "A promise about final pay or bonus is spoken, not written."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Fast handoff",
+          "t": "IT wants the equipment back within the hour."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the facts",
+          "desc": "List the date, who was present, and what was promised, in order."
+        },
+        {
+          "n": "2",
+          "title": "Send to yourself",
+          "desc": "Email it to your personal address before handing over any equipment."
+        },
+        {
+          "n": "3",
+          "title": "Ask for confirmation",
+          "desc": "Ask HR to confirm the same terms in writing within 48 hours."
+        }
+      ],
+      "script": "\"Before I hand this back — can you confirm in writing what we agreed on severance and final pay?\"",
+      "example": "Alina was promised a bonus payout verbally in her termination meeting. Before returning her laptop, she emailed herself the date, names present, and the exact number stated. When the bonus didn't appear on her final check, that email got it corrected within a week.",
+      "watchFor": "HR sends written confirmation without you having to ask twice.",
+      "ifItFails": "HR is slow or vague about confirming terms in writing. Send your own written recap directly to HR and CC yourself, making the record either way. Say: \"Recapping what we discussed today, so we have it in writing: [terms].\"",
+      "counter": "If you're the one making verbal promises in an exit meeting, expect them to get written down.\n• An unwritten promise gets challenged the moment it's disputed later.\n• Confirm terms in writing yourself before anyone has to ask.\n• A fast, clear recap protects both sides from a later dispute.",
+      "insight": "The equipment holds the proof, and the proof disappears with the equipment. The next problem is whether anyone honors what the email says."
+    },
+    {
+      "id": 16,
+      "cat": "aftermath",
+      "danger": "low",
+      "title": "File for Unemployment the Same Week",
+      "when": "You've just been let go and haven't filed for unemployment benefits yet.",
+      "hook": "Every week you wait to file is a week of money you don't get back. <strong>The clock doesn't pause for grief.</strong>",
+      "truth": "Unemployment benefits are calculated from your filing date, not your last day worked.\n• Waiting even one week can mean a permanent, uncollectable gap in benefits.\n• Severance may delay eligibility in some states, but filing early confirms your status.\n• Most people wait out of pride or shock, and lose real money they can't reclaim.",
+      "principle": "Deadline Asymmetry — Use-It-or-Lose-It Clock",
+      "remember": "The clock on unemployment starts the day you're let go, not when you're ready.",
+      "theySee": "Nobody — this is a solo move, done at a computer, not in front of anyone.",
+      "signals": [
+        {
+          "icon": "😔",
+          "l": "Delay urge",
+          "t": "You feel a pull to wait until you 'process' before filing anything."
+        },
+        {
+          "icon": "❓",
+          "l": "Severance confusion",
+          "t": "You're unsure if severance pay affects your eligibility."
+        },
+        {
+          "icon": "📚",
+          "l": "Paperwork pile",
+          "t": "Termination documents sit unopened for more than a few days."
+        },
+        {
+          "icon": "📅",
+          "l": "No income plan",
+          "t": "You haven't checked your state's specific filing deadline yet."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the state site",
+          "desc": "Go to your state's unemployment website within 48 hours."
+        },
+        {
+          "n": "2",
+          "title": "Gather documents",
+          "desc": "Have your last pay stub and termination letter ready to upload."
+        },
+        {
+          "n": "3",
+          "title": "File the claim",
+          "desc": "Submit the claim even if you're unsure about severance overlap."
+        }
+      ],
+      "script": "\"I'm filing today — the clock doesn't wait for me to feel ready.\"",
+      "example": "Derek waited two weeks to file, embarrassed about being let go. He lost those two weeks of benefits permanently once he finally filed. His friend Rosa filed the same day and had her first check within three weeks.",
+      "watchFor": "The state confirms your claim start date matches your actual filing day.",
+      "ifItFails": "Your state flags your severance and delays the claim for review. Don't drop it — call the unemployment office directly and ask what clears the delay fastest. Say: \"What do you need from me to move this claim out of review?\"",
+      "counter": "If you're advising someone else who just lost a job, don't let them wait either.\n• Grief and pride cost real money on a clock that doesn't pause.\n• Tell them plainly: \"File today, sort your feelings tomorrow.\"\n• Help them find the state site and the exact documents needed.",
+      "insight": "The system doesn't care how ready you feel. The next problem is making what you get last until the next paycheck lands."
+    },
+    {
+      "id": 17,
+      "cat": "aftermath",
+      "danger": "low",
+      "title": "Call Three People Before You Update LinkedIn",
+      "when": "You're deciding how and when to tell your network you're job hunting.",
+      "hook": "A LinkedIn post reaches everyone at once, including people who won't help. <strong>Three warm calls beat one public post.</strong>",
+      "truth": "Job leads come from people who already trust you, not from an algorithm.\n• A public post reaches strangers who mostly just react, not help.\n• Direct calls get you real leads faster because people act for people they know.\n• Most people post publicly first and skip the calls that actually produce offers.",
+      "principle": "Network Activation — Warm Before Cold",
+      "remember": "Call people who like you before a headline tells strangers.",
+      "theySee": "A person on the phone with an old contact, not scrolling a feed.",
+      "signals": [
+        {
+          "icon": "📢",
+          "l": "Urge to announce",
+          "t": "You feel the pull to post something before you've called anyone."
+        },
+        {
+          "icon": "📵",
+          "l": "Contact list untouched",
+          "t": "Your phone's recent contacts haven't been reviewed in months."
+        },
+        {
+          "icon": "❔",
+          "l": "No ask ready",
+          "t": "You haven't decided what specific help you want yet."
+        },
+        {
+          "icon": "💬",
+          "l": "Vague messaging",
+          "t": "Your planned post says 'open to opportunities' with no specifics."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List three names",
+          "desc": "Write down three people who'd take your call today."
+        },
+        {
+          "n": "2",
+          "title": "Call, don't text",
+          "desc": "Call each one and say plainly what role you're looking for."
+        },
+        {
+          "n": "3",
+          "title": "Ask for one intro",
+          "desc": "Ask each person for one specific name they could introduce you to."
+        }
+      ],
+      "script": "\"Hey, wanted you to hear it from me first — I'm looking for a [role] and thought of you. Know anyone hiring?\"",
+      "example": "Yuki called her old manager, a former client, and a college friend before posting anything. The former client made one introduction that turned into an interview within a week — before her LinkedIn post even went up.",
+      "watchFor": "They respond with a name or an offer to make an introduction, not just sympathy.",
+      "ifItFails": "None of the three have an immediate lead to offer. Ask each of them for one more name instead of stopping at three. Say: \"No worries — is there anyone else you'd point me to?\"",
+      "counter": "If someone calls you for a job lead, take the ask seriously, not as small talk.\n• A direct call means they see you as someone who can actually help.\n• Give one real name if you have one, even a small lead.\n• Introductions cost you little and mean a lot to the person asking.",
+      "insight": "The algorithm doesn't owe you a job. The people who already know your work do more of the work for you if you ask them directly."
+    },
+    {
+      "id": 18,
+      "cat": "aftermath",
+      "danger": "moderate",
+      "title": "Don't Explain the Firing, Frame It",
+      "when": "A new contact or interviewer asks why you left your last job.",
+      "hook": "Whoever tells the story first sets what everyone else believes. <strong>Silence just means someone else tells it for you.</strong>",
+      "truth": "The first version of a story anchors what people believe, even over facts that come later.\n• A short, neutral answer closes the topic faster than a long defense.\n• Over-explaining reads as guilt, even when there's nothing to feel guilty about.\n• Most people overshare or go silent, and both read as hiding something.",
+      "principle": "Narrative Control — First-Mover Framing",
+      "remember": "Say your version first, short and flat, before anyone asks twice.",
+      "theySee": "A candidate who answers once, calmly, and moves the conversation forward.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Direct question",
+          "t": "An interviewer asks flatly why you left your last role."
+        },
+        {
+          "icon": "🤐",
+          "l": "Pause after asking",
+          "t": "They go quiet after asking, waiting to see how much you say."
+        },
+        {
+          "icon": "🔎",
+          "l": "Follow-up probe",
+          "t": "They ask a second, more specific question if your first answer felt thin."
+        },
+        {
+          "icon": "📝",
+          "l": "Note-taking",
+          "t": "They write something down right after you answer."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the line",
+          "desc": "Write one flat sentence about the exit before any interview."
+        },
+        {
+          "n": "2",
+          "title": "Practice it flat",
+          "desc": "Say it out loud until it sounds bored, not defensive."
+        },
+        {
+          "n": "3",
+          "title": "Stop after it",
+          "desc": "Answer once, then stop talking and let them ask more if they want."
+        }
+      ],
+      "script": "\"My role was eliminated in a restructuring. I'm looking for the next place to bring that experience.\"",
+      "example": "Priya's old company folded her whole department. In interviews, she gave one flat sentence about it every time and moved straight into what she wanted next. Nobody ever asked a follow-up twice.",
+      "watchFor": "They nod and move to the next question without probing further.",
+      "ifItFails": "They press for more detail than your flat line covers. Give one more layer of fact, still short, and redirect back to what you want next. Say: \"It was a budget-driven restructuring — happy to share a reference if useful. Now, about this role...\"",
+      "counter": "If you're interviewing someone and their answer sounds too rehearsed, that's not automatically a red flag.\n• A flat, practiced answer is smart self-protection, not proof of a problem.\n• Ask for a reference if you want more than the line they gave you.\n• Judge them on the work ahead, not the story behind them.",
+      "insight": "The story gets written by whoever speaks first and stops soonest. The next challenge is saying it the same flat way six months from now, when it stops feeling fresh."
+    }
+  ]
+}

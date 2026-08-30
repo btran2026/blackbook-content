@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 48,
+  "manifestVersion": 49,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -286,7 +286,20 @@
       "url": "playbooks/playbook-srv-the-art-of-getting-what-you-want.json",
       "addedAt": "2026-08-30T17:32:54.280Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-surviving-your-own-termination-meeting",
+      "title": "Surviving Your Own Termination Meeting",
+      "theme": "termination",
+      "topic": "",
+      "cardCount": 18,
+      "contentVersion": 1,
+      "coverColor": "#7A1F2B",
+      "coverIcon": "🚪",
+      "url": "playbooks/playbook-srv-surviving-your-own-termination-meeting.json",
+      "addedAt": "2026-08-30T17:33:01.933Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-30T17:32:54.280Z"
+  "generatedAt": "2026-08-30T17:33:01.933Z"
 }
