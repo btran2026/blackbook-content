@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 45,
+  "manifestVersion": 46,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -247,7 +247,20 @@
       "url": "playbooks/playbook-srv-force-the-yes-getting-a-decision-out-of-a-stalling-room.json",
       "addedAt": "2026-08-30T03:55:53.622Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-art-of-the-break-up",
+      "title": "The Art of the Break Up",
+      "theme": "breakup",
+      "topic": "",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#7B1E3A",
+      "coverIcon": "💔",
+      "url": "playbooks/playbook-srv-the-art-of-the-break-up.json",
+      "addedAt": "2026-08-30T03:56:00.208Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-30T03:55:53.622Z"
+  "generatedAt": "2026-08-30T03:56:00.208Z"
 }

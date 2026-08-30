@@ -1,0 +1,614 @@
+{
+  "meta": {
+    "id": "srv-the-art-of-the-break-up",
+    "version": "1.0",
+    "title": "The Art of the Break Up",
+    "subtitle": "Leaving clean, leaving first, leaving with your life intact",
+    "description": "Ten cards on ending a relationship on your terms. How to read the exit before it happens, how to run the conversation, how to handle the pull-back, the smear, the shared friends, and the months after. Cold, specific, usable.",
+    "author": "AI",
+    "createdAt": "2026-08-23T07:12:30.717Z",
+    "tags": [
+      "breakup",
+      "relationships",
+      "power",
+      "exit",
+      "dark-psychology",
+      "aftermath"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#7B1E3A",
+    "coverIcon": "💔",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "read",
+      "label": "Read The Room",
+      "color": "#5B6EE1"
+    },
+    {
+      "key": "prepare",
+      "label": "Set Up The Exit",
+      "color": "#2E8B74"
+    },
+    {
+      "key": "execute",
+      "label": "The Conversation",
+      "color": "#B03A48"
+    },
+    {
+      "key": "pullback",
+      "label": "The Pull-Back",
+      "color": "#C4762A"
+    },
+    {
+      "key": "war",
+      "label": "After The Split",
+      "color": "#6B3FA0"
+    },
+    {
+      "key": "rebuild",
+      "label": "Your Next Six Months",
+      "color": "#3D7EA6"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "read",
+      "danger": "low",
+      "title": "Count The Small Withdrawals Before You Trust The Big Words",
+      "principle": "Gottman: Bids and Turning Away",
+      "remember": "Watch what they stopped doing, not what they still say.",
+      "when": "You feel something is wrong but every conversation ends with them saying nothing is wrong.",
+      "hook": "People announce a breakup months before they say it. <strong>They announce it by subtraction.</strong>",
+      "truth": "Nobody leaves in one day. They leave in small pieces first.\n• Count the things they stopped doing, not the things they say.\n• Each dropped habit is a test to see if you notice.\n• If you ask and they deny it, they have already decided something.",
+      "theySee": "A partner who keeps asking if everything is fine while they say yes and look at their phone.",
+      "principle_note": "",
+      "signals": [
+        {
+          "icon": "📵",
+          "l": "Phone flip",
+          "t": "They turn the phone face down when you sit next to them"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Calendar gap",
+          "t": "They stopped making plans more than a week out"
+        },
+        {
+          "icon": "🚪",
+          "l": "Errand time",
+          "t": "Their errands take two hours longer than they used to"
+        },
+        {
+          "icon": "🤐",
+          "l": "Detail drop",
+          "t": "They no longer tell you who was at dinner"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the list",
+          "desc": "Write 5 things they did six months ago and stopped doing. Dates if you have them."
+        },
+        {
+          "n": "2",
+          "title": "Ask one small question",
+          "desc": "Pick the smallest item on the list and ask about that one only. Watch the face, not the answer."
+        },
+        {
+          "n": "3",
+          "title": "Set a date",
+          "desc": "Give yourself 30 days. If three more items drop off the list, you start planning your own exit."
+        }
+      ],
+      "script": "\"You used to text me when you left work. That stopped about two months ago. <strong>What changed?</strong>\"",
+      "example": "Dana noticed her boyfriend stopped saying goodnight on the phone in March. She wrote the date down and kept watching. By May he had dropped four more habits, so she had a lease signed before he ever said the word breakup.",
+      "counter": "If someone starts counting your habits out loud, they are building a case.\n• Notice the specific dates. Dates mean they wrote things down.\n• Say: <strong>\"You have been keeping a list. Let's just talk straight.\"</strong>\n• Decide fast whether you want to repair or leave. Do not stall.",
+      "insight": "Most people spend the last six months of a relationship trying to prove it is not ending. That time buys nothing. The harder part is admitting you saw it in month two and stayed anyway — and asking yourself what you were getting out of not knowing."
+    },
+    {
+      "id": 2,
+      "cat": "prepare",
+      "danger": "moderate",
+      "title": "Move Your Money And Your Documents First",
+      "principle": "Sun Tzu: Ground — Secure Your Position Before You Commit",
+      "remember": "Sort out the money and papers before you say one word.",
+      "when": "You have decided to leave but you share a bank account, a lease, or a pet.",
+      "hook": "The talk is one hour. The money takes six weeks. <strong>Do the six weeks first.</strong>",
+      "truth": "The person who says it first loses the practical advantage unless they prepared.\n• Copy documents and open your own account while things are calm.\n• Once you speak, every shared password becomes a weapon.\n• People who feel dumped act fast on accounts, locks, and pets.",
+      "theySee": "A partner acting normal, going to work, doing the dishes, saying nothing unusual.",
+      "signals": [
+        {
+          "icon": "🏦",
+          "l": "Joint access",
+          "t": "They can move your shared savings from their phone in 30 seconds"
+        },
+        {
+          "icon": "🔑",
+          "l": "Key control",
+          "t": "They hold the only key to the storage unit or the car"
+        },
+        {
+          "icon": "📄",
+          "l": "Paper location",
+          "t": "Your passport and birth certificate sit in their drawer"
+        },
+        {
+          "icon": "🐕",
+          "l": "Pet paperwork",
+          "t": "The dog is registered in their name only"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open the account",
+          "desc": "Open a bank account today at a different bank. Change your direct deposit."
+        },
+        {
+          "n": "2",
+          "title": "Photograph everything",
+          "desc": "Photograph the lease, the passport, tax returns, and pet records. Store them in your own cloud."
+        },
+        {
+          "n": "3",
+          "title": "Take the spare key",
+          "desc": "Get a copy of every key you may need. Move a bag of clothes to a friend's place."
+        },
+        {
+          "n": "4",
+          "title": "",
+          "desc": ""
+        }
+      ],
+      "script": "(To a friend, not your partner) \"I need to leave a bag at your place for a few weeks. <strong>Don't mention it to anyone.</strong>\"",
+      "example": "Marcus copied the lease, the tax returns, and the dog's vet file into a folder on his own laptop. Three weeks later he opened his own account and moved his paycheck. When he finally had the talk, his ex froze the joint account that night and it cost him nothing.",
+      "counter": "If your partner suddenly gets organized, the talk is coming.\n• Notice new mail, a new bank card, a bag that leaves the house.\n• Say: <strong>\"You opened an account. Are we ending this?\"</strong>\n• Protect your own papers the same day. Do not wait for their answer.",
+      "insight": "Preparing looks cold and feels worse. It is also the only thing that keeps the last conversation about the relationship instead of about a debit card. The next question is how long you can act normal without your face giving you away."
+    },
+    {
+      "id": 3,
+      "cat": "prepare",
+      "danger": "moderate",
+      "title": "Pick The Place So They Can Leave Or You Can",
+      "principle": "Schelling: Commitment and Exit Options",
+      "remember": "Choose a room where one of you can walk out in ten seconds.",
+      "when": "You know what you will say and now you have to pick when and where to say it.",
+      "hook": "Where you say it decides how long it lasts. <strong>A bedroom talk runs five hours. A kitchen table talk runs forty minutes.</strong>",
+      "truth": "The room controls the length and the volume of the conversation.\n• Pick a place with a door, daylight, and no alcohol.\n• They stay calmer when they know they can leave.\n• Never do it in a car, in bed, or on a birthday.",
+      "theySee": "A partner who suggests sitting at the table on a normal weekday evening.",
+      "signals": [
+        {
+          "icon": "🍷",
+          "l": "Drink risk",
+          "t": "They have had two drinks and the talk has not started"
+        },
+        {
+          "icon": "🚗",
+          "l": "Trapped space",
+          "t": "You are 40 minutes into a drive with no stop coming"
+        },
+        {
+          "icon": "🎂",
+          "l": "Bad date",
+          "t": "It is their birthday, an anniversary, or the day before a family trip"
+        },
+        {
+          "icon": "🛏️",
+          "l": "Bedroom drift",
+          "t": "They pull you toward the bedroom when hard talks start"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the day",
+          "desc": "Pick a weekday evening with no plans the next morning. Not a Friday. Not a holiday."
+        },
+        {
+          "n": "2",
+          "title": "Pick the room",
+          "desc": "Choose the kitchen table or a quiet park bench. Somewhere either of you can stand up and go."
+        },
+        {
+          "n": "3",
+          "title": "Tell one person",
+          "desc": "Text a friend the time and place. Ask them to be free that night."
+        }
+      ],
+      "script": "\"Are you free Tuesday after dinner? I want to talk about us and I don't want to do it late at night.\"",
+      "example": "Priya almost did it in the car on the way back from her in-laws. She waited four days and did it at the kitchen table at 7pm instead. He walked out, drove to his brother's, and texted her a civil message two days later.",
+      "counter": "If someone books an odd, careful time to talk, a decision is already made.\n• Notice the setup: neutral place, no alcohol, early evening.\n• Say: <strong>\"Before you start — is this a talk or a decision?\"</strong>\n• If it is a decision, stop asking questions and start protecting your week.",
+      "insight": "The room you pick is the last kindness you control. Everything after it depends on what you say in the first two sentences — and most people ruin those by starting with a compliment."
+    },
+    {
+      "id": 4,
+      "cat": "execute",
+      "danger": "high",
+      "title": "Say It Is Over In The First Two Sentences",
+      "principle": "Voss: The Late-Night FM DJ Voice × Loss Aversion",
+      "remember": "Lead with the decision. Reasons come after, if at all.",
+      "when": "You are sitting across from them and you have thirty seconds before you lose your nerve.",
+      "hook": "Every soft opening buys them hope. <strong>Hope is what turns one hour into three months.</strong>",
+      "truth": "People argue with reasons. They cannot argue with a decision.\n• Say the decision in sentence one, flat and slow.\n• Their brain stops hearing anything after that. Reasons are wasted there.\n• If you open with praise, they hear a problem they can fix.",
+      "theySee": "A partner who sits still, speaks slowly, and does not look away.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "Frozen face",
+          "t": "They stop moving completely for three or four seconds"
+        },
+        {
+          "icon": "❓",
+          "l": "Reason hunt",
+          "t": "They ask why four times in different words"
+        },
+        {
+          "icon": "🛠️",
+          "l": "Fix offer",
+          "t": "They start proposing changes before you finish"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Time ask",
+          "t": "They ask you to wait one month before you decide"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the decision",
+          "desc": "Open with 'I am ending this.' Use the past-decision tense, not 'I think' or 'maybe'."
+        },
+        {
+          "n": "2",
+          "title": "Give one reason, once",
+          "desc": "Give a single reason in one sentence. Repeat the same sentence if they ask again."
+        },
+        {
+          "n": "3",
+          "title": "Name the next 24 hours",
+          "desc": "Say where you sleep tonight and when you will talk about the practical parts."
+        }
+      ],
+      "script": "\"I am ending this relationship. I have thought about it for a long time and it is a decision, not a question. <strong>I am staying at Sam's tonight and we can talk about the apartment on Saturday.</strong>\"",
+      "example": "Tomas opened with 'You've been amazing this year, and…' and spent the next six weeks in a relationship that was already dead. The second time, with someone else, he led with 'I am ending this.' It took forty minutes and one long silence, and it held.",
+      "counter": "If someone leads with a flat decision, they are not there to negotiate.\n• Notice the slow voice and the repeated single reason. That is a prepared line.\n• Say: <strong>\"Understood. I'm not going to argue you out of it.\"</strong>\n• Ask only practical questions: keys, money, dates. Keep your dignity for later.",
+      "insight": "Being clear looks crueler in the moment and is far kinder over six months. The trap is the middle of the conversation, where they get calm and reasonable — that calm is not agreement, it is the beginning of the pull-back."
+    },
+    {
+      "id": 5,
+      "cat": "execute",
+      "danger": "high",
+      "title": "Do Not Answer The Question What Did I Do Wrong",
+      "principle": "Gracián: Say Less Than You Know",
+      "remember": "One reason, said once. A list gives them a repair plan.",
+      "when": "They ask for the full list of everything that went wrong so they can fix it.",
+      "hook": "Every extra reason you give is a to-do list they will complete and bring back to you. <strong>Then you have to say no twice.</strong>",
+      "truth": "A list of reasons is not honesty. It is an invitation to renegotiate.\n• Give one reason and hold it, word for word, every time.\n• A long list gives them items to fix and prove.\n• They are not asking to understand. They are asking for a way back in.",
+      "theySee": "A partner who repeats the same short sentence calmly and does not add anything new.",
+      "signals": [
+        {
+          "icon": "📝",
+          "l": "List request",
+          "t": "They ask you to name everything, one by one"
+        },
+        {
+          "icon": "🔍",
+          "l": "Detail dig",
+          "t": "They pick one small thing and ask when exactly it happened"
+        },
+        {
+          "icon": "🪞",
+          "l": "Blame flip",
+          "t": "They start comparing your faults to theirs"
+        },
+        {
+          "icon": "📞",
+          "l": "Third party",
+          "t": "They ask what your friends or your mother said about them"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your one line",
+          "desc": "Before the talk, write one sentence for why. Eight words or fewer. Memorize it."
+        },
+        {
+          "n": "2",
+          "title": "Repeat it exactly",
+          "desc": "When they push, say the same sentence again. Do not add a new detail."
+        },
+        {
+          "n": "3",
+          "title": "Close the topic",
+          "desc": "Say the reason list is closed and move to keys, money, and dates."
+        }
+      ],
+      "script": "\"I'm not going to give you a list. <strong>I don't want this relationship anymore, and that is the whole reason.</strong> Asking me for more just gives you something to argue with.\"",
+      "example": "Elena listed six things when her ex asked. He fixed four of them in three weeks, showed up with proof, and asked her to reconsider. She had to break up with him a second time, and that one was uglier than the first.",
+      "counter": "If someone refuses to give you reasons, the decision is final and reasons will not move it.\n• Notice the repeated identical sentence. That is a wall, not a hint.\n• Say: <strong>\"Fine. Then let's sort out the practical things today.\"</strong>\n• Stop performing improvement. It reads as pressure and costs you standing.",
+      "insight": "Withholding reasons feels like cowardice and works like mercy. The cost is that they will fill the blank themselves, usually with a story where you are the villain — and that story is what your shared friends will hear first."
+    },
+    {
+      "id": 6,
+      "cat": "pullback",
+      "danger": "high",
+      "title": "Expect The Big Offer On Day Three",
+      "principle": "Cialdini: Reciprocity × Sunk-Cost Anchoring",
+      "remember": "The best version of them arrives right after you leave.",
+      "when": "Three days after the talk they text something kind, generous, or heartbreaking.",
+      "hook": "They will not fight you with anger. They will fight you with the person you fell for. <strong>That person is on a timer.</strong>",
+      "truth": "The pull-back is a performance of the early days, and it is short.\n• They offer therapy, a trip, a ring, or a confession.\n• The offer targets the exact thing you complained about for years.\n• It lasts about three weeks after you come back. Then it stops.",
+      "theySee": "An ex who reads the long message, waits a day, and answers in two lines.",
+      "signals": [
+        {
+          "icon": "🎁",
+          "l": "Sudden gift",
+          "t": "They send flowers or book the trip you asked for last year"
+        },
+        {
+          "icon": "🛋️",
+          "l": "Therapy offer",
+          "t": "They book a couples counselor and send you the calendar invite"
+        },
+        {
+          "icon": "📜",
+          "l": "Long letter",
+          "t": "They send a 900-word message at 1am"
+        },
+        {
+          "icon": "🚨",
+          "l": "Crisis card",
+          "t": "They mention a health scare, a job loss, or self-harm right after you leave"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait 24 hours",
+          "desc": "Do not answer a long emotional message the same day. Sleep first."
+        },
+        {
+          "n": "2",
+          "title": "Check the date",
+          "desc": "Ask yourself how long they have known this problem. Write the number of years."
+        },
+        {
+          "n": "3",
+          "title": "Answer in two lines",
+          "desc": "Reply short and warm and do not reopen the decision. No phone call."
+        }
+      ],
+      "script": "\"I read all of it and I believe you mean it. <strong>My answer is still the same.</strong> I'm not going to talk this through again tonight.\"",
+      "example": "Sofia's ex booked the therapist she had begged him to see for two years, four days after she left. She went to two sessions, moved back in, and he cancelled the third. She moved out again in November, and that time she did not answer the letter.",
+      "counter": "If your ex suddenly becomes generous right after you left them, you are being pulled back.\n• Notice the timing. The gift arrives within a week of the decision.\n• Say: <strong>\"You could have done this a year ago. Why now?\"</strong>\n• Judge them on 90 days of behavior, not on one grand gesture.",
+      "insight": "The pull-back is real feeling and bad evidence at the same time. People mean it when the loss is fresh. The harder question is whether they can hold it in month four, when nobody is watching and nothing is at stake."
+    },
+    {
+      "id": 7,
+      "cat": "pullback",
+      "danger": "moderate",
+      "title": "Cut Contact For Sixty Days And Say So Out Loud",
+      "principle": "Schelling: Credible Commitment",
+      "remember": "Announce the silence once, then keep it without explaining.",
+      "when": "They keep texting small practical questions that turn into three-hour conversations.",
+      "hook": "Half-contact keeps both of you in the relationship with none of the good parts. <strong>Say the rule once, then go quiet.</strong>",
+      "truth": "Silence only works if it is announced and dated.\n• Announce one date. Do not negotiate the number.\n• A silent block reads as punishment and invites a siege.\n• Answering once a week is worse than answering never.",
+      "theySee": "An ex who sends one clear message about no contact and then does not reply at all.",
+      "signals": [
+        {
+          "icon": "🔧",
+          "l": "Logistics bait",
+          "t": "They text asking where the router password is at 11pm"
+        },
+        {
+          "icon": "😢",
+          "l": "Sad ping",
+          "t": "They send a song, a photo, or one word with no question"
+        },
+        {
+          "icon": "👥",
+          "l": "Friend proxy",
+          "t": "Their sister texts you to check how you are doing"
+        },
+        {
+          "icon": "🔁",
+          "l": "Re-open try",
+          "t": "They ask for one coffee just to talk properly"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send one message",
+          "desc": "Send one message naming the date you will talk again. Nothing else in it."
+        },
+        {
+          "n": "2",
+          "title": "Move the logistics",
+          "desc": "Handle keys, money, and boxes through one friend or one email thread."
+        },
+        {
+          "n": "3",
+          "title": "Mute, do not block",
+          "desc": "Mute their thread and social accounts. Blocking creates a story they can tell."
+        }
+      ],
+      "script": "\"I'm not going to be in touch until October. <strong>Anything about the apartment goes through Jess.</strong> I'm not answering messages before then and it's not a punishment.\"",
+      "example": "Ben answered every practical text for a month and each one turned into a two-hour call about the relationship. He sent one no-contact message with a date, routed the boxes through his brother, and the calls stopped in nine days.",
+      "counter": "If an ex announces a hard no-contact window, they are protecting a decision, not testing you.\n• Notice the specific date. A date means it was planned.\n• Say: <strong>\"Okay. I'll wait until then.\"</strong> Then actually wait.\n• Send nothing in between. Every message resets their clock and lowers your standing.",
+      "insight": "Sixty days of silence is not about them. It is about killing the habit of reaching for the phone. What nobody warns you about is week three, when the pain drops and you mistake feeling better for being ready to talk."
+    },
+    {
+      "id": 8,
+      "cat": "war",
+      "danger": "high",
+      "title": "Tell Your Version To Three People Before They Tell Theirs",
+      "principle": "Greene: Law 5 — Guard Your Reputation With Your Life",
+      "remember": "The first story reaches the group and the second sounds like defense.",
+      "when": "You share a friend group, a workplace, or a family with the person you just left.",
+      "hook": "Whoever speaks first sets the story. <strong>The second version always sounds like an excuse.</strong>",
+      "truth": "Groups do not weigh evidence. They keep whichever version arrived first.\n• Pick three people with the most influence in the group and call them.\n• Give a short, calm, boring account. No details, no dirt.\n• The one who sounds calmer wins the room, not the one who is right.",
+      "theySee": "A friend who calls, says one short sober sentence about the split, and does not run the ex down.",
+      "signals": [
+        {
+          "icon": "📱",
+          "l": "Group quiet",
+          "t": "The group chat goes silent for two days after the news"
+        },
+        {
+          "icon": "🥺",
+          "l": "Sympathy sweep",
+          "t": "Your ex posts something sad and vague within 48 hours"
+        },
+        {
+          "icon": "🎟️",
+          "l": "Invite drop",
+          "t": "You stop getting invited to the Sunday thing"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Probe call",
+          "t": "A mutual friend calls to ask if a specific rumor is true"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the three",
+          "desc": "Name the three people the group actually listens to. Not your closest friends — the loudest ones."
+        },
+        {
+          "n": "2",
+          "title": "Call, do not text",
+          "desc": "Call each one within 48 hours. Keep it under three minutes."
+        },
+        {
+          "n": "3",
+          "title": "Say the same line",
+          "desc": "Use the identical sentence with all three. Do not add new detail to anyone."
+        }
+      ],
+      "script": "\"I wanted you to hear it from me. <strong>I ended it. It was my call and it wasn't dramatic.</strong> I'm not going to say anything bad about them, and I'd rather not get updates.\"",
+      "example": "Nadia called three people from her climbing group the day after she moved out and gave each the same two sentences. Her ex spent a month telling a bigger, angrier story. By the time it reached the group, everyone already had the calm version.",
+      "counter": "If someone gets to your friends fast with a very short calm story, they are setting the frame.\n• Notice the identical wording coming from two different friends.\n• Say: <strong>\"I'm not doing the story war. Ask me anything directly.\"</strong>\n• Answer questions, volunteer nothing. Restraint reads as truth in a group.",
+      "insight": "Restraint beats accuracy here. The person who refuses to give details looks like the adult even when their account is thinner. The real cost comes later — you cannot correct the record in six months without looking like you kept the file open."
+    },
+    {
+      "id": 9,
+      "cat": "war",
+      "danger": "extreme",
+      "title": "Do Not Answer The Smear Point By Point",
+      "principle": "Schopenhauer: Art of Controversy — Refuse the Frame",
+      "remember": "Deny once, flatly. Arguing details makes the story bigger.",
+      "when": "You learn your ex is telling people a version where you are the villain.",
+      "hook": "Every fact you correct keeps the story alive another week. <strong>You cannot win a fight where the topic is you.</strong>",
+      "truth": "A point-by-point defense makes the accusation the subject of every room you enter.\n• Answer the whole thing once, in one flat sentence.\n• Detailed denials sound like a person with something to manage.\n• Keep receipts for the two claims that could cost you a job or a lease.",
+      "theySee": "A person who hears the rumor, does not flinch, and says one short sentence about it.",
+      "signals": [
+        {
+          "icon": "🧨",
+          "l": "Specific charge",
+          "t": "A friend repeats a detailed claim with a date attached"
+        },
+        {
+          "icon": "📸",
+          "l": "Screenshot war",
+          "t": "They circulate a cropped screenshot of your messages"
+        },
+        {
+          "icon": "🏢",
+          "l": "Work spill",
+          "t": "Someone at your job mentions your personal life unprompted"
+        },
+        {
+          "icon": "⚖️",
+          "l": "Paper threat",
+          "t": "They mention a lawyer, HR, or the police in a text"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the one line",
+          "desc": "Write a single sentence that denies the whole story without listing anything."
+        },
+        {
+          "n": "2",
+          "title": "Save the two receipts",
+          "desc": "Save screenshots and dates for only the claims that touch your job, money, or safety."
+        },
+        {
+          "n": "3",
+          "title": "Tell nobody twice",
+          "desc": "Say the line once per person. Never send a long message to a group."
+        }
+      ],
+      "script": "\"That's not true, and I'm not going to go through it line by line. <strong>If you want the boring version, I'll tell you over coffee once and then I'm done with it.</strong>\"",
+      "example": "Owen wrote a 1,200-word message to the group chat answering nine claims. It got screenshotted and forwarded for a month. When his ex tried again a year later he replied with one sentence to two people, and the story died in a week.",
+      "counter": "If someone refuses to engage with your account of them, they are starving the story.\n• Notice the flat single denial and the refusal to repeat it.\n• Say: <strong>\"I'll stop talking about it if you do.\"</strong>\n• Drop it publicly. Keep your own records privately, dated.",
+      "insight": "Silence looks like guilt for about three weeks and like strength after two months. Most people cannot survive those three weeks. The next problem is the one claim that is partly true — and whether you can let that one sit unanswered too."
+    },
+    {
+      "id": 10,
+      "cat": "rebuild",
+      "danger": "moderate",
+      "title": "Refill The Calendar Before You Feel Like It",
+      "principle": "Behavioral Activation × Greene: Law 25 — Re-Create Yourself",
+      "remember": "Book the week first. The feeling shows up later.",
+      "when": "It is week two, the shock has worn off, and your evenings are suddenly empty.",
+      "hook": "You did not only lose a person. You lost every Tuesday you had planned. <strong>Empty Tuesdays are what send people back.</strong>",
+      "truth": "People do not return to an ex out of love. They return to fill a slot.\n• Book four fixed things a week before you want to do them.\n• A full calendar takes away the hour when you text them.\n• The pull comes at a specific time of day. Put something in that hour.",
+      "theySee": "A friend who says yes to things and looks busy without talking about the breakup.",
+      "signals": [
+        {
+          "icon": "🕘",
+          "l": "Danger hour",
+          "t": "You reach for your phone at the same time every night"
+        },
+        {
+          "icon": "🛋️",
+          "l": "Empty slot",
+          "t": "Sunday afternoon has nothing in it for the third week running"
+        },
+        {
+          "icon": "📷",
+          "l": "Profile checks",
+          "t": "You check their profile more than twice a day"
+        },
+        {
+          "icon": "🍺",
+          "l": "Same story",
+          "t": "You tell the breakup story to every person you meet"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find your danger hour",
+          "desc": "Check your phone log. Find the hour you message them or check on them most."
+        },
+        {
+          "n": "2",
+          "title": "Book four things",
+          "desc": "Put four fixed commitments in the week, one inside the danger hour. Involve other people so you cannot cancel."
+        },
+        {
+          "n": "3",
+          "title": "Set a story limit",
+          "desc": "Pick two people who get to hear about the breakup. Everyone else gets one sentence."
+        }
+      ],
+      "script": "\"I'm free Thursdays for the next two months and I want a standing thing. <strong>Climbing, dinner, whatever — put me down every week.</strong>\"",
+      "example": "Ana found she messaged her ex most between 9 and 10pm. She booked a Tuesday pottery class and a Thursday run club in that hour and told two friends to text her if she skipped. By week six she had missed one class and sent no messages.",
+      "counter": "If a friend suddenly fills every hour after a breakup, they are managing the pull, not moving on.\n• Notice the packed calendar and the refusal to sit still.\n• Say: <strong>\"You don't have to be busy with me. We can just sit.\"</strong>\n• Give them one slow hour a week. Busy hides grief; it does not finish it.",
+      "insight": "A full week stops you going back. It does not tell you whether you were right to leave. That answer arrives around month five, usually on a normal afternoon, and the only question left is whether you will believe it or start the whole file again."
+    }
+  ]
+}
