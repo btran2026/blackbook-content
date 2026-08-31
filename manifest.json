@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 52,
+  "manifestVersion": 53,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -338,7 +338,20 @@
       "url": "playbooks/playbook-srv-prep-talk-straight-under-pressure.json",
       "addedAt": "2026-08-31T07:07:59.279Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-getting-a-reply-from-someone-far-above-you",
+      "title": "Getting a Reply From Someone Far Above You",
+      "theme": "networking",
+      "topic": "",
+      "cardCount": 22,
+      "contentVersion": 1,
+      "coverColor": "#1B1B2F",
+      "coverIcon": "🪜",
+      "url": "playbooks/playbook-srv-getting-a-reply-from-someone-far-above-you.json",
+      "addedAt": "2026-08-31T07:08:21.218Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-31T07:07:59.279Z"
+  "generatedAt": "2026-08-31T07:08:21.218Z"
 }
