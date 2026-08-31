@@ -1,0 +1,598 @@
+{
+  "meta": {
+    "id": "srv-manufactured-need",
+    "version": "1.0",
+    "title": "Manufactured Need",
+    "subtitle": "How to make your boss and the people above you unable to run without you",
+    "description": "Ten field moves for building real dependency with a boss, client, or power player — mapping their gaps, controlling access, hoarding the hard skill, banking trust in a crisis, and cashing in before you're replaced.",
+    "author": "AI",
+    "createdAt": "2026-08-31T14:06:02.004Z",
+    "tags": [
+      "power",
+      "office politics",
+      "influence",
+      "career",
+      "dependency",
+      "workplace"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#1D3557",
+    "coverIcon": "🕸️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "map",
+      "label": "Find the Gap",
+      "color": "#E63946"
+    },
+    {
+      "key": "access",
+      "label": "Control Access",
+      "color": "#457B9D"
+    },
+    {
+      "key": "skill",
+      "label": "Own the Skill",
+      "color": "#F4A300"
+    },
+    {
+      "key": "crisis",
+      "label": "Own the Crisis",
+      "color": "#6A4C93"
+    },
+    {
+      "key": "network",
+      "label": "Own the Network",
+      "color": "#2A9D8F"
+    },
+    {
+      "key": "guard",
+      "label": "Protect the Position",
+      "color": "#1D3557"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "map",
+      "danger": "low",
+      "title": "Find the Task Your Boss Can't Let Go Of",
+      "when": "You notice your boss has a task or worry nobody else covers.",
+      "hook": "Everyone competes for the shiny project. <strong>The real seat is the ugly job your boss can't hand off to anyone else.</strong>",
+      "truth": "Most people compete for praise. The real seat is the job nobody else wants.\n• Find the task your boss avoids, delays, or complains about weekly.\n• Take it and they stop imagining anyone else doing your job.\n• The trap: pick a task tied to them, not to one project.",
+      "principle": "Dependency Mapping — Find the Gap They Can't Fill",
+      "remember": "Take the ugly job nobody else wants. It becomes your seat.",
+      "theySee": "A team member who quietly picks up the task everyone else dodges.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Recurring complaint",
+          "t": "They mention the same unsolved problem in three straight meetings."
+        },
+        {
+          "icon": "❓",
+          "l": "No owner",
+          "t": "Nobody's name is attached to the task on the team board."
+        },
+        {
+          "icon": "📱",
+          "l": "Late-night ask",
+          "t": "They text you about it outside work hours."
+        },
+        {
+          "icon": "🙅",
+          "l": "Delegation refusal",
+          "t": "They say 'I'll just do it myself' about the same task."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List their complaints",
+          "desc": "Write down every task your boss has complained about twice this month."
+        },
+        {
+          "n": "2",
+          "title": "Pick the ugliest one",
+          "desc": "Choose the task with the least glory and the most risk if it's missed."
+        },
+        {
+          "n": "3",
+          "title": "Take it quietly",
+          "desc": "Do it for two weeks before you mention you own it now."
+        }
+      ],
+      "script": "\"I noticed the vendor invoices keep slipping — I'll own that going forward, just tell me who to loop in.\"",
+      "watchFor": "Your boss stops asking anyone else about that task and comes straight to you.",
+      "ifItFails": "They thank you but hand the task to someone else next time because they didn't register you as the fix. Don't ask twice — send a short written recap after you finish it solo, naming the specific save. Say: \"Handled the invoice mess before it hit finance — flagging so it doesn't slip again.\"",
+      "counter": "If a coworker starts absorbing your worst task, they are running this move on you.\n• Notice when someone volunteers for your least glamorous problem.\n• Ask what they want before they build a claim on it.\n• Keep at least one piece of that task for yourself.",
+      "insight": "This gets you noticed fast, but a single gap is fragile — the moment the problem gets solved for good, your seat is up. The next move is stacking gaps before anyone can close them all.",
+      "example": "Dana noticed her manager kept missing the same vendor deadline every month. She quietly took over the invoice process without asking for extra pay. Three months later, her manager forwarded every vendor question straight to her first."
+    },
+    {
+      "id": 2,
+      "cat": "access",
+      "danger": "moderate",
+      "title": "Become the Only Channel to the Boss",
+      "when": "You work between your boss and people who need decisions from them.",
+      "hook": "Whoever controls the door to the boss controls half the building. <strong>Be the door.</strong>",
+      "truth": "People don't need your boss. They need someone who can reach your boss.\n• Route requests to the boss through yourself, every time, politely.\n• Colleagues start asking you instead of trying the boss directly.\n• The trap: block too much and you look like a wall, not a door.",
+      "principle": "Machiavelli: The Prince, Ch. 22 — The Minister as Sole Channel",
+      "remember": "Be the door to your boss, not just a person nearby.",
+      "theySee": "A colleague who always seems to know when the boss has five minutes free.",
+      "signals": [
+        {
+          "icon": "📧",
+          "l": "CC habit",
+          "t": "People CC you on every email meant for your boss."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Pre-check",
+          "t": "Coworkers ask you 'is now a bad time' before they message the boss."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Calendar control",
+          "t": "You hold edit access to your boss's calendar."
+        },
+        {
+          "icon": "🔁",
+          "l": "Meeting buffer",
+          "t": "You get pulled into calls just to relay context afterward."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Offer to filter",
+          "desc": "Tell your boss you'll screen routine requests so they can focus on the big ones."
+        },
+        {
+          "n": "2",
+          "title": "Answer what you can",
+          "desc": "Handle the easy asks yourself and only forward what truly needs the boss."
+        },
+        {
+          "n": "3",
+          "title": "Report back visibly",
+          "desc": "Send your boss a short weekly note on what you handled and what you sent up."
+        }
+      ],
+      "script": "\"Send me the routine stuff first — I'll clear what I can and only bring you the ones that need your call.\"",
+      "watchFor": "Colleagues start emailing you first and asking your boss second, or not at all.",
+      "ifItFails": "Your boss keeps answering people directly and cuts you out of the loop. Don't push for more control — make yourself useful on the follow-through instead. Say: \"I'll track the ones you answer directly so nothing gets dropped.\"",
+      "counter": "If a coworker starts filtering everything before it reaches your boss, they are running this move on you.\n• Notice when you can no longer reach the boss without going through them.\n• Ask the boss directly, in writing, at least once a week.\n• Keep one channel that skips the filter, like a standing 1-on-1.",
+      "insight": "This buys you the boss's time, which buys you their attention — but it also makes you the target when something gets missed. Do not run this if you don't yet have your boss's trust; filtering their mail before they ask for it reads as a power grab, not help. The next problem is what happens when you're out sick and the door disappears.",
+      "example": "Priya started screening her director's inbox for routine approvals. Within a month, three department heads were emailing her instead of trying the director directly. Her director gave her a formal 'chief of staff' title by the next quarter."
+    },
+    {
+      "id": 3,
+      "cat": "skill",
+      "danger": "low",
+      "title": "Own the One System Nobody Else Learned",
+      "when": "Your company runs on a tool, process, or account that only you understand.",
+      "hook": "Nobody protects the replaceable. <strong>Be the only person who knows how the machine actually runs.</strong>",
+      "truth": "People value what they can't easily get from somewhere else.\n• Learn the one system, login, or process nobody else bothered to learn.\n• Every fix now runs through you, whether they like it or not.\n• The trap: if you never share any of it, you can't take a vacation.",
+      "principle": "Cialdini: Scarcity",
+      "remember": "Learn the system nobody else wanted to learn. They'll need you.",
+      "theySee": "A coworker calm during the outage, typing fast, while everyone else waits.",
+      "signals": [
+        {
+          "icon": "🔑",
+          "l": "Single login",
+          "t": "Only your name is on the admin account for a key tool."
+        },
+        {
+          "icon": "😶",
+          "l": "Silent panic",
+          "t": "The team goes quiet when that system breaks and you're not in the room."
+        },
+        {
+          "icon": "📄",
+          "l": "No backup doc",
+          "t": "There's no written guide for the process you run."
+        },
+        {
+          "icon": "☎️",
+          "l": "First call",
+          "t": "You're the first person texted when that system goes down, day or night."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the ugly system",
+          "desc": "Pick the tool or process everyone depends on but nobody wants to learn."
+        },
+        {
+          "n": "2",
+          "title": "Go deep, alone",
+          "desc": "Spend real time this month becoming the person who understands it best."
+        },
+        {
+          "n": "3",
+          "title": "Fix it fast and visibly",
+          "desc": "The next time it breaks, solve it in minutes and say so out loud."
+        }
+      ],
+      "script": "\"I've got the export script memorized at this point — send it my way and I'll have it fixed in ten minutes.\"",
+      "watchFor": "People stop trying to fix that system themselves and just call you.",
+      "ifItFails": "IT or a manager assigns someone else to learn the system too, splitting your monopoly. Don't fight the assignment — become the one who trains them so you're still the source. Say: \"Happy to walk them through it — let's set up thirty minutes this week.\"",
+      "counter": "If a coworker becomes the only one who understands a key system, they are running this move on you.\n• Notice when one person is the only fix for a recurring problem.\n• Ask them to write it down, framed as protecting the team.\n• Get a second person trained before the next outage, not during it.",
+      "insight": "This makes you hard to lose, but only as long as the system stays a black box to everyone else. The harder problem is deciding when hoarding it starts costing you more than sharing it would.",
+      "example": "Marcus was the only person who understood the old billing script nobody wanted to touch. When it crashed during a client demo, he fixed it in eight minutes while the room watched. He got a raise before he even asked for one."
+    },
+    {
+      "id": 4,
+      "cat": "crisis",
+      "danger": "moderate",
+      "title": "Deliver the Bad News Before Anyone Else Does",
+      "when": "You spot a problem before your boss or the client does.",
+      "hook": "Bad news gets worse the longer it sits. <strong>Bring it in first and you own the story, not the blame.</strong>",
+      "truth": "Whoever delivers bad news first controls how it gets told.\n• Tell your boss before they hear it from someone else.\n• They start trusting you as the person who won't hide problems.\n• The trap: showing up with a problem and no plan reads as panic.",
+      "principle": "Trust Banking — First-Mover on Bad News",
+      "remember": "Say the bad thing first, with a plan already in hand.",
+      "theySee": "Someone walking into their office fast, already holding a plan, not just a complaint.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Rumor speed",
+          "t": "Bad news usually reaches your boss through someone else first."
+        },
+        {
+          "icon": "🤐",
+          "l": "Silence habit",
+          "t": "People on your team sit on problems hoping they resolve on their own."
+        },
+        {
+          "icon": "😮",
+          "l": "Reactive boss",
+          "t": "Your boss finds out about issues in meetings, not before them."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Spot it early",
+          "desc": "Flag the problem the moment you see it, before it grows."
+        },
+        {
+          "n": "2",
+          "title": "Bring a plan, not just news",
+          "desc": "Write two options for fixing it before you walk in."
+        },
+        {
+          "n": "3",
+          "title": "Say it plainly",
+          "desc": "Lead with the bad news in the first sentence, not buried in context."
+        }
+      ],
+      "script": "\"The vendor is going to miss Friday. I've got two options to cover it — want the two-minute version now?\"",
+      "watchFor": "Your boss starts asking you first when something feels off, before it's confirmed.",
+      "ifItFails": "Your boss shoots the messenger and reacts with anger instead of trust. Don't stop reporting early — change the delivery and put it in writing first, so the record shows you flagged it on time. Send: \"Flagging this in writing at 9am so we have a timestamp on it.\"",
+      "counter": "If someone always rushes to you with bad news first, they may be building trust off your crisis.\n• Notice if they always have 'the plan' ready suspiciously fast.\n• Ask who else already knew before they told you.\n• Reward the news, not the performance of urgency around it.",
+      "insight": "Do not run this on a boss who punishes messengers — confirm they reward early flags before you test it. This gets you trust fast, but the real test is the fifth time, when the bad news is about your own mistake.",
+      "example": "Sam saw the shipment was going to miss the client deadline two days before anyone else noticed. He walked into his boss's office with two backup options already drafted. His boss started looping him into every vendor call after that."
+    },
+    {
+      "id": 5,
+      "cat": "network",
+      "danger": "moderate",
+      "title": "Be the Bridge Between Your Boss and Everyone Else",
+      "when": "Your boss needs something from a team, department, or person they don't talk to directly.",
+      "hook": "The person who connects two islands controls the only bridge. <strong>Stand in every gap between your boss and the people they need.</strong>",
+      "truth": "Power sits in the gap between groups that don't talk to each other.\n• Build a real relationship with the team your boss barely knows.\n• You become the one call that gets things moving fast.\n• The trap: hoard the contact and it looks like you're hiding something.",
+      "principle": "Burt: Structural Holes — Brokerage Power",
+      "remember": "Know the people your boss can't reach. Be the shortcut.",
+      "theySee": "Someone who can get finance, legal, or another team to answer in an hour, not a week.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "Cold contact",
+          "t": "Your boss doesn't have a direct line to a team they need."
+        },
+        {
+          "icon": "🐌",
+          "l": "Slow replies",
+          "t": "Requests to that team usually take days to get answered."
+        },
+        {
+          "icon": "🤝",
+          "l": "You already know them",
+          "t": "You already talk to someone on that team regularly."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeated ask",
+          "t": "Your boss asks the same 'can you check with them' question often."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the missing bridge",
+          "desc": "Spot which team your boss needs but has no real contact with."
+        },
+        {
+          "n": "2",
+          "title": "Build the relationship first",
+          "desc": "Get coffee or a call with someone on that team before you need anything."
+        },
+        {
+          "n": "3",
+          "title": "Offer the shortcut",
+          "desc": "Tell your boss you can get a faster answer through your contact."
+        }
+      ],
+      "script": "\"I know someone on the legal team — let me ping her directly, we'll have an answer today instead of next week.\"",
+      "watchFor": "Your boss starts routing that team's requests through you by default.",
+      "ifItFails": "Your contact moves teams or leaves, and the bridge collapses overnight. Don't panic and go silent — tell your boss immediately and name your backup plan. Say: \"My contact just left legal — I'm already building a new one, give me a week.\"",
+      "counter": "If a coworker becomes your only fast route to another team, they are running this move on you.\n• Notice when you can't reach that team without going through them.\n• Ask for the contact's name directly, not just the favor.\n• Build one backup contact of your own on that team.",
+      "insight": "Do not run this if the other team already dislikes your boss — you'll get pulled into the blame, not the credit. The harder problem is staying friends with both sides when they eventually disagree.",
+      "example": "Renee was the only person on her team who actually talked to someone in legal. When her director needed a fast answer, she got it in one afternoon instead of the usual week. Her director started sending every legal question through her by default."
+    },
+    {
+      "id": 6,
+      "cat": "crisis",
+      "danger": "high",
+      "title": "Fix the Problem Before They Know It Exists",
+      "when": "You can see a problem coming three steps before anyone mentions it.",
+      "hook": "The best save is the one nobody sees you make. <strong>Fix it before it becomes a fire, then tell them what you stopped.</strong>",
+      "truth": "People remember who stopped the disaster, not who explained it after.\n• Catch the problem while it's still small and quiet.\n• Fix it, then tell them what almost happened and how.\n• The trap: fix too much silently and nobody knows you're the reason things work.",
+      "principle": "Sun Tzu: Win Before You Fight — Preempt the Crisis",
+      "remember": "Fix the fire while it's still a spark. Then say so.",
+      "theySee": "A quiet fix that shows up as a one-line note: 'handled, here's what happened.'",
+      "signals": [
+        {
+          "icon": "🔍",
+          "l": "Early pattern",
+          "t": "You spot the same small issue twice before it becomes urgent."
+        },
+        {
+          "icon": "👀",
+          "l": "Nobody's watching",
+          "t": "No one else is tracking that part of the process closely."
+        },
+        {
+          "icon": "⏳",
+          "l": "Quiet window",
+          "t": "You have a day or two before the problem becomes visible to others."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Catch it early",
+          "desc": "Watch for the small version of a problem before it turns into a crisis."
+        },
+        {
+          "n": "2",
+          "title": "Fix it quietly",
+          "desc": "Solve it yourself without announcing it while you work."
+        },
+        {
+          "n": "3",
+          "title": "Tell them after, briefly",
+          "desc": "Send one short message naming what you caught and fixed."
+        }
+      ],
+      "script": "\"Caught the billing sync failing before it hit customers — fixed it and added a check so it won't happen again.\"",
+      "watchFor": "Your boss starts mentioning your name when they talk about things 'just working.'",
+      "ifItFails": "Nobody notices the save because you fixed it too quietly and said nothing. Don't let the next one go unspoken — build the habit of a one-line note every time, even for small saves. Send: \"Small one, but flagging: caught X before it hit anyone.\"",
+      "counter": "If a coworker keeps mentioning problems they 'quietly fixed,' verify before you believe it.\n• Notice if the story only ever has one witness: them.\n• Ask for the specific timestamp or ticket tied to the fix.\n• Credit only what you can confirm actually happened.",
+      "insight": "Do not fix things outside your role without a heads-up first — silently changing something you don't own can look like you caused the problem, not stopped it. The next question is whether you can keep finding fires before they start without burning trust by touching what isn't yours.",
+      "example": "Tomas noticed the database backups had started silently failing two nights running. He fixed the script himself before the Monday report was due and sent one line: 'caught this, fixed it.' His manager brought it up in his next review as proof he could be trusted alone."
+    },
+    {
+      "id": 7,
+      "cat": "skill",
+      "danger": "moderate",
+      "title": "Keep the Instructions Out of the Manual",
+      "when": "Someone asks you to write down exactly how you do your job.",
+      "hook": "A fully documented job is a job anyone can take. <strong>Keep the last ten percent in your head.</strong>",
+      "truth": "Full documentation turns you into a replaceable process, not a person.\n• Write down the basics, keep the tricky judgment calls unwritten.\n• Anyone who reads the doc still has to call you for the hard part.\n• The trap: leave it too thin and it looks like you're hiding something.",
+      "principle": "Tacit Knowledge Monopoly — Undocumented Process",
+      "remember": "Write the easy parts down. Keep the hard calls in your head.",
+      "theySee": "A helpful teammate who wrote a solid guide that still somehow always needs a follow-up question.",
+      "signals": [
+        {
+          "icon": "📝",
+          "l": "Doc request",
+          "t": "A manager asks you to write a step-by-step guide for your role."
+        },
+        {
+          "icon": "👥",
+          "l": "Backup hire",
+          "t": "The company starts hiring or training someone near your specialty."
+        },
+        {
+          "icon": "⚠️",
+          "l": "Edge cases",
+          "t": "Most of your value comes from handling weird exceptions, not routine cases."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the 80 percent",
+          "desc": "Document every routine step clearly and completely, no gaps."
+        },
+        {
+          "n": "2",
+          "title": "Leave the judgment calls loose",
+          "desc": "Describe hard exceptions as 'case by case, check with me' instead of a fixed rule."
+        },
+        {
+          "n": "3",
+          "title": "Stay the fastest answer",
+          "desc": "Always answer follow-up questions quickly so calling you stays easier than the doc."
+        }
+      ],
+      "script": "\"I put the full process in the doc — the edge cases are messier, just flag me on those and I'll walk you through it.\"",
+      "watchFor": "People read the doc, then still message you for the part that actually mattered.",
+      "ifItFails": "Someone shadows you long enough to learn the judgment calls anyway, and the doc stops mattering. Don't resist the shadowing — make the relationship the asset by becoming the person who trained them. Say: \"Good catch on that one — most people miss it the first few times.\"",
+      "counter": "If a coworker's documentation never quite covers the hard parts, they are running this move on you.\n• Notice when the same three questions never make it into any doc.\n• Ask them directly to write down the edge cases, not just the basics.\n• Shadow the actual work once instead of reading the file alone.",
+      "insight": "Do not run this during a redundancy review — a thin doc reads as a target then, not job security. The harder move is deciding when to finally write it all down and cash in your name as the expert instead.",
+      "example": "Elena wrote a thorough onboarding doc for her process, but left the trickiest client exceptions as 'ask me.' New hires read the doc, then still called her for the hard cases. She stayed the go-to person a year after the doc shipped."
+    },
+    {
+      "id": 8,
+      "cat": "network",
+      "danger": "high",
+      "title": "Cover for Them When They Slip",
+      "when": "You notice your boss made a mistake before anyone else sees it.",
+      "hook": "A saved mistake is a debt that never gets forgotten. <strong>Catch their fall quietly and they owe you, forever.</strong>",
+      "truth": "A favor done in private creates a debt that lasts longer than a public one.\n• Catch your boss's mistake before others see it and fix it quietly.\n• They now owe you something they can never repay in public.\n• The trap: remind them of it and the debt turns into resentment.",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Fix their mistake quietly. Never bring it up again.",
+      "theySee": "Someone stepping in smoothly to correct a slip, like it was nothing, no one else noticing.",
+      "signals": [
+        {
+          "icon": "😬",
+          "l": "Public slip",
+          "t": "Your boss says something wrong or contradicts themselves in a meeting."
+        },
+        {
+          "icon": "👁️",
+          "l": "No one else caught it",
+          "t": "You're the only one in the room who noticed the error."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Fixable window",
+          "t": "There's still time to correct it before the meeting ends or the email sends."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Catch it fast",
+          "desc": "Notice the mistake the moment it happens, before someone else calls it out."
+        },
+        {
+          "n": "2",
+          "title": "Fix it without embarrassing them",
+          "desc": "Correct it smoothly in the room, or quietly after, without naming the error."
+        },
+        {
+          "n": "3",
+          "title": "Never bring it up again",
+          "desc": "Don't mention the save later, even as a joke."
+        }
+      ],
+      "script": "\"Just to build on that number — the Q3 figure was actually 12%, but the trend holds either way.\"",
+      "watchFor": "Your boss glances at you afterward with a look of quiet relief, not embarrassment.",
+      "ifItFails": "You catch it too late and the mistake already landed in front of the room. Don't try to fix it publicly after the fact — help them manage the follow-up privately instead. Say afterward: \"Want me to send a quick correction note to the group so it's on record?\"",
+      "counter": "If a coworker keeps quietly covering your mistakes, they are banking a debt with you.\n• Notice if they're the one who always jumps in to save you.\n• Thank them once, specifically, instead of letting it go unspoken.\n• Pay it back with something real, not just gratitude, before they ask.",
+      "insight": "Do not run this to cover a mistake that hurts someone else — that trades one debt for a worse one. The next problem is timing: cash in this debt too early and it turns from goodwill into a threat.",
+      "example": "Jordan caught his VP citing the wrong revenue number mid-presentation and smoothly corrected it without naming the mistake. The VP never mentioned it again, but gave Jordan the lead on the next big pitch. Jordan never brought up the save either."
+    },
+    {
+      "id": 9,
+      "cat": "guard",
+      "danger": "moderate",
+      "title": "Hand Them the Credit, Keep the Keys",
+      "when": "Your work makes your boss look good in front of their boss.",
+      "hook": "Credit is cheap. Control is not. <strong>Give away the applause and keep the thing that makes them need you.</strong>",
+      "truth": "People fear what makes them look bad more than they reward what makes them look good.\n• Let your boss present your work as their win in front of others.\n• They keep looking good, and you keep the process they can't run alone.\n• The trap: give away the process too, and you've given away everything.",
+      "principle": "Greene: Law 1 — Never Outshine the Master",
+      "remember": "Give them the applause. Keep the part only you can run.",
+      "theySee": "A team member who never corrects them in front of others and always says 'we,' not 'I.'",
+      "signals": [
+        {
+          "icon": "🏆",
+          "l": "Credit grab",
+          "t": "Your boss presents your work upward without naming you."
+        },
+        {
+          "icon": "😌",
+          "l": "Comfort signal",
+          "t": "They relax visibly when you don't push back on the credit."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat pattern",
+          "t": "This happens more than once and they keep coming back to you for the next one."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Let the credit go upward",
+          "desc": "Don't correct the record when your boss presents your work as theirs."
+        },
+        {
+          "n": "2",
+          "title": "Keep the how, not the what",
+          "desc": "Stay the only one who knows how the result actually got made."
+        },
+        {
+          "n": "3",
+          "title": "Collect it privately later",
+          "desc": "Ask for something concrete in your next 1-on-1: a raise, a title, a project."
+        }
+      ],
+      "script": "\"Glad that landed well with the team above — want me to build the next version the same way?\"",
+      "watchFor": "Your boss starts giving you the next big project before anyone else is considered.",
+      "ifItFails": "Your boss takes the credit and never gives you anything back, publicly or privately. Stop feeding it for free — put your name on the record in writing before it goes upward next time. Send: \"Here's the draft for your review — happy to present it together if that's useful.\"",
+      "counter": "If your work keeps disappearing into someone else's name, you're the one being run.\n• Notice the pattern after the second time it happens, not the fifth.\n• Say, calmly: \"Let's present that one together next time.\"\n• Put your name in writing on the next deliverable, before it goes up.",
+      "insight": "Do not run this on a boss who takes credit and never gives anything back — you'll trade your name for nothing. This works until they realize you could ask for something bigger. The next question is what to ask for, and when.",
+      "example": "Wei built the dashboard that made his director look sharp in the executive review. He let the director present it as 'our team's work' without correcting the record. Two weeks later, in private, he asked for and got the lead analyst title."
+    },
+    {
+      "id": 10,
+      "cat": "guard",
+      "danger": "high",
+      "title": "Cash In the Dependency Before They Replace You",
+      "when": "You've become the person a boss or client can't easily do without.",
+      "hook": "Every dependency has an expiration date. <strong>The moment they notice, they start building a way around you.</strong>",
+      "truth": "Being needed is worth the most right before they realize how much they need you.\n• Ask for the raise, title, or project while the gap is still open.\n• Wait too long and they quietly train a backup instead of paying you.\n• The trap: threaten to leave and they call the bluff before you're ready.",
+      "principle": "Leverage Decay — Use It Before They Replace It",
+      "remember": "Ask for the raise right after the save, not months later.",
+      "theySee": "Someone calmly asking for something specific right after a big, visible save.",
+      "signals": [
+        {
+          "icon": "📋",
+          "l": "Backup hire",
+          "t": "They start posting a job or training someone near your role."
+        },
+        {
+          "icon": "🙏",
+          "l": "Praise, no offer",
+          "t": "They keep thanking you but never bring up money or title."
+        },
+        {
+          "icon": "📄",
+          "l": "Process request",
+          "t": "They suddenly want your process documented in full detail."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Time it right",
+          "desc": "Ask within a week of your biggest recent save, not months later."
+        },
+        {
+          "n": "2",
+          "title": "Name one thing",
+          "desc": "Pick a single concrete ask: raise, title, or project, not a vague 'more.'"
+        },
+        {
+          "n": "3",
+          "title": "Ask without a threat",
+          "desc": "Frame it as fair value for what you handled, not an ultimatum."
+        }
+      ],
+      "script": "\"Given the vendor mess I handled last month, I'd like to talk about moving to Senior Analyst this quarter.\"",
+      "watchFor": "They respond with a real number or a real date, not just more praise.",
+      "ifItFails": "They stall with 'let me think about it' and go quiet for weeks. Don't wait indefinitely or repeat the ask louder — set a deadline of your own and start a real conversation elsewhere. Say: \"I understand — I'll check back in two weeks, and I'm also going to explore what else is out there.\"",
+      "counter": "If someone times a big ask right after saving you, recognize the move.\n• Notice asks that land right after a visible win, not randomly.\n• Separate the value of the save from the size of the ask.\n• Say what you can offer now, in writing, with a real date.",
+      "insight": "Do not run this on a boss who already resents you — they'll use the ask as the reason to finally replace you. Wait too long and they spend the time building around you instead of rewarding you. The harder question is whether you're ready to actually leave if the answer is no.",
+      "example": "Aisha had quietly become the only person who could run the client's onboarding system. A week after she saved a major account from missing its launch, she asked for a promotion instead of just a thank-you. She got the title within the month, before her manager had time to look for a backup."
+    }
+  ]
+}

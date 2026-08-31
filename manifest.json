@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 53,
+  "manifestVersion": 54,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -351,7 +351,20 @@
       "url": "playbooks/playbook-srv-getting-a-reply-from-someone-far-above-you.json",
       "addedAt": "2026-08-31T07:08:21.218Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-manufactured-need",
+      "title": "Manufactured Need",
+      "theme": "power",
+      "topic": "",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#1D3557",
+      "coverIcon": "🕸️",
+      "url": "playbooks/playbook-srv-manufactured-need.json",
+      "addedAt": "2026-08-31T14:48:01.694Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-31T07:08:21.218Z"
+  "generatedAt": "2026-08-31T14:48:01.694Z"
 }
