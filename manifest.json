@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 50,
+  "manifestVersion": 51,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -312,7 +312,20 @@
       "url": "playbooks/playbook-srv-the-jewelry-playbook.json",
       "addedAt": "2026-08-31T01:04:45.343Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-clean-break",
+      "title": "Clean Break",
+      "theme": "breakup",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#2E2A3B",
+      "coverIcon": "🚪",
+      "url": "playbooks/playbook-srv-clean-break.json",
+      "addedAt": "2026-08-31T01:36:46.161Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-31T01:04:45.343Z"
+  "generatedAt": "2026-08-31T01:36:46.161Z"
 }
