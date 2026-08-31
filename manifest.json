@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 49,
+  "manifestVersion": 50,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -299,7 +299,20 @@
       "url": "playbooks/playbook-srv-surviving-your-own-termination-meeting.json",
       "addedAt": "2026-08-30T17:33:01.933Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-jewelry-playbook",
+      "title": "The Jewelry Playbook",
+      "theme": "gifts",
+      "topic": "",
+      "cardCount": 6,
+      "contentVersion": 1,
+      "coverColor": "#C9A227",
+      "coverIcon": "💎",
+      "url": "playbooks/playbook-srv-the-jewelry-playbook.json",
+      "addedAt": "2026-08-31T01:04:45.343Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-30T17:33:01.933Z"
+  "generatedAt": "2026-08-31T01:04:45.343Z"
 }
