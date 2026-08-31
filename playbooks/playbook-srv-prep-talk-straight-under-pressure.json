@@ -1,0 +1,633 @@
+{
+  "meta": {
+    "id": "srv-prep-talk-straight-under-pressure",
+    "version": "1.0",
+    "title": "PREP: Talk Straight Under Pressure",
+    "subtitle": "Point, Reason, Example, Point — the four-beat answer for meetings you did not prepare for",
+    "description": "A field manual for speaking off the cuff. Ten cards on the PREP structure: how to open with the answer, hold the room, survive interruption, and land the close. Written for people who get asked hard questions in front of an audience and have four seconds to decide what to say.",
+    "author": "AI",
+    "createdAt": "2026-08-31T05:16:56.617Z",
+    "tags": [
+      "speaking",
+      "meetings",
+      "structure",
+      "persuasion",
+      "executive presence",
+      "improvisation"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#1F3A5F",
+    "coverIcon": "🎙️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "structure",
+      "label": "The Four Beats",
+      "color": "#1F3A5F"
+    },
+    {
+      "key": "opening",
+      "label": "The First Sentence",
+      "color": "#8C2F39"
+    },
+    {
+      "key": "evidence",
+      "label": "Proof That Sticks",
+      "color": "#3F6F5C"
+    },
+    {
+      "key": "pressure",
+      "label": "Under Fire",
+      "color": "#B2570A"
+    },
+    {
+      "key": "status",
+      "label": "Room Control",
+      "color": "#5B4B8A"
+    },
+    {
+      "key": "aftermath",
+      "label": "After You Sit Down",
+      "color": "#4A4A4A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "structure",
+      "danger": "low",
+      "title": "Say Your Answer in the First Sentence",
+      "principle": "Primacy Effect × Minto: Answer First",
+      "remember": "Give the answer first. Explain it second.",
+      "when": "Someone asks you a question in a meeting and every head turns to you.",
+      "hook": "Most people warm up for twenty seconds before they say anything. <strong>The room decides what you are worth in the first five.</strong>",
+      "truth": "People judge your answer before you finish giving it.\n• Your first sentence sets what everyone hears after it.\n• They stop guessing where you are going and start listening.\n• Most people build up to the point. The build-up is where they lose the room.",
+      "theySee": "A person who answers the question directly and then explains why.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "Long wind-up",
+          "t": "You start with background before you say your answer"
+        },
+        {
+          "icon": "📱",
+          "l": "Phones up",
+          "t": "Two people pick up their phones while you talk"
+        },
+        {
+          "icon": "✂️",
+          "l": "Cut off",
+          "t": "Someone interrupts you with \"So what are you saying?\""
+        },
+        {
+          "icon": "🌀",
+          "l": "Circle back",
+          "t": "You hear yourself say \"anyway, my point is\""
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the answer in seven words",
+          "desc": "Before you speak, finish this line in your head: \"We should ___.\" Seven words max."
+        },
+        {
+          "n": "2",
+          "title": "Say it flat, then stop",
+          "desc": "Deliver the seven words. Do not add \"I think\" or \"maybe\". Pause for one beat."
+        },
+        {
+          "n": "3",
+          "title": "Then give one reason",
+          "desc": "Start the next sentence with \"Because\". One reason only. Save the rest."
+        }
+      ],
+      "script": "\"<strong>We should push the launch two weeks.</strong> Because the payment flow fails on Android, and we have the fix in test by Friday.\"",
+      "example": "Priya's VP asked her mid-meeting whether the vendor deal was worth it. She said \"No — we should walk.\" Then she gave one reason and one number. The VP said \"Agreed, next item\" and the whole thing took forty seconds.",
+      "watchFor": "Someone writes down your first sentence before you finish the second one.",
+      "ifItFails": "They ask \"but what about X?\" right after your point — that means your answer was clear enough to attack, which is good. Do not defend the whole idea. Answer only X, in one sentence, then return to your point word for word. Say: <strong>\"X is handled — the fix is in test Friday. So: push two weeks.\"</strong>",
+      "counter": "When someone buries their answer under background, they are hiding a weak position.\n• Notice they are three sentences in with no verb you can act on.\n• Say: <strong>\"Give me the one-line version first.\"</strong>\n• Hold silence until they say it. Most people will.",
+      "insight": "Answering first feels rude the first three times you do it. That feeling is the cost of admission. The harder part is what comes next — once your point is on the table, you have to defend it without repeating it."
+    },
+    {
+      "id": 2,
+      "cat": "structure",
+      "danger": "low",
+      "title": "Use One Reason, Not Three",
+      "principle": "Averaging Effect (Weaver & Garcia)",
+      "remember": "Three reasons are weaker than your best one.",
+      "when": "You have several arguments for your position and you want to use all of them.",
+      "hook": "Adding a weak reason to a strong one makes the whole case weaker. <strong>People average your arguments. They do not add them up.</strong>",
+      "truth": "Listeners score your case on the average quality of what you said, not the total.\n• Your best reason sets the ceiling. Every weaker one pulls it down.\n• They remember the reason that was easiest to attack.\n• Most people pile on evidence when they feel unsure. The pile is the tell.",
+      "theySee": "A person who gives one clean reason and then stops talking.",
+      "signals": [
+        {
+          "icon": "🧱",
+          "l": "Reason stack",
+          "t": "You catch yourself saying \"and also\" for the third time"
+        },
+        {
+          "icon": "🎯",
+          "l": "Weak target",
+          "t": "Someone attacks your fourth point and ignores your first"
+        },
+        {
+          "icon": "😐",
+          "l": "Flat faces",
+          "t": "Heads nod at reason one and go still by reason three"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat ask",
+          "t": "They ask \"so which one is the main issue?\""
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List every reason on paper",
+          "desc": "Write all of them down before the meeting. Five, six, however many you have."
+        },
+        {
+          "n": "2",
+          "title": "Rank them by how hard they are to argue with",
+          "desc": "Put a number next to each. The one nobody in the room can dispute goes first."
+        },
+        {
+          "n": "3",
+          "title": "Say only number one",
+          "desc": "Keep the rest in your pocket. They are your answer to the next question, not part of your opening."
+        }
+      ],
+      "script": "\"<strong>One reason: the payment flow fails on 40% of Android devices.</strong> That is the whole case. Everything else is smaller.\"",
+      "example": "Dan had six reasons to kill a project. He led with one — it had burned $200K and shipped nothing. The room went quiet. His director said \"That's enough for me\" and cancelled it that afternoon.",
+      "watchFor": "Nobody asks for your other reasons. They start discussing what to do about the one you gave.",
+      "ifItFails": "They say \"that's not enough on its own\" and push back. Do not dump the other five now — that reads as a stockpile you were hiding. Release exactly one more, framed as separate: <strong>\"Fair. Second, independent problem: the vendor missed both delivery dates. Either one alone is enough.\"</strong>",
+      "counter": "When someone gives you a long list of reasons, they are usually short on one good one.\n• Count the reasons. Four or more means they are padding.\n• Say: <strong>\"If you only had one of those, which one would it be?\"</strong>\n• Argue against that one. The rest fall with it.",
+      "insight": "Cutting your evidence feels like disarming yourself. It is the opposite — a short case has fewer places to be attacked. This works until someone genuinely needs the volume, like a written business case, where more does mean more."
+    },
+    {
+      "id": 3,
+      "cat": "opening",
+      "danger": "low",
+      "title": "Buy Four Seconds Without Saying Um",
+      "principle": "Cognitive Load × Speech Disfluency",
+      "remember": "Repeat the question out loud. It buys you time.",
+      "when": "Someone asks you something hard and you do not have the answer ready.",
+      "hook": "You need four seconds to build your point. <strong>Um gives them to you and costs you the room.</strong>",
+      "truth": "The pause is not the problem. The noise you make during it is.\n• Repeating the question aloud fills the gap with something useful.\n• They hear a person who listened carefully, not one who stalled.\n• Most people fill the gap with um, so, or a nervous laugh. That is what gets remembered.",
+      "theySee": "A person who slows down, repeats the question back, and then answers it.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Filler sounds",
+          "t": "You say um or so at the start of most answers"
+        },
+        {
+          "icon": "😅",
+          "l": "Nervous laugh",
+          "t": "You laugh before you answer a hard question"
+        },
+        {
+          "icon": "🏃",
+          "l": "Fast start",
+          "t": "You start a sentence before you know how it ends"
+        },
+        {
+          "icon": "🔚",
+          "l": "Trail off",
+          "t": "Your answers end with \"...yeah, so\""
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Repeat the question in your own words",
+          "desc": "Say \"The question is whether we can ship by March.\" That is four seconds, spent well."
+        },
+        {
+          "n": "2",
+          "title": "Build your seven-word point during the repeat",
+          "desc": "Your mouth handles the repeat. Your head builds the answer. This is the whole trick."
+        },
+        {
+          "n": "3",
+          "title": "Answer on the next breath",
+          "desc": "Do not add a second stalling line. One repeat, then the point."
+        }
+      ],
+      "script": "\"<strong>So the question is whether March is real.</strong> Short answer: no. We are two weeks over on the payment work.\"",
+      "example": "Marcus got hit with a budget question he had not seen coming. He said \"You're asking if the number holds through Q4.\" Four seconds later he had his answer built. His CFO later told him he was the calmest person in the meeting.",
+      "watchFor": "The person who asked nods while you repeat their question, before you have answered anything.",
+      "ifItFails": "They say \"you know what I asked, just answer it\" — you used the repeat as a stall too obviously. Drop it and go bare: name what you do not know, then commit to a time. Say: <strong>\"I don't have the number in my head. I'll send it by 4pm today.\"</strong>",
+      "counter": "When someone repeats your question back, they are building their answer while you listen.\n• Notice the repeat is longer than your original question.\n• Say nothing. Let them answer. The stall is fine if the answer is good.\n• If they repeat twice, they do not have one. Ask again, shorter.",
+      "insight": "Silence reads as thinking. Um reads as panic. Same four seconds, opposite verdict. The next problem is that a good repeat invites people to correct your version of their question — and sometimes that correction is the real meeting."
+    },
+    {
+      "id": 4,
+      "cat": "evidence",
+      "danger": "low",
+      "title": "Use One Named Person, Not a Category",
+      "principle": "Identifiable Victim Effect (Schelling)",
+      "remember": "Name one real person. Numbers alone bounce off.",
+      "when": "You need your example to actually land, not just fill the slot.",
+      "hook": "\"Customers are frustrated\" changes nothing. <strong>\"Denise from Acme called twice on Tuesday\" changes the meeting.</strong>",
+      "truth": "One named person beats a percentage, every time.\n• A name gives the room something to picture instead of decode.\n• They stop debating your data and start solving your person's problem.\n• Most people reach for the big number because it feels more serious. It feels less real.",
+      "theySee": "A person who tells a short true story with a name and a date in it.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "Number only",
+          "t": "Your example is a percentage with no person attached"
+        },
+        {
+          "icon": "🫥",
+          "l": "Vague noun",
+          "t": "You say \"users\" or \"the business\" instead of a name"
+        },
+        {
+          "icon": "🥱",
+          "l": "No reaction",
+          "t": "You give the stat and nobody moves"
+        },
+        {
+          "icon": "❓",
+          "l": "Proof request",
+          "t": "Someone asks \"do we have an actual example?\""
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find one real case before the meeting",
+          "desc": "Pull one ticket, one email, one call. Get the name, the day, and what they said."
+        },
+        {
+          "n": "2",
+          "title": "Tell it in three sentences",
+          "desc": "Who, what happened, what it cost. Stop there. Do not editorialize."
+        },
+        {
+          "n": "3",
+          "title": "Attach the number after the story",
+          "desc": "Say the name first, then \"and there are 340 more like her.\" That order matters."
+        }
+      ],
+      "script": "\"<strong>Denise at Acme tried to pay us three times on Tuesday and gave up.</strong> She emailed her rep to cancel. There are 340 more like her this month.\"",
+      "example": "Aisha's team had shown the same 12% failure chart for two quarters with no action. She swapped it for one customer's actual support thread, read two lines out loud, and the fix was staffed by the end of that week.",
+      "watchFor": "Someone in the room says the name back to you later in the meeting.",
+      "ifItFails": "They dismiss it as one anecdote. Do not argue about whether stories count — you will lose that. Turn the story into a sample instead: <strong>\"Fair. I pulled ten at random from last week. Eight look exactly like Denise. Want the file?\"</strong> Then send it before they ask twice.",
+      "counter": "When someone leads with a single moving story, check whether it is typical.\n• Notice you feel something before you have seen any scale.\n• Ask: <strong>\"How many of these are there, out of how many total?\"</strong>\n• If they cannot answer, treat the story as a hypothesis, not proof.",
+      "insight": "A name is the cheapest persuasion tool in any meeting and almost nobody carries one in. The real trap is that this works so well it works for weak cases too — including the ones aimed at you."
+    },
+    {
+      "id": 5,
+      "cat": "evidence",
+      "danger": "low",
+      "title": "Keep the Example Under Twenty Seconds",
+      "principle": "Peak-End Rule (Kahneman)",
+      "remember": "Cut the setup. Start where the trouble starts.",
+      "when": "You start telling an example and feel the room drifting halfway through.",
+      "hook": "Most examples die in the setup. <strong>Nobody needs the background to feel the punch.</strong>",
+      "truth": "Long stories lose the point they were sent to prove.\n• Start at the moment something went wrong, not at the beginning.\n• They stay attached because the trouble is already on the table.\n• Most people explain the context first. By the time they reach the point, it is gone.",
+      "theySee": "A person who starts a story in the middle and finishes it in three sentences.",
+      "signals": [
+        {
+          "icon": "🗓️",
+          "l": "Back to origin",
+          "t": "You start your example with \"So back in March...\""
+        },
+        {
+          "icon": "👥",
+          "l": "Cast list",
+          "t": "You name four people before anything happens"
+        },
+        {
+          "icon": "👀",
+          "l": "Eyes drift",
+          "t": "People look at their laptops during your story"
+        },
+        {
+          "icon": "⏳",
+          "l": "Speed up",
+          "t": "You start talking faster to get to the end"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the moment it broke",
+          "desc": "In your story, locate the sentence where something failed. That is your first line."
+        },
+        {
+          "n": "2",
+          "title": "Delete everything before it",
+          "desc": "No date, no org chart, no how-we-got-here. Cut it all."
+        },
+        {
+          "n": "3",
+          "title": "Time yourself once out loud",
+          "desc": "Say it to a wall with a timer. Over twenty seconds means cut another sentence."
+        }
+      ],
+      "script": "\"<strong>Tuesday, the checkout screen froze for Denise at Acme.</strong> She retried three times, then emailed to cancel. That is our second biggest account.\"",
+      "example": "Tom used to open examples with two minutes of project history. He cut to \"The build failed at 2am and nobody got paged.\" His skip-level asked him to present at the leadership review that month.",
+      "watchFor": "Nobody looks at a laptop while you tell it, and somebody asks a follow-up question.",
+      "ifItFails": "They ask for the background you deliberately cut — that means the story landed and now they want detail. Give it in one sentence, then stop again. Say: <strong>\"Short version: we shipped that flow in March without device testing. Happy to go deeper after.\"</strong>",
+      "counter": "When someone gives you a long story, they may be running out the clock.\n• Notice you are ninety seconds in with no problem named yet.\n• Say: <strong>\"Jump me to where it went wrong.\"</strong>\n• If they cannot, the story was filler. Move to the next item.",
+      "insight": "Cutting the setup feels like you are leaving people confused. They fill gaps faster than you think. The harder skill is knowing which twenty seconds to keep when three different things went wrong at once."
+    },
+    {
+      "id": 6,
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "Land the Last Point Before You Stop Talking",
+      "principle": "Recency Effect × Minto: Close the Loop",
+      "remember": "End on your point, not on their question.",
+      "when": "You have answered the question and you can feel yourself drifting toward a mumbled ending.",
+      "hook": "Whatever you say last is what the room takes to the next meeting. <strong>Most people end on a shrug.</strong>",
+      "truth": "The final sentence is the one that gets quoted after you leave.\n• Repeating your opening point closes the loop and locks it in.\n• They walk out with your words, not their own summary of you.\n• Most people end with \"so, yeah\" or an apology. That becomes the takeaway.",
+      "theySee": "A person who finishes with the same clear line they started with, then goes quiet.",
+      "signals": [
+        {
+          "icon": "🪫",
+          "l": "Fade out",
+          "t": "Your voice drops on the last three words"
+        },
+        {
+          "icon": "🤷",
+          "l": "Shrug close",
+          "t": "You end with \"anyway\" or \"so, yeah\""
+        },
+        {
+          "icon": "🙋",
+          "l": "Handback",
+          "t": "You end by asking \"does that make sense?\""
+        },
+        {
+          "icon": "📝",
+          "l": "Wrong summary",
+          "t": "Someone repeats your point back and gets it wrong"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reuse your opening words exactly",
+          "desc": "Say the same seven-word point you opened with. Same words, not a new version."
+        },
+        {
+          "n": "2",
+          "title": "Drop your pitch on the last word",
+          "desc": "Go down, not up. Up sounds like a question and invites someone to fill the gap."
+        },
+        {
+          "n": "3",
+          "title": "Stop and do not add anything",
+          "desc": "No \"does that make sense\", no \"happy to discuss\". Let the silence sit."
+        }
+      ],
+      "script": "\"...so that is Denise, and 340 more this month. <strong>We should push the launch two weeks.</strong>\"",
+      "example": "Ravi used to trail off with \"but I could be wrong.\" He started repeating his opening line as his closer instead. Two weeks later his director quoted him word for word in a board update.",
+      "watchFor": "The room stays quiet for a beat after you finish, then someone responds to your point instead of asking what you meant.",
+      "ifItFails": "Someone jumps in and restates your point wrongly to steer it their way. Do not argue with their version — correct the record once, in your words, and hand it back. Say: <strong>\"Close. It's two weeks, not a month, and it's the Android fix. Two weeks.\"</strong> Do not use this to correct the most senior person twice in one meeting.",
+      "counter": "When someone ends by repeating their opening line, they are locking your memory.\n• Notice the closing sentence matches the opening one word for word.\n• Say: <strong>\"Before we lock that in — what would change your answer?\"</strong>\n• That forces the condition into the room instead of the slogan.",
+      "insight": "The repeat feels redundant to you and sounds decisive to everyone else. You heard it once; they were half-listening. The next question is whether you can hold that line when someone senior offers you an easy way to soften it."
+    },
+    {
+      "id": 7,
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "Answer the Question You Were Actually Asked",
+      "principle": "Gracián: Aphorism 3 — Keep Your Intentions Uncertain (inverted)",
+      "remember": "Dodge once and they stop believing everything else.",
+      "when": "You get a question with an answer that makes you look bad, and you are tempted to steer around it.",
+      "hook": "Everyone can hear a dodge. <strong>The dodge costs more than the bad answer would have.</strong>",
+      "truth": "A direct bad answer buys more trust than a smooth non-answer.\n• Saying the ugly thing first removes their reason to dig.\n• They stop testing you and start working the problem with you.\n• Most people dodge to protect their standing. The dodge is what damages it.",
+      "theySee": "A person who says the bad number out loud without being pushed twice.",
+      "signals": [
+        {
+          "icon": "↩️",
+          "l": "Pivot phrase",
+          "t": "You start with \"What I would say is...\""
+        },
+        {
+          "icon": "🔂",
+          "l": "Asked twice",
+          "t": "The same person asks the same question again, slower"
+        },
+        {
+          "icon": "🧐",
+          "l": "Cross-check",
+          "t": "Two people glance at each other while you answer"
+        },
+        {
+          "icon": "📋",
+          "l": "Follow-up ask",
+          "t": "Someone asks for the raw data after your answer"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the bad fact in the first sentence",
+          "desc": "State the number, the miss, or the mistake plainly. No cushion in front of it."
+        },
+        {
+          "n": "2",
+          "title": "Give the one reason without excusing",
+          "desc": "Say why it happened in one sentence. Do not add who else is at fault."
+        },
+        {
+          "n": "3",
+          "title": "Name what you will do and by when",
+          "desc": "One action, one date. This is what turns a confession into a plan."
+        }
+      ],
+      "script": "\"<strong>We missed the date by three weeks. That is on my team.</strong> The Android fix took longer than I scoped. New date is the 14th and I will send the plan today.\"",
+      "example": "Elena's project slipped and she opened the review with the slip, unprompted, before the slide deck. Her VP skipped the interrogation entirely and spent the time on staffing help. Nobody asked for a status report again that quarter.",
+      "watchFor": "They stop asking about what happened and start asking about the new date.",
+      "ifItFails": "They keep pressing after you owned it — usually because they want blame, not information. Do not confess a second time; repeating it reads as weakness. Move them to the decision: <strong>\"It's mine, I've said so. The open question is whether we hold scope or hold the date. Which do you want?\"</strong> Do not run this in front of a room if your manager has not heard the bad news privately first.",
+      "counter": "When someone answers fast and clean about a failure, check whether the number is complete.\n• Notice they gave you the miss but not the size of it.\n• Ask: <strong>\"Three weeks against which baseline — the original one?\"</strong>\n• A clean confession can still hide the real number. Ask for the baseline.",
+      "insight": "Owning it publicly is safe only after the person who ranks you has heard it privately. The real test comes on the second miss, when the same honest line has already been spent once."
+    },
+    {
+      "id": 8,
+      "cat": "status",
+      "danger": "moderate",
+      "title": "Finish Your Point After Being Interrupted",
+      "principle": "Greene: Law 4 — Say Less Than Necessary × Turn-Taking Rights",
+      "remember": "Take the floor back with one short sentence.",
+      "when": "Someone talks over you before you reach the second half of your point.",
+      "hook": "If you let one interruption take your turn, the room learns you are interruptible. <strong>The next one comes faster.</strong>",
+      "truth": "Interruption is a status test, and the room scores it in real time.\n• A short flat request for the floor almost always gets it back.\n• They hear a person with something specific left to say, not a complainer.\n• Most people restart from the beginning after an interruption. That is when they get cut again.",
+      "theySee": "A person who holds a hand still, says one line, and keeps going.",
+      "signals": [
+        {
+          "icon": "🔊",
+          "l": "Talked over",
+          "t": "Someone starts speaking while you are mid-sentence"
+        },
+        {
+          "icon": "🔁",
+          "l": "Serial cutter",
+          "t": "The same person interrupts you twice in one meeting"
+        },
+        {
+          "icon": "🫤",
+          "l": "Nobody helps",
+          "t": "Nobody says \"let her finish\" when it happens"
+        },
+        {
+          "icon": "↘️",
+          "l": "You yield",
+          "t": "You stop talking and let them take the point"
+        },
+        {
+          "icon": "🎤",
+          "l": "Credit shift",
+          "t": "They finish your idea and get the response you wanted"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Do not restart — say how much is left",
+          "desc": "Say \"one more sentence.\" A number is harder to refuse than a request."
+        },
+        {
+          "n": "2",
+          "title": "Deliver only your closing point",
+          "desc": "Skip the reason and the example. Go straight to the seven-word line."
+        },
+        {
+          "n": "3",
+          "title": "Hand it to them by name",
+          "desc": "Say \"Go ahead, Mark.\" You gave the floor. That means you had it."
+        }
+      ],
+      "script": "\"<strong>One more sentence and it's yours.</strong> We should push the launch two weeks. Go ahead, Mark.\"",
+      "example": "Nadia got cut off twice by the same director. The third time she said \"Ten seconds, then you.\" She finished, handed it over by name, and he waited for her to finish for the rest of the quarter.",
+      "watchFor": "They stop talking and wait, and the room turns back to you.",
+      "ifItFails": "They talk over you anyway. Stop competing on volume — you lose that in front of an audience. Go silent, let them run, then take the floor cleanly when they stop: <strong>\"Back to what I was closing on — two weeks, and here's the one reason.\"</strong> If it is your manager doing it, take it to the next one-on-one instead of the room.",
+      "counter": "When someone says \"one more sentence\" and then talks for two minutes, they are using your patience.\n• Notice the promised sentence has already passed.\n• Say: <strong>\"That was the sentence. My turn.\"</strong>\n• Say it once, evenly. Do not repeat it — repeating turns it into a fight.",
+      "insight": "You win this by being specific about time, not by being louder. Loud looks like a fight and you get scored on the fight, not the point. The harder version is when the interrupter outranks you and the room is watching to see if you know that."
+    },
+    {
+      "id": 9,
+      "cat": "status",
+      "danger": "moderate",
+      "title": "Say You Do Not Know, Then Give a Date",
+      "principle": "Schelling: Commitment Device",
+      "remember": "Do not know plus a deadline beats a guess.",
+      "when": "You get asked for a number or a fact you genuinely do not have.",
+      "hook": "A guess that turns out wrong follows you for a year. <strong>\"By 4pm today\" ends the question in one sentence.</strong>",
+      "truth": "Nobody is punished for not knowing. They are punished for guessing wrong.\n• A specific time turns your gap into a commitment they can hold.\n• They stop digging because a date is a better answer than a shaky number.\n• Most people invent a number to avoid looking unprepared. That is the number they get quoted on.",
+      "theySee": "A person who says \"I don't have that\" and names a time without being asked.",
+      "signals": [
+        {
+          "icon": "🎲",
+          "l": "Soft guess",
+          "t": "You say a number with \"roughly\" or \"I think\" attached"
+        },
+        {
+          "icon": "🧾",
+          "l": "Pinned later",
+          "t": "Someone quotes your rough number back as fact next week"
+        },
+        {
+          "icon": "🔍",
+          "l": "Detail drill",
+          "t": "They ask three follow-up questions about your estimate"
+        },
+        {
+          "icon": "😬",
+          "l": "Hedge stack",
+          "t": "You hedge twice in the same sentence"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the four words plainly",
+          "desc": "\"I don't have that.\" No apology, no explanation of why."
+        },
+        {
+          "n": "2",
+          "title": "Name a time, not a day",
+          "desc": "Say \"by 4pm Thursday\", not \"soon\" or \"this week\". A clock beats a window."
+        },
+        {
+          "n": "3",
+          "title": "Send it early",
+          "desc": "Deliver before the time you named. Once. That is what makes the move work next time."
+        }
+      ],
+      "script": "\"<strong>I don't have that number in front of me. You'll have it by 4pm today.</strong>\"",
+      "example": "Sam got asked for churn by segment in a leadership review and had no idea. He said \"Don't have it — 3pm today.\" He sent it at 2:40. Two months later his CFO started routing questions to him first.",
+      "watchFor": "They write down your time instead of asking the question again a different way.",
+      "ifItFails": "They push for a rough number anyway. Give a range with the reason it is a range, and mark it clearly as unconfirmed. Say: <strong>\"If you need something now: between 8% and 14%, and I would not put that in a deck. Confirmed number at 4pm.\"</strong> Do not use a naked \"I don't know\" with no date in front of someone who is deciding your budget.",
+      "counter": "When someone answers a hard question with a date instead of a number, note the date.\n• Notice they moved you from information to a promise.\n• Say: <strong>\"4pm works. I'll hold you to it.\"</strong>\n• Put it in writing that day. An unwritten deadline is a soft one.",
+      "insight": "The date is the whole move — without it, \"I don't know\" is just a gap. This works exactly as long as you hit the times you name. Miss one and you have spent the tool."
+    },
+    {
+      "id": 10,
+      "cat": "aftermath",
+      "danger": "low",
+      "title": "Send the Same Point in Writing Within an Hour",
+      "principle": "Availability Cascade × Written Record Advantage",
+      "remember": "The written version becomes the real version.",
+      "when": "You made your point well in the meeting and now everyone will retell it differently.",
+      "hook": "Spoken points get rewritten by whoever emails first. <strong>Be the person who emails first.</strong>",
+      "truth": "The record beats the memory, every time.\n• A short written recap makes your wording the version people quote.\n• They stop arguing about what was decided and start acting on your version.\n• Most people wait for the official notes. By then someone else has framed it.",
+      "theySee": "A short email with three lines that match what was said in the room.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Fuzzy close",
+          "t": "The meeting ends with no clear owner or date"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Version drift",
+          "t": "Two people describe the decision differently in the hallway"
+        },
+        {
+          "icon": "📨",
+          "l": "Rival recap",
+          "t": "Someone else sends a summary that leaves your point out"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same debate",
+          "t": "The same argument reopens at the next meeting"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send it within sixty minutes",
+          "desc": "Speed matters more than polish. The first written version usually wins."
+        },
+        {
+          "n": "2",
+          "title": "Use the same words you said out loud",
+          "desc": "Copy your seven-word point exactly. New wording invites a new argument."
+        },
+        {
+          "n": "3",
+          "title": "Put one owner and one date at the bottom",
+          "desc": "Name a person and a day. Vague recaps get ignored."
+        }
+      ],
+      "script": "\"Quick recap so we're aligned: <strong>we're pushing the launch two weeks.</strong> Reason: Android payment failures — Denise at Acme plus 340 others this month. New date: the 14th. I own the fix plan, out Thursday. Shout if I got any of that wrong.\"",
+      "example": "Jonah lost credit for the same decision twice because someone else always wrote the summary. He started sending a four-line recap before he left the room. By the next quarter his wording was the one that appeared in the roadmap doc.",
+      "watchFor": "Someone replies \"thanks for writing this up\" and forwards it to a person who was not in the meeting.",
+      "ifItFails": "Someone replies disputing your version. That is better than silence — it moved the disagreement into writing, where it is visible. Do not soften it in a reply-all. Ask them to write theirs: <strong>\"Happy to be corrected — send the version you'd sign off on and I'll use that.\"</strong> Most people will not bother, and yours stands.",
+      "counter": "When someone sends a fast recap, read it before you agree to it.\n• Notice a decision in the email that the room did not actually make.\n• Reply the same day: <strong>\"One correction — we agreed to review on the 14th, not commit.\"</strong>\n• Reply on the thread, not in a private message. The record is the point.",
+      "insight": "The person with the fastest keyboard writes the history of the meeting. The harder question is what happens when your recap is accurate and someone senior still wants a different version on the record."
+    }
+  ]
+}

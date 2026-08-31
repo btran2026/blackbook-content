@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 51,
+  "manifestVersion": 52,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -325,7 +325,20 @@
       "url": "playbooks/playbook-srv-clean-break.json",
       "addedAt": "2026-08-31T01:36:46.161Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-prep-talk-straight-under-pressure",
+      "title": "PREP: Talk Straight Under Pressure",
+      "theme": "speaking",
+      "topic": "",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#1F3A5F",
+      "coverIcon": "🎙️",
+      "url": "playbooks/playbook-srv-prep-talk-straight-under-pressure.json",
+      "addedAt": "2026-08-31T07:07:59.279Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-31T01:36:46.161Z"
+  "generatedAt": "2026-08-31T07:07:59.279Z"
 }
