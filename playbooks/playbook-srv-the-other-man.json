@@ -1,0 +1,1342 @@
+{
+  "meta": {
+    "id": "srv-the-other-man",
+    "version": "1.0",
+    "title": "The Other Man",
+    "subtitle": "Winning a woman who has not finished choosing",
+    "description": "Twenty-two cards on the oldest triangle. How to spot the rival, read where you actually stand, position against him without ever naming him, force the choice on your clock, and hold the ground after she picks — or walk clean if she does not.",
+    "author": "AI",
+    "createdAt": "2026-08-31T21:36:22.945Z",
+    "tags": [
+      "rivalry",
+      "dating",
+      "status",
+      "competition",
+      "triangles",
+      "dark psychology"
+    ],
+    "totalCards": 22,
+    "isSeeded": true,
+    "coverColor": "#7B1E2B",
+    "coverIcon": "♠️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "spotting",
+      "label": "Spotting the rival",
+      "color": "#8E44AD"
+    },
+    {
+      "key": "standing",
+      "label": "Reading where you stand",
+      "color": "#2C7A7B"
+    },
+    {
+      "key": "position",
+      "label": "Positioning against him",
+      "color": "#B7791F"
+    },
+    {
+      "key": "silence",
+      "label": "Never attacking him out loud",
+      "color": "#4A5568"
+    },
+    {
+      "key": "choice",
+      "label": "Forcing the choice",
+      "color": "#C53030"
+    },
+    {
+      "key": "after",
+      "label": "After she picks you",
+      "color": "#2F855A"
+    },
+    {
+      "key": "lost",
+      "label": "If she picks him",
+      "color": "#1A365D"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "spotting",
+      "danger": "low",
+      "title": "Count Her Dead Hours, Not Her Words",
+      "principle": "Base Rate Reasoning × Greene: Law 4, Always Say Less Than Necessary",
+      "remember": "Look at the hours she never explains. That is him.",
+      "hook": "She will tell you about her week. <strong>The parts she skips are the parts that matter.</strong>",
+      "when": "You feel someone else is around but you have zero proof and one weird Saturday.",
+      "truth": "People guard time better than they guard stories.\n• Map her week. Find the blocks that never get described.\n• Repeat gaps mean a repeat person, not a busy job.\n• Do not ask about the gap yet. Watching beats asking.",
+      "theySee": "A guy who does not question her schedule and seems relaxed about her weekends.",
+      "signals": [
+        {
+          "icon": "🕐",
+          "l": "Dead block",
+          "t": "Every Thursday night goes unmentioned, week after week"
+        },
+        {
+          "icon": "📵",
+          "l": "Phone flip",
+          "t": "She turns her phone face down when it lights up near you"
+        },
+        {
+          "icon": "🚪",
+          "l": "Late start",
+          "t": "She replies to your morning texts after 11am on the same days"
+        },
+        {
+          "icon": "🧭",
+          "l": "Vague place",
+          "t": "She says 'out with friends' but never names one of them"
+        },
+        {
+          "icon": "👕",
+          "l": "Different look",
+          "t": "She dresses up on nights she claims are casual"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write her week down",
+          "desc": "On paper, list the last three weeks. Mark every block she has never described."
+        },
+        {
+          "n": "2",
+          "title": "Look for repeats",
+          "desc": "Circle any night that repeats twice. One gap is life. Three is a person."
+        },
+        {
+          "n": "3",
+          "title": "Say nothing for ten days",
+          "desc": "Keep normal contact. Let the pattern either hold or break on its own."
+        }
+      ],
+      "script": "\"Thursdays seem to be your busy night. Noted — I'll aim for Fridays.\" <strong>Then drop it.</strong> Her reaction to being noticed tells you more than an answer would.",
+      "example": "Dev noticed Priya went quiet every Thursday after 7pm for a month. He never asked. He booked something of his own on Thursdays and mentioned it lightly. She got curious and volunteered the name Marcus within two weeks.",
+      "watchFor": "She explains the gap without being asked.",
+      "ifItFails": "She notices you are watching and gets defensive about her time. Do not defend yourself or list what you noticed. Take the whole subject off the table and give the pressure back: <strong>\"I don't need your calendar. I only need to know if I'm planning around one person or two.\"</strong> Then let her answer or not.",
+      "counter": "If someone maps your week and comments on your gaps, they are running this on you.\n• Notice the casual line about a specific day. That is not small talk.\n• Say: <strong>\"You've been keeping track. Ask me straight.\"</strong>\n• Force the direct question. Watchers lose power when named.",
+      "insight": "Most men interrogate and get a rehearsed story. The pattern in her calendar cannot rehearse. The harder part is what you do once you are sure — because certainty without a plan just makes you angrier."
+    },
+    {
+      "id": 2,
+      "cat": "spotting",
+      "danger": "moderate",
+      "title": "Get Her to Name Him Herself",
+      "principle": "Voss: Mirror × Cialdini: Consistency",
+      "remember": "Repeat her last three words. She fills the silence.",
+      "hook": "You do not have to ask who he is. <strong>People finish their own sentences when nobody interrupts.</strong>",
+      "when": "She mentions a name once, then moves on fast.",
+      "truth": "A dropped name is a test. She wants to know if you flinch.\n• Repeat her last few words back as a question. Nothing else.\n• She hears interest, not suspicion, so she keeps talking.\n• The trap is asking a second question. Two questions read as a search.",
+      "theySee": "A calm guy who seems mildly curious and easy to talk to.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Name drop",
+          "t": "She says a man's name then changes topic within one sentence"
+        },
+        {
+          "icon": "👁️",
+          "l": "Check glance",
+          "t": "She looks at your face right after the name lands"
+        },
+        {
+          "icon": "🧊",
+          "l": "Speed up",
+          "t": "She talks faster when she describes who he is to her"
+        },
+        {
+          "icon": "🏷️",
+          "l": "Label swap",
+          "t": "He is called 'a friend' once and 'this guy' another time"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Repeat her words",
+          "desc": "Say her last three or four words back with a rise at the end. Nothing more."
+        },
+        {
+          "n": "2",
+          "title": "Stay quiet for four seconds",
+          "desc": "Count in your head. Do not rescue the pause."
+        },
+        {
+          "n": "3",
+          "title": "Move on first",
+          "desc": "Change the subject yourself before she does. That kills any sense of an interrogation."
+        }
+      ],
+      "script": "\"...just a friend from work?\" <strong>Then nothing.</strong> Hold your face still and wait.",
+      "example": "Tom heard Elena mention 'Ryan from the gym' and let it pass. Two weeks later she said it again. He mirrored: \"Ryan from the gym?\" She talked for four minutes and admitted Ryan had asked her out twice. Tom never asked a single direct question.",
+      "watchFor": "She keeps talking past the point she meant to stop.",
+      "ifItFails": "She catches the technique and shuts down with \"why are you asking?\" Do not deny it. Own it flatly and hand the ball back: <strong>\"Because you said his name twice and looked at me both times. So tell me what he is or tell me it's nothing.\"</strong> Silence after that is its own answer.",
+      "counter": "If someone mirrors your words and waits, they are pulling information out of you.\n• Notice the echo. That is a tool, not a conversation.\n• Say: <strong>\"That sounded like a question. Ask the real one.\"</strong>\n• Answer only the question they actually ask. Nothing extra.",
+      "insight": "Most men demand the truth and get a defended version. A mirror gets the unedited one. This works until she suspects you care about the answer — the next card is about not caring out loud."
+    },
+    {
+      "id": 3,
+      "cat": "spotting",
+      "danger": "moderate",
+      "title": "Find Out If He Knows About You",
+      "principle": "Information Gap × Sun Tzu: Know the Other Side",
+      "remember": "Find out what he knows. That decides your whole game.",
+      "hook": "There are two very different games here. <strong>Either he knows you exist, or he thinks he is alone.</strong>",
+      "when": "You are sure there is another man but you do not know if he has heard your name.",
+      "truth": "Your position depends entirely on what he has been told.\n• If he knows about you, she is running an open comparison.\n• If he does not, she has picked him as the safe one and you as the secret.\n• Being the secret feels special. It is the weaker seat.",
+      "theySee": "A guy asking one simple logistics question, not a jealous one.",
+      "signals": [
+        {
+          "icon": "🤫",
+          "l": "No public post",
+          "t": "She never posts a photo with you but posts other friends"
+        },
+        {
+          "icon": "📍",
+          "l": "Zone rules",
+          "t": "She only meets you in places far from her usual spots"
+        },
+        {
+          "icon": "👥",
+          "l": "No friends",
+          "t": "You have met none of her people after two months"
+        },
+        {
+          "icon": "⏰",
+          "l": "Off hours",
+          "t": "She sees you late at night or midweek, never Saturday"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the flat question",
+          "desc": "Ask once, without heat, whether the other man knows your name."
+        },
+        {
+          "n": "2",
+          "title": "Watch the pause",
+          "desc": "A long pause means no. A fast honest answer means yes."
+        },
+        {
+          "n": "3",
+          "title": "Change your seat",
+          "desc": "If he does not know you exist, stop being available at her convenient hours."
+        }
+      ],
+      "script": "\"Simple question, no drama attached: <strong>does he know I exist?</strong>\"",
+      "example": "Andre asked Nadia the question over coffee, in a flat voice, then drank his coffee. She took eight seconds and said no. Andre said \"okay\" and started declining her Tuesday-night invitations. Within a month she had told Marcus about him.",
+      "watchFor": "She answers the question instead of asking why you asked it.",
+      "ifItFails": "She dodges with \"that's not relevant.\" Do not argue relevance. Take the answer as a no and act on it in front of her: <strong>\"Then I'll treat it as no. I'm not free midweek anymore — call me when the answer changes.\"</strong> Then actually stop being free.",
+      "counter": "If someone asks whether your other partner knows them, they are measuring their rank.\n• They are not being jealous. They are deciding whether to stay.\n• Say: <strong>\"He doesn't. And you should decide what that means to you.\"</strong>\n• Never lie here. A lie found later ends both relationships at once.",
+      "insight": "Secrecy feels like intimacy and reads like storage. Do not use this on a woman who has told you plainly she wants nothing serious — you will look like you agreed to terms you never accepted. The next question is what to do with the seat you have."
+    },
+    {
+      "id": 4,
+      "cat": "spotting",
+      "danger": "moderate",
+      "title": "Read His Type From What She Complains About",
+      "principle": "Greene: Laws of Human Nature — Projection",
+      "remember": "Her complaints about him tell you what he is.",
+      "hook": "She will not describe him to you. <strong>She will complain about him, and the complaint is a full portrait.</strong>",
+      "when": "She vents about 'a guy' or about men in general without naming anyone.",
+      "truth": "People hide the person and leak the pattern.\n• Every complaint names a trait he has too much of.\n• That trait is your opening — you supply the opposite for free.\n• The trap is agreeing with her complaint out loud. Never help her insult him.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Odd specific",
+          "t": "She complains about one oddly exact thing, like late replies"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same theme",
+          "t": "The same complaint appears three times in different stories"
+        },
+        {
+          "icon": "😤",
+          "l": "Heat spike",
+          "t": "Her voice changes when she describes 'guys who do this'"
+        },
+        {
+          "icon": "🧩",
+          "l": "No name",
+          "t": "She tells the story with no name attached to the man"
+        }
+      ],
+      "theySee": "A guy who listens without jumping in, and who happens to be the opposite of what annoys her.",
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the complaint down",
+          "desc": "After she vents, write the exact trait she named. Use her words, not yours."
+        },
+        {
+          "n": "2",
+          "title": "Do the opposite once",
+          "desc": "In the next week, be visibly the opposite of that trait a single time. Do not announce it."
+        },
+        {
+          "n": "3",
+          "title": "Never mention the link",
+          "desc": "Do not say 'unlike him.' The contrast only works if she finds it herself."
+        }
+      ],
+      "script": "\"That sounds exhausting.\" <strong>Then change the subject.</strong> You do not need to add anything — the contrast happens later, on its own.",
+      "example": "Sofia complained twice that men take a day to answer texts. Ben said nothing about it. He simply answered within an hour for three weeks. She told him, unprompted, that talking to him was easier than talking to anyone else.",
+      "watchFor": "She starts comparing out loud without you prompting it.",
+      "ifItFails": "She keeps venting but never applies it to you. Stop absorbing the venting for free — it makes you her therapist, not her option. Cut it once: <strong>\"I'm not the guy you process other guys with. Tell me about your week instead.\"</strong> That flips you from confidant to contender.",
+      "counter": "If someone listens to your complaints and quietly becomes the fix, they are positioning.\n• Notice they never argue and never compete out loud.\n• Say: <strong>\"You're very good at being the easy one.\"</strong>\n• Then judge them on their own record, not on the contrast.",
+      "insight": "The confidant seat is the most comfortable losing seat there is. Do not run this if you cannot actually deliver the opposite trait — the gap gets noticed within a month. The harder move is leaving the listener role before she files you under it."
+    },
+    {
+      "id": 5,
+      "cat": "standing",
+      "danger": "moderate",
+      "title": "Check Which Days You Get",
+      "principle": "Revealed Preference",
+      "remember": "Saturday night is the real answer. Ask for it once.",
+      "hook": "Everyone says nice things. <strong>The calendar does not lie.</strong>",
+      "when": "She is warm and complimentary but you have never had a weekend night.",
+      "truth": "Words are cheap and time is not. Rank shows in the schedule.\n• Prime time means Friday and Saturday night. Everything else is filler.\n• Ask for prime time once. The answer is your true position.\n• The trap is accepting Tuesday forever because she is nice about it.",
+      "theySee": "A guy making a normal plan for a normal weekend.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Weeknights only",
+          "t": "Every date you have had falls on a Monday through Thursday"
+        },
+        {
+          "icon": "🌙",
+          "l": "Late slot",
+          "t": "She arrives after 9pm and leaves before morning"
+        },
+        {
+          "icon": "🎟️",
+          "l": "No events",
+          "t": "She never invites you to anything with other people in it"
+        },
+        {
+          "icon": "🔄",
+          "l": "Reschedule direction",
+          "t": "She moves you, never him, when something comes up"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for one Saturday",
+          "desc": "Pick a specific Saturday two weeks out. Name the plan and the time."
+        },
+        {
+          "n": "2",
+          "title": "Take the first answer",
+          "desc": "If she says she is busy, do not offer an alternative day. Say okay and stop."
+        },
+        {
+          "n": "3",
+          "title": "Ask a second time only",
+          "desc": "Try once more a month later. Two no's means you are the weeknight guy."
+        }
+      ],
+      "script": "\"Saturday the 14th, dinner at eight. <strong>Are you in?</strong>\"",
+      "example": "Kwame asked Lena for two Saturdays over six weeks. Both times she offered Wednesday instead. He stopped asking and stopped being free Wednesday. She called him on a Saturday three weeks later.",
+      "watchFor": "She moves something else to take your Saturday.",
+      "ifItFails": "She says yes then cancels the day before. Do not reschedule for her. Make the cost visible without complaint: <strong>\"No problem. I've filled that weekend now — let me know when a Saturday works and I'll look at what's open.\"</strong> Scarcity you actually keep is the only kind that works.",
+      "counter": "If someone tests you by asking for a prime slot, they are measuring their rank.\n• They ask for one specific date, not 'sometime.'\n• Say: <strong>\"I can't that night. I can do the following Saturday.\"</strong>\n• If you cannot offer a weekend at all, you have answered them honestly.",
+      "insight": "Men argue about feelings and lose. The calendar is a scoreboard you cannot debate. Do not run this on a woman with genuine weekend obligations — kids, shift work — or you will read a schedule as a verdict. The next question is what you do with a verdict you do not like."
+    },
+    {
+      "id": 6,
+      "cat": "standing",
+      "danger": "moderate",
+      "title": "Test Whether You Exist In Public",
+      "principle": "Status Signaling × Social Proof",
+      "remember": "If her friends have never heard of you, you are not real yet.",
+      "hook": "Private warmth costs her nothing. <strong>Public association costs her something real.</strong>",
+      "when": "Two months in and you have never met a single person from her life.",
+      "truth": "Her social circle is where the real ranking lives.\n• Introducing you to friends puts her choice on the record.\n• The man she introduces is the man she is defending in group chats.\n• The trap is thinking privacy means depth. It usually means options.",
+      "theySee": "A guy suggesting a normal, low-pressure group thing.",
+      "signals": [
+        {
+          "icon": "🚫",
+          "l": "No intros",
+          "t": "She has never offered to introduce you to anyone she knows"
+        },
+        {
+          "icon": "📸",
+          "l": "Photo block",
+          "t": "She takes photos with you but never posts one"
+        },
+        {
+          "icon": "🍸",
+          "l": "Party gap",
+          "t": "She goes to group events alone and tells you afterwards"
+        },
+        {
+          "icon": "💬",
+          "l": "Friend silence",
+          "t": "Her friends have never mentioned your name to her in front of you"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Suggest one group thing",
+          "desc": "Invite her to something of yours with your friends in it. Low stakes, casual."
+        },
+        {
+          "n": "2",
+          "title": "Watch the return offer",
+          "desc": "See if she invites you to something of hers within three weeks."
+        },
+        {
+          "n": "3",
+          "title": "Stop hosting after two",
+          "desc": "If you have hosted twice and got nothing back, stop offering."
+        }
+      ],
+      "script": "\"Friends of mine are doing drinks Friday. <strong>Come meet them.</strong>\"",
+      "example": "Marcus invited Aisha to his friend's birthday. She came and got on well with everyone. Three weeks passed with no return invite. He stopped inviting her out. She asked why, then brought him to her sister's dinner the next weekend.",
+      "watchFor": "She introduces you to someone from her life without you asking.",
+      "ifItFails": "She comes to yours and never reciprocates, then says she 'likes keeping things separate.' Accept it and price it: <strong>\"Fine. Then we're a private thing, and I'll treat it like one.\"</strong> Say it once, mean it, and match your effort to the category she chose.",
+      "counter": "If someone keeps inviting you into their world while never asking about yours, they are testing.\n• Notice the one-way invitations. That is a scoreboard.\n• Say: <strong>\"I'm not ready to mix circles yet. That's about me, not you.\"</strong>\n• Say it plainly or they will read the silence as a rank.",
+      "insight": "Being kept private is not being protected. Do not run this on someone whose job or family genuinely forbids public life — you will punish a constraint instead of a choice. The harder question is how long you fund a category you did not pick."
+    },
+    {
+      "id": 7,
+      "cat": "standing",
+      "danger": "high",
+      "title": "Ask Who She Would Call At 2am",
+      "principle": "Attachment Hierarchy",
+      "remember": "She calls one man in a crisis. Find out which one.",
+      "hook": "Romance is negotiable. <strong>Emergency is not.</strong>",
+      "when": "Everything feels even between you and him and you cannot tell who leads.",
+      "truth": "Under stress, people go to one person. That ranking is honest.\n• The 2am call is not about love. It is about who she trusts to handle it.\n• Whoever gets the crisis call has the deeper hold, whatever she says.\n• The trap is asking this as a hypothetical. Wait for a real crisis and watch.",
+      "theySee": "A guy asking a light question about her flat tire story.",
+      "signals": [
+        {
+          "icon": "🚑",
+          "l": "Crisis call",
+          "t": "She told you about a bad night but you heard it the next day"
+        },
+        {
+          "icon": "📞",
+          "l": "Second call",
+          "t": "She calls you after the problem is already solved"
+        },
+        {
+          "icon": "🧳",
+          "l": "Practical help",
+          "t": "Someone else drove her to the airport last month"
+        },
+        {
+          "icon": "🏥",
+          "l": "Family news",
+          "t": "She told him about her father's diagnosis before she told you"
+        },
+        {
+          "icon": "🔑",
+          "l": "Key holder",
+          "t": "Someone else has a spare key to her place"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait for a real problem",
+          "desc": "Do not ask a hypothetical. Wait until something actually goes wrong in her life."
+        },
+        {
+          "n": "2",
+          "title": "Check the order",
+          "desc": "Ask who she called first. Ask it casually, once, during the story."
+        },
+        {
+          "n": "3",
+          "title": "Offer once, then stop",
+          "desc": "Tell her you are the 2am number. Say it once. Never repeat the offer."
+        }
+      ],
+      "script": "\"Who did you call first?\" <strong>Then later:</strong> \"For what it's worth, I'm a 2am phone call. Use it.\"",
+      "example": "Rachel's car died on a highway at midnight. She called Daniel. When she told the story, she mentioned she almost called her ex first. Daniel said only \"you called the right one.\" She stopped seeing the ex within two months.",
+      "watchFor": "The next time something goes wrong, your phone rings first.",
+      "ifItFails": "She calls him and tells you after. Do not sulk and do not compete on rescue duty. Name the rank once, without heat, and let it sit: <strong>\"You called him. That's information, not an insult. I'm not going to pretend I didn't notice.\"</strong> Then go quiet for a few days.",
+      "counter": "If someone offers to be your emergency contact early, they are buying rank cheaply.\n• Notice the offer arrives before the trust does.\n• Say: <strong>\"Thanks. I call people I've known longer.\"</strong>\n• Give the 2am slot to whoever has actually shown up, not whoever asked.",
+      "insight": "Attention is easy to fake and reliability is not. Do not run this on a woman in an actual crisis as a test — she will smell the audit and never forget it. The next problem is that the 2am seat is a duty, not a prize."
+    },
+    {
+      "id": 8,
+      "cat": "standing",
+      "danger": "high",
+      "title": "Notice When You Became Convenient",
+      "principle": "Sunk-Cost Trap × Intermittent Reward",
+      "remember": "If you only see her when she is free, you are a backup.",
+      "hook": "There is a moment where you stop being a choice and start being a slot. <strong>Most men miss it by six months.</strong>",
+      "when": "You realize every meeting in the last month started with her being suddenly free.",
+      "truth": "The backup role feels like a relationship and pays like a habit.\n• Convenience means she plans around him and fits you in the leftovers.\n• Random rewards keep you hooked harder than steady ones do.\n• The trap is thinking more effort fixes rank. Effort confirms it.",
+      "theySee": "A guy who is suddenly harder to reach than he used to be.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Short notice",
+          "t": "She asks to see you the same day, not days ahead"
+        },
+        {
+          "icon": "📉",
+          "l": "Effort gap",
+          "t": "You plan everything and she just shows up"
+        },
+        {
+          "icon": "🎢",
+          "l": "Hot and cold",
+          "t": "She goes quiet for a week then floods you with warmth"
+        },
+        {
+          "icon": "🚗",
+          "l": "One-way travel",
+          "t": "You always go to her side of town"
+        },
+        {
+          "icon": "🕳️",
+          "l": "Filler talk",
+          "t": "She texts most when she is bored or alone"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count who asked",
+          "desc": "Look at the last ten meetings. Write down who proposed each one and how far ahead."
+        },
+        {
+          "n": "2",
+          "title": "Say no to one same-day ask",
+          "desc": "The next time she asks for tonight, say you already have plans. Have plans."
+        },
+        {
+          "n": "3",
+          "title": "Only accept plans made ahead",
+          "desc": "For one month, take dates arranged two days out or more. Nothing else."
+        }
+      ],
+      "script": "\"Can't tonight — already out. <strong>Give me a couple of days' notice next time and I'll make it work.</strong>\"",
+      "example": "Julian noticed nine of his last ten meetings with Cara were same-day. He turned down two spontaneous invites in a row and made no fuss about it. She proposed a dinner five days ahead for the first time in months.",
+      "watchFor": "She starts asking days in advance instead of hours.",
+      "ifItFails": "She stops asking altogether when the easy access ends. That is your answer, and it arrived cheap. Do not chase it back. Send one line and then live your life: <strong>\"I'm around when there's a plan. I'm not around for whenever.\"</strong> If nothing comes back, you learned the price in a week instead of a year.",
+      "counter": "If someone suddenly becomes hard to book, they are repricing themselves.\n• Notice the polite refusals with no anger behind them.\n• Say: <strong>\"Fair. Are you free Thursday? I'm asking properly.\"</strong>\n• Meet the new price or let them go. Do not test whether they mean it.",
+      "insight": "More effort from the lower seat cements the lower seat. Do not do this if you cannot actually fill the nights — an empty bluff collapses in two weeks. The harder part is that saying no costs you her attention right when you want it most."
+    },
+    {
+      "id": 9,
+      "cat": "position",
+      "danger": "low",
+      "title": "Be The Man With Somewhere Else To Be",
+      "principle": "Greene: Law 16 — Use Absence to Increase Respect",
+      "remember": "Have your own life. Do not cancel it for her.",
+      "hook": "A man with nothing on his calendar is not a choice. <strong>He is a default.</strong>",
+      "when": "You keep your evenings open in case she wants to see you.",
+      "truth": "Availability is the cheapest thing you own and she can price it instantly.\n• A full life makes her time with you feel selected, not automatic.\n• He probably has one. If you do not, the gap shows.\n• The trap is faking it. Build the actual life or she will see the empty diary.",
+      "theySee": "A guy who is warm when he is there and genuinely gone when he is not.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Empty diary",
+          "t": "You have nothing planned for the week that does not involve her"
+        },
+        {
+          "icon": "🔔",
+          "l": "Fast reply",
+          "t": "You answer every message within two minutes, day or night"
+        },
+        {
+          "icon": "🧊",
+          "l": "Held slot",
+          "t": "You keep Saturday clear without being asked to"
+        },
+        {
+          "icon": "🎣",
+          "l": "Waiting",
+          "t": "You check your phone repeatedly during your own evening"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Book three real things",
+          "desc": "This week, put three fixed commitments in your calendar that have nothing to do with her."
+        },
+        {
+          "n": "2",
+          "title": "Keep them",
+          "desc": "When she asks for one of those nights, say you already have something. Do not explain what."
+        },
+        {
+          "n": "3",
+          "title": "Delay one reply a day",
+          "desc": "Answer one message hours later because you were genuinely busy. Not as a game."
+        }
+      ],
+      "script": "\"I'm out that night. <strong>Friday works.</strong>\"",
+      "example": "Owen joined a Tuesday climbing group and started a standing Thursday dinner with two friends. He stopped being free on demand. Within a month Hannah was asking about his week and moving her plans to catch him on Friday.",
+      "watchFor": "She asks what you are doing on the nights you are unavailable.",
+      "ifItFails": "She reads your absence as disinterest and pulls back. Do not over-explain. Show the warmth is real while the schedule stays firm: <strong>\"I'm busy, not gone. Friday, eight, my place — I'm cooking.\"</strong> Firm calendar plus clear intent beats constant availability.",
+      "counter": "If someone is always busy but always warm, they are running scarcity on you.\n• Notice they refuse the date but never the person.\n• Say: <strong>\"You're hard to book. Give me a night that's actually yours.\"</strong>\n• Ask for one committed date. Real busy people give one.",
+      "insight": "Scarcity only works if the thing is worth wanting. An empty man with a full calendar is still empty. The harder part is building a life good enough that leaving it for her actually means something."
+    },
+    {
+      "id": 10,
+      "cat": "position",
+      "danger": "moderate",
+      "title": "Give Her One Thing He Cannot",
+      "principle": "Differentiation × Scarcity",
+      "remember": "Do not be better than him. Be different in one way.",
+      "hook": "You will not out-score him across the board. <strong>You only need one thing he does not have.</strong>",
+      "when": "You know his strengths and you are tempted to compete on all of them.",
+      "truth": "Comparison across many traits is a losing game. Comparison on one is winnable.\n• Pick a single quality where he is weak and you are strong.\n• Deliver it consistently until she uses it to describe you.\n• The trap is announcing the quality. It only counts if she names it.",
+      "theySee": "A guy who reliably does one thing nobody else in her life does.",
+      "signals": [
+        {
+          "icon": "🎁",
+          "l": "Her request",
+          "t": "She has asked you twice for the same kind of thing"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Her label",
+          "t": "She describes you to others using one specific word"
+        },
+        {
+          "icon": "🧲",
+          "l": "Return visits",
+          "t": "She comes back to you for that specific thing every time"
+        },
+        {
+          "icon": "🔍",
+          "l": "His gap",
+          "t": "Her complaints about him circle one missing quality"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the gap",
+          "desc": "Write down one thing she wants that he does not give. Use her own complaint as the source."
+        },
+        {
+          "n": "2",
+          "title": "Deliver it three times",
+          "desc": "Do that thing three times in three weeks without comment."
+        },
+        {
+          "n": "3",
+          "title": "Withdraw it once",
+          "desc": "Be unavailable for it one time. Notice whether she goes looking for it."
+        }
+      ],
+      "script": "\"Tell me the whole thing. <strong>I've got an hour and nowhere to be.</strong>\"",
+      "example": "Isabel's boyfriend never sat still for a conversation. Nico did nothing else special — he just gave her his full attention for an hour at a time, three weeks running. She started describing him to friends as \"the one who actually listens.\" That label did the work.",
+      "watchFor": "She calls you specifically when she wants that one thing.",
+      "ifItFails": "She takes the thing and gives nothing back. Stop supplying it free and make it conditional on real access: <strong>\"I'm happy to be that for you. I'm not happy to be that for you between his calls.\"</strong> Then withhold it until the terms change.",
+      "counter": "If someone gives you one thing perfectly and nothing else, they are differentiating.\n• Notice the single strength delivered on repeat.\n• Say: <strong>\"You're very good at this one thing. What's the rest of you like?\"</strong>\n• Judge the whole person, not the sharpest edge.",
+      "insight": "Men try to win on every axis and dilute themselves into a copy of him. Do not run this if the gap you pick is something you cannot sustain for a year. The next problem is that a single strength makes you a specialty, and specialties get used."
+    },
+    {
+      "id": 11,
+      "cat": "position",
+      "danger": "moderate",
+      "title": "Make Time With You Feel Like An Escape",
+      "principle": "Greene: Art of Seduction — The Enticer",
+      "remember": "Be the part of her week she does not want to end.",
+      "hook": "He gets her regular life. <strong>You can take the part she actually looks forward to.</strong>",
+      "when": "Your dates have turned into dinner and the same conversation every time.",
+      "truth": "People remember how a person makes their week feel, not what he said.\n• Build meetings around something new, physical, or slightly risky.\n• New experiences bind to whoever was present for them.\n• The trap is spending money. Novelty is the currency, not cost.",
+      "theySee": "A guy who takes her somewhere she would not have gone alone.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Same script",
+          "t": "Your last four dates were the same dinner and the same bar"
+        },
+        {
+          "icon": "📱",
+          "l": "Phone out",
+          "t": "She checks her phone during your time together"
+        },
+        {
+          "icon": "😐",
+          "l": "Flat goodbye",
+          "t": "She leaves at a normal time without hesitating"
+        },
+        {
+          "icon": "🗺️",
+          "l": "No stories",
+          "t": "She has no story about you to tell her friends"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one new thing",
+          "desc": "Choose an activity neither of you has done. It can be cheap. It cannot be dinner."
+        },
+        {
+          "n": "2",
+          "title": "Do not explain it",
+          "desc": "Tell her the time and what to wear. Keep the rest unsaid until you arrive."
+        },
+        {
+          "n": "3",
+          "title": "End it early",
+          "desc": "Leave while she is still enjoying it. Stop before the energy drops."
+        }
+      ],
+      "script": "\"Saturday, four o'clock, wear shoes you can walk in. <strong>I'm not telling you where.</strong>\"",
+      "example": "Every date Priya had with her boyfriend was the same wine bar. Sam took her to a boxing gym on a Saturday afternoon and left after ninety minutes. She talked about that afternoon for a month and asked when the next one was.",
+      "watchFor": "She asks what you are planning next before you offer.",
+      "ifItFails": "She enjoys it and still goes home to him. Novelty alone does not move a decision. Attach the feeling to a choice out loud: <strong>\"You had a good time. You get more of those when you're actually free — think about that.\"</strong> Then wait rather than booking another one immediately.",
+      "counter": "If someone keeps taking you somewhere new and never talks about anything real, they are building a feeling, not a relationship.\n• Notice the excitement with no ordinary days in it.\n• Say: <strong>\"I like this. Can we do a boring Tuesday too?\"</strong>\n• Test whether they show up when nothing exciting is happening.",
+      "insight": "Excitement wins attention and routine wins the choice. Do not run this on a woman with a young family or a fixed schedule — surprise reads as pressure. The next card is about what happens when she compares your Saturday to his Sunday morning."
+    },
+    {
+      "id": 12,
+      "cat": "position",
+      "danger": "high",
+      "title": "Win The Ordinary Days, Not Just The Big Nights",
+      "principle": "Mere Exposure Effect × Habit Formation",
+      "remember": "He has her Tuesdays. Take one of them.",
+      "hook": "Big nights make memories. <strong>Ordinary days make a life, and a life is what she picks.</strong>",
+      "when": "You are the exciting one and he is still the one she goes home to.",
+      "truth": "Women leave for the man whose ordinary day feels better than the current one.\n• Grand gestures fade in a week. A repeated ordinary hour becomes a habit.\n• The habit is what she misses when she is with him.\n• The trap is thinking you must impress. You must become normal to her.",
+      "theySee": "A guy whose company feels easy, familiar, and unremarkable in a good way.",
+      "signals": [
+        {
+          "icon": "☕",
+          "l": "Morning texts",
+          "t": "She messages you about small things with no purpose"
+        },
+        {
+          "icon": "🛋️",
+          "l": "Low effort",
+          "t": "She shows up in old clothes and does not care"
+        },
+        {
+          "icon": "📺",
+          "l": "Nothing plans",
+          "t": "She suggests doing nothing together"
+        },
+        {
+          "icon": "🍳",
+          "l": "Domestic drift",
+          "t": "She has started leaving small items at your place"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Repeat slot",
+          "t": "The same day of the week has become yours"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Claim one weekday",
+          "desc": "Pick one weekday and make it yours every week. Same day, same rough time."
+        },
+        {
+          "n": "2",
+          "title": "Do nothing special",
+          "desc": "Cook. Walk. Sit. Do not plan anything impressive on that day."
+        },
+        {
+          "n": "3",
+          "title": "Never cancel it",
+          "desc": "Keep that day for three months without a single miss. The reliability is the move."
+        }
+      ],
+      "script": "\"Wednesday's ours now. <strong>Nothing planned — just come over.</strong>\"",
+      "example": "Leo stopped booking big Saturdays with Mira and claimed Wednesday nights instead. They cooked badly and watched nothing. After two months she told him her week was built around Wednesday. She ended things with the other man in March.",
+      "watchFor": "She protects that day when other plans come for it.",
+      "ifItFails": "She misses the day twice and treats it as flexible. Do not quietly reschedule around her. Say the day is a real thing or drop it entirely: <strong>\"Wednesday only works if it's actually Wednesday. If it's not, let's not pretend it's a thing.\"</strong> Then give the day to someone or something else.",
+      "counter": "If someone builds a fixed weekly slot with you, they are building a habit you will miss.\n• Notice the day becoming automatic without a conversation.\n• Say: <strong>\"I like this, and I want to be clear about what it is.\"</strong>\n• Name the relationship before the habit names it for you.",
+      "insight": "The exciting man loses to the familiar one nine times out of ten. Do not run this while you are still one of three — a claimed weekday inside an unclaimed relationship just makes you cheap furniture. The next move is making her name what this is."
+    },
+    {
+      "id": 13,
+      "cat": "silence",
+      "danger": "high",
+      "title": "Never Say A Bad Word About Him",
+      "principle": "Greene: Law 5 — Guard Your Reputation × Spontaneous Trait Transference",
+      "remember": "Insult him and she hears the insult about you.",
+      "hook": "Every criticism you make of him lands on you. <strong>The brain files the trait with whoever said it.</strong>",
+      "when": "She tells you something bad he did and you want to pile on.",
+      "truth": "Attacking the rival is the single most common way men lose this.\n• Criticism sounds like fear. Fear reads as the weaker position.\n• She will defend him, and defending him strengthens her bond to him.\n• The trap is that silence feels passive. It is the aggressive move here.",
+      "theySee": "A guy who does not seem worried about anyone else, which reads as strength.",
+      "signals": [
+        {
+          "icon": "🔥",
+          "l": "Bait line",
+          "t": "She tells you something bad he did and watches your face"
+        },
+        {
+          "icon": "🛡️",
+          "l": "Defense reflex",
+          "t": "She defends him the second you say anything critical"
+        },
+        {
+          "icon": "🗯️",
+          "l": "Your heat",
+          "t": "Your voice changes whenever his name comes up"
+        },
+        {
+          "icon": "🎣",
+          "l": "Repeat bait",
+          "t": "She brings up his flaws more than once in a week"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say one neutral line",
+          "desc": "When she complains about him, say something short and neutral. Then stop talking."
+        },
+        {
+          "n": "2",
+          "title": "Move to her",
+          "desc": "Turn the subject to how she feels, not to him. Ask what she wants instead."
+        },
+        {
+          "n": "3",
+          "title": "Never repeat his name",
+          "desc": "Do not use his name in conversation. Not once. Let him stay unreal in your world."
+        }
+      ],
+      "script": "\"That's between you two. <strong>What do you want to do about it?</strong>\"",
+      "example": "Chloe told Adam that Ryan had forgotten her birthday. Adam said only \"that's rough\" and asked what she wanted for dinner. She brought it up twice more and got the same calm nothing. She later said Adam was the only person who never made her defend Ryan.",
+      "watchFor": "She stops bringing him up as a topic because it gets no reaction.",
+      "ifItFails": "She pushes harder for a reaction, asking directly what you think of him. Do not take the bait and do not fake neutrality either. Redirect to your own position once: <strong>\"I don't have an opinion on him. I have an opinion on you, and it's that you deserve to not be split.\"</strong> That moves the subject from him to her choice.",
+      "counter": "If someone refuses to criticize your other partner, they are running this on you.\n• Notice the calm every time you complain and get nothing back.\n• Say: <strong>\"You never say anything about him. Why not?\"</strong>\n• Their answer tells you whether it is confidence or a technique.",
+      "insight": "Men think they are exposing him and they are auditioning as the bitter one. Do not break this rule even once when she is angry at him — that is exactly when she remembers who piled on. The harder part is holding your face when she gives you the perfect opening."
+    },
+    {
+      "id": 14,
+      "cat": "silence",
+      "danger": "moderate",
+      "title": "Refuse To Be Her Therapist About Him",
+      "principle": "Friend Zone Mechanics × Role Assignment",
+      "remember": "Listening to her problems with him keeps you out of her bed.",
+      "hook": "He gets the romance and you get the debrief. <strong>That is not a promotion.</strong>",
+      "when": "She calls you to talk about a fight she had with him.",
+      "truth": "The confidant role feels close and pays nothing.\n• Every time you counsel her about him, you become the safe one.\n• Safe is the category she does not have sex with or leave for.\n• The trap is that refusing feels cold. It is the only way out of the role.",
+      "theySee": "A guy who likes her but will not work on her other relationship for free.",
+      "signals": [
+        {
+          "icon": "📞",
+          "l": "Crisis calls",
+          "t": "She calls you mostly when she has fought with him"
+        },
+        {
+          "icon": "🧠",
+          "l": "Advice ask",
+          "t": "She asks what she should do about him"
+        },
+        {
+          "icon": "🫂",
+          "l": "No touch",
+          "t": "The conversations are warm but nothing physical happens"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same loop",
+          "t": "You have had the same conversation about him three times"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say no once, warmly",
+          "desc": "The next time she opens the subject, tell her plainly you are not the right person for it."
+        },
+        {
+          "n": "2",
+          "title": "Offer the alternative",
+          "desc": "Immediately offer something else — a walk, dinner, a different topic."
+        },
+        {
+          "n": "3",
+          "title": "Hold it for a month",
+          "desc": "Refuse the topic every time for a month. Consistency is what changes the role."
+        }
+      ],
+      "script": "\"I'm not going to help you fix things with him. <strong>I'm not neutral and you know why.</strong> Ask me anything else.\"",
+      "example": "Nina called Ben after every argument with her partner. On the fourth call Ben said he would not do that anymore and asked her to dinner instead. She was annoyed for a week, then came to dinner, and the calls changed shape entirely.",
+      "watchFor": "She stops calling you about him and starts calling you about nothing.",
+      "ifItFails": "She gets hurt and says you are not supporting her. Do not apologize into the old role. Say the reason out loud once: <strong>\"I do support you. I'm just not going to be the guy who helps you stay with someone else.\"</strong> If she still wants only that, you have your answer.",
+      "counter": "If someone refuses to discuss your other relationship, they are declining a role.\n• Notice the warmth with a hard edge on one topic.\n• Say: <strong>\"Understood. I'll take that somewhere else.\"</strong>\n• Then actually take it elsewhere. Do not test the boundary.",
+      "insight": "The confidant thinks he is building trust and is building a category. Do not use this line on a woman who is genuinely in danger — that is a different situation entirely. The harder part is that saying no might cost you the contact you have."
+    },
+    {
+      "id": 15,
+      "cat": "silence",
+      "danger": "high",
+      "title": "Let Her Compare You Without Naming Him",
+      "principle": "Gracián: Let Others Reach the Conclusion",
+      "remember": "Show the difference. Never point at it.",
+      "hook": "You never have to say you are better. <strong>You only have to be visibly different in the same week.</strong>",
+      "when": "You know exactly how he falls short and you want to say it out loud.",
+      "truth": "A conclusion she reaches herself cannot be argued away.\n• Do the opposite of his weakness in plain sight and say nothing.\n• She builds the comparison privately, so it becomes her idea.\n• The trap is one small hint. A single 'unlike some people' ruins the whole build.",
+      "theySee": "A guy who behaves consistently and never mentions anyone else.",
+      "signals": [
+        {
+          "icon": "🪞",
+          "l": "Her comparison",
+          "t": "She says out loud that you handle things differently"
+        },
+        {
+          "icon": "🤐",
+          "l": "Your restraint",
+          "t": "You had an opening to criticize him and did not take it"
+        },
+        {
+          "icon": "📊",
+          "l": "Her tally",
+          "t": "She lists things you do that nobody has done for her"
+        },
+        {
+          "icon": "😶",
+          "l": "His absence",
+          "t": "His name comes up less in your conversations each week"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick his weak spot",
+          "desc": "Choose one thing he does badly that she has mentioned. One only."
+        },
+        {
+          "n": "2",
+          "title": "Do the opposite visibly",
+          "desc": "Handle that exact thing well, in front of her, twice in two weeks."
+        },
+        {
+          "n": "3",
+          "title": "Say nothing about it",
+          "desc": "Do not reference him, hint, or accept credit. Let it sit."
+        }
+      ],
+      "script": "When she notices out loud: \"<strong>That's just how I do things.</strong>\" Nothing more.",
+      "example": "Ryan cancelled on Emma twice by text. Jonah kept every plan for six weeks and never mentioned Ryan once. In March Emma said, unprompted, \"you've never let me down once.\" Jonah just said thanks and changed the subject.",
+      "watchFor": "She makes the comparison out loud and you did not prompt it.",
+      "ifItFails": "She never makes the comparison and treats your reliability as normal. Stop supplying it silently and make it a visible choice: skip one thing you would normally handle, without drama, and say <strong>\"I've had a lot on. You've had my best weeks — I'd like to know they count for something.\"</strong> Absence makes the pattern visible faster than presence does.",
+      "counter": "If someone quietly outperforms your partner and never says a word, they are building a case in your head.\n• Notice the perfect behavior with zero commentary.\n• Say: <strong>\"You're making a point without making it. Say it straight.\"</strong>\n• Force the comparison into words. Spoken, it loses half its power.",
+      "insight": "An argument she wins against you dies. A conclusion she draws alone hardens. Do not run this if you cannot hold the standard for months — the drop-off is the comparison she remembers. The next question is whether she will ever act on a conclusion she never said out loud."
+    },
+    {
+      "id": 16,
+      "cat": "choice",
+      "danger": "extreme",
+      "title": "Give Her A Deadline, Not An Ultimatum",
+      "principle": "Schelling: Credible Commitment",
+      "remember": "Name a date and mean it. Do not make a threat.",
+      "hook": "An ultimatum makes her defend herself. <strong>A deadline makes her decide.</strong>",
+      "when": "Months have passed, nothing has changed, and you are still one of two.",
+      "truth": "Open-ended situations always favor the person who has not chosen.\n• A deadline moves the cost of waiting from you to her.\n• Say it once, calmly, with a real date and a real consequence.\n• The trap is the threat voice. Anger turns a decision into a fight about you.",
+      "theySee": "A calm man stating a date, with no anger and no bargaining in his voice.",
+      "signals": [
+        {
+          "icon": "⏳",
+          "l": "Stall words",
+          "t": "She says she needs more time for the third month running"
+        },
+        {
+          "icon": "🔄",
+          "l": "No change",
+          "t": "Nothing about the arrangement has moved in eight weeks"
+        },
+        {
+          "icon": "😴",
+          "l": "Your fatigue",
+          "t": "You have started rehearsing the conversation in your head"
+        },
+        {
+          "icon": "🎭",
+          "l": "Both fed",
+          "t": "She keeps both of you warm and neither of you certain"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a real date",
+          "desc": "Choose a date three to four weeks out. Write it down for yourself."
+        },
+        {
+          "n": "2",
+          "title": "Say it once, flat",
+          "desc": "Tell her the date and what happens after it. No anger, no repeat, no negotiation."
+        },
+        {
+          "n": "3",
+          "title": "Go quiet until then",
+          "desc": "Do not bring it up again. Live normally. The silence is what makes it real."
+        }
+      ],
+      "script": "\"I'm not asking you to choose today. <strong>I'm telling you I'm out on the 30th if nothing's changed.</strong> No hard feelings either way. That's all I wanted to say.\"",
+      "example": "After five months, Marcus told Dana on the 2nd that he was done on the 30th if she was still seeing both. He never mentioned it again. On the 24th she ended it with the other man and told Marcus over dinner.",
+      "watchFor": "She asks a specific question about what happens after that date.",
+      "ifItFails": "She calls it an ultimatum and gets angry, or she goes quiet and lets the date pass. Do not extend it and do not argue about the word. On the date, leave once and say it plainly: <strong>\"The 30th was today. I'm not angry — I'm just done waiting. If that changes, you know where I am.\"</strong> Then actually go dark.",
+      "counter": "If someone gives you a dated deadline, they have already decided to leave without it.\n• Notice the calm voice and the specific date. That is commitment, not drama.\n• Say: <strong>\"I hear the date. I'll give you a real answer before it.\"</strong>\n• Do not test whether they mean it. People who name dates keep them.",
+      "insight": "A deadline only works if you will actually walk. Do not run this if you know you will stay anyway — one broken deadline hands her permanent proof that your words are noise. The next question is whether you can survive the three weeks of silence you just bought."
+    },
+    {
+      "id": 17,
+      "cat": "choice",
+      "danger": "extreme",
+      "title": "Withdraw Instead Of Arguing",
+      "principle": "Sun Tzu: Withdraw to Win × Loss Aversion",
+      "remember": "Take yourself away. Let her feel the empty space.",
+      "hook": "You cannot argue her into choosing you. <strong>You can let her find out what your absence feels like.</strong>",
+      "when": "You have made your case three times and nothing has moved.",
+      "truth": "People value what stops arriving more than what keeps arriving.\n• Stop initiating entirely. No explanation, no announcement, no scene.\n• The habit of you goes missing before she has decided to lose it.\n• The trap is the half-withdrawal. Sulking loudly is worse than staying.",
+      "theySee": "A guy who was there every week and is now simply not around.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Dead loop",
+          "t": "You have had the same conversation three times with no result"
+        },
+        {
+          "icon": "🥱",
+          "l": "Her ease",
+          "t": "She seems comfortable with the situation exactly as it is"
+        },
+        {
+          "icon": "📨",
+          "l": "Your initiation",
+          "t": "You start almost every conversation between you"
+        },
+        {
+          "icon": "🎚️",
+          "l": "Flat response",
+          "t": "Her replies are warm but short and never move things forward"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop starting",
+          "desc": "Do not send the first message for two weeks. Reply normally if she writes."
+        },
+        {
+          "n": "2",
+          "title": "Give no reason",
+          "desc": "Do not announce a break or explain the change. Announcing it turns it into a tactic she can wait out."
+        },
+        {
+          "n": "3",
+          "title": "Fill the time",
+          "desc": "Book real plans for the nights you would have seen her. Be genuinely busy."
+        }
+      ],
+      "script": "If she asks where you have been: \"<strong>Busy. Good to hear from you.</strong>\" Then let her carry the conversation.",
+      "example": "Alex had pushed Sara for a decision three times. He stopped texting first and booked two weeks of plans. On day nine she called him twice in one evening and asked what had changed. He said nothing had. She ended things with the other man that month.",
+      "watchFor": "She starts the conversation two or three times in a row.",
+      "ifItFails": "Two weeks pass in complete silence. That is a full answer and it cost you nothing but the silence. Do not send a wounded message. Send one clean line and close it: <strong>\"I stopped reaching out to see what would happen. Nothing did. I'm going to leave it there.\"</strong> Then leave it there.",
+      "counter": "If someone stops initiating with no explanation, they are testing whether you notice.\n• Notice the polite replies that never propose anything.\n• Say: <strong>\"You've gone quiet on me. Is that on purpose?\"</strong>\n• Name the withdrawal. A named tactic loses its pull immediately.",
+      "insight": "Silence is the only argument that cannot be counter-argued. Do not run this on someone with abandonment wounds unless you want the fallout — it can end things you meant to save. The harder part is that you must be genuinely willing to lose her, or she will hear the performance in your voice."
+    },
+    {
+      "id": 18,
+      "cat": "choice",
+      "danger": "high",
+      "title": "Ask Her What She Is Waiting For",
+      "principle": "Voss: Calibrated Question — What × Commitment Consistency",
+      "remember": "Ask what has to happen. Make her say the reason out loud.",
+      "hook": "She has a reason she has not chosen. <strong>Make her say it out loud and it usually falls apart.</strong>",
+      "when": "She keeps saying she is not ready but never explains what ready means.",
+      "truth": "Unspoken reasons survive because nobody makes them stand up.\n• Ask what specifically has to happen. Ask it once and stop.\n• Saying the reason out loud forces her to hear how thin it is.\n• The trap is arguing with her answer. Just repeat it back and wait.",
+      "theySee": "A calm man asking a fair question, not a man building a case.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Vague reason",
+          "t": "She says she needs time but cannot say time for what"
+        },
+        {
+          "icon": "📆",
+          "l": "Moving line",
+          "t": "Her timeline has moved twice with no new reason"
+        },
+        {
+          "icon": "🙈",
+          "l": "Topic escape",
+          "t": "She changes the subject when you ask what would decide it"
+        },
+        {
+          "icon": "🔒",
+          "l": "Held story",
+          "t": "She tells you about him in pieces, never the whole thing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the what question",
+          "desc": "Ask what specifically has to happen for her to decide. Use the word 'what', not 'why'."
+        },
+        {
+          "n": "2",
+          "title": "Repeat her answer back",
+          "desc": "Say her reason back in her own words. Do not argue with it."
+        },
+        {
+          "n": "3",
+          "title": "Ask when",
+          "desc": "Ask when that thing will happen. A reason with no date is not a reason."
+        }
+      ],
+      "script": "\"What has to happen for you to know?\" <strong>Then, after her answer:</strong> \"And when does that happen?\"",
+      "example": "Grace told Sam she needed to wait until after the holidays. Sam repeated it back and asked what changed after the holidays. She had no answer and sat with it. Two days later she told him the real reason was that she did not want to be the one who ended it.",
+      "watchFor": "She goes quiet after her own answer instead of defending it.",
+      "ifItFails": "She gives a reason that keeps moving, or she says she does not know. Do not push a third time. Hand her the reality of the position and stop: <strong>\"Then you're not deciding — you're waiting for it to decide itself. I'll be honest, I can't sit in that forever.\"</strong> Then change the subject and let it work on her.",
+      "counter": "If someone asks what has to happen for you to decide, they are timing your stall.\n• Notice the question about specifics, not feelings.\n• Say: <strong>\"I don't have a clean answer. Here's what's actually true.\"</strong>\n• Give the real reason. A vague one invites the deadline that comes next.",
+      "insight": "Most stalls are not plans, they are avoidance wearing a schedule. Do not use this on the same night she is upset about him — she will hear it as pressure and pick him for the peace. The next move is what you do when the reason turns out to be real."
+    },
+    {
+      "id": 19,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Do Not Ask For The Details Of Their Ending",
+      "principle": "Greene: Law 47 — Do Not Go Past the Mark You Aimed For",
+      "remember": "You won. Stop asking about him. Curiosity ruins it.",
+      "hook": "She chose you. <strong>The fastest way to undo that is to keep asking about him.</strong>",
+      "when": "She has ended it with him and you want to know exactly how it went.",
+      "truth": "Winning and then investigating destroys the position you just took.\n• Every question about him puts him back in the room.\n• She will start defending the past, and defending it warms it up.\n• The trap is that the details feel like closure. They are fuel.",
+      "theySee": "A man who is comfortable, not curious, and clearly not worried about a man who is gone.",
+      "signals": [
+        {
+          "icon": "🔎",
+          "l": "Your questions",
+          "t": "You have asked about the breakup more than once"
+        },
+        {
+          "icon": "🕰️",
+          "l": "Timeline hunt",
+          "t": "You want to know exactly when things overlapped"
+        },
+        {
+          "icon": "😣",
+          "l": "Her flinch",
+          "t": "She tenses when the subject of him comes up"
+        },
+        {
+          "icon": "📱",
+          "l": "Phone checking",
+          "t": "You have looked at her phone or thought about it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask nothing after day one",
+          "desc": "Take whatever she told you the first time as the whole story. Ask no follow-ups."
+        },
+        {
+          "n": "2",
+          "title": "Say one line and close it",
+          "desc": "Tell her you do not need the details and you are not going to ask. Then keep that."
+        },
+        {
+          "n": "3",
+          "title": "Replace the topic",
+          "desc": "Every time the urge comes, plan something with her instead. Use the energy forward."
+        }
+      ],
+      "script": "\"I don't need the details. <strong>It's done and I'm not going to keep asking about it.</strong>\"",
+      "example": "After Dana ended it with the other man, Marcus asked one question the first night and none after. Three weeks later she said she had expected an interrogation and had braced for it. Not getting one was the thing that made her sure.",
+      "watchFor": "She relaxes and stops bracing when his name comes up in passing.",
+      "ifItFails": "You ask anyway and she pulls back. Do not chase the answer to prove you can handle it. Name your own slip once and close the door for good: <strong>\"That was me being insecure. I'm not asking again — and I mean it.\"</strong> Then never raise it, even when she does.",
+      "counter": "If your new partner never asks about your past relationship, they are securing the ground.\n• Notice the deliberate lack of questions. That is discipline, not disinterest.\n• Say: <strong>\"You can ask if you want to.\"</strong>\n• Offer once. If they decline, let the subject stay dead.",
+      "insight": "Most men win the woman and then lose her to a question. Do not run this as fake calm while checking her phone — the gap between the two shows within weeks. The harder part is holding still when she offers the details herself."
+    },
+    {
+      "id": 20,
+      "cat": "after",
+      "danger": "high",
+      "title": "Expect The Comeback Attempt And Plan For It",
+      "principle": "Schelling: Anticipate the Counter-Move",
+      "remember": "He will come back once. Decide today what happens then.",
+      "hook": "He is not going to accept this quietly. <strong>The message arrives about three weeks in.</strong>",
+      "when": "She has chosen you and he has gone silent, which never lasts.",
+      "truth": "A man who lost access almost always makes one attempt to get it back.\n• It comes as a low-stakes message: a memory, an item, a question.\n• It is timed for a moment when things between you are slightly rough.\n• The trap is policing her phone. Handle it before it arrives, not after.",
+      "theySee": "A man who saw it coming and is not rattled by it.",
+      "signals": [
+        {
+          "icon": "📩",
+          "l": "Soft opener",
+          "t": "He sends a message about a small practical thing"
+        },
+        {
+          "icon": "🎂",
+          "l": "Date timing",
+          "t": "The message lands on a birthday, holiday, or anniversary"
+        },
+        {
+          "icon": "🌧️",
+          "l": "Rough patch",
+          "t": "He appears within days of a fight between you two"
+        },
+        {
+          "icon": "👻",
+          "l": "Mutual route",
+          "t": "He starts talking to her friends again"
+        },
+        {
+          "icon": "📸",
+          "l": "Public signal",
+          "t": "He posts something clearly aimed at her"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name it early",
+          "desc": "Within the first month, tell her plainly that he will make one attempt."
+        },
+        {
+          "n": "2",
+          "title": "Agree the response now",
+          "desc": "Agree together what she does when it comes. Decide it before it happens."
+        },
+        {
+          "n": "3",
+          "title": "Do not monitor",
+          "desc": "Never check her phone. The agreement is the tool. Surveillance destroys it."
+        }
+      ],
+      "script": "\"He'll message you in a month — probably about something small. <strong>I'm not worried about it. I just want us to have decided what happens before it lands.</strong>\"",
+      "example": "Adam told Chloe in week two that Ryan would reach out. Seven weeks later Ryan texted about a jacket he had left. Chloe showed Adam the message before replying and handled it in one line. It never came up again.",
+      "watchFor": "She tells you about the message before you find out any other way.",
+      "ifItFails": "She hides the message and you find out later. Do not search for more evidence. Address the hiding, not the man: <strong>\"I don't care that he wrote. I care that you didn't tell me. That's the part we need to fix.\"</strong> Keep the fight on honesty, where you are right, not on him, where you are jealous.",
+      "counter": "If your partner predicts your ex will contact you and pre-negotiates the response, they are securing the perimeter.\n• Notice that they ask for a plan, not for your phone.\n• Say: <strong>\"I'll tell you if he writes. I won't be checked on.\"</strong>\n• Give the transparency, refuse the surveillance. Those are different things.",
+      "insight": "The comeback is easy to survive and the secrecy around it is not. Do not do this if you cannot resist checking her phone — one search cancels every point you just made. The next question is what you do if she hesitates when it lands."
+    },
+    {
+      "id": 21,
+      "cat": "lost",
+      "danger": "high",
+      "title": "Leave Once, With One Sentence",
+      "principle": "Greene: Law 36 — Disdain What You Cannot Have",
+      "remember": "Say one clean line and go. No second speech.",
+      "hook": "She picked him. <strong>Your only remaining move is how you leave.</strong>",
+      "when": "She tells you she is staying with him and you feel the urge to make a case.",
+      "truth": "The last impression is the one that lasts, and most men ruin it in five minutes.\n• One short line, no anger, no analysis, no bargaining. Then go.\n• A clean leave keeps your value intact in her memory of it.\n• The trap is the follow-up message at midnight. That erases everything.",
+      "theySee": "A man who accepts a decision without falling apart or arguing.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Your urge",
+          "t": "You want to explain why she got it wrong"
+        },
+        {
+          "icon": "📱",
+          "l": "Draft messages",
+          "t": "You have written and deleted three messages tonight"
+        },
+        {
+          "icon": "🥃",
+          "l": "Late hours",
+          "t": "You are thinking about calling her after midnight"
+        },
+        {
+          "icon": "🔁",
+          "l": "Rerun",
+          "t": "You keep replaying the conversation to find a better line"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the one line",
+          "desc": "Give a short, warm, final sentence. Do not add a reason or a question."
+        },
+        {
+          "n": "2",
+          "title": "Leave the room",
+          "desc": "End the conversation yourself. Do not wait for her to finish comforting you."
+        },
+        {
+          "n": "3",
+          "title": "Cut contact for ninety days",
+          "desc": "Mute her. Do not check her posts. Ninety days, no exceptions."
+        }
+      ],
+      "script": "\"That's a fair answer and I'm glad you gave it straight. <strong>I'm going to step all the way out. Take care of yourself.</strong>\"",
+      "example": "Sara told Alex she was staying with the other man. Alex said one line, finished his drink, and left. He blocked her for three months and never sent a follow-up. Two of her friends told him later that she talked about how he handled it for a year.",
+      "watchFor": "She is the one who keeps talking while you are already standing up.",
+      "ifItFails": "You send the midnight message anyway. Do not send a second one apologizing for the first — that doubles the damage. Send nothing more at all and go dark for the full ninety days. If she replies, answer once, short: <strong>\"Ignore that. I meant what I said in person.\"</strong>",
+      "counter": "If someone leaves you with one calm sentence and vanishes, they are protecting their value, not hiding pain.\n• Notice there is no plea and no anger. That is control.\n• Say: <strong>\"Understood. I won't chase you either.\"</strong>\n• Do not test the silence. Chasing a clean leave hands them the position.",
+      "insight": "The dignified leave is the only move that keeps a door open, and it works precisely because you are not using it for that. Do not run this if you plan to break the ninety days — a broken silence is louder than never leaving. The next question is whether you can survive being right and still alone."
+    },
+    {
+      "id": 22,
+      "cat": "lost",
+      "danger": "moderate",
+      "title": "Read The Loss And Change One Thing",
+      "principle": "After Action Review × Post-Mortem Bias",
+      "remember": "Find the one real reason. Fix that, not your feelings.",
+      "hook": "You lost for a reason, and it is almost never the reason you tell your friends. <strong>Find the real one.</strong>",
+      "when": "Three weeks have passed and you keep explaining the loss as bad luck.",
+      "truth": "Men rewrite losses into stories that require no change.\n• Write down the actual sequence, with dates, not the feeling version.\n• Find the single point where your position slipped. There is usually one.\n• The trap is blaming her or him. Neither of those gives you anything to fix.",
+      "theySee": "A man who came out of it sharper instead of bitter, which everyone notices.",
+      "signals": [
+        {
+          "icon": "📖",
+          "l": "Your story",
+          "t": "You tell the story the same way every time you tell it"
+        },
+        {
+          "icon": "👉",
+          "l": "Blame direction",
+          "t": "Every version of the story ends with her being at fault"
+        },
+        {
+          "icon": "🔂",
+          "l": "Same pattern",
+          "t": "This is the second or third time this exact thing happened"
+        },
+        {
+          "icon": "🧾",
+          "l": "No specifics",
+          "t": "You cannot name the week it went wrong"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the timeline",
+          "desc": "On paper, list what happened with dates. Facts only. No feelings, no interpretation."
+        },
+        {
+          "n": "2",
+          "title": "Mark the slip point",
+          "desc": "Circle the week your position got weaker. Usually it is when you got too available."
+        },
+        {
+          "n": "3",
+          "title": "Change one habit",
+          "desc": "Pick one behavior from that week and change it. One only. Start this week."
+        }
+      ],
+      "script": "To yourself, out loud once: \"<strong>I lost this in week six when I cancelled my own plans for her.</strong> That is the thing I am changing.\"",
+      "example": "After losing Sara, Alex wrote the timeline out. The slip was week six, when he dropped his Thursday football to be free for her. He rejoined the team in January. Two relationships later he had never done it again.",
+      "watchFor": "You tell the story a new way that has an action in it instead of a villain.",
+      "ifItFails": "You write it and still land on 'she was the problem.' Give the timeline to one blunt friend and ask a direct question: <strong>\"Read this and tell me where I got weak. Don't be nice about it.\"</strong> Outside eyes find the slip point that your version is built to hide.",
+      "counter": "If a friend hands you their timeline and asks where they went wrong, do not comfort them.\n• Notice they asked for the truth, not for support.\n• Say: <strong>\"You went soft in week six. That's where it turned.\"</strong>\n• Comfort keeps them the same. The blunt answer is the useful gift.",
+      "insight": "The men who lose the same way three times are the ones who told the story well the first time. Do not do this within the first two weeks — grief writes a bad timeline. The next question is whether you would recognize the same slip while it was happening again."
+    }
+  ]
+}

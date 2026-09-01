@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 54,
+  "manifestVersion": 55,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -364,7 +364,20 @@
       "url": "playbooks/playbook-srv-manufactured-need.json",
       "addedAt": "2026-08-31T14:48:01.694Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-other-man",
+      "title": "The Other Man",
+      "theme": "rivalry",
+      "topic": "",
+      "cardCount": 22,
+      "contentVersion": 1,
+      "coverColor": "#7B1E2B",
+      "coverIcon": "♠️",
+      "url": "playbooks/playbook-srv-the-other-man.json",
+      "addedAt": "2026-09-01T21:22:40.275Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-31T14:48:01.694Z"
+  "generatedAt": "2026-09-01T21:22:40.275Z"
 }
