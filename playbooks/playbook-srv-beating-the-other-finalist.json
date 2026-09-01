@@ -1,0 +1,1214 @@
+{
+  "meta": {
+    "id": "srv-beating-the-other-finalist",
+    "version": "1.0",
+    "title": "Beating the Other Finalist",
+    "subtitle": "When it's down to two and only one gets the offer",
+    "description": "You made the shortlist. So did someone else. This is the closed file on the last round — how to learn who you are against, find what the decider fears, set the comparison before they do, and close before the panel compares notes. Twenty moves for the part of the process nobody coaches you on.",
+    "author": "AI",
+    "createdAt": "2026-09-01T21:36:59.547Z",
+    "tags": [
+      "hiring",
+      "final round",
+      "competition",
+      "negotiation",
+      "status",
+      "persuasion",
+      "decision makers"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#8B1E2D",
+    "coverIcon": "♟️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "rival",
+      "label": "Learn Who You Are Against",
+      "color": "#8B1E2D"
+    },
+    {
+      "key": "fear",
+      "label": "Find What the Decider Is Afraid Of",
+      "color": "#B0472B"
+    },
+    {
+      "key": "compare",
+      "label": "Set the Comparison Before They Do",
+      "color": "#C77E28"
+    },
+    {
+      "key": "room",
+      "label": "Your Turn in the Room",
+      "color": "#5E7A3A"
+    },
+    {
+      "key": "gap",
+      "label": "The Gap Between the Rounds",
+      "color": "#2F6B6B"
+    },
+    {
+      "key": "close",
+      "label": "Close Before They Compare Notes",
+      "color": "#3D4E8C"
+    },
+    {
+      "key": "lost",
+      "label": "If They Pick the Other One",
+      "color": "#5A4A6A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "rival",
+      "danger": "low",
+      "title": "Ask the Recruiter How Many People Are Left",
+      "principle": "Information Gap — Ask the Cheap Question First",
+      "remember": "Ask how many finalists there are. Most people never ask.",
+      "when": "You get the invite to the final round and you do not know who else is still in.",
+      "hook": "You are about to compete against someone you have never seen. <strong>One question tells you the size of the fight.</strong>",
+      "truth": "Recruiters answer this question far more often than candidates expect.\n• You ask a process question, not a nosy one. It sounds professional.\n• They tell you the count, and often the shape of the other person.\n• Most people never ask, so they walk in blind and guess wrong.",
+      "theySee": "A candidate who plans ahead and treats the recruiter as a partner, not a gatekeeper.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Slot language",
+          "t": "They say 'we are scheduling the last few' instead of naming a date"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Plural hints",
+          "t": "They say 'the other candidates' out loud without thinking"
+        },
+        {
+          "icon": "⏳",
+          "l": "Decision date",
+          "t": "They give you a decision date that is more than a week out"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat panel",
+          "t": "You are asked to meet someone you already met"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Call, do not email",
+          "desc": "Phone the recruiter. People say more out loud than they write down."
+        },
+        {
+          "n": "2",
+          "title": "Ask the count",
+          "desc": "Ask how many people are in the final round and what the decision date is."
+        },
+        {
+          "n": "3",
+          "title": "Write down every word",
+          "desc": "Note the exact phrases they use about the other person. You will use those words later."
+        }
+      ],
+      "script": "\"Quick one before I prep — <strong>how many people are in this final round, and when does the team want to decide?</strong> I want to pace what I bring.\"",
+      "example": "Dev called the recruiter the day he got the invite. She said, 'Two of you, and the other one is very technical.' Dev spent his prep on business impact instead of code. He got the offer on Friday.",
+      "watchFor": "The recruiter gives you a number without pausing, then adds a detail you did not ask for.",
+      "ifItFails": "They say they cannot share that. Do not push on the count. Move to a question they can answer: \"Understood. Then what would make this an easy yes for the panel?\" That question gets you the scoring sheet, which is worth more than the count.",
+      "counter": "If someone asks you how many others are in the running, they are sizing the field.\n• Notice they moved from the job to the process.\n• Say: \"More than one. What matters is your round.\"\n• Give the deadline, never the profile of the other person.",
+      "insight": "The count is cheap. The real prize is the words they use about your rival — those words are the panel's own scoring language. The next question is whether you can get someone to say them out loud."
+    },
+    {
+      "id": 2,
+      "cat": "rival",
+      "danger": "moderate",
+      "title": "Find the Other Finalist Through the Team, Not the Recruiter",
+      "principle": "Sun Tzu: Know the Enemy — Use the Local Guide",
+      "remember": "The team leaks what the recruiter guards.",
+      "when": "The recruiter refuses to describe the other candidate and you still want to know who you face.",
+      "hook": "Recruiters are trained to say nothing. <strong>Engineers, nurses and sales reps are not.</strong>",
+      "truth": "The hiring manager's team knows who else came through and has no script for hiding it.\n• You ask a future teammate what the other interviews felt like.\n• They answer as a colleague, not as a gatekeeper.\n• Ask about the process, never about the person by name.",
+      "theySee": "A future teammate who is already curious about how the team works.",
+      "signals": [
+        {
+          "icon": "👥",
+          "l": "Panel size",
+          "t": "Your panel includes people who do not make the decision"
+        },
+        {
+          "icon": "💬",
+          "l": "Casual round",
+          "t": "They schedule a coffee chat or informal call"
+        },
+        {
+          "icon": "🔍",
+          "l": "Repeat topics",
+          "t": "Two interviewers ask you the same unusual question"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Open calendar",
+          "t": "A team member's calendar shows back-to-back interview blocks"
+        },
+        {
+          "icon": "📎",
+          "l": "Comparison words",
+          "t": "Someone says 'the other person we saw' in passing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the least senior person",
+          "desc": "Choose the newest team member on your panel. They guard the least."
+        },
+        {
+          "n": "2",
+          "title": "Ask about the search, not the rival",
+          "desc": "Ask how long the search has run and what the team keeps looking for."
+        },
+        {
+          "n": "3",
+          "title": "Let the pause work",
+          "desc": "After they answer, say nothing for three seconds. People fill quiet with details."
+        }
+      ],
+      "script": "\"You have been running this search a while — <strong>what does the team keep hoping to see and not seeing?</strong>\"",
+      "example": "Priya asked the newest analyst on the panel that exact question. He said, 'Everyone we like is strong on modelling but freezes when the CFO pushes back.' Priya spent her final round showing pushback, on purpose. She started three weeks later.",
+      "watchFor": "They start a sentence with \"Honestly, the last person we liked...\" and keep going.",
+      "ifItFails": "They give you a clean corporate answer and stop. Do not ask again — a second try marks you as a snoop. Switch to a hypothetical instead: \"If you had to guess, what makes this role hard to fill?\" Do not run this on the hiring manager. They score you.",
+      "counter": "If a candidate asks your team what the search keeps missing, they are mapping the field.\n• Notice the question is about your gaps, not the job.\n• Say: \"Every search has gaps. Tell me about yours.\"\n• Turn it back and make them fill the silence instead.",
+      "insight": "You are not looking for the rival's name. You are looking for the sentence the team repeats about every candidate they rejected. That sentence is the real test — and the harder part is fitting it without sounding coached."
+    },
+    {
+      "id": 3,
+      "cat": "rival",
+      "danger": "moderate",
+      "title": "Read the Job Post Backwards to Find Their Type",
+      "principle": "Greene: Read the Situation Before the Person",
+      "remember": "A rewritten job post shows you who they already met.",
+      "when": "You reach the final round and want to know what kind of person the team keeps picturing.",
+      "hook": "Job posts get rewritten mid-search. <strong>Each rewrite is a scar from a candidate who almost worked.</strong>",
+      "truth": "Hiring teams edit the post after every round of people they did not like.\n• Compare the version you applied to with the live one today.\n• New words mean a real person failed on that exact thing.\n• Removed words mean they gave up on finding it.",
+      "theySee": "Nothing. This move happens before you speak to anyone.",
+      "signals": [
+        {
+          "icon": "📝",
+          "l": "New bullet",
+          "t": "The live post has a requirement that was not there when you applied"
+        },
+        {
+          "icon": "✂️",
+          "l": "Cut bullet",
+          "t": "A requirement you matched has disappeared from the post"
+        },
+        {
+          "icon": "📈",
+          "l": "Level shift",
+          "t": "The title or years-of-experience line changed"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repost date",
+          "t": "The post shows a new date but the same role ID"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the old version",
+          "desc": "Check your email confirmation, a job board copy, or the internet archive for the post as it was."
+        },
+        {
+          "n": "2",
+          "title": "Line up the two",
+          "desc": "Put both versions side by side and mark every changed line."
+        },
+        {
+          "n": "3",
+          "title": "Build one story per change",
+          "desc": "For each new requirement, write one 60-second story from your past that hits it."
+        }
+      ],
+      "script": "\"I noticed the role now leans harder on <strong>running the vendor relationship</strong>. Here is the closest thing I have done: last year I took over a vendor who was six weeks late...\"",
+      "example": "Tomas saved the original post in February. In May the live version added 'comfortable presenting to the board.' He opened his final round with a board-deck story. The CFO said, 'That is exactly what we have been missing.'",
+      "watchFor": "An interviewer says \"that is exactly what we have been missing\" or nods before you finish the story.",
+      "ifItFails": "The post never changed, so you have no signal. Ask the change question out loud instead: \"Has the role changed at all since you posted it?\" If they say yes, you get the same information straight from them. Do not quote the post edits to a hiring manager who wrote them — it reads as a gotcha.",
+      "counter": "If a candidate names a requirement you added last month, they studied your search.\n• Notice they use your newest words, not the original ones.\n• Say: \"Good catch. Where have you actually done that?\"\n• Make them prove the thing instead of naming it.",
+      "insight": "The post tells you what the last person lacked. It does not tell you what the decider is afraid of — and fear beats requirements every time. That is the next file."
+    },
+    {
+      "id": 4,
+      "cat": "rival",
+      "danger": "high",
+      "title": "Assume the Internal Candidate Exists Until Proven Otherwise",
+      "principle": "Machiavelli: The Prince — Assume the Incumbent Advantage",
+      "remember": "Someone inside already knows the team. Plan for that.",
+      "when": "You are an outside finalist and nobody has told you whether someone inside applied.",
+      "hook": "The other finalist may already eat lunch with your panel. <strong>You are the stranger in that room.</strong>",
+      "truth": "Internal candidates start with trust you cannot build in one hour.\n• They know the politics, the tools and the boss's mood.\n• You cannot beat their familiarity, so do not try.\n• You beat them on the one thing they cannot offer: no history, no enemies.",
+      "theySee": "A candidate who understands the team's real problem and does not carry old grudges about it.",
+      "signals": [
+        {
+          "icon": "🏢",
+          "l": "Odd panel",
+          "t": "Someone on your panel would report to you if you got the job"
+        },
+        {
+          "icon": "🕰️",
+          "l": "Slow clock",
+          "t": "The process stalls for two weeks with no explanation"
+        },
+        {
+          "icon": "🧩",
+          "l": "Insider words",
+          "t": "Interviewers use internal project names without explaining them"
+        },
+        {
+          "icon": "🙃",
+          "l": "Soft questions",
+          "t": "The interview feels easy, like they are going through the motions"
+        },
+        {
+          "icon": "📉",
+          "l": "Late posting",
+          "t": "The role was posted after someone already acted in it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask who has been covering the work",
+          "desc": "Ask who does this job right now while the seat is open."
+        },
+        {
+          "n": "2",
+          "title": "Name the fresh-start value",
+          "desc": "Say one thing you can do that only a newcomer can do — restart a stalled relationship, kill a pet project."
+        },
+        {
+          "n": "3",
+          "title": "Give the insider a role",
+          "desc": "Say you want to keep the person covering the work close. It removes the panel's fear of losing them."
+        }
+      ],
+      "script": "\"Who has been holding this work while the seat is open? <strong>Whoever it is, I would want them close — I am not walking in to erase what they built.</strong>\"",
+      "example": "Nadia sensed an internal rival when a junior manager sat on her panel. She said she would keep him leading the migration. He argued for her in the debrief. She got the offer over him.",
+      "watchFor": "The hiring manager relaxes and starts telling you about the internal person's strengths.",
+      "ifItFails": "They confirm an internal finalist and go quiet. Do not compete on loyalty — you will lose. Change the question to risk: \"If you promote from inside, who covers their current work?\" Then send a short note naming the one problem an insider cannot fix. Do not say anything negative about the internal person to anyone on the panel.",
+      "counter": "If an outsider offers to keep you close, they are neutralising you as a threat.\n• Notice they gave you a role before they got the job.\n• Say: \"I appreciate it. What would you change first?\"\n• Make them state their plan in front of the panel, on record.",
+      "insight": "Against an insider you cannot win on trust. You win on the thing trust makes impossible — the unpopular change nobody inside can make. The trap is naming that change before you know who in the room built it."
+    },
+    {
+      "id": 5,
+      "cat": "fear",
+      "danger": "moderate",
+      "title": "Ask What Happened to the Last Person in the Job",
+      "principle": "Loss Aversion — Deciders Buy Insurance, Not Upside",
+      "remember": "Deciders fear the wrong hire more than they want the great one.",
+      "when": "You sit with the hiring manager in a final round and you do not know why the seat is open.",
+      "hook": "Nobody hires for the best case. <strong>They hire against the worst one they already lived through.</strong>",
+      "truth": "Every open seat has a story, and the story sets the scoring.\n• The last person failed in one specific way. That way is the fear.\n• The manager screens both finalists for that failure, not for talent.\n• Whoever proves they are not that person wins.",
+      "theySee": "A candidate who cares about the team's history instead of only the title.",
+      "signals": [
+        {
+          "icon": "🚪",
+          "l": "Vague departure",
+          "t": "They say the last person 'moved on' and change the subject"
+        },
+        {
+          "icon": "🔂",
+          "l": "Repeat question",
+          "t": "Two interviewers probe the same soft skill in different words"
+        },
+        {
+          "icon": "😬",
+          "l": "Body shift",
+          "t": "The manager leans back when you ask why the seat is open"
+        },
+        {
+          "icon": "📋",
+          "l": "Odd requirement",
+          "t": "The job asks for something that does not fit the level"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the history question",
+          "desc": "Ask what happened with the last person in the seat, plainly and without drama."
+        },
+        {
+          "n": "2",
+          "title": "Say the fear back",
+          "desc": "Put their answer in one sentence and check it: 'So the risk is someone who cannot hold the room.'"
+        },
+        {
+          "n": "3",
+          "title": "Answer with one story",
+          "desc": "Tell one past story where you did the exact opposite of what the last person did."
+        }
+      ],
+      "script": "\"What happened with the person who had this seat before? <strong>I would rather know what went wrong than guess at it.</strong>\"",
+      "example": "Kwame asked. The director said the last hire 'never pushed back on sales.' Kwame told a story about telling a VP no in writing, with the outcome. The director wrote it down. He got the offer.",
+      "watchFor": "The manager stops and gives you a real answer with a name or a date in it.",
+      "ifItFails": "They dodge with 'it just was not a fit.' Do not accept the phrase. Ask for the specific: \"What did not fit — the work, the pace, or the people?\" One of those three gets a real answer. Do not run this in a group panel; ask it one-on-one.",
+      "counter": "If a candidate asks why the seat opened, they are hunting your fear.\n• Notice the question is about your failure, not the job.\n• Say: \"Different reasons. What worries you about the role?\"\n• Trade one fear for one fear. Do not give yours for free.",
+      "insight": "Once you know the fear, everything you say is insurance. The harder part is selling insurance without sounding like you read the file — the next card is how you make it sound like your own idea."
+    },
+    {
+      "id": 6,
+      "cat": "fear",
+      "danger": "moderate",
+      "title": "Find Out Who Gets Blamed If the Hire Fails",
+      "principle": "Schelling: Who Bears the Cost Decides",
+      "remember": "Find the person who eats the blame. Sell to them.",
+      "when": "You face a panel of four people and you do not know whose vote actually counts.",
+      "hook": "Panels look equal. <strong>One person will carry the failure alone, and that person decides.</strong>",
+      "truth": "The person with the most to lose weighs the choice hardest.\n• Ask who signs off and who lives with the result day to day.\n• That second person is your real buyer, not the most senior one.\n• Charm the panel. Sell to the one who carries the risk.",
+      "theySee": "A candidate who understands how the work lands on real people.",
+      "signals": [
+        {
+          "icon": "✍️",
+          "l": "Sign-off talk",
+          "t": "Someone says 'I will need to run it past' another name"
+        },
+        {
+          "icon": "🎯",
+          "l": "Sharp questions",
+          "t": "One interviewer asks the most detailed, hardest questions"
+        },
+        {
+          "icon": "🤐",
+          "l": "Quiet watcher",
+          "t": "One person says little and watches the others"
+        },
+        {
+          "icon": "📞",
+          "l": "Extra round",
+          "t": "They add a call with someone not on the original schedule"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the blame question",
+          "desc": "Ask who feels it first if this hire does not work out."
+        },
+        {
+          "n": "2",
+          "title": "Name that person's risk out loud",
+          "desc": "In your next answer, say what you will do to protect that person specifically."
+        },
+        {
+          "n": "3",
+          "title": "Follow up to them first",
+          "desc": "Send your thank-you note to the risk-carrier before anyone else on the panel."
+        }
+      ],
+      "script": "\"If this hire does not work out, <strong>whose week gets worse first?</strong> That is the person I want to make life easy for.\"",
+      "example": "Elena asked the VP that question. He laughed and pointed at the ops lead across the table. Elena spent her last ten minutes on the ops lead's backlog. The ops lead sent the VP a one-line email that night: 'Hire her.'",
+      "watchFor": "Someone in the room laughs and points, or the panel's eyes move to one person.",
+      "ifItFails": "They say 'we decide together' and mean it. Do not argue with the story they tell about themselves. Ask instead: \"Then who has the strongest opinion so far?\" If the answer stays vague, send your follow-up to every panel member with a different specific line in each. Do not ask this in front of a nervous junior — it exposes them.",
+      "counter": "If a candidate asks whose week gets worse, they are finding the decider.\n• Notice they skipped the org chart and went for risk.\n• Say: \"We all own it. What would you do in week one?\"\n• Keep the real decider out of view until the offer stage.",
+      "insight": "Titles show authority. Blame shows power. The two are rarely the same person — and the harder question is what to do when the risk-carrier likes you but the title-holder likes your rival."
+    },
+    {
+      "id": 7,
+      "cat": "fear",
+      "danger": "low",
+      "title": "Say the Worst Thing About Hiring You First",
+      "principle": "Voss: Accusation Audit",
+      "remember": "Name your weakest point before the panel does.",
+      "when": "You have one obvious gap — less experience, a wrong industry, a job hop — and nobody has mentioned it yet.",
+      "hook": "The unsaid doubt grows in the debrief room. <strong>Say it out loud and it stops belonging to them.</strong>",
+      "truth": "The panel already found your gap in round one. They just have not said it.\n• You name it first, in plainer words than they would use.\n• It stops being their private reason to pick the other one.\n• Say it once, then stop. Do not defend it in the same breath.",
+      "theySee": "A candidate who knows their own file and does not flinch at it.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Circling",
+          "t": "They keep returning to the same period of your resume"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Short answers",
+          "t": "Their questions get shorter after you talk about that job"
+        },
+        {
+          "icon": "📄",
+          "l": "Paper check",
+          "t": "Someone looks down at your resume mid-answer"
+        },
+        {
+          "icon": "🙅",
+          "l": "No follow-up",
+          "t": "They do not ask a follow-up on your best story"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your gap in their words",
+          "desc": "Write the one sentence a doubter would say about you in the debrief."
+        },
+        {
+          "n": "2",
+          "title": "Say it in the first ten minutes",
+          "desc": "Put it early, before you build any case. Late confessions read as excuses."
+        },
+        {
+          "n": "3",
+          "title": "Hand them the check",
+          "desc": "Follow it with one way they can test whether the gap is real."
+        }
+      ],
+      "script": "\"Before we go further — <strong>the honest concern is that I have never run a team this big.</strong> That is fair. Ask me anything about the twelve-person team I did run, and judge from there.\"",
+      "example": "Sam was the younger finalist. He opened with, 'The real question is whether I am too junior for this.' The panel spent the hour testing him instead of wondering about him. He got the job over a candidate with eight more years.",
+      "watchFor": "An interviewer says \"I was going to ask about that\" and then asks a smaller version of it.",
+      "ifItFails": "They agree with your concern and let it sit. Do not soften it or add a second flaw. Convert it to a test they can run: \"Then call the person I did it for. Here is her number.\" A live reference beats an argument every time.",
+      "counter": "If a candidate opens with their own flaw, they are taking the doubt off your table.\n• Notice you feel relief. Relief is the effect they wanted.\n• Say: \"Thanks for naming it. My bigger concern is something else.\"\n• Ask about the doubt they did not name. That is where the truth sits.",
+      "insight": "Naming your gap costs you nothing if you name it first and something if they do. The real trap is naming a gap they had not noticed — the next card is how to pick which one to hand over."
+    },
+    {
+      "id": 8,
+      "cat": "compare",
+      "danger": "moderate",
+      "title": "Give the Panel the Two Words They Will Use About You",
+      "principle": "Cialdini: Availability — What Repeats Gets Chosen",
+      "remember": "Pick two words. Say them every round until they repeat them.",
+      "when": "You know the panel will debrief and describe each finalist in a sentence.",
+      "hook": "In the debrief you are not a person. <strong>You are two words someone remembers.</strong>",
+      "truth": "Panels compare labels, not full interviews. Nobody replays the hour.\n• Choose two words that match their fear, not your pride.\n• Repeat those exact words in every round and every email.\n• The person whose label is easiest to say wins the room.",
+      "theySee": "A candidate with a clear, simple identity that is easy to describe to a boss.",
+      "signals": [
+        {
+          "icon": "🔤",
+          "l": "Label echo",
+          "t": "An interviewer repeats your phrase back to you"
+        },
+        {
+          "icon": "📝",
+          "l": "Written down",
+          "t": "Someone writes while you say your two words"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Handoff line",
+          "t": "The next interviewer introduces you using your own words"
+        },
+        {
+          "icon": "❓",
+          "l": "Label test",
+          "t": "They ask you to prove the label with an example"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick two words from their problem",
+          "desc": "Take the fear you found earlier and turn it into a two-word label: 'calm under audit', 'ships without drama'."
+        },
+        {
+          "n": "2",
+          "title": "Plant it three times",
+          "desc": "Say the label in your opening, in one story, and in your closing question."
+        },
+        {
+          "n": "3",
+          "title": "Put it in the follow-up email",
+          "desc": "Use the exact same two words in writing so the debrief has a copy."
+        }
+      ],
+      "script": "\"If the team remembers one thing about me, make it this: <strong>I ship without drama.</strong> Three launches, no escalations, ask anyone on that list.\"",
+      "example": "Reyna picked 'quiet closer' after learning the last rep was loud and missed quota. She used it four times. In the debrief the VP said, 'The quiet closer.' Nobody could remember the other finalist's line.",
+      "watchFor": "A second interviewer uses your two words before you say them in that room.",
+      "ifItFails": "They never repeat the label back. Your words are probably about you, not their problem. Swap them in the follow-up email for a phrase you heard the panel use, and attach one proof: \"You said the team needs someone who holds the line with sales. Here is the last time I did that.\"",
+      "counter": "If a candidate repeats the same phrase in every round, they are planting a label.\n• Notice the phrase does not change while the questions do.\n• Say: \"Give me a time that label was wrong about you.\"\n• Judge the story, not the phrase. Labels are cheap; the case behind them is not.",
+      "insight": "Labels beat depth in a debrief because debriefs are short and tired. The harder part is picking a label that survives one hostile question — the next card is who asks it."
+    },
+    {
+      "id": 9,
+      "cat": "compare",
+      "danger": "high",
+      "title": "Name the Trade-Off Between the Two of You",
+      "principle": "Greene: 33 Strategies — Choose the Battlefield",
+      "remember": "Set the choice yourself. Whoever names the trade-off wins it.",
+      "when": "You know the other finalist is stronger than you on one visible thing.",
+      "hook": "They will compare you on something. <strong>Pick what.</strong>",
+      "truth": "Panels want one clean sentence to justify their pick.\n• You hand them the sentence, with your strength as the deciding factor.\n• You admit the rival's edge out loud. That makes the rest credible.\n• Never name the rival. Name the two paths.",
+      "theySee": "A candidate helping the team think clearly about a hard decision.",
+      "signals": [
+        {
+          "icon": "⚖️",
+          "l": "Either-or talk",
+          "t": "An interviewer says 'we could go two ways with this role'"
+        },
+        {
+          "icon": "📊",
+          "l": "Scoring words",
+          "t": "They mention a scorecard, matrix or rubric"
+        },
+        {
+          "icon": "🧭",
+          "l": "Direction doubt",
+          "t": "Two interviewers describe the job differently"
+        },
+        {
+          "icon": "🕵️",
+          "l": "Profile probe",
+          "t": "They ask what kind of person would fail in this role"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write both paths in one line each",
+          "desc": "Path A is the deep specialist. Path B is the person who fixes the mess. Make yours the one their fear needs."
+        },
+        {
+          "n": "2",
+          "title": "Say the trade-off out loud",
+          "desc": "Give both paths fairly, then say which one you are and why the timing favours it."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to pick a path",
+          "desc": "End with a question that makes them state the choice, not rank the people."
+        }
+      ],
+      "script": "\"You have a real choice here. <strong>You can hire the deepest technical person, or you can hire someone who cleans up the handoffs.</strong> I am the second one. Which problem hurts more this year?\"",
+      "example": "Owen knew the other finalist had ten more years of coding. He laid out both paths and said the handoffs were bleeding the team. The CTO said, 'The handoffs.' Owen got the offer and the deeper candidate did not.",
+      "watchFor": "An interviewer repeats your two paths back to the room, then answers your question.",
+      "ifItFails": "They pick the other path out loud. That is useful, not fatal — you now know the score. Attack the timing instead: \"Fair. What does that path cost you in the first six months?\" Then send one page showing how you cover that cost. Do not run this move if you cannot name a real strength; a false trade-off reads as spin.",
+      "counter": "If a candidate frames the choice as two types, they are picking the battlefield.\n• Notice the trade-off they drew always lands on their strength.\n• Say: \"There is a third option. What if we need both?\"\n• Add the dimension they left out and watch them handle it.",
+      "insight": "Whoever names the trade-off writes the scorecard. The trap is choosing a battlefield where your rival is quietly strong too — and you will not know until the debrief."
+    },
+    {
+      "id": 10,
+      "cat": "compare",
+      "danger": "moderate",
+      "title": "Bring the Scorecard They Never Wrote Down",
+      "principle": "Anchoring — First Written Standard Wins",
+      "remember": "Write the checklist first. Everyone measures against it.",
+      "when": "The panel has no clear criteria and each interviewer is judging you on something different.",
+      "hook": "Most panels never agree on what good looks like. <strong>Hand them the list and yours becomes the standard.</strong>",
+      "truth": "A written standard beats four private opinions in every debrief.\n• You bring one page with five criteria for the role.\n• Four of them are honest. One is where you beat the field.\n• They use your page because nobody made a better one.",
+      "theySee": "A candidate who did the team's thinking for them and brought it on paper.",
+      "signals": [
+        {
+          "icon": "🤷",
+          "l": "Split answers",
+          "t": "Interviewers give you different top priorities for the role"
+        },
+        {
+          "icon": "🗒️",
+          "l": "No rubric",
+          "t": "Nobody mentions how they will compare finalists"
+        },
+        {
+          "icon": "🔁",
+          "l": "Long search",
+          "t": "The role has been open more than three months"
+        },
+        {
+          "icon": "🙋",
+          "l": "New panel",
+          "t": "The hiring manager is new to the team or to hiring"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write five criteria on one page",
+          "desc": "Use their words from earlier rounds. Rank them by what hurts the team most."
+        },
+        {
+          "n": "2",
+          "title": "Show it, do not read it",
+          "desc": "Put it on the table and ask them to correct it. Corrections make it theirs."
+        },
+        {
+          "n": "3",
+          "title": "Send it after",
+          "desc": "Email the page the same day so it sits in the debrief inbox."
+        }
+      ],
+      "script": "\"I wrote down what I think you are actually hiring for. <strong>Five things, ranked.</strong> Tell me where I have the order wrong.\"",
+      "example": "Lena handed the panel a one-page ranked list. The director moved item four to the top and kept the page. In the debrief he read from it. Lena scored highest on the item he moved.",
+      "watchFor": "Someone picks up the page and edits it in front of you instead of putting it aside.",
+      "ifItFails": "They ignore the page and keep their own questions. Do not present it again. Convert it into a question in the room: \"If you had to rank three things this person must do by December, what are they?\" Whatever they say, put it at the top of your follow-up email that night.",
+      "counter": "If a candidate hands you a criteria list, they are writing your scorecard.\n• Notice their strongest area sits high on the ranking.\n• Say: \"Useful. Here is our list — compare yourself to it.\"\n• Show your own criteria first so theirs cannot anchor the room.",
+      "insight": "A panel with no standard adopts the first one offered. The harder part is that your page also gets used against you — every item on it is now a test you must pass."
+    },
+    {
+      "id": 11,
+      "cat": "room",
+      "danger": "low",
+      "title": "Open With Their Problem, Not Your Background",
+      "principle": "Gracián: Say the Useful Thing First",
+      "remember": "Start with their problem. Your resume can wait.",
+      "when": "The final interview starts and someone says 'tell us about yourself'.",
+      "hook": "Everyone answers that question with a resume. <strong>The one who answers with their problem sounds like the hire.</strong>",
+      "truth": "The first ninety seconds set which mode the room is in: judge or work.\n• You skip the timeline and name the problem you would take on.\n• They stop scoring your past and start discussing the job.\n• Once you are working together, they compare the other finalist to you.",
+      "theySee": "A candidate already inside the job, talking about their work with them.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "Cold open",
+          "t": "They ask the generic 'walk me through your background' question"
+        },
+        {
+          "icon": "📱",
+          "l": "Divided attention",
+          "t": "Someone checks a laptop while you start speaking"
+        },
+        {
+          "icon": "⏲️",
+          "l": "Short window",
+          "t": "The interview is 30 minutes with four people"
+        },
+        {
+          "icon": "🔄",
+          "l": "Repeat panel",
+          "t": "You already told your story to two of these people"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the problem in one sentence",
+          "desc": "Say the biggest problem in the role as you understand it, in twelve words or fewer."
+        },
+        {
+          "n": "2",
+          "title": "Give one proof",
+          "desc": "Follow with one past story that maps to that exact problem, with a number in it."
+        },
+        {
+          "n": "3",
+          "title": "Hand it back",
+          "desc": "End with 'Is that the right problem?' so they correct you and take part."
+        }
+      ],
+      "script": "\"Short version: <strong>you are losing two weeks on every handoff between design and build.</strong> I cut that from ten days to three at my last place. Is that the right problem, or is something else hurting more?\"",
+      "example": "Ana skipped her resume and opened with the handoff problem. The head of product closed her laptop and said, 'Yes. That is exactly it.' They spent forty minutes on the fix. The other finalist got the standard resume interview.",
+      "watchFor": "Someone closes their laptop or leans in within the first two minutes.",
+      "ifItFails": "They pull you back with 'but walk me through your background first.' Give them ninety seconds, clean and dated, then bridge: \"That is the history. The reason I am here is the handoff problem — can I show you what I would do in the first month?\"",
+      "counter": "If a candidate opens with your problem instead of their history, they are changing the mode.\n• Notice you started collaborating before you finished judging.\n• Say: \"Good read. Now walk me through your last two years.\"\n• Get the facts on record, then return to the problem.",
+      "insight": "Judging mode compares candidates. Working mode compares options. The harder part is staying in working mode when a second interviewer walks in cold and restarts the clock."
+    },
+    {
+      "id": 12,
+      "cat": "room",
+      "danger": "moderate",
+      "title": "Answer the Hardest Question With a Number",
+      "principle": "Concrete Beats Abstract — Specificity as Proof",
+      "remember": "Bring one number to every answer. Numbers survive the debrief.",
+      "when": "An interviewer asks you the hard question that decides the round.",
+      "hook": "Two finalists both say they are good at this. <strong>One says 40% in eleven weeks.</strong>",
+      "truth": "Debriefs keep numbers and lose adjectives.\n• A number gives the panel something to repeat to their boss.\n• It also tells them you measured your own work, which most people do not.\n• Give the number, then the method. Never the other way round.",
+      "theySee": "A candidate who tracked their own results and can prove it without notes.",
+      "signals": [
+        {
+          "icon": "📈",
+          "l": "Metric words",
+          "t": "The interviewer asks how you would measure success"
+        },
+        {
+          "icon": "🧮",
+          "l": "Numbers back",
+          "t": "They quote their own numbers at you"
+        },
+        {
+          "icon": "🤨",
+          "l": "Proof probe",
+          "t": "They ask 'how do you know that worked?'"
+        },
+        {
+          "icon": "✍️",
+          "l": "Note taking",
+          "t": "They only write when you say a figure"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Prepare six numbers",
+          "desc": "Write six figures from your last two years: time saved, money, headcount, error rate, deals, dates."
+        },
+        {
+          "n": "2",
+          "title": "Lead with the figure",
+          "desc": "Start the answer with the number, then explain how you got it in two sentences."
+        },
+        {
+          "n": "3",
+          "title": "Say what you would measure here",
+          "desc": "End by naming the number you would move in their job in the first quarter."
+        }
+      ],
+      "script": "\"<strong>Eleven weeks, and support tickets dropped 41%.</strong> I killed three of the seven forms and rewrote the error messages. Here, I would go after your reopen rate first.\"",
+      "example": "Marcus answered every question with a figure. The other finalist said 'significant improvement' twice. In the debrief the manager quoted Marcus's 41%. Nobody could remember one result from the other interview.",
+      "watchFor": "The interviewer writes the number down and asks how you got it.",
+      "ifItFails": "They challenge the number or say your context was different. Do not defend the figure — offer the method: \"Different setup, agreed. The method was three forms and a rewrite. Want me to walk through how it maps here?\" Do not invent numbers; a panel that checks one bad figure kills every good one.",
+      "counter": "If a candidate leads with numbers, they are giving your boss a quote.\n• Notice the figure arrives before the context.\n• Say: \"What was the baseline, and who else worked on it?\"\n• Test the denominator. Weak numbers fall apart in one question.",
+      "insight": "One number is worth ten adjectives, and one fake number is worth minus everything. The next question is which number you give when your best result was somebody else's project."
+    },
+    {
+      "id": 13,
+      "cat": "room",
+      "danger": "high",
+      "title": "Disagree With the Panel Once, On Purpose",
+      "principle": "Greene: Laws of Human Nature — Boldness Reads as Competence",
+      "remember": "Push back once. Agreeable finalists blur together.",
+      "when": "An interviewer states something about their business that you think is wrong.",
+      "hook": "Two agreeable finalists are the same person. <strong>One disagreement makes you the memorable one.</strong>",
+      "truth": "Panels remember friction, not agreement.\n• You disagree on one substantive point, with a reason and a number.\n• They see how you handle a room, which no story can show them.\n• One is bold. Two is difficult. Pick your one and stop.",
+      "theySee": "A candidate who says something true that nobody in the room said out loud.",
+      "signals": [
+        {
+          "icon": "😐",
+          "l": "Flat room",
+          "t": "Everyone nods at everything you say"
+        },
+        {
+          "icon": "📄",
+          "l": "Script mode",
+          "t": "The interviewer reads questions in order from a list"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Loose claim",
+          "t": "Someone states a business claim you know is shaky"
+        },
+        {
+          "icon": "🧊",
+          "l": "Late energy",
+          "t": "The energy drops in the last fifteen minutes"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one point, not three",
+          "desc": "Choose the claim where you have real evidence and where being right helps them."
+        },
+        {
+          "n": "2",
+          "title": "Disagree with respect and a reason",
+          "desc": "Say you see it differently, give the reason in one sentence, then stop talking."
+        },
+        {
+          "n": "3",
+          "title": "Offer the test",
+          "desc": "Name a cheap way they could check who is right within a month."
+        }
+      ],
+      "script": "\"I will push back on that. <strong>I do not think the churn is a pricing problem — the cancel notes say onboarding.</strong> A two-week look at first-30-day tickets would settle it.\"",
+      "example": "Farid told a VP that her top theory was wrong and named the data that showed it. The room went quiet. She said, 'Nobody in three rounds has said that.' He got the offer that week.",
+      "watchFor": "The room goes quiet, then the most senior person asks you to say more.",
+      "ifItFails": "They get defensive and shut it down. Do not retreat all the way — that reads as weak conviction. Hold the ground and shrink the claim: \"You have the data and I do not. I would still want to check it in month one — can I?\" Do not run this on a person who is defending their own project in front of their boss.",
+      "counter": "If a candidate disagrees with you sharply once, they are buying memory.\n• Notice it arrives late, on a safe topic, with a tidy test attached.\n• Say: \"Say more. What would change your mind?\"\n• Push twice. Real conviction survives; a staged move folds fast.",
+      "insight": "Agreement is invisible. Disagreement is remembered, correctly or not. The harder part is that a panel who remembers you also remembers whether you were right — and they will check."
+    },
+    {
+      "id": 14,
+      "cat": "gap",
+      "danger": "low",
+      "title": "Send the One Page They Asked For Within 24 Hours",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Deliver something small and fast before they decide.",
+      "when": "An interviewer says 'we should look into that' or asks a question you could not fully answer.",
+      "hook": "Between rounds, both finalists go quiet. <strong>The one who ships something is already working there.</strong>",
+      "truth": "Speed of delivery is the only real sample of your work they get.\n• You send one page on the thing they raised, within a day.\n• They now have proof of how you work, not a claim about it.\n• Keep it short. A ten-page plan reads as unemployed, not eager.",
+      "theySee": "A future colleague who already sent them something useful.",
+      "signals": [
+        {
+          "icon": "💭",
+          "l": "Open loop",
+          "t": "They say 'we have not figured that out yet'"
+        },
+        {
+          "icon": "❔",
+          "l": "Your miss",
+          "t": "You gave a weak answer to one specific question"
+        },
+        {
+          "icon": "📬",
+          "l": "Direct contact",
+          "t": "You have the hiring manager's email, not just the recruiter's"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Wide gap",
+          "t": "The decision is more than three days away"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the loop they left open",
+          "desc": "Choose the one problem they said out loud that nobody solved in the room."
+        },
+        {
+          "n": "2",
+          "title": "Write one page, no more",
+          "desc": "Three bullets of what you would do, one risk, one question for them."
+        },
+        {
+          "n": "3",
+          "title": "Send it inside 24 hours",
+          "desc": "Email it directly to the hiring manager with a two-line note, no attachment tricks."
+        }
+      ],
+      "script": "\"You mentioned the renewals report takes four days. <strong>Here is how I would get it to one — three bullets, one page.</strong> Tell me what I have wrong about your data setup.\"",
+      "example": "Jonah sent a one-page renewals plan the morning after his interview. The manager forwarded it to the panel with two words: 'This guy.' The other finalist sent a thank-you note.",
+      "watchFor": "They reply with edits or a question about your page instead of a polite thanks.",
+      "ifItFails": "They do not reply at all. Do not resend or nudge with 'just checking in.' Give them a reason to reply: send one line asking for a decision, not a favour — \"Happy to hold my Thursday for a follow-up if the page raised anything. If not, no reply needed.\"",
+      "counter": "If a finalist sends work before the offer, they are buying commitment from you.\n• Notice you now feel a small debt to reply.\n• Say: \"Thanks — this is useful. Let me get back to you after the panel.\"\n• Judge both finalists on the same day, not on who moved first.",
+      "insight": "Unpaid work before an offer buys memory, not obligation. The trap is sending so much that they can use it without hiring you — the next question is how much to hold back."
+    },
+    {
+      "id": 15,
+      "cat": "gap",
+      "danger": "moderate",
+      "title": "Get One Insider to Speak for You in the Debrief",
+      "principle": "Cialdini: Social Proof — Inside Advocate",
+      "remember": "One person inside the room beats ten great answers.",
+      "when": "The panel is about to meet without you and you have no voice in that room.",
+      "hook": "You cannot attend the debrief. <strong>Someone else can carry your case into it.</strong>",
+      "truth": "Decisions get made by whoever speaks first and hardest in the debrief.\n• You give one panel member something specific to say about you.\n• They repeat your line because it makes them look sharp too.\n• Pick the person who liked you most, not the most senior one.",
+      "theySee": "A colleague who took their concern seriously and followed up on it.",
+      "signals": [
+        {
+          "icon": "🤝",
+          "l": "Warm one",
+          "t": "One interviewer stayed past the scheduled time with you"
+        },
+        {
+          "icon": "📩",
+          "l": "Direct reply",
+          "t": "Someone replied personally to your thank-you note"
+        },
+        {
+          "icon": "🎯",
+          "l": "Shared problem",
+          "t": "One person's problem matched your experience exactly"
+        },
+        {
+          "icon": "💬",
+          "l": "Off-script talk",
+          "t": "An interviewer told you something candid about the team"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick your one ally",
+          "desc": "Choose the interviewer who talked most about their own problems."
+        },
+        {
+          "n": "2",
+          "title": "Send them one line they can repeat",
+          "desc": "Give them a single sentence about you, short enough to say from memory."
+        },
+        {
+          "n": "3",
+          "title": "Ask them a small question",
+          "desc": "End with a question so they reply, which keeps you at the top of their inbox on debrief day."
+        }
+      ],
+      "script": "\"Thanks for the detail on the migration. <strong>If it helps in the debrief: I have done exactly this migration twice, both under a hard deadline.</strong> One question — is the January date fixed or a target?\"",
+      "example": "Bea sent that note to the ops lead the night before the debrief. In the meeting he said, 'She has done this migration twice under deadline.' The panel chose her over an internal candidate.",
+      "watchFor": "They reply with their own words about your fit, not just an answer to your question.",
+      "ifItFails": "Your ally goes quiet or replies with one word. Do not add a second ally the same day — two notes read as a campaign. Send the line to the recruiter instead and let the process carry it: \"If it is useful in the debrief, here is the one line on my fit.\" Do not send this to someone who competed for the role themselves.",
+      "counter": "If a candidate feeds you a quotable line before your debrief, they recruited you.\n• Notice you are about to repeat their sentence as your judgement.\n• Say: \"I will raise it. I want to hear the other panel notes first.\"\n• Speak second in the debrief so your view is yours.",
+      "insight": "You never win the debrief. Someone wins it for you. The harder part is that your ally spends their own credit doing it — and they will remember you owe them."
+    },
+    {
+      "id": 16,
+      "cat": "close",
+      "danger": "moderate",
+      "title": "Ask What Is Still Missing Before You Leave the Room",
+      "principle": "Voss: Calibrated Question — Surface the Objection Live",
+      "remember": "Ask what is still missing while you can still fix it.",
+      "when": "The final interview is ending and nobody has raised a concern to your face.",
+      "hook": "Every doubt they do not say in the room gets said in the debrief. <strong>You will not be there.</strong>",
+      "truth": "Objections raised in front of you are answerable. Objections raised later are fatal.\n• You ask for the remaining doubt in the last three minutes.\n• Politeness makes them soften it, but they still name it.\n• You get one answer in, on the record, before the door closes.",
+      "theySee": "A candidate who wants the truth more than a comfortable ending.",
+      "signals": [
+        {
+          "icon": "⌛",
+          "l": "Wrap words",
+          "t": "They say 'we are just about at time'"
+        },
+        {
+          "icon": "🙂",
+          "l": "Too smooth",
+          "t": "The whole interview was pleasant and nobody challenged you"
+        },
+        {
+          "icon": "📤",
+          "l": "Next steps",
+          "t": "They start explaining the process instead of asking questions"
+        },
+        {
+          "icon": "🤐",
+          "l": "Held look",
+          "t": "Someone glances at a colleague and says nothing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask in the last three minutes",
+          "desc": "Say you want the honest gap while you can still answer it."
+        },
+        {
+          "n": "2",
+          "title": "Do not argue the answer",
+          "desc": "Repeat their concern back in one sentence so they know you heard it."
+        },
+        {
+          "n": "3",
+          "title": "Give one piece of proof",
+          "desc": "Answer with one story or one name they can call. Then stop."
+        }
+      ],
+      "script": "\"Before I go — <strong>what is still missing for you?</strong> I would rather answer it now than have it come up when I am not in the room.\"",
+      "example": "Grace asked with two minutes left. The director said, 'You have never sold into government.' Grace named two federal deals she supported and gave a reference. The director called that reference the same afternoon and made her the offer.",
+      "watchFor": "Someone pauses, looks at a colleague, and then gives you a real concern instead of a compliment.",
+      "ifItFails": "They say 'nothing at all, you were great.' That is a polite no as often as a yes. Force one specific: \"If you had to name the one thing you would want more of from me, what is it?\" Then answer that in your follow-up email that night. Do not ask this of a panel of six — ask the decider alone.",
+      "counter": "If a candidate asks what is missing, they are pulling the objection out early.\n• Notice you are about to hand over your only real doubt.\n• Say: \"Nothing yet. We compare notes tomorrow.\"\n• Keep the doubt until the debrief so it stays your test, not their prep.",
+      "insight": "An objection you hear is a problem. An objection you do not hear is a decision. The harder part is when they name a doubt you cannot fix in one sentence."
+    },
+    {
+      "id": 17,
+      "cat": "close",
+      "danger": "high",
+      "title": "Give Them a Real Deadline, Not a Bluff",
+      "principle": "Schelling: Credible Commitment",
+      "remember": "A deadline works only if it is true and dated.",
+      "when": "You have another offer or a real date, and this company is moving slowly.",
+      "hook": "A fake deadline collapses in one question. <strong>A real one moves the decision by a week.</strong>",
+      "truth": "Deadlines change the order of decisions, not the ranking of people.\n• You name a real date and a real reason, once, without drama.\n• They either move you up the queue or tell you they cannot.\n• If they call the bluff and you fold, you drop to second immediately.",
+      "theySee": "A candidate other people want, saying a plain fact about their calendar.",
+      "signals": [
+        {
+          "icon": "🐢",
+          "l": "Slow clock",
+          "t": "They miss their own stated decision date"
+        },
+        {
+          "icon": "🔁",
+          "l": "Extra round",
+          "t": "They add an interview after saying you were the last step"
+        },
+        {
+          "icon": "🤝",
+          "l": "Other offer",
+          "t": "You hold a written offer with a real expiry date"
+        },
+        {
+          "icon": "📞",
+          "l": "Recruiter push",
+          "t": "The recruiter starts asking about your other processes"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the date is real",
+          "desc": "Confirm the other offer's expiry in writing before you say anything."
+        },
+        {
+          "n": "2",
+          "title": "Tell the recruiter, not the panel",
+          "desc": "Give the date to the recruiter. It is their job to move the process."
+        },
+        {
+          "n": "3",
+          "title": "State your preference once",
+          "desc": "Say you would rather have this job. Say it one time, then stop selling."
+        }
+      ],
+      "script": "\"I need to be straight with you: <strong>I have a written offer that expires Thursday at 5.</strong> You are my first choice. Can you get to a decision before then, or should I plan around it?\"",
+      "example": "Ivan told the recruiter his other offer expired Thursday and named the company. The panel debriefed the next morning instead of the following week. He had the offer by Wednesday and the other finalist never got a final round.",
+      "watchFor": "The recruiter asks for the exact date and company, then says they will escalate today.",
+      "ifItFails": "They say they cannot move that fast. Do not extend your own deadline out loud — that kills the tool for good. Ask what they can do instead: \"Then what can you tell me by Thursday — a yes, a no, or a number?\" A partial answer is still a decision. Do not use this if your deadline is invented; recruiters check.",
+      "counter": "If a candidate gives you a deadline, they are re-ordering your process.\n• Notice whether the date comes with a company name and a number.\n• Say: \"Send me the offer letter and I will see what I can do.\"\n• Real deadlines survive that ask. Bluffs go vague within an hour.",
+      "insight": "A deadline buys speed, never preference. If they liked the other one better, you just made them say no sooner — and sometimes that is the information you needed."
+    },
+    {
+      "id": 18,
+      "cat": "close",
+      "danger": "moderate",
+      "title": "Ask for the Job in Plain Words",
+      "principle": "Cialdini: Commitment — Ask for the Explicit Yes",
+      "remember": "Say you want the job. Most finalists never do.",
+      "when": "The last conversation is ending and you have not said out loud that you want it.",
+      "hook": "Two strong finalists. <strong>One said they wanted it. Guess which one felt safer to pick.</strong>",
+      "truth": "Panels fear a candidate who turns down the offer and restarts the search.\n• Saying you want it removes their risk of a public no.\n• Most candidates hint. A hint does not survive a debrief.\n• Say it as a decision, not as a hope.",
+      "theySee": "A candidate who states clearly that they will accept if offered.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Interest probe",
+          "t": "They ask how this role compares to your other options"
+        },
+        {
+          "icon": "⚖️",
+          "l": "Close race",
+          "t": "The recruiter says the panel is split"
+        },
+        {
+          "icon": "🕰️",
+          "l": "Delay",
+          "t": "They ask for more time to decide"
+        },
+        {
+          "icon": "🧾",
+          "l": "Money talk",
+          "t": "Someone starts asking about your salary expectations"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the sentence, do not hint",
+          "desc": "Tell the decider you want the job and will say yes if they offer it."
+        },
+        {
+          "n": "2",
+          "title": "Give one reason that is about them",
+          "desc": "Name the specific thing about the team or the problem that decided it for you."
+        },
+        {
+          "n": "3",
+          "title": "Put it in writing the same day",
+          "desc": "Repeat the sentence in your follow-up email so it exists in the debrief inbox."
+        }
+      ],
+      "script": "\"I will be direct: <strong>I want this job, and if you offer it I will say yes.</strong> The reason is the migration work — that is the problem I want for the next two years.\"",
+      "example": "Dana ended her final round with that line. The VP later told her the panel was split until the recruiter said, 'Dana told me flat out she will accept.' The other finalist had said he was 'weighing a few things.'",
+      "watchFor": "The decider's tone changes and they start talking about start dates or team introductions.",
+      "ifItFails": "They stay neutral and give you the process line. Do not repeat the sentence — repetition sounds needy. Convert it into a condition instead: \"Then tell me what would need to be true for it to be me.\" Do not say this if you would decline the offer; a retracted yes ends the relationship with that recruiter.",
+      "counter": "If a finalist tells you they will accept, they are removing your fear of rejection.\n• Notice you feel safer picking them, not that they got better.\n• Say: \"Good to know. It will not change how we score the round.\"\n• Score both on the work first, then use willingness as the tiebreaker.",
+      "insight": "Wanting it is not a qualification, but in a tie it is the whole decision. The trap is saying it too early, when they still have leverage on money."
+    },
+    {
+      "id": 19,
+      "cat": "lost",
+      "danger": "moderate",
+      "title": "Ask to Be the Backup in Writing",
+      "principle": "Sunk-Cost — They Paid for You Already",
+      "remember": "Ask to be second in line. Offers fall through often.",
+      "when": "The recruiter calls and tells you they went with the other candidate.",
+      "hook": "Roughly one in ten accepted offers falls apart. <strong>Somebody gets that call. Make it you.</strong>",
+      "truth": "The company already spent weeks learning you and does not want to start over.\n• You ask, in writing, to be the named backup with a date.\n• The recruiter now has a cheap solution if the first choice quits.\n• Ask in the same call as the rejection, while you are still fresh.",
+      "theySee": "A candidate who takes a no cleanly and stays useful to them.",
+      "signals": [
+        {
+          "icon": "📞",
+          "l": "Warm no",
+          "t": "The recruiter calls instead of sending a template email"
+        },
+        {
+          "icon": "🫱",
+          "l": "Close call",
+          "t": "They say the decision was very close"
+        },
+        {
+          "icon": "🚪",
+          "l": "Other roles",
+          "t": "They mention another opening on a different team"
+        },
+        {
+          "icon": "⏳",
+          "l": "Unsigned",
+          "t": "The other candidate has not started yet"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Take the no cleanly",
+          "desc": "Thank them in one sentence. Do not argue, do not ask them to reconsider."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the backup slot",
+          "desc": "Ask them to keep you as first call if the start date slips or the offer falls through."
+        },
+        {
+          "n": "3",
+          "title": "Email it the same hour",
+          "desc": "Send one short email so the request exists in writing when the problem happens."
+        }
+      ],
+      "script": "\"Understood, and thank you for the straight answer. <strong>Keep me as your first call if the start date slips or it does not work out in the first 90 days.</strong> I will still be interested.\"",
+      "example": "Rafi lost to an internal candidate and asked for the backup slot in the rejection call. Six weeks later the internal hire went back to his old team. Rafi got the offer without a second interview.",
+      "watchFor": "The recruiter says \"honestly, I might take you up on that\" instead of a polite close.",
+      "ifItFails": "They say the role is closed and move on. Do not push on that role. Move the ask sideways to the manager: \"Then I would like to stay in touch with the team for the next opening.\" Send one useful thing every two months. Do not send anything that sounds like you are still competing with the person they hired.",
+      "counter": "If a rejected candidate asks to be your backup, they are keeping the door open cheaply.\n• Notice it costs you nothing to say yes, which is why they ask.\n• Say: \"I will keep you on the list.\" Then actually keep the list.\n• Never promise the next role. You do not know what it will be.",
+      "insight": "A no on Friday is not a no in November. The harder part is staying in touch without looking like you are waiting for someone to fail."
+    },
+    {
+      "id": 20,
+      "cat": "lost",
+      "danger": "high",
+      "title": "Get the Real Reason Out of the Recruiter",
+      "principle": "Voss: Label + Silence to Draw Out the Truth",
+      "remember": "Ask what the other person had that you did not.",
+      "when": "You lost, and the recruiter gives you a vague reason like 'a stronger fit'.",
+      "hook": "'We went another direction' is not information. <strong>One question turns it into your next win.</strong>",
+      "truth": "Recruiters give the vague line because nobody ever asks for more.\n• You ask what the other finalist had that you did not, in those words.\n• The comparison question is easier to answer than a criticism question.\n• Say nothing after you ask. The quiet does the work.",
+      "theySee": "A candidate who takes feedback like a pro and will be easy to place later.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Vague words",
+          "t": "They say 'fit' or 'direction' without naming a skill"
+        },
+        {
+          "icon": "⏩",
+          "l": "Fast close",
+          "t": "They rush to end the call after the news"
+        },
+        {
+          "icon": "🎁",
+          "l": "Consolation",
+          "t": "They offer to keep you in mind for other roles"
+        },
+        {
+          "icon": "🙊",
+          "l": "Policy shield",
+          "t": "They say they cannot give detailed feedback"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the comparison question",
+          "desc": "Ask what the person they picked had that you did not."
+        },
+        {
+          "n": "2",
+          "title": "Stay silent for five seconds",
+          "desc": "Do not fill the pause. Most recruiters answer the second time."
+        },
+        {
+          "n": "3",
+          "title": "Write the answer down word for word",
+          "desc": "Use their exact phrase in your next final round as the thing you now prove."
+        }
+      ],
+      "script": "\"No hard feelings — one favour. <strong>What did the person you picked have that I did not?</strong>\" Then say nothing.",
+      "example": "Chidi asked that question after losing a director role. The recruiter said, 'She had run a P&L. You have not.' Chidi took a P&L line in his next job and won the same level role eleven months later.",
+      "watchFor": "The recruiter starts a sentence with \"honestly\" and names a specific skill or experience.",
+      "ifItFails": "They hide behind policy and say they cannot share. Do not ask twice — you burn the relationship for a future role. Give them a guess to correct instead: \"Fair. If I had to guess, it was the P&L experience. Am I close?\" People correct a wrong guess when they will not volunteer a right answer. Never ask the hiring manager this while you are still in another process with them.",
+      "counter": "If a rejected candidate asks what the winner had, they are extracting your scorecard.\n• Notice the question is comparative, which makes it feel safe to answer.\n• Say: \"Different mix of experience. I cannot go into the other candidate.\"\n• Give them one thing to work on instead. That helps without exposing your criteria.",
+      "insight": "Losing costs you the job. Not knowing why costs you the next three. The harder part is hearing a reason you cannot change — and deciding whether to fix it or stop applying to that kind of room."
+    }
+  ]
+}

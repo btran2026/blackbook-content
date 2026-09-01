@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 55,
+  "manifestVersion": 56,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -377,7 +377,20 @@
       "url": "playbooks/playbook-srv-the-other-man.json",
       "addedAt": "2026-09-01T21:22:40.275Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-beating-the-other-finalist",
+      "title": "Beating the Other Finalist",
+      "theme": "hiring",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#8B1E2D",
+      "coverIcon": "♟️",
+      "url": "playbooks/playbook-srv-beating-the-other-finalist.json",
+      "addedAt": "2026-09-01T22:22:09.870Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-01T21:22:40.275Z"
+  "generatedAt": "2026-09-01T22:22:09.870Z"
 }
