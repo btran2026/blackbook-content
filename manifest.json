@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 54,
+  "manifestVersion": 55,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -364,7 +364,20 @@
       "url": "playbooks/playbook-srv-manufactured-need.json",
       "addedAt": "2026-08-31T14:48:01.694Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-reciprocity-file",
+      "title": "The Reciprocity File",
+      "theme": "reciprocity",
+      "topic": "Spotting reciprocity traps and unsolicited favors",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A2744",
+      "coverIcon": "🪤",
+      "url": "playbooks/playbook-srv-the-reciprocity-file.json",
+      "addedAt": "2026-09-01T17:35:37.568Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-08-31T14:48:01.694Z"
+  "generatedAt": "2026-09-01T17:35:37.568Z"
 }

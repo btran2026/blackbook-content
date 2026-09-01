@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "id": "srv-the-reciprocity-file",
+    "version": "1.0",
+    "title": "The Reciprocity File",
+    "subtitle": "Spotting, Defusing, and Deploying Unsolicited Favors",
+    "description": "A closed dossier on the most widely used social debt mechanic in human behavior. Twelve cards covering how to spot the setup, decode the gift, defuse the obligation, audit your relationships, and run the move yourself when the situation calls for it.",
+    "author": "AI",
+    "createdAt": "2026-09-01T17:35:37.568Z",
+    "tags": [
+      "reciprocity",
+      "manipulation",
+      "social debt",
+      "influence",
+      "favors",
+      "psychology",
+      "dark patterns"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A2744",
+    "coverIcon": "🪤",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting reciprocity traps and unsolicited favors",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "spot",
+      "label": "Spotting the Trap",
+      "color": "#1A2744"
+    },
+    {
+      "key": "decode",
+      "label": "Decoding the Gift",
+      "color": "#2C1810"
+    },
+    {
+      "key": "defuse",
+      "label": "Defusing the Obligation",
+      "color": "#1A3A2A"
+    },
+    {
+      "key": "deploy",
+      "label": "Deploying the Move",
+      "color": "#3A1A3A"
+    },
+    {
+      "key": "audit",
+      "label": "Auditing Relationships",
+      "color": "#2A2A2A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "spot",
+      "danger": "moderate",
+      "title": "Recognize When a Favor Is Actually a Bill",
+      "hook": "Someone does something nice without being asked. Now you feel like you owe them. <strong>That feeling is the product they were selling.</strong>",
+      "truth": "The reciprocity norm runs before your conscious mind catches up.\n• Even unwanted gifts create a real debt feeling in the receiver.\n• The receiver pulls toward repaying, often with more than they got.\n• The trap closes before you realize the gift was a move.",
+      "principle": "Cialdini: Reciprocity Norm",
+      "remember": "Feeling like you owe someone is not proof that you do.",
+      "theySee": "A person handing you something you didn't ask for and smiling at you while you take it.",
+      "signals": [
+        {
+          "l": "You didn't ask",
+          "t": "The gift arrived before any conversation about need or exchange.",
+          "icon": "🎁"
+        },
+        {
+          "l": "Fast follow-up",
+          "t": "They ask for something within hours or days of giving you the gift.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Eyes on your face",
+          "t": "They watch your reaction closely while you receive what they gave.",
+          "icon": "👀"
+        },
+        {
+          "l": "Hard to hand back",
+          "t": "You feel awkward saying no or returning it before you've even thought about it.",
+          "icon": "🚧"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Note the timing",
+          "desc": "Write down when the favor happened and when the ask came. Less than a week between the two is a signal."
+        },
+        {
+          "n": "2",
+          "title": "Name the feeling out loud",
+          "desc": "Say to yourself: 'I feel like I owe them.' Naming it gives you a beat before the norm takes over and moves your mouth."
+        },
+        {
+          "n": "3",
+          "title": "Ask what they get if you say yes",
+          "desc": "Before agreeing to anything, answer this: what does this person gain if you say yes right now? That answer is the real transaction."
+        }
+      ],
+      "script": "\"I appreciate you thinking of me, but I didn't ask for this and I'm not in a position to return it.\"",
+      "counter": "Recognize when someone runs this same setup on you before you've spotted the ask coming.\n• You feel unexpected warmth toward someone before any request appears.\n• The ask arrives before the good feeling fully fades.\n• Say 'I see what this is' to yourself and pause for 24 hours before replying.",
+      "insight": "The norm is useful glue in real relationships. The harder question is whether this person has given you anything you actually wanted before today."
+    },
+    {
+      "id": 2,
+      "cat": "spot",
+      "danger": "moderate",
+      "title": "Spot the Obligation Before the Ask Arrives",
+      "hook": "The ask hasn't come yet. <strong>But the favor has already done its work.</strong> By the time they ask, you're already soft.",
+      "truth": "Skilled users of this move separate the gift from the ask by days or weeks on purpose.\n• Time between the favor and the ask makes the connection harder to see clearly.\n• By the time the ask arrives, you feel grateful, not suspicious.\n• The gap is the move — closeness of timing is the tell when you look back.",
+      "principle": "Cialdini: Reciprocity — Delayed Ask Technique",
+      "remember": "The gift and the ask look unconnected on purpose. Check the calendar.",
+      "theySee": "A colleague dropping off lunch with a smile, saying they had extra and thought of you.",
+      "signals": [
+        {
+          "l": "Gift, no occasion",
+          "t": "They give you something on a normal day with no stated reason for it.",
+          "icon": "📦"
+        },
+        {
+          "l": "Explains the cost",
+          "t": "They tell you how much this normally costs while handing it to you for free.",
+          "icon": "💬"
+        },
+        {
+          "l": "Warmth spike",
+          "t": "They're noticeably friendlier than usual in the days after giving you the gift.",
+          "icon": "🌡️"
+        },
+        {
+          "l": "Vague future talk",
+          "t": "They mention 'keeping in touch' or 'you can return the favor someday' without being specific.",
+          "icon": "🗓️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log the gift immediately",
+          "desc": "Write down what they gave, when, and their exact words. Memory softens fast and the detail that seemed obvious today will blur in a week."
+        },
+        {
+          "n": "2",
+          "title": "Watch the 30-day window",
+          "desc": "Note every contact from them in the month after the gift. A pattern of warmth and closeness building before an ask is the tell."
+        },
+        {
+          "n": "3",
+          "title": "Rehearse your pause",
+          "desc": "When the ask comes, say 'Let me think about that' before anything else. Buy yourself 24 hours. The obligation is weakest when you don't answer immediately."
+        }
+      ],
+      "script": "\"That was kind. What's on your mind — is there something you're working on that you think I could help with?\"",
+      "counter": "If someone you've helped gifts you back right before they need something big, the math is the same in reverse.\n• Generosity from them arrives just before a large request from them.\n• The size of the gift just went up compared to what they normally give.\n• Repaying a gift does not obligate you to the ask. Keep those separate.",
+      "insight": "The move works best on people who hate the feeling of an unresolved debt. The harder question is whether your discomfort with owing someone is real or something they engineered."
+    },
+    {
+      "id": 3,
+      "cat": "decode",
+      "danger": "high",
+      "title": "The Free Sample Is Never Free",
+      "hook": "The complimentary audit. The free coffee. The no-cost consult. <strong>Each one is a bill you haven't received yet.</strong>",
+      "truth": "The free sample is the most tested reciprocity move in sales and social engineering.\n• Receiving something for free creates a pull to give back, even with strangers.\n• A 'complimentary' service primes the target to feel guilty saying no to the pitch.\n• The real cost arrives as the ask — when saying no feels ungrateful and small.",
+      "principle": "Cialdini: Reciprocity — Free Sample Mechanic",
+      "remember": "Find out what they want back before you take the free thing.",
+      "theySee": "A salesperson handing you a cup of coffee before sitting down to talk about numbers.",
+      "signals": [
+        {
+          "l": "Free before pitch",
+          "t": "Something of value arrives before they've asked for your money or your time.",
+          "icon": "☕"
+        },
+        {
+          "l": "Unsolicited audit",
+          "t": "They analyze your situation and give you results at no charge, before you've hired them.",
+          "icon": "📋"
+        },
+        {
+          "l": "Named the price",
+          "t": "They tell you what this normally costs while giving it to you for free right now.",
+          "icon": "💰"
+        },
+        {
+          "l": "Smooth transition",
+          "t": "The conversation moves from the free thing to the pitch without any pause between them.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Put the agenda on the table first",
+          "desc": "Receive the coffee or sample if you want. Then say: 'What are we here to talk about?' Name the business before it names you."
+        },
+        {
+          "n": "2",
+          "title": "Decline what you haven't taken yet",
+          "desc": "If the free thing is still being offered, say no to it. Less debt, cleaner head, better decision."
+        },
+        {
+          "n": "3",
+          "title": "Name your decision criteria before the pitch ends",
+          "desc": "Before they finish, say out loud what would make you say yes or no to their offer. Now the decision is yours and you've said so."
+        }
+      ],
+      "script": "\"I'll pass on the coffee — let's get into what you wanted to talk about.\"",
+      "counter": "If a vendor or contact gives you something before any negotiation starts, the clock on that debt is already running.\n• The free thing arrives before the business conversation begins.\n• Their tone gets noticeably warmer right after you accept it.\n• Ask yourself: 'Am I more open right now because the offer is good, or because of the coffee?'",
+      "insight": "The complimentary audit is particularly effective because it creates information debt on top of gift debt. They know your numbers. You owe them a polite ear. The question is whether the information was actually worth what you're about to give."
+    },
+    {
+      "id": 4,
+      "cat": "decode",
+      "danger": "high",
+      "title": "Small Gift, Big Ask — Know the Exchange Rate",
+      "hook": "A coffee doesn't buy a reference. A lunch doesn't buy a contract. <strong>The person asking hopes you've forgotten that math.</strong>",
+      "truth": "The gap between the size of the gift and the size of the ask is the core mechanic of engineered reciprocity.\n• A small gift creates a debt feeling. The ask arrives much larger than the gift's value.\n• The target's discomfort makes them fill the gap themselves without being told to.\n• People compare emotional weight, not dollar value — that gap is the move's engine.",
+      "principle": "Cialdini: Reciprocity — Size Mismatch",
+      "remember": "Compare what they gave to what they want. The math usually doesn't hold up.",
+      "theySee": "A friend who bought you a round of drinks six months ago now asking you to co-sign a loan for them.",
+      "signals": [
+        {
+          "l": "Old gift, new ask",
+          "t": "The favor they gave was weeks or months ago. The ask is right now.",
+          "icon": "🕰️"
+        },
+        {
+          "l": "Gift mentioned first",
+          "t": "They bring up what they did for you before stating what they need from you.",
+          "icon": "📢"
+        },
+        {
+          "l": "Value gap obvious",
+          "t": "What they want is worth far more in time or money than what they gave you.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Guilt language",
+          "t": "They say things like 'after everything I've done' or 'I thought we were close.'",
+          "icon": "😔"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Put numbers on both sides",
+          "desc": "Write down what they gave you in time, money, or effort. Write down what they're asking for in the same terms. Compare both numbers honestly."
+        },
+        {
+          "n": "2",
+          "title": "Separate the debt from the ask",
+          "desc": "Ask yourself: 'If they had never given me anything, would I say yes to this?' If the answer is no, the obligation is doing all the work, not the merit of the ask."
+        },
+        {
+          "n": "3",
+          "title": "Offer proportional return only",
+          "desc": "If you feel real debt, offer something equal to what they gave — not what they're asking for. 'I can return the favor but not this favor' is a complete answer."
+        }
+      ],
+      "script": "\"I appreciate what you did — that meant something. But what you're asking for is a completely different scale. I can't do that.\"",
+      "counter": "Watch for people using the memory of your past gifts to them as the setup for a large ask back.\n• They remind you of a time you helped them, then pivot to what they need now.\n• Their ask is noticeably bigger than what they're reminding you of.\n• Say 'Those are separate things' and hold the line there without debating it.",
+      "insight": "The emotional weight of a gift doesn't scale with its dollar value. A single personal gesture can carry more pull than a cash payment twice its size. That gap between feeling and value is exactly where the move lives."
+    },
+    {
+      "id": 5,
+      "cat": "defuse",
+      "danger": "low",
+      "title": "Name the Tactic Out Loud and Watch the Pull Disappear",
+      "hook": "Cialdini's own defense: once you see a favor as a compliance move, the reciprocity rule stops applying to it. <strong>Naming it is the off switch.</strong>",
+      "truth": "The reciprocity norm works hardest on you when you can't see it working.\n• Naming the tactic to yourself removes the automatic pull to say yes.\n• You don't need to accuse anyone — naming it internally is enough to break the spell.\n• After naming it, evaluate the ask on its own, as if no gift ever existed.",
+      "principle": "Cialdini: Reciprocity — Naming Defense",
+      "remember": "Tricks don't deserve favors back. Real favors do. Name which one this is.",
+      "theySee": "A person pausing before they respond, looking calm and thinking rather than reacting.",
+      "signals": [
+        {
+          "l": "Guilt with no cause",
+          "t": "You feel bad even though you didn't ask for what they gave you.",
+          "icon": "😣"
+        },
+        {
+          "l": "Pull before thinking",
+          "t": "You're leaning toward agreeing before you've thought about the ask itself at all.",
+          "icon": "🧲"
+        },
+        {
+          "l": "Gift feels recent",
+          "t": "The gift is vivid in your mind right at the moment the ask arrives.",
+          "icon": "💭"
+        },
+        {
+          "l": "No other reason to agree",
+          "t": "When you set the gift aside, you can't find any other reason to say yes.",
+          "icon": "🚫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the label to yourself first",
+          "desc": "Silently: 'This is a reciprocity move. The gift was not free.' Say it before your mouth opens."
+        },
+        {
+          "n": "2",
+          "title": "Evaluate the ask as if no gift existed",
+          "desc": "Ask yourself: 'If they had never given me anything, would I say yes to this?' Use that answer, not the one the debt feeling is pushing."
+        },
+        {
+          "n": "3",
+          "title": "Respond to the ask, not the gift",
+          "desc": "Answer based on whether the ask makes sense on its own. You don't need to mention the gift or explain why you're separating it."
+        }
+      ],
+      "script": "\"I need to think about this on its own — separate from what you did for me before.\"",
+      "counter": "If someone names your reciprocity move before you get to the ask, the move is dead and they know it.\n• The target goes quiet right after receiving your gift, not grateful-quiet but thinking-quiet.\n• They ask what you need before you bring it up yourself.\n• Accept that this target sees the move. Be direct with them or try someone else.",
+      "insight": "Naming works because the norm runs on not being seen. Once the target sees the mechanism, the emotional transfer doesn't complete. The harder problem is catching it fast enough — the guilt usually lands before the analysis does."
+    },
+    {
+      "id": 6,
+      "cat": "defuse",
+      "danger": "low",
+      "title": "Ask Yourself: Would I Do This If the Gift Never Happened?",
+      "hook": "One question clears most reciprocity traps. <strong>If the answer is no, the obligation is the only reason you're about to say yes.</strong>",
+      "truth": "The 'would I do this anyway' test cuts through the emotion of the debt feeling in real time.\n• If yes: the gift doesn't matter. Do it because the ask is worth doing.\n• If no: the gift is the only reason — you're being moved, not choosing.\n• The test works in the moment, before you open your mouth and commit.",
+      "principle": "Cialdini: Two-Test Reciprocity Defense",
+      "remember": "If the gift disappeared, would you still say yes? That answer is the real one.",
+      "theySee": "A person who pauses and quietly asks themselves one thing before answering.",
+      "signals": [
+        {
+          "l": "Hesitation before yes",
+          "t": "You're about to agree but feel something pulling against it just before you speak.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Gift top of mind",
+          "t": "You keep thinking about what they gave you while trying to decide about the ask.",
+          "icon": "🧠"
+        },
+        {
+          "l": "No independent reason",
+          "t": "You can't name a reason to agree beyond the fact that they did something for you.",
+          "icon": "❓"
+        },
+        {
+          "l": "Ask too large",
+          "t": "What they want requires more from you than you'd normally give a person in this position.",
+          "icon": "📏"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Run the test before replying",
+          "desc": "Ask yourself: 'Would I say yes if nothing had been given to me?' Get a clear answer before your mouth moves."
+        },
+        {
+          "n": "2",
+          "title": "Write the two answers separately",
+          "desc": "Write: (a) Do I want to do this? (b) Do I feel like I have to? If those answers differ, you caught the trap."
+        },
+        {
+          "n": "3",
+          "title": "Decide on the real answer",
+          "desc": "If your honest answer is no, say 'I'm not the right person for this.' No mention of the gift needed. No explanation required."
+        }
+      ],
+      "script": "\"I want to be honest — I'd say no to this if the history between us weren't there. So I have to say no.\"",
+      "counter": "If someone you've helped uses this test on you and declines, the move didn't land and they saw it.\n• They take noticeably longer than usual to answer after you ask.\n• Their answer doesn't reference the gift or the history between you at all.\n• Don't push. The move is read. Move to a direct conversation or drop the ask entirely.",
+      "insight": "The test is fast but the honest answer sometimes costs you something real. If you find you almost always answer 'yes' regardless of whether a gift exists, the problem is the relationship's structure, not the individual ask on the table."
+    },
+    {
+      "id": 7,
+      "cat": "defuse",
+      "danger": "low",
+      "title": "The Proportionality Test — A Coffee Doesn't Buy a Reference",
+      "hook": "They gave you something small. They're asking for something large. <strong>The gap between those two numbers is where the manipulation lives.</strong>",
+      "truth": "The reciprocity norm has no built-in exchange rate. That gap is where manipulators do their best work.\n• A small gift creates a debt feeling. The size of the feeling isn't tied to the gift's value.\n• The ask can be ten times the gift's worth. The guilt doesn't adjust to the ratio on its own.\n• Check the exchange rate explicitly — the debt feeling alone cannot do that math for you.",
+      "principle": "Cialdini: Reciprocity — Proportionality Principle",
+      "remember": "Give back what you actually received. Not what they're asking for.",
+      "theySee": "A person looking at two numbers side by side — what they got and what's being asked — and doing the comparison directly.",
+      "signals": [
+        {
+          "l": "Soft lead-in",
+          "t": "They mention the past favor gently and quietly before making the real request.",
+          "icon": "🪝"
+        },
+        {
+          "l": "Emotional language",
+          "t": "They use phrases like 'after everything' or 'I thought you'd want to help me.'",
+          "icon": "❤️"
+        },
+        {
+          "l": "No exchange rate named",
+          "t": "They never say what a fair trade looks like — they let you fill in the amount yourself.",
+          "icon": "🧮"
+        },
+        {
+          "l": "Timing pressure",
+          "t": "They need your answer soon, before you've had time to think through what it costs you.",
+          "icon": "⏰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Put a value on the original gift",
+          "desc": "In dollars and hours: what did they actually give you? Write the number. Not the feeling — the number."
+        },
+        {
+          "n": "2",
+          "title": "Put a value on the ask",
+          "desc": "In dollars and hours: what does saying yes cost you? Write that number next to the first one."
+        },
+        {
+          "n": "3",
+          "title": "Offer the proportional return only",
+          "desc": "Say: 'I can give back what you gave me — not more than that.' Offer the equivalent. Hold that line."
+        }
+      ],
+      "script": "\"What you gave me was worth about X. What you're asking for is worth ten times that. I can meet you at X.\"",
+      "counter": "If someone runs the proportionality test on your move, the math is now visible and the move is finished.\n• They ask you to name what a fair trade would actually look like.\n• Their counter-offer comes in at a fraction of what you asked for.\n• Take the proportional return or walk. Don't push for more — the window is closed.",
+      "insight": "Research on restaurant tips shows a small mint raises tips by 14 percent — not because of its value but because of the gesture. The move isn't about cost. It's about the feeling of being thought of. The next question is whether you can create that feeling without the cost attached to it."
+    },
+    {
+      "id": 8,
+      "cat": "audit",
+      "danger": "moderate",
+      "title": "People Sense When Generosity Has Strings Attached",
+      "hook": "Gifts with conditions smell different from real ones. <strong>People can't always name what's off — but they feel it before they can say it.</strong>",
+      "truth": "Conditional generosity poisons a relationship faster than no gift at all.\n• Targets sense the strings through a pattern: the giver is warm before the ask, cold after getting what they wanted.\n• Once the target identifies that pattern, they trust the giver less than if nothing had been given.\n• A detected move is worse than no move. It signals calculation where warmth was expected.",
+      "principle": "Cialdini: Reciprocity — Conditional Gift Failure",
+      "remember": "If your giving turns off right after you get what you want, people around you notice and remember.",
+      "theySee": "A friend who is very generous right before they need something and then disappears once they have it.",
+      "signals": [
+        {
+          "l": "Warm then cold",
+          "t": "The person is generous before the ask and noticeably distant after getting what they wanted.",
+          "icon": "🌡️"
+        },
+        {
+          "l": "Gift before news",
+          "t": "They give you something right before telling you they need something significant from you.",
+          "icon": "📣"
+        },
+        {
+          "l": "Pattern repeats",
+          "t": "This is the third or fourth time the same gift-then-ask sequence has played out with this person.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Hollow after yes",
+          "t": "You feel fine taking their gift but empty or used after you've said yes to the ask.",
+          "icon": "🕳️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map their giving pattern",
+          "desc": "Write down the last five times this person was generous with you. How many came within two weeks of a request? Count the rate."
+        },
+        {
+          "n": "2",
+          "title": "Watch their behavior after you help",
+          "desc": "After you say yes and help them, note how warm or available they are. A quick drop in warmth is confirmation."
+        },
+        {
+          "n": "3",
+          "title": "Test with a small ask of your own",
+          "desc": "Ask them for something small and watch how fast and willingly they respond. Compare that to how quickly they gave you something."
+        }
+      ],
+      "script": "\"I've noticed you tend to reach out most when you need something. I want to name that before we go further.\"",
+      "counter": "If someone tells you your giving feels conditional, the reputation damage has already started.\n• They start saying yes less often without giving you a reason.\n• Mutual contacts become less available or less warm toward you.\n• Give something with no ask attached and wait a full month before any request. You need to reset the reading.",
+      "insight": "Detection of conditional generosity rarely happens in a single moment. It builds across three or four cycles. By the time the target can name it, they've already decided to stop being useful to you — they're just still showing up."
+    },
+    {
+      "id": 9,
+      "cat": "audit",
+      "danger": "moderate",
+      "title": "One-Way Giving Drains the Giver — Track the Flow",
+      "hook": "A relationship where you give and they take doesn't rebalance on its own. <strong>It just keeps draining you until you stop helping anyone at all.</strong>",
+      "truth": "Sustained one-way giving damages the giver's willingness to give — even to people who have nothing to do with the taker.\n• The giver starts pulling back from everyone, not just from the person taking.\n• The taker rarely sees the pattern because the system keeps working until it breaks completely.\n• When the giver stops, the taker reads it as a personal betrayal rather than simple exhaustion.",
+      "principle": "Reciprocity Norm: Sustainable Generosity (Cialdini / Full Stack Living)",
+      "remember": "Track who gives and who takes. Imbalance that stays imbalanced is not a relationship.",
+      "theySee": "A friend or colleague who always needs something and is rarely around when you need something back.",
+      "signals": [
+        {
+          "l": "You always reach out",
+          "t": "You're the one who starts the conversation almost every time.",
+          "icon": "📱"
+        },
+        {
+          "l": "Help not returned",
+          "t": "You've asked for something at least twice and gotten excuses or nothing back.",
+          "icon": "🙅"
+        },
+        {
+          "l": "Asks keep growing",
+          "t": "Each request from them is bigger or more frequent than the one before it.",
+          "icon": "📈"
+        },
+        {
+          "l": "Tired before they ask",
+          "t": "You feel worn out or resentful thinking about this person before they've even said what they need.",
+          "icon": "🔋"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the last six months honestly",
+          "desc": "Write every favor you gave and every favor you received from this person. Count both sides. Don't round up for their generosity."
+        },
+        {
+          "n": "2",
+          "title": "Give nothing new for 30 days",
+          "desc": "Stop. Watch whether they notice, ask why, or just quietly find another person to draw from. Their response tells you everything."
+        },
+        {
+          "n": "3",
+          "title": "Set the new floor before you're pressured",
+          "desc": "Decide right now the maximum you'll give this person going forward. Don't negotiate it under pressure later. Set it today."
+        }
+      ],
+      "script": "\"I've been carrying more of this than makes sense for me. I need to pull back for a while.\"",
+      "counter": "If a consistent giver in your life suddenly pulls back, you may be the taker in this picture.\n• Someone who used to say yes quickly now takes much longer to respond.\n• They say no to something small you never expected them to refuse.\n• Ask yourself when you last gave them something they didn't ask for.",
+      "insight": "The taker in a one-way relationship almost always reads the giver's pullback as the relationship problem. The giver had already left the relationship months earlier. They were just still showing up out of habit."
+    },
+    {
+      "id": 10,
+      "cat": "deploy",
+      "danger": "high",
+      "title": "Use Small Favors First to Soften the Ask",
+      "hook": "Small gestures before a big ask don't just feel good — they create a pull that most people can't name and don't resist. <strong>That's exactly the point.</strong>",
+      "truth": "A small, personal, uninstructed favor creates more pull than a large formal one of higher dollar value.\n• Personal and unexpected gifts hit harder than expected ones of higher cost.\n• The target feels singled out — chosen — which adds weight to the debt feeling on top of the gift itself.\n• The pull is strongest in the first 24 to 72 hours after the gift arrives.",
+      "principle": "Cialdini: Reciprocity — Uninstructed Favor",
+      "remember": "Give something small and personal before you need something. Time the ask to follow it closely.",
+      "theySee": "A colleague who gave them exactly the right thing at the right moment, with no stated reason for it.",
+      "signals": [
+        {
+          "l": "Target surprised",
+          "t": "They weren't expecting anything from you and their face shows it clearly.",
+          "icon": "😮"
+        },
+        {
+          "l": "Thanks twice",
+          "t": "They thank you once in the moment and again, unprompted, a day or two later.",
+          "icon": "🙏"
+        },
+        {
+          "l": "Tells others",
+          "t": "They bring up what you did in front of other people without you bringing it up first.",
+          "icon": "📣"
+        },
+        {
+          "l": "Warmer after",
+          "t": "Their tone with you shifts noticeably — more available, more willing to talk.",
+          "icon": "🌡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Identify one specific thing they need",
+          "desc": "Think of one thing this person needs right now that you can give without being asked. Not a general gesture — a specific one."
+        },
+        {
+          "n": "2",
+          "title": "Give it with no strings stated",
+          "desc": "Deliver it. Don't mention what you might need later. Don't hint. Let the gift sit on its own."
+        },
+        {
+          "n": "3",
+          "title": "Wait 48 hours before the ask",
+          "desc": "Make your ask after the gratitude has settled but before the memory fades. Not the same day. Not a week later."
+        }
+      ],
+      "script": "\"I thought of you when I came across this — no reason, it just seemed useful to you.\"",
+      "counter": "If someone gives you something personal and uninstructed, watch for the ask within the next seven days.\n• The gift felt perfectly suited to you — more specific than a generic gesture.\n• They haven't asked for anything yet but have been noticeably warmer than usual.\n• Enjoy the gift. Keep your decision about the ask entirely separate from your gratitude.",
+      "insight": "The uninstructed favor gets stronger when it costs the giver visible attention or effort. The target feels seen. That feeling — being genuinely seen by someone — is worth more than most things money can buy. The dangerous version of this move is when you start believing your own act."
+    },
+    {
+      "id": 11,
+      "cat": "spot",
+      "danger": "high",
+      "title": "The Guilt Response Transfers Responsibility You Never Agreed to Take",
+      "hook": "They're struggling. You feel bad about it. You didn't cause the problem. <strong>But now it feels like yours to fix — and that transfer is the move.</strong>",
+      "truth": "The guilt response is manipulation's cleanest tool because it runs entirely on your own conscience, not on any direct ask.\n• You feel responsible for someone else's trouble even when you caused none of it.\n• The manipulator doesn't accuse — they display the suffering and wait for you to volunteer.\n• Fixing their problem feels like relief, but you've just paid for something you never ordered.",
+      "principle": "Guilt Response Exploitation — Manipulation Tactics Framework",
+      "remember": "Feeling bad about someone's situation doesn't mean you caused it or owe the fix.",
+      "theySee": "A person visibly struggling who hasn't directly asked for anything but is making sure you can see it clearly.",
+      "signals": [
+        {
+          "l": "Suffering on display",
+          "t": "They don't ask for help — they make sure you can see them struggling with it.",
+          "icon": "😞"
+        },
+        {
+          "l": "No direct request",
+          "t": "They describe the problem in detail without ever naming what they need from you.",
+          "icon": "🎭"
+        },
+        {
+          "l": "You offer first",
+          "t": "You find yourself volunteering to help before they've asked because the guilt gets there first.",
+          "icon": "🙋"
+        },
+        {
+          "l": "Relief on their face",
+          "t": "Their face shifts from distress to relief the moment you volunteer — before you've even finished the sentence.",
+          "icon": "😌"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask if they're asking you for something",
+          "desc": "Say: 'Are you asking me to help with this?' Force the direct ask. If they say no, you're done and you can walk away cleanly."
+        },
+        {
+          "n": "2",
+          "title": "Separate the feeling from the obligation",
+          "desc": "Write: 'I feel bad, but I did not cause this and I was not asked.' That sentence does the math the guilt feeling won't do on its own."
+        },
+        {
+          "n": "3",
+          "title": "Decline once without explaining yourself",
+          "desc": "If you say no, say it once: 'I can't take this on right now.' Don't justify or soften. Every explanation is an opening to negotiate."
+        }
+      ],
+      "script": "\"I can see this is hard. Are you asking me to help, or did you need to talk it through?\"",
+      "counter": "If someone uses your displayed difficulty to extract help from you, they've run this same move in reverse.\n• You're struggling and they offer to fix it before you've asked them anything.\n• Their fix involves you giving them something in return — now or later.\n• Name what's being offered and what it will likely cost you before you accept any of it.",
+      "insight": "This move is hardest to defuse in close relationships because the guilt is real and you genuinely care. The manipulator knows this. They target the people who care, not the people who don't."
+    },
+    {
+      "id": 12,
+      "cat": "defuse",
+      "danger": "moderate",
+      "title": "Hold Your No After Naming the Trap — the Second Wave Is the Real Test",
+      "hook": "You named the move. You said no. Now they're pushing back and the guilt is arriving in a second wave. <strong>The second wave is the test the first one was warming you up for.</strong>",
+      "truth": "Naming a reciprocity trap doesn't end the interaction — it usually starts the second phase of it.\n• After you decline, the manipulator often increases guilt: 'After everything I did for you.'\n• The second push is stronger because it adds social cost and relationship threat to the refusal.\n• Holding the no without re-explaining is the move. Every explanation you add is a new negotiation opening.",
+      "principle": "Voss: Label + Broken Record Defense",
+      "remember": "Saying no once and then explaining it is the same as saying yes eventually.",
+      "theySee": "A person who said no and isn't arguing, isn't apologizing, and isn't changing a single word of their answer.",
+      "signals": [
+        {
+          "l": "Second push arrives",
+          "t": "After your no, they restate the original ask using more emotional language than before.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Guilt escalation",
+          "t": "They bring up past favors specifically to make your no feel worse than it did the first time.",
+          "icon": "😤"
+        },
+        {
+          "l": "Third party invoked",
+          "t": "They mention someone else who would be disappointed in your decision — someone you care about.",
+          "icon": "👥"
+        },
+        {
+          "l": "Time pressure added",
+          "t": "They say the window is closing, adding urgency to the guilt already sitting on you.",
+          "icon": "⏰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the no once with nothing added",
+          "desc": "One sentence: 'I'm not going to be able to help with this.' Stop there. Reasons are things they can argue with. Give them nothing to argue."
+        },
+        {
+          "n": "2",
+          "title": "Repeat without adding words",
+          "desc": "If they push: 'I understand that's frustrating. My answer is the same.' Use the same words each time if needed."
+        },
+        {
+          "n": "3",
+          "title": "End the conversation",
+          "desc": "After two repetitions, leave or change the subject entirely. 'I have to go' is a complete sentence. Use it."
+        }
+      ],
+      "script": "\"I hear you. My answer is still no.\"",
+      "counter": "If you're running this move on someone who named your tactic and declined, the second-wave push just confirms what they already think of you.\n• They repeat their answer without changing any of the words.\n• They stop making eye contact and start wrapping up the conversation.\n• The move is fully read. Don't push further. Cut your losses on this person today.",
+      "insight": "The broken record works because most people running this move count on softening over time. They have no plan for someone who just keeps saying the same thing. The harder version of this skill is staying warm while staying firm. Cold refusal is easy. Firm-and-friendly is what takes practice."
+    }
+  ]
+}
