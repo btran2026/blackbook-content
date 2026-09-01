@@ -1,0 +1,1216 @@
+{
+  "meta": {
+    "id": "srv-buying-a-car-without-getting-played",
+    "version": "1.0",
+    "title": "Buying a Car Without Getting Played",
+    "subtitle": "The dealership's script, decoded move by move.",
+    "description": "22 field-tested moves for the car lot: what the salesperson is trained to do, and the counter for each move, from the sticker price to the signature.",
+    "author": "AI",
+    "createdAt": "2026-08-24T21:18:31.530Z",
+    "tags": [
+      "negotiation",
+      "money",
+      "cars",
+      "leverage",
+      "consumer"
+    ],
+    "totalCards": 22,
+    "isSeeded": true,
+    "coverColor": "#7f1d1d",
+    "coverIcon": "🚗",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "before-you-walk-in",
+      "label": "Before You Walk In",
+      "color": "#2c3e50"
+    },
+    {
+      "key": "the-test-drive",
+      "label": "The Test Drive",
+      "color": "#16a085"
+    },
+    {
+      "key": "negotiating-the-price",
+      "label": "Negotiating The Price",
+      "color": "#c0392b"
+    },
+    {
+      "key": "not-the-payment",
+      "label": "Not The Payment",
+      "color": "#d35400"
+    },
+    {
+      "key": "the-trade-in",
+      "label": "The Trade-In",
+      "color": "#8e44ad"
+    },
+    {
+      "key": "kept-separate",
+      "label": "Kept Separate",
+      "color": "#2980b9"
+    },
+    {
+      "key": "the-finance-office",
+      "label": "The Finance Office",
+      "color": "#b7791f"
+    },
+    {
+      "key": "walking-away-and-coming-back",
+      "label": "Walking Away And Coming Back",
+      "color": "#34495e"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "before-you-walk-in",
+      "danger": "low",
+      "title": "Know the Dealer's Real Cost Before You Go",
+      "principle": "Information Asymmetry",
+      "remember": "Find the invoice price. Don't fight over the sticker.",
+      "hook": "The sticker is their opening line, not the truth. <strong>The invoice price is the number they hope you never find.</strong>",
+      "truth": "Dealers negotiate down from a fake number so you feel like you won.\n• The sticker price has thousands of dollars of room built in.\n• You end up negotiating percentage off a made-up number, not real cost.\n• Look up invoice price and average paid price before you walk in.",
+      "when": "You're about to walk into a dealership and you only know the sticker price.",
+      "theySee": "A buyer who reacts to the number on the windshield instead of the number underneath it.",
+      "signals": [
+        {
+          "icon": "🏷️",
+          "l": "Sticker anchor",
+          "t": "They point at the window sticker first thing, before you ask anything."
+        },
+        {
+          "icon": "📋",
+          "l": "Market adjustment",
+          "t": "A second sticker adds a 'market adjustment' fee above MSRP."
+        },
+        {
+          "icon": "🙅",
+          "l": "Invoice denial",
+          "t": "They tell you 'invoice price doesn't mean anything anymore' when you bring it up."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Rushed pitch",
+          "t": "They ask for your monthly budget before you've seen a price at all."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Look up the invoice price",
+          "desc": "Search the exact trim and options on a pricing site the night before you go."
+        },
+        {
+          "n": "2",
+          "title": "Check what buyers actually paid",
+          "desc": "Search recent sale prices for the same model in your area."
+        },
+        {
+          "n": "3",
+          "title": "Write your target number down",
+          "desc": "Pick a number above invoice, below sticker, and bring it on paper."
+        }
+      ],
+      "script": "\"I've already looked up invoice on this trim — I know what room is actually in this deal.\"",
+      "example": "Derek priced a Camry LE at $28,900 sticker. He found invoice at $26,400 online the night before. When the salesman opened at $27,500, Derek said his number out loud and held at $26,900. They landed at $27,000 — a deal that felt like a loss to the dealer and a win Derek could actually prove.",
+      "watchFor": "The salesperson stops repeating the sticker price and starts asking what you know.",
+      "ifItFails": "They insist invoice pricing is outdated or say the number you found is wrong. Don't argue the number — ask them to show you the invoice. Say: \"Show me the invoice, then. If I'm wrong, I'll work off yours.\"",
+      "counter": "If a salesperson quotes you an invoice price you can't verify, they're using your research against you.\n• They know most buyers stop digging once they hear the word 'invoice.'\n• Ask for the actual document, not a spoken number.\n• Cross-check it against a pricing site on your phone, right there.",
+      "insight": "Knowing the invoice number doesn't win the deal by itself — it just stops them from anchoring you. The harder part is holding your number once they start working the payment instead of the price."
+    },
+    {
+      "id": 2,
+      "cat": "before-you-walk-in",
+      "danger": "low",
+      "title": "Get Pre-Approved Before You Talk Financing",
+      "principle": "Schelling — Commitment as Leverage",
+      "remember": "Bring your own loan offer. It's your backup plan, not theirs.",
+      "hook": "Walking in with your own loan means their financing office has nothing to sell you. <strong>A backup plan turns their control into your ceiling.</strong>",
+      "truth": "The dealer's finance office makes money on your loan, not just the car.\n• A bank pre-approval gives you a real number to compare against.\n• It stops the finance manager from being your only source of a rate.\n• Bring it printed. A finance manager will try to beat it — let them try.",
+      "when": "You haven't shopped for a loan and plan to just accept whatever rate the dealership offers.",
+      "theySee": "A buyer with no rate to compare, ready to accept whatever number appears on the screen.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Rate dodge",
+          "t": "They ask your credit score before quoting any rate at all."
+        },
+        {
+          "icon": "🐌",
+          "l": "Slow reveal",
+          "t": "They delay showing you the rate until after you pick the car."
+        },
+        {
+          "icon": "🔀",
+          "l": "Bundled math",
+          "t": "They mix the interest rate into the monthly payment instead of stating it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get quotes from your bank and one online lender",
+          "desc": "Apply for pre-approval at your bank and one other lender this week."
+        },
+        {
+          "n": "2",
+          "title": "Print the approval letter",
+          "desc": "Bring the paper with you — a screenshot invites doubt."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to beat it",
+          "desc": "Hand it over and say nothing else. Let them make the first counter."
+        }
+      ],
+      "script": "\"I'm already approved at 6.2% from my credit union. Beat that or I use it.\"",
+      "example": "Priya walked into a Honda dealer with a 6.1% pre-approval letter from her credit union. The finance manager came back at 5.4% to win the loan. Priya took the dealer's rate — but only because she had the leverage to make him compete for it.",
+      "watchFor": "The finance manager asks to see your letter instead of quoting a number first.",
+      "ifItFails": "They claim they can't match or beat outside financing. Take the loan you already have — don't let them talk you out of walking away with it. Say: \"Then I'll finance through my bank. Let's just finalize the price.\"",
+      "counter": "If a finance office pushes you to finance with them 'for the rebate,' check the real math before signing.\n• Manufacturer rebates sometimes only apply with dealer financing — read the fine print.\n• Ask them to write the rebate and the rate on paper, side by side.\n• Compare the total cost of both paths, not just the rebate amount.",
+      "insight": "A pre-approval is a floor, not a ceiling — it protects you from a bad rate, but a good finance manager will still try to make the extra warranties feel free. The next fight is in that office, not this one."
+    },
+    {
+      "id": 3,
+      "cat": "before-you-walk-in",
+      "danger": "moderate",
+      "title": "Never Say You Need the Car Today",
+      "principle": "Greene — Law 3, Conceal Your Intentions",
+      "remember": "Hide your deadline. A deadline is a price tag they can read.",
+      "hook": "The second they know you need a car by Friday, the countdown works for them, not you. <strong>Urgency is a number they can put a price on.</strong>",
+      "truth": "A buyer with a deadline will pay more to make the deadline.\n• Salespeople ask casual questions to find your real timeline.\n• Once they know you're desperate, discounts disappear fast.\n• Answer timeline questions with nothing specific, ever.",
+      "when": "Your old car just died or your lease ends this week and you need a replacement fast.",
+      "theySee": "A relaxed shopper who could walk out and come back next month without a problem.",
+      "signals": [
+        {
+          "icon": "🗓️",
+          "l": "Timeline fishing",
+          "t": "They ask when your current car's lease ends, casually, early in the talk."
+        },
+        {
+          "icon": "🚙",
+          "l": "Trade-in probe",
+          "t": "They ask if your current car 'made it here okay,' fishing for desperation."
+        },
+        {
+          "icon": "🤝",
+          "l": "Fast-close push",
+          "t": "They push a 'today only' price the moment you show any hurry."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Rehearse a neutral timeline answer",
+          "desc": "Practice saying \"I'm shopping around\" before you walk in."
+        },
+        {
+          "n": "2",
+          "title": "Never mention your old car's condition",
+          "desc": "Skip any comment on your current car being broken or expiring."
+        },
+        {
+          "n": "3",
+          "title": "Bring a second car or ride option",
+          "desc": "Arrange a ride home so leaving without a deal costs you nothing."
+        }
+      ],
+      "script": "\"I'm not on a deadline. I'll take my time and go where the numbers work.\"",
+      "example": "Marcus needed a car within the week after his transmission died. He told the dealer he was 'just comparing a few places' and left his tow-truck story out entirely. The salesman priced the car like Marcus had all month — and Marcus got $1,400 off sticker before he even mentioned trading in the wreck.",
+      "watchFor": "The salesperson stops pushing the 'today only' line once your timeline sounds open-ended.",
+      "ifItFails": "They keep probing with specific questions like \"So when do you need to drive off?\" Deflect without lying — vague beats false. Say: \"Whenever the deal makes sense. No rush on my end.\"",
+      "counter": "If a salesperson keeps asking when you need the car, they're pricing your urgency, not the car.\n• Notice the pattern — three or more timeline questions in a row is a probe.\n• Give a flat, non-specific answer every time.\n• Bring your own ride so walking away costs you nothing.",
+      "insight": "This works because a deadline is information you gave away for free. The harder part comes at the trade-in table, where they'll try the same trick from a different angle. Don't run this bluff with zero backup transportation — a walk-away you can't survive isn't leverage."
+    },
+    {
+      "id": 4,
+      "cat": "the-test-drive",
+      "danger": "low",
+      "title": "Let the Silence Do the Selling",
+      "principle": "Voss — Tactical Silence",
+      "remember": "Say less on the test drive. Let them fill the quiet.",
+      "hook": "A quiet buyer makes a salesperson nervous. <strong>Silence forces them to talk first — and people who talk first give things away.</strong>",
+      "truth": "Most buyers narrate their excitement out loud during the drive.\n• Every 'I love this' you say becomes a data point against you later.\n• Salespeople read your reactions to set their opening price.\n• Stay neutral. Ask questions instead of making statements.",
+      "when": "You're in the passenger or driver seat during the test drive and the salesperson is watching your face.",
+      "theySee": "A hard-to-read buyer who isn't giving away how much they want this specific car.",
+      "signals": [
+        {
+          "icon": "👁️",
+          "l": "Reaction watch",
+          "t": "They watch your face in the mirror more than the road."
+        },
+        {
+          "icon": "💬",
+          "l": "Excitement bait",
+          "t": "They say 'Isn't this smooth?' fishing for you to agree out loud."
+        },
+        {
+          "icon": "📝",
+          "l": "Note-taking",
+          "t": "They mention your comments back to you later at the negotiating table."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask questions, don't make statements",
+          "desc": "Ask about maintenance costs and history instead of saying what you like."
+        },
+        {
+          "n": "2",
+          "title": "Keep your face neutral",
+          "desc": "Save any real reaction for the car alone, after you're back home."
+        },
+        {
+          "n": "3",
+          "title": "Test the annoying stuff, not the fun stuff",
+          "desc": "Check blind spots, road noise, and low-speed maneuvering, not just highway speed."
+        }
+      ],
+      "script": "\"How's the brake wear on this one? What's the service history?\"",
+      "example": "Elena test-drove a used RAV4 and said almost nothing except questions about the timing belt. The salesman, unable to read her, opened $500 lower than his usual first offer just to get a reaction out of her. Elena still didn't react — and negotiated another $700 off from there.",
+      "watchFor": "The salesperson starts asking you directly what you think, because your face gave nothing away.",
+      "ifItFails": "They keep pushing for a verbal reaction with direct questions like \"So, are you in love?\" Deflect with a question of your own instead of an answer. Say: \"What's the resale value looking like on this trim?\"",
+      "counter": "If a salesperson stays unusually quiet during your drive, they're studying you, not being polite.\n• Notice if they ask open questions but rarely state opinions themselves.\n• Match their silence — don't fill it out of discomfort.\n• Save your real thoughts for outside the car.",
+      "insight": "A blank face buys you nothing by itself — the payoff comes later when they can't tell if their opening number impressed you or insulted you. The next test is whether you can hold that same blank face at the price table."
+    },
+    {
+      "id": 5,
+      "cat": "the-test-drive",
+      "danger": "moderate",
+      "title": "Keep Your Keys and Your ID",
+      "principle": "Status Asymmetry — Physical Control",
+      "remember": "Don't hand over your keys before the test drive. Ever.",
+      "hook": "The moment they hold your keys, you're the one who has to ask permission to leave. <strong>Whoever holds the keys holds the room.</strong>",
+      "truth": "Some dealers ask to 'run a copy' of your keys or license and stall giving them back.\n• Holding your keys makes walking out feel harder than it is.\n• It's a stalling tactic to keep you on the lot longer.\n• Hand over a photo of your license if they need ID, not the keys to your car.",
+      "when": "A salesperson asks for your keys or ID before or during the test drive of your trade-in.",
+      "theySee": "A buyer who just handed over the one thing that made leaving easy.",
+      "signals": [
+        {
+          "icon": "🔑",
+          "l": "Key hold",
+          "t": "They ask to 'appraise' your trade-in and take your keys before you've agreed to anything."
+        },
+        {
+          "icon": "🕰️",
+          "l": "Slow return",
+          "t": "They take unusually long to bring your keys back after the test drive."
+        },
+        {
+          "icon": "🪪",
+          "l": "ID copy",
+          "t": "They photocopy your license and set it aside instead of handing it back right away."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Hand over ID, not keys, for the test drive",
+          "desc": "Offer your driver's license to verify you can legally drive, nothing more."
+        },
+        {
+          "n": "2",
+          "title": "Ask for your trade-in keys back immediately after appraisal",
+          "desc": "Once they've looked at your trade-in, ask for the keys back on the spot."
+        },
+        {
+          "n": "3",
+          "title": "Keep your own car keys on you at all times",
+          "desc": "Never leave your keys in a drawer or with a manager 'for a minute.'"
+        }
+      ],
+      "script": "\"I'll take my keys back now — you've had enough time to look it over.\"",
+      "example": "James let a salesman take his trade-in keys for an 'appraisal' that stretched forty minutes with no update. He walked to the desk and asked for the keys back directly. They appeared in under a minute, and James negotiated the rest of the day from a much stronger position.",
+      "watchFor": "They return your keys immediately without a delay or excuse.",
+      "ifItFails": "They say the manager still has your keys and needs 'a few more minutes.' Don't sit and wait — stand up and walk toward the desk yourself. Say: \"I'll come with you to get them. Let's go now.\"",
+      "counter": "If a salesperson is unusually slow to return your keys, they're using them to keep you seated and compliant.\n• Notice the stall — a real appraisal takes ten minutes, not forty.\n• Stand up. Standing changes the whole tone of the room.\n• Walk toward wherever your keys physically are.",
+      "insight": "Getting your keys back fast proves you can leave — it doesn't mean you will. The real test comes at the price table. Don't push this alone in an empty lot after hours — leave the confrontation and come back another day if it feels unsafe."
+    },
+    {
+      "id": 6,
+      "cat": "negotiating-the-price",
+      "danger": "low",
+      "title": "Negotiate the Total Price First, Nothing Else",
+      "principle": "Isolate the Variable — Cialdini's Contrast Principle Reversed",
+      "remember": "Fight over one number. Total price. Nothing else yet.",
+      "hook": "Every extra variable in the room works against you. <strong>One number is easy to compare. Four numbers are easy to hide inside.</strong>",
+      "truth": "Dealers want to negotiate four things at once: price, trade-in, financing, monthly payment.\n• Juggling four numbers lets them move money between them where you can't see it.\n• A loss on price gets hidden inside a 'generous' trade-in offer.\n• Lock the purchase price alone before any other number enters the room.",
+      "when": "The salesperson starts talking trade-in value or monthly payment before you've agreed on a price.",
+      "theySee": "A buyer trying to keep four moving numbers straight — and losing track.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Number shuffle",
+          "t": "They shift the topic to your trade-in the moment price talk gets tense."
+        },
+        {
+          "icon": "🧮",
+          "l": "Payment pivot",
+          "t": "They ask what payment you want instead of confirming the price."
+        },
+        {
+          "icon": "📎",
+          "l": "All-in-one form",
+          "t": "They hand you a worksheet with four blank boxes at once."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State the rule out loud",
+          "desc": "Tell them you'll only discuss the purchase price for now, nothing else."
+        },
+        {
+          "n": "2",
+          "title": "Redirect every off-topic question",
+          "desc": "Answer trade-in or payment questions with 'let's finish the price first.'"
+        },
+        {
+          "n": "3",
+          "title": "Get the price on paper before moving on",
+          "desc": "Ask for the agreed number written down before discussing anything else."
+        }
+      ],
+      "script": "\"Let's settle the price first. Trade-in and financing come after, one at a time.\"",
+      "example": "Nadia's salesman kept steering toward her trade-in value every time she pushed on price. She said, flatly, 'One number at a time — price first,' three times in a row. He finally wrote a purchase price on paper before the trade-in came up again.",
+      "watchFor": "They stop bringing up the other numbers and just answer on price.",
+      "ifItFails": "They claim they can't quote a price without knowing your trade-in and financing plan. That's false — every dealer can price a car alone. Say: \"Then quote me as a cash buyer with no trade. We'll add the rest after.\"",
+      "counter": "If a salesperson insists on bundling all the numbers together, they're hiding room to move money between them.\n• Watch for any worksheet with more than one blank number.\n• Ask for each number in writing, one at a time.\n• Refuse to sign anything that combines more than one variable.",
+      "insight": "Locking the price first doesn't finish the deal — it just removes their best hiding spot. The trade-in and financing tables are where the same shuffle happens next, and you'll need this same rule there too."
+    },
+    {
+      "id": 7,
+      "cat": "negotiating-the-price",
+      "danger": "low",
+      "title": "Open Below Your Real Target",
+      "principle": "Anchoring Bias",
+      "remember": "Say a low number first. It drags the whole deal down.",
+      "hook": "Whoever names a number first sets the gravity for the whole conversation. <strong>Aim low. The final price lands near wherever you start.</strong>",
+      "truth": "The first number spoken pulls every later number toward it.\n• A high sticker price anchors you before you say a word.\n• Naming your own low number resets the anchor in your favor.\n• Go below invoice, not at it — you need room to be talked up.",
+      "when": "The salesperson asks 'What are you thinking?' before naming their own number.",
+      "theySee": "A buyer opening low, testing how much room actually exists in the deal.",
+      "signals": [
+        {
+          "icon": "😮",
+          "l": "Mock surprise",
+          "t": "They act shocked or laugh at your opening number, on purpose."
+        },
+        {
+          "icon": "📞",
+          "l": "Manager check",
+          "t": "They say they need to 'check with my manager' right after your number."
+        },
+        {
+          "icon": "⏳",
+          "l": "Slow walk",
+          "t": "They pause for a long time before responding to your first offer."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Calculate a number below invoice",
+          "desc": "Pick a number a few hundred dollars under the invoice price you found."
+        },
+        {
+          "n": "2",
+          "title": "Say it first, calmly",
+          "desc": "State your number before they state theirs, without an apology in your voice."
+        },
+        {
+          "n": "3",
+          "title": "Stay quiet after you say it",
+          "desc": "Let them respond first. Don't soften your own number out of discomfort."
+        }
+      ],
+      "script": "\"I can do $25,800 out the door, today, if the numbers work.\"",
+      "example": "Tom found invoice at $26,400 on a Civic and opened at $25,700. The salesman scoffed and countered at $27,200. They met at $26,300 — a hundred dollars under invoice, because Tom's opening number dragged the whole negotiation down with it.",
+      "watchFor": "Their counter-offer comes in lower than their original asking price, unprompted.",
+      "ifItFails": "They refuse to counter and repeat the sticker price flatly. Don't raise your number yet — ask why the gap is so large. Say: \"Walk me through what's in that gap. I want to see the math.\"",
+      "counter": "If a salesperson opens with a number far above sticker or invoice, they're anchoring you high on purpose.\n• Notice a first number that feels aggressive — that's the point.\n• Don't counter near it. Counter near your own researched number.\n• Say the invoice number out loud to reset the anchor yourself.",
+      "insight": "Anchoring low gets you a better starting point, not a finished deal — the four-square worksheet is where they try to win the anchor back. That's the next trap, and it looks like paperwork, not a tactic."
+    },
+    {
+      "id": 8,
+      "cat": "negotiating-the-price",
+      "danger": "low",
+      "title": "Refuse the Four-Square Worksheet",
+      "principle": "Decoy Effect — Choice Obfuscation",
+      "remember": "Don't let them fill four boxes. Ask for one number.",
+      "hook": "Four blank boxes on one sheet look organized. <strong>They're built so you can't see which one they moved the money into.</strong>",
+      "truth": "The four-square worksheet splits price, trade, down payment, and payment into boxes.\n• A loss in one box gets buried by a gain shown in another box.\n• Most buyers only check the payment box at the bottom.\n• Ask for the out-the-door price on one line, nothing else.",
+      "when": "A salesperson slides a worksheet across the table with four numbered boxes.",
+      "theySee": "A buyer flipping past the worksheet, asking for a single bottom-line number instead.",
+      "signals": [
+        {
+          "icon": "🗂️",
+          "l": "Four boxes",
+          "t": "The sheet has separate boxes for price, trade, down payment, and payment."
+        },
+        {
+          "icon": "✏️",
+          "l": "Pencil math",
+          "t": "They write numbers in pencil, easy to erase and change mid-conversation."
+        },
+        {
+          "icon": "👉",
+          "l": "Bottom box focus",
+          "t": "They tap only the monthly payment box while talking, ignoring the rest."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Push the sheet back",
+          "desc": "Slide it back across the table and ask for one number instead."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the out-the-door price",
+          "desc": "Request the total price including taxes and fees, on a single line."
+        },
+        {
+          "n": "3",
+          "title": "Do your own math off that one number",
+          "desc": "Compare that single number to your researched target, nothing else."
+        }
+      ],
+      "script": "\"I don't need four boxes. What's the total out-the-door price, one number?\"",
+      "example": "Sam's dealer pushed a four-square sheet showing a low $340 payment. Sam pushed it back and asked for the out-the-door price alone. It came back at $2,000 more than his target — the payment box had been hiding a longer loan term the whole time.",
+      "watchFor": "They stop referencing the worksheet and start quoting a single total number.",
+      "ifItFails": "They say the worksheet is 'just how we do the math here.' Don't argue their process — ask for your own version on paper. Say: \"Then write me a one-line quote: total price, tax, fees. I'll do my own math.\"",
+      "counter": "If someone hands you any negotiation on a multi-box worksheet, they're hiding the trade between boxes.\n• Notice more than one blank number on the same sheet.\n• Ask which single number the whole deal reduces to.\n• Do the total math yourself before agreeing to anything.",
+      "insight": "Refusing the worksheet keeps the deal in one column, but it doesn't stop them from folding hidden costs into that single total. The next fight is not letting the word 'payment' replace the word 'price' at all."
+    },
+    {
+      "id": 9,
+      "cat": "negotiating-the-price",
+      "danger": "low",
+      "title": "Say Your Number, Then Stop Talking",
+      "principle": "Voss — The Power of Silence After an Offer",
+      "remember": "State your price once. Then close your mouth.",
+      "hook": "The person who talks first after a number loses ground. <strong>Silence after your offer is pressure they have to answer, not you.</strong>",
+      "truth": "Most buyers fill silence with justification, weakening their own offer.\n• Talking after your number signals you're not sure about it.\n• Silence forces the other side to respond or counter.\n• Whoever breaks the silence first usually moves first.",
+      "when": "You just stated your price and the salesperson hasn't responded yet.",
+      "theySee": "A buyer who said a number and then just waited, comfortable with the quiet.",
+      "signals": [
+        {
+          "icon": "🤐",
+          "l": "Uncomfortable pause",
+          "t": "They shift in their seat or look away during the silence."
+        },
+        {
+          "icon": "📱",
+          "l": "Fake distraction",
+          "t": "They check their phone or a screen to avoid responding right away."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Early crack",
+          "t": "You feel the urge to add 'but I could go a little higher' — that's the trap."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say your number once, flatly",
+          "desc": "State the price in one sentence with no hedge words attached."
+        },
+        {
+          "n": "2",
+          "title": "Fold your hands and wait",
+          "desc": "Physically stop moving your mouth. Let the silence sit in the room."
+        },
+        {
+          "n": "3",
+          "title": "Let them speak next, no matter how long it takes",
+          "desc": "Wait past the point of discomfort — they will break first."
+        }
+      ],
+      "script": "\"$26,300, out the door. That's my number.\"",
+      "example": "Ben stated his number and then said nothing else for eleven seconds. The salesman, uncomfortable, said 'Let me see what I can do' and came back two thousand dollars closer than his last position — without Ben saying another word.",
+      "watchFor": "They speak again before you do, even just to say 'let me check.'",
+      "ifItFails": "They out-wait you and stay silent longer than you expected. Don't cave and raise your offer just to fill the air. Say: \"Take your time. I've got nowhere to be.\"",
+      "counter": "If a salesperson goes silent after their own number, they're using the same tactic on you.\n• Recognize the pause as pressure, not an accident.\n• Don't fill it with an apology or a higher counter.\n• Ask a question instead of speaking a number: \"What's making that number what it is?\"",
+      "insight": "Silence wins you room on price, but it runs out the moment the number moves to a monthly payment — a place where silence stops working because the math gets buried in a different unit entirely."
+    },
+    {
+      "id": 10,
+      "cat": "not-the-payment",
+      "danger": "low",
+      "title": "Refuse to Discuss Monthly Payment",
+      "principle": "Loss Aversion — Unit Obfuscation",
+      "remember": "Never say a monthly number out loud. Talk total price only.",
+      "hook": "A monthly payment hides everything that matters: the loan term, the rate, the total cost. <strong>Small monthly numbers are how big prices disappear.</strong>",
+      "truth": "A payment can be made small by stretching the loan longer, not by lowering the price.\n• The question 'what payment works for you?' skips the actual price entirely.\n• Answering it hands them full control of term length and rate.\n• Answer with a price question every single time they ask about payment.",
+      "when": "The salesperson asks what monthly payment you're comfortable with.",
+      "theySee": "A buyer who redirects every payment question back to the total price, calmly.",
+      "signals": [
+        {
+          "icon": "💵",
+          "l": "Payment-first ask",
+          "t": "They ask about your monthly budget before any price is agreed."
+        },
+        {
+          "icon": "📉",
+          "l": "Suspiciously low number",
+          "t": "They offer a payment that seems too low for the price you expect."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat redirect",
+          "t": "They keep steering back to payment even after you answer with price."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Prepare one redirect line",
+          "desc": "Have a single sentence ready that turns payment questions back to price."
+        },
+        {
+          "n": "2",
+          "title": "Use it every time, word for word",
+          "desc": "Repeat the same redirect line, calmly, no matter how many times they ask."
+        },
+        {
+          "n": "3",
+          "title": "Only discuss payment after price and term are fixed",
+          "desc": "Wait until the total price and loan term are both agreed and written down."
+        }
+      ],
+      "script": "\"I'm not shopping payment. What's the out-the-door price?\"",
+      "example": "Lupe's dealer asked three separate times what payment felt comfortable. Each time she said, 'Let's finish the price first,' without variation. The dealer gave up on the payment angle and quoted her a real price twenty minutes in.",
+      "watchFor": "They stop asking about payment and start quoting a price instead.",
+      "ifItFails": "They insist they can't move forward without a payment target. That's not true — a price and a loan term are enough to build any deal. Say: \"Then quote me 60 months at your best rate. I'll do the payment math myself.\"",
+      "counter": "If someone pressures you with 'what payment works for you,' they're steering you away from price.\n• Recognize the question as a redirect, not a real ask.\n• Answer with the price you want, not a monthly figure.\n• Hold that line even if they repeat the question.",
+      "insight": "Refusing to talk payment protects the price, but the term of the loan is still an open door they can use — a 72-month loan makes almost any price feel affordable on paper. The next card is where that door gets closed."
+    },
+    {
+      "id": 11,
+      "cat": "not-the-payment",
+      "danger": "low",
+      "title": "Do Your Own Loan Math Before You Sit Down",
+      "principle": "Anchoring — Pre-Committed Numbers",
+      "remember": "Know your own monthly number before they say theirs.",
+      "hook": "If you don't know what your price and rate should cost per month, you'll accept whatever number sounds close. <strong>Their calculator and your calculator should never disagree by more than a few dollars.</strong>",
+      "truth": "A loan payment is just price, rate, and term — nothing mysterious.\n• Most buyers never run the math and trust the screen in front of them.\n• A finance manager can stretch the term to hit almost any payment.\n• Calculate your own number with a loan calculator before you're in the room.",
+      "when": "You're about to see a monthly payment number on a screen in the finance office.",
+      "theySee": "A buyer holding their own printed loan math, checking it against the screen.",
+      "signals": [
+        {
+          "icon": "🖥️",
+          "l": "Screen-only math",
+          "t": "They show you a payment on a screen but won't print the amortization schedule."
+        },
+        {
+          "icon": "📆",
+          "l": "Term surprise",
+          "t": "The term on screen is longer than the term you asked for."
+        },
+        {
+          "icon": "🧾",
+          "l": "No breakdown",
+          "t": "They refuse to break the payment into principal, interest, and fees."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Run the numbers at home first",
+          "desc": "Use a free loan calculator with your target price, rate, and term."
+        },
+        {
+          "n": "2",
+          "title": "Print or write your expected payment down",
+          "desc": "Bring a paper with your own number before you sit in the finance office."
+        },
+        {
+          "n": "3",
+          "title": "Compare, don't trust",
+          "desc": "Hold your number next to their screen number and ask about any gap."
+        }
+      ],
+      "script": "\"My math says $412 a month at this rate and term. Yours says $460. Where's the gap?\"",
+      "example": "Whitney calculated $412 a month at home for her target deal. The finance office screen showed $460. She asked where the gap was — it turned out the term had quietly stretched from 60 to 72 months. She caught it before signing.",
+      "watchFor": "They recalculate on the spot once you name your own number.",
+      "ifItFails": "They blame the gap on 'taxes and fees' without specifics. Ask for the line-item breakdown printed on paper. Say: \"Print the amortization schedule. I want to see where every dollar goes.\"",
+      "counter": "If someone quotes you a payment with no term or rate attached, they're hiding the real cost inside the number.\n• Never accept a payment number alone — always ask for term and rate.\n• Run your own math before comparing anything they show you.\n• Ask for a printed schedule if the numbers don't match.",
+      "insight": "Doing your own math catches the gap, but it doesn't stop them from trying to stretch the term itself — the next move is watching for that stretch directly, before it ever shows up as a mismatch."
+    },
+    {
+      "id": 12,
+      "cat": "not-the-payment",
+      "danger": "low",
+      "title": "Reject the 84-Month Loan",
+      "principle": "Sunk-Cost / Loss Aversion Trap",
+      "remember": "A longer loan hides a bigger price. Cap your term at 60 months.",
+      "hook": "Stretching a loan to seven years makes any price feel small each month. <strong>The car is worth less than the loan for most of that time.</strong>",
+      "truth": "A longer term lowers the monthly number but raises the total interest paid.\n• At 84 months, you often owe more than the car is worth for years.\n• Selling or trading early leaves you paying off a car you don't have.\n• Cap your term at 60 months, 48 if you can manage the payment.",
+      "when": "The finance office offers a 72- or 84-month term to make the payment look smaller.",
+      "theySee": "A buyer who names a maximum term up front and won't move off it.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Term stretch",
+          "t": "They quote a 72- or 84-month term without you asking for it."
+        },
+        {
+          "icon": "🔄",
+          "l": "Trade-in trap talk",
+          "t": "They mention you can 'just trade in whenever' as if the loan resets cleanly."
+        },
+        {
+          "icon": "🧊",
+          "l": "Cold total",
+          "t": "They avoid saying the total interest paid over the full term."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State your term cap before numbers appear",
+          "desc": "Tell them your maximum term is 60 months before financing starts."
+        },
+        {
+          "n": "2",
+          "title": "Ask for total interest paid, not just the payment",
+          "desc": "Request the full interest cost printed for any term they propose."
+        },
+        {
+          "n": "3",
+          "title": "Reject any term above your cap outright",
+          "desc": "Say no to 72 or 84 months even if the payment number is tempting."
+        }
+      ],
+      "script": "\"60 months, max. If the payment doesn't work at 60, we adjust the price, not the term.\"",
+      "example": "Rafael's finance manager offered 84 months at a payment $80 lower than 60 months. Rafael said his cap was 60 months, period. They renegotiated the price down $600 instead of stretching the loan — a real saving instead of a longer trap.",
+      "watchFor": "They stop offering the longer term and start working the price or rate instead.",
+      "ifItFails": "They say the payment only works at a longer term, full stop. Don't accept it — walk the price down instead of the term up. Say: \"Then the price needs to come down, not the term go up. Let's revisit the price.\"",
+      "counter": "If someone frames a longer loan as 'more flexible,' they're hiding the real cost of extra years of interest.\n• Notice any term over 60 months offered without you asking.\n• Ask for total interest paid over the full term, in dollars.\n• Hold your term cap even when the payment number looks better.",
+      "insight": "Capping the term protects you from the loan, but the trade-in still has its own version of this trap — a car worth less than its loan balance is a hole you carry into the next deal."
+    },
+    {
+      "id": 13,
+      "cat": "the-trade-in",
+      "danger": "low",
+      "title": "Get Your Trade-In Value Somewhere Else First",
+      "principle": "Information Asymmetry",
+      "remember": "Know your trade-in's worth before you ever mention it.",
+      "hook": "The dealer sets your trade-in value with no outside number to check it against. <strong>Whoever names the number first controls it.</strong>",
+      "truth": "A trade-in value quoted in-house has zero outside reference for you.\n• Most buyers accept whatever number the dealer says, unchecked.\n• Getting quotes elsewhere first gives you a real floor to compare against.\n• Get two independent offers before you ever mention a trade-in exists.",
+      "when": "You plan to trade in your current car as part of this deal.",
+      "theySee": "A buyer holding two outside offers, unwilling to accept the first number given.",
+      "signals": [
+        {
+          "icon": "🔢",
+          "l": "Lowball open",
+          "t": "Their first trade-in number comes in under every online estimate."
+        },
+        {
+          "icon": "🚫",
+          "l": "No written offer",
+          "t": "They refuse to put the trade-in number in writing."
+        },
+        {
+          "icon": "⏲️",
+          "l": "Time pressure",
+          "t": "They say the trade-in offer is 'only good today.'"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get an online instant-offer quote",
+          "desc": "Use two separate online trade-in tools for a real number range."
+        },
+        {
+          "n": "2",
+          "title": "Get one in-person competing offer",
+          "desc": "Visit or call a different dealer or a we-buy-cars shop for a real quote."
+        },
+        {
+          "n": "3",
+          "title": "Bring the highest number as your floor",
+          "desc": "Use the best outside offer as your minimum acceptable trade-in value."
+        }
+      ],
+      "script": "\"CarMax already offered me $14,200 for it. I need at least that.\"",
+      "example": "Danny got a $14,200 online offer and a $13,900 in-person offer before visiting his target dealer. The dealer opened at $11,500. Danny showed the CarMax offer and the dealer matched it in under two minutes, rather than lose the whole sale.",
+      "watchFor": "Their trade-in offer jumps up the moment you show a competing number.",
+      "ifItFails": "They say outside offers 'don't count' or claim your car has damage that lowers the value. Ask them to put their reason in writing, itemized. Say: \"List the specific damage and the dollar amount for each item.\"",
+      "counter": "If a dealer tells you outside quotes 'don't apply here,' they're hoping you don't have proof in hand.\n• Bring the written or printed outside offer with you, not just a memory of the number.\n• Ask them to beat it in writing, not verbally.\n• Walk if they won't match a real competing offer.",
+      "insight": "An outside number protects the trade-in value, but it says nothing about when in the conversation you reveal it — reveal it too early and it gets folded into the price fight before the price is even settled."
+    },
+    {
+      "id": 14,
+      "cat": "the-trade-in",
+      "danger": "low",
+      "title": "Settle the Purchase Price Before You Mention a Trade-In",
+      "principle": "Isolate the Variable",
+      "remember": "Finish the price talk first. Bring up your trade-in last.",
+      "hook": "Mention your trade-in too early and the whole deal turns into one blended number you can't check. <strong>Two negotiations at once is one negotiation you can't win.</strong>",
+      "truth": "A dealer who knows about your trade-in early can move money between the two numbers.\n• A weak price gets disguised by an inflated trade-in offer, and vice versa.\n• Keeping them separate lets you check each number against its own market.\n• Say 'I may have a trade' only after the purchase price is locked.",
+      "when": "You have a trade-in and you're about to start negotiating the price of the new car.",
+      "theySee": "A buyer negotiating price like a cash deal, trade-in nowhere in the conversation yet.",
+      "signals": [
+        {
+          "icon": "🚗",
+          "l": "Early trade ask",
+          "t": "They ask if you have a trade-in before any price discussion starts."
+        },
+        {
+          "icon": "🔗",
+          "l": "Bundled offer",
+          "t": "They present one combined number instead of two separate ones."
+        },
+        {
+          "icon": "🎭",
+          "l": "Generous trade, weak price",
+          "t": "They offer a surprisingly high trade-in value paired with a weak price discount."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer 'maybe' if asked early about a trade",
+          "desc": "Don't confirm or deny a trade-in until price is locked."
+        },
+        {
+          "n": "2",
+          "title": "Lock the purchase price in writing first",
+          "desc": "Get the agreed price on paper before the trade-in enters the room."
+        },
+        {
+          "n": "3",
+          "title": "Reveal the trade-in only after that",
+          "desc": "Bring in your researched trade-in value once the price is already settled."
+        }
+      ],
+      "script": "\"Let's finish the price first. I'll tell you about a possible trade after.\"",
+      "example": "Grace's dealer asked about a trade-in on question two of the visit. She said 'maybe, we'll get there' and pushed through the full price negotiation first. Only once the price was written down did she reveal her trade-in — and the dealer had no room left to bury a discount inside it.",
+      "watchFor": "They stop pushing the trade-in topic and focus fully on price.",
+      "ifItFails": "They refuse to quote a price without knowing your trade-in situation. Push back — ask for a cash price as if there's no trade at all. Say: \"Quote me like I'm paying cash, no trade. We'll add that number after.\"",
+      "counter": "If a dealer pushes hard to know about your trade-in before pricing the car, they're setting up to blend the two numbers.\n• Notice the early ask — it's a setup, not small talk.\n• Delay confirming a trade-in until price is settled.\n• Get the price in writing before the trade-in enters the room.",
+      "insight": "Keeping the two numbers apart stops the blend, but it doesn't stop a different trap waiting underneath your trade-in — what you still owe on it, which changes the whole math again."
+    },
+    {
+      "id": 15,
+      "cat": "the-trade-in",
+      "danger": "low",
+      "title": "Know What You Owe Before You Trade",
+      "principle": "Loss Aversion — Negative Equity Trap",
+      "remember": "Check your payoff amount. A trade-in can hide old debt inside a new loan.",
+      "hook": "If you owe more than your car is worth, that gap doesn't disappear — it gets rolled into your new loan. <strong>You can end up paying for a car you don't drive anymore.</strong>",
+      "truth": "Negative equity from an old loan gets added onto the price of the new car.\n• Dealers roll the gap in quietly, calling it part of the 'deal.'\n• You end up financing two cars' worth of debt on one car.\n• Call your lender for the exact payoff amount before you trade anything in.",
+      "when": "You still owe money on your current car and plan to trade it toward a new one.",
+      "theySee": "A buyer who knows their exact payoff number and asks where that gap goes in the new deal.",
+      "signals": [
+        {
+          "icon": "➕",
+          "l": "Silent rollover",
+          "t": "The new loan amount is higher than the new car's price alone would explain."
+        },
+        {
+          "icon": "🙊",
+          "l": "Vague payoff talk",
+          "t": "They say 'don't worry, we'll handle the payoff' without showing the number."
+        },
+        {
+          "icon": "📄",
+          "l": "Missing gap line",
+          "t": "The paperwork doesn't show a separate line for negative equity rolled in."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Call your lender for today's exact payoff",
+          "desc": "Get the precise number, not an estimate from memory."
+        },
+        {
+          "n": "2",
+          "title": "Compare it to your trade-in's real value",
+          "desc": "Subtract the payoff from your researched trade-in value to see the actual gap."
+        },
+        {
+          "n": "3",
+          "title": "Ask exactly where that gap number appears on the new contract",
+          "desc": "Require a specific, separate line item for any rolled-in negative equity."
+        }
+      ],
+      "script": "\"I owe $9,200. My trade is worth $8,000. Where does that $1,200 gap show up on paper?\"",
+      "example": "Olivia owed $9,200 on her old car, worth $8,000 in trade. She asked exactly where the $1,200 gap would appear before signing. It turned up added straight to the new loan balance — and seeing it in writing let her decide whether the whole deal still made sense.",
+      "watchFor": "They point to a specific line item instead of saying 'it's all worked in.'",
+      "ifItFails": "They can't or won't show you the specific line for the rolled-in gap. Don't sign until they do — ask for the full contract to review off the lot. Say: \"I need to see the exact number in writing before I sign anything.\"",
+      "counter": "If a dealer says 'don't worry about the payoff, we'll fold it in,' they're hiding your old debt inside your new loan.\n• Notice vague reassurance replacing an actual number.\n• Ask for the specific dollar gap, in writing, every time.\n• Walk away from any 'we'll figure it out later' answer.",
+      "insight": "Knowing your payoff protects you from a bad trade, but the price, the trade, and the financing all still show up on one final contract — and that's where every number you fought for has to survive together."
+    },
+    {
+      "id": 16,
+      "cat": "kept-separate",
+      "danger": "low",
+      "title": "Never Let Them Combine the Three Deals",
+      "principle": "Isolate the Variable — Compartmentalization",
+      "remember": "Keep price, trade, and loan as three separate deals. Never one.",
+      "hook": "A dealer wants one blended number because three separate numbers are three separate places you can catch them. <strong>Combined math is where a bad trade hides behind a good price.</strong>",
+      "truth": "There are always three deals: the price, the trade-in, and the financing.\n• Blending them into one 'deal' lets a loss in one hide inside a gain in another.\n• Most buyers only ever see the combined bottom line, never the parts.\n• Demand each number, separately, in writing, before combining anything.",
+      "when": "You've negotiated price, trade-in, and financing but they're only showing you one final number.",
+      "theySee": "A buyer asking for three separate slips of paper instead of one combined total.",
+      "signals": [
+        {
+          "icon": "🧩",
+          "l": "One-number pitch",
+          "t": "They present only a single bottom-line total, no breakdown offered."
+        },
+        {
+          "icon": "🙅",
+          "l": "Breakdown resistance",
+          "t": "They resist writing the three numbers separately when asked."
+        },
+        {
+          "icon": "🔀",
+          "l": "Moving math",
+          "t": "A number that seemed settled earlier has quietly changed in the final total."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the purchase price on its own line",
+          "desc": "Request the agreed car price written by itself, no trade or loan mixed in."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the trade-in value on its own line",
+          "desc": "Request the trade-in number written separately, with no price adjustment attached."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the loan terms on their own line",
+          "desc": "Request rate, term, and monthly payment written apart from the other two numbers."
+        }
+      ],
+      "script": "\"Show me three numbers: price, trade, and loan terms. Not one total.\"",
+      "example": "Curtis's finalized paperwork showed one number: $410 a month. He asked for the three numbers separately before signing. The price had crept up $800 from what he'd agreed, hidden by a trade-in value that had also gone up to match — a wash that would've gone unnoticed.",
+      "watchFor": "They write out three separate numbers without more resistance.",
+      "ifItFails": "They claim the numbers 'can't be separated once it's all one loan.' That's not true on paper — every contract itemizes these. Say: \"Then show me the itemized contract. It lists these separately by law.\"",
+      "counter": "If someone shows you only a bottom-line number for a deal with multiple parts, they're hiding movement between the parts.\n• Notice a single total where you expect three components.\n• Ask for each piece written out separately, every time.\n• Compare each piece against the number you already agreed to.",
+      "insight": "Keeping the deals separate exposes any hidden movement, but paper is only proof if you actually read it — the next problem is making sure the separate numbers on the sheet match the separate numbers in the actual contract."
+    },
+    {
+      "id": 17,
+      "cat": "kept-separate",
+      "danger": "low",
+      "title": "Get Every Agreed Number In Writing, Same Day",
+      "principle": "Commitment and Consistency — Cialdini",
+      "remember": "Write it down before you leave the desk. Memory bends. Paper doesn't.",
+      "hook": "A verbal agreement can quietly shift by the time you reach the finance office. <strong>Paper is the only thing a dealership can't argue with later.</strong>",
+      "truth": "Numbers agreed out loud have no weight once you leave the desk.\n• A verbal 'yes' from a salesperson can be renegotiated by a manager later.\n• Written numbers are the only version that survives the walk to financing.\n• Ask for a signed printout of every number before moving to the next room.",
+      "when": "You've just agreed on a price, trade-in value, or loan term out loud.",
+      "theySee": "A buyer who won't leave the negotiating desk without a signed slip of paper.",
+      "signals": [
+        {
+          "icon": "🤝",
+          "l": "Verbal-only close",
+          "t": "They shake your hand on a number but never write anything down."
+        },
+        {
+          "icon": "🚪",
+          "l": "Room change stall",
+          "t": "They rush you to 'go see finance' before printing the agreed numbers."
+        },
+        {
+          "icon": "🔁",
+          "l": "Number drift",
+          "t": "A number that was agreed at the desk changes slightly once you reach the next room."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for a printed worksheet with the agreed numbers",
+          "desc": "Request price, trade-in, and terms printed before you stand up."
+        },
+        {
+          "n": "2",
+          "title": "Check it matches what was said out loud",
+          "desc": "Read the printout against your own notes before moving rooms."
+        },
+        {
+          "n": "3",
+          "title": "Bring that paper into every following room",
+          "desc": "Carry it into financing and reference it if any number shifts."
+        }
+      ],
+      "script": "\"Before we move to financing, print me the agreed numbers. I want it in writing.\"",
+      "example": "Yusuf agreed to a $24,900 price out loud, shook hands, and walked toward the finance office. He stopped and asked for a printed sheet first. The number on it read $25,300 — a mistake, they said. He caught it before signing anything permanent.",
+      "watchFor": "They print the exact number you agreed to without any pushback or delay.",
+      "ifItFails": "They say they 'don't have a printer available right now' or stall on giving you paper. Don't move rooms until you have it — sit down again. Say: \"I'll wait here until I have that in writing.\"",
+      "counter": "If a salesperson pushes you toward the next room before printing anything, they're hoping the number drifts unnoticed.\n• Notice any rush to move rooms right after a verbal agreement.\n• Refuse to move until the number is printed and matches.\n• Keep that paper in your hand for every room after.",
+      "insight": "A signed sheet protects the numbers you've already won, but the finance office runs a different game entirely — one built on add-ons you never negotiated for in the first place."
+    },
+    {
+      "id": 18,
+      "cat": "the-finance-office",
+      "danger": "low",
+      "title": "Say No To Every Add-On, First Pass",
+      "principle": "Cialdini — Reciprocity and the Decoy Effect",
+      "remember": "Decline every extra the first time. You can still add it back later.",
+      "hook": "The finance office makes its real money on warranties and add-ons, not the car. <strong>Every extra they pitch pays them more than the car itself.</strong>",
+      "truth": "Extended warranties, paint protection, and gap insurance carry huge markups.\n• The finance manager's job is to sell you these after you're mentally done negotiating.\n• Saying yes in the moment feels easy because you're tired of fighting.\n• Decline everything on the first pass — you can revisit any one item later.",
+      "when": "You're sitting in the finance office and they start listing extra products one by one.",
+      "theySee": "A buyer saying 'no' calmly to every add-on, without needing a reason each time.",
+      "signals": [
+        {
+          "icon": "📜",
+          "l": "Menu pitch",
+          "t": "They read a list of extras like a menu, one after another."
+        },
+        {
+          "icon": "😰",
+          "l": "Fear framing",
+          "t": "They describe a worst-case repair cost to scare you into the warranty."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Fatigue timing",
+          "t": "They pitch add-ons right after the hardest part of price negotiation, when you're worn down."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide before you sit down: no add-ons",
+          "desc": "Commit to declining everything before the finance office pitch even starts."
+        },
+        {
+          "n": "2",
+          "title": "Say 'no' without justifying it",
+          "desc": "Reply 'no, thank you' to each item without explaining your reasoning."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the price without the add-on and compare",
+          "desc": "Request the total both with and without each item, in writing."
+        }
+      ],
+      "script": "\"No to all of it. Just the car and the loan, please.\"",
+      "example": "Ahmed's finance manager pitched an extended warranty, paint protection, and gap insurance back to back. Ahmed said 'no, thank you' to each one without elaborating. The pitch ended in ninety seconds instead of the usual twenty minutes, and his total stayed exactly where he'd negotiated it.",
+      "watchFor": "They move to the next document without repeating the same pitch twice.",
+      "ifItFails": "They repeat the same pitch with a different angle, like a lower price for the warranty. Say no again, the same way, without new justification. Say: \"Still no. Let's move to signing.\"",
+      "counter": "If someone re-pitches the same product with a 'special today only' discount, they're testing if your first no was firm.\n• Notice a repeated pitch after you already declined once.\n• Repeat the same flat 'no,' with no new reasoning.\n• Ask to move to signing if the repeat continues.",
+      "insight": "Declining everything up front keeps your total clean, but the contract itself can still carry a version of these costs baked into the fine print — which is exactly what the next read-through has to catch."
+    },
+    {
+      "id": 19,
+      "cat": "the-finance-office",
+      "danger": "low",
+      "title": "Read Every Page Before You Sign",
+      "principle": "Information Asymmetry — Contract Literacy",
+      "remember": "Read the whole contract. Don't sign from a summary.",
+      "hook": "The numbers on the summary screen and the numbers buried in the contract aren't always the same. <strong>What you don't read is what you agreed to anyway.</strong>",
+      "truth": "Financing paperwork is long on purpose — most buyers skim or skip it.\n• Add-ons declined verbally sometimes still appear pre-checked in the contract.\n• The interest rate and term must match what was verbally agreed.\n• Read every page, checking each number against your own notes.",
+      "when": "The finance manager slides a stack of paper across and hands you a pen.",
+      "theySee": "A buyer actually reading each page, slowing the signing process down on purpose.",
+      "signals": [
+        {
+          "icon": "🖊️",
+          "l": "Pen-first push",
+          "t": "They hand you a pen before you've opened past the signature page."
+        },
+        {
+          "icon": "☑️",
+          "l": "Pre-checked box",
+          "t": "A warranty or add-on box is already checked despite your earlier 'no.'"
+        },
+        {
+          "icon": "🔢",
+          "l": "Rate mismatch",
+          "t": "The interest rate on paper differs from the rate quoted verbally."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for a few minutes alone with the contract",
+          "desc": "Request quiet time to read before anyone stands over your shoulder."
+        },
+        {
+          "n": "2",
+          "title": "Check every number against your notes",
+          "desc": "Compare price, rate, term, and add-ons line by line against what you agreed."
+        },
+        {
+          "n": "3",
+          "title": "Point out any mismatch before signing anything",
+          "desc": "Flag differences out loud and ask for a corrected copy."
+        }
+      ],
+      "script": "\"Give me a few minutes alone with this before I sign.\"",
+      "example": "Beatriz asked for a few minutes alone with the contract. On page three, a $995 paint protection charge appeared, pre-checked, despite her clear 'no' earlier. She pointed it out before signing, and it was removed on the spot.",
+      "watchFor": "They remove or correct the item without argument once you point it out.",
+      "ifItFails": "They claim the item 'auto-applies' and can't be removed after printing. Don't sign — ask for a new document to be printed. Say: \"Then print a corrected version without it. I'm not signing this one.\"",
+      "counter": "If someone rushes you to sign without reading, they're hoping you skip the page that costs you.\n• Notice any pressure to sign quickly or skip pages.\n• Ask for time alone with the document, every time.\n• Check every number against your own written notes.",
+      "insight": "Reading the whole contract catches what's hidden in the paper, but it can't stop the last trick — the pressure to sign fast before you've even opened it. That pressure is its own separate move."
+    },
+    {
+      "id": 20,
+      "cat": "the-finance-office",
+      "danger": "moderate",
+      "title": "Refuse to Be Rushed to Sign",
+      "principle": "Cialdini — Scarcity and Time Pressure",
+      "remember": "Slow down on purpose. Rushing you is the last trick they have.",
+      "hook": "A signature under pressure is worth more to them than one you actually read. <strong>Speed is the last tool left once the numbers are set.</strong>",
+      "truth": "A rushed signature skips the one check that actually protects you: reading.\n• 'Just sign here' language is designed to bypass your attention.\n• The finance office profits when paperwork moves fast and unchecked.\n• Slow the pace down deliberately, no matter how they push.",
+      "when": "The finance manager holds out a pen and says 'just sign here' repeatedly.",
+      "theySee": "A buyer setting the pen down and reading instead of signing on cue.",
+      "signals": [
+        {
+          "icon": "⏩",
+          "l": "Sticky-note signing",
+          "t": "They mark only the signature lines with sticky flags, skipping the rest."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Repeat pressure",
+          "t": "They repeat 'just sign here' more than once in a short span."
+        },
+        {
+          "icon": "👀",
+          "l": "Hovering presence",
+          "t": "They stand over you while you try to read instead of stepping away."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set the pen down",
+          "desc": "Physically put the pen on the table instead of taking it immediately."
+        },
+        {
+          "n": "2",
+          "title": "Say you're reading before signing",
+          "desc": "State plainly that you read every page before you sign anything."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to step back or leave the room",
+          "desc": "Request a few minutes alone with the paperwork, without anyone hovering."
+        }
+      ],
+      "script": "\"I read everything before I sign anything. Give me a few minutes.\"",
+      "example": "Grant's finance manager said 'just sign here' four times in two minutes, flagging only signature lines. Grant set the pen down and said he reads every page first. The manager stepped out, and Grant found the loan term quietly stretched to 72 months before he signed anything.",
+      "watchFor": "They stop repeating the phrase and step back to let you read.",
+      "ifItFails": "They keep hovering and repeating the pressure line. Ask directly for privacy, and hold firm even if it feels awkward. Say: \"I need you to step out while I read this. I'll call you back in.\"",
+      "counter": "If someone repeats 'just sign here' more than once, they're testing whether pressure works better than facts.\n• Notice repetition of the same rushed phrase as a pressure tactic.\n• Set the pen down and state you're reading first.\n• Ask for privacy if the hovering continues.",
+      "insight": "Slowing the room down protects the contract you've already fought for, but it doesn't undo a bad deal you already signed on another day — which is why walking away and coming back is its own separate skill. Don't hold this line if the manager turns hostile or you feel unsafe — leave the office instead."
+    },
+    {
+      "id": 21,
+      "cat": "walking-away-and-coming-back",
+      "danger": "moderate",
+      "title": "Walk Out Mid-Negotiation On Purpose",
+      "principle": "Schelling — Credible Threat of Withdrawal",
+      "remember": "Stand up and leave. It's the strongest thing you can say without words.",
+      "hook": "A dealer's best offer often only appears after you're halfway to the parking lot. <strong>Leaving isn't giving up — it's the loudest offer you can make.</strong>",
+      "truth": "Salespeople are trained to make one more push right as you stand to leave.\n• Standing up signals you're willing to lose the deal, which shifts control.\n• Most 'best and final' offers aren't final until you actually walk.\n• Walk calmly, without anger, keeping the door open for a callback.",
+      "when": "The negotiation has stalled and the salesperson claims they can't go any lower.",
+      "theySee": "A buyer standing up, thanking them, and walking toward the exit without hostility.",
+      "signals": [
+        {
+          "icon": "🚶",
+          "l": "Chase attempt",
+          "t": "They follow you toward the door or parking lot with a new number."
+        },
+        {
+          "icon": "📵",
+          "l": "Manager appearance",
+          "t": "A manager suddenly appears right as you're leaving, with new terms."
+        },
+        {
+          "icon": "📇",
+          "l": "Card push",
+          "t": "They hand you a business card and ask you to call before you drive off."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick your walk-away number in advance",
+          "desc": "Decide the price above which you leave, before you sit down at all."
+        },
+        {
+          "n": "2",
+          "title": "Stand up calmly when you hit it",
+          "desc": "Thank them for their time and stand, without raising your voice."
+        },
+        {
+          "n": "3",
+          "title": "Walk at a normal pace toward the exit",
+          "desc": "Don't rush or look back — a genuine walk-away doesn't need drama."
+        }
+      ],
+      "script": "\"Thanks for your time. This isn't the deal for me today.\"",
+      "example": "Felicia stood up after the dealer wouldn't move off $27,800 against her $26,300 target. She walked calmly toward her car. A manager caught her in the lot with a new offer of $26,500 — five hundred dollars closer than anything offered while she sat at the desk.",
+      "watchFor": "Someone follows you out with a new number before you reach your car.",
+      "ifItFails": "Nobody chases you and you reach your car with no new offer. That's real information — their real floor was above your target. Get in and drive away, then call a different dealership tomorrow with your same number.",
+      "counter": "If a customer stands up to leave and you're the one selling, chasing them with a better number every time trains them to always walk first.\n• Notice if you feel pressure to chase — that's the tactic working on you.\n• Let a genuine walk go, sometimes, to protect your real floor.\n• Only chase with a number you'd have offered anyway.",
+      "insight": "Walking away tests their real floor, but it only works once per visit — do it twice in one day and it reads as a bluff. Don't try this on a one-of-a-kind car with a waiting list — it only works when other lots have the same inventory."
+    },
+    {
+      "id": 22,
+      "cat": "walking-away-and-coming-back",
+      "danger": "low",
+      "title": "Let Them Call You Back",
+      "principle": "Status Asymmetry — Power Reversal",
+      "remember": "Don't call first. Let the dealer chase the sale.",
+      "hook": "The buyer who calls back first hands the power right back over. <strong>Whoever picks up the phone first is asking, not offering.</strong>",
+      "truth": "A dealer who wants the sale will call within a day or two of you walking.\n• Calling them back first signals you were bluffing when you left.\n• Waiting for their call proves your walk-away was real, and worth more.\n• If they call, they're negotiating against themselves already — let them lead.",
+      "when": "You walked away from a deal yesterday and you're tempted to call and check in.",
+      "theySee": "A buyer who hasn't called, forcing the dealership to make the next move.",
+      "signals": [
+        {
+          "icon": "☎️",
+          "l": "Follow-up call",
+          "t": "The salesperson calls within a day or two with a new number."
+        },
+        {
+          "icon": "📧",
+          "l": "Email chase",
+          "t": "They email a revised offer without you having reached out first."
+        },
+        {
+          "icon": "💤",
+          "l": "Silence test",
+          "t": "No call comes for several days — a real signal about their true floor."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Don't call or email first",
+          "desc": "Resist the urge to check in, even if you liked the car."
+        },
+        {
+          "n": "2",
+          "title": "Let any callback set the new terms",
+          "desc": "Wait for them to name a number before you respond with your own."
+        },
+        {
+          "n": "3",
+          "title": "If no one calls in a few days, try a different dealer",
+          "desc": "Take your same walk-away number to a competing dealership instead."
+        }
+      ],
+      "script": "\"(When they call) Glad you reached out — what's the new number?\"",
+      "example": "Owen walked out on a Tuesday and said nothing for three days. The dealership called Thursday with a price four hundred dollars below his original target, trying to close before the month ended. Owen let them make the offer instead of chasing it himself.",
+      "watchFor": "Their callback offer beats the number you left on the table.",
+      "ifItFails": "No one calls within about a week. That's a real answer — the floor was above your number, or the car sold. Move on to a different dealership with the same price target and research in hand, and say nothing further to the first one.",
+      "counter": "If a dealership never calls back after you walk, don't read desperation into your own silence and cave first.\n• Notice the itch to call them 'just to check' — that's you giving power back.\n• Set a personal rule: no contact for at least three full days.\n• Treat their silence as real data about their actual floor, not rejection.",
+      "insight": "Letting them call first proves your walk-away was real, but it only pays off if you actually meant it — the whole deal, from the invoice price on day one to this call today, only worked because you were willing to lose it."
+    }
+  ]
+}

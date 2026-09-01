@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 56,
+  "manifestVersion": 57,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -390,7 +390,20 @@
       "url": "playbooks/playbook-srv-beating-the-other-finalist.json",
       "addedAt": "2026-09-01T22:22:09.870Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-buying-a-car-without-getting-played",
+      "title": "Buying a Car Without Getting Played",
+      "theme": "negotiation",
+      "topic": "",
+      "cardCount": 22,
+      "contentVersion": 1,
+      "coverColor": "#7f1d1d",
+      "coverIcon": "🚗",
+      "url": "playbooks/playbook-srv-buying-a-car-without-getting-played.json",
+      "addedAt": "2026-09-01T22:22:55.780Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-01T22:22:09.870Z"
+  "generatedAt": "2026-09-01T22:22:55.780Z"
 }
