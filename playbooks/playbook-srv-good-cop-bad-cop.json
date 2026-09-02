@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "id": "srv-good-cop-bad-cop",
+    "version": "1.0",
+    "title": "Good Cop, Bad Cop",
+    "subtitle": "Defusing the Two-Role Pressure Routine",
+    "description": "A closed dossier on how good cop / bad cop pressure works, how to spot it in real time, and how to kill it before it costs you. Twelve moves, from recognition to aftermath.",
+    "author": "AI",
+    "createdAt": "2026-09-02T17:35:20.186Z",
+    "tags": [
+      "negotiation",
+      "pressure tactics",
+      "dark psychology",
+      "counter-tactics",
+      "reading people"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1C2833",
+    "coverIcon": "🎭",
+    "fromServer": true,
+    "generation": {
+      "topic": "Defusing good-cop / bad-cop pressure",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "recognition",
+      "label": "Recognition",
+      "color": "#C0392B"
+    },
+    {
+      "key": "anchoring",
+      "label": "Anchoring",
+      "color": "#7D3C98"
+    },
+    {
+      "key": "pressure-defense",
+      "label": "Pressure Defense",
+      "color": "#1A5276"
+    },
+    {
+      "key": "counter",
+      "label": "Counter-Moves",
+      "color": "#1E8449"
+    },
+    {
+      "key": "information-control",
+      "label": "Information Control",
+      "color": "#D35400"
+    },
+    {
+      "key": "aftermath",
+      "label": "Aftermath",
+      "color": "#566573"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "recognition",
+      "danger": "low",
+      "title": "Spot the Two-Role Setup Before It Runs",
+      "hook": "Two people walk in together. One attacks, one rescues. <strong>The rescue is the trap.</strong>",
+      "truth": "The bad cop is not the threat — the good cop is. Most people react to the anger and miss the pull.\n• Bad cop creates discomfort. Good cop looks like your way out.\n• You start treating the good cop as your ally, not your opponent.\n• You give ground to please the ally, not because the deal changed.",
+      "principle": "Contrast Effect (Cialdini)",
+      "remember": "Two people, one script. The friendly one is doing the real work.",
+      "theySee": "Two negotiators across the table, one speaking harshly while the other nods with a calm, sympathetic look.",
+      "signals": [
+        {
+          "l": "Hard opening",
+          "t": "One person rejects your first position fast and firmly before any real discussion.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Quick turn",
+          "t": "The second person softens the room right after the first one pushes.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Eye contact shift",
+          "t": "The softer person starts looking at you more, pulling attention away from their partner.",
+          "icon": "👁"
+        },
+        {
+          "l": "Unprompted apology",
+          "t": "The good cop says something like 'I'm sorry about that' without being asked.",
+          "icon": "🤝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Label both people in your notes",
+          "desc": "Write 'good cop' and 'bad cop' next to each person's name before the meeting is five minutes old."
+        },
+        {
+          "n": "2",
+          "title": "Track who speaks after pressure",
+          "desc": "Every time tension rises, write down which person steps in to ease it. Two in a row confirms the pattern."
+        },
+        {
+          "n": "3",
+          "title": "Test the alliance directly",
+          "desc": "Ask the good cop a specific question about deal terms. If they defer to the bad cop, they are coordinating."
+        }
+      ],
+      "script": "\"I notice one of you tends to push hard and the other tends to soften things. That's useful to understand early.\"",
+      "counter": "They will try to hide the coordination. Here is how you know it is real.\n• Both arrive together and one takes a harsher tone from the first sentence.\n• When you ask one a question, the other jumps in before they can answer.\n• After a break, their positions align perfectly with no new information exchanged.",
+      "insight": "Spotting the roles takes about three minutes. The harder part is not warming up to the good cop anyway — even when you know exactly what they are doing."
+    },
+    {
+      "id": 2,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Call the Tactic by Name to Their Face",
+      "hook": "Most dirty moves only work if you stay quiet. <strong>Say the name of the trick out loud and the trick stops working.</strong>",
+      "truth": "Naming the tactic forces them to drop the act or defend it. Either way, you gain ground.\n• The whole routine depends on you not knowing what is happening.\n• Once named, they must deny it or change how they negotiate.\n• Denial makes them look bad. Changing means you set the agenda.",
+      "principle": "Shell: Name It to Defuse It",
+      "remember": "Say the name of the trick and the trick loses its power.",
+      "theySee": "A person across the table calmly telling them exactly what they just did.",
+      "signals": [
+        {
+          "l": "Sudden silence",
+          "t": "Both negotiators go quiet right after you name it.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Posture change",
+          "t": "One or both people shift in their seat or look at each other when you speak.",
+          "icon": "🪑"
+        },
+        {
+          "l": "Voice drops",
+          "t": "The bad cop's tone gets noticeably quieter after being called out.",
+          "icon": "📉"
+        },
+        {
+          "l": "Topic jumps",
+          "t": "They try to move on to a new subject without addressing what you said.",
+          "icon": "↪️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait for the clearest moment",
+          "desc": "Hold your call-out until right after the good cop makes a concession following the bad cop's push. That sequence is the easiest pattern to name."
+        },
+        {
+          "n": "2",
+          "title": "Say it flat, not angry",
+          "desc": "Deliver the line in a neutral voice. Anger makes you look reactive. Flat makes you look like you see this every day."
+        },
+        {
+          "n": "3",
+          "title": "Redirect to one deal question",
+          "desc": "Right after naming the tactic, ask one specific question about terms to pull attention back to the real work."
+        }
+      ],
+      "script": "\"It looks to me like you two are running good cop, bad cop. I'd rather work this out in a more straightforward way — can we do that?\"",
+      "counter": "If someone names your tactic back at you, do not deny it defensively.\n• Say you are simply each sharing a different perspective — that is the cleanest exit.\n• Shift immediately to a direct question about terms to regain control of the room.\n• If they called it right, the dynamic is already broken. Adjust and move on.",
+      "insight": "The risk is that you are wrong. If they were not coordinating, you have accused two people of lying. Call it only when you have seen the switch happen at least twice."
+    },
+    {
+      "id": 3,
+      "cat": "anchoring",
+      "danger": "moderate",
+      "title": "Don't Let the Friendly One Pull Your Concessions",
+      "hook": "You start trusting the good cop. <strong>That trust costs you money.</strong>",
+      "truth": "The good cop's job is to get you to like them. Liking people makes you give things away.\n• You offer concessions to protect a relationship that does not exist yet.\n• The good cop's warm tone feels like progress. The deal terms have not moved.\n• Every good feeling you have toward them is a concession you have not made yet.",
+      "principle": "Cialdini: Liking Bias",
+      "remember": "Liking the person across the table is not a reason to move your number.",
+      "theySee": "A negotiator speaking warmly while the person across the table leans forward and starts nodding.",
+      "signals": [
+        {
+          "l": "Shared joke",
+          "t": "The good cop makes a lighthearted comment and you both laugh.",
+          "icon": "😄"
+        },
+        {
+          "l": "First-name use",
+          "t": "The good cop starts using your first name more often than before.",
+          "icon": "🏷"
+        },
+        {
+          "l": "Small agreement",
+          "t": "The good cop agrees with a minor point you make, building a yes pattern.",
+          "icon": "✅"
+        },
+        {
+          "l": "Private side talk",
+          "t": "The good cop draws you into a quieter exchange that feels separate from the bad cop.",
+          "icon": "🗣"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your floor before they speak",
+          "desc": "Put your walk-away number on paper before the meeting starts. Look at it when the good cop is talking."
+        },
+        {
+          "n": "2",
+          "title": "Ask if the terms actually moved",
+          "desc": "After each exchange with the good cop, ask yourself: did the numbers or conditions change? Warmth is not movement."
+        },
+        {
+          "n": "3",
+          "title": "Match friendliness without moving your number",
+          "desc": "You can be pleasant and firm at the same time. Smile. Then hold your position and say so plainly."
+        }
+      ],
+      "script": "\"I like working with you — that's separate from what I can agree to on the numbers.\"",
+      "counter": "If someone uses warmth to soften you up, focus on the gap between tone and terms.\n• Ask what specifically changed in the offer, not how the conversation feels.\n• A warm room and a bad deal are still a bad deal.\n• Say your target number out loud again to anchor yourself back in the room.",
+      "insight": "The liking effect works fastest when you are alone with one good cop and no bad cop in sight. The routine does not need two people to run — it just needs you to forget you are in a negotiation."
+    },
+    {
+      "id": 4,
+      "cat": "anchoring",
+      "danger": "low",
+      "title": "Judge Their Offer Against Your Walk-Away Point, Not Their Tone",
+      "hook": "The good cop's offer sounds great compared to the bad cop. <strong>It should be compared to your best option if you walk out.</strong>",
+      "truth": "Relief from pressure makes a bad offer feel good. Your walk-away point does not care about the room temperature.\n• You measure the offer against the bad cop's extreme — not your real options.\n• The contrast makes a mediocre deal look like a win.\n• Your best option outside this room is the only honest measuring stick.",
+      "principle": "Fisher & Ury: BATNA",
+      "remember": "Measure the deal against your best outside option, not their bad cop.",
+      "theySee": "A negotiator writing a number on paper right after the good cop made an offer that sounded much better than what the bad cop had demanded.",
+      "signals": [
+        {
+          "l": "Shoulders drop",
+          "t": "You notice your body relax when the good cop speaks — the tactic is working on you.",
+          "icon": "😮‍💨"
+        },
+        {
+          "l": "High first ask",
+          "t": "The bad cop's opening number was extreme, which makes the good cop's number seem fair by comparison.",
+          "icon": "📊"
+        },
+        {
+          "l": "Time limit added",
+          "t": "The good cop says this offer is only good for a short time.",
+          "icon": "⏱"
+        },
+        {
+          "l": "Contrast reminder",
+          "t": "The good cop points out how much worse the bad cop's position was, pushing you to compare the two.",
+          "icon": "⚖️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your best outside option before you enter",
+          "desc": "Put down one specific number or deal you could get elsewhere if this falls through. Not a vague idea — a real one."
+        },
+        {
+          "n": "2",
+          "title": "Compare to your outside option, not the bad cop",
+          "desc": "When an offer lands, ask yourself: is this better than walking out? Not: is this better than what the bad cop said?"
+        },
+        {
+          "n": "3",
+          "title": "Ask for 24 hours before accepting",
+          "desc": "Time away lets the relief feeling wear off. You compare more clearly the next morning than you do in the room."
+        }
+      ],
+      "script": "\"Let me check this against my other options before I respond.\"",
+      "counter": "Someone running this on you needs your outside options to be weak or nonexistent.\n• If they rush you to decide, your alternatives are a real threat to them.\n• Slow down. Relief feelings wear off in about an hour.\n• The real question is always: what can you get elsewhere?",
+      "insight": "The stronger your outside option going in, the faster the whole routine falls apart. Building a real alternative before the meeting is worth more than any counter-move you can run inside the room."
+    },
+    {
+      "id": 5,
+      "cat": "pressure-defense",
+      "danger": "low",
+      "title": "Pause and Ask Questions to Kill the Pressure",
+      "hook": "Good cop / bad cop runs on emotional momentum. <strong>One question kills momentum.</strong>",
+      "truth": "The tactic needs you in feeling mode. Questions pull you into thinking mode.\n• Asking forces them to explain their position instead of just pushing it.\n• You buy time and gather information at the same time.\n• Emotion drops when you make them work to answer you.",
+      "principle": "KARRASS: Momentum Interrupt",
+      "remember": "Ask one question instead of reacting. Thinking beats feeling in the room.",
+      "theySee": "A negotiator sitting quietly for a moment, then asking a calm, specific question about what was just said.",
+      "signals": [
+        {
+          "l": "Chest tightens",
+          "t": "You notice physical tension when the bad cop speaks — that is the tactic working on you.",
+          "icon": "😤"
+        },
+        {
+          "l": "Fast offer push",
+          "t": "The good cop pushes you to respond right after the bad cop finishes, keeping the pace up.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Short deadline dropped",
+          "t": "They say the window to decide is closing soon.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Quick back and forth",
+          "t": "They switch between pressure and relief rapidly, keeping you off balance.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count three seconds before speaking",
+          "desc": "Before saying anything after a hard push, count silently to three. The silence is yours to use, not theirs to fill."
+        },
+        {
+          "n": "2",
+          "title": "Ask how they got that number",
+          "desc": "Pick one specific figure in their offer and ask them to walk you through where it came from. Forces explanation, not pressure."
+        },
+        {
+          "n": "3",
+          "title": "Repeat back what you heard",
+          "desc": "Say: 'So what I'm hearing is X — is that right?' Slows everything down and makes them confirm or correct on the record."
+        }
+      ],
+      "script": "\"Walk me through how you arrived at that number.\"",
+      "counter": "If someone uses slow questions to buy time on you, figure out what they are waiting for.\n• Patient questions are buying time — ask directly what they need to move forward.\n• Answer only what you have already decided to share.\n• Do not mistake their patience for uncertainty about their position.",
+      "insight": "Slowing down is free and almost nobody does it when the pressure is on. The harder move is staying curious when every instinct says fight back or give in."
+    },
+    {
+      "id": 6,
+      "cat": "pressure-defense",
+      "danger": "low",
+      "title": "Ask for a Break Before You Give Something Away",
+      "hook": "Every bad deal made under pressure could have been avoided with ten minutes outside the room.",
+      "truth": "Pressure works because you are still in the room. Leaving breaks it.\n• Breaks reset your emotions to a neutral point.\n• Decisions made in the room under pressure almost always cost more than decisions made outside it.\n• Asking for a break signals confidence, not weakness.",
+      "principle": "Scotwork: Pressure Break",
+      "remember": "Leave the room before you move your number. Come back with a clear head.",
+      "theySee": "A negotiator standing up calmly and saying they need a short break before responding.",
+      "signals": [
+        {
+          "l": "Want to just agree",
+          "t": "You feel an impulse to end the discomfort by giving in — that is the signal to stand up.",
+          "icon": "🚨"
+        },
+        {
+          "l": "Words speed up",
+          "t": "They start speaking more quickly, trying to close before you can reset.",
+          "icon": "💨"
+        },
+        {
+          "l": "Numbers near equal",
+          "t": "The gap between your positions is small enough that giving in feels easy — that is when discipline matters most.",
+          "icon": "📏"
+        },
+        {
+          "l": "Almost there said",
+          "t": "The good cop says something like 'we're almost there' to nudge you over the line.",
+          "icon": "🏁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say five minutes and stand up",
+          "desc": "Stand and say: 'Give me five minutes.' No explanation needed. Walk out of the room."
+        },
+        {
+          "n": "2",
+          "title": "Write the concession you almost made",
+          "desc": "Outside, write down exactly what you were about to give. Ask: is this in my plan? If not, leave it outside."
+        },
+        {
+          "n": "3",
+          "title": "Come back with one question ready",
+          "desc": "Walk back in with one specific question about their position. Changes the conversation from giving in to asking."
+        }
+      ],
+      "script": "\"Give me five minutes before I respond to that.\"",
+      "counter": "If someone calls for a break when you are close to closing, let them go without pressure.\n• Holding them in the room makes you look desperate.\n• Use the break to sharpen your own position.\n• When they come back, ask what they decided — not where they were before they left.",
+      "insight": "The break works every time. The problem is that most people feel too guilty to take one at the exact moment they need it most."
+    },
+    {
+      "id": 7,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Cut the Bad Cop Out by Talking Only to the Good Cop",
+      "hook": "Two people run this routine together. <strong>One conversation at a time pulls it apart.</strong>",
+      "truth": "The tactic needs both roles active. Cutting out one role kills the contrast.\n• Directing everything at the good cop removes the bad cop's purpose.\n• The good cop must now make decisions instead of just softening you up.\n• They either reveal limits they were not supposed to show, or they call in the bad cop — whom you have already named.",
+      "principle": "CMA: Divide and Conquer",
+      "remember": "Ignore the bad cop. Ask all your questions to the friendly one.",
+      "theySee": "A negotiator turning their chair slightly and directing every question to only one person at the table.",
+      "signals": [
+        {
+          "l": "Bad cop jumps in",
+          "t": "The bad cop speaks up every time the good cop is about to answer you directly.",
+          "icon": "🙋"
+        },
+        {
+          "l": "Good cop stalls",
+          "t": "The good cop hesitates or looks uncomfortable when you address them alone.",
+          "icon": "⏸"
+        },
+        {
+          "l": "Eyes exchange",
+          "t": "The two of them make eye contact before either one answers your question.",
+          "icon": "👀"
+        },
+        {
+          "l": "Good cop defers",
+          "t": "The good cop says 'let me check with my colleague' before responding to you.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Turn your body toward the good cop",
+          "desc": "Physically orient yourself toward the good cop. Make eye contact with them when you speak. Don't look at the bad cop."
+        },
+        {
+          "n": "2",
+          "title": "Address the good cop by name",
+          "desc": "Use their first name each time you ask something. 'Tim, what is the lowest you can actually go on this?'"
+        },
+        {
+          "n": "3",
+          "title": "Repeat your question after interruptions",
+          "desc": "When the bad cop speaks, wait for them to finish, then turn back to the good cop and ask the same question again."
+        }
+      ],
+      "script": "\"Tim, I'd like to hear your answer directly — what can you actually do on the price?\"",
+      "counter": "If someone starts ignoring one of your team members and talking only to the other, re-engage as a unit.\n• Have the ignored colleague ask the next question to reclaim their seat.\n• A team that gives separate answers to separate people is a team getting split.\n• Regroup privately and re-align before the next exchange.",
+      "insight": "This works until the good cop reveals they have no real authority to decide anything. At that point, you are not dealing with the decision-maker — and that is a different problem entirely."
+    },
+    {
+      "id": 8,
+      "cat": "recognition",
+      "danger": "moderate",
+      "title": "Recognize When One Person Runs Both Roles",
+      "hook": "Sometimes only one person sits across the table. They still run two roles — they just use an invisible bad cop.",
+      "truth": "'My manager won't allow that' is good cop / bad cop with an absent bad cop.\n• The invisible authority creates pressure without needing a second person in the room.\n• The negotiator stays likable while someone offstage takes the blame.\n• You cannot argue with a person who is not there — which is exactly the point.",
+      "principle": "KARRASS: Higher Authority Variant",
+      "remember": "An absent boss is just a bad cop you cannot see. Same move, same counter.",
+      "theySee": "One person across the table saying the decision is out of their hands because someone else has to approve it.",
+      "signals": [
+        {
+          "l": "Blame passed up",
+          "t": "The person says they personally agree with you but their boss or committee will not allow it.",
+          "icon": "🔼"
+        },
+        {
+          "l": "No name given",
+          "t": "The approving authority is described vaguely — no specific name, no date, no steps in the process.",
+          "icon": "❓"
+        },
+        {
+          "l": "Decision delayed again",
+          "t": "Every time you are close, they need to check upstairs before moving.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Sympathy performed",
+          "t": "They apologize and seem genuinely frustrated on your behalf about constraints they cannot control.",
+          "icon": "😔"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the decision-maker's name",
+          "desc": "Say: 'Who specifically needs to approve this?' If they will not give a name, the authority may not exist."
+        },
+        {
+          "n": "2",
+          "title": "Request a meeting with that person",
+          "desc": "Ask to speak to whoever actually decides. If they resist without explanation, the invisible boss is a prop."
+        },
+        {
+          "n": "3",
+          "title": "Set a deadline for the approval",
+          "desc": "Say: 'If I don't have an answer by Thursday, I'll move forward with my other options.' Forces the approval to become real or disappear."
+        }
+      ],
+      "script": "\"Who specifically needs to sign off on this? Can we get them on a call?\"",
+      "counter": "If someone asks to meet your authority figure, decide before the meeting how you will handle it.\n• Either bring the actual decision-maker or admit you are one.\n• Stalling on authority after being challenged signals the constraint is not real.\n• If pushed, name the decision criteria — not just the person.",
+      "insight": "The higher authority move and the two-person routine share the same engine: distance between the pressure and the person you are talking to. Close that distance and both tactics stop working."
+    },
+    {
+      "id": 9,
+      "cat": "information-control",
+      "danger": "low",
+      "title": "Ask for the Offer in Writing to Strip the Tone",
+      "hook": "Tone is noise. Numbers are signal. <strong>Put the offer on paper and the noise disappears.</strong>",
+      "truth": "You cannot make a bad deal look good in writing. Anger and warmth do not survive text.\n• Written offers can be read without the emotional weight of the room.\n• You can share a written offer with advisors or lawyers without explaining the room dynamic.\n• Asking for writing slows everything down and resets the pressure close to zero.",
+      "principle": "Signal vs. Noise Separation",
+      "remember": "Written deals cannot be sold by tone. Ask for it on paper.",
+      "theySee": "A negotiator calmly asking for whatever was just said to be sent in an email or a written summary.",
+      "signals": [
+        {
+          "l": "Verbal only offers",
+          "t": "They keep making offers out loud and have not sent anything in writing.",
+          "icon": "🗣"
+        },
+        {
+          "l": "No recap sent",
+          "t": "The last meeting ended without a written summary of what was discussed.",
+          "icon": "📋"
+        },
+        {
+          "l": "Decide before it is written",
+          "t": "They want your answer before anything has been put on paper.",
+          "icon": "⏱"
+        },
+        {
+          "l": "Terms shifting",
+          "t": "What was said in the room does not match what you remembered hearing afterward.",
+          "icon": "🔀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask at the offer moment",
+          "desc": "As soon as they make a verbal offer, say: 'Can you send that in writing?' Do not wait for the meeting to end."
+        },
+        {
+          "n": "2",
+          "title": "Take notes out loud in front of them",
+          "desc": "Say 'Let me write that down' and do it visibly. Slows the pace and signals you are tracking every detail."
+        },
+        {
+          "n": "3",
+          "title": "Confirm the written version before agreeing to anything",
+          "desc": "Say: 'I'll confirm once I see it in an email.' Nothing is agreed until it is in writing."
+        }
+      ],
+      "script": "\"Can you send me that in writing before I respond?\"",
+      "counter": "If someone asks for everything in writing when you are trying to close, do not resist it.\n• Refusing to write things down signals you are hiding something.\n• Written offers protect you too — verbal agreements in negotiations are rarely enforceable.\n• Send the summary and mark any items still open.",
+      "insight": "Writing exposes offers that only sounded good in the moment — which is the entire problem with the pressure routine in the first place. That is also why they resist it."
+    },
+    {
+      "id": 10,
+      "cat": "information-control",
+      "danger": "high",
+      "title": "Keep Your Real Number Hidden When the Bad Cop Pushes",
+      "hook": "The bad cop's pressure is partly designed to make you talk. <strong>What you say in that moment is what they use against you next.</strong>",
+      "truth": "Discomfort makes people fill silence. Filling silence under pressure leaks your real position.\n• The bad cop creates urgency so you explain yourself to the good cop.\n• Every deadline, limit, or number you reveal narrows their risk on the deal.\n• Silence after pressure is one of the hardest things to hold — and the most valuable.",
+      "principle": "Information Asymmetry",
+      "remember": "Pressure makes people talk too much. Say less when the room gets hard.",
+      "theySee": "A person across the table going quiet and waiting after the bad cop just pushed them with a hard position.",
+      "signals": [
+        {
+          "l": "Urge to explain",
+          "t": "You feel the need to justify your position right after the bad cop rejects it.",
+          "icon": "💬"
+        },
+        {
+          "l": "Deadline slipped",
+          "t": "You mention when you need this deal finished — now they know your time pressure.",
+          "icon": "📅"
+        },
+        {
+          "l": "Floor named",
+          "t": "You say something like 'I can't go below X' — you have just told them your limit.",
+          "icon": "🏠"
+        },
+        {
+          "l": "Other deal mentioned",
+          "t": "You reference a competing option to sound strong, but reveal that it exists and how real it is.",
+          "icon": "🃏"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three non-answers before the meeting",
+          "desc": "Prepare: 'I'll need to think about that', 'That's not how I'm looking at it', 'Tell me more about what you need.' Use these instead of giving information."
+        },
+        {
+          "n": "2",
+          "title": "Catch the impulse to justify your number",
+          "desc": "When you feel the urge to explain your position, pause. Repeat your number without adding anything: 'My number is X.'"
+        },
+        {
+          "n": "3",
+          "title": "Respond to pressure with a question",
+          "desc": "When pushed hard, ask: 'What specifically makes that number a problem for you?' Sends the work back to them."
+        }
+      ],
+      "script": "\"That's my number. What specifically makes it a problem?\"",
+      "counter": "If someone goes quiet when you push them, do not fill the silence on their behalf.\n• Let them sit. They will either hold or give — both tell you something.\n• Silence is not an invitation to offer a concession.\n• Wait at least five seconds before speaking again.",
+      "insight": "The information you keep is as important as the information you give. What you do not say in the hard moment is often the only real upper hand you have left going into the next round."
+    },
+    {
+      "id": 11,
+      "cat": "aftermath",
+      "danger": "moderate",
+      "title": "Know the Risk Before You Call Them Out",
+      "hook": "Calling the tactic works. Calling it wrong costs you the room.",
+      "truth": "Naming good cop / bad cop is a move, and every move can misfire.\n• If they were not coordinating, you have accused two people of lying to your face.\n• They can go cold, stonewall, or walk — and that is a real cost to eat.\n• The stronger the pattern before you name it, the lower the risk of being wrong.",
+      "principle": "Shell: Naming Risk Assessment",
+      "remember": "Name the tactic only when the pattern is clear. Guessing out loud is expensive.",
+      "theySee": "Two negotiators looking genuinely confused or offended after someone accuses them of running a coordinated script.",
+      "signals": [
+        {
+          "l": "Surprise looks real",
+          "t": "Their reaction to your accusation is immediate — face, body, and voice all change at once.",
+          "icon": "😲"
+        },
+        {
+          "l": "No switch timing",
+          "t": "Looking back, the good cop did not step in right after every hard push. The timing was random.",
+          "icon": "🎲"
+        },
+        {
+          "l": "No eye signal seen",
+          "t": "You never caught them exchanging a look before switching roles.",
+          "icon": "🙈"
+        },
+        {
+          "l": "Tone matched context",
+          "t": "The bad cop's frustration fit the situation — it did not feel like a performance.",
+          "icon": "🎭"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the pattern before speaking",
+          "desc": "Ask yourself: did the good cop step in right after every hard push? If yes twice, it is likely scripted. Once could be coincidence."
+        },
+        {
+          "n": "2",
+          "title": "Use 'it looks like' not 'you are doing'",
+          "desc": "Say: 'It looks to me like one of you is in the tough role and the other is the reasonable one.' That is an observation, not a direct accusation."
+        },
+        {
+          "n": "3",
+          "title": "Give them a way forward right after naming it",
+          "desc": "Immediately follow with: 'Can we work on this more directly together?' Reduces defensiveness and gives them somewhere to go."
+        }
+      ],
+      "script": "\"It looks to me like one of you is playing the tough role and the other is the reasonable one. I'd rather talk straight — can we do that?\"",
+      "counter": "If someone mistakenly calls your tactic when you were not running one, do not get angry.\n• Calmly describe what you were actually doing and what you each represent in the room.\n• Offer to work more openly to reset the trust.\n• If you were running it and got caught, adjusting is cheaper than denying it.",
+      "insight": "The naming move is highest value when the pattern is obvious and the stakes are high. When stakes are low or the relationship matters, the quieter counter-moves are worth trying first — you can always name it later."
+    },
+    {
+      "id": 12,
+      "cat": "aftermath",
+      "danger": "low",
+      "title": "Use Their Tactic as a Signal About the Deal Itself",
+      "hook": "Good cop / bad cop works once. The second time you know it is coming before they sit down.",
+      "truth": "The tactic is built for short wins. It eats the relationship it runs on.\n• Once spotted, every future meeting starts with distrust already in the room.\n• The good cop's warmth becomes a signal of manipulation, not good faith.\n• In long-term deals, the cost of the first trick is paid in every round after.",
+      "principle": "Engarde: Relationship Damage Cost",
+      "remember": "Their trick works once. Every deal after that costs them more than it cost you.",
+      "theySee": "A counterpart who comes back for a second deal already knowing what to expect, giving nothing away early.",
+      "signals": [
+        {
+          "l": "No warmth returned",
+          "t": "You stop responding to the good cop's friendly tone in future meetings — it reads as a cue, not sincerity.",
+          "icon": "🧊"
+        },
+        {
+          "l": "Shorter answers",
+          "t": "You give less information each meeting than you did the first time around.",
+          "icon": "📉"
+        },
+        {
+          "l": "Competing offer ready",
+          "t": "You arrive at every following meeting with a real alternative already lined up.",
+          "icon": "🃏"
+        },
+        {
+          "l": "Notes reviewed first",
+          "t": "You check your log of what each person said in their role before each new session.",
+          "icon": "📓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log what happened right after the meeting",
+          "desc": "Write down which person played which role and what they each said. This is your reference file for the next round."
+        },
+        {
+          "n": "2",
+          "title": "List your real alternatives before the next meeting",
+          "desc": "Write two outside options you actually have right now. Knowing them going in changes how you carry yourself in the room."
+        },
+        {
+          "n": "3",
+          "title": "Decide whether the relationship is worth continuing",
+          "desc": "Ask plainly: does the total value of this deal outweigh the cost of dealing with a team that runs tricks every time? Sometimes the answer is no."
+        }
+      ],
+      "script": "\"Last time we met I found the dynamic a bit hard to read. I'd like to keep this one more direct — that works better for me.\"",
+      "counter": "If someone comes back to a second deal more guarded than the first, you burned something real.\n• More guarded means less information, less trust, and fewer easy wins on your side.\n• The cost of the tactic shows up in round two, not round one.\n• If you want a long relationship, the trick is a tax you will keep paying.",
+      "insight": "The real question after you defuse the routine is whether the people who ran it know they burned it — or whether they will run it again on someone else next week and call it strategy."
+    }
+  ]
+}
