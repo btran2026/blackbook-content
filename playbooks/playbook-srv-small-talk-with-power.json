@@ -1,0 +1,623 @@
+{
+  "meta": {
+    "id": "srv-small-talk-with-power",
+    "version": "1.0",
+    "title": "Small Talk With Power",
+    "subtitle": "Two minutes in the hallway decide more than your annual review",
+    "description": "Ten field-tested moves for the short, unscripted talks with bosses, executives, and people who can change your life. How to start one, what to say, when to leave, and what to do when they give you nothing.",
+    "author": "AI",
+    "createdAt": "2026-09-02T21:37:38.801Z",
+    "tags": [
+      "small talk",
+      "executives",
+      "status",
+      "office politics",
+      "networking",
+      "influence"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#1F3A5F",
+    "coverIcon": "🥃",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "open",
+      "label": "The Opening",
+      "color": "#2E6F95"
+    },
+    {
+      "key": "content",
+      "label": "What You Say",
+      "color": "#8A5A44"
+    },
+    {
+      "key": "status",
+      "label": "Status Games",
+      "color": "#7C3F58"
+    },
+    {
+      "key": "exit",
+      "label": "Getting Out",
+      "color": "#3F6B52"
+    },
+    {
+      "key": "repeat",
+      "label": "The Second Time",
+      "color": "#6B5B95"
+    },
+    {
+      "key": "defense",
+      "label": "When It Goes Wrong",
+      "color": "#A14A34"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "open",
+      "danger": "low",
+      "title": "Open With Something They Just Did, Not the Weather",
+      "principle": "Cialdini: Liking — Similarity and Attention",
+      "remember": "Start with something they did this week, never the weather.",
+      "when": "You end up next to a senior leader in the elevator or the coffee line.",
+      "hook": "Weather talk tells them you have nothing. <strong>One line about their week tells them you pay attention.</strong>",
+      "truth": "Senior people get twenty empty greetings a day and remember none of them.\n• A specific opener proves you follow their work without asking for anything.\n• They switch from polite mode to real mode in one sentence.\n• The trap is flattery. Reference the work, never the person.",
+      "theySee": "A person who read their memo and remembered one line from it.",
+      "signals": [
+        {
+          "icon": "🛗",
+          "l": "Trapped time",
+          "t": "You have 40 seconds with them and no agenda"
+        },
+        {
+          "icon": "☕",
+          "l": "Queue talk",
+          "t": "They stand in line and check their phone out of habit"
+        },
+        {
+          "icon": "📄",
+          "l": "Fresh news",
+          "t": "They sent an all-hands email or spoke at a town hall this week"
+        },
+        {
+          "icon": "😐",
+          "l": "Auto-reply",
+          "t": "They answer everyone with the same two-word greeting"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one line from their week",
+          "desc": "Find one thing they wrote, said, or shipped in the last seven days. One line, not a summary."
+        },
+        {
+          "n": "2",
+          "title": "Say it as a fact plus a short question",
+          "desc": "State what you noticed, then ask one thing about it. Keep it under 15 words."
+        },
+        {
+          "n": "3",
+          "title": "Stop talking",
+          "desc": "Let them answer. Do not add a second question until they finish the first one."
+        }
+      ],
+      "script": "\"I saw you cut the Q3 roadmap down to three items. <strong>What got left out that you miss?</strong>\"",
+      "example": "Devi rode up 14 floors with the COO. Instead of the weather, she said she noticed he killed two of the four pilots. He talked the whole ride about the one he wished he had kept. He knew her name at the next town hall.",
+      "watchFor": "They turn their body toward you and stop looking at their phone.",
+      "ifItFails": "They give you a one-word answer and look away. Do not ask a second question — that reads as pushy. Close it clean and bank the name: <strong>\"Fair enough. I'm Devi, on the payments team. I'll stop bothering you.\"</strong> Say your name once and let them go.",
+      "counter": "If a junior person opens with a sharp line about your week, they are working you.\n• Notice the specific detail. Random people do not have it.\n• Say: <strong>\"You've been reading closely. What do you want?\"</strong>\n• Said with a smile, it saves both of you four minutes.",
+      "insight": "Most people think small talk is about being pleasant. It is about proving you have information. The harder part is what you do with the 40 seconds after they open up."
+    },
+    {
+      "id": 2,
+      "cat": "open",
+      "danger": "low",
+      "title": "Say Your Name and Your Job in Seven Words",
+      "principle": "Cognitive Load — Chunking",
+      "remember": "Give them your name and one job in one breath.",
+      "when": "An executive asks what you do and you have never met them.",
+      "hook": "They cannot place you, so they cannot use you. <strong>Give them a file label they can store.</strong>",
+      "truth": "Powerful people sort strangers into slots fast, then forget the ones without a slot.\n• A short label gives their brain one hook to hang you on.\n• They can now repeat you to someone else, which is how you travel.\n• Long answers make them nod politely and forget you by the elevator.",
+      "theySee": "A person who answers the question in one clean line and stops.",
+      "signals": [
+        {
+          "icon": "🤔",
+          "l": "Placing you",
+          "t": "They squint slightly and ask what team you sit on"
+        },
+        {
+          "icon": "🔁",
+          "l": "Second ask",
+          "t": "They ask what you do again after you already told them"
+        },
+        {
+          "icon": "👋",
+          "l": "Half handshake",
+          "t": "They shake your hand while already looking past you"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your seven words tonight",
+          "desc": "Name, then the one problem you fix. Not your title. Not your department history."
+        },
+        {
+          "n": "2",
+          "title": "Say it out loud five times",
+          "desc": "If it takes more than one breath, cut words until it fits."
+        },
+        {
+          "n": "3",
+          "title": "End with a fact they can use",
+          "desc": "Add one number or one live project. Give them something to ask about."
+        }
+      ],
+      "script": "\"Devi Rao. <strong>I keep the payment system from going down on Fridays.</strong> We've had zero outages since March.\"",
+      "example": "Marcus used to say he was a senior analyst in operational excellence. Nobody remembered him. He switched to \"Marcus. I find out why shipments arrive late.\" Three weeks later the VP pulled him into a delivery war room by name.",
+      "watchFor": "They repeat your line back to you or to the person next to them.",
+      "ifItFails": "They still look blank. Do not repeat the same line slower. Anchor yourself to a project they already know: <strong>\"I'm the one who ran the Friday outage fix you got the email about.\"</strong> Tie yourself to something already in their head.",
+      "counter": "If someone gives you a suspiciously clean one-liner, they rehearsed it.\n• That is preparation, not honesty. Assume there is an ask coming.\n• Say: <strong>\"Good line. What's the part you left out?\"</strong>\n• You get the real version and they know you are awake.",
+      "insight": "A label makes you portable — people can now mention you in rooms you are not in. The tradeoff is that the label sticks, so pick one you still want in two years."
+    },
+    {
+      "id": 3,
+      "cat": "content",
+      "danger": "low",
+      "title": "Bring One Piece of News From Below Their Line of Sight",
+      "principle": "Sun Tzu: Knowledge of the Enemy — Information Access",
+      "remember": "Bring them one true thing nobody else will tell them.",
+      "when": "You get two minutes with a leader and they ask how things are going.",
+      "hook": "Everyone tells them the good version. <strong>The person who brings the real one becomes a source.</strong>",
+      "truth": "Executives are surrounded by people who filter bad news to protect themselves.\n• Their information is old and clean. Yours is fresh and dirty.\n• One honest ground-level fact makes you more useful than a peer with a title.\n• The trap is complaining. News is a fact plus a number, not a feeling.",
+      "theySee": "A person who tells them something their own reports left out.",
+      "signals": [
+        {
+          "icon": "🫧",
+          "l": "Clean reports",
+          "t": "Every status deck they see is green"
+        },
+        {
+          "icon": "❓",
+          "l": "Surprised leader",
+          "t": "They found out about a problem from a customer, not their team"
+        },
+        {
+          "icon": "🧊",
+          "l": "Filtered room",
+          "t": "Your manager tells you not to raise things upward"
+        },
+        {
+          "icon": "🗞️",
+          "l": "Real question",
+          "t": "They ask what is actually going on and hold eye contact"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a fact with a number",
+          "desc": "One thing you see daily that they cannot see. Attach a count, a time, or a dollar figure."
+        },
+        {
+          "n": "2",
+          "title": "Strip out the blame",
+          "desc": "Name the problem, never the person who caused it. Blame turns news into a complaint."
+        },
+        {
+          "n": "3",
+          "title": "Offer nothing and ask for nothing",
+          "desc": "Deliver the fact and stop. Do not pitch a fix in the same breath."
+        }
+      ],
+      "script": "\"Something you probably don't see from up there: <strong>we lose about six hours a week re-keying orders by hand.</strong> Not a crisis. Just thought you'd want the number.\"",
+      "example": "Tom told the SVP that support agents copy order numbers by hand, about six hours a week. He asked for nothing. Two weeks later the SVP quoted the six-hour figure in a budget meeting and asked Tom to write it up.",
+      "watchFor": "They pull out their phone and write the number down.",
+      "ifItFails": "They wave it off as a known issue. Do not argue. Put a date on it and hand back the choice: <strong>\"Understood. I'll send you the same number in 30 days so you can see if it moved.\"</strong> Then actually send it. The follow-through is the move.",
+      "counter": "If someone feeds you ground-level bad news with no ask, they are building credit with you.\n• Take the fact. It is probably true and probably useful.\n• Say: <strong>\"Good. Who else knows this, and what did they do?\"</strong>\n• Now you learn whether they went around their boss to reach you.",
+      "insight": "Being a source beats being liked — sources get called back. This fails badly if your manager finds out you skipped them, so never bring news that makes your own boss look asleep."
+    },
+    {
+      "id": 4,
+      "cat": "content",
+      "danger": "moderate",
+      "title": "Ask What They Are Worried About, Not What They Are Working On",
+      "principle": "Voss: Calibrated Question",
+      "remember": "Ask what worries them. Everyone else asks what they do.",
+      "hook": "Their projects are public. <strong>Their worries are not, and worries are where decisions come from.</strong>",
+      "when": "You are seated next to a senior leader at a dinner or offsite table.",
+      "truth": "Powerful people answer the same shallow questions all day and give the same shallow answers.\n• A worry question breaks the script and they hear it as respect.\n• They start thinking out loud, which is when you learn what they will fund.\n• The trap is asking twice. One worry question per conversation, ever.",
+      "theySee": "A person who asks a question they have not answered ten times this week.",
+      "signals": [
+        {
+          "icon": "🥱",
+          "l": "Rehearsed answers",
+          "t": "They answer your first question in the same words they used on stage"
+        },
+        {
+          "icon": "🍽️",
+          "l": "Long seating",
+          "t": "You are stuck at the same table for over 30 minutes"
+        },
+        {
+          "icon": "🧭",
+          "l": "Vague plan",
+          "t": "They talk about next year in general terms with no dates"
+        },
+        {
+          "icon": "👂",
+          "l": "Real pause",
+          "t": "They stop and think before answering instead of replying instantly"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait until the second stretch of talk",
+          "desc": "Do not lead with this. Let two or three normal exchanges pass first."
+        },
+        {
+          "n": "2",
+          "title": "Ask about the thing that keeps slipping",
+          "desc": "Frame it around timing, not failure. Ask what is behind, not what is broken."
+        },
+        {
+          "n": "3",
+          "title": "Say nothing for five seconds after",
+          "desc": "The real answer comes after the first pause, not before it."
+        }
+      ],
+      "script": "\"What's the thing on next year's plan that <strong>you're not yet sure will land?</strong>\"",
+      "example": "At an offsite dinner Priya asked the CFO which number he was least sure about. He talked for eight minutes about a vendor renewal nobody had flagged. She sent him one page on it Monday and was in the vendor review by Friday.",
+      "watchFor": "They lower their voice slightly before answering.",
+      "ifItFails": "They deflect with a joke or a company line. Drop it — pushing makes you look like a reporter. Shrink the question to something they can safely answer: <strong>\"Fair. Then what's the one thing you wish people asked you about more?\"</strong> That one they almost always answer.",
+      "counter": "If someone asks what worries you, they want to know where the money will move.\n• Notice that the question sounds caring and collects intelligence.\n• Say: <strong>\"Nothing I'd say out loud yet. What worries you?\"</strong>\n• You hand the question back and learn their angle instead.",
+      "insight": "Worries travel faster than plans inside a company. Do not run this on someone who signs your reviews unless you already have a good record with them — from a weak player it sounds like fishing."
+    },
+    {
+      "id": 5,
+      "cat": "status",
+      "danger": "moderate",
+      "title": "Match Their Speed, Not Their Rank",
+      "principle": "Behavioral Mirroring — Speech Rate Matching",
+      "remember": "Talk at their speed. Fast people hate slow talkers.",
+      "when": "A senior person talks fast and you feel yourself rushing or freezing.",
+      "hook": "They judge you in ten seconds, mostly on rhythm. <strong>Wrong speed reads as wrong level.</strong>",
+      "truth": "People trust the pace they use themselves and get impatient with everything else.\n• Matching their speed makes you sound like a peer, not a petitioner.\n• They relax and stop managing the conversation for you.\n• The trap is matching their words too. Copy the tempo, never the phrases.",
+      "theySee": "A person who talks at the same speed they do and does not waste their time.",
+      "signals": [
+        {
+          "icon": "⏩",
+          "l": "Clipped speech",
+          "t": "They finish sentences fast and cut their own words short"
+        },
+        {
+          "icon": "🐢",
+          "l": "Slow drift",
+          "t": "They pause a lot and dislike being interrupted"
+        },
+        {
+          "icon": "⌚",
+          "l": "Time check",
+          "t": "They glance at their watch while you are mid-sentence"
+        },
+        {
+          "icon": "✂️",
+          "l": "They finish for you",
+          "t": "They complete your sentence before you get there"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Listen to their first two sentences",
+          "desc": "Do not talk yet. Count whether they are fast and clipped or slow and even."
+        },
+        {
+          "n": "2",
+          "title": "Set your first sentence to their speed",
+          "desc": "Fast talker: lead with the answer. Slow talker: give one full thought and pause."
+        },
+        {
+          "n": "3",
+          "title": "Cut your sentence in half",
+          "desc": "Whatever you planned to say, say the second half of it. The setup is what bores them."
+        }
+      ],
+      "script": "(To a fast talker) \"<strong>Short version: it slipped two weeks.</strong> Vendor, not us. Fix is in Friday.\"",
+      "example": "Ahmed used to give the CTO full background before the point. She kept finishing his sentences. He switched to answer-first, three sentences max. She started stopping by his desk instead of emailing.",
+      "watchFor": "They stop finishing your sentences for you.",
+      "ifItFails": "They still cut you off. Hand them the wheel instead of fighting for the floor: <strong>\"You've got the shape of it. Tell me which part you want.\"</strong> Now they pick the topic and you answer only that.",
+      "counter": "If someone suddenly talks exactly at your speed, they are copying you.\n• Notice the match, especially if their normal pace is different.\n• Change your own speed mid-talk and watch if they follow.\n• If they follow, they are working you. Slow down and ask a direct question.",
+      "insight": "Rhythm gets read as competence before content does. This works until someone notices you copying, so match the speed and never the words."
+    },
+    {
+      "id": 6,
+      "cat": "status",
+      "danger": "moderate",
+      "title": "Do Not Bring a Problem You Cannot Describe in One Sentence",
+      "principle": "Greene: Law 13 — Appeal to Self-Interest",
+      "remember": "One sentence for the problem, or do not raise it.",
+      "when": "You want to raise an issue with a leader during an informal chat.",
+      "hook": "A long problem sounds like a request for help. <strong>A one-line problem sounds like a report from someone in control.</strong>",
+      "truth": "Leaders sort people into two piles fast: people who bring work and people who take it away.\n• A tight problem statement puts you in the second pile.\n• They can act on it or file it in five seconds either way.\n• The trap is background. Every extra sentence moves you toward the first pile.",
+      "theySee": "A person who states an issue in one line and already knows the next step.",
+      "signals": [
+        {
+          "icon": "🧱",
+          "l": "Wall of setup",
+          "t": "You catch yourself starting with the history of the project"
+        },
+        {
+          "icon": "🥶",
+          "l": "Glaze",
+          "t": "Their eyes drop to the middle distance while you explain"
+        },
+        {
+          "icon": "↩️",
+          "l": "Punt",
+          "t": "They tell you to send an email about it"
+        },
+        {
+          "icon": "🎯",
+          "l": "Fast pickup",
+          "t": "They ask one sharp follow-up question right away"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the problem in one sentence",
+          "desc": "Name what is broken and what it costs. No history, no names, no build-up."
+        },
+        {
+          "n": "2",
+          "title": "Add the move you already made",
+          "desc": "Say what you tried. This proves you are reporting, not asking for rescue."
+        },
+        {
+          "n": "3",
+          "title": "Name the one thing only they can do",
+          "desc": "If there is nothing, say so. A problem with no ask is still worth telling them."
+        }
+      ],
+      "script": "\"Quick one: <strong>the vendor contract blocks us from testing until legal signs.</strong> I've filed it and pinged twice. Only thing that moves it is you asking Ravi directly.\"",
+      "example": "Nina used to open with ten minutes of context. Her director stopped taking her drop-ins. She trimmed it to one line plus one ask. He started handling her items on the spot in the hallway.",
+      "watchFor": "They pick up their phone and send a message while you are still standing there.",
+      "ifItFails": "They say send me an email. That is a real answer, not a brush-off. Send it in three lines with the ask in the subject and a date: <strong>\"Blocked on legal sign-off — need you to ping Ravi by Thursday.\"</strong> Then mention it once more in person that week.",
+      "counter": "If someone hands you a clean one-line problem plus a named ask, they are steering you.\n• Notice how little room the framing leaves you.\n• Say: <strong>\"Before I act — what happens if I do nothing?\"</strong>\n• Their answer tells you whether it is urgent or just theirs.",
+      "insight": "Compressing the problem is what buys you the hallway access. Do not do this to a boss who punishes surprises — with that type, everything goes in writing first."
+    },
+    {
+      "id": 7,
+      "cat": "exit",
+      "danger": "low",
+      "title": "End the Talk Before They Do",
+      "principle": "Peak-End Rule",
+      "remember": "Leave first. They remember how it ended.",
+      "when": "The conversation with a senior person has been going well for two minutes.",
+      "hook": "Most people hang on until the other person escapes. <strong>Leave one beat early and you are the one they wanted more of.</strong>",
+      "truth": "People remember the last ten seconds of a talk more than the middle of it.\n• If you leave first, the ending is warm and you own it.\n• They register you as busy and self-directed, not as someone with time to burn.\n• The trap is one more thing. That is where good talks go to die.",
+      "theySee": "A person who checks the time, wraps up, and walks away without being dismissed.",
+      "signals": [
+        {
+          "icon": "🔄",
+          "l": "Loop",
+          "t": "You are both repeating points you already made"
+        },
+        {
+          "icon": "📱",
+          "l": "Phone flip",
+          "t": "They turn their phone face up on the table"
+        },
+        {
+          "icon": "🚪",
+          "l": "Body angle",
+          "t": "Their feet turn toward the door while they still talk"
+        },
+        {
+          "icon": "🙂",
+          "l": "Peak moment",
+          "t": "They just laughed or agreed with something you said"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set a two-minute mental clock",
+          "desc": "When the talk hits its best moment, start counting down instead of pushing further."
+        },
+        {
+          "n": "2",
+          "title": "Name the reason you are going",
+          "desc": "Give a real one. A meeting, a call, a deadline. Vague exits sound like retreat."
+        },
+        {
+          "n": "3",
+          "title": "Leave one line of unfinished business",
+          "desc": "Mention the thing you did not get to. That is the hook for the next talk."
+        }
+      ],
+      "script": "\"I've got a standup in three. <strong>Ask me about the Friday numbers next time — they got weird.</strong> Good to talk.\"",
+      "example": "Carl always waited for the VP to end their coffee chats. One day he cut it himself at the high point and left a loose thread about a cost number. The VP found him two days later to ask about it.",
+      "watchFor": "They say wait, one more thing as you turn to go.",
+      "ifItFails": "They let you go without a flicker. That is fine — you lost nothing. Convert it to a written thread the same day: <strong>\"Cut that short — here's the Friday number I mentioned. Happy to walk you through it sometime.\"</strong> One line, one attachment, no ask.",
+      "counter": "If someone keeps ending talks with you first, they are managing your interest.\n• Notice you are the one left wanting the rest of the story.\n• Say: <strong>\"Before you go — finish the part about Friday.\"</strong>\n• You take back the ending and the unfinished thread.",
+      "insight": "Whoever ends the talk sets the memory of it. The next question is whether you can leave the right thread — one too small to email about but too interesting to forget."
+    },
+    {
+      "id": 8,
+      "cat": "repeat",
+      "danger": "low",
+      "title": "Reopen With the Exact Thing They Said Last Time",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Quote their own words back to them the next time.",
+      "when": "You run into the same senior person weeks after your first talk.",
+      "hook": "They meet hundreds of people. <strong>Being the one who remembered puts you in a very small group.</strong>",
+      "truth": "Powerful people forget faces but never forget being taken seriously.\n• Quoting their own line proves the first talk mattered to you.\n• They feel consistent with what they said and keep going from there.\n• The trap is quoting wrong. A near-miss quote is worse than no quote.",
+      "theySee": "A person who repeats their own sentence back and asks how it turned out.",
+      "signals": [
+        {
+          "icon": "📓",
+          "l": "Old thread",
+          "t": "You have a note from the last talk with their exact words"
+        },
+        {
+          "icon": "🫱",
+          "l": "Neutral hello",
+          "t": "They greet you politely but clearly cannot place you"
+        },
+        {
+          "icon": "⏳",
+          "l": "Time gap",
+          "t": "Two weeks or more have passed since the first talk"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same setting",
+          "t": "You are in the same hallway, cafe, or meeting room as before"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write their line down within an hour",
+          "desc": "After any talk with a senior person, save one exact sentence they said. Date it."
+        },
+        {
+          "n": "2",
+          "title": "Open with their words, not yours",
+          "desc": "Say when they said it and what they said, then ask what happened since."
+        },
+        {
+          "n": "3",
+          "title": "Add one thing you did about it",
+          "desc": "Show the line changed something on your side. One sentence, no report."
+        }
+      ],
+      "script": "\"Last month you said the vendor renewal was the number you trusted least. <strong>Did it hold?</strong> I pulled the usage data after that talk.\"",
+      "example": "Sana wrote down one line from the CFO in her notes app. Six weeks later she opened with it word for word. He said nobody had followed up on that and asked her to send the usage numbers directly to him.",
+      "watchFor": "They say something like you actually remembered that.",
+      "ifItFails": "They do not recall saying it and look uncomfortable. Take the blame off them immediately and move on: <strong>\"Might've been someone else — either way, the usage data got interesting. Want it?\"</strong> Never make a senior person feel caught out by their own words.",
+      "counter": "If someone quotes your old line back to you, they kept a file on you.\n• That is not affection. It is preparation, and it usually precedes an ask.\n• Say: <strong>\"Good memory. What did you do with it?\"</strong>\n• You find out whether they acted or just collected.",
+      "insight": "Memory is the cheapest form of flattery and the hardest to fake. The harder part is the third talk, when remembering is no longer enough and you need something to show."
+    },
+    {
+      "id": 9,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "When They Test You With a Hard Question, Answer the Small Part",
+      "principle": "Gracián: Reserve — Controlled Disclosure",
+      "remember": "Answer the easy part fully. Leave the rest to them.",
+      "when": "A senior person asks you a question with a trap in it in front of others.",
+      "hook": "They are not looking for the answer. <strong>They are watching how you handle not having one.</strong>",
+      "truth": "Executives test new people with questions that cannot be answered cleanly.\n• Answering the small part shows you know the edge of what you know.\n• They stop testing and start using you, because guessers are expensive.\n• The trap is bluffing. One invented number ends your credit permanently.",
+      "theySee": "A person who answers the part they know, names the part they do not, and gives a date.",
+      "signals": [
+        {
+          "icon": "🎣",
+          "l": "Bait question",
+          "t": "They ask for a number you could not possibly have"
+        },
+        {
+          "icon": "👥",
+          "l": "Audience",
+          "t": "They ask it while other people are listening"
+        },
+        {
+          "icon": "🧪",
+          "l": "Known answer",
+          "t": "They already know the answer and are watching your face"
+        },
+        {
+          "icon": "🤐",
+          "l": "Long silence",
+          "t": "They stay quiet after your answer to see if you fill it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Split the question in your head",
+          "desc": "Find the part you can answer with a fact. Answer only that part first."
+        },
+        {
+          "n": "2",
+          "title": "Name the missing part plainly",
+          "desc": "Say what you do not know in one short sentence. No apology, no hedging."
+        },
+        {
+          "n": "3",
+          "title": "Give a date, not a promise",
+          "desc": "Say when you will have the rest. Then put it in your calendar in front of them."
+        }
+      ],
+      "script": "\"<strong>Volume is up 12% since June — that number I know.</strong> The cost per order I don't have in my head. You'll have it by Thursday noon.\"",
+      "example": "In a review the CEO asked Jonah for a margin figure nobody had. Jonah gave the two numbers he had, said the third did not exist yet, and named Thursday. The CEO said good and moved on. Jonah got asked back to the next review.",
+      "watchFor": "They nod once and move to the next topic without pressing.",
+      "ifItFails": "They keep pushing for the number you do not have. Do not guess. Make the gap their decision: <strong>\"I can give you a rough guess now or a real number Thursday. Which do you want on the record?\"</strong> Almost nobody picks the guess.",
+      "counter": "If someone asks you a question they know you cannot answer, they are measuring you.\n• Notice the audience. The test is for them as much as you.\n• Say: <strong>\"That one I'd have to make up. What's driving the question?\"</strong>\n• You refuse the bait and learn what they actually want.",
+      "insight": "Saying I don't know once buys you belief on everything else you say. Do not run this with a boss who treats gaps as failure — with that type, find the number before the meeting."
+    },
+    {
+      "id": 10,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "When They Give You Nothing, Stop Talking and Let It Sit",
+      "principle": "Schelling: Costly Silence",
+      "remember": "When they go cold, stop selling. Silence costs them too.",
+      "when": "A leader answers you in one word and shows no interest in continuing.",
+      "hook": "Most people talk faster when the room goes cold. <strong>That is the exact move that confirms you are nobody.</strong>",
+      "truth": "Filling silence with a senior person marks you as the one who needs the talk.\n• When you stop, the cost of the silence moves to them.\n• Half the time they restart it themselves, on a better topic.\n• The trap is a nervous joke. It hands the upper hand straight back.",
+      "theySee": "A person who stops talking, stays relaxed, and does not look away first.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "One-word replies",
+          "t": "They answer everything with yeah or sure"
+        },
+        {
+          "icon": "📵",
+          "l": "Phone shield",
+          "t": "They pick up their phone in the middle of your sentence"
+        },
+        {
+          "icon": "😬",
+          "l": "Your filler",
+          "t": "You hear yourself starting a second story nobody asked for"
+        },
+        {
+          "icon": "👀",
+          "l": "Scan",
+          "t": "They look over your shoulder at other people in the room"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop mid-thought and let it land",
+          "desc": "Finish your current sentence. Do not start another one. Count to four."
+        },
+        {
+          "n": "2",
+          "title": "Keep your body loose",
+          "desc": "Do not fidget or step back. Stay where you are and look mildly interested."
+        },
+        {
+          "n": "3",
+          "title": "Give them one clean way out",
+          "desc": "If they say nothing, release them yourself. Short, warm, no apology."
+        }
+      ],
+      "script": "(After four seconds of silence) \"<strong>You've clearly got something on your mind. Go handle it.</strong> We'll talk properly another time.\"",
+      "example": "Raj asked the head of sales a question and got a flat yeah. He stopped talking instead of adding a second question. Five seconds later she put her phone down and said sorry, we lost a big account this morning. They talked for ten minutes.",
+      "watchFor": "They put their phone down and start a sentence themselves.",
+      "ifItFails": "They stay cold and walk off. Do not chase and do not apologize by email. Send one short line the next day with something useful and no ask: <strong>\"Caught you at a bad moment yesterday. Here's the churn number I mentioned, in case it's useful.\"</strong> Value with no request resets you to neutral.",
+      "counter": "If someone goes quiet and waits instead of filling the gap, they know this move.\n• Notice that you feel pressure to speak first. That is the whole trick.\n• Say: <strong>\"You're waiting me out. What do you actually want to know?\"</strong>\n• Naming it ends the game and costs you nothing.",
+      "insight": "Silence is only expensive for whoever needs the talk more. This fails in a group setting, where the silence costs you alone — there, close it fast and find them one-on-one later."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 57,
+  "manifestVersion": 58,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -403,7 +403,20 @@
       "url": "playbooks/playbook-srv-buying-a-car-without-getting-played.json",
       "addedAt": "2026-09-01T22:22:55.780Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-small-talk-with-power",
+      "title": "Small Talk With Power",
+      "theme": "small talk",
+      "topic": "",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#1F3A5F",
+      "coverIcon": "🥃",
+      "url": "playbooks/playbook-srv-small-talk-with-power.json",
+      "addedAt": "2026-09-03T23:28:48.263Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-01T22:22:55.780Z"
+  "generatedAt": "2026-09-03T23:28:48.263Z"
 }
