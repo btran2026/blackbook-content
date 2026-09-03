@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 57,
+  "manifestVersion": 58,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -403,7 +403,20 @@
       "url": "playbooks/playbook-srv-buying-a-car-without-getting-played.json",
       "addedAt": "2026-09-01T22:22:55.780Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-eyes-under-pressure",
+      "title": "Eyes Under Pressure",
+      "theme": "gaze",
+      "topic": "Reading the eyes and gaze under stress",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#0f172a",
+      "coverIcon": "👁️",
+      "url": "playbooks/playbook-srv-eyes-under-pressure.json",
+      "addedAt": "2026-09-03T17:28:34.372Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-01T22:22:55.780Z"
+  "generatedAt": "2026-09-03T17:28:34.372Z"
 }

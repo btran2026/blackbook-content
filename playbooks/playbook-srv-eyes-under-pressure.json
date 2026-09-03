@@ -1,0 +1,706 @@
+{
+  "meta": {
+    "id": "srv-eyes-under-pressure",
+    "version": "1.0",
+    "title": "Eyes Under Pressure",
+    "subtitle": "Reading Gaze and Stress Signals in Real Time",
+    "description": "A closed-file analysis of how stress writes itself across the eye — pupil, blink, gaze, and field. Twelve cards. No warmup required.",
+    "author": "AI",
+    "createdAt": "2026-09-03T17:28:34.372Z",
+    "tags": [
+      "gaze",
+      "stress",
+      "eye tracking",
+      "cognitive load",
+      "body language",
+      "interrogation",
+      "negotiation"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#0f172a",
+    "coverIcon": "👁️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Reading the eyes and gaze under stress",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "pupil",
+      "label": "Pupil Signals",
+      "color": "#7c3aed"
+    },
+    {
+      "key": "gaze",
+      "label": "Gaze Patterns",
+      "color": "#1e40af"
+    },
+    {
+      "key": "blink",
+      "label": "Blink & Rate",
+      "color": "#065f46"
+    },
+    {
+      "key": "load",
+      "label": "Cognitive Load",
+      "color": "#92400e"
+    },
+    {
+      "key": "field",
+      "label": "Field Applications",
+      "color": "#075985"
+    },
+    {
+      "key": "counter",
+      "label": "Countermeasures",
+      "color": "#9f1239"
+    },
+    {
+      "key": "deception",
+      "label": "Signal Reliability",
+      "color": "#1f2937"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "pupil",
+      "danger": "moderate",
+      "title": "Read Pupil Size to Spot Stress Before They Speak",
+      "hook": "The body's emergency system takes over the eye before the mouth catches up. <strong>Pupils don't lie on command.</strong>",
+      "truth": "Stress triggers the sympathetic nervous system and pupils dilate — fast, involuntarily, and visibly.\n• Dilation happens within milliseconds of a stress trigger, before any behavioral response.\n• The target's attention narrows; what they look at tells you what they fear.\n• Constriction under bright light masks the signal — check in dim or consistent lighting.",
+      "principle": "ANS: Sympathetic Arousal & Pupillary Dilation",
+      "remember": "Pupils get bigger when the brain feels threatened. Check the light first.",
+      "theySee": "A person sitting across from you whose eyes look visibly wider than a moment ago, with no change in the room's light.",
+      "signals": [
+        {
+          "l": "Wider pupils",
+          "t": "Pupils expand suddenly with no change in ambient light.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Fixed stare",
+          "t": "The person holds eye contact past the natural break point, locked on you.",
+          "icon": "🔒"
+        },
+        {
+          "l": "Rapid glance away",
+          "t": "Eyes dart to a door, a phone, or a neutral object immediately after a hard question.",
+          "icon": "↗️"
+        },
+        {
+          "l": "Blink stops",
+          "t": "Blink rate drops sharply in the second after a direct threat or accusation lands.",
+          "icon": "⏸️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Establish a baseline",
+          "desc": "Note pupil size and blink rate in the first 60 seconds, before any pressure is applied. Easy conversation works."
+        },
+        {
+          "n": "2",
+          "title": "Introduce one stressor",
+          "desc": "Ask one specific factual question that requires real recall. Watch the pupils in the first two seconds."
+        },
+        {
+          "n": "3",
+          "title": "Check the lighting",
+          "desc": "Verify the light hasn't changed between baseline and the stress read. Dilation in stable light is a clean signal."
+        }
+      ],
+      "script": "\"Before we get into the details — just walk me through exactly what happened that afternoon.\"",
+      "counter": "Someone reading YOUR pupils can catch your stress before you say a word.\n• Notice if they introduce bright lights or dim the room to sharpen their read.\n• Control your breathing — a slow exhale slows sympathetic response and dilation within 15 seconds.\n• Briefly glance toward a bright window to trigger natural constriction before a hard question arrives.",
+      "insight": "Pupil dilation is one of the clearest involuntary stress signals — but it gives you one clean read per stressor. The harder problem is knowing which specific thing caused it."
+    },
+    {
+      "id": 2,
+      "cat": "gaze",
+      "danger": "moderate",
+      "title": "Chaotic Eye Movement Means Their Brain Is Overloaded",
+      "hook": "When someone's eyes jump between three things without landing, <strong>their brain is running out of processing room.</strong> The eyes show you the map of their failure.",
+      "truth": "Under stress, gaze becomes erratic because the brain is trying to process more than it can handle at once.\n• Eyes scan rapidly and shallowly instead of locking onto one object or face.\n• The target misses information right in front of them — their attention is split across too many inputs.\n• Ask the key question at this moment and they're likely to give a less controlled answer.",
+      "principle": "Cognitive Load Theory: Sweller",
+      "remember": "Scattered eyes mean a scattered mind. Too much to process.",
+      "theySee": "A person whose eyes move quickly between the door, the table, your face, and back — without pausing on any of them.",
+      "signals": [
+        {
+          "l": "Fast scanning",
+          "t": "Eyes move across the room in short, rapid sweeps that don't settle on anything.",
+          "icon": "⚡"
+        },
+        {
+          "l": "No eye contact",
+          "t": "The person stops meeting your gaze entirely and looks past you or through you.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Repeated glances",
+          "t": "Eyes return to the same object two or three times in under ten seconds.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Head follows eyes",
+          "t": "The head starts turning to follow the gaze rather than staying still.",
+          "icon": "↔️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count their fixation points",
+          "desc": "Count how many different points their eyes visit in a 10-second window. More than four is the erratic signature."
+        },
+        {
+          "n": "2",
+          "title": "Stop talking for three seconds",
+          "desc": "Go silent. Watch whether their eyes settle on one point or keep moving. Settling means the peak is passing."
+        },
+        {
+          "n": "3",
+          "title": "Ask the key question now",
+          "desc": "Deliver the question you most need answered while their guard is down and their processing is maxed out."
+        }
+      ],
+      "script": "\"Take your time. I want to make sure I understand exactly what you were thinking at that point.\"",
+      "counter": "Erratic scanning in yourself is readable to anyone who knows what to look for.\n• When you feel eyes moving fast, fix your gaze on one object deliberately for five full seconds.\n• Slow your head movement — a still head anchors scattered eyes and reads as composure.\n• Name one thing you need to process before you look at anything else in the room.",
+      "insight": "Chaotic gaze is a window — but it closes fast. Stress peaks pass within seconds. Miss the window and they regroup."
+    },
+    {
+      "id": 3,
+      "cat": "blink",
+      "danger": "low",
+      "title": "High Blink Rate Means Working Memory Is Full",
+      "hook": "Blinking is the eye's reset button. <strong>When someone blinks fast, their brain is pressing reset over and over</strong> because it can't keep up with what's coming in.",
+      "truth": "Blink rate rises when the mind is under heavy mental demand — a direct signal that working memory is near capacity.\n• Normal blink rate is 15–20 per minute. Stress pushes it above 30.\n• Fast blinking means they're struggling to hold all the pieces in mind at once.\n• Slow blinking under stress signals fatigue, not calm — the distinction matters for your next move.",
+      "principle": "Blink Rate & Working Memory Load: Stern et al.",
+      "remember": "Fast blinking means the brain is full. Slow means tired.",
+      "theySee": "A person blinking noticeably more often than they were two minutes ago, while answering a detailed question.",
+      "signals": [
+        {
+          "l": "Blink burst",
+          "t": "Three or more blinks fire in quick succession during a single sentence.",
+          "icon": "💫"
+        },
+        {
+          "l": "Mid-sentence pause",
+          "t": "They stop talking mid-sentence and blink twice before finding the next word.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Eye squeeze",
+          "t": "A slow, deliberate squeeze of both eyes — a visible reset attempt.",
+          "icon": "😤"
+        },
+        {
+          "l": "Upward glance",
+          "t": "Eyes move upward briefly after blinking, as if searching for stored information.",
+          "icon": "⬆️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count blinks for 30 seconds",
+          "desc": "Establish baseline blink rate during easy small talk. Any low-stakes question works. Write the number down mentally."
+        },
+        {
+          "n": "2",
+          "title": "Introduce the real topic",
+          "desc": "Switch to the subject that matters. Count blinks again for the next 30 seconds and compare the two numbers."
+        },
+        {
+          "n": "3",
+          "title": "Record the trigger moment",
+          "desc": "Note the exact question or phrase that caused the rate to jump. That specific topic is where the load lives."
+        }
+      ],
+      "script": "\"I know there are a lot of moving parts here — which piece is hardest to explain?\"",
+      "counter": "Someone tracking your blink rate during a tough conversation is reading your mental load.\n• Breathe out slowly before answering — it lowers arousal and steadies blink rate within seconds.\n• Look down briefly before you speak — a short pause conceals the blink burst.\n• Rehearse the hardest questions in advance so they don't produce overload the first time.",
+      "insight": "Blink rate tells you WHEN someone is overloaded, not what's causing it. The next move is identifying which specific question triggered the spike."
+    },
+    {
+      "id": 4,
+      "cat": "blink",
+      "danger": "low",
+      "title": "Slow Eye Movement Means Fatigue, Not Calm",
+      "hook": "A person with slow, heavy-lidded eyes looks relaxed. <strong>They're not calm — they've run out of fuel.</strong> Fatigue and stress are both readable, but they call for different plays.",
+      "truth": "Fatigue slows eye movements and lengthens fixations. Stress makes them fast and scattered. Misreading one for the other costs you the read.\n• Fatigued eyes move slowly, rest longer on objects, and lids may droop slightly.\n• A fatigued person is easier to direct — resistance is low, but recall is also degraded.\n• Stress after fatigue creates a combined signature: slow scan with occasional erratic bursts.",
+      "principle": "Fatigue vs. Stress Differential: Smart Eye Applied Research",
+      "remember": "Slow eyes mean tired. Fast scattered eyes mean overloaded.",
+      "theySee": "A person whose eyelids look slightly heavy and whose gaze rests on one spot for three or four seconds without moving.",
+      "signals": [
+        {
+          "l": "Long fixation",
+          "t": "Eyes rest on one object or face for four or more seconds without moving to anything else.",
+          "icon": "📍"
+        },
+        {
+          "l": "Lid droop",
+          "t": "Upper eyelid settles slightly lower than usual, partially covering the iris.",
+          "icon": "😴"
+        },
+        {
+          "l": "Slow blink",
+          "t": "Each blink takes longer than normal to complete — almost a deliberate squeeze.",
+          "icon": "🐢"
+        },
+        {
+          "l": "Missed cue",
+          "t": "Something moves at the edge of the room and they don't react for a full beat.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Time each blink, not just the rate",
+          "desc": "Note how long each blink takes to complete. Under half a second is normal. Longer than that signals fatigue."
+        },
+        {
+          "n": "2",
+          "title": "Ask a simple factual question",
+          "desc": "A fatigued person answers slowly. A stressed person answers fast and wrong. Speed of reply is the separator."
+        },
+        {
+          "n": "3",
+          "title": "Adjust your pace to what you found",
+          "desc": "With a fatigued target, slow down — let them process. With a stressed one, move faster while they're still off-balance."
+        }
+      ],
+      "script": "\"We can slow down if you need a minute — I want to make sure we get this right.\"",
+      "counter": "Looking tired in front of someone who can use it is a real risk.\n• Splash cold water on your face before any high-stakes meeting — it temporarily sharpens visible alertness.\n• Sit upright with both feet on the floor — posture changes the visible fatigue signature immediately.\n• Ask a question instead of answering one — it shifts the reading role back to you.",
+      "insight": "Fatigue is more exploitable than stress because resistance is gone. The harder question is whether you can keep the person in that state long enough to finish what you came to do."
+    },
+    {
+      "id": 5,
+      "cat": "load",
+      "danger": "high",
+      "title": "Tunnel Vision Shows the Body Has Taken Over the Mind",
+      "hook": "When stress goes extreme, the visual field physically narrows. <strong>The person in front of you is now seeing a smaller world.</strong> They miss what's on the sides entirely.",
+      "truth": "Extreme stress causes tunnel vision — the peripheral visual field shrinks as the brain locks onto a single perceived threat.\n• A person in tunnel vision is not registering faces, exits, or secondary information in the room.\n• Decision quality collapses at this point and instinct takes over rational processing.\n• Presenting new information during tunnel vision is mostly wasted — it won't be taken in.",
+      "principle": "Sympathetic Dominance: Tunnel Vision Under Extreme Arousal",
+      "remember": "Someone in tunnel vision sees less than you. Wait or redirect.",
+      "theySee": "A person staring straight at one fixed point — you, the door, or a document — with no eye movement left or right for five seconds or more.",
+      "signals": [
+        {
+          "l": "Locked stare",
+          "t": "The person fixes on one point and does not move their eyes for five or more seconds.",
+          "icon": "🎯"
+        },
+        {
+          "l": "No peripheral reaction",
+          "t": "Something moves at the edge of the room and they don't react at all.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Body freezes",
+          "t": "The rest of the body stops moving — hands, head, and shoulders go still together.",
+          "icon": "🗿"
+        },
+        {
+          "l": "Shallow breath",
+          "t": "Breathing becomes shallow and fast — visible in the chest rising quickly and irregularly.",
+          "icon": "💨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name what you observe",
+          "desc": "Say something direct: 'You look like you're carrying a lot right now.' This breaks the fixation loop without confrontation."
+        },
+        {
+          "n": "2",
+          "title": "Change the physical setup",
+          "desc": "Ask them to stand up, walk to a window, or shift seats. Moving the body interrupts tunnel vision faster than talking."
+        },
+        {
+          "n": "3",
+          "title": "Reintroduce information after the break",
+          "desc": "Wait until their eyes start moving again before presenting any new facts or asking any question that matters."
+        }
+      ],
+      "script": "\"Let's step out for two minutes. I need to check something — and it'll give us both a second to reset.\"",
+      "counter": "If you are the one in tunnel vision, you have lost the read advantage entirely.\n• Name five things you can physically see right now — out loud or silently. This widens the field.\n• Exhale longer than you inhale for three breaths. This slows the sympathetic response.\n• Do not make any commitment or final decision until peripheral awareness comes back.",
+      "insight": "Tunnel vision is the most visible extreme stress signal and the hardest to fake. But it also means the person is past the point of useful decision-making. What you do with that gap is the real question."
+    },
+    {
+      "id": 6,
+      "cat": "gaze",
+      "danger": "moderate",
+      "title": "Gaze Duration Tells You What They're Prioritizing Under Pressure",
+      "hook": "What someone looks at longest under pressure is what their brain says matters most. <strong>That's not always what they say out loud.</strong>",
+      "truth": "Where eyes land and how long they stay reveals how the brain has ranked threats — the unconscious priority list.\n• Long fixation on your face means they read you as the source of threat or the key information.\n• Long fixation on an object — phone, door, document — means escape or safety is the real priority.\n• Short fixations across everything means the brain hasn't ranked threats yet and you still have time.",
+      "principle": "Fixation Duration & Attention Allocation: Applied Eye-Tracking Research",
+      "remember": "Long stare means they ranked that thing as the main threat in the room.",
+      "theySee": "A person whose eyes keep returning to your face for two or three seconds at a time, then looking down, then back to you.",
+      "signals": [
+        {
+          "l": "Eyes return to you",
+          "t": "The person looks away, then back to you within five seconds — repeatedly throughout the conversation.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Document lock",
+          "t": "Eyes drop to a paper or screen and stay there for four or more seconds mid-conversation.",
+          "icon": "📄"
+        },
+        {
+          "l": "Door check",
+          "t": "Eyes move to the exit once, then twice, within a single minute.",
+          "icon": "🚪"
+        },
+        {
+          "l": "Face scan",
+          "t": "Eyes move across your face — eyes to mouth to eyes — in a rapid triangle pattern.",
+          "icon": "△"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Track the longest fixation point",
+          "desc": "In a 60-second window, identify what they look at longest: your face, an object, or the exit. One of those is the priority."
+        },
+        {
+          "n": "2",
+          "title": "Match fixation to their stated concern",
+          "desc": "If they say they're fine but fixate on the exit, the stated position and the real concern are not the same."
+        },
+        {
+          "n": "3",
+          "title": "Ask directly about the fixation target",
+          "desc": "Name the thing their eyes keep returning to. Ask about it specifically. Watch whether they deny its importance."
+        }
+      ],
+      "script": "\"You keep looking at the contract — what's the piece there that's not sitting right for you?\"",
+      "counter": "Controlled gaze direction hides your real priorities from anyone running this read.\n• Deliberately look at a neutral object — wall or window — rather than the thing you most want to check.\n• Practice holding gaze on the speaker even when you want to look away from them.\n• When you feel the urge to check the exit, look at the speaker's chin instead — it reads as eye contact.",
+      "insight": "Fixation tells you the hierarchy of threats in their mind. The next move is using that hierarchy before they consciously rearrange it."
+    },
+    {
+      "id": 7,
+      "cat": "load",
+      "danger": "high",
+      "title": "Read Cognitive Overload Before the Error Happens",
+      "hook": "Errors don't arrive suddenly. <strong>The eyes announce them three to five seconds before the decision lands.</strong>",
+      "truth": "Cognitive overload shows in gaze before any behavioral error — this is what emergency room and aviation research both confirm.\n• Erratic gaze, pupil dilation, and rising blink rate cluster together at peak load.\n• The person is about to make a choice their brain isn't ready for.\n• Interrupt the process at this moment — not after the error — to change the result.",
+      "principle": "Cognitive Overload Detection: Applied Eye-Tracking Protocols — Smart Eye",
+      "remember": "The eyes signal overload before the person knows they're in trouble.",
+      "theySee": "A doctor in a loud, crowded room whose eyes are scanning quickly across monitors and faces without settling on any of them.",
+      "signals": [
+        {
+          "l": "Three signals cluster",
+          "t": "Erratic gaze, fast blinks, and dilated pupils all appear within the same 10-second window.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Missed instruction",
+          "t": "Someone says something clearly and the person doesn't react for two full seconds.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Repeated look-back",
+          "t": "Eyes return to the same information source three or more times in under 30 seconds.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Task stops mid-step",
+          "t": "A task in progress stops with no explanation and the person's gaze goes unfocused.",
+          "icon": "⏹️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch for the three-signal cluster",
+          "desc": "Look for erratic gaze AND fast blinks AND dilated pupils together. One signal alone is noise. Three at once is the read."
+        },
+        {
+          "n": "2",
+          "title": "Remove one input from the environment",
+          "desc": "End a side conversation, close a screen, or move to a quieter space. One less input changes the load immediately."
+        },
+        {
+          "n": "3",
+          "title": "Ask one question, not five",
+          "desc": "When someone is overloaded, one direct question cuts through. Delivering five questions at once makes every answer worse."
+        }
+      ],
+      "script": "\"Stop — before you decide, tell me the one thing you're most unsure about right now.\"",
+      "counter": "If someone is watching for your overload signals, they can time pressure to hit when you're most vulnerable.\n• Build in a hard pause before any decision under time pressure — two full seconds minimum, non-negotiable.\n• Name the decision out loud before you make it — this forces slower processing and reduces erratic scanning.\n• Recognize the three-signal cluster in yourself: if your eyes are moving fast and you're blinking a lot, you are not ready.",
+      "insight": "Intercepting someone at peak overload is a skill used by emergency clinicians and interrogators alike. The distance between those two applications is thinner than most people want to admit."
+    },
+    {
+      "id": 8,
+      "cat": "field",
+      "danger": "moderate",
+      "title": "Use Gaze Signals Across the Table to Read Stress in Negotiations",
+      "hook": "The eye is the fastest betrayer at a negotiating table. <strong>Stress shows up in gaze before a single word is spoken.</strong>",
+      "truth": "In a high-stakes conversation, gaze reveals real reactions before a controlled verbal response forms.\n• A fast look away after you name a number tells you the number landed — positively or negatively.\n• Sustained eye contact after a demand signals they're buying time, not agreeing.\n• Pupils dilate when a genuinely alarming offer arrives — even if the face stays flat.",
+      "principle": "Leakage Theory: Ekman & Friesen",
+      "remember": "The first two seconds of gaze after your number tells you everything.",
+      "theySee": "A person sitting across a table who looks directly at you for a half-second after you name a price, then looks down at their papers.",
+      "signals": [
+        {
+          "l": "Look-away on number",
+          "t": "Eyes move away within one second of hearing a price or specific demand.",
+          "icon": "↙️"
+        },
+        {
+          "l": "Sustained contact",
+          "t": "Eyes hold your gaze for three or more seconds after a demand — no blinking.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Pupil jump",
+          "t": "Pupils visibly widen the moment a specific number or term is spoken.",
+          "icon": "⭕"
+        },
+        {
+          "l": "Eyes drop to hands",
+          "t": "Gaze drops to their own hands or the table rather than to any document.",
+          "icon": "👇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the number and stop talking",
+          "desc": "Say the figure and go silent for five seconds. Watch the eyes in the first two seconds before they speak."
+        },
+        {
+          "n": "2",
+          "title": "Note the look-away direction",
+          "desc": "Down means discomfort or calculation. Sideways means they're running a rehearsed response. Up means genuine surprise."
+        },
+        {
+          "n": "3",
+          "title": "Ask about what the eyes pointed to",
+          "desc": "If their eyes moved to a specific document or person in the room, ask directly about that specific thing next."
+        }
+      ],
+      "script": "\"The number is $140,000. That's where we're starting.\"",
+      "counter": "Your own gaze after their offer tells them everything they need.\n• Look at the table surface for two seconds before responding to any number — it hides the first reaction.\n• Dim or consistent light reduces how much they can read from your pupils.\n• Say 'Let me think about that' while deliberately slowing your blink rate before you say anything else.",
+      "insight": "Gaze reading in a negotiation gives you one clean read per high-stakes moment. Use it on the offer you care about most — you can't reset their attention to natural once they know you're watching."
+    },
+    {
+      "id": 9,
+      "cat": "load",
+      "danger": "moderate",
+      "title": "Stress Blurs the Target's Own Vision — Work With That",
+      "hook": "Under enough stress, the person across from you is not seeing the room clearly. <strong>Their eyes have changed the physics of what they can read.</strong>",
+      "truth": "Stress raises intraocular pressure and can blur vision — the target is literally seeing worse than they were five minutes ago.\n• Hyperventilation during extreme stress reduces oxygen to the visual system and causes blurry vision directly.\n• A person in high stress may struggle to read a document, see expressions, or process fine detail.\n• Presenting detailed written information at peak stress ensures it won't be read accurately.",
+      "principle": "Cortisol Effect on Visual Acuity & Intraocular Pressure",
+      "remember": "A stressed person's vision is physically worse. Skip the fine print.",
+      "theySee": "A person squinting at a document or leaning forward trying to read text they would normally read easily at arm's length.",
+      "signals": [
+        {
+          "l": "Squints at text",
+          "t": "The person leans in and squints at a document they would normally read without effort.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Rereads same line",
+          "t": "Their eyes track back to the start of the same sentence two or three times before moving on.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Asks for repeat",
+          "t": "They ask you to repeat something you said clearly and at normal volume.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Eye rubbing",
+          "t": "They press fingers to their eyes briefly — a sign of eye strain or pressure buildup.",
+          "icon": "👁️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch for the squint or lean-in",
+          "desc": "Any time someone leans forward to read something they should see easily, their visual processing is degraded right now."
+        },
+        {
+          "n": "2",
+          "title": "Delay complex documents",
+          "desc": "Do not hand over a detailed agreement or multi-page document while someone shows signs of high stress. It will not be read accurately."
+        },
+        {
+          "n": "3",
+          "title": "Deliver key points verbally, not on paper",
+          "desc": "Say the most important fact clearly and once. The ear handles stress better than the eye in this state."
+        }
+      ],
+      "script": "\"Let me just walk you through the key points — you can look at the full document after we talk.\"",
+      "counter": "If your own vision is going blurry or strained under pressure, you are making decisions with bad inputs.\n• Look at something 20 feet away for 20 seconds — this resets focal distance and relieves pressure.\n• Ask for the document digitally so you can zoom in — accuracy matters more than appearance.\n• Say aloud what you just read before you respond to it — this confirms your comprehension before you commit.",
+      "insight": "Degraded vision under stress means the target can't read the fine print accurately. The more important question is who put them in that state, and whether it was deliberate."
+    },
+    {
+      "id": 10,
+      "cat": "counter",
+      "danger": "high",
+      "title": "Hide Your Own Stress Signals Before They're Read",
+      "hook": "Everything this dossier teaches about reading others works on you too. <strong>The person across from you may have read these same pages.</strong>",
+      "truth": "Every stress signal your eyes produce is readable by someone who knows what to look for — pupils, blink rate, gaze direction, fixation.\n• The fastest fix is breathing: a slow exhale lowers sympathetic drive and steadies pupils and blink rate within 15 seconds.\n• Deliberate gaze direction — fixing on a neutral mid-distance point — stops the erratic scan cold.\n• Preparing for the hardest questions in advance means their content doesn't produce overload in the moment.",
+      "principle": "Gaze Control Under Sympathetic Arousal: Countermeasure Training",
+      "remember": "Slow your breathing before the meeting starts. Everything else follows from that.",
+      "theySee": "A person sitting across from you who holds eye contact naturally and blinks at a normal pace even while being pressed hard on a difficult question.",
+      "signals": [
+        {
+          "l": "Blink burst in you",
+          "t": "You feel multiple blinks firing in quick succession — your mental load is spiking right now.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Eyes moving fast",
+          "t": "You notice your gaze jumping between points without landing — the overload signature appearing in yourself.",
+          "icon": "💫"
+        },
+        {
+          "l": "Look-away moment",
+          "t": "Your eyes break from the speaker and move to a neutral object during a hard question.",
+          "icon": "↗️"
+        },
+        {
+          "l": "Gaze drops",
+          "t": "Your eyes drop to the table for one second after the hardest question lands before you recover.",
+          "icon": "👇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Run one slow breath cycle before entering",
+          "desc": "Exhale for six seconds before you walk in. This lowers baseline sympathetic arousal and slows pupil response before the first question."
+        },
+        {
+          "n": "2",
+          "title": "Fix gaze on the speaker's chin or nose bridge",
+          "desc": "It reads as confident eye contact. Sustained direct eye contact actually raises arousal — this avoids that."
+        },
+        {
+          "n": "3",
+          "title": "Rehearse the three hardest questions out loud the day before",
+          "desc": "Say them and answer them aloud alone. A question that has been processed once doesn't produce overload the second time."
+        }
+      ],
+      "script": "\"Give me one second — I want to make sure I answer this accurately.\"",
+      "counter": "A reader actively controlling their signals is showing you a different kind of tell — too-perfect eye contact, suspiciously even blink rate, deliberate breathing.\n• Watch for someone who never looks away: that's trained, not natural.\n• Notice if the blink rate is unusually consistent — natural blink rate varies throughout a conversation.\n• A tiny pause before every answer, including easy ones, suggests rehearsal rather than genuine response.",
+      "insight": "The best countermeasure is not controlling your signals — it's removing the stress that generates them. That requires knowing the hard questions before you walk in."
+    },
+    {
+      "id": 11,
+      "cat": "field",
+      "danger": "moderate",
+      "title": "High-Stakes Professions Use Eye Signals to Catch Errors Before They Land",
+      "hook": "Emergency rooms and cockpits don't wait for the error to happen. <strong>They read the eyes of the person about to make it.</strong>",
+      "truth": "Eye-tracking research in medicine and aviation shows that cognitive overload signatures appear in gaze before behavioral errors occur.\n• Surgeons show erratic gaze and rising blink rate before critical errors in the operating room.\n• Pilots in high-load situations shift from wide scanning to fixating on one instrument — the pre-crash gaze signature.\n• Monitoring these signals allows intervention before the mistake: task delegation, pace reduction, or a deliberate pause.",
+      "principle": "Applied Eye-Tracking Safety Protocols: Smart Eye & Aviation Research",
+      "remember": "Read the gaze signal before the bad decision happens. Act on it.",
+      "theySee": "A surgeon in an operating room whose eyes stop scanning the full field and lock onto one monitor for several seconds during a critical moment.",
+      "signals": [
+        {
+          "l": "Scan narrows",
+          "t": "A person who was scanning broadly suddenly fixes on one thing and stops moving their eyes.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Single screen lock",
+          "t": "A clinician's or pilot's eyes lock onto one readout and don't move to anything else for several seconds.",
+          "icon": "📊"
+        },
+        {
+          "l": "Task freeze",
+          "t": "Hands stop mid-task while eyes fixate — the brain is deciding and can't do both at once.",
+          "icon": "⏹️"
+        },
+        {
+          "l": "Team ignored",
+          "t": "Someone in the room speaks clearly and the person at peak load doesn't look at them at all.",
+          "icon": "🔇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Learn their normal scan pattern first",
+          "desc": "In a calm or training setting, note how widely their eyes move and what they cover. That is the baseline you compare against later."
+        },
+        {
+          "n": "2",
+          "title": "Intervene when the scan narrows sharply",
+          "desc": "Say the person's name and ask one direct question. This resets the fixation without stopping the task entirely."
+        },
+        {
+          "n": "3",
+          "title": "Reduce load immediately after the signal",
+          "desc": "Remove one input, delegate one task, or slow one process. The reduction happens before the decision, not after it."
+        }
+      ],
+      "script": "\"Hey — one thing at a time. What's the single most important thing in front of you right now?\"",
+      "counter": "If a system or supervisor is monitoring your eye signals, they hold early information you don't know they have.\n• In any monitored environment, know what the baseline expectations for your role are before the high-load event.\n• Ask for a briefing before high-load events — a person with prior information shows calmer gaze patterns.\n• In simulation or training, intentionally practice the scenarios that produce your worst gaze signatures.",
+      "insight": "The gap between the signal and the error is where the best people in a room earn their position. Most teams wait for the mistake. The best teams read the eyes three seconds earlier."
+    },
+    {
+      "id": 12,
+      "cat": "deception",
+      "danger": "high",
+      "title": "Know When Eye Signals Are Unreliable",
+      "hook": "Every signal in this dossier has a noise floor. <strong>Reading one signal alone and acting on it will cost you.</strong>",
+      "truth": "Eye signals are probabilistic, not certain — any single indicator can be wrong, and trained people suppress them deliberately.\n• Pupil dilation, blink changes, and gaze patterns all vary with medication, lighting, screen use, and plain tiredness.\n• A skilled professional produces normal-looking gaze under genuine stress — the signals are there but below your detection threshold.\n• The only reliable read is a cluster of signals that change from a known baseline — one signal is a hypothesis, not a conclusion.",
+      "principle": "Signal Reliability & False Positive Rates: Stress Detection Research",
+      "remember": "One signal is a guess. Three against a baseline is a read.",
+      "theySee": "A person sitting across from you who holds eye contact naturally, blinks at a normal pace, and shows no change in gaze pattern during an exchange you know is tense for them.",
+      "signals": [
+        {
+          "l": "Single signal only",
+          "t": "You see one tell — pupil dilation — but nothing else in their behavior has changed from baseline.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Light changed",
+          "t": "The room lighting shifted since you established baseline — this alone explains any pupil change you're reading.",
+          "icon": "💡"
+        },
+        {
+          "l": "Recent screen use",
+          "t": "The person was staring at a screen before you met — dry eyes and blink suppression are already present.",
+          "icon": "💻"
+        },
+        {
+          "l": "Too-perfect signals",
+          "t": "Every signal looks textbook: steady gaze, even blinks, relaxed posture — that combination is trained, not natural.",
+          "icon": "🎭"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Establish baseline before reading any signal",
+          "desc": "Spend the first 60 seconds noting normal blink rate, gaze pattern, and pupil size before any pressure is applied. No baseline means no valid read."
+        },
+        {
+          "n": "2",
+          "title": "Require three signals before acting on a read",
+          "desc": "Do not move on a single tell. Wait for pupil change AND gaze shift AND blink rate change before drawing any conclusion."
+        },
+        {
+          "n": "3",
+          "title": "Check for environmental reasons first",
+          "desc": "Ask: has the light changed? Has the person been on a screen? Are they on medication? Eliminate those before you call the signal stress."
+        }
+      ],
+      "script": "\"Before we get into the hard part — let's just go through the background briefly so I understand the full picture.\"",
+      "counter": "Someone claiming to read your stress from eye signals alone is either guessing or working from a single tell.\n• Ask them what baseline they're comparing to — no baseline means no valid read, and saying so stops the play.\n• Change one environmental variable — lights, seating — and watch their read fall apart.\n• Understand that clinical-accuracy eye tracking requires equipment. A human reading pupils across a table has significant error margins.",
+      "insight": "The most dangerous reader isn't the one who knows all the signals. It's the one who knows which signals are real for you specifically — and they got that by watching you before you knew you were being watched."
+    }
+  ]
+}
