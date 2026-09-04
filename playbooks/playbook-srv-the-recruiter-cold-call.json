@@ -1,0 +1,1000 @@
+{
+  "meta": {
+    "id": "srv-the-recruiter-cold-call",
+    "version": "1.0",
+    "title": "The Recruiter Cold Call",
+    "subtitle": "Fielding the Call Without Tipping Your Hand",
+    "description": "A recruiter calls out of the blue. They have run this call a thousand times. You have taken it maybe twice. Sixteen cards on what they are doing, in the order they do it — and what you say back to keep your job, your number, and your options.",
+    "author": "AI",
+    "createdAt": "2026-08-26T21:20:04.104Z",
+    "tags": [
+      "recruiters",
+      "career",
+      "negotiation",
+      "information control",
+      "job search",
+      "salary"
+    ],
+    "totalCards": 16,
+    "isSeeded": true,
+    "coverColor": "#1F3A5F",
+    "coverIcon": "📞",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "cold-open",
+      "label": "The Cold Open",
+      "color": "#1F3A5F"
+    },
+    {
+      "key": "reading",
+      "label": "Reading What They Actually Want",
+      "color": "#4A6FA5"
+    },
+    {
+      "key": "extracting",
+      "label": "Extracting Intel Without Committing",
+      "color": "#2E7D6B"
+    },
+    {
+      "key": "using-it",
+      "label": "Using It Without Leaving",
+      "color": "#B08228"
+    },
+    {
+      "key": "want-out",
+      "label": "If You Actually Want Out",
+      "color": "#8C3B3B"
+    },
+    {
+      "key": "after",
+      "label": "After You Hang Up",
+      "color": "#5B4B8A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "cold-open",
+      "danger": "low",
+      "title": "Never Take the Call Live",
+      "principle": "Schelling: Commitment Through Delay",
+      "remember": "Never answer cold. Book the call for later, on your terms.",
+      "when": "An unknown number calls and a voice says they have a role you should hear about.",
+      "hook": "They called at a time that works for them. <strong>Every minute you talk unprepared is a minute they control.</strong>",
+      "truth": "A cold call is an ambush with a friendly voice.\n• They picked the moment. You are between meetings, half-listening.\n• Off balance, you answer questions you would normally dodge.\n• Move the call and you get the same info with a plan.",
+      "theySee": "A busy professional who takes calls seriously and books them properly.",
+      "signals": [
+        {
+          "icon": "📵",
+          "l": "Unknown number",
+          "t": "They call from a number you do not have saved"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Fast open",
+          "t": "They start the pitch in the first ten seconds"
+        },
+        {
+          "icon": "🎯",
+          "l": "Early question",
+          "t": "They ask what you make now before they name the company"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat attempt",
+          "t": "They call twice in one day if you do not pick up"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Let it ring",
+          "desc": "Do not pick up an unknown number during your workday. Let it go to voicemail."
+        },
+        {
+          "n": "2",
+          "title": "Reply by text or email",
+          "desc": "Send one line asking for the company name and the role before you book anything."
+        },
+        {
+          "n": "3",
+          "title": "Book a slot after work",
+          "desc": "Pick a time when you are alone, at home, with notes in front of you."
+        }
+      ],
+      "script": "\"Happy to talk. Send me the company name and the job description first, and I'll take a call Thursday at 6.\"",
+      "example": "Dev picked up a recruiter call in a stairwell at 2pm and gave his salary in the first minute. The next one he let ring. He texted back, got the job description, and took the call at 6 with his numbers written down. That role came in $22K higher.",
+      "watchFor": "They stop pitching and send the job description in writing.",
+      "ifItFails": "They push back and say they only have five minutes now. That is a pressure move, not a schedule. Say: <strong>\"Then I'm not your candidate today — send the details and we'll find fifteen minutes next week.\"</strong> A real recruiter with a real role will find the time.",
+      "counter": "If someone insists on talking right now, they want you unprepared.\n• Notice the urgency has no reason attached to it.\n• Say: \"Give me a time window and I'll call you.\"\n• Hang up and write down what you want to ask.",
+      "insight": "The call you control tells you more than the call you survive. The harder part is what you do with the twenty minutes you just bought yourself."
+    },
+    {
+      "id": 2,
+      "cat": "cold-open",
+      "danger": "moderate",
+      "title": "Never Say Your Current Salary",
+      "principle": "Anchoring Bias — First Number Sets the Range",
+      "remember": "Your old number becomes their ceiling. Do not say it.",
+      "when": "The recruiter asks what you currently earn, usually in the first three minutes.",
+      "hook": "They ask early because the first number anchors everything after it. <strong>Say it and you have negotiated the whole deal in four seconds.</strong>",
+      "truth": "Your current salary is the single most valuable thing you own in this call.\n• They price you off what you make, not what the job is worth.\n• Once they hear it, every offer lands just above it.\n• The dodge is not silence. It is a different number.",
+      "theySee": "A candidate who knows the market rate and answers the question they were asked.",
+      "signals": [
+        {
+          "icon": "💰",
+          "l": "Early ask",
+          "t": "They ask about pay before they describe the job"
+        },
+        {
+          "icon": "📋",
+          "l": "Form excuse",
+          "t": "They say their system requires a current salary field"
+        },
+        {
+          "icon": "🤝",
+          "l": "Fairness pitch",
+          "t": "They say they ask so they do not waste your time"
+        },
+        {
+          "icon": "↩️",
+          "l": "Repeat ask",
+          "t": "They come back to the number twice in one call"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Look up the band before the call",
+          "desc": "Check Levels.fyi or Glassdoor for the title and city. Write down a range."
+        },
+        {
+          "n": "2",
+          "title": "Answer with the target, not the history",
+          "desc": "Say what you would move for. Never say what you take home now."
+        },
+        {
+          "n": "3",
+          "title": "Hand the question back",
+          "desc": "Ask what the range on the role is. Make them name a number first."
+        }
+      ],
+      "script": "\"I don't share my current number — it's tied to equity and a bonus that don't transfer. For a move I'd be looking at <strong>$180K to $200K base</strong>. What's the band on this role?\"",
+      "example": "Priya's recruiter asked her salary twice. Both times she gave her target range and asked for theirs. The recruiter finally said $175K to $195K — $30K above what Priya made. She started the process at the top of their band, not the bottom.",
+      "watchFor": "They give you their range instead of asking again.",
+      "ifItFails": "They say the system will not let them submit you without a number. Do not invent a fake current salary in writing — that follows you into background checks. Say: <strong>\"Put my expected number in the field: $185K. If the system needs a source, it's my market rate, not my payslip.\"</strong> If they still refuse, they are not the recruiter you want.",
+      "counter": "If someone asks your number before naming theirs, they are anchoring you.\n• Notice the question arrives before any job detail.\n• Say: \"What's the range you're working with?\"\n• Do not fill the silence after. Let them answer.",
+      "insight": "Most people think refusing sounds difficult. Giving a target instead sounds cooperative and costs them the anchor. The next question is whether your target is high enough — most people aim at what they hope for, not what the job pays."
+    },
+    {
+      "id": 3,
+      "cat": "cold-open",
+      "danger": "moderate",
+      "title": "Do Not Say You Are Happy Where You Are",
+      "principle": "Gracián: Keep Your Intentions Dark",
+      "remember": "Never say happy. Never say looking. Say open.",
+      "when": "The recruiter opens with \"Are you happy in your current role?\"",
+      "hook": "Both answers cost you. <strong>\"Happy\" ends the call. \"Looking\" cuts your price.</strong>",
+      "truth": "That question is a sorting tool, not small talk.\n• \"Happy\" tells them to spend their time elsewhere.\n• \"Looking\" tells them you are cheap and in a hurry.\n• The third answer keeps the call and keeps the price.",
+      "theySee": "A person who is doing well and would still hear a strong pitch.",
+      "signals": [
+        {
+          "icon": "🎣",
+          "l": "Opening probe",
+          "t": "They ask about your happiness in the first minute"
+        },
+        {
+          "icon": "⏳",
+          "l": "Timeline probe",
+          "t": "They ask how long you have been in the role"
+        },
+        {
+          "icon": "📉",
+          "l": "Complaint bait",
+          "t": "They mention layoffs or reorgs at your company to see if you bite"
+        },
+        {
+          "icon": "⚡",
+          "l": "Speed shift",
+          "t": "They speed up the pitch once you sound available"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick your line before the call",
+          "desc": "Write one sentence that says you are doing well and still curious."
+        },
+        {
+          "n": "2",
+          "title": "Say it and stop",
+          "desc": "Do not add a reason. Reasons leak what you want."
+        },
+        {
+          "n": "3",
+          "title": "Turn it into a question",
+          "desc": "Ask why they thought of you for this role. Make them sell."
+        }
+      ],
+      "script": "\"Things are going well — I shipped a big project last quarter. I'm not looking, but I always take a good conversation. <strong>Why me for this one?</strong>\"",
+      "example": "Tomas said \"pretty happy, honestly\" and the recruiter wrapped the call in four minutes. Six weeks later a different recruiter asked the same thing. He said \"going well, but I take good calls.\" That one turned into two interviews and a competing offer he used at his own company.",
+      "watchFor": "They start selling the role harder instead of qualifying you.",
+      "ifItFails": "They read the neutral answer as a no and start winding the call down. Do not chase — that flips the power. Give them one hook and let them come back: <strong>\"Send me the description anyway. If the scope is bigger than what I run now, I'll make time.\"</strong> Now they have to prove the job is big.",
+      "counter": "If someone asks whether you are happy before they describe anything, they are sorting you.\n• Notice they have not told you the company or the pay.\n• Say: \"Tell me about the role first.\"\n• Do not volunteer any complaint about your current job.",
+      "insight": "Scarcity is the only thing you have before an offer exists. This works until they check your LinkedIn and see you turned on Open To Work last week."
+    },
+    {
+      "id": 4,
+      "cat": "reading",
+      "danger": "low",
+      "title": "Find Out If They Are Internal or Agency",
+      "principle": "Principal-Agent Problem",
+      "remember": "Ask who pays them. It changes everything they say.",
+      "when": "You are three minutes in and you still do not know who the recruiter works for.",
+      "hook": "An agency recruiter gets paid when you sign, not when you thrive. <strong>Who signs their check decides which facts they share.</strong>",
+      "truth": "There are two different people on the other end of this call.\n• An internal recruiter protects the company and the hiring manager.\n• An agency recruiter earns 20% of your first-year pay on a signature.\n• The agency one has a reason to push your number up — and to rush you.",
+      "theySee": "A candidate asking a normal process question about who is involved.",
+      "signals": [
+        {
+          "icon": "🏢",
+          "l": "Email domain",
+          "t": "Their email ends in a staffing firm's domain, not the company's"
+        },
+        {
+          "icon": "🙈",
+          "l": "No company name",
+          "t": "They describe the company but will not name it"
+        },
+        {
+          "icon": "📄",
+          "l": "Resume request",
+          "t": "They ask for your resume before they show a job description"
+        },
+        {
+          "icon": "⏩",
+          "l": "Speed push",
+          "t": "They want to submit you today"
+        },
+        {
+          "icon": "🔒",
+          "l": "Exclusivity ask",
+          "t": "They ask you not to apply anywhere else through anyone"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask who they work for",
+          "desc": "Ask directly in the first five minutes. Do not guess from the accent or the pitch."
+        },
+        {
+          "n": "2",
+          "title": "Ask who the hiring manager is",
+          "desc": "Internal recruiters know the name. Agency recruiters often do not."
+        },
+        {
+          "n": "3",
+          "title": "Check the email domain after the call",
+          "desc": "Open their last email and read the part after the @."
+        }
+      ],
+      "script": "\"Quick housekeeping — are you on the company's team, or are you at an agency working the role? And who's the hiring manager?\"",
+      "example": "Anna asked in minute two. The recruiter said he was at an agency and could not name the company yet. She refused to send a resume until he did. He named it — she was already in process there directly, and his submission would have blocked her own application.",
+      "watchFor": "They name the company and the hiring manager without hedging.",
+      "ifItFails": "They dodge and say they cannot disclose the client yet. That is real early, but it has a cost. Say: <strong>\"Then I can't send a resume — I've been submitted places I was already in process. Name the client and I'll answer in an hour.\"</strong> A real mandate produces the name.",
+      "counter": "If someone wants your resume before they name the company, they are farming candidates.\n• Notice the job description is vague and the urgency is high.\n• Say: \"Name the client and I'll send it.\"\n• Keep a written list of every company you have been submitted to.",
+      "insight": "Agency recruiters are not the enemy — they are paid to raise your number. The trap is that they are also paid to close it fast, and fast is where you lose."
+    },
+    {
+      "id": 5,
+      "cat": "reading",
+      "danger": "moderate",
+      "title": "Work Out If a Real Job Exists",
+      "principle": "Sun Tzu: Know the Ground Before You March",
+      "remember": "Ask if the job is approved and funded. Many are not.",
+      "when": "The recruiter describes an exciting role but talks in general terms about the team.",
+      "hook": "Half these calls are about a job that is not approved yet. <strong>You cannot negotiate against a job that does not exist.</strong>",
+      "truth": "Recruiters build pipelines months before roles open.\n• They collect candidates now to look fast later.\n• A pitch with no headcount number is a fishing trip.\n• Three questions separate the real role from the pipeline call.",
+      "theySee": "A candidate who has done this before and asks practical process questions.",
+      "signals": [
+        {
+          "icon": "🕳️",
+          "l": "No start date",
+          "t": "They cannot tell you when the role starts"
+        },
+        {
+          "icon": "👥",
+          "l": "Vague team",
+          "t": "They cannot say how many people are on the team"
+        },
+        {
+          "icon": "📊",
+          "l": "No band",
+          "t": "They will not give a salary range even after you ask twice"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Old posting",
+          "t": "The job has been posted for over three months"
+        },
+        {
+          "icon": "🤷",
+          "l": "No manager",
+          "t": "They cannot name who you would report to"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask if the headcount is approved",
+          "desc": "Ask whether the role is signed off and in the budget for this year."
+        },
+        {
+          "n": "2",
+          "title": "Ask how many people they have interviewed",
+          "desc": "A real role has a pipeline. Zero interviews after six weeks is a bad sign."
+        },
+        {
+          "n": "3",
+          "title": "Ask when they want someone to start",
+          "desc": "A real hiring manager has a date in their head."
+        }
+      ],
+      "script": "\"Three things before I spend time on this: <strong>is the headcount approved, how many candidates are in process, and when do they want someone in the seat?</strong>\"",
+      "example": "Marcus got a call about a director role at a hot startup. He asked the three questions. The recruiter admitted the headcount opened in Q1 — four months out. Marcus said keep me posted and hung up in six minutes instead of doing three interviews for nothing.",
+      "watchFor": "They answer all three with specifics instead of adjectives.",
+      "ifItFails": "They give warm non-answers and say things are moving fast. Stop asking and make them prove it with a calendar. Say: <strong>\"Then put me in front of the hiring manager this week. If that call can't happen, the role isn't real yet and I'll wait.\"</strong> A hiring manager's calendar is the only honest signal.",
+      "counter": "If someone recruits you for a role with no start date, they are building a pipeline.\n• Notice enthusiasm rises every time you ask for a fact.\n• Say: \"Send me the approved job description.\"\n• Do not tell your manager anything about a job that may not exist.",
+      "insight": "A pipeline call is not worthless — it tells you what the market pays. The trap is treating a pipeline call like an offer and letting it change how you act at work."
+    },
+    {
+      "id": 6,
+      "cat": "reading",
+      "danger": "moderate",
+      "title": "Spot the Backfill for a Job Nobody Survives",
+      "principle": "Base Rate Neglect",
+      "remember": "Ask why the seat is open. Two quick exits means run.",
+      "when": "The role sounds senior, the pay sounds high, and the start date is next month.",
+      "hook": "Some jobs pay above market because nobody stays. <strong>The premium is hazard pay and nobody says so.</strong>",
+      "truth": "An open seat has a history, and the history predicts your year.\n• Ask why it is open and listen for how many people held it.\n• Two people in eighteen months means the manager is the problem.\n• Recruiters answer this honestly more often than you expect.",
+      "theySee": "A careful candidate doing normal diligence on a senior move.",
+      "signals": [
+        {
+          "icon": "🔄",
+          "l": "Fast turnover",
+          "t": "The last two people left within a year"
+        },
+        {
+          "icon": "💸",
+          "l": "Pay premium",
+          "t": "The range sits well above what the title normally pays"
+        },
+        {
+          "icon": "⚡",
+          "l": "Rush start",
+          "t": "They want someone in the seat within four weeks"
+        },
+        {
+          "icon": "🚪",
+          "l": "Vague departure",
+          "t": "They will not say where the last person went"
+        },
+        {
+          "icon": "🧯",
+          "l": "Fix-it framing",
+          "t": "They describe the job as cleaning up a mess"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask why the seat is open",
+          "desc": "Ask whether it is a new role or a backfill. Then ask what happened to the last person."
+        },
+        {
+          "n": "2",
+          "title": "Ask how long the last two people lasted",
+          "desc": "Say the words \"last two.\" One departure is noise. Two is a pattern."
+        },
+        {
+          "n": "3",
+          "title": "Check LinkedIn after the call",
+          "desc": "Search the company and the title. Look at how long each person held it."
+        }
+      ],
+      "script": "\"Is this a new role or a backfill? And <strong>how long did the last two people in the seat stay?</strong>\"",
+      "example": "Renee asked about the last two. The recruiter said one left after nine months and one after seven. She checked LinkedIn — both went to competitors at the same title. She passed, and six months later the company cut that whole team.",
+      "watchFor": "They pause before answering, then give you a shorter tenure than you expected.",
+      "ifItFails": "They say they do not have that information. They do — they filled the role last time. Go around them: <strong>\"No problem. I'll ask the hiring manager directly on our call.\"</strong> Then ask it, in those words, with the manager on the line. Do not run this on an internal recruiter at your own company.",
+      "counter": "If someone sells a role as a rescue mission with a rush start, they are filling a hot seat.\n• Notice the pay is high and the timeline is short.\n• Say: \"Who did this job before, and where are they now?\"\n• Find one former holder on LinkedIn and message them.",
+      "insight": "High pay for a broken seat is a real trade, and some people should take it. The harder question is whether you get the title on your resume before the seat burns you."
+    },
+    {
+      "id": 7,
+      "cat": "extracting",
+      "danger": "low",
+      "title": "Make Them Say the Number First",
+      "principle": "Cialdini: Reciprocity — Information for Information",
+      "remember": "They asked first. Trade an answer for their range.",
+      "when": "The recruiter dodges your question about the salary range and asks about your background instead.",
+      "hook": "Whoever names a number first loses ground — unless they name it. <strong>Make the trade explicit and they usually pay.</strong>",
+      "truth": "Recruiters are trained to withhold the band and extract yours.\n• Refusing outright reads as difficult and stalls the call.\n• Offering a swap sounds fair and puts them on the spot.\n• Say the trade out loud. \"I'll answer if you answer.\"",
+      "theySee": "A candidate who is cooperative and expects the same back.",
+      "signals": [
+        {
+          "icon": "🔀",
+          "l": "Topic swap",
+          "t": "They change the subject when you ask about pay"
+        },
+        {
+          "icon": "📎",
+          "l": "Policy line",
+          "t": "They say they cannot share the range yet"
+        },
+        {
+          "icon": "🎚️",
+          "l": "Range fog",
+          "t": "They give a range so wide it means nothing"
+        },
+        {
+          "icon": "🧲",
+          "l": "Reverse ask",
+          "t": "They answer your pay question with a pay question"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the band once, plainly",
+          "desc": "Ask what the approved range is for the level, not what they think you should get."
+        },
+        {
+          "n": "2",
+          "title": "Offer the trade if they dodge",
+          "desc": "Say you will share your target as soon as they share the band."
+        },
+        {
+          "n": "3",
+          "title": "Wait through the silence",
+          "desc": "Ask, then stop talking. Count to ten in your head."
+        }
+      ],
+      "script": "\"Let's make this easy — <strong>you tell me the approved band, I'll tell you my target, and we'll know in thirty seconds if this is worth both our time.</strong>\"",
+      "example": "Sam asked for the band and got the policy line. He offered the trade and went quiet. The recruiter said \"$160 to $185, and I can push to $190 for the right person.\" Sam had planned to say $165. He said $185.",
+      "watchFor": "They give you a number with a top end attached to it.",
+      "ifItFails": "They say the band is confidential and will not trade. Then make the band the price of your time: <strong>\"I understand. I don't run a process without a range — send it when you have it and I'll pick up from there.\"</strong> Then end the call warmly. Most recruiters email the band within two days.",
+      "counter": "If someone offers to trade numbers, they still want yours cheaper.\n• Notice their range is wide and yours has to be exact.\n• Say: \"Give me the top of the band, not the spread.\"\n• Name your target at the top of their range, not the middle.",
+      "insight": "The band they say out loud is never the real ceiling. The next question is who inside that company can approve an exception — and the recruiter is not it."
+    },
+    {
+      "id": 8,
+      "cat": "extracting",
+      "danger": "low",
+      "title": "Ask What the Market Pays People Like You",
+      "principle": "Information Arbitrage",
+      "remember": "Recruiters see hundreds of offers. Ask what they see.",
+      "when": "The role is not for you, but the recruiter is friendly and still on the phone.",
+      "hook": "They read real offer letters every week. <strong>You read one every four years.</strong>",
+      "truth": "The most valuable thing on this call is usually not the job.\n• A recruiter knows what your title actually closes at right now.\n• They will tell you freely once they know you are not buying.\n• Ask about people, not about you. It lowers their guard.",
+      "theySee": "A friendly professional who might refer someone or call back in a year.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Open talk",
+          "t": "They chat easily once the pitch is over"
+        },
+        {
+          "icon": "📈",
+          "l": "Market view",
+          "t": "They mention what other candidates are asking for"
+        },
+        {
+          "icon": "🏷️",
+          "l": "Title talk",
+          "t": "They compare your title to titles at other firms"
+        },
+        {
+          "icon": "🤝",
+          "l": "Referral ask",
+          "t": "They ask if you know anyone else for the role"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the role is not for you",
+          "desc": "Close the sale down first. They relax and start talking straight."
+        },
+        {
+          "n": "2",
+          "title": "Ask what people at your level close at",
+          "desc": "Ask about the range, the bonus, and the equity separately."
+        },
+        {
+          "n": "3",
+          "title": "Write the numbers down the same day",
+          "desc": "Put the range, the date, and the recruiter's name in one note."
+        }
+      ],
+      "script": "\"This one isn't for me, but you'd know better than anyone — <strong>what are people with my title actually closing at right now, base and bonus?</strong>\"",
+      "example": "Elena told the recruiter no in minute six, then asked what her title closed at. He said $210K base and 20% bonus. She was at $178K with 10%. Four months later she used that number in her own review and got $196K without ever interviewing.",
+      "watchFor": "They start giving you real numbers with company names attached.",
+      "ifItFails": "They stay vague and say it depends. Give them something to react to instead of a blank question. Say: <strong>\"Let me guess — $190 base, 15% bonus. Am I high or low?\"</strong> People correct a wrong number faster than they volunteer a right one.",
+      "counter": "If someone quotes you a market number, check who benefits from it.\n• Notice whether the number makes you feel underpaid or overpaid.\n• Say: \"Is that base only, or total?\"\n• Check the same title on Levels.fyi before you believe it.",
+      "insight": "The call you decline is often worth more than the one you take. The harder part is what you do with a number that tells you your own job underpays you."
+    },
+    {
+      "id": 9,
+      "cat": "extracting",
+      "danger": "moderate",
+      "title": "Get the Whole Package Before You Care",
+      "principle": "Sunk-Cost Anchoring",
+      "remember": "Base is not the offer. Ask for all six numbers.",
+      "when": "The recruiter names an exciting base salary and waits for your reaction.",
+      "hook": "A big base can hide a smaller total. <strong>They quote the number that sounds best, not the one you take home.</strong>",
+      "truth": "Compensation is six numbers and they lead with one.\n• Base, bonus, equity, vesting, sign-on, and the vacation policy.\n• A $20K raise can be a pay cut once the bonus drops.\n• Ask for all six in one breath before you show any interest.",
+      "theySee": "A candidate who has evaluated offers before and knows what to ask for.",
+      "signals": [
+        {
+          "icon": "1️⃣",
+          "l": "Base only",
+          "t": "They quote base salary and stop talking"
+        },
+        {
+          "icon": "🌫️",
+          "l": "Equity fog",
+          "t": "They describe equity as a percentage without naming a valuation"
+        },
+        {
+          "icon": "📆",
+          "l": "Vesting silence",
+          "t": "They do not mention the vesting schedule or the cliff"
+        },
+        {
+          "icon": "🎁",
+          "l": "Sign-on bait",
+          "t": "They lead with a sign-on bonus to cover a weak base"
+        },
+        {
+          "icon": "🏖️",
+          "l": "Unlimited PTO",
+          "t": "They call the vacation policy unlimited"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for all six numbers at once",
+          "desc": "Base, bonus target, equity value, vesting, sign-on, and time off. One question."
+        },
+        {
+          "n": "2",
+          "title": "Ask what the equity is worth today",
+          "desc": "Ask for the dollar value at the last funding round, not the share count."
+        },
+        {
+          "n": "3",
+          "title": "Write your current six next to theirs",
+          "desc": "Do the subtraction on paper before your next call with them."
+        }
+      ],
+      "script": "\"Before I react to that base — <strong>what's the bonus target, the equity value in dollars at the last round, the vesting schedule, any sign-on, and the actual vacation policy?</strong>\"",
+      "example": "Jordan heard $195K base and nearly said yes on the call. He asked for the six. The bonus was 5% against his current 20%, and the equity was four-year vesting with a one-year cliff. Total was $8K below his current package. He passed.",
+      "watchFor": "They stop pitching and start reading numbers off a sheet.",
+      "ifItFails": "They say the details come later in the process. That is how people end up three interviews deep for a pay cut. Put it in writing: <strong>\"Send me the six numbers by email and I'll book the next round the same day.\"</strong> Tie your calendar to their disclosure.",
+      "counter": "If someone leads with one big number, they are hiding a smaller one.\n• Notice which part of the package they never mention.\n• Say: \"What's the bonus target and did it pay out last year?\"\n• Ask what percentage of the bonus actually paid last cycle.",
+      "insight": "Unlimited vacation usually means fewer days taken, not more. The real trap is equity — the next question is what happens to your shares if you leave in year two."
+    },
+    {
+      "id": 10,
+      "cat": "using-it",
+      "danger": "high",
+      "title": "Raise Your Pay Without Naming the Recruiter",
+      "principle": "Schelling: The Credible Threat You Never Make",
+      "remember": "Show the market rate. Never wave the other offer.",
+      "when": "A recruiter just told you the market pays $30K more than your job and you want that money where you are.",
+      "hook": "An offer waved at your boss makes you a flight risk forever. <strong>Market data makes you a bargain that needs fixing.</strong>",
+      "truth": "Threats work once and cost you for years.\n• Name a competing offer and your loyalty is now a question.\n• Present market data and the problem becomes their budget.\n• The number lands the same. The label on it does not.",
+      "theySee": "A strong employee who has done homework on pay bands, not one with a suitcase packed.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "Band gap",
+          "t": "Your pay sits below the range recruiters quote for your title"
+        },
+        {
+          "icon": "📞",
+          "l": "Call volume",
+          "t": "You get more than two recruiter calls a month"
+        },
+        {
+          "icon": "🆕",
+          "l": "New hire pay",
+          "t": "A new hire at your level came in above you"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Review window",
+          "t": "Your company sets budgets in the next two months"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Collect three data points",
+          "desc": "Get the range from two recruiters and one public source. Write them down."
+        },
+        {
+          "n": "2",
+          "title": "Book time before budget season",
+          "desc": "Ask your manager for thirty minutes six weeks before pay decisions get made."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a plan, not a yes",
+          "desc": "Ask what it would take to move you into the band. Make them build the path."
+        }
+      ],
+      "script": "\"I want to stay and grow here. The market for my title is landing at <strong>$195K to $210K</strong> and I'm at $172K. What would it take to close that gap this cycle?\"",
+      "example": "Kwame got three recruiter calls in a month and wrote down every range. He never mentioned them to his director. He asked what it would take to reach the band. His director came back in three weeks with $191K and a title bump. No offer letter ever existed.",
+      "watchFor": "Your manager stops defending the number and starts asking about timing.",
+      "ifItFails": "They say the budget is closed and there is nothing to do. Do not threaten — pin them to a date instead. Say: <strong>\"Then let's write down the number and the date it happens, and I'll hold you to it.\"</strong> If they will not put a date in writing, you have your answer and you start interviewing quietly.",
+      "counter": "If your report shows you market data, they are already halfway out.\n• Notice they ask for a plan, not an argument.\n• Say: \"Give me two weeks and I'll come back with a number.\"\n• Come back with a real number or expect them to leave.",
+      "insight": "Do not run this on a manager who is fighting for their own budget survival. This works until you do it twice — the second time reads as a habit, not a case."
+    },
+    {
+      "id": 11,
+      "cat": "using-it",
+      "danger": "high",
+      "title": "Take the Interview With No Intention of Leaving",
+      "principle": "Sun Tzu: Reconnaissance in Force",
+      "remember": "Interview to learn the market. Decide later.",
+      "when": "You like your job but a recruiter offers a process at a company you are curious about.",
+      "hook": "Interviewing is the only way to learn what you are worth. <strong>You do not have to want the job to want the number.</strong>",
+      "truth": "An offer letter is a market price with your name on it.\n• Every round teaches you what questions you fail.\n• A written offer gives you a number you can act on for a year.\n• The risk is not the interview. It is who finds out.",
+      "theySee": "A candidate taking a normal process seriously, on a normal timeline.",
+      "signals": [
+        {
+          "icon": "🤐",
+          "l": "Quiet process",
+          "t": "You can do every round outside work hours"
+        },
+        {
+          "icon": "🌐",
+          "l": "No overlap",
+          "t": "Nobody at the new company knows your manager"
+        },
+        {
+          "icon": "📝",
+          "l": "Written offers",
+          "t": "The company puts offers in writing before the final call"
+        },
+        {
+          "icon": "⏳",
+          "l": "Slow clock",
+          "t": "They allow two weeks between rounds"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Interview outside work systems",
+          "desc": "Use a personal email and a personal phone. Never a work laptop or a work calendar."
+        },
+        {
+          "n": "2",
+          "title": "Book rounds at 8am or 6pm",
+          "desc": "Avoid the midday block that makes people ask where you were."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the offer in writing",
+          "desc": "Say you need the full package on paper before you can decide."
+        }
+      ],
+      "script": "\"I'm not in a rush, and I want to be straight with you — I'm doing this process properly, on my timeline. <strong>Get me to a written offer and I'll give you a real answer.</strong>\"",
+      "example": "Nadia did four rounds on her phone from her car at 7am. She got a written offer for $214K, turned it down, and kept the PDF. Nine months later her company ran a levelling review and she knew exactly what number to ask for.",
+      "watchFor": "They send the full written package without asking you to commit first.",
+      "ifItFails": "They demand a verbal yes before they will write anything down. That is a closing move. Say: <strong>\"I don't accept offers I haven't read. Send the letter and I'll respond in 48 hours.\"</strong> If they refuse, walk — a company that hides the paper hides other things too.",
+      "counter": "If someone asks you to say yes before you see the letter, they are closing you.\n• Notice they use words like exploding and today only.\n• Say: \"Put it in writing with a 48-hour window.\"\n• Do not resign anywhere until the letter is signed by both sides.",
+      "insight": "Do not do this if your industry is small enough that your boss golfs with their VP. The harder part comes after the offer — a number in your pocket changes how you speak in meetings, and people notice."
+    },
+    {
+      "id": 12,
+      "cat": "using-it",
+      "danger": "extreme",
+      "title": "Keep the Recruiter Warm for a Year",
+      "principle": "Greene: Law 20 — Do Not Commit to Anyone",
+      "remember": "Say no in a way that makes them call back.",
+      "when": "You are turning down a role but the recruiter covers your whole field.",
+      "hook": "A good recruiter is a market feed you can call. <strong>Most people burn that by disappearing.</strong>",
+      "truth": "Recruiters keep two lists: candidates and sources.\n• Sources get called first when the best roles open.\n• You get on the source list by referring one real person.\n• Ghosting moves you off both lists permanently.",
+      "theySee": "A well-connected professional worth keeping in the contacts list.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeat contact",
+          "t": "The same recruiter has called you more than once this year"
+        },
+        {
+          "icon": "🎯",
+          "l": "Narrow focus",
+          "t": "They only recruit for your exact title and field"
+        },
+        {
+          "icon": "📬",
+          "l": "Follow-up habit",
+          "t": "They send you roles even after you said no"
+        },
+        {
+          "icon": "👥",
+          "l": "Network ask",
+          "t": "They ask who else you rate in your field"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say no clearly, in one line",
+          "desc": "Do not go quiet. A clean no keeps the relationship alive."
+        },
+        {
+          "n": "2",
+          "title": "Hand them one name",
+          "desc": "Refer one person who actually wants a move. Ask that person first."
+        },
+        {
+          "n": "3",
+          "title": "Set a calendar reminder for six months",
+          "desc": "Send a two-line email then. Ask what the market is doing."
+        }
+      ],
+      "script": "\"Not this one — but here's what's useful: <strong>Dana Reyes is a better fit and is actually looking. I'll introduce you. Check back with me in six months.</strong>\"",
+      "example": "Owen turned down a role and introduced the recruiter to a former colleague, who got hired. Eight months later that recruiter called Owen first about a director role before it was posted anywhere. He got it at $40K over his old pay.",
+      "watchFor": "They start sending you roles before those roles hit the job boards.",
+      "ifItFails": "They take the referral and go quiet on you. Test it once, cheaply, with a question they can answer in a line: <strong>\"Quick one — what are Staff-level people closing at this quarter?\"</strong> If no reply in a week, they were never a source. Drop them and build the next one.",
+      "counter": "If a recruiter keeps you warm for years without a real role, you are their market research.\n• Notice they always ask about your team's headcount.\n• Say: \"Happy to help — what's the range you're seeing this quarter?\"\n• Never name your colleagues' salaries or your team's plans.",
+      "insight": "Do not refer a colleague your boss depends on — if that person leaves, the trail leads to you. The next question is which of your contacts is a source and which is quietly sourcing you."
+    },
+    {
+      "id": 13,
+      "cat": "want-out",
+      "danger": "high",
+      "title": "Run Two Processes Against Each Other",
+      "principle": "Auction Theory — Competition Sets Price",
+      "remember": "One offer is a price. Two offers is a market.",
+      "when": "You have decided to leave and one company is moving faster than the others.",
+      "hook": "A single offer has no competition and they know it. <strong>The second process is what pays for the first one.</strong>",
+      "truth": "Your price is set by whoever else wants you, not by your skills.\n• Slow the fast process. Speed the slow one. Land them together.\n• You never have to name the other company or the number.\n• The word \"timeline\" does all the work a threat would.",
+      "theySee": "A candidate in demand who is managing their calendar honestly.",
+      "signals": [
+        {
+          "icon": "🏃",
+          "l": "Speed gap",
+          "t": "One company is two rounds ahead of the other"
+        },
+        {
+          "icon": "⏰",
+          "l": "Deadline pressure",
+          "t": "They give you 48 hours to accept"
+        },
+        {
+          "icon": "📈",
+          "l": "Counter interest",
+          "t": "They ask if you have other processes running"
+        },
+        {
+          "icon": "🤫",
+          "l": "Detail probe",
+          "t": "They ask which companies and what numbers"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Tell the slow one you have a timeline",
+          "desc": "Say you expect a decision in two weeks and ask them to compress rounds."
+        },
+        {
+          "n": "2",
+          "title": "Ask the fast one for more time",
+          "desc": "Ask for a week to talk it over with family. Nobody refuses that."
+        },
+        {
+          "n": "3",
+          "title": "Say the word process, never the company name",
+          "desc": "Confirm you have another process. Refuse to say where or how much."
+        }
+      ],
+      "script": "\"I'm in a late-stage process elsewhere with a decision due next Friday. <strong>I'd rather compare properly than rush — can you get me to a final round this week?</strong>\"",
+      "example": "Farrah had one offer at $180K and a slower process at another firm. She asked the slow one to compress and told the fast one she needed a week. Both landed on a Thursday. The first company raised to $203K without her naming a single number.",
+      "watchFor": "They ask when your other decision is due and start moving their own dates.",
+      "ifItFails": "The fast one refuses to extend and says the offer expires Friday. Test whether the deadline is real, once: <strong>\"I want to say yes properly. If Friday is truly fixed, I'll have to pass — can you get me to Wednesday next week?\"</strong> Real companies move. Ones that will not just told you how they treat people.",
+      "counter": "If someone gives you an exploding deadline, they are stopping you from shopping.\n• Notice the deadline appears right after you mention another process.\n• Say: \"What happens to the role if I need three more days?\"\n• Keep the second process alive until you sign paper.",
+      "insight": "Do not bluff a second process you do not have — recruiters in the same city talk. The harder part is that once both offers land, you have to actually pick one."
+    },
+    {
+      "id": 14,
+      "cat": "want-out",
+      "danger": "extreme",
+      "title": "Do Not Take the Counteroffer",
+      "principle": "Loss Aversion — They Are Buying Time, Not You",
+      "remember": "A counteroffer buys them time to replace you.",
+      "when": "You resign and your manager comes back within a day with more money.",
+      "hook": "They found the money the moment you were leaving. <strong>Ask yourself where it was last year.</strong>",
+      "truth": "A counteroffer solves their problem, not yours.\n• Replacing you costs them months and a search fee.\n• The raise buys the time to find your replacement calmly.\n• Your name is now on a list, and the list does not come off.",
+      "theySee": "An employee thanking them for the offer and still walking out the door.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Fast money",
+          "t": "They approve a raise in under 48 hours that took months to discuss before"
+        },
+        {
+          "icon": "❤️",
+          "l": "Loyalty pitch",
+          "t": "They talk about the team needing you, not about the work"
+        },
+        {
+          "icon": "🚫",
+          "l": "No title change",
+          "t": "They offer money but no new scope or title"
+        },
+        {
+          "icon": "🔎",
+          "l": "Handover talk",
+          "t": "They start asking you to document your processes"
+        },
+        {
+          "icon": "📅",
+          "l": "Vague future",
+          "t": "They promise a promotion at an unnamed date"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide before you resign",
+          "desc": "Write down the number that would make you stay. Do it a week early."
+        },
+        {
+          "n": "2",
+          "title": "Say thank you and hold the line",
+          "desc": "Accept the compliment. Do not reopen the decision."
+        },
+        {
+          "n": "3",
+          "title": "Leave the door open on people, not on the job",
+          "desc": "Tell them you want to work with them again someday. Mean it."
+        }
+      ],
+      "script": "\"That means a lot, and I'm not going to pretend the number isn't good. <strong>I made this decision before I walked in here, and I'm going to honour it.</strong> I hope we work together again.\"",
+      "example": "Ben resigned and got a $25K counteroffer in a day. He took it. Seven months later his role was folded into a reorg and he was let go with two weeks. The company he had turned down had filled the job in three weeks.",
+      "watchFor": "They stop negotiating and start asking about your notice period and handover.",
+      "ifItFails": "They escalate past your manager and a VP calls you personally. Flattery is the last close. Do not argue about money — move it to scope: <strong>\"If the role were the one I'm leaving for, I'd stay. It isn't, and a raise doesn't change that.\"</strong> Then give your last day in writing the same day.",
+      "counter": "If your report resigns and you counteroffer, you are buying time.\n• Notice you are solving your calendar, not their reason.\n• Say: \"What would have kept you here six months ago?\"\n• Fix that thing for the people still in the building.",
+      "insight": "Some counteroffers are real — a new title with new scope is a different job. Money alone almost never is. The next question is whether you can name what you were actually leaving for."
+    },
+    {
+      "id": 15,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Write Down Everything Within Ten Minutes",
+      "principle": "Information Arbitrage — Build Your Own Database",
+      "remember": "Log every call. In a year the notes are worth money.",
+      "when": "You just hung up on a recruiter call and you are about to go back to work.",
+      "hook": "You will forget the number by Friday. <strong>The person with six years of notes negotiates from facts.</strong>",
+      "truth": "Every call gives you one data point and you throw it away.\n• Write the range, the company, the date, and the recruiter's name.\n• Ten entries over a year show you your real market rate.\n• That file is what you take into your next salary conversation.",
+      "theySee": "Nothing. This one happens after they hang up.",
+      "signals": [
+        {
+          "icon": "🧠",
+          "l": "Fading detail",
+          "t": "You cannot recall last month's recruiter's range"
+        },
+        {
+          "icon": "📞",
+          "l": "Repeat callers",
+          "t": "The same firm calls you about a role you already discussed"
+        },
+        {
+          "icon": "📉",
+          "l": "No baseline",
+          "t": "You cannot say what your title pays without searching for it"
+        },
+        {
+          "icon": "🗂️",
+          "l": "Scattered notes",
+          "t": "Your recruiter emails sit unsorted in your inbox"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open one note file",
+          "desc": "Make a single personal note called Market Log. Not on your work laptop."
+        },
+        {
+          "n": "2",
+          "title": "Write six fields",
+          "desc": "Date, company, recruiter, title, range, and one line on why you passed."
+        },
+        {
+          "n": "3",
+          "title": "Read it before every review",
+          "desc": "Open the file the week before your pay conversation. Pick your number from it."
+        }
+      ],
+      "script": "(To yourself, in the note) \"<strong>26 Aug — Meridian, agency, Staff Engineer, $195–215K + 15%. Passed: pipeline role, no headcount.</strong>\"",
+      "example": "Ines logged eleven recruiter calls over two years. When her review came, she walked in with a range built from eleven real conversations, not one Glassdoor page. Her director could not argue with the spread and moved her $24K.",
+      "watchFor": "Your own file answers a pay question faster than a web search does.",
+      "ifItFails": "You keep forgetting to write it down after the call. Stop relying on memory and use the calendar. Book a five-minute slot the moment you book the call itself, right after it ends, and title it \"Log it.\" Then send yourself one line: <strong>\"Company, title, range, pass reason.\"</strong>",
+      "counter": "If someone quotes you a market number, they may be building your file for you.\n• Notice a recruiter who knows your history better than you do.\n• Say: \"Where did you get that range?\"\n• Keep your own log so you never rely on theirs.",
+      "insight": "Never keep this file on a work device or a work account. The harder part is discipline — the notes only pay you back in the year you need them most."
+    },
+    {
+      "id": 16,
+      "cat": "after",
+      "danger": "high",
+      "title": "Control What Leaks Back to Your Boss",
+      "principle": "Machiavelli: Secrecy Is the Prince's First Armour",
+      "remember": "Recruiters talk. Assume your call is not private.",
+      "when": "You took a recruiter call and the recruiter also works with people at your company.",
+      "hook": "Your industry is smaller than you think. <strong>The recruiter who called you calls your boss too.</strong>",
+      "truth": "Recruiters trade information as their main currency.\n• They call your manager next week about a different role.\n• A careless line about your team becomes a fact they repeat.\n• You control the leak by controlling what you say, not who they tell.",
+      "theySee": "A candidate who is friendly but never gossips about their own company.",
+      "signals": [
+        {
+          "icon": "🕸️",
+          "l": "Shared network",
+          "t": "They mention people you work with by name"
+        },
+        {
+          "icon": "📢",
+          "l": "Gossip bait",
+          "t": "They tell you news about your own company to get you talking"
+        },
+        {
+          "icon": "👀",
+          "l": "Profile view",
+          "t": "Someone from your company views your LinkedIn after the call"
+        },
+        {
+          "icon": "❓",
+          "l": "Team probe",
+          "t": "They ask how many people report to your director"
+        },
+        {
+          "icon": "📤",
+          "l": "Submit ask",
+          "t": "They ask permission to submit you before you agreed to anything"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say nothing about your team or your plans",
+          "desc": "Talk about the role in front of you. Never about who is unhappy where you work."
+        },
+        {
+          "n": "2",
+          "title": "Say submit nothing without my written yes",
+          "desc": "Say it out loud on the call, then repeat it in an email afterwards."
+        },
+        {
+          "n": "3",
+          "title": "Keep LinkedIn quiet",
+          "desc": "Turn off Open To Work and turn off activity notices before you interview anywhere."
+        }
+      ],
+      "script": "\"One rule from me: <strong>you don't submit my name anywhere without my written yes, and nothing about my current team leaves this call.</strong> If that works, we'll get on well.\"",
+      "example": "Dan mentioned in a call that his VP was quietly job hunting. The recruiter placed that VP two months later and mentioned Dan's name as a source. Dan's next performance review went sideways and he never learned exactly why. He never volunteered a colleague's name again.",
+      "watchFor": "They repeat your rule back to you in writing in their follow-up email.",
+      "ifItFails": "You find out they submitted you or repeated something. Do not rage — pin it down in writing, because that email becomes your record. Send: <strong>\"Confirm in writing every company you've sent my name to, and remove me from all of them today.\"</strong> Then stop working with them and tell one trusted peer why.",
+      "counter": "If a recruiter feeds you gossip about your own company, they want you to trade back.\n• Notice you learn something you did not ask for.\n• Say: \"Interesting — anyway, back to the role.\"\n• Never name a colleague who is looking, even to be helpful.",
+      "insight": "Do not run any of this from a work email or a work phone — your employer can read both. The last question is the one nobody asks: what does your own manager already know, and who told them?"
+    }
+  ]
+}

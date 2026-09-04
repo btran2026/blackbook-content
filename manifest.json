@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 58,
+  "manifestVersion": 59,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -416,7 +416,20 @@
       "url": "playbooks/playbook-srv-small-talk-with-power.json",
       "addedAt": "2026-09-03T23:28:48.263Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-recruiter-cold-call",
+      "title": "The Recruiter Cold Call",
+      "theme": "recruiters",
+      "topic": "",
+      "cardCount": 16,
+      "contentVersion": 1,
+      "coverColor": "#1F3A5F",
+      "coverIcon": "📞",
+      "url": "playbooks/playbook-srv-the-recruiter-cold-call.json",
+      "addedAt": "2026-09-04T16:45:46.069Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-03T23:28:48.263Z"
+  "generatedAt": "2026-09-04T16:45:46.069Z"
 }
