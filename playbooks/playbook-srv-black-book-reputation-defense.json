@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "id": "srv-black-book-reputation-defense",
+    "version": "1.0",
+    "title": "Black Book: Reputation Defense",
+    "subtitle": "12 moves for when someone is working quietly against you",
+    "description": "The quiet underminer banks on you not knowing what's happening until it's too late. This dossier teaches you to spot the moves, build the proof, confront once, and own the story before someone else tells it.",
+    "author": "AI",
+    "createdAt": "2026-09-05T16:26:59.234Z",
+    "tags": [
+      "reputation",
+      "workplace",
+      "undermining",
+      "defense",
+      "office politics"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "🗡️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Defending your reputation against quiet undermining",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "detect",
+      "label": "Detection",
+      "color": "#4a0e8f"
+    },
+    {
+      "key": "receipts",
+      "label": "Documentation",
+      "color": "#0e4a8f"
+    },
+    {
+      "key": "allies",
+      "label": "Allies",
+      "color": "#0e6b4a"
+    },
+    {
+      "key": "confront",
+      "label": "Confrontation",
+      "color": "#8f3a0e"
+    },
+    {
+      "key": "contain",
+      "label": "Containment",
+      "color": "#6b0e4a"
+    },
+    {
+      "key": "offense",
+      "label": "Offense",
+      "color": "#8f0e0e"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "detect",
+      "danger": "moderate",
+      "title": "Notice When People Stop Telling You Things",
+      "hook": "The underminer doesn't announce themselves. <strong>They start by cutting you off from information.</strong> By the time you feel it, the story about you is already moving.",
+      "truth": "The first sign of undermining isn't a rumor — it's a sudden gap in what people share with you.\n• Underminers cut you off from updates so you look out of touch.\n• Colleagues start treating you as irrelevant before you know it.\n• The trap: you think you're just busy. You're being written out of the loop.",
+      "principle": "Gaslighting: Information Isolation",
+      "remember": "When coworkers stop updating you, someone is working against you.",
+      "theySee": "A coworker who always kept you in the loop suddenly stops forwarding emails and doesn't say why.",
+      "signals": [
+        {
+          "l": "Email drop-off",
+          "t": "Someone who cc'd you on everything stops including you with no explanation.",
+          "icon": "📧"
+        },
+        {
+          "l": "Side conversation",
+          "t": "Two coworkers stop talking the moment you walk into the room.",
+          "icon": "👥"
+        },
+        {
+          "l": "Late invite",
+          "t": "You get added to a meeting that has clearly been running for weeks without you.",
+          "icon": "📅"
+        },
+        {
+          "l": "Short answers",
+          "t": "Direct questions about project status get one-word deflections instead of real updates.",
+          "icon": "💬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map the gap",
+          "desc": "List three people who stopped updating you in the last 30 days. Write their names and what they used to share."
+        },
+        {
+          "n": "2",
+          "title": "Check the thread",
+          "desc": "Search your email for the last message each person sent you directly. Write the date it stopped."
+        },
+        {
+          "n": "3",
+          "title": "Ask one direct question",
+          "desc": "Pick one person and ask them specifically why you weren't on the last update chain. Watch how they answer."
+        }
+      ],
+      "script": "\"Hey — I noticed I've been left off the last few update threads. Is there a reason I'm not included?\"",
+      "counter": "Someone is using information gaps to isolate you before making a move.\n• They brief everyone except you, then say you were 'hard to reach.'\n• Say: 'Can you send me a note on when that decision was made? I'll need the date.'\n• Start cc'ing your manager on key threads so you can't be cut out quietly.",
+      "insight": "Being cut off from information is setup — the next move is making you look unprepared in front of the people who matter most."
+    },
+    {
+      "id": 2,
+      "cat": "detect",
+      "danger": "high",
+      "title": "Read the Room When the Lies Are Already Moving",
+      "hook": "Rumors don't announce themselves. <strong>They show up as a slight change in how people treat you.</strong> By the time someone tells you what's been said, half the room already believes it.",
+      "truth": "You won't hear the rumor. You'll feel it in how people act before anyone says a word.\n• The underminer plants doubt early — in your work, your motives, your character.\n• Colleagues who believe the story pull back before you get a chance to defend yourself.\n• The trap: you explain yourself to everyone. That makes you look desperate and confirms their doubt.",
+      "principle": "Social Proof: Consensus Manufacturing",
+      "remember": "If people stop making eye contact, the story is already out there.",
+      "theySee": "A colleague who used to joke with you at lunch now nods politely and keeps walking.",
+      "signals": [
+        {
+          "l": "Cold greeting",
+          "t": "Someone who always stopped to chat now gives a quick nod and moves on.",
+          "icon": "🧊"
+        },
+        {
+          "l": "Group gone quiet",
+          "t": "A group chat you're in drops to zero replies after your last message.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Praise disappears",
+          "t": "Work your boss used to comment on now goes completely unacknowledged.",
+          "icon": "🙈"
+        },
+        {
+          "l": "Loaded question",
+          "t": "A friend outside your team asks how things are going in a tone that implies they've heard something.",
+          "icon": "🎯"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name three changed behaviors",
+          "desc": "Write down three specific people whose behavior toward you has cooled in the last two weeks. Be exact — not 'the team,' but names."
+        },
+        {
+          "n": "2",
+          "title": "Find one honest contact",
+          "desc": "Identify one person who will tell you plainly what's being said — not gossip, just facts. Ask them directly today."
+        },
+        {
+          "n": "3",
+          "title": "Date the shift",
+          "desc": "Note when each person's behavior changed. If they all shifted at the same time, someone briefed them."
+        }
+      ],
+      "script": "\"I've noticed things have felt a little different lately. If you've heard something about me, I'd rather know directly than find out later.\"",
+      "counter": "Someone is seeding doubt before you can respond, so you walk in already at a deficit.\n• They brief others privately — you arrive to a room that has already decided.\n• Say: 'I've heard there's a story going around. I'd like to hear the actual version before I respond.'\n• Don't explain to everyone — pick one credible person, give them facts, let them carry it.",
+      "insight": "The harder question isn't who started the rumor — it's who chose to believe it fast, and why they were ready to."
+    },
+    {
+      "id": 3,
+      "cat": "receipts",
+      "danger": "high",
+      "title": "Document Everything Before You Need It",
+      "hook": "Most people start collecting evidence after the damage is done. <strong>That's too late.</strong> The paper trail built before the fight is the only one anyone believes.",
+      "truth": "A paper trail built after the fact is useless. The one built before is the only thing HR or a manager accepts.\n• Emails with date stamps beat any spoken account, every time.\n• The underminer counts on you having no written proof — they bank on your memory gaps.\n• The trap: you wait until it's serious. By then, key messages are deleted or overwritten.",
+      "principle": "Loss Aversion: Pre-emptive Evidence",
+      "remember": "Save every email now — you cannot get it back later.",
+      "theySee": "A coworker who keeps neat, dated notes and sends written confirmations after every key conversation.",
+      "signals": [
+        {
+          "l": "Verbal-only order",
+          "t": "Someone gives you direction only in person or by phone, never in writing.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Missing thread",
+          "t": "An email chain about a project suddenly has gaps when you go back to check.",
+          "icon": "🕳️"
+        },
+        {
+          "l": "Unacknowledged reply",
+          "t": "You said something important over chat but it was never confirmed in email.",
+          "icon": "📩"
+        },
+        {
+          "l": "Shifted story",
+          "t": "Someone now claims a decision was made differently from what you were told.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Export your five key threads",
+          "desc": "Forward the five most important email chains about your work to a personal email or a secure folder right now."
+        },
+        {
+          "n": "2",
+          "title": "Date-stamp your output today",
+          "desc": "For every piece of work you finish today, send a brief email to your manager summarizing what you delivered and when."
+        },
+        {
+          "n": "3",
+          "title": "Write the verbal recap",
+          "desc": "After any meeting where something was decided, send a follow-up email within one hour: 'Confirming what we agreed: X by Y date.'"
+        }
+      ],
+      "script": "\"Just confirming what we agreed in today's call — you'll handle the client brief, and I'll send the final numbers by Thursday.\"",
+      "counter": "Someone is building a case against you using your lack of written records.\n• They give instructions verbally so there's nothing to check later.\n• Say: 'Can you send me that in writing? I want to make sure I get the details right.'\n• Save their reply. Forward it to yourself. A verbal agreement is their word against yours.",
+      "insight": "The receipts don't just protect you — once the underminer knows you're keeping them, their behavior changes."
+    },
+    {
+      "id": 4,
+      "cat": "receipts",
+      "danger": "high",
+      "title": "Make Facts Beat Rumors by Getting Them on Paper First",
+      "hook": "Gossip travels faster than facts. <strong>But a paper trail with timestamps is the one thing gossip can't survive.</strong>",
+      "truth": "People believe the first story they hear. Written records are the only way to break that hold.\n• A timestamped email makes your account more credible than their spoken one.\n• When a manager sees records, they have to address a paper account — not a feeling.\n• The trap: you collect evidence but never present it. Evidence means nothing until someone reads it.",
+      "principle": "Anchoring Effect — First Account Bias",
+      "remember": "Facts win only when you wrote them down before the fight started.",
+      "theySee": "A colleague who pulls out a printed email at a meeting and lays it on the table without saying a word.",
+      "signals": [
+        {
+          "l": "Story shift",
+          "t": "Someone's account of events changes between two conversations you both remember.",
+          "icon": "🔀"
+        },
+        {
+          "l": "No name attached",
+          "t": "Their claim has no one attached to it — just 'people are saying.'",
+          "icon": "👻"
+        },
+        {
+          "l": "No date given",
+          "t": "The accusation or rumor has no date, no project name, no real context.",
+          "icon": "❓"
+        },
+        {
+          "l": "Push back on writing",
+          "t": "When you ask for written confirmation, they deflect or go quiet.",
+          "icon": "🚫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Attach dates to your best work",
+          "desc": "Pick your three strongest recent contributions. Find the email or document that proves each one. Save them in a single folder."
+        },
+        {
+          "n": "2",
+          "title": "Build a one-page summary",
+          "desc": "Write one page: what you delivered, who it went to, and the exact date. Keep it ready to share."
+        },
+        {
+          "n": "3",
+          "title": "Name one witness per item",
+          "desc": "For each piece of work, write the name of one person who directly saw it happen. That's your corroboration."
+        }
+      ],
+      "script": "\"I actually have the email from that date — do you want me to forward it to you right now?\"",
+      "counter": "Someone is winning with a story because they have no documentation and are counting on you having none either.\n• They use vague language: 'people say,' 'I've heard,' 'the feeling is.'\n• Say: 'Can you send me the specifics? I'd like to know exactly what was said and when.'\n• If they can't produce names or dates, the story collapses.",
+      "insight": "The next move after building a paper trail is deciding exactly when to put it in front of someone — which requires as much judgment as building it."
+    },
+    {
+      "id": 5,
+      "cat": "allies",
+      "danger": "moderate",
+      "title": "Find Your Witnesses Before You Need Them",
+      "hook": "Nobody wins a reputation fight alone. <strong>One credible witness who speaks plainly is worth ten complaints filed without one.</strong>",
+      "truth": "Without a witness, your report becomes your word against theirs. That's a coin flip you won't like.\n• A credible witness turns a personal grievance into a verifiable account.\n• The underminer picks off people who have no one backing them — isolation is the method.\n• The trap: you wait to build allies until you're already under attack. Build them before the fight.",
+      "principle": "Greene: Law 23 — Concentrate Your Forces",
+      "remember": "You need one credible witness before you report anything.",
+      "theySee": "A colleague who checks in on your work regularly and knows exactly what you've been delivering this month.",
+      "signals": [
+        {
+          "l": "Shared observation",
+          "t": "A coworker says they noticed the same thing that's been bothering you.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Unprompted credit",
+          "t": "Someone gives you credit for your work in a group conversation without you bringing it up.",
+          "icon": "🏆"
+        },
+        {
+          "l": "Same target",
+          "t": "You learn the underminer has done this to someone else before you.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Checking-in tone",
+          "t": "A peer asks how things are going with a weight in their voice — they already have a reason to ask.",
+          "icon": "🤝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your two best witnesses",
+          "desc": "Write down two people who have directly seen your work in the last month. Pick the ones with the most credibility — not your closest friends."
+        },
+        {
+          "n": "2",
+          "title": "Loop one witness in today",
+          "desc": "Copy one of them on a project update today. Give them real visibility without explaining why."
+        },
+        {
+          "n": "3",
+          "title": "Ask one person for their read",
+          "desc": "Say: 'You've been close to this work — have you noticed anything I should know about how things are being perceived?'"
+        }
+      ],
+      "script": "\"You've been close to this project — if it ever came up, would you be willing to speak to what you saw?\"",
+      "counter": "Someone is working to isolate you so no one can verify your account.\n• They build separate one-on-ones with everyone around you so they become the most trusted voice.\n• Ask a neutral colleague: 'What's your honest read on how I'm perceived on this team?'\n• A witness who speaks up on their own carries more weight than one you recruited after the fact.",
+      "insight": "The sharp people in the room — the ones who see everything and say nothing — are the most valuable witnesses you can have. The question is whether you've given them a reason to speak."
+    },
+    {
+      "id": 6,
+      "cat": "confront",
+      "danger": "high",
+      "title": "Have One Calm Conversation With the Person Spreading Lies",
+      "hook": "Some underminers stop the moment they know you've noticed. <strong>One calm, direct conversation can shut it down without a single complaint to HR.</strong>",
+      "truth": "Most quiet underminers rely on you staying silent. They've never had someone name what they're doing to their face.\n• A calm confrontation costs the underminer the advantage of deniability.\n• They now know you have records and you're not afraid to use them.\n• The trap: you confront emotionally. That gives them a new story — you're the unstable one.",
+      "principle": "Voss: Label",
+      "remember": "Call out the behavior once, calmly, and never again.",
+      "theySee": "A colleague who sits down directly across from them, keeps a flat tone, and says exactly what they observed and when.",
+      "signals": [
+        {
+          "l": "Face change",
+          "t": "Their expression shifts the moment you name specifically what was said and who told you.",
+          "icon": "😳"
+        },
+        {
+          "l": "Fast denial",
+          "t": "They deny before you finish your sentence — they know exactly what you're referring to.",
+          "icon": "🚀"
+        },
+        {
+          "l": "Pivot to you",
+          "t": "They immediately raise a complaint about you instead of addressing your point.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Behavior stops",
+          "t": "After your conversation, the undermining stops abruptly — they received the message.",
+          "icon": "🛑"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your two sentences",
+          "desc": "Write what you observed and what you expect to change. Practice them until you can say both without a raised voice or extra words."
+        },
+        {
+          "n": "2",
+          "title": "Choose a private space",
+          "desc": "Ask for a brief one-on-one in a private room. Not a shared office. Not over email. In person, door closed."
+        },
+        {
+          "n": "3",
+          "title": "Name the act, not the person",
+          "desc": "Say what was done, not what kind of person they are. Stick to observable facts: what was said, to whom, when."
+        }
+      ],
+      "script": "\"I heard you told the team I dropped the ball on the Henderson account. That's not what happened. I'd like to know why that's the version you shared.\"",
+      "counter": "Someone is confronting you hoping you'll get emotional or deny something you didn't do.\n• If you raise your voice, you've handed them the next story.\n• Say: 'I want to understand exactly what you're referring to before I respond.'\n• Ask for the specific claim, the specific date, the specific person who said it.",
+      "insight": "The confrontation is a test — how they react tells you more about whether they'll stop than anything they actually say."
+    },
+    {
+      "id": 7,
+      "cat": "confront",
+      "danger": "extreme",
+      "title": "Report to HR Using Their Own Policy Language Against Them",
+      "hook": "HR protects the company first. <strong>But a well-documented claim using the company's exact policy language is a legal liability — and that's harder to dismiss than a complaint about feelings.</strong>",
+      "truth": "How you report matters more than what you report. Policy language beats emotional language inside every company.\n• HR responds to policy violations, not hurt feelings — use the policy's exact wording.\n• A report with dates, witnesses, and specific incidents is a liability. A vague complaint is not.\n• The trap: you go to HR to vent. They write 'interpersonal conflict' and file it away.",
+      "principle": "Cialdini: Authority — Institutional Channels",
+      "remember": "Know your company's harassment policy before you walk into HR.",
+      "theySee": "An employee who walks in with a one-page summary, cites the policy section by name, and asks for a formal record of the meeting.",
+      "signals": [
+        {
+          "l": "Policy match",
+          "t": "The behavior you're experiencing matches the exact wording in the harassment or conduct policy.",
+          "icon": "📋"
+        },
+        {
+          "l": "Three incidents",
+          "t": "You have three or more incidents with specific dates — enough to show a pattern, not a single dispute.",
+          "icon": "📊"
+        },
+        {
+          "l": "Named witness",
+          "t": "You can name at least one person who saw or heard what you're reporting.",
+          "icon": "👤"
+        },
+        {
+          "l": "Prior complaint",
+          "t": "You learn someone else has already reported the same person — you are not the first.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Read the policy tonight",
+          "desc": "Find your company's harassment and conduct policy. Highlight every phrase that matches what you've experienced. Know the section numbers."
+        },
+        {
+          "n": "2",
+          "title": "Write the one-page summary",
+          "desc": "Three incidents, each with: date, what happened, who was present, and which policy section it violates. No emotion. Just facts."
+        },
+        {
+          "n": "3",
+          "title": "Request a formal record",
+          "desc": "At the start of the HR meeting, say: 'I'd like a formal record that this meeting took place.' Say it before anything else."
+        }
+      ],
+      "script": "\"I'm here to report a pattern of conduct that I believe violates section 4.2 of the employee code of conduct. I have documentation and a witness. I'd like a formal record of this meeting.\"",
+      "counter": "HR is trying to close your complaint informally without creating a written record.\n• They call it 'a conversation' or 'a check-in' — not a formal complaint.\n• Say: 'I want this documented. Who do I send the written version to?'\n• Without a paper record, your complaint officially did not happen.",
+      "insight": "A formal complaint on record changes how every person in the chain behaves — including people who weren't in the room when you filed it."
+    },
+    {
+      "id": 8,
+      "cat": "contain",
+      "danger": "moderate",
+      "title": "Limit What the Underminer Can Access About You",
+      "hook": "Underminers don't make things up from nothing. <strong>They twist what you already gave them.</strong> The less they know, the less they have to work with.",
+      "truth": "Most reputation damage comes from the underminer turning your own words against you.\n• They use your candid complaints, your self-doubts, your half-formed plans to build the story.\n• Colleagues you thought were neutral pass information to the person using it against you.\n• The trap: you keep talking honestly because that's your nature. Honesty with the wrong person is a gift to them.",
+      "principle": "Greene: Law 3 — Conceal Your Intentions",
+      "remember": "Stop sharing your plans with anyone who hasn't earned your trust.",
+      "theySee": "A coworker who keeps their work plans brief in group settings and saves the real details for one-on-ones with their manager.",
+      "signals": [
+        {
+          "l": "Your words back",
+          "t": "Something you said in private shows up in someone else's mouth, twisted slightly.",
+          "icon": "🔊"
+        },
+        {
+          "l": "Probing question",
+          "t": "Someone asks detailed questions about your project that go well beyond what they need to know.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Comfort push",
+          "t": "Someone encourages you to 'just be honest' about a frustration you haven't named out loud yet.",
+          "icon": "🪤"
+        },
+        {
+          "l": "Word traveled",
+          "t": "A third person knows details about your project that you only mentioned in a small group.",
+          "icon": "📡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List your current leaks",
+          "desc": "Write down three things you've shared recently that you wouldn't want twisted. Decide who you told each one to."
+        },
+        {
+          "n": "2",
+          "title": "Cut one channel today",
+          "desc": "Identify the one person most likely passing your information on. Stop giving them updates this week and watch what happens."
+        },
+        {
+          "n": "3",
+          "title": "Fix what you say broadly",
+          "desc": "For anything you share widely, decide on one version — simple, factual, no complaints — and repeat exactly that version every time."
+        }
+      ],
+      "script": "\"The project is moving — I'll have more to share once we've locked down the next phase.\"",
+      "counter": "Someone is probing you for information to use later.\n• They ask casual-sounding questions about your plans, your frustrations, your relationships.\n• Say: 'I'm keeping things close for now — happy to update you once it's further along.'\n• The probe always has a specific target. Work out what they're trying to find.",
+      "insight": "The people who know least about your next move are often the ones most likely to work against it."
+    },
+    {
+      "id": 9,
+      "cat": "contain",
+      "danger": "moderate",
+      "title": "Name the Behavior Once, Without Emotion, to the Right Person",
+      "hook": "You don't need to convince everyone. <strong>You need one person who understands what's happening and can do something about it.</strong>",
+      "truth": "Naming the undermining once — calmly, specifically — lands harder than a campaign of complaints.\n• A clear, specific statement to a manager or senior ally beats five casual mentions every time.\n• Every time you repeat the complaint, you look more reactive and less credible.\n• The trap: you tell five people hoping word gets back. It does — but not as you intended.",
+      "principle": "Greene: Law 4 — Always Say Less Than Necessary",
+      "remember": "Say what's happening once, to one person who can act on it.",
+      "theySee": "An employee who walks in, states one clear complaint in two sentences, and then sits quietly waiting.",
+      "signals": [
+        {
+          "l": "Ready to listen",
+          "t": "The person you're telling is quiet, leaning in, and hasn't jumped to a question yet.",
+          "icon": "👂"
+        },
+        {
+          "l": "No interruption",
+          "t": "They let you finish the full account before they say anything at all.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Specific follow-up",
+          "t": "They ask for a date or a name — a sign they're taking it seriously.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Next step offered",
+          "t": "They say what they'll do next without you asking for it.",
+          "icon": "➡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the two-sentence version",
+          "desc": "Describe what happened in exactly two sentences: the behavior, the date, and the direct impact on your work. No emotion in the delivery."
+        },
+        {
+          "n": "2",
+          "title": "Pick the one person",
+          "desc": "Choose the person with the most ability to act on what you tell them — not the person you most want to vent to."
+        },
+        {
+          "n": "3",
+          "title": "State it and stop talking",
+          "desc": "Say your two sentences. Stop. Let silence sit. Don't explain, don't add context, don't soften it afterward."
+        }
+      ],
+      "script": "\"On the 14th, [name] told the project lead I hadn't submitted the report. I had — here's the timestamp. I wanted you to know before it comes up again.\"",
+      "counter": "Someone is making repeated complaints about you to wear down your credibility with the same people.\n• Multiple complaints about one person start looking personal, not factual.\n• Say: 'I'd like to address this once, with specifics. What's the right format to do that?'\n• A single documented account carries more weight than a pattern of grievances.",
+      "insight": "The person you tell will form an opinion of you based as much on how you say it as on what you actually report."
+    },
+    {
+      "id": 10,
+      "cat": "offense",
+      "danger": "moderate",
+      "title": "Control Your Narrative Before Someone Else Does",
+      "hook": "A story told second always fights uphill. <strong>Get your version out first and the rumor arrives to an audience that already knows the facts.</strong>",
+      "truth": "The underminer's move depends on you being slow. They brief your manager, your peers, your clients — before you do.\n• The first version of a story sticks. Everything after it is 'their defense.'\n• Regular updates to your manager mean there's no information gap for the underminer to fill.\n• The trap: you wait to share wins until they're big. By then, someone has told a different story.",
+      "principle": "Cialdini: Commitment and Consistency — Narrative Control",
+      "remember": "Tell your version to the right people before the wrong one spreads.",
+      "theySee": "A colleague who sends a short project update to their manager every Friday without being asked.",
+      "signals": [
+        {
+          "l": "Manager surprised",
+          "t": "Your boss mentions something about your work that they clearly heard from someone other than you.",
+          "icon": "😮"
+        },
+        {
+          "l": "Credit taken",
+          "t": "Work you did gets attributed to a teammate in a meeting you attended.",
+          "icon": "🏷️"
+        },
+        {
+          "l": "Gap in their picture",
+          "t": "You realize your manager's view of what you do is weeks or months out of date.",
+          "icon": "📆"
+        },
+        {
+          "l": "No record of win",
+          "t": "Work you completed has no trace in any conversation your manager has seen.",
+          "icon": "🔦"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send a quick update today",
+          "desc": "Email your manager two lines on what you delivered this week and one line on what's next. No preamble, no apology for the length."
+        },
+        {
+          "n": "2",
+          "title": "Put your name on your work",
+          "desc": "Find one piece of work from this week that has no paper trail linking it to you. Create that trail right now."
+        },
+        {
+          "n": "3",
+          "title": "Speak first in the next meeting",
+          "desc": "At your next team meeting, give a brief factual update on your project before anyone else frames what you've been doing."
+        }
+      ],
+      "script": "\"Quick update from this week: delivered the revised proposal to the client and got a green light on the timeline. Contract draft goes out Friday.\"",
+      "counter": "Someone is briefing people about your work before you do — filling the blank with their version.\n• They give your manager a picture of your work that leaves out your contribution.\n• Start every meeting with a brief factual update. Don't wait to be asked.\n• The person who names the story first has to be corrected. That's a much harder position to be in.",
+      "insight": "Once your manager knows your work through your own account, the underminer has to correct a version instead of filling a blank — and that's twice as hard."
+    },
+    {
+      "id": 11,
+      "cat": "offense",
+      "danger": "low",
+      "title": "Turn the Sharp, Quiet Colleague Into Your Best Defense",
+      "hook": "Every team has one person who watches, keeps score, and never speaks in meetings. <strong>That person's opinion of you carries more weight than everyone else's combined.</strong>",
+      "truth": "The quiet, high-integrity colleague is your most powerful asset in a reputation fight — and most people ignore them.\n• They've already formed a clear opinion of everyone. They just haven't said it yet.\n• If you've treated them well, they'll speak when it counts without being asked.\n• The trap: you build visible allies and ignore the quiet ones. The underminer does the same — that's the gap.",
+      "principle": "Information Asymmetry — Silent Witness Effect",
+      "remember": "The quiet person in meetings sees everything that matters.",
+      "theySee": "A team member who stays after a meeting to ask a thoughtful question and always remembers exactly what you said last month.",
+      "signals": [
+        {
+          "l": "Long memory",
+          "t": "They reference something you said three months ago as if it happened yesterday.",
+          "icon": "🧠"
+        },
+        {
+          "l": "Unprompted credit",
+          "t": "They give you credit in a group conversation without you bringing it up at all.",
+          "icon": "🎖️"
+        },
+        {
+          "l": "Quiet correction",
+          "t": "When someone overstates your failure in a meeting, they ask a clarifying question that corrects the record.",
+          "icon": "✏️"
+        },
+        {
+          "l": "Was in the room",
+          "t": "They were present when you did the work. They have direct knowledge, not hearsay.",
+          "icon": "📍"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the quiet watcher",
+          "desc": "Write down one or two people on your team who rarely speak but pay close attention. These are your quiet allies. Know their names."
+        },
+        {
+          "n": "2",
+          "title": "Give them real visibility",
+          "desc": "Copy one of them on a piece of substantive work today — not a social message. Give them something real to observe."
+        },
+        {
+          "n": "3",
+          "title": "Credit them once in public",
+          "desc": "At your next team setting, name something specific they did well. Say it in front of others. Say it once."
+        }
+      ],
+      "script": "\"I want to make sure [name] gets credit here — they caught the error in the first draft that changed the whole direction.\"",
+      "counter": "Someone is using the quiet colleague's silence as implied agreement with their version of events.\n• They assume a quiet person equals a neutral or supportive one.\n• Ask the quiet colleague directly: 'What's your take on how things have been going?'\n• Their answer will tell you whether you have an ally or a witness against you.",
+      "insight": "The sharp, quiet person has already decided. The only question is whether you gave them enough to speak on your behalf — or just enough to stay out of it entirely."
+    },
+    {
+      "id": 12,
+      "cat": "allies",
+      "danger": "high",
+      "title": "Know the Difference Between a Colleague and a Friend at Work",
+      "hook": "You've been talking to someone at work like they're a friend. <strong>They're not — and when the story about you starts spreading, you'll find out whose side they pick.</strong>",
+      "truth": "Treating a colleague like a friend is how the underminer gets the raw material they need.\n• A real friend holds your confidence under pressure. Most colleagues won't.\n• The underminer often has a close relationship with the person you trusted most.\n• The trap: you assume loyalty because of warmth. Warmth is cheap. Watch what they do when it costs them something.",
+      "principle": "Greene: Law 2 — Never Put Too Much Trust in Friends",
+      "remember": "Most coworkers will not protect your reputation when it counts.",
+      "theySee": "Two coworkers who laugh together at lunch every day, until one of them says something in confidence that ends up in a manager's office.",
+      "signals": [
+        {
+          "l": "Comfort confession",
+          "t": "Someone keeps drawing out your honest opinions about management or other coworkers.",
+          "icon": "🪤"
+        },
+        {
+          "l": "No pushback",
+          "t": "They agree with everything you say and never challenge you — they're collecting, not thinking.",
+          "icon": "🪞"
+        },
+        {
+          "l": "Story traveled",
+          "t": "Something you said privately showed up in conversation with someone you never told.",
+          "icon": "📢"
+        },
+        {
+          "l": "Side switch",
+          "t": "In a group disagreement, they align publicly with the person you named as a problem.",
+          "icon": "🔀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Audit last week's conversations",
+          "desc": "List three candid things you said to a coworker this week. Ask: what happens to your position if they share each one?"
+        },
+        {
+          "n": "2",
+          "title": "Test with low-stakes information",
+          "desc": "Share a minor, non-sensitive detail with someone you suspect. See where it shows up by the end of the week."
+        },
+        {
+          "n": "3",
+          "title": "Separate the categories",
+          "desc": "Write two columns: people you work with, people who would speak up for you. Most names belong in the left column."
+        }
+      ],
+      "script": "\"I appreciate you checking in — I'm keeping most of it close right now, but I'll let you know when there's something worth sharing.\"",
+      "counter": "Someone is building a fake closeness to get information to use against you.\n• They're warmer than the job requires. They push for more detail than they need.\n• Say: 'I'd rather not get into specifics — what's going on on your end?'\n• Redirect every time. They'll either stop pushing or reveal exactly what they're after.",
+      "insight": "The person who knows your complaints, your plans, and your doubts is the most dangerous person in the room the moment they decide you're no longer worth protecting."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 60,
+  "manifestVersion": 61,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -442,7 +442,20 @@
       "url": "playbooks/playbook-srv-the-frozen-budget-playbook.json",
       "addedAt": "2026-09-05T06:46:01.398Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-reputation-defense",
+      "title": "Black Book: Reputation Defense",
+      "theme": "reputation",
+      "topic": "Defending your reputation against quiet undermining",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "🗡️",
+      "url": "playbooks/playbook-srv-black-book-reputation-defense.json",
+      "addedAt": "2026-09-05T16:26:59.234Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-05T06:46:01.398Z"
+  "generatedAt": "2026-09-05T16:26:59.234Z"
 }
