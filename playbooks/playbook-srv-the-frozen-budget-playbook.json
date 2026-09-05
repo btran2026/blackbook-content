@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "id": "srv-the-frozen-budget-playbook",
+    "version": "1.0",
+    "title": "The Frozen Budget Playbook",
+    "subtitle": "How to get paid when the money is officially gone",
+    "description": "Five moves for getting a raise when your manager says the budget is frozen — how to check if the freeze is real, build a number that sticks, time the ask, trade cash for something else, and pin down a date instead of a maybe.",
+    "author": "AI",
+    "createdAt": "2026-08-23T09:48:05.598Z",
+    "tags": [
+      "negotiation",
+      "salary",
+      "raise",
+      "workplace power",
+      "budget freeze"
+    ],
+    "totalCards": 5,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🧊",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "diagnosis",
+      "label": "Diagnosis",
+      "color": "#4A90D9"
+    },
+    {
+      "key": "leverage",
+      "label": "Leverage",
+      "color": "#D9A34A"
+    },
+    {
+      "key": "timing",
+      "label": "Timing",
+      "color": "#6B4AD9"
+    },
+    {
+      "key": "negotiation",
+      "label": "Negotiation",
+      "color": "#4AD98C"
+    },
+    {
+      "key": "aftermath",
+      "label": "Aftermath",
+      "color": "#D94A4A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "diagnosis",
+      "danger": "low",
+      "title": "Check If The Freeze Actually Includes You",
+      "when": "Your manager says 'budgets are frozen this year' when you bring up a raise.",
+      "hook": "A frozen budget is a policy, not a fact about you. <strong>Policies have loopholes built by the people who wrote them.</strong>",
+      "truth": "Freezes cover departments, not individuals — someone always gets an exception.\n• Managers announce freezes to end the conversation, not to describe reality.\n• HR sets freeze rules; individual managers still control off-cycle exceptions.\n• Nobody volunteers the exception list. You have to ask a name, not a policy.",
+      "principle": "Sun Tzu — Know the Ground Before You Move",
+      "remember": "A freeze has exceptions. Ask who got one, not if one exists.",
+      "theySee": "A calm employee asking a specific process question, not pushing back on the freeze.",
+      "signals": [
+        {
+          "icon": "📋",
+          "l": "Freeze scope",
+          "t": "They say 'budgets' but never name a written policy."
+        },
+        {
+          "icon": "🤐",
+          "l": "No document",
+          "t": "They can't point you to the memo or the freeze date."
+        },
+        {
+          "icon": "🔁",
+          "l": "Someone got one",
+          "t": "A peer got a raise or promotion this same quarter."
+        },
+        {
+          "icon": "🕰️",
+          "l": "End date vague",
+          "t": "They can't tell you when the freeze lifts."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the memo",
+          "desc": "Ask your manager to send you the actual freeze policy in writing."
+        },
+        {
+          "n": "2",
+          "title": "Name an exception",
+          "desc": "Ask who got an off-cycle raise this year and why."
+        },
+        {
+          "n": "3",
+          "title": "Find the loophole",
+          "desc": "Check if promotions, title changes, or retention cases are exempt."
+        }
+      ],
+      "script": "\"Got it — can you send me the actual freeze memo? I want to understand what it covers before I plan my year.\"",
+      "example": "Devon asked his manager 'who approved the last off-cycle raise this year' instead of arguing the freeze. His manager admitted two exceptions went through for retention cases. Devon reframed his ask as a retention case the next week and got approved.",
+      "watchFor": "They hesitate, or say they'll 'check and get back to you' instead of citing the memo.",
+      "ifItFails": "They stonewall and repeat 'it's frozen, nothing I can do' without producing anything in writing. Go over their head carefully — ask HR directly whether off-cycle exceptions exist for retention or promotion, before you copy anyone else. Send: \"Quick question for my own planning — does the freeze allow any off-cycle exceptions, like for retention or promotion?\"",
+      "counter": "If someone questions your freeze this hard, they suspect you're hiding an exception list.\n• Notice when someone asks for the memo instead of accepting the freeze.\n• Say: \"It's a blanket freeze, no exceptions, I checked.\"\n• Only say this if it's true — a paper trail will surface the lie later.",
+      "insight": "Most freezes have a side door for retention risk. The harder part is proving you're one before someone else does."
+    },
+    {
+      "id": 2,
+      "cat": "leverage",
+      "danger": "low",
+      "title": "Build A Paper Trail Before You Ask",
+      "when": "You've decided to make the ask despite the freeze and need a number that sticks.",
+      "hook": "A raise ask with no number is a complaint. <strong>A raise ask with a market number is a business case.</strong>",
+      "truth": "Managers approve numbers they can defend upward, not feelings they can't.\n• A specific market number gives your manager something to forward to their boss.\n• Vague asks like 'I deserve more' get vague answers like 'noted'.\n• The number only works if it comes from outside you — a source, not your opinion.",
+      "principle": "Anchoring Effect — Outside Numbers Beat Inside Feelings",
+      "remember": "Bring a number from outside. Feelings get noted, not paid.",
+      "theySee": "An employee who did homework, holding a number from a survey, not a demand from thin air.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "Market gap",
+          "t": "Your pay sits below the median for your title on Levels.fyi or Glassdoor."
+        },
+        {
+          "icon": "🏆",
+          "l": "Undocumented wins",
+          "t": "You can list three results from this year nobody wrote down."
+        },
+        {
+          "icon": "🧾",
+          "l": "No comp letter",
+          "t": "You haven't seen a written total comp breakdown in over a year."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Manager echoes you",
+          "t": "Your manager repeats your numbers back instead of giving their own."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull three market numbers",
+          "desc": "Check Levels.fyi, Glassdoor, and one recruiter message for your title's range."
+        },
+        {
+          "n": "2",
+          "title": "List three dollar-shaped wins",
+          "desc": "Write three results from this year with a number attached to each."
+        },
+        {
+          "n": "3",
+          "title": "Write the one-line ask",
+          "desc": "Combine the gap and the wins into a single sentence with a number."
+        }
+      ],
+      "script": "\"Market data for my role and level puts me about 15% below range. Combined with the renewal I closed and the two hires I onboarded, I want to talk about closing that gap.\"",
+      "example": "Priya pulled her title's range from three recruiter messages sitting in her LinkedIn inbox. She paired the 15% gap with the renewal she closed and got a written commitment for a Q1 raise review, even though the current budget stayed frozen.",
+      "watchFor": "They ask you to send the data and wins in an email instead of waving it off.",
+      "ifItFails": "They agree the data looks fair but say the freeze still blocks any number, period. Don't drop the number — bank it. Ask them to put it in writing as a commitment for the next cycle. Send: \"Can we agree in writing that this 15% gap gets addressed at the next budget cycle?\"",
+      "counter": "If someone hits you with market numbers, they've prepared more than you have.\n• Notice if the number comes from a real source you can check, not a guess.\n• Say: \"Send me that data and I'll verify it against our band.\"\n• Verify before you agree — a wrong number anchors your budget for the year.",
+      "insight": "A number from outside beats a feeling from inside every time. The harder part is finding wins your manager can't take credit for."
+    },
+    {
+      "id": 3,
+      "cat": "timing",
+      "danger": "moderate",
+      "title": "Ask Right Before The Next Budget Gets Built, Not During The Freeze",
+      "when": "Your manager just told you the current budget is frozen for this cycle.",
+      "hook": "Money moves twice a year, not once. <strong>Asking mid-freeze wastes a bullet you'll need later.</strong>",
+      "truth": "Budgets get built weeks before they open, not on the day they open.\n• Your manager fights for headcount dollars during the planning window, not after.\n• Asking during the freeze forces a 'no' they can't take back once said.\n• Asking during planning gives them a number to fight for before it's locked.",
+      "principle": "Greene: Law 35 — Master the Art of Timing",
+      "remember": "Don't ask during the freeze. Ask right before the next budget gets drafted.",
+      "theySee": "Someone who timed the ask to their planning calendar instead of their own frustration.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Planning window",
+          "t": "Your manager mentions 'next year's budget' or 'headcount planning' in a meeting."
+        },
+        {
+          "icon": "🔒",
+          "l": "Freeze end date",
+          "t": "HR names a specific month the freeze lifts."
+        },
+        {
+          "icon": "💬",
+          "l": "Early complaints",
+          "t": "Your manager vents about fighting for budget dollars right now."
+        },
+        {
+          "icon": "🚪",
+          "l": "Open req nearby",
+          "t": "A team near you just got approval for a new hire."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the planning month",
+          "desc": "Ask HR or your manager when next year's budget gets drafted."
+        },
+        {
+          "n": "2",
+          "title": "Put your name in early",
+          "desc": "Tell your manager three weeks before planning starts that you want in the draft."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a placeholder line",
+          "desc": "Request your raise get written into the draft budget, even unapproved."
+        }
+      ],
+      "script": "\"Before next year's budget gets drafted, I want to make sure my name is in the conversation. Can we talk in the next two weeks so I'm part of the draft?\"",
+      "example": "Marcus learned his company drafted budgets every October. He asked his manager in September to include a raise line in the draft, before headcount got locked. When the freeze lifted in January, his name was already on the list.",
+      "watchFor": "They pull out a calendar or mention a specific planning meeting date.",
+      "ifItFails": "They say it's too early to talk about next year and put you off indefinitely. Set your own deadline instead of waiting on theirs. Send: \"No problem — can we put a placeholder on the calendar for four weeks before planning starts?\"",
+      "counter": "If someone pushes you to commit to a number before planning starts, they're locking in the low end early.\n• Notice if they ask you to name a number months before budget season.\n• Say: \"Let's revisit closer to the planning window so the number reflects the year.\"\n• Wait — an early number becomes their ceiling, not your floor.",
+      "insight": "The freeze is the wrong season to plant this seed. The next question is whether you can wait weeks without your ask going cold."
+    },
+    {
+      "id": 4,
+      "cat": "negotiation",
+      "danger": "moderate",
+      "title": "Trade Cash For Title, Equity, Or Time When Cash Is Locked",
+      "when": "Your manager confirms cash is frozen but says they still want to keep you.",
+      "hook": "Cash is one line in a budget. <strong>Title, equity, and time sit in different lines nobody froze.</strong>",
+      "truth": "A freeze usually locks the salary line, not every line in your comp.\n• Titles, equity grants, and PTO often live in separate budgets or no budget at all.\n• A title bump today becomes your anchor for salary the moment cash unfreezes.\n• Managers say yes faster to things that don't show up as new dollars this quarter.",
+      "principle": "Fisher & Ury — Expand the Pie Before You Split It",
+      "remember": "If cash is frozen, ask for title, equity, or time instead.",
+      "theySee": "A flexible employee offering an easy yes instead of a hard no they have to escalate.",
+      "signals": [
+        {
+          "icon": "🏷️",
+          "l": "Title budget",
+          "t": "Titles or promotions get approved through a different process than raises."
+        },
+        {
+          "icon": "📈",
+          "l": "Equity pool",
+          "t": "Your company still grants equity or bonus pools separate from base pay."
+        },
+        {
+          "icon": "🗓️",
+          "l": "PTO flexibility",
+          "t": "Extra PTO or remote days get approved by your manager alone, no finance sign-off."
+        },
+        {
+          "icon": "🤝",
+          "l": "Manager wants to say yes",
+          "t": "Your manager says 'I wish I could' more than once in the talk."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List three non-cash asks",
+          "desc": "Write down a title, an equity ask, and a flexibility ask before the meeting."
+        },
+        {
+          "n": "2",
+          "title": "Lead with the cheapest one",
+          "desc": "Open with the ask that costs your manager the least to approve."
+        },
+        {
+          "n": "3",
+          "title": "Tie it to next year's raise",
+          "desc": "Ask for a written note that this sets the base for next cycle's number."
+        }
+      ],
+      "script": "\"If cash is locked this cycle, can we look at a title change and 10 extra PTO days now, with a written note that we revisit salary first when the freeze lifts?\"",
+      "example": "Lena couldn't get a raise during her company's freeze, so she asked for a senior title and 5 extra PTO days instead, with a written note that salary review came first next cycle. Six months later, her new title put her at the top of the pay band the day the freeze lifted.",
+      "watchFor": "They say yes to the title or PTO ask within the same meeting, without checking with anyone.",
+      "ifItFails": "They say even title changes need sign-off and stall for weeks with no answer. Set a follow-up date out loud so the stall has a deadline attached. Send: \"Understood — can we put a check-in on the calendar for two weeks out so this doesn't drift?\"",
+      "counter": "If someone offers you a title bump instead of money, they're buying time cheap.\n• Notice when a title or extra PTO shows up in place of a number.\n• Say: \"I'll take that, and I want it written that salary comes first when funds open.\"\n• Get the trade in writing — a verbal title bump disappears at review time.",
+      "insight": "Non-cash moves buy goodwill now and a bigger case later. The real trap is taking the trade and forgetting to collect on the promise behind it."
+    },
+    {
+      "id": 5,
+      "cat": "aftermath",
+      "danger": "high",
+      "title": "Get A Written Date, Or Start Looking Outside",
+      "when": "Your manager agrees you deserve more but says there's still nothing they can do right now.",
+      "hook": "A verbal 'later' with no date is a 'no' wearing a nicer shirt. <strong>A commitment without a date is not a commitment.</strong>",
+      "truth": "Verbal promises cost the promiser nothing until someone else has to keep them.\n• A date turns a soft promise into a deadline your manager has to explain missing.\n• No date means the promise resets every time you ask again.\n• A market offer in hand is the only thing that moves faster than a budget cycle.",
+      "principle": "Schelling — Commitment Devices",
+      "remember": "A promise with no date is a delay. Get the date in writing.",
+      "theySee": "A patient employee locking in a plan, not a threat — until the outside offer shows up.",
+      "signals": [
+        {
+          "icon": "🗓️",
+          "l": "No calendar date",
+          "t": "Your manager says 'soon' or 'when things open up' with no month named."
+        },
+        {
+          "icon": "📝",
+          "l": "No email follow-up",
+          "t": "The promise only exists in the meeting, never in writing after."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat ask needed",
+          "t": "You've had this same talk more than once with the same result."
+        },
+        {
+          "icon": "📤",
+          "l": "Recruiters active",
+          "t": "Recruiters in your field are messaging you more than usual this quarter."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the date, not the promise",
+          "desc": "Ask your manager to name the exact month this gets revisited."
+        },
+        {
+          "n": "2",
+          "title": "Put it in an email yourself",
+          "desc": "Send a recap email naming the date, so it exists in writing."
+        },
+        {
+          "n": "3",
+          "title": "Start one real conversation outside",
+          "desc": "Take one recruiter call this month, even if you're not ready to leave."
+        }
+      ],
+      "script": "\"I hear you on the freeze. Can we put a specific month on the calendar to revisit this, so it doesn't just come up again next review with the same answer?\"",
+      "example": "Jamal got a sympathetic 'not right now' from his director twice in a row. The third time, he asked for a specific month and sent a recap email pinning it down. When that date came and went with silence, he took a call with a recruiter he'd ignored for a year and used the offer to get a counter within a week.",
+      "watchFor": "They name a specific month without you pushing twice, or they visibly avoid naming one at all.",
+      "ifItFails": "They dodge the date a second time and give you another vague 'soon.' Stop asking and start proving your number exists somewhere else. Take the recruiter call you've been putting off, get a real number, and bring that number back instead of another ask: \"I want to flag I've had an outside conversation putting my market rate higher — I'd rather stay, so let's talk.\"",
+      "counter": "If someone gives you a warm no with no date, they're betting you'll forget to follow up.\n• Notice a promise with no month, no number, and no email after.\n• Say: \"Let's get a date on this so we both remember it the same way.\"\n• Follow up in writing yourself — their memory won't do it for you.",
+      "insight": "A promise with a date is a plan. A promise without one is a delay tactic that works until you stop being patient. The next question is what you do the day the date passes and nothing moves."
+    }
+  ]
+}

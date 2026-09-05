@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 59,
+  "manifestVersion": 60,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -429,7 +429,20 @@
       "url": "playbooks/playbook-srv-the-recruiter-cold-call.json",
       "addedAt": "2026-09-04T16:45:46.069Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-frozen-budget-playbook",
+      "title": "The Frozen Budget Playbook",
+      "theme": "negotiation",
+      "topic": "",
+      "cardCount": 5,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🧊",
+      "url": "playbooks/playbook-srv-the-frozen-budget-playbook.json",
+      "addedAt": "2026-09-05T06:46:01.398Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-04T16:45:46.069Z"
+  "generatedAt": "2026-09-05T06:46:01.398Z"
 }
