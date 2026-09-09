@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 61,
+  "manifestVersion": 62,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -455,7 +455,20 @@
       "url": "playbooks/playbook-srv-managing-the-person-who-wanted-your-job.json",
       "addedAt": "2026-09-09T06:12:55.484Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-contractor-file",
+      "title": "The Contractor File",
+      "theme": "negotiation",
+      "topic": "",
+      "cardCount": 16,
+      "contentVersion": 1,
+      "coverColor": "#B4451F",
+      "coverIcon": "🔧",
+      "url": "playbooks/playbook-srv-the-contractor-file.json",
+      "addedAt": "2026-09-09T06:13:33.793Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-09T06:12:55.484Z"
+  "generatedAt": "2026-09-09T06:13:33.793Z"
 }

@@ -1,0 +1,985 @@
+{
+  "meta": {
+    "id": "srv-the-contractor-file",
+    "version": "1.0",
+    "title": "The Contractor File",
+    "subtitle": "How to win the room when the other guy quotes for a living",
+    "description": "Sixteen cards on hiring, pricing, and controlling contractors and repair people. They have run this conversation a thousand times. You run it once a decade. This file closes that gap: their script, your counter-move, and what to do when the first move fails.",
+    "author": "AI",
+    "createdAt": "2026-08-23T19:17:13.802Z",
+    "tags": [
+      "negotiation",
+      "contractors",
+      "home repair",
+      "pricing",
+      "leverage",
+      "field manual"
+    ],
+    "totalCards": 16,
+    "isSeeded": true,
+    "coverColor": "#B4451F",
+    "coverIcon": "🔧",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "intake",
+      "label": "The First Call",
+      "color": "#C2703D"
+    },
+    {
+      "key": "pricing",
+      "label": "Price And Bids",
+      "color": "#A83E2B"
+    },
+    {
+      "key": "contract",
+      "label": "Paper And Payment",
+      "color": "#6E5A3E"
+    },
+    {
+      "key": "control",
+      "label": "Control On Site",
+      "color": "#3F6B52"
+    },
+    {
+      "key": "pressure",
+      "label": "Under Pressure",
+      "color": "#7A3E63"
+    },
+    {
+      "key": "aftermath",
+      "label": "After The Work",
+      "color": "#40536E"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "intake",
+      "danger": "low",
+      "title": "Never Say Your Budget First",
+      "principle": "Anchoring Bias — First Number Sets The Range",
+      "remember": "The first number wins the room. Make them say it.",
+      "when": "A contractor walks your kitchen, then asks what you were hoping to spend.",
+      "hook": "That question is not curiosity. <strong>It is the whole negotiation, asked politely.</strong>",
+      "truth": "The budget question exists to price you, not the job.\n• They hear your number and build a job that costs exactly that.\n• Your ceiling becomes their floor within one sentence.\n• Most people answer honestly because the question sounds like planning.",
+      "theySee": "A homeowner who turns the question around and waits for an answer.",
+      "signals": [
+        {
+          "icon": "💬",
+          "l": "Budget probe",
+          "t": "They ask your budget before they measure anything"
+        },
+        {
+          "icon": "🏠",
+          "l": "Wealth scan",
+          "t": "They look at your car, your watch, your countertops"
+        },
+        {
+          "icon": "📋",
+          "l": "No scope talk",
+          "t": "They will not describe the work before they talk money"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat ask",
+          "t": "They ask about budget a second time later in the visit"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Turn the question back",
+          "desc": "Ask what a job this size normally costs at their shop. Then stop talking."
+        },
+        {
+          "n": "2",
+          "title": "Give a range you got elsewhere",
+          "desc": "Name a number only if another written bid exists. Quote that bid, not your wallet."
+        },
+        {
+          "n": "3",
+          "title": "Write the scope down first",
+          "desc": "Send them a one-page list of the work before anyone says a price."
+        }
+      ],
+      "script": "\"I'd rather not guess. <strong>What does a job this size usually run for you?</strong> Give me your number and I'll tell you if we're in the same world.\"",
+      "example": "Dana had $40,000 for her bathroom. Three contractors asked her budget and she said nothing but \"what's your usual?\" The bids came in at $27,000, $31,000, and $52,000. She hired the $31,000 one and kept the rest.",
+      "watchFor": "They stop asking about money and start measuring the room.",
+      "ifItFails": "They refuse to price without your number and say every job is custom. Do not cave and do not argue. Hand them the scope sheet and a deadline instead: <strong>\"Here's the exact work in writing. Send me a number by Friday and you're in the running.\"</strong> Now they have to bid against people you never named.",
+      "counter": "If someone asks your budget before they describe the work, they are pricing you.\n• Notice that no measurement or scope came first.\n• Say: <strong>\"You go first. What's your usual for this?\"</strong>\n• Put the work in writing and make them bid on paper.",
+      "insight": "Silence on your budget costs you nothing and saves thousands. The harder part is the second visit, when they have your scope and try to load it with extras you never asked for."
+    },
+    {
+      "id": 2,
+      "cat": "intake",
+      "danger": "low",
+      "title": "Get Three Bids And Say So",
+      "principle": "Cialdini: Scarcity Reversed — You Become The Scarce Buyer",
+      "remember": "Three bids in writing. Tell each one there are three.",
+      "when": "You need a roof, a furnace, or a rewire, and you only called one guy.",
+      "hook": "One bid is not a price. <strong>It is whatever they think you will pay.</strong>",
+      "truth": "A contractor with no competition is not selling. They are naming a number.\n• Three bids turn one seller's story into a market you can see.\n• The moment they know others are bidding, padding drops out.\n• Most people stop at one bid because calling strangers feels rude.",
+      "theySee": "A homeowner who mentions two other companies coming this week, by name.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "Same-day close",
+          "t": "They want a signature before they leave your driveway"
+        },
+        {
+          "icon": "🚫",
+          "l": "Competitor smear",
+          "t": "They warn you about the other companies in town"
+        },
+        {
+          "icon": "📉",
+          "l": "Price drops fast",
+          "t": "Their number falls the moment you mention another bid"
+        },
+        {
+          "icon": "📄",
+          "l": "No line items",
+          "t": "They give one total with no breakdown of labor and parts"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Call three companies today",
+          "desc": "Book all three walkthroughs inside the same week. Use the same written scope for each."
+        },
+        {
+          "n": "2",
+          "title": "Say the word 'bids' out loud",
+          "desc": "Tell each one you have two other bids coming. Do not name the numbers."
+        },
+        {
+          "n": "3",
+          "title": "Compare line by line",
+          "desc": "Line up labor, materials, and timeline side by side. Ask the middle bid about the low bid's gaps."
+        }
+      ],
+      "script": "\"I've got two other companies walking this on Thursday. <strong>Same scope, same questions.</strong> Send your number in writing and I'll decide Monday.\"",
+      "example": "Marcus got one furnace quote at $9,400 and almost signed. He booked two more walkthroughs and mentioned them. The first company called back unprompted with $7,900 and a longer warranty. He paid $7,900.",
+      "watchFor": "They ask when the other companies are coming and offer to beat their number.",
+      "ifItFails": "Two companies never call back and you are left with one bid again. Do not negotiate blind. Pay a licensed inspector or a handyman $150 for an independent scope estimate, then use it: <strong>\"An inspector priced this work at X. Walk me through the difference.\"</strong>",
+      "counter": "If someone pushes you to sign before other bids arrive, they fear the comparison.\n• Notice the urgency is about your signature, not the work.\n• Say: <strong>\"I don't sign the same day I meet someone.\"</strong>\n• Take their bid in writing and finish your other two walkthroughs.",
+      "insight": "Three bids is not about finding the cheapest. It is about learning what the job actually contains. The trap is picking the low bid before you know why it is low."
+    },
+    {
+      "id": 3,
+      "cat": "pricing",
+      "danger": "moderate",
+      "title": "Ask What The Low Bid Left Out",
+      "principle": "Sun Tzu: Know The Ground Before You Fight On It",
+      "remember": "A cheap bid is a short list. Find the missing lines.",
+      "when": "One bid comes in far under the others and you want to believe it.",
+      "hook": "The low bid is rarely a better deal. <strong>It is usually a shorter list.</strong>",
+      "truth": "Low bids win the job, then grow through change orders.\n• They leave out permits, haul-away, patching, or paint.\n• Once the wall is open, every missing line becomes an add-on you must accept.\n• Most people compare totals. Pros compare what each bid excludes.",
+      "theySee": "A homeowner reading the other company's bid out loud and asking why a line is missing.",
+      "signals": [
+        {
+          "icon": "📝",
+          "l": "Thin bid",
+          "t": "Their bid fits on one page with no material list"
+        },
+        {
+          "icon": "🚧",
+          "l": "No permit line",
+          "t": "They do not mention permits or inspection anywhere"
+        },
+        {
+          "icon": "🗑️",
+          "l": "No disposal",
+          "t": "Nothing in the bid covers hauling the old material away"
+        },
+        {
+          "icon": "❓",
+          "l": "Allowance words",
+          "t": "They write 'allowance' or 'TBD' next to fixtures and tile"
+        },
+        {
+          "icon": "🤷",
+          "l": "Vague finish",
+          "t": "They will not say who patches and paints at the end"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Line the bids up on one page",
+          "desc": "Write each bid's items in a column. Circle every line one bid has and another does not."
+        },
+        {
+          "n": "2",
+          "title": "Ask the low bidder about each gap",
+          "desc": "Read the missing line out loud and ask if it is included. Write down their answer."
+        },
+        {
+          "n": "3",
+          "title": "Make them add the gaps in writing",
+          "desc": "Ask for a revised bid with permits, haul-away, and patching named. Compare totals again."
+        }
+      ],
+      "script": "\"The other bid lists permits, dumpster, and drywall patching. <strong>I don't see those here.</strong> Are they included, or will they show up as extras later?\"",
+      "example": "Priya had bids at $18,000 and $11,500. She read the long bid's lines to the cheap guy. Permits, disposal, and paint were all missing. His revised number came to $17,200, so she hired the company with the better warranty.",
+      "watchFor": "They go quiet, then say \"I can add that in\" instead of \"that's included\".",
+      "ifItFails": "They insist everything is included but will not put it in writing. Treat that as the answer. Send one message that makes the paper the condition: <strong>\"Send the same bid with permits, disposal, and patching listed as included at this price. Then I can sign.\"</strong> If it never arrives, you learned the price was fiction.",
+      "counter": "If someone underbids to win you, they plan to make it back mid-job.\n• Notice which lines their bid does not contain.\n• Say: <strong>\"Which parts of this job are not in this number?\"</strong>\n• Get the answer in writing before any deposit moves.",
+      "insight": "Every dollar cut from a bid is a line item that still has to happen. The real question is who pays for it and when they tell you."
+    },
+    {
+      "id": 4,
+      "cat": "pricing",
+      "danger": "moderate",
+      "title": "Split Labor From Materials",
+      "principle": "Information Gap — You Cannot Argue With One Number",
+      "remember": "Make them show labor and parts separately. Then you can push.",
+      "when": "The bid is one big total and you cannot tell what anything costs.",
+      "hook": "A single total hides everything. <strong>Two numbers give you two places to push.</strong>",
+      "truth": "Bundled pricing exists so you cannot see the markup.\n• Split the bid and you can price the materials yourself online in ten minutes.\n• Labor becomes the only real negotiation, which is honest ground.\n• Most people accept the lump sum because asking feels like calling them a cheat.",
+      "theySee": "A homeowner with a phone open to a supplier price, asking about the parts line.",
+      "signals": [
+        {
+          "icon": "1️⃣",
+          "l": "One number",
+          "t": "The whole bid is a single dollar figure with no breakdown"
+        },
+        {
+          "icon": "📦",
+          "l": "Brand hidden",
+          "t": "They will not name the brand or model of the parts"
+        },
+        {
+          "icon": "💵",
+          "l": "Markup dodge",
+          "t": "They say the split is 'proprietary' or 'how we do it'"
+        },
+        {
+          "icon": "🧾",
+          "l": "Receipt refusal",
+          "t": "They refuse to show supplier receipts at the end"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for two lines",
+          "desc": "Request one number for labor and one for materials. Ask for brand and model on the big parts."
+        },
+        {
+          "n": "2",
+          "title": "Price the parts yourself",
+          "desc": "Search the model numbers at a supply house tonight. Note the retail price."
+        },
+        {
+          "n": "3",
+          "title": "Offer to buy the materials",
+          "desc": "Say you will buy the parts and pay them for labor. Their answer tells you the markup."
+        }
+      ],
+      "script": "\"Break it into two lines for me: <strong>labor and materials.</strong> If the parts markup is steep, I'll buy them myself and pay you for the install.\"",
+      "example": "Tom's plumber quoted $2,800 to swap a water heater. Tom asked for a split: $1,150 labor, $1,650 for a heater that retailed at $780. Tom bought the heater and paid $1,300 for the install. He saved $500 in one question.",
+      "watchFor": "They quote a smaller total on the spot rather than show you the split.",
+      "ifItFails": "They refuse to split and say they only work all-inclusive. Do not fight it. Make the warranty carry the price instead: <strong>\"Then I need the model number in the contract and a two-year labor warranty at that price.\"</strong> If they will not name the part, they are not selling you a known part.",
+      "counter": "If someone hands you one lump number, they are protecting the markup.\n• Notice they never name a brand or model.\n• Say: <strong>\"What's the labor and what's the parts?\"</strong>\n• Price the parts yourself before you answer anything else.",
+      "insight": "Materials markup is normal and often fair. The information is what you are buying with that question, and it works until you need them to warranty parts you bought yourself."
+    },
+    {
+      "id": 5,
+      "cat": "pricing",
+      "danger": "moderate",
+      "title": "Refuse The Emergency Price",
+      "principle": "Schelling: Commitment — Remove Your Own Ability To Say Yes",
+      "remember": "Wet ceilings do not need same-day cabinets. Stop the leak, then bid.",
+      "when": "Water is running down a wall and the repair guy quotes a full remodel today.",
+      "hook": "They are not pricing the leak. <strong>They are pricing your panic.</strong>",
+      "truth": "Emergency work has two parts and they are sold as one.\n• Stopping the damage is urgent. Rebuilding is never urgent.\n• Split them and the urgent part is small and cheap.\n• Most people sign the whole package because the water is still moving.",
+      "theySee": "A homeowner who authorizes the shut-off only, then puts the phone down.",
+      "signals": [
+        {
+          "icon": "🌊",
+          "l": "Damage bundling",
+          "t": "They bundle the shut-off and the full rebuild into one price"
+        },
+        {
+          "icon": "⏰",
+          "l": "Today only",
+          "t": "They say the crew is only free today"
+        },
+        {
+          "icon": "📱",
+          "l": "Sign on tablet",
+          "t": "They hand you a tablet to sign before any work starts"
+        },
+        {
+          "icon": "😰",
+          "l": "Fear talk",
+          "t": "They describe mold or collapse before they describe the fix"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Buy only the stop-the-damage work",
+          "desc": "Authorize the shut-off, the dry-out, and the tarp. Nothing else today."
+        },
+        {
+          "n": "2",
+          "title": "Photograph everything before they touch it",
+          "desc": "Take twenty photos of the damage and the open wall. You need them for insurance and for bids."
+        },
+        {
+          "n": "3",
+          "title": "Bid the rebuild next week",
+          "desc": "Get two rebuild bids after the area is dry. The panic price is gone by then."
+        }
+      ],
+      "script": "\"Stop the water and dry it out today — <strong>I'll pay for that now.</strong> The rebuild gets bid separately next week. Write up just the emergency part.\"",
+      "example": "A pipe burst in Ellen's ceiling at 9pm. The company quoted $14,000 for water damage and a new kitchen. She paid $1,800 for shut-off and drying, took photos, and bid the rebuild the next week at $6,400.",
+      "watchFor": "They write a separate, much smaller invoice for the emergency work.",
+      "ifItFails": "They say they only do the full package and start packing up. Let them go and call the next number — emergency mitigation is a crowded trade. Then text the first company: <strong>\"Another company handled the dry-out. Send a rebuild bid if you still want that part.\"</strong>",
+      "counter": "If someone puts urgent and non-urgent work in one price, they are selling your fear.\n• Notice the rebuild has no real deadline.\n• Say: <strong>\"Which part has to happen in the next four hours?\"</strong>\n• Pay for that part only and photograph the rest.",
+      "insight": "Panic is the most expensive material in any job. Splitting the invoice cuts it out, but you still need someone honest to do the dry-out while you shop the rebuild."
+    },
+    {
+      "id": 6,
+      "cat": "contract",
+      "danger": "high",
+      "title": "Never Pay More Than A Third Up Front",
+      "principle": "Loss Aversion — Money In Their Pocket Is Your Only Hold",
+      "remember": "Money you already paid buys you nothing. Hold the last third.",
+      "when": "They ask for half or all of the money before anyone lifts a tool.",
+      "hook": "The unpaid balance is the only reason they come back Tuesday. <strong>Spend it slowly.</strong>",
+      "truth": "Payment timing decides who has the upper hand for the whole job.\n• A big deposit funds their other jobs and buys you nothing.\n• Unpaid money is the only thing that pulls a crew back to your house.\n• Most people pay up front because the contractor mentions material costs.",
+      "theySee": "A homeowner who offers a deposit for materials only, with the rest tied to finished stages.",
+      "signals": [
+        {
+          "icon": "💳",
+          "l": "Cash push",
+          "t": "They ask for cash, Zelle, or a check to a personal name"
+        },
+        {
+          "icon": "📈",
+          "l": "Deposit creep",
+          "t": "They raise the deposit request after you agree to the job"
+        },
+        {
+          "icon": "🏃",
+          "l": "Money then gone",
+          "t": "They collect a deposit and then stop returning calls"
+        },
+        {
+          "icon": "🧱",
+          "l": "Material story",
+          "t": "They say suppliers require full payment before delivery"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write a three-stage payment plan",
+          "desc": "Pay a third at start, a third at a named halfway point, a third when the punch list is done."
+        },
+        {
+          "n": "2",
+          "title": "Pay by card or check, never cash",
+          "desc": "Use a method that leaves a record and lets you dispute. Make checks out to the company name."
+        },
+        {
+          "n": "3",
+          "title": "Name what 'done' means for each stage",
+          "desc": "Write the exact finished thing each payment buys. Example: tile set and grouted, no gaps."
+        }
+      ],
+      "script": "\"A third now, a third when the rough-in passes inspection, <strong>a third when the punch list is signed off.</strong> That's how I pay every job.\"",
+      "example": "Ravi's deck builder wanted 70 percent up front. Ravi offered a third and a stage schedule. The builder took it. When framing stalled for two weeks, Ravi's held payment brought the crew back in three days.",
+      "watchFor": "They stop pushing for the bigger deposit and ask what counts as stage two.",
+      "ifItFails": "They say they cannot start without half and the deposit is company policy. Move the money to a place that is not their pocket: <strong>\"I'll pay the material invoice directly to your supplier today, and labor in thirds.\"</strong> A real contractor takes that. A cash-flow problem does not.",
+      "counter": "If someone needs most of the money before work starts, you are funding their last job.\n• Notice the deposit is about their cash, not your materials.\n• Say: <strong>\"I pay in thirds, tied to stages.\"</strong>\n• Pay suppliers directly if materials are the real issue.",
+      "insight": "The last third is the whole contract. The harder question is what you do when they walk with 20 percent of the work left and you still need a finished kitchen."
+    },
+    {
+      "id": 7,
+      "cat": "contract",
+      "danger": "high",
+      "title": "Put Change Orders In Writing Before Work Starts",
+      "principle": "Sunk-Cost Anchoring — Open Walls Make You Say Yes",
+      "remember": "No signed change order, no extra money. Say it on day one.",
+      "when": "The crew has your floor open and says the extra work will be about a thousand more.",
+      "hook": "Mid-job is when their price stops being a price. <strong>Set the rule while the floor is still closed.</strong>",
+      "truth": "Change orders are where the real profit lives on most jobs.\n• An open wall means you cannot get another bid or wait a week.\n• A verbal \"about a thousand\" becomes $2,400 on the final invoice.\n• Most people say yes verbally because stopping the crew feels worse than paying.",
+      "theySee": "A homeowner who pulls up the contract clause and asks for the change in writing before anyone continues.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Verbal extras",
+          "t": "They quote extra work out loud and never send paper"
+        },
+        {
+          "icon": "🕳️",
+          "l": "Discovery timing",
+          "t": "Surprises appear right after demolition, never before"
+        },
+        {
+          "icon": "📊",
+          "l": "Round numbers",
+          "t": "Extras come as round guesses like 'about two grand'"
+        },
+        {
+          "icon": "⏸️",
+          "l": "Stop threat",
+          "t": "They say the crew waits until you approve the extra"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Add the clause before you sign",
+          "desc": "Write: no payment for work without a signed change order naming price and days added."
+        },
+        {
+          "n": "2",
+          "title": "Ask for paper every single time",
+          "desc": "When they name an extra, ask for it in writing before the crew touches it."
+        },
+        {
+          "n": "3",
+          "title": "Reply in text within the hour",
+          "desc": "Text your approval or refusal the same day. A written no stops the clock too."
+        }
+      ],
+      "script": "\"Send it to me in writing — <strong>price, days added, and what it covers.</strong> I'll approve it in ten minutes. Contract says no paper, no payment.\"",
+      "example": "Nora's contractor found old wiring and said it would be \"maybe fifteen hundred\". She asked for a change order. It came back at $1,150 with three days added. The final invoice matched, because the paper existed before the work did.",
+      "watchFor": "They pull out a phone and start typing the change order right there.",
+      "ifItFails": "They do the extra work anyway and bill you for it. Do not pay it and do not argue about fairness. Point at the clause and pay everything else: <strong>\"Contract says signed change orders only. I'm paying the contracted amount today. Send a change order for the rest and I'll review it.\"</strong> Now they have to justify the number in writing.",
+      "counter": "If someone quotes extras verbally with the wall open, they are using the mess as pressure.\n• Notice the surprise always arrives after demolition.\n• Say: <strong>\"In writing, with the days it adds.\"</strong>\n• Withhold approval until the paper arrives, even if the crew idles.",
+      "insight": "Change orders are not the enemy. Unwritten ones are. The next problem is the schedule, because every signed change order buys them more days than the work needs."
+    },
+    {
+      "id": 8,
+      "cat": "contract",
+      "danger": "high",
+      "title": "Tie The Last Payment To A Punch List",
+      "principle": "Schelling: Credible Commitment — Hold The Thing They Want",
+      "remember": "Write the last list yourself. Pay when every line is done.",
+      "when": "The job is 95 percent done and they want the final check now.",
+      "hook": "The last five percent is the hardest work to buy. <strong>Buy it before you release the money.</strong>",
+      "truth": "Contractors leave the small stuff because the money already moved.\n• Missing trim, sticky doors, and paint gaps take days and earn nothing.\n• A written punch list turns \"almost done\" into a countable list.\n• Most people pay the final invoice because the house looks finished from the doorway.",
+      "theySee": "A homeowner walking the site with a printed list and a pen, checking lines off one at a time.",
+      "signals": [
+        {
+          "icon": "🚪",
+          "l": "Vanishing crew",
+          "t": "The crew size drops from four people to one"
+        },
+        {
+          "icon": "📞",
+          "l": "Slow replies",
+          "t": "They take days to answer texts they used to answer in minutes"
+        },
+        {
+          "icon": "🎨",
+          "l": "Skipped finish",
+          "t": "Caulk, trim, and touch-up paint are missing in several places"
+        },
+        {
+          "icon": "🙏",
+          "l": "Early ask",
+          "t": "They ask for the final check before the walkthrough"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Walk the site alone with a list",
+          "desc": "Write every unfinished item, room by room. Photograph each one."
+        },
+        {
+          "n": "2",
+          "title": "Send the list and a date",
+          "desc": "Email the list with photos and one deadline for all of it. Ask them to confirm in writing."
+        },
+        {
+          "n": "3",
+          "title": "Pay only after you re-walk it",
+          "desc": "Walk the same list again with them. Release the check when every line is checked off."
+        }
+      ],
+      "script": "\"Here's the punch list with photos — <strong>eleven items.</strong> When all eleven are done I'll walk it with you and hand you the check that day.\"",
+      "example": "Greg's remodel stalled with nine small items left. He emailed a photo list and said the final $6,000 came the day all nine were done. The crew finished them in two days after three weeks of silence.",
+      "watchFor": "They ask you to send the list in writing so they can schedule it.",
+      "ifItFails": "They finish nine of eleven and demand the money for the rest. Do not release the full amount. Pay in proportion and name the number: <strong>\"Two items left. Here's the payment minus $900 for those two. That $900 goes out the day they're done.\"</strong> A small, specific holdback gets finished faster than a big vague one.",
+      "counter": "If someone pushes for final payment before a walkthrough, they plan to leave items behind.\n• Notice the crew shrank before the ask arrived.\n• Say: <strong>\"We walk it first, then I pay.\"</strong>\n• Keep a named dollar amount back for each open item.",
+      "insight": "A punch list is your last hold and it only works once. Spend it on the items you truly cannot fix yourself, because the rest are cheaper to hire out than to fight over."
+    },
+    {
+      "id": 9,
+      "cat": "control",
+      "danger": "moderate",
+      "title": "Learn The Name Of The Person Who Decides",
+      "principle": "Machiavelli: Deal With The Prince, Not The Courtier",
+      "remember": "Find who can spend money. Talk only to that person.",
+      "when": "Your job is behind and the guy on site says he has to ask the office.",
+      "hook": "The person in your house often cannot fix anything. <strong>Find the one who can.</strong>",
+      "truth": "Companies put a friendly face between you and the decision.\n• The foreman absorbs your complaints and passes nothing along.\n• Your problem only moves when the person with the checkbook hears it.\n• Most people keep talking to the friendly face because they have his number.",
+      "theySee": "A homeowner who asks for the owner's direct number and writes it down.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Ask-the-office",
+          "t": "They say they must check with the office about every change"
+        },
+        {
+          "icon": "📵",
+          "l": "No owner contact",
+          "t": "You have no phone number for anyone above the crew lead"
+        },
+        {
+          "icon": "🤝",
+          "l": "Friendly stall",
+          "t": "They agree with every complaint and nothing changes"
+        },
+        {
+          "icon": "📅",
+          "l": "Moving dates",
+          "t": "The finish date moves twice with no written notice"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask who signs the change orders",
+          "desc": "Ask the crew lead directly which person's name goes on approvals."
+        },
+        {
+          "n": "2",
+          "title": "Get that person's direct number",
+          "desc": "Ask for the cell number and text them once to confirm it works."
+        },
+        {
+          "n": "3",
+          "title": "Send updates to both from now on",
+          "desc": "Copy the decision-maker on every message. The crew lead behaves differently when the boss reads along."
+        }
+      ],
+      "script": "\"Who signs off on change orders and schedule? <strong>I need that person's cell.</strong> I'll keep you copied on everything, but I want the decisions going to one place.\"",
+      "example": "Sam's siding job slipped three weeks while the foreman apologized. Sam asked who signed change orders, got the owner's cell, and texted him one timeline. A second crew showed up that Thursday.",
+      "watchFor": "They give you a name and number instead of saying they will pass it along.",
+      "ifItFails": "They refuse to share the owner's number and say all contact goes through them. Find it yourself — the state license lookup lists the qualifying owner, and so does the business filing. Then send one email to both: <strong>\"Copying you directly since the schedule has moved twice. I need one date in writing by Friday.\"</strong>",
+      "counter": "If someone insists all contact goes through them, they are filtering what their boss hears.\n• Notice your complaints never produce a written answer.\n• Say: <strong>\"Put your owner on this thread.\"</strong>\n• Look up the license holder's name and email them directly.",
+      "insight": "Access is the cheapest thing to win and the most useful. The next problem is that the owner will agree with you on the phone and still send the same crew."
+    },
+    {
+      "id": 10,
+      "cat": "control",
+      "danger": "moderate",
+      "title": "Photograph The Work Every Single Day",
+      "principle": "Evidence Asymmetry — The Record Beats The Story",
+      "remember": "Photos every day. A record ends every argument fast.",
+      "when": "The crew closes a wall and you have no idea what went in behind it.",
+      "hook": "In three months it is your memory against their invoice. <strong>Photos win that fight.</strong>",
+      "truth": "Disputes are decided by whoever has the record.\n• Daily photos date-stamp what existed and when.\n• A contractor who knows you photograph everything works differently.\n• Most people take photos only after something goes wrong, which is too late.",
+      "theySee": "A homeowner walking the site with a phone up, taking photos of the open wall before it closes.",
+      "signals": [
+        {
+          "icon": "📷",
+          "l": "Camera reaction",
+          "t": "They ask why you are taking so many pictures"
+        },
+        {
+          "icon": "🧱",
+          "l": "Fast closing",
+          "t": "They close walls or bury pipes before you look at them"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Memory gap",
+          "t": "They say work was done on days you know nobody came"
+        },
+        {
+          "icon": "🔌",
+          "l": "Hidden work",
+          "t": "They discourage you from being home during rough-in"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Shoot the site every evening",
+          "desc": "Walk each room and take ten photos. Do it at the same time daily so the record is even."
+        },
+        {
+          "n": "2",
+          "title": "Shoot every wall before it closes",
+          "desc": "Photograph wiring, pipes, and framing before drywall. Get the tape measure in frame."
+        },
+        {
+          "n": "3",
+          "title": "Email the photos to yourself weekly",
+          "desc": "Send one email a week with the photos attached. That creates a dated record off your phone."
+        }
+      ],
+      "script": "\"Before you close that wall — <strong>give me two minutes for photos.</strong> I do it every day. It protects both of us if anything comes up later.\"",
+      "example": "Alina photographed her bathroom rough-in daily. Eight months later a leak appeared and the contractor blamed her tile guy. Her photo showed an unglued joint before drywall. The company repaired it and paid for the floor.",
+      "watchFor": "They start pointing out finished work for you to photograph.",
+      "ifItFails": "They tell you the site is unsafe and ask you to stay out. That is sometimes true and always convenient. Book the inspection instead: <strong>\"Then I'm having the city inspector or a private inspector look at the rough-in before it's closed. Tell me which day works.\"</strong> A third party with a clipboard is better than your phone anyway.",
+      "counter": "If someone rushes to close work before you see it, the record is what they fear.\n• Notice which stages they want you absent for.\n• Say: <strong>\"I photograph every wall before it closes.\"</strong>\n• Bring an inspector for the stages you cannot judge.",
+      "insight": "The record costs you two minutes a day and changes how people behave while you hold the phone. The harder question is whether you know what you are looking at in the photo."
+    },
+    {
+      "id": 11,
+      "cat": "control",
+      "danger": "moderate",
+      "title": "Give One Deadline, Not Three Reminders",
+      "principle": "Voss: Calibrated Question × Schelling: Deadline As Commitment",
+      "remember": "Ask for one date in writing. Nagging teaches them to stall.",
+      "when": "Your job has no end date and you have texted about it four times.",
+      "hook": "Three reminders tell them the deadline is soft. <strong>One written date with a consequence does not.</strong>",
+      "truth": "Repeated polite reminders are read as permission to delay.\n• Each nag proves you will keep waiting without doing anything.\n• A single written date with something attached changes the math.\n• Most people nag because it feels like pressure. It reads as patience.",
+      "theySee": "A homeowner who sends one short email with a date and a consequence, then goes quiet.",
+      "signals": [
+        {
+          "icon": "📲",
+          "l": "Nag pattern",
+          "t": "You have sent more than three check-in texts this month"
+        },
+        {
+          "icon": "🙋",
+          "l": "Apology loop",
+          "t": "They apologize and give a new date every time you ask"
+        },
+        {
+          "icon": "👷",
+          "l": "Crew elsewhere",
+          "t": "Their crew appears at another job while yours sits"
+        },
+        {
+          "icon": "✉️",
+          "l": "Verbal only",
+          "t": "Every promised date comes by phone and never in writing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop the check-in texts",
+          "desc": "Send nothing for a day. Reminders are what taught them to stall."
+        },
+        {
+          "n": "2",
+          "title": "Send one email with one date",
+          "desc": "Name the finish date and what happens if it passes. Ask them to confirm in writing."
+        },
+        {
+          "n": "3",
+          "title": "Do the thing you said on that date",
+          "desc": "If the date passes, act the same day. One kept promise ends every future delay."
+        }
+      ],
+      "script": "\"I need one date in writing. <strong>If the tile isn't finished by the 14th, I'm hiring a second crew for the remainder and taking it off the balance.</strong> Confirm the 14th works and we're fine.\"",
+      "example": "Kofi's painter stalled for five weeks. Kofi sent one email: finish by the 20th or the balance covers another painter. The painter showed up on the 18th with two extra guys and finished on the 19th.",
+      "watchFor": "They confirm the date in writing instead of offering a new excuse.",
+      "ifItFails": "The date passes and they claim a supplier delay. Get the second crew's quote that same day and send it. <strong>\"Here's the quote from the crew finishing the tile — $2,300. That comes off your balance. Send anything you dispute in writing today.\"</strong> A consequence you actually carry out costs you once and buys every later deadline.",
+      "counter": "If someone gives you a new date every time you ask, they are managing you, not the schedule.\n• Notice the dates only exist in phone calls.\n• Say: <strong>\"Put one date in an email.\"</strong>\n• Attach a real consequence and carry it out the day it passes.",
+      "insight": "A deadline is only worth what you do the morning after it passes. The trap is naming a consequence you cannot afford to carry out."
+    },
+    {
+      "id": 12,
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "Let The Long Silence Sit",
+      "principle": "Voss: The Late-Night FM DJ Voice × Silence As Pressure",
+      "remember": "Say your number, then stop talking. Let them fill the gap.",
+      "when": "They quote a price, you counter, and nobody says anything for five seconds.",
+      "hook": "Silence costs them more than it costs you. <strong>They have payroll on Friday.</strong>",
+      "truth": "Whoever speaks first in the pause usually pays more.\n• Your quiet reads as a decision, not a hesitation.\n• They start explaining their number, and explanations shrink prices.\n• Most people fill the gap because silence feels rude and they are the guest in their own house.",
+      "theySee": "A homeowner who names a number, sets the phone down, and waits without expression.",
+      "signals": [
+        {
+          "icon": "🗨️",
+          "l": "Self-justify",
+          "t": "They start explaining their overhead without being asked"
+        },
+        {
+          "icon": "✏️",
+          "l": "Recalculating",
+          "t": "They pick up a pen and redo the math in front of you"
+        },
+        {
+          "icon": "👋",
+          "l": "Sweetener",
+          "t": "They throw in free haul-away or an extra coat of paint"
+        },
+        {
+          "icon": "📞",
+          "l": "Boss call",
+          "t": "They step outside to call the office about your number"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say one number and stop",
+          "desc": "Name what you will pay in one short sentence. Do not explain why."
+        },
+        {
+          "n": "2",
+          "title": "Count to ten in your head",
+          "desc": "Hold the silence for a full ten seconds. Look at the bid, not at them."
+        },
+        {
+          "n": "3",
+          "title": "Let them talk first",
+          "desc": "When they speak, listen for what they offer to remove or add. That is the real flexibility."
+        }
+      ],
+      "script": "\"I can do <strong>twelve-five, all in.</strong>\" (Then nothing. Look at the paper. Wait.)",
+      "example": "Jared countered a $16,000 driveway bid with \"thirteen, all in\" and went quiet. The contractor talked for ninety seconds about fuel costs, then offered $13,600 with the extra apron included. Jared nodded once and signed.",
+      "watchFor": "They start explaining their costs without you asking a single question.",
+      "ifItFails": "They hold the silence longer than you and just say \"that doesn't work for me\". Do not raise your number. Move a term instead of the price: <strong>\"Then keep your number and give me a two-year labor warranty and the old material hauled away.\"</strong> Now the talk is about scope, where they have more room than they do on price.",
+      "counter": "If someone names a price and goes silent, they are waiting for you to bid against yourself.\n• Notice you feel an urge to explain your budget.\n• Say nothing, or say: <strong>\"Take your time.\"</strong>\n• Ask a question instead of raising your number.",
+      "insight": "Silence is free and it works on almost everyone. It stops working on the third meeting, when they know you and start using it back on you."
+    },
+    {
+      "id": 13,
+      "cat": "pressure",
+      "danger": "high",
+      "title": "Walk Out Of The In-Home Close",
+      "principle": "Cialdini: Consistency And Commitment — The Same-Day Signature",
+      "remember": "Nobody good needs your signature tonight. Walk them to the door.",
+      "when": "A salesman sat at your table for two hours and the discount expires when he leaves.",
+      "hook": "That price is not expiring. <strong>Your ability to compare it is.</strong>",
+      "truth": "The in-home close is a trained script with fixed steps.\n• They stay long so leaving feels like wasting your own evening.\n• The fake deadline exists to stop you from getting a second bid.\n• Most people sign because two hours of talking feels like a relationship.",
+      "theySee": "A homeowner who stands up, opens the front door, and hands the folder back.",
+      "signals": [
+        {
+          "icon": "🕐",
+          "l": "Long visit",
+          "t": "The visit passes ninety minutes with no measuring done"
+        },
+        {
+          "icon": "📉",
+          "l": "Discount ladder",
+          "t": "The price drops three times in one sitting"
+        },
+        {
+          "icon": "☎️",
+          "l": "Manager call",
+          "t": "They call a manager for special approval in front of you"
+        },
+        {
+          "icon": "✍️",
+          "l": "Tonight only",
+          "t": "They say the price is only good if you sign tonight"
+        },
+        {
+          "icon": "🚪",
+          "l": "Won't leave",
+          "t": "They stay seated after you say you need to think"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set a hard stop before they arrive",
+          "desc": "Tell them on the phone you have 45 minutes. Say you never sign at first meetings."
+        },
+        {
+          "n": "2",
+          "title": "Stand up when the deadline talk starts",
+          "desc": "Get on your feet and walk toward the door. Standing ends the script."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to email the quote",
+          "desc": "Say the quote goes in email or nowhere. Then compare it to two others this week."
+        }
+      ],
+      "script": "(Standing, at the door) \"<strong>I never sign the same day I meet someone.</strong> Email me the quote and it stays in the running. If it's only good tonight, we're done here.\"",
+      "example": "A window company sat in Bev's kitchen for two hours and dropped $22,000 to $14,500 by 9pm. She stood up and opened the door. The written quote arrived by email at $13,900 and stayed valid for a month.",
+      "watchFor": "The expiring discount reappears in an email two days later.",
+      "ifItFails": "They keep talking on your porch or call you three times the next day. Cut the channel and put it in writing: <strong>\"Email only from here. Any more calls and I'm out.\"</strong> Then block the number if it continues. A company that cannot respect one sentence will not respect a warranty.",
+      "counter": "If someone's price expires when they walk out your door, the price was never real.\n• Notice the discount drops as the visit gets longer.\n• Say: <strong>\"Email it. I don't sign at first meetings.\"</strong>\n• Stand up and open the door. The script needs you seated.",
+      "insight": "Standing up is the whole move, and it works because their training assumes you stay polite. The harder part comes when the product is actually good and you have to buy it without the theater."
+    },
+    {
+      "id": 14,
+      "cat": "pressure",
+      "danger": "high",
+      "title": "Answer The Scare Story With A Second Opinion",
+      "principle": "Fear Appeal — Diagnosis And Sale In One Mouth",
+      "remember": "The person who finds the problem should not price the fix.",
+      "when": "The inspector says your foundation is failing and his company can start Monday.",
+      "hook": "He found the problem and he sells the cure. <strong>Those two jobs should not share a truck.</strong>",
+      "truth": "Fear sells faster than any discount, and diagnosis is where it starts.\n• A free inspection is a sales call with a flashlight.\n• Mold, foundation, and electrical scare stories are the classic three.\n• Most people buy immediately because the words sound like safety, not sales.",
+      "theySee": "A homeowner who asks for the report in writing, then says an independent engineer will read it.",
+      "signals": [
+        {
+          "icon": "🔦",
+          "l": "Free inspection",
+          "t": "The inspection is free and the company also sells the repair"
+        },
+        {
+          "icon": "📸",
+          "l": "Phone photos",
+          "t": "They show photos of damage you cannot locate yourself"
+        },
+        {
+          "icon": "🏥",
+          "l": "Safety words",
+          "t": "They mention collapse, fire, or your family's health early"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Monday start",
+          "t": "They have a crew free Monday and only Monday"
+        },
+        {
+          "icon": "🚫",
+          "l": "No report",
+          "t": "They will not give you the findings in writing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the written report",
+          "desc": "Request the findings with photos and measurements by email. No report means no problem proven."
+        },
+        {
+          "n": "2",
+          "title": "Hire an independent expert",
+          "desc": "Pay a structural engineer or a licensed inspector who sells no repairs. Expect $300 to $700."
+        },
+        {
+          "n": "3",
+          "title": "Bid the repair only after the report",
+          "desc": "Send the independent report to two repair companies for bids on that exact scope."
+        }
+      ],
+      "script": "\"Send me the findings in writing with the photos. <strong>I'm having an engineer who doesn't sell repairs read it before I hire anyone.</strong> If it's real, you're bidding on it.\"",
+      "example": "A basement company told Owen his foundation needed $28,000 of piers. He paid $550 for a structural engineer. The engineer found old settling that had stopped moving and recommended $2,100 of drainage work. Owen paid for the drainage.",
+      "watchFor": "They stop pushing the Monday start and ask which engineer you plan to use.",
+      "ifItFails": "They say an engineer is unnecessary and the offer expires this week. That is your answer, but do not just walk. Make the free report the price of your time: <strong>\"Send the written report anyway — you already did the inspection. I'll take it from there.\"</strong> The report either survives an engineer or it does not.",
+      "counter": "If the person who found the problem also sells the fix, the diagnosis is a sales tool.\n• Notice the free inspection ends in a same-week start date.\n• Say: <strong>\"Written report first. An engineer reads it before I hire.\"</strong>\n• Pay for one independent opinion. It is the cheapest line in the job.",
+      "insight": "Three hundred dollars of independent opinion is the highest-paying check in home repair. The trap is that some scare stories are true, and delay on a real one costs more than the pier."
+    },
+    {
+      "id": 15,
+      "cat": "aftermath",
+      "danger": "high",
+      "title": "Use The License Board Instead Of Yelling",
+      "principle": "Greene: Law 15 Reframed — Fight Where They Are Weak",
+      "remember": "Their license is worth more than your job. Aim there.",
+      "when": "They took your deposit, left the job half done, and stopped answering.",
+      "hook": "Angry calls cost them nothing. <strong>A license complaint costs them every future customer.</strong>",
+      "truth": "A licensed contractor has more to lose than you do, and it is not your money.\n• Their license, their bond, and their card processor all outrank your invoice.\n• A written complaint to the state board creates a file they must answer.\n• Most people scream, threaten a lawsuit they never file, and get nothing.",
+      "theySee": "A homeowner who sends one calm email naming the license number, the bond, and a date.",
+      "signals": [
+        {
+          "icon": "🔇",
+          "l": "Gone quiet",
+          "t": "They stopped answering calls and texts for over a week"
+        },
+        {
+          "icon": "💸",
+          "l": "Money gone",
+          "t": "Your deposit is spent and the work does not match it"
+        },
+        {
+          "icon": "📛",
+          "l": "License dodge",
+          "t": "They will not give you their license number in writing"
+        },
+        {
+          "icon": "🎭",
+          "l": "Excuse rotation",
+          "t": "Each excuse is different: family, supplier, weather, illness"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find their license and bond today",
+          "desc": "Look up the license on the state board site. Note the number, status, and bond company."
+        },
+        {
+          "n": "2",
+          "title": "Send one email naming both",
+          "desc": "State the facts, the money, the missing work, and a seven-day date. Name the license number."
+        },
+        {
+          "n": "3",
+          "title": "File the complaint on day eight",
+          "desc": "File with the state board and dispute the card charge. Attach your photos and the contract."
+        }
+      ],
+      "script": "\"License #CL-448120. <strong>You hold $9,000 of my money and the work stopped on July 3rd.</strong> If the crew is not back by the 14th, I file with the board and the bond company, and I dispute the card charge. Your call.\"",
+      "example": "Denise's contractor vanished with $9,000. She emailed once with his license number and a seven-day date. He called within four hours, then finished the framing that week. She never filed.",
+      "watchFor": "They call you back within a day after weeks of silence.",
+      "ifItFails": "They call your bluff or their license turns out to be expired. File everything at once — board complaint, bond claim, card dispute, and small claims. Then send one line: <strong>\"Complaint filed with the board, bond claim opened, charge disputed. Talk to me or talk to them.\"</strong> An unlicensed contractor loses even harder, because working unlicensed is its own violation.",
+      "counter": "If someone threatens your license or your bond, they found your soft spot.\n• Notice they moved from complaining to naming a regulator.\n• Say: <strong>\"Send me the specific items and a date. I'll respond in writing.\"</strong>\n• Answer the written record, not the emotion. The file is what survives.",
+      "insight": "The board complaint works because it threatens a business, not a person. The harder question is whether you would rather have your money back or your kitchen finished, because you often cannot have both."
+    },
+    {
+      "id": 16,
+      "cat": "aftermath",
+      "danger": "low",
+      "title": "Turn A Good Contractor Into Your First Call",
+      "principle": "Cialdini: Reciprocity × Greene: The Long Alliance",
+      "remember": "Pay a good crew fast and refer them. Emergencies get answered.",
+      "when": "A crew finished your job well and you want them back for the next one.",
+      "hook": "Everyone hunts for a good contractor. <strong>Almost nobody makes one keep their number.</strong>",
+      "truth": "Contractors triage their phone by who is easy money and who is a headache.\n• Fast payment and a written review move you to the top of that list.\n• The reward is not a discount. It is answered calls in an emergency.\n• Most people go quiet after the final check, then start from zero next time.",
+      "theySee": "A homeowner who pays the day the invoice arrives and sends a review with their name in it.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Fast callback",
+          "t": "They answer your calls within the hour, months later"
+        },
+        {
+          "icon": "🧰",
+          "l": "Small favors",
+          "t": "They fix a small thing without adding it to an invoice"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Name-drop",
+          "t": "They mention you as a reference to other customers"
+        },
+        {
+          "icon": "📅",
+          "l": "Squeeze-in",
+          "t": "They fit your small job between two big ones"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pay the final invoice the day it arrives",
+          "desc": "Same-day payment is rare and they remember it. Send a one-line thank you with it."
+        },
+        {
+          "n": "2",
+          "title": "Write a review that names the crew",
+          "desc": "Post a review naming the lead and the specific work. Send them the link."
+        },
+        {
+          "n": "3",
+          "title": "Refer one real person this year",
+          "desc": "Send them one neighbor or coworker with a real job. Tell them the referral came from you."
+        }
+      ],
+      "script": "\"Invoice paid this morning. <strong>I posted a review naming Luis and the tile work, and I gave your number to my neighbor for her bathroom.</strong> When my water heater dies, I'm calling you first.\"",
+      "example": "Hana paid her plumber the same day and posted a review with his name in it. Fourteen months later her heater failed on a Sunday. He drove over that afternoon and charged the weekday rate.",
+      "watchFor": "They text you their direct cell instead of the office line.",
+      "ifItFails": "You pay fast, refer people, and they still take four days to call back. Stop paying for a relationship that does not exist. Build a bench instead: hire the second-best crew on your next small job and judge them on it. Then text the new one: <strong>\"Small job, but I pay same-day and I refer. Want it?\"</strong>",
+      "counter": "If a contractor courts you with free favors and fast callbacks, they are building a customer who never shops.\n• Notice you have not gotten another bid in three years.\n• Say: <strong>\"I still want this one bid out. No hard feelings.\"</strong>\n• Keep one competing bid on file for every big job, always.",
+      "insight": "A trusted crew saves you more than any negotiation ever will, and it costs you the ability to compare prices. The next question is how many jobs you let go unbid before loyalty starts billing you for it."
+    }
+  ]
+}
