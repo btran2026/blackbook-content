@@ -1,0 +1,1154 @@
+{
+  "meta": {
+    "id": "srv-collecting-money-from-someone-who-won-t-pay",
+    "version": "1.0",
+    "title": "Collecting Money From Someone Who Won't Pay",
+    "subtitle": "How to get paid by people who have already decided not to pay you",
+    "description": "Twenty moves for the gap between the invoice and the money. Set terms that bite, read the excuse scripts, raise the cost of silence, go around your contact, and know the day to cut the account loose.",
+    "author": "AI",
+    "createdAt": "2026-09-06T21:51:22.503Z",
+    "tags": [
+      "money",
+      "collections",
+      "invoices",
+      "freelance",
+      "negotiation",
+      "pressure"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#1F6F5C",
+    "coverIcon": "💰",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "terms",
+      "label": "Terms Set Before The Work",
+      "color": "#2E7D6B"
+    },
+    {
+      "key": "firstday",
+      "label": "The First Day It Is Late",
+      "color": "#C97B2A"
+    },
+    {
+      "key": "excuses",
+      "label": "Their Excuses",
+      "color": "#8E5BA6"
+    },
+    {
+      "key": "cost",
+      "label": "Raising The Cost Of Not Paying",
+      "color": "#B23A2E"
+    },
+    {
+      "key": "around",
+      "label": "Going Around Your Contact",
+      "color": "#3A6EA5"
+    },
+    {
+      "key": "cutloose",
+      "label": "Taking Less Or Cutting Loose",
+      "color": "#5A5A5A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "terms",
+      "danger": "low",
+      "title": "Take Money Before You Start",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "A client who paid you once will pay you again.",
+      "hook": "The first payment is not about money. <strong>It is a test you run before you care about the answer.</strong>",
+      "truth": "A deposit tells you what the whole job will be like.\n• The money moves before you have done anything they can argue about.\n• Once they pay, they see themselves as a paying client.\n• People who fight the deposit fight every invoice after it.",
+      "when": "A new client asks you to start work this week and pay later.",
+      "theySee": "A busy professional with a standard process, not someone begging for money.",
+      "signals": [
+        {
+          "icon": "🧾",
+          "l": "PO delay",
+          "t": "They say the purchase order takes a few weeks but want you to start now"
+        },
+        {
+          "icon": "🕰️",
+          "l": "Rush plus wait",
+          "t": "They need it urgently but their payment system is slow"
+        },
+        {
+          "icon": "🙅",
+          "l": "Deposit pushback",
+          "t": "They say they never pay anything up front to anyone"
+        },
+        {
+          "icon": "📄",
+          "l": "No paper",
+          "t": "They will not sign anything and call the email chain enough"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the number in the first call",
+          "desc": "Say the deposit amount out loud before you send anything in writing."
+        },
+        {
+          "n": "2",
+          "title": "Tie the start date to the payment",
+          "desc": "Write that the calendar slot opens the day the deposit lands."
+        },
+        {
+          "n": "3",
+          "title": "Hold the date, not the work",
+          "desc": "If the deposit is late, tell them the slot moved. Do not start."
+        }
+      ],
+      "script": "\"I book the week once the 40% deposit lands. <strong>Send it today and I start Monday.</strong> If it comes Thursday, we start the following week.\"",
+      "example": "Dan quoted a logo package and asked for 50% up front. The client said his finance team only pays on delivery. Dan held the date and stayed silent. The deposit hit on Friday, and that client paid every later invoice inside a week.",
+      "watchFor": "They ask where to send it instead of arguing about the amount.",
+      "ifItFails": "They refuse the deposit and offer a signed contract instead. Do not trade money for paper — paper is what you sue with, not what you eat with. Cut the job into pieces small enough that you can lose one: \"<strong>Then let's do phase one only, invoiced at the end, and see how the payment goes.</strong>\"",
+      "counter": "If someone demands a big deposit from you, they may be selling a schedule they cannot keep.\n• Notice if the deposit is bigger than the first piece of work.\n• Say: \"Happy to pay a deposit against the first milestone.\"\n• Split the money so each payment buys something you can hold.",
+      "insight": "The deposit is cheap information. A client who argues for 20 minutes over 30% has just shown you what month three looks like. The harder part is walking when they refuse and your calendar is empty."
+    },
+    {
+      "id": 2,
+      "cat": "terms",
+      "danger": "low",
+      "title": "Put A Late Fee In Writing And Charge It Once",
+      "principle": "Schelling: Credible Commitment",
+      "remember": "A late fee you never charge teaches them late is free.",
+      "hook": "Everyone writes a late fee into the contract. <strong>Almost nobody adds it to an invoice.</strong> That is why nobody pays on time.",
+      "truth": "A penalty only works after they have seen you use it.\n• The clause sits in the contract as a bluff until you charge it.\n• The first fee tells them your paperwork is real.\n• Waive it once as a favor and it becomes a bluff again.",
+      "when": "Your invoice hits 30 days late and your contract has a late fee you have never charged.",
+      "theySee": "A supplier whose paperwork does exactly what the paperwork says it does.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Repeat lateness",
+          "t": "They pay every invoice about two weeks after the due date"
+        },
+        {
+          "icon": "🧮",
+          "l": "Round numbers",
+          "t": "They pay the invoice total and ignore the fee line"
+        },
+        {
+          "icon": "😐",
+          "l": "No apology",
+          "t": "They stopped saying sorry for being late months ago"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reissue the invoice with the fee on it",
+          "desc": "Add a separate line: Late fee, 1.5% per month. Show the math."
+        },
+        {
+          "n": "2",
+          "title": "Send one flat sentence with it",
+          "desc": "No apology, no explanation. State that the clause applied on day 31."
+        },
+        {
+          "n": "3",
+          "title": "Refuse the waiver ask once",
+          "desc": "When they ask you to drop it, drop half at most, and only for immediate payment."
+        }
+      ],
+      "script": "\"Attached is the reissued invoice. <strong>The 1.5% late fee applied on day 31 under clause 6.</strong> The fee stops the day payment clears.\"",
+      "example": "Priya had a late fee in her contract for two years and never used it. On a 45-day-late invoice she added the line and sent it with one sentence. The client called, complained, and paid the full amount plus fee that afternoon. Every invoice since has cleared in under 20 days.",
+      "watchFor": "They call you instead of emailing back.",
+      "ifItFails": "They pay the invoice and ignore the fee line. Do not chase the fee for its own sake — chase what it buys. Carry it forward on the account and put it on the next quote: \"<strong>Outstanding late fee of $340 is applied to the new job. Cleared with the deposit.</strong>\" Now they pay it to get work started.",
+      "counter": "If a supplier hits you with a fee they never charged before, they are building a record.\n• Notice that the fee arrived with unusually calm wording.\n• Say: \"I'll clear it this week if we reset the terms.\"\n• Pay it fast and renegotiate the schedule, not the penalty.",
+      "insight": "The fee is not income. It is proof that your documents mean something. This works until you waive it for your biggest client, and then everyone learns which tier gets the free pass."
+    },
+    {
+      "id": 3,
+      "cat": "terms",
+      "danger": "moderate",
+      "title": "Get The Name Of The Person Who Signs The Check",
+      "principle": "Sun Tzu: Know the Ground Before You Move",
+      "remember": "Find out today who actually releases the money.",
+      "hook": "Your contact does not pay you. <strong>Someone you have never met does.</strong> Get their name while everyone is still friendly.",
+      "truth": "Most collections fail because you push a person with no power.\n• Ask for the payment path while the deal is still warm.\n• Your contact hands it over freely before there is any conflict.\n• Ask after the invoice is late and it sounds like a threat.",
+      "when": "You just signed a deal and everyone is happy about it.",
+      "theySee": "An organized supplier setting up billing, not someone planning a fight.",
+      "signals": [
+        {
+          "icon": "🌀",
+          "l": "Vague path",
+          "t": "They say the invoice goes to finance and cannot name a person"
+        },
+        {
+          "icon": "📬",
+          "l": "Shared inbox",
+          "t": "Billing goes to an address with no human name on it"
+        },
+        {
+          "icon": "🚪",
+          "l": "Single door",
+          "t": "Your contact insists every message goes through them first"
+        },
+        {
+          "icon": "🧩",
+          "l": "Portal only",
+          "t": "They tell you to submit through a system nobody monitors"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask during onboarding",
+          "desc": "Say you need the billing contact for the invoice header. Get a name and an email."
+        },
+        {
+          "n": "2",
+          "title": "Copy that person on invoice one",
+          "desc": "Put them on the first invoice while nothing is late. Now it is normal."
+        },
+        {
+          "n": "3",
+          "title": "Check the name on LinkedIn",
+          "desc": "Confirm the title. If they are junior, find who they report to and note it."
+        }
+      ],
+      "script": "\"For the invoice header — <strong>who in finance approves supplier payments, and what is their email?</strong> I'll copy them on every invoice so nothing sits in a queue.\"",
+      "example": "Tomas asked for the finance contact during kickoff and got a name in 30 seconds. Four months later his contact went quiet on a $9,000 invoice. Tomas replied to the invoice thread with the finance manager already on it. Payment cleared in six days without one hard word.",
+      "watchFor": "They type the name and email out for you without asking why.",
+      "ifItFails": "They refuse to name anyone and say everything goes through them. Treat that as the answer it is — your contact wants to control the money flow. Put the request in writing so the refusal is on record: \"<strong>Noted that you handle all billing personally. I'll send invoices to you and copy your operations lead so nothing gets lost while you travel.</strong>\"",
+      "counter": "If a supplier asks early who signs your checks, they are building a route around you.\n• Notice the question lands during friendly onboarding, not a dispute.\n• Say: \"Send everything to me and I'll walk it through.\"\n• Decide now whether you actually want that gatekeeping job.",
+      "insight": "Names are the cheapest thing you will ever collect and the only thing that works at day 60. Do not use this on a client whose contact is also the owner — there is no one to go around, and asking makes you look like you are shopping for a fight."
+    },
+    {
+      "id": 4,
+      "cat": "terms",
+      "danger": "moderate",
+      "title": "Hold Something They Need Until The Money Lands",
+      "principle": "Schelling: Bargaining Power Comes From Holding Something",
+      "remember": "Deliver everything and you have nothing left to trade.",
+      "hook": "On the day you hand over the final files, your power drops to zero. <strong>Time the handover, not the work.</strong>",
+      "truth": "You get paid while they still need something from you.\n• Finish the work, then hold the piece that makes it usable.\n• Their deadline pushes them, not you.\n• Announce the hold in the contract, never as a surprise at the end.",
+      "when": "The job is finished and the client wants the final files before the invoice clears.",
+      "theySee": "A supplier following a written process, not someone holding a hostage.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Launch pressure",
+          "t": "They mention a launch date that depends on your delivery"
+        },
+        {
+          "icon": "📦",
+          "l": "Early handover ask",
+          "t": "They ask for the working files before the final invoice"
+        },
+        {
+          "icon": "🔑",
+          "l": "Access grab",
+          "t": "They want your admin login added to their account"
+        },
+        {
+          "icon": "🐢",
+          "l": "Slow while urgent",
+          "t": "Their finance is slow but their deadline is tomorrow"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the release rule into the contract",
+          "desc": "State that ownership and final files transfer on cleared payment."
+        },
+        {
+          "n": "2",
+          "title": "Show the finished work without giving it",
+          "desc": "Send a watermarked file, a screen recording, or a staging link."
+        },
+        {
+          "n": "3",
+          "title": "Name the release trigger in one line",
+          "desc": "Tell them the files go out the hour the payment clears. Then stop talking."
+        }
+      ],
+      "script": "\"The build is done — <strong>here's the staging link so you can review everything.</strong> Files and access transfer the hour the invoice clears, per clause 8.\"",
+      "example": "Nadia finished a website and kept it on her staging server. The client stalled for three weeks on a $6,400 invoice. She sent a link showing the finished site and one line about the transfer clause. The client paid in two days because their trade show was on the Friday.",
+      "watchFor": "They ask exactly how fast you can transfer after payment.",
+      "ifItFails": "They accuse you of holding their property and threaten legal action. Do not argue about ownership — quote your own contract back, once, and stop. Then give them a door: \"<strong>Clause 8 is the standard transfer term you signed. Send the payment now and I release everything within the hour — or send half and I release the site while the rest clears.</strong>\"",
+      "counter": "If a supplier holds your files at the end, check what you actually signed.\n• Notice whether the transfer clause was there from day one.\n• Say: \"Send the clause. I'll pay against it today.\"\n• Next time, buy the files in stages so no single handover holds you.",
+      "insight": "Holding work only works if the thing you hold is still worth something to them. Do not try this on a client who already has everything they need — you become the angry supplier with no cards. The next question is what you hold on a job where the deliverable is advice."
+    },
+    {
+      "id": 5,
+      "cat": "firstday",
+      "danger": "low",
+      "title": "Send The Chase On Day One, Not Day Fifteen",
+      "principle": "Operant Conditioning: Immediate Consequence",
+      "remember": "Chase the day it is late, every single time.",
+      "hook": "Every day you wait teaches them how much room they have. <strong>Slow suppliers get paid last.</strong>",
+      "truth": "Finance teams pay in order of who makes noise first.\n• A note on day one puts you at the top of the queue.\n• They learn your invoices come with a clock attached.\n• Wait two weeks and you have quietly agreed to 45-day terms.",
+      "when": "Your invoice due date passed yesterday and no money arrived.",
+      "theySee": "A supplier whose reminder arrives like clockwork, without any anger in it.",
+      "signals": [
+        {
+          "icon": "🔕",
+          "l": "Silent due date",
+          "t": "The due date passed with no message from them at all"
+        },
+        {
+          "icon": "📊",
+          "l": "Batch payments",
+          "t": "They pay everything on one day of the month"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Drift",
+          "t": "Each invoice clears a little later than the last one"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send it the morning after",
+          "desc": "One short email. State the amount, the due date, and yesterday's date."
+        },
+        {
+          "n": "2",
+          "title": "Ask a question they must answer",
+          "desc": "Ask for the payment date, not for payment. A date is easy to give."
+        },
+        {
+          "n": "3",
+          "title": "Put the next check in your calendar",
+          "desc": "Set a reminder for three days out. Send again if the date does not arrive."
+        }
+      ],
+      "script": "\"Invoice 1042 for $4,200 was due yesterday and hasn't landed. <strong>What date is it scheduled for?</strong>\"",
+      "example": "Owen used to wait a month before chasing. He switched to a one-line email the morning after each due date. Within two months his average payment time dropped from 41 days to 12. He never raised his voice once.",
+      "watchFor": "They reply with a specific date instead of an apology.",
+      "ifItFails": "They give you a date and then miss it. That is now a broken promise, not a late invoice, and you get to say so plainly. Reply on the missed date, same thread: \"<strong>You told me the 14th. Today is the 15th. What happened, and what's the new date?</strong>\" Make them explain the gap, not the invoice.",
+      "counter": "If a supplier chases you the morning after the due date every time, they have a system.\n• Notice the message is short, dated, and never emotional.\n• Say: \"Scheduled for the 20th\" and hold that date.\n• Keep your word once. They will stop watching you so closely.",
+      "insight": "Politeness costs you money here, but so does heat. The email that works is boring, dated, and impossible to file under later. The harder part is holding the habit on the client you like."
+    },
+    {
+      "id": 6,
+      "cat": "firstday",
+      "danger": "low",
+      "title": "Ask For A Date, Not For The Money",
+      "principle": "Voss: Calibrated Question",
+      "remember": "Ask when it will be paid, not whether it will.",
+      "hook": "\"Can you please pay?\" invites a no. <strong>\"What date is it scheduled for?\"</strong> invites a number they now have to defend.",
+      "truth": "A question about timing skips the argument about whether they owe you.\n• You assume the payment and only ask about the calendar.\n• They give you a date to end the conversation.\n• That date becomes the promise you hold them to next.",
+      "when": "You chased once and got a vague reply about processing it soon.",
+      "theySee": "A calm supplier asking an administrative question they can answer in five words.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Soft words",
+          "t": "They use words like soon, shortly, and in process"
+        },
+        {
+          "icon": "🚫",
+          "l": "No numbers",
+          "t": "Their reply contains no date and no amount"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same reply",
+          "t": "You have received the same sentence twice now"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reply inside the same thread",
+          "desc": "Do not start a new email. Keep the whole history visible under your line."
+        },
+        {
+          "n": "2",
+          "title": "Ask one question and stop",
+          "desc": "Write the date question and nothing else. No pleasantries after it."
+        },
+        {
+          "n": "3",
+          "title": "Write down the date they give",
+          "desc": "Repeat it back in writing so it exists as a promise, not a mood."
+        }
+      ],
+      "script": "\"Understood. <strong>What date is it scheduled to go out?</strong> I'll note it and stop chasing until then.\"",
+      "example": "Ruth kept getting soon from a client's office manager. She replied with one line asking for the date. The manager wrote back the 22nd. Ruth confirmed it in writing, went quiet, and the money arrived on the 21st.",
+      "watchFor": "They give you a specific day of the month.",
+      "ifItFails": "They dodge the date and say it depends on the payment run. Take the dodge and turn it into the date anyway. Reply: \"<strong>When is the next payment run, and is invoice 1042 in it?</strong>\" Now they either confirm it or admit it was left out, and both answers help you.",
+      "counter": "If someone asks you for a date instead of the money, they are building a paper trail.\n• Notice they never argue and never raise their voice.\n• Say a date you can actually hit, not a date that sounds nice.\n• Miss it once and you hand them the moral high ground.",
+      "insight": "A date turns a vague debt into a broken promise, and people defend promises harder than invoices. The next move is what you do on the morning the date passes."
+    },
+    {
+      "id": 7,
+      "cat": "firstday",
+      "danger": "moderate",
+      "title": "Stop Working The Moment The Invoice Goes Late",
+      "principle": "Loss Aversion",
+      "remember": "Keep working for free and you have priced your work at zero.",
+      "hook": "Every hour you keep working while unpaid is an hour that proves they do not need to pay. <strong>Stop, and their project stops with you.</strong>",
+      "truth": "Work in progress is the only pressure you have that costs them time.\n• The moment you pause, their deadline starts moving.\n• Their manager finds out through the delay, not through your complaint.\n• Say it as a scheduling fact, never as a punishment.",
+      "when": "An invoice is late and you are still doing work for the same client this week.",
+      "theySee": "A supplier who moved their team to another job, calmly, with notice.",
+      "signals": [
+        {
+          "icon": "➕",
+          "l": "More requests",
+          "t": "They keep sending new work while the old invoice sits unpaid"
+        },
+        {
+          "icon": "🤐",
+          "l": "Split channel",
+          "t": "They answer work questions fast and money questions slowly"
+        },
+        {
+          "icon": "🎯",
+          "l": "Deadline talk",
+          "t": "They talk about their launch date more than your invoice"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pause before you announce",
+          "desc": "Stop the work first. Then send the message. Do not warn and keep going."
+        },
+        {
+          "n": "2",
+          "title": "Frame it as scheduling",
+          "desc": "Say the team moved to another project until the account clears."
+        },
+        {
+          "n": "3",
+          "title": "Name what restarts it",
+          "desc": "Give one condition: cleared payment. No other option on the table."
+        }
+      ],
+      "script": "\"I've moved your project to hold while invoice 1042 sits open. <strong>I restart the day it clears</strong> — I've kept next Tuesday open for you.\"",
+      "example": "Marcus was 30 days unpaid and still shipping features. He paused the work and sent two sentences. His contact escalated to the CFO the same afternoon because a demo was booked for that Thursday. The invoice cleared in 24 hours.",
+      "watchFor": "They ask how fast you can restart once payment clears.",
+      "ifItFails": "They call your bluff and say fine, they will pause too. Now you are in a staring contest you can lose. Break it by giving up something small in exchange for the money moving: \"<strong>Then let's clear half now, I restart Monday, and the rest goes on the next milestone.</strong>\" Half moving beats a standoff.",
+      "counter": "If a supplier pauses your project over money, they are trading your deadline for their invoice.\n• Notice the pause arrives right before something you scheduled.\n• Say: \"Send me the exact amount to release today.\"\n• Pay the smallest piece that restarts the work, then fix terms later.",
+      "insight": "This move works because their calendar hurts more than your invoice does. Do not run it on a client who has no deadline — pausing on someone with no urgency just gives them a reason to forget you. The harder question is whether you can afford the week you just paused."
+    },
+    {
+      "id": 8,
+      "cat": "firstday",
+      "danger": "low",
+      "title": "Get The Invoice Confirmed Before It Is Late",
+      "principle": "Gracián: Remove the Excuse Before It Is Made",
+      "remember": "Confirm they got it before they can say they never did.",
+      "hook": "\"We never received it\" is the cheapest excuse in business. <strong>Kill it in week one.</strong>",
+      "truth": "Most stalls start with a paperwork problem they saved for later.\n• Ask for confirmation two days after you send the invoice.\n• They check the system and find the problem while there is still time.\n• Confirmation also gives you a written admission the debt is real.",
+      "when": "You sent an invoice this week and payment is not due for another three weeks.",
+      "theySee": "A supplier doing routine admin, weeks before anything is late.",
+      "signals": [
+        {
+          "icon": "🕳️",
+          "l": "No reply",
+          "t": "They never acknowledged the invoice email at all"
+        },
+        {
+          "icon": "🧾",
+          "l": "Portal rules",
+          "t": "They use a supplier portal with rules nobody explained to you"
+        },
+        {
+          "icon": "🔢",
+          "l": "PO missing",
+          "t": "They require a purchase order number you were never given"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send a two-day check",
+          "desc": "Ask if the invoice is in their system and if anything is missing."
+        },
+        {
+          "n": "2",
+          "title": "Ask what could block it",
+          "desc": "Ask directly what would stop this from being paid on the due date."
+        },
+        {
+          "n": "3",
+          "title": "Fix the problem the same day",
+          "desc": "Wrong PO, wrong entity, missing field — correct it and resend immediately."
+        }
+      ],
+      "script": "\"Quick admin check — <strong>is invoice 1042 in your system and approved for the 30th?</strong> If anything's missing, tell me now and I'll fix it today.\"",
+      "example": "Elena always waited for the due date. After one invoice sat unpaid for 60 days over a missing PO number, she started asking two days after sending. On the next job the client replied that the entity name was wrong. She fixed it in an hour and the invoice paid on time.",
+      "watchFor": "They reply with a status like approved, scheduled, or in the run.",
+      "ifItFails": "They ignore the check-in entirely. Silence at this stage predicts silence at day 45, so escalate the channel, not the volume. Call the finance inbox owner and follow with: \"<strong>Called to confirm invoice 1042 is in the system for the 30th. Please reply yes or tell me what's missing.</strong>\" A written yes is worth the phone call.",
+      "counter": "If a supplier confirms receipt early, they are closing off your excuses.\n• Notice the message arrives long before anything is due.\n• Say what is actually true about your process and timing.\n• Do not confirm approval you have not actually got.",
+      "insight": "Half of all late payments are admin failures, not decisions. Clear those out early and what remains is the real fight, with nowhere left for them to hide."
+    },
+    {
+      "id": 9,
+      "cat": "excuses",
+      "danger": "moderate",
+      "title": "When They Say Cash Flow Is Tight, Ask For A Number",
+      "principle": "Voss: Calibrated Question × Foot in the Door",
+      "remember": "Ask what they can pay today instead of arguing.",
+      "hook": "\"Cash flow is tight\" is not a refusal. <strong>It is an opening offer.</strong> Answer it like one.",
+      "truth": "They expect you to either shout or go away. Do neither.\n• Accept the story fully and ask what number is possible today.\n• A small payment restarts the habit of paying you.\n• Once money moves once, the account is alive again.",
+      "when": "Your client says money is tight right now and asks you to be patient.",
+      "theySee": "A supplier who listened, believed them, and asked one practical question.",
+      "signals": [
+        {
+          "icon": "💬",
+          "l": "Story first",
+          "t": "They explain their situation before mentioning any numbers"
+        },
+        {
+          "icon": "🙏",
+          "l": "Patience ask",
+          "t": "They ask you to bear with them for a few more weeks"
+        },
+        {
+          "icon": "🏢",
+          "l": "Others paid",
+          "t": "You can see they paid staff, rent, or ads in the same period"
+        },
+        {
+          "icon": "📉",
+          "l": "Shrinking offers",
+          "t": "Each promised amount is smaller than the last one"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Agree with the problem out loud",
+          "desc": "Say you hear them and you are not going to fight about it."
+        },
+        {
+          "n": "2",
+          "title": "Ask for today's number",
+          "desc": "Ask what they can move this week, not what they owe in total."
+        },
+        {
+          "n": "3",
+          "title": "Write the rest into dates",
+          "desc": "Take the partial payment and put the balance on two written dates."
+        }
+      ],
+      "script": "\"That's rough, and I'm not going to make it harder. <strong>What can you move today — even $500?</strong> Then let's put the rest on two dates and I'll leave you alone.\"",
+      "example": "Sofia was owed $7,000 by a shop that kept saying cash was tight. She stopped pushing for the full amount and asked what was possible that week. They sent $1,200 on Thursday and she split the rest across two dated payments. All of it cleared inside seven weeks.",
+      "watchFor": "They name an amount, even a small one.",
+      "ifItFails": "They say they can pay nothing at all, not even a token. That is a business in trouble or a client testing you, and both need the same answer — a written plan with a deadline attached. Send: \"<strong>Then I need a signed payment plan with dates by Friday. Without it I hand the account to collections on Monday.</strong>\"",
+      "counter": "If a supplier meets your cash-flow story with a friendly small ask, they are restarting the payment habit.\n• Notice they got warmer, not angrier, right after your excuse.\n• Say only what you can actually deliver this week.\n• Pay the small amount only if you can hold the rest of the plan.",
+      "insight": "Partial payment is not a loss, it is proof of intent, and a client who moves $500 will usually move the rest. Do not run this on someone who has already broken two payment plans — with them, small money is just a way of buying quiet."
+    },
+    {
+      "id": 10,
+      "cat": "excuses",
+      "danger": "moderate",
+      "title": "When They Suddenly Complain About The Work, Separate The Two Bills",
+      "principle": "Greene: Law 20 — Do Not Commit to Anyone (Refuse the Fight They Choose)",
+      "remember": "A complaint that arrives at day forty is about the money.",
+      "hook": "They loved the work in March. In May, six weeks late, it was never quite right. <strong>The timing is the tell.</strong>",
+      "truth": "A late complaint is a discount attempt wearing a quality costume.\n• Split the invoice into the part they never disputed and the part they did.\n• Ask them to pay the undisputed part today, in writing.\n• If they refuse to pay even that, the complaint was never real.",
+      "when": "An invoice sits 40 days late and your client suddenly raises problems with the work.",
+      "theySee": "A supplier taking the complaint seriously and asking for the uncontested money first.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "Late timing",
+          "t": "The first complaint arrived weeks after they approved the work"
+        },
+        {
+          "icon": "🌀",
+          "l": "Vague fault",
+          "t": "They cannot point to a specific thing that is wrong"
+        },
+        {
+          "icon": "📈",
+          "l": "Growing list",
+          "t": "The list of problems gets longer each time you reply"
+        },
+        {
+          "icon": "✅",
+          "l": "Prior approval",
+          "t": "You have an email where they signed off on the same work"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the specific item",
+          "desc": "Ask which deliverable and which line of the invoice is wrong."
+        },
+        {
+          "n": "2",
+          "title": "Split the invoice in two",
+          "desc": "Reissue as undisputed amount and disputed amount, with dates on both."
+        },
+        {
+          "n": "3",
+          "title": "Set a fix window",
+          "desc": "Offer one round of fixes on the disputed part, inside seven days."
+        }
+      ],
+      "script": "\"Let's split it. <strong>$5,800 of this isn't in dispute — send that today.</strong> The $1,200 you're questioning I'll fix this week, then you pay it or we adjust.\"",
+      "example": "Karl's client raised six vague complaints on a 45-day-late invoice. He asked which line item each one hit. Two mapped to a $900 deliverable; the rest mapped to nothing. He split the invoice, got $4,600 the next day, and fixed the $900 piece in an afternoon.",
+      "watchFor": "They pay the undisputed part while still arguing about the rest.",
+      "ifItFails": "They refuse to split and insist the whole thing is unusable. Stop discussing quality — you will never win that in email. Move to the record instead: \"<strong>You approved this work on March 12 in writing. I'm attaching that email. Either send the undisputed amount by Friday or I'll treat the account as disputed and escalate it.</strong>\"",
+      "counter": "If a supplier splits your complaint into paid and disputed, they are cornering you.\n• Notice they never argue about whether your complaint is fair.\n• Say exactly which item is wrong, or drop the complaint.\n• Raise real problems in week one, when they still cost them something.",
+      "insight": "A real complaint arrives fast and points at one thing. A financial complaint arrives late and points everywhere. Do not run the split on a client whose complaint came in the first week — that one is probably true and you owe them the fix."
+    },
+    {
+      "id": 11,
+      "cat": "excuses",
+      "danger": "moderate",
+      "title": "When They Blame The System, Make Them Name The Human",
+      "principle": "Diffusion of Responsibility",
+      "remember": "Systems do not decide. Ask who pressed hold.",
+      "hook": "\"It's stuck in the system\" means nobody has to answer for it. <strong>Put a name on it and the stall dies.</strong>",
+      "truth": "Blaming a process removes every person you could push.\n• Ask who owns the step it is stuck on, by name.\n• The moment a person owns it, delay costs them something.\n• Your contact will often unstick it rather than name a colleague.",
+      "when": "Your client says the invoice is stuck in approvals or with finance.",
+      "theySee": "A supplier calmly asking a process question, not accusing anyone of anything.",
+      "signals": [
+        {
+          "icon": "⚙️",
+          "l": "System talk",
+          "t": "They say the system, the process, or the workflow instead of a name"
+        },
+        {
+          "icon": "🚏",
+          "l": "Unknown step",
+          "t": "They cannot tell you which stage the invoice is sitting at"
+        },
+        {
+          "icon": "🙈",
+          "l": "No visibility",
+          "t": "They say they have no way to see the payment queue"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask which step it sits on",
+          "desc": "Ask for the stage name: approval, coding, payment run, or something else."
+        },
+        {
+          "n": "2",
+          "title": "Ask who owns that step",
+          "desc": "Ask for the name and email of the person who moves it forward."
+        },
+        {
+          "n": "3",
+          "title": "Offer to contact them yourself",
+          "desc": "Say you will chase that person so your contact does not have to."
+        }
+      ],
+      "script": "\"Which step is it sitting on, and <strong>who owns that step?</strong> Give me their name and I'll chase them directly so it's off your plate.\"",
+      "example": "Aisha heard stuck in finance for three weeks straight. She asked which stage and who owned it. Her contact went quiet for an hour, then wrote back that he had approved it himself and it would go out Friday. It did.",
+      "watchFor": "They unstick it themselves rather than give you a colleague's name.",
+      "ifItFails": "They give you a name and that person also blames the system. Now you have two people and a loop. Break it by putting both on the same thread with a date: \"<strong>Copying you both so we're in one place. The invoice is 52 days old. I need a payment date by Thursday or I escalate to the finance director.</strong>\"",
+      "counter": "If a supplier asks who owns the step, they are looking for someone to pressure.\n• Notice the question is about people, not about the invoice.\n• Say: \"I own it, and the date is the 20th.\"\n• Taking ownership ends the hunt. It also ends your excuses.",
+      "insight": "Systems have no shame and no calendar. People have both. Do not name a junior colleague to your supplier if you cannot also protect them — you will burn an internal ally to buy a week."
+    },
+    {
+      "id": 12,
+      "cat": "excuses",
+      "danger": "high",
+      "title": "When They Go Silent, Change The Channel Not The Volume",
+      "principle": "Cialdini: Social Proof of Consequence × Pattern Interrupt",
+      "remember": "Ten unread emails are weaker than one phone call.",
+      "hook": "Silence is a decision. <strong>Sending the eleventh email confirms it was the right one.</strong>",
+      "truth": "They have learned your email is safe to ignore.\n• Move to a channel where they must respond in real time.\n• A phone call or a letter breaks the routine they built around you.\n• Volume in the same channel just proves the channel is dead.",
+      "when": "You have sent four emails about an unpaid invoice and got no reply at all.",
+      "theySee": "A supplier who suddenly appears in a place they cannot delete without reading.",
+      "signals": [
+        {
+          "icon": "📵",
+          "l": "Dead thread",
+          "t": "Your last three emails got no reply of any kind"
+        },
+        {
+          "icon": "👀",
+          "l": "Active elsewhere",
+          "t": "They post on LinkedIn while ignoring your messages"
+        },
+        {
+          "icon": "🔀",
+          "l": "Selective reply",
+          "t": "They answer other people at the company but not you"
+        },
+        {
+          "icon": "📮",
+          "l": "Bounce risk",
+          "t": "Your emails may be filtered and you have never checked"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Call the main office line",
+          "desc": "Do not call their mobile. Call the switchboard and ask for accounts payable."
+        },
+        {
+          "n": "2",
+          "title": "Send a letter on paper",
+          "desc": "Post a signed letter with the invoice attached to the registered address."
+        },
+        {
+          "n": "3",
+          "title": "Say what happens next, with a date",
+          "desc": "One sentence naming the next step and the day you take it."
+        }
+      ],
+      "steps_note": "",
+      "script": "\"This is a courtesy call before I escalate. <strong>Invoice 1042, $4,200, is 61 days overdue.</strong> I need a payment date today, or the account goes to collections on Monday.\"",
+      "example": "Ben's client stopped replying at day 50. He stopped emailing and called the main office line, asking for accounts payable by name. A woman he had never spoken to pulled up the invoice, found it unapproved, and pushed it through. The money landed four days later.",
+      "watchFor": "Someone new at the company answers you and knows the invoice number.",
+      "ifItFails": "The switchboard blocks you and the letter gets no reply. That is a company choosing not to pay, not one that lost your email. Send one final written notice with a deadline and mean it: \"<strong>This is the final notice before I file. Payment of $4,200 must clear by 5pm Friday, 14 March.</strong>\" Then actually file.",
+      "counter": "If a supplier switches from email to phone calls and letters, you are near the end of their patience.\n• Notice the tone got calmer, not angrier, at the same time.\n• Say: \"Here's the date\" and give a real one.\n• Answer the first call. The second one comes with a lawyer.",
+      "insight": "Escalation is not about anger, it is about arriving somewhere they cannot ignore. Do not run this on a client whose staff will gossip about you in a small industry unless you have already decided to lose them. The next question is whether your final notice is one you can actually back."
+    },
+    {
+      "id": 13,
+      "cat": "cost",
+      "danger": "moderate",
+      "title": "Give A Date And A Consequence In The Same Sentence",
+      "principle": "Schelling: Commitment Device",
+      "remember": "Name the day and name what happens on it.",
+      "hook": "A deadline with nothing behind it is a wish. <strong>A deadline with a named consequence is a clock they can hear.</strong>",
+      "truth": "Vague pressure gets filed. Specific pressure gets scheduled.\n• Give one date and one thing that happens on that date.\n• They now have to decide before your date, not theirs.\n• Miss your own deadline once and every future date is noise.",
+      "when": "You have chased three times and want to force a decision this week.",
+      "theySee": "A supplier stating a plan in a flat voice, with a date on the calendar.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Rolling promises",
+          "t": "They have given you three payment dates and missed all three"
+        },
+        {
+          "icon": "🧊",
+          "l": "Cooling replies",
+          "t": "Their emails got shorter and slower over the last month"
+        },
+        {
+          "icon": "📵",
+          "l": "No urgency",
+          "t": "They never ask you what happens if they do not pay"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one consequence you will do",
+          "desc": "Collections, legal filing, stopping work, or removing access. Choose one only."
+        },
+        {
+          "n": "2",
+          "title": "Name a date five to seven days out",
+          "desc": "Close enough to feel real, far enough that they can act on it."
+        },
+        {
+          "n": "3",
+          "title": "Send it in one short message",
+          "desc": "Two sentences. No anger, no explanation, no offer to talk it through."
+        }
+      ],
+      "script": "\"Invoice 1042, $4,200, is 58 days overdue. <strong>If it hasn't cleared by 5pm Friday 14 March, I file with the small claims court on Monday.</strong>\"",
+      "example": "Grace had been fobbed off four times. She sent one message with a date and a filing threat. Her contact called within the hour asking if partial payment counted. She said only full payment stopped the filing. It cleared on the Thursday.",
+      "watchFor": "They call you before your deadline instead of after it.",
+      "ifItFails": "Your deadline passes and nothing happens on their side. Now the only move that keeps your word is doing the thing you said. Do it, then tell them it is done in one line: \"<strong>Filed this morning as stated. Case number attached. Payment in full closes it.</strong>\" Doing it once makes every future date real.",
+      "counter": "If a supplier gives you a date and a named consequence, treat it as real.\n• Notice the message names a specific action, not just displeasure.\n• Say: \"It clears on the 12th\" only if that is true.\n• Test their resolve once and you lose all room to negotiate.",
+      "insight": "The threat is only worth what you will actually do on the day. Do not name a consequence you cannot afford — one bluff called in front of a client's finance team and you spend the rest of the relationship being ignored politely."
+    },
+    {
+      "id": 14,
+      "cat": "cost",
+      "danger": "high",
+      "title": "Make The Debt Visible To People They Care About",
+      "principle": "Greene: Law 5 — Guard Your Reputation, Use Theirs",
+      "remember": "Some people pay to protect their name, not their books.",
+      "hook": "A late invoice costs them nothing while only you know about it. <strong>Add one witness and the math changes.</strong>",
+      "truth": "Reputation is the account most people actually protect.\n• Move the conversation to a thread with other people on it.\n• Their peers now watch how they handle a small debt.\n• Never insult them in front of others — just show the facts.",
+      "when": "You are 60 days unpaid and your contact has ignored every private message.",
+      "theySee": "A supplier stating a plain fact in a group thread, with no anger attached.",
+      "signals": [
+        {
+          "icon": "🎭",
+          "l": "Image care",
+          "t": "They talk often about their reputation or their brand"
+        },
+        {
+          "icon": "👥",
+          "l": "Public life",
+          "t": "They post regularly and care who sees it"
+        },
+        {
+          "icon": "🤫",
+          "l": "Private only",
+          "t": "They insist that money talk stays between the two of you"
+        },
+        {
+          "icon": "🏆",
+          "l": "Peer sensitive",
+          "t": "They name-drop partners and clients in conversation"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Add one relevant person to the thread",
+          "desc": "Their operations lead or finance manager. Not the whole company."
+        },
+        {
+          "n": "2",
+          "title": "State only facts",
+          "desc": "Invoice number, amount, date sent, days overdue. No adjectives."
+        },
+        {
+          "n": "3",
+          "title": "Give them a fast private way out",
+          "desc": "Offer to close the thread the moment payment clears."
+        }
+      ],
+      "script": "\"Adding Sarah so this is in one place. <strong>Invoice 1042, $4,200, sent 4 January, now 61 days overdue.</strong> Send me a payment date and I'll close this thread.\"",
+      "example": "Hugo copied a client's operations director on a 61-day-old invoice with three flat sentences. His contact called him within twenty minutes, annoyed. The invoice was paid the next morning, and the operations director apologized on the call.",
+      "watchFor": "They reply to you privately within an hour of the group message.",
+      "ifItFails": "They react with anger and accuse you of going behind their back. Do not apologize for the facts — hold the line and offer the exit. Reply on the same thread: \"<strong>I raised it privately six times over two months. Send the payment date and I'll take everyone else off this thread today.</strong>\" The audience stays until the money moves.",
+      "counter": "If a supplier suddenly copies your colleagues on an unpaid invoice, they have run out of private patience.\n• Notice the message is factual and free of insults. That is deliberate.\n• Say: \"Paying Thursday\" and pay Thursday.\n• Handle it fast. A second public message costs far more than the invoice.",
+      "insight": "Shame is a payment method, but it only works once and it usually ends the relationship. Do not use this on a client in a small industry you still need work from. The harder question is whether this invoice is worth the referrals you are about to lose."
+    },
+    {
+      "id": 15,
+      "cat": "cost",
+      "danger": "high",
+      "title": "Send A Formal Demand Letter Before You Send A Lawyer",
+      "principle": "Schelling: Threat That Leaves Something to Chance",
+      "remember": "A formal letter costs nothing and reads like the start of a lawsuit.",
+      "hook": "Most people pay at the letter, not at the courtroom. <strong>The letter is where the fear lives.</strong>",
+      "truth": "A formal notice moves the debt from annoyance to legal risk.\n• The letter states the amount, the deadline, and the next legal step.\n• It lands on someone whose job is to avoid legal problems.\n• It also becomes evidence you tried, which courts care about.",
+      "when": "Your invoice is 60 days late and every softer approach has failed.",
+      "theySee": "A one-page letter with dates, figures, and a filing deadline on it.",
+      "signals": [
+        {
+          "icon": "📵",
+          "l": "Total silence",
+          "t": "They have not replied to anything for over three weeks"
+        },
+        {
+          "icon": "💸",
+          "l": "Paying others",
+          "t": "You can see they are still paying other suppliers"
+        },
+        {
+          "icon": "🧊",
+          "l": "Cold shift",
+          "t": "They stopped pretending to be sorry about the delay"
+        },
+        {
+          "icon": "🚪",
+          "l": "Contact gone",
+          "t": "Your original contact has left or been made unreachable"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write one page, all facts",
+          "desc": "Invoice number, amount, dates, contract clause, and the amount now due."
+        },
+        {
+          "n": "2",
+          "title": "Give a hard deadline and next step",
+          "desc": "State the date and name exactly what you file if it passes."
+        },
+        {
+          "n": "3",
+          "title": "Send it two ways",
+          "desc": "Email and tracked post to the registered address. Keep both receipts."
+        }
+      ],
+      "script": "\"FORMAL DEMAND FOR PAYMENT. Invoice 1042, $4,200, issued 4 January, due 3 February. <strong>Payment in full is required by 5pm on 14 March.</strong> If it is not received, I will file a claim without further notice.\"",
+      "example": "Lena sent a one-page demand letter by tracked post after two months of silence. The client's office manager signed for it on a Tuesday. The finance director called on Wednesday, called it a mix-up, and paid the full amount on Thursday.",
+      "watchFor": "Someone senior you have never spoken to contacts you within days.",
+      "ifItFails": "They ignore the letter completely. Then the only credible move left is to file, and filing fees on small amounts are usually low. File and send the case number: \"<strong>Claim filed this morning, reference attached. Full payment closes it before the hearing date.</strong>\" A case number ends more disputes than any letter.",
+      "counter": "If you receive a formal demand letter, the sender has decided to spend money on you.\n• Notice it names a filing date and a specific claim.\n• Say: \"Paying in full by the deadline\" or get advice today.\n• Never ignore it. A default judgment is far worse than the invoice.",
+      "insight": "The letter works because it costs you almost nothing and signals you will spend more. Do not send one to a client whose ongoing work you still depend on this quarter — after the letter, there is no going back to friendly. The next question is whether you would actually file."
+    },
+    {
+      "id": 16,
+      "cat": "around",
+      "danger": "moderate",
+      "title": "Take The Invoice To Finance, Not To Your Contact",
+      "principle": "Sun Tzu: Attack Where They Are Not Prepared",
+      "remember": "Your contact has feelings. Finance has a queue.",
+      "hook": "Your contact is embarrassed and hoping you go away. <strong>The finance team has no feelings about you at all.</strong>",
+      "truth": "You have been pushing the one person who cannot pay you.\n• Finance owns the payment run and answers to an aging report.\n• They do not know your history and do not care about it.\n• Give them an invoice number and they will look it up.",
+      "when": "Your contact keeps apologizing about an unpaid invoice but nothing moves.",
+      "theySee": "A supplier sending routine billing details to the department that handles billing.",
+      "signals": [
+        {
+          "icon": "😞",
+          "l": "Apology loop",
+          "t": "Your contact apologizes but never gives a payment date"
+        },
+        {
+          "icon": "🔒",
+          "l": "Gatekeeping",
+          "t": "They insist finance only talks to internal staff"
+        },
+        {
+          "icon": "🤷",
+          "l": "No power",
+          "t": "Your contact cannot tell you if the invoice was even approved"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the accounts payable address",
+          "desc": "Check the company website, an old remittance email, or call the switchboard."
+        },
+        {
+          "n": "2",
+          "title": "Send the invoice with no story",
+          "desc": "Attach the invoice. Give the number, amount, date, and days overdue."
+        },
+        {
+          "n": "3",
+          "title": "Copy your contact",
+          "desc": "Keep them on the thread. This is a process step, not an ambush."
+        }
+      ],
+      "script": "\"Hi — sending this to accounts payable directly. <strong>Invoice 1042, $4,200, issued 4 January, now 58 days overdue.</strong> Can you confirm it's approved and give me the payment run date? Copying James for reference.\"",
+      "example": "Dev spent six weeks getting apologies from a marketing manager. He found the accounts payable email on an old remittance note and sent the invoice with four facts. Finance replied in two hours saying it had never been coded to a budget. It paid in the next run.",
+      "watchFor": "Finance replies with a status or a run date, not with a question about who you are.",
+      "ifItFails": "Finance says they need your contact's approval before anything moves. That tells you the block is your contact, not the process. Go back to your contact with the finance reply attached: \"<strong>Finance says it's waiting on your approval. Can you approve it today so it makes Friday's run?</strong>\" Now the delay has one owner.",
+      "counter": "If a supplier emails your finance team directly, they have given up on you.\n• Notice the message is factual and copies you politely.\n• Say: \"I'll approve it today\" and actually approve it.\n• Fix it fast. Finance now has your name in a late column.",
+      "insight": "Most unpaid invoices are not refusals, they are unowned tasks sitting in someone's inbox. Do not do this at a company where your contact controls whether you get renewed unless the invoice is worth more than the renewal."
+    },
+    {
+      "id": 17,
+      "cat": "around",
+      "danger": "high",
+      "title": "Escalate To The Person Your Contact Reports To",
+      "principle": "Greene: Law 33 — Discover Each Man's Thumbscrew",
+      "remember": "Go one level up, once, with facts and no complaints.",
+      "hook": "Your contact is protecting themselves, not you. <strong>Their boss is protecting the company's name.</strong>",
+      "truth": "The person above your contact has different problems than your contact does.\n• They care about supplier risk and about looking badly run.\n• Never complain about your contact. Just show the timeline.\n• The dates do the accusing so you do not have to.",
+      "when": "Your contact has broken two payment promises and stopped answering.",
+      "theySee": "A short, dated timeline from a supplier who has clearly been patient.",
+      "signals": [
+        {
+          "icon": "⛔",
+          "l": "Blocked route",
+          "t": "Your contact says they are handling it and to wait"
+        },
+        {
+          "icon": "📉",
+          "l": "Broken promises",
+          "t": "They have missed two dates they gave you in writing"
+        },
+        {
+          "icon": "🕵️",
+          "l": "Hidden org",
+          "t": "They avoid telling you who they report to"
+        },
+        {
+          "icon": "🧾",
+          "l": "Clean record",
+          "t": "You have written approval and no complaint about the work"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Build a five-line timeline",
+          "desc": "Date sent, date due, each promise made, each promise missed. Nothing else."
+        },
+        {
+          "n": "2",
+          "title": "Find the manager's name",
+          "desc": "Check LinkedIn or the company site. Get the exact title and email."
+        },
+        {
+          "n": "3",
+          "title": "Send once, copying your contact",
+          "desc": "Never send it behind their back. Copy them so it reads as escalation, not sabotage."
+        }
+      ],
+      "script": "\"Hi Rachel — escalating an unpaid invoice, copying James. <strong>Invoice 1042, $4,200. Sent 4 Jan. Promised 12 Feb, not paid. Promised 26 Feb, not paid. Now 61 days overdue.</strong> Who can give me a firm payment date?\"",
+      "example": "Yuki got two broken promises from a project lead. She sent a five-line timeline to his director and copied him. The director replied in 40 minutes, apologized for the delay, and paid within the week. Yuki never criticized the project lead once.",
+      "watchFor": "The manager replies faster than your contact ever did.",
+      "ifItFails": "The manager backs your contact and tells you to work it out with him. You have now used the escalation and it failed, so switch from asking to notice. Reply to both: \"<strong>Understood. Then this is formal notice: if the $4,200 hasn't cleared by 14 March, I'll issue a demand letter to the registered address.</strong>\"",
+      "counter": "If a supplier escalates to your boss with a clean timeline, they have stopped trusting you.\n• Notice the message contains no insults and no emotion.\n• Say: \"My fault, the date is Thursday\" before your boss replies.\n• Own it fast. Defending yourself against dates never works.",
+      "insight": "Timelines win escalations because they need no interpretation. Do not do this at a client where your contact is a founder or where you want a reference next month — you will get the money and lose the relationship in the same hour."
+    },
+    {
+      "id": 18,
+      "cat": "cutloose",
+      "danger": "moderate",
+      "title": "Take Less Money Today Instead Of More Money Never",
+      "principle": "Sunk-Cost Anchoring × Expected Value",
+      "remember": "Half of something today beats all of nothing next year.",
+      "hook": "You are owed $8,000. They will pay $5,000 today. <strong>The other $3,000 is not real money — it is a story about fairness.</strong>",
+      "truth": "The full amount stops being the goal once collecting it costs more than it returns.\n• Price the remaining chase in hours, fees, and stress before you decide.\n• A settlement gets the money moving while they still have some.\n• Always trade the discount for speed, never for goodwill.",
+      "when": "An invoice is 90 days late and chasing it now costs you real working hours.",
+      "theySee": "A supplier making a clean business decision, not someone giving up.",
+      "signals": [
+        {
+          "icon": "⏳",
+          "l": "Time drain",
+          "t": "You have spent more than five hours chasing this one invoice"
+        },
+        {
+          "icon": "🏚️",
+          "l": "Weak client",
+          "t": "Their business looks like it is shrinking or laying people off"
+        },
+        {
+          "icon": "🔁",
+          "l": "Round-trip talk",
+          "t": "Each conversation ends where the last one started"
+        },
+        {
+          "icon": "💤",
+          "l": "Dead energy",
+          "t": "You think about this invoice more than about new work"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Work out your walk-away number",
+          "desc": "Decide the lowest figure you will take before you open the conversation."
+        },
+        {
+          "n": "2",
+          "title": "Attach the discount to a date",
+          "desc": "The lower amount is only available if it clears inside seven days."
+        },
+        {
+          "n": "3",
+          "title": "Get it signed in one line",
+          "desc": "Ask them to reply agreed in writing before you send the revised invoice."
+        }
+      ],
+      "script": "\"Here's a clean end to this. <strong>$5,000 by Friday closes the whole $8,000 account.</strong> After Friday it goes back to the full amount and I hand it to collections.\"",
+      "example": "Rob was owed $8,400 by a client that had lost two of its own accounts. He offered $5,500 if it cleared inside a week. The client borrowed against a card and paid in four days. Rob got paid in a month where three other suppliers got nothing.",
+      "watchFor": "They ask you to put the settlement figure in writing.",
+      "ifItFails": "They take the discount as a starting point and counter lower. Do not negotiate down twice — that teaches them the number keeps falling. Pull the offer: \"<strong>The $5,000 was only good until Friday. It's back to $8,400 and I'm filing Monday.</strong>\" Then let silence do the work.",
+      "counter": "If a supplier offers you a discount for fast payment, they have lost faith in getting the full amount.\n• Notice the offer arrives with a short deadline attached.\n• Say: \"Send the settlement in writing and I'll pay Thursday.\"\n• Get full and final in the wording, or the balance comes back later.",
+      "insight": "Every hour spent chasing is an hour not spent selling, and that invisible cost is usually bigger than the discount. Do not settle with a client who is clearly solvent and simply stalling — with them, a discount is a reward. The next question is when you stop counting the debt at all."
+    },
+    {
+      "id": 19,
+      "cat": "cutloose",
+      "danger": "moderate",
+      "title": "Decide The Day You Stop Chasing And Put It In Your Calendar",
+      "principle": "Greene: Law 47 — Do Not Go Past the Mark You Aimed For",
+      "remember": "Pick the day you quit before the chase eats your month.",
+      "hook": "Some debts get paid. Some get collected. <strong>Some just get carried, and the carrying is what breaks people.</strong>",
+      "truth": "An open unpaid invoice takes rent from your attention every week.\n• Set an end date before you start the chase, not during it.\n• On that day you either file, sell the debt, or write it off.\n• Deciding in advance stops anger from picking the moment.",
+      "when": "You have chased the same invoice for four months and it now lives in your head.",
+      "theySee": "Nothing. This one happens in your calendar, not in their inbox.",
+      "signals": [
+        {
+          "icon": "🌙",
+          "l": "Night thoughts",
+          "t": "You think about this invoice when you should be asleep"
+        },
+        {
+          "icon": "📉",
+          "l": "Work slipping",
+          "t": "Your new sales have dropped while you chase this one client"
+        },
+        {
+          "icon": "🎣",
+          "l": "Hope hooks",
+          "t": "Every small reply gives you hope and then costs you a week"
+        },
+        {
+          "icon": "🧮",
+          "l": "Bad math",
+          "t": "Your chase hours are now worth more than the invoice"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Put an end date in the calendar",
+          "desc": "Ninety days from the first chase. Write the date down today."
+        },
+        {
+          "n": "2",
+          "title": "Choose the one action for that day",
+          "desc": "File a claim, sell the debt to a collector, or write it off. Pick now."
+        },
+        {
+          "n": "3",
+          "title": "Send one final notice a week out",
+          "desc": "Tell them the account closes on that date and what closing means."
+        }
+      ],
+      "script": "\"Final notice. <strong>On 30 April I hand this account to a collection agency and stop dealing with you directly.</strong> Payment before then keeps it between us.\"",
+      "example": "Marta chased a $3,100 invoice for five months. She put 30 April in her calendar and told the client. On 28 April the client paid $2,000 and asked for time on the rest. Marta took it, closed the file, and booked two new clients in May.",
+      "watchFor": "They pay something in the last week before your date.",
+      "ifItFails": "The date arrives and nothing has come in. Do the thing you wrote down, that day, without a new conversation. Send one closing line and then stop: \"<strong>Account handed to a collection agency today. They'll contact you directly. I'm out of the loop from here.</strong>\"",
+      "counter": "If a supplier tells you the account closes on a specific date, they have stopped hoping.\n• Notice there is no request in the message, only a date.\n• Say: \"Paying before then\" only if you actually will.\n• After that date the debt gets more expensive, not less.",
+      "insight": "The invoice is not the biggest cost — the months of hoping are. Do not set the date while you are angry, because anger always picks tomorrow. The harder part is honoring the date when they call you on day 89 with a story."
+    },
+    {
+      "id": 20,
+      "cat": "cutloose",
+      "danger": "moderate",
+      "title": "Fire The Client Properly So The Story Stays Yours",
+      "principle": "Gracián: Leave While Still Winning",
+      "remember": "Leave first, leave calm, and leave the record clean.",
+      "hook": "A bad payer will tell people you were difficult. <strong>Say your version first, in writing, with no heat in it.</strong>",
+      "truth": "How you leave decides what gets said about you afterwards.\n• Send a short, factual closing note that stands on its own.\n• Anyone who reads it later sees dates, not a fight.\n• Keep the door open for payment, closed for new work.",
+      "when": "You have collected what you can and decided this client gets no more work.",
+      "theySee": "A professional closing an account cleanly, with no insults to repeat to anyone.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Story risk",
+          "t": "They talk about other suppliers as if those suppliers failed them"
+        },
+        {
+          "icon": "🔗",
+          "l": "Shared network",
+          "t": "They know several of your clients or work in your industry"
+        },
+        {
+          "icon": "🚩",
+          "l": "Repeat pattern",
+          "t": "They were late on every single invoice, not just the last one"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write four sentences, no anger",
+          "desc": "Work delivered, amount outstanding, account closed, door open for payment."
+        },
+        {
+          "n": "2",
+          "title": "Remove access the same day",
+          "desc": "Take back logins, admin rights, and shared folders. Do it quietly."
+        },
+        {
+          "n": "3",
+          "title": "Tell your shared contacts nothing",
+          "desc": "Say only that the engagement ended. Facts travel. Complaints boomerang."
+        }
+      ],
+      "script": "\"I've closed your account effective today. <strong>All delivered work is listed in the attached summary; $2,400 remains outstanding.</strong> I'm not taking new work from you. The balance can be settled any time.\"",
+      "example": "Chris ended a two-year client who paid late every quarter. He sent four flat sentences and a delivery summary, then removed his access. The client complained to a mutual contact, who asked Chris what happened. Chris forwarded the closing note, and the contact sent him a referral a month later.",
+      "watchFor": "They reply asking whether the decision is final rather than arguing about money.",
+      "ifItFails": "They badmouth you to a shared contact anyway. Do not defend yourself in a conversation — send the record instead. Forward the closing note and the invoice history to the contact with one line: \"<strong>Here's the full history. I'll let the dates speak.</strong>\" Documents beat stories every time.",
+      "counter": "If a supplier closes your account in a calm, factual note, they are protecting their story.\n• Notice there is no complaint anywhere in the message.\n• Say: \"Understood, here's the final payment.\" Nothing more.\n• Pay it. An unpaid closed account follows you around the industry.",
+      "insight": "You will meet these people again through someone else, and the note you sent is what survives. Do not send a closing note while any payment plan is still running — you cut the reason they had to keep paying. The next question is which client on your list should have got this letter a year ago."
+    }
+  ]
+}

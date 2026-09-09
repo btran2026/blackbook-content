@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 63,
+  "manifestVersion": 64,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -481,7 +481,20 @@
       "url": "playbooks/playbook-srv-promoted-over-your-friends.json",
       "addedAt": "2026-09-09T06:13:55.872Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-collecting-money-from-someone-who-won-t-pay",
+      "title": "Collecting Money From Someone Who Won't Pay",
+      "theme": "money",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#1F6F5C",
+      "coverIcon": "💰",
+      "url": "playbooks/playbook-srv-collecting-money-from-someone-who-won-t-pay.json",
+      "addedAt": "2026-09-09T06:14:20.870Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-09T06:13:55.872Z"
+  "generatedAt": "2026-09-09T06:14:20.870Z"
 }
