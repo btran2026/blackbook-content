@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 60,
+  "manifestVersion": 61,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -442,7 +442,20 @@
       "url": "playbooks/playbook-srv-the-frozen-budget-playbook.json",
       "addedAt": "2026-09-05T06:46:01.398Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-managing-the-person-who-wanted-your-job",
+      "title": "Managing the Person Who Wanted Your Job",
+      "theme": "management",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#7C2D3A",
+      "coverIcon": "♟️",
+      "url": "playbooks/playbook-srv-managing-the-person-who-wanted-your-job.json",
+      "addedAt": "2026-09-09T06:12:55.484Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-05T06:46:01.398Z"
+  "generatedAt": "2026-09-09T06:12:55.484Z"
 }
