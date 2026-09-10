@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 65,
+  "manifestVersion": 66,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -507,7 +507,20 @@
       "url": "playbooks/playbook-srv-over-your-head.json",
       "addedAt": "2026-09-10T00:08:08.582Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-working-the-panel-that-decides-your-offer",
+      "title": "Working the Panel That Decides Your Offer",
+      "theme": "interviews",
+      "topic": "",
+      "cardCount": 24,
+      "contentVersion": 1,
+      "coverColor": "#14304F",
+      "coverIcon": "🎯",
+      "url": "playbooks/playbook-srv-working-the-panel-that-decides-your-offer.json",
+      "addedAt": "2026-09-10T00:08:32.788Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-10T00:08:08.582Z"
+  "generatedAt": "2026-09-10T00:08:32.788Z"
 }
