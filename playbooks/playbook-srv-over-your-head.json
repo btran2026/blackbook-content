@@ -1,0 +1,1177 @@
+{
+  "meta": {
+    "id": "srv-over-your-head",
+    "version": "1.0",
+    "title": "Over Your Head",
+    "subtitle": "The Chain-of-Command Playbook",
+    "author": "AI",
+    "description": "What to do before, during, and after someone threatens to skip you — and how to run the move yourself when you're the one going up the chain.",
+    "createdAt": "2026-09-09T23:58:37.998Z",
+    "tags": [
+      "workplace power",
+      "office politics",
+      "escalation",
+      "management",
+      "negotiation"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#7C2D12",
+    "coverIcon": "🪜",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "before_escalates",
+      "label": "Before Anyone Escalates",
+      "color": "#334155"
+    },
+    {
+      "key": "the_threat",
+      "label": "The Threat Itself",
+      "color": "#B91C1C"
+    },
+    {
+      "key": "if_they_go",
+      "label": "If They Actually Go",
+      "color": "#92400E"
+    },
+    {
+      "key": "boss_asks",
+      "label": "When Your Boss Asks You",
+      "color": "#1D4ED8"
+    },
+    {
+      "key": "reclaiming",
+      "label": "Reclaiming The Ground",
+      "color": "#047857"
+    },
+    {
+      "key": "go_yourself",
+      "label": "Going Over Someone's Head Yourself",
+      "color": "#6D28D9"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "before_escalates",
+      "danger": "low",
+      "title": "Spot the Escalator Before They Threaten",
+      "principle": "Greene: Law 14 — Know Who You're Dealing With",
+      "remember": "Some people go over your head before they even talk to you.",
+      "when": "You get a new stakeholder, client, or direct report and don't know their history yet.",
+      "hook": "Some people skip the chain of command out of habit. <strong>Learn their pattern before they use it on you.</strong>",
+      "truth": "Escalation habits form long before the first threat lands.\n• Ask peers if this person has skipped chains before.\n• Habitual escalators avoid small friction and save it up.\n• The first real sign is silence, not a threat.",
+      "theySee": "A new contact asking friendly questions about your manager's name and how decisions get made.",
+      "signals": [
+        {
+          "icon": "🕵️",
+          "l": "History check",
+          "t": "They ask who your manager is within the first few conversations."
+        },
+        {
+          "icon": "🎭",
+          "l": "Compliment pattern",
+          "t": "They praise you to your face and go quiet after disagreements."
+        },
+        {
+          "icon": "📧",
+          "l": "Copied emails",
+          "t": "They cc extra people on routine emails for no clear reason."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Reputation",
+          "t": "Other coworkers warn you this person 'went to HR fast' before."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask around",
+          "desc": "Ask two peers who worked with this person if they've skipped the chain before."
+        },
+        {
+          "n": "2",
+          "title": "Watch the ccs",
+          "desc": "Check who gets copied on their emails to you in the first two weeks."
+        },
+        {
+          "n": "3",
+          "title": "Log the pattern",
+          "desc": "Write down every time they mention 'your boss' or 'corporate' unprompted."
+        }
+      ],
+      "script": "\"Hey, quick one — have you worked with [name] before? Anything I should know about how they handle disagreements?\"",
+      "watchFor": "They pause before answering or say \"just be careful with that one.\"",
+      "ifItFails": "Nobody has history with them, so you're flying blind. Don't wait for a read — over-communicate from message one. Send: \"Wanted to loop you in early so nothing feels like a surprise later — here's where things stand.\"",
+      "counter": "If someone is quietly profiling you the same way, you'll notice extra small talk about your reporting line.\n• Notice if a new contact asks about your manager unprompted.\n• Don't overshare your org chart or your boss's temper.\n• Say: \"Happy to loop in whoever needs to be looped in, together.\"",
+      "insight": "Reading a person's escalation habit before they show it protects you, but you can't ask everyone about everyone. The real skill is running your job so cleanly there's nothing worth pointing at."
+    },
+    {
+      "id": 2,
+      "cat": "before_escalates",
+      "danger": "moderate",
+      "title": "Build the Paper Trail Before You Need It",
+      "principle": "Schelling: Commitment Through Documentation",
+      "remember": "Write it down. The email you send today is the shield you use tomorrow.",
+      "when": "You're handling a decision, request, or disagreement that could turn into a complaint later.",
+      "hook": "Memory is a courtroom nobody wins. <strong>Whoever has the email wins the argument that happens without you in the room.</strong>",
+      "truth": "Verbal agreements die the moment someone needs them to be different.\n• A written record beats a remembered conversation every time.\n• People who escalate rely on the boss hearing only their version.\n• The trail only works if you send it before the fight starts.",
+      "theySee": "A colleague who always sends a short recap email after meetings, nothing dramatic, just facts.",
+      "signals": [
+        {
+          "icon": "📞",
+          "l": "Verbal only",
+          "t": "They prefer phone calls or hallway chats over email for anything risky."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Vague asks",
+          "t": "Their requests get vaguer right before a deadline gets missed."
+        },
+        {
+          "icon": "🚫",
+          "l": "No recap",
+          "t": "Nobody sends a summary after meetings where decisions get made."
+        },
+        {
+          "icon": "🔄",
+          "l": "Selective memory",
+          "t": "They recall agreements differently than what was actually said."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Recap every call",
+          "desc": "Send a two-line email after any meeting that sets a deadline or decision."
+        },
+        {
+          "n": "2",
+          "title": "Timestamp the ask",
+          "desc": "Reply to verbal requests with 'confirming you'd like X by Friday' in writing."
+        },
+        {
+          "n": "3",
+          "title": "Save the receipts",
+          "desc": "Keep a folder of these emails organized by person, not by project."
+        }
+      ],
+      "script": "\"Confirming from our call — you'd like the draft by Friday and I'll loop in Sam for review. Flag me if that's off.\"",
+      "watchFor": "They start replying \"yes, that's right\" instead of ignoring your recap emails.",
+      "ifItFails": "They stop replying to your recaps entirely, which is itself a tell. Don't chase a reply — silence after a written recap is consent in most workplaces. Move forward and note the date: \"Proceeding on the above as discussed, per my email on [date].\"",
+      "counter": "If someone suddenly starts sending you recap emails after every talk, they're building a file on you.\n• Notice recap emails that arrive after routine, low-stakes chats.\n• Reply and correct anything wrong in the same thread.\n• Say: \"One correction — I said Friday, not Thursday, for the record.\"",
+      "insight": "A paper trail wins arguments, but only if built before you needed it. The harder problem is timing — start too late and the trail itself looks like evidence you saw this coming."
+    },
+    {
+      "id": 3,
+      "cat": "before_escalates",
+      "danger": "moderate",
+      "title": "Loop Your Boss In Early So There's No Surprise",
+      "principle": "Greene: Law 5 — Guard Your Reputation, Applied to Preemption",
+      "remember": "Tell your boss the bad news before someone else tells them first.",
+      "when": "You know a conflict is heating up and there's a real chance it reaches your boss.",
+      "hook": "The first version your boss hears becomes the true one. <strong>Make sure it's yours.</strong>",
+      "truth": "Whoever tells the story first sets the frame for everyone after.\n• A boss who hears it from you first assumes you're in control.\n• A boss who hears it from someone else assumes you hid it.\n• The window to tell them closes the moment the other person moves.",
+      "theySee": "A direct report walking in calmly to flag a brewing issue before it's a fire.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Tension rising",
+          "t": "The other person stops responding to your emails within a day."
+        },
+        {
+          "icon": "👥",
+          "l": "New audience",
+          "t": "They start cc'ing people outside your usual thread."
+        },
+        {
+          "icon": "🧊",
+          "l": "Tone shift",
+          "t": "Their messages turn formal after being casual for weeks."
+        },
+        {
+          "icon": "❓",
+          "l": "Third-party mention",
+          "t": "Someone mentions the other person 'asked about your manager' recently."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Flag it early",
+          "desc": "Tell your boss about the friction before it becomes a complaint."
+        },
+        {
+          "n": "2",
+          "title": "Keep it short",
+          "desc": "Give the facts in three sentences, no defense, no drama."
+        },
+        {
+          "n": "3",
+          "title": "Offer the plan",
+          "desc": "End with what you're doing about it, not just the problem."
+        }
+      ],
+      "script": "\"Heads up — [name] and I disagree on the timeline. I'm meeting them Thursday to sort it. Wanted you to hear it from me first.\"",
+      "watchFor": "Your boss says \"thanks for the heads up\" instead of asking follow-up questions.",
+      "ifItFails": "Your boss brushes it off as no big deal, then gets blindsided later anyway. Don't let the warning die there — put it in writing too, so there's a timestamp. Send: \"Following up in writing on what I mentioned earlier, in case this comes up again.\"",
+      "counter": "If a coworker is suddenly briefing your shared boss on a 'heads up,' check whether it's really a pre-emptive strike.\n• Notice if their version leaves out their own role in the conflict.\n• Ask your boss directly what was said, in plain terms.\n• Say: \"Can I add context to that — here's what actually happened.\"",
+      "insight": "Getting there first buys you the frame, not the outcome. The harder part is making sure your version holds up once the other side tells theirs."
+    },
+    {
+      "id": 4,
+      "cat": "the_threat",
+      "danger": "moderate",
+      "title": "Don't Flinch When They Say It",
+      "principle": "Voss: Tactical Empathy — Controlled Response",
+      "remember": "A threat only works if your face says it's working.",
+      "when": "Someone says \"I'll take this to your manager\" in the middle of an argument.",
+      "hook": "The threat is a test, not a plan. <strong>Most people who say it never follow through — unless you show them it landed.</strong>",
+      "truth": "A threat is often a bluff to see if you crack.\n• Your reaction tells them if the threat is worth using.\n• A flinch invites them to escalate for real, not just threaten.\n• Calm response makes the threat cost them, not you.",
+      "theySee": "Someone standing across from you expecting your voice to rise or your face to drop.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Trigger phrase",
+          "t": "They say 'I'll go over your head' or 'I'll talk to your boss.'"
+        },
+        {
+          "icon": "👁️",
+          "l": "Watching you",
+          "t": "They pause after saying it and study your face."
+        },
+        {
+          "icon": "📢",
+          "l": "Volume shift",
+          "t": "Their voice gets louder right before or after the threat."
+        },
+        {
+          "icon": "🚪",
+          "l": "Retreat option",
+          "t": "They leave room to back down if you don't react."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pause first",
+          "desc": "Count two seconds before you respond to the threat at all."
+        },
+        {
+          "n": "2",
+          "title": "Keep your voice flat",
+          "desc": "Match your normal speaking volume, not theirs."
+        },
+        {
+          "n": "3",
+          "title": "Name it plainly",
+          "desc": "Say what they just did back to them without heat."
+        }
+      ],
+      "script": "\"Sounds like you want to bring [boss's name] in. Want me to set that up, or do you want to try this once more first?\"",
+      "watchFor": "They backpedal and say \"let's not get there yet\" or similar.",
+      "ifItFails": "They double down and say \"no, I'm doing it\" right to your face. Don't argue them out of it — that reads as fear. Say: \"Okay. Want to walk in together, or would you rather go first?\" and mean it.",
+      "counter": "If you feel the urge to threaten someone with escalation, notice you're doing this exact move.\n• Notice your own voice rising before the threat leaves your mouth.\n• Ask yourself if you'd actually follow through today.\n• Say what you need directly instead of naming who you'll tell.",
+      "insight": "Staying calm wins the moment, but calm alone doesn't fix the disagreement underneath. The next problem is the one you were actually arguing about."
+    },
+    {
+      "id": 5,
+      "cat": "the_threat",
+      "danger": "low",
+      "title": "Ask Them What They Want Instead of Reacting to the Threat",
+      "principle": "Voss: Labeling and Calibrated Questions",
+      "remember": "Ask what they actually want. Most threats hide a real, smaller ask.",
+      "when": "Someone threatens to escalate but hasn't said what would actually satisfy them.",
+      "hook": "A threat is a shortcut around a request they're afraid to make plainly. <strong>Make them say the request.</strong>",
+      "truth": "People threaten when they don't trust asking will work.\n• The threat is cover for a specific, smaller demand underneath.\n• Naming the real ask strips the threat of its power.\n• Most people can't answer 'what would fix this' cleanly.",
+      "theySee": "Someone who seems genuinely curious about what they want, not defensive.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Vague threat",
+          "t": "They threaten to escalate without saying what outcome they want."
+        },
+        {
+          "icon": "⏳",
+          "l": "No timeline",
+          "t": "They haven't given you a deadline for a fix."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeats complaint",
+          "t": "They restate the problem instead of a solution when pushed."
+        },
+        {
+          "icon": "😶",
+          "l": "Hesitation",
+          "t": "They pause when asked directly what would resolve it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask directly",
+          "desc": "Say 'what outcome would fix this for you' right after the threat."
+        },
+        {
+          "n": "2",
+          "title": "Wait through silence",
+          "desc": "Let them sit in the question instead of filling the gap."
+        },
+        {
+          "n": "3",
+          "title": "Write down the answer",
+          "desc": "Repeat their answer back so it's on record between you two."
+        }
+      ],
+      "script": "\"Before this goes anywhere else — what would actually need to happen for you to feel okay?\"",
+      "watchFor": "They shift from threatening tone to listing a concrete, smaller ask.",
+      "ifItFails": "They say \"I just want you to know I'm serious\" and refuse to name a fix. That means the threat is about status, not the issue. Say: \"Understood. I'll still fix what's in my control — here's what that looks like,\" and act without waiting on them.",
+      "counter": "If someone asks you 'what would fix this' right after your threat, they're using this exact move to defuse you.\n• Notice the question arriving fast, right after your threat.\n• Don't get talked out of escalating if the issue is real.\n• Say: \"A real answer, and someone above us both hearing it.\"",
+      "insight": "Naming the real ask solves most threats on the spot. The ones that don't fold are the ones worth watching closely — they wanted the fight, not the fix."
+    },
+    {
+      "id": 6,
+      "cat": "the_threat",
+      "danger": "high",
+      "title": "Make Going Over Your Head Cost Them Something",
+      "principle": "Schelling: Raising the Cost of the Threat",
+      "remember": "Make the escalation route slower and more exposed than talking to you.",
+      "when": "Someone escalates often, as a first move instead of a last resort.",
+      "hook": "Every open door gets used until it costs something to walk through. <strong>Add a toll.</strong>",
+      "truth": "People pick the cheapest route to get what they want.\n• If escalating is free and fast, it becomes their default move.\n• Adding a step — documentation, a meeting, a record — raises the price.\n• The goal isn't to block them, just to make direct talk cheaper.",
+      "theySee": "A process that suddenly requires writing things down before anything moves upward.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeat pattern",
+          "t": "This is the second or third time they've threatened to escalate."
+        },
+        {
+          "icon": "📤",
+          "l": "Skips you",
+          "t": "They email your boss directly on things you could answer."
+        },
+        {
+          "icon": "🚫",
+          "l": "No attempt first",
+          "t": "They escalate before ever raising the issue with you."
+        },
+        {
+          "icon": "😩",
+          "l": "Boss fatigue",
+          "t": "Your boss starts asking 'did you two talk about this first.'"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set the norm",
+          "desc": "Tell them any issue needs a documented attempt with you before it goes up."
+        },
+        {
+          "n": "2",
+          "title": "Get your boss aligned",
+          "desc": "Ask your boss to redirect any complaint back to you first."
+        },
+        {
+          "n": "3",
+          "title": "Make the record visible",
+          "desc": "Cc them on your boss's reply saying 'let's see the thread first.'"
+        }
+      ],
+      "script": "\"Totally fine to loop in [boss] — mind sending me a quick summary of what we discussed first, so it's clear where we stand?\"",
+      "watchFor": "They stop threatening and start actually raising issues with you directly.",
+      "ifItFails": "They go around you anyway without documenting anything first. Don't get defensive with your boss — hand them the missing piece instead. Say to your boss: \"Happy to walk through it — for context, this hasn't been raised with me directly yet.\"",
+      "counter": "If a process suddenly requires you to document things before escalating, someone's raising the cost of your complaint.\n• Notice new steps appearing only after you've complained once.\n• Ask plainly: \"Is this a new rule, or just for me?\"\n• Escalate anyway if the issue is serious enough to be worth it.",
+      "insight": "Raising the cost stops casual escalation, but it doesn't stop someone determined. Do not use this on someone with real standing to complain — it reads as retaliation. The next move is keeping your own record just as clean."
+    },
+    {
+      "id": 7,
+      "cat": "the_threat",
+      "danger": "moderate",
+      "title": "Label the Threat Out Loud",
+      "principle": "Voss: Labeling",
+      "remember": "Say what they're doing. Naming the move takes the power out of it.",
+      "when": "Someone uses the threat as a pressure tactic mid-conversation, not as a real next step.",
+      "hook": "Unnamed pressure works in the dark. <strong>Turn the lights on and it loses its grip.</strong>",
+      "truth": "A threat works best while it stays implied and unspoken.\n• Saying it plainly forces them to own it or drop it.\n• Most people back off once the tactic is named directly.\n• The ones who don't back off were never bluffing.",
+      "theySee": "Someone calmly describing what just happened instead of getting defensive about it.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Implied threat",
+          "t": "They say 'I guess I'll have to take this further' vaguely."
+        },
+        {
+          "icon": "❓",
+          "l": "No direct ask",
+          "t": "They haven't told you what they actually need yet."
+        },
+        {
+          "icon": "🧪",
+          "l": "Testing tone",
+          "t": "Their voice has a slight edge, like they're gauging your reaction."
+        },
+        {
+          "icon": "🙅",
+          "l": "Body shift",
+          "t": "They lean back or cross arms right after the line."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the move",
+          "desc": "Say 'that sounds like a threat to escalate — is that the plan?'"
+        },
+        {
+          "n": "2",
+          "title": "Stay curious",
+          "desc": "Ask instead of accusing, keep your tone level and open."
+        },
+        {
+          "n": "3",
+          "title": "Offer the direct path",
+          "desc": "Say you'd rather solve it together than have someone else decide."
+        }
+      ],
+      "script": "\"That sounds like you're threatening to go over my head. Is that actually where you want to take this?\"",
+      "watchFor": "They soften and say \"no, I just meant...\" right after you name it.",
+      "ifItFails": "They say \"yes, that's exactly the plan\" without blinking. Don't push back on the threat itself — pivot to logistics, which takes the drama out. Say: \"Okay, want me to set up time with the three of us, or would you rather do that yourself?\"",
+      "counter": "If someone names your threat back to you, you've lost the element of surprise — decide fast whether you meant it.\n• Notice them repeating your words back in a calm question.\n• Don't backtrack if you actually intend to escalate.\n• Say: \"Yes, that's the plan,\" if it's true, and mean it.",
+      "insight": "Naming a threat forces a decision, which is exactly what most people avoid making out loud. The harder case is the person who says yes anyway — that's the one this whole file is really about."
+    },
+    {
+      "id": 8,
+      "cat": "if_they_go",
+      "danger": "high",
+      "title": "Get to Your Boss Before They Do",
+      "principle": "Greene: Law 5 — First-Mover Framing",
+      "remember": "Whoever tells your boss the story first sets the frame.",
+      "when": "You find out someone has emailed or scheduled time with your manager about you.",
+      "hook": "A story told twice sounds like a debate. <strong>A story told once, first, sounds like the truth.</strong>",
+      "truth": "The first account shapes how every later detail gets read.\n• Your boss judges new facts against whatever version they heard first.\n• Waiting to react reads as guilt even when you did nothing wrong.\n• Speed matters more than polish in this window.",
+      "theySee": "A calm message landing in your boss's inbox minutes after the other person's, no panic in it.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Meeting appears",
+          "t": "Your boss's calendar shows a new meeting with the other person."
+        },
+        {
+          "icon": "📧",
+          "l": "Odd cc",
+          "t": "You get cc'd on a short, formal email out of nowhere."
+        },
+        {
+          "icon": "🤐",
+          "l": "Silence from them",
+          "t": "The other person goes quiet on your usual channel."
+        },
+        {
+          "icon": "😐",
+          "l": "Boss's tone",
+          "t": "Your boss's next message to you is unusually neutral or brief."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reach out fast",
+          "desc": "Message your boss within the hour: 'Want to give you context before you hear it elsewhere.'"
+        },
+        {
+          "n": "2",
+          "title": "Keep it factual",
+          "desc": "State three facts, skip the emotion, skip blaming the other person."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the read",
+          "desc": "Ask your boss directly what they heard, so you know the gap."
+        }
+      ],
+      "script": "\"Heads up, [name] may be reaching out to you about our disagreement on X. Wanted to give you my side first — happy to talk anytime today.\"",
+      "watchFor": "Your boss responds \"thanks, good to know\" before the other person's message even lands.",
+      "ifItFails": "You're too late — your boss already met with them. Don't relitigate what was said in a room you weren't in. Ask instead: \"What's your read after talking to them? I want to make sure we're solving the same problem.\"",
+      "counter": "If a coworker rushes to message your shared boss the moment a conflict starts, notice the speed — it's the tell.\n• Notice a message landing within minutes of a disagreement.\n• Don't wait to respond — silence reads as agreement with their version.\n• Say: \"Adding my side so you have the full picture.\"",
+      "insight": "Speed wins the frame but not the facts — a fast, false story still loses eventually. The harder skill is being fast and accurate at the same time, under pressure."
+    },
+    {
+      "id": 9,
+      "cat": "if_they_go",
+      "danger": "high",
+      "title": "Don't Contradict Them in Front of the Boss",
+      "principle": "Greene: Law 1 — Never Outshine, Applied to Public Conflict",
+      "remember": "Never correct them in the room. Correct the record after, in private.",
+      "when": "You're in a meeting with your boss and the other person misstates something to make you look bad.",
+      "hook": "Winning the room and winning the boss are different games. <strong>Fighting in public makes you both look bad — and your boss remembers who started it.</strong>",
+      "truth": "Public corrections read as conflict, not as being right.\n• Your boss watches how you handle the moment more than the facts.\n• Arguing live makes you both look like the problem.\n• A private correction afterward lands without an audience to perform for.",
+      "theySee": "Someone staying composed while being misrepresented, not scrambling to defend themselves on the spot.",
+      "signals": [
+        {
+          "icon": "📈",
+          "l": "Exaggeration",
+          "t": "They stretch a small issue into a bigger story in front of your boss."
+        },
+        {
+          "icon": "👀",
+          "l": "Direct look",
+          "t": "They glance at your boss right after saying the inaccurate part."
+        },
+        {
+          "icon": "😤",
+          "l": "Your urge",
+          "t": "You feel the pull to jump in and correct them immediately."
+        },
+        {
+          "icon": "🔍",
+          "l": "Boss watching",
+          "t": "Your boss's eyes move between you two, reading the room."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Let it land",
+          "desc": "Don't interrupt — let them finish the full version, even the wrong parts."
+        },
+        {
+          "n": "2",
+          "title": "Ask one question",
+          "desc": "Ask a clarifying question instead of a correction, in a neutral tone."
+        },
+        {
+          "n": "3",
+          "title": "Fix it after",
+          "desc": "Send your boss the accurate version in writing within the hour."
+        }
+      ],
+      "script": "\"Can I add one detail after [name] finishes, just for accuracy?\" — then wait for the nod, and add only the fact, not a rebuttal.",
+      "watchFor": "Your boss nods and says \"sure, go ahead\" instead of moving the meeting along without you.",
+      "ifItFails": "Your boss doesn't give you the floor and the meeting ends on their version. Don't let it sit — send the correction in writing same day, addressed to the facts, not the person. Say: \"Wanted to add context I didn't get to share in the room: here's what actually happened.\"",
+      "counter": "If someone stays suspiciously quiet while you're misrepresented, they may be saving the correction for a private channel.\n• Notice a competitor who doesn't push back publicly at all.\n• Ask directly afterward: \"Did you agree with everything said there?\"\n• Get your own version in writing before theirs lands first.",
+      "insight": "Staying quiet in the room protects your standing, but silence has a shelf life — leave the record uncorrected too long and it becomes the truth. The next move is timing that follow-up right."
+    },
+    {
+      "id": 10,
+      "cat": "if_they_go",
+      "danger": "moderate",
+      "title": "Turn Their Complaint Into Your Agenda",
+      "principle": "Greene: Law 7 — Get Others to Do the Work, Applied to Reframing",
+      "remember": "Take their complaint and turn it into the plan you wanted anyway.",
+      "when": "Your boss calls a meeting because someone escalated a complaint about your work or decisions.",
+      "hook": "A complaint is just an agenda someone else wrote for you. <strong>Take the pen back.</strong>",
+      "truth": "The person who defines the goal of the meeting controls the outcome.\n• A complaint frames you as the problem to be discussed.\n• Reframing it as a shared problem changes who has to answer.\n• Whoever proposes the fix looks like the solver, not the cause.",
+      "theySee": "Someone walking into the meeting with a plan already on paper, not just a defense.",
+      "signals": [
+        {
+          "icon": "📋",
+          "l": "Meeting framed",
+          "t": "The invite is titled around the complaint, not the underlying issue."
+        },
+        {
+          "icon": "🤝",
+          "l": "You're outnumbered",
+          "t": "The other person and your boss already talked before you got there."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Vague ask",
+          "t": "Nobody has said what a good outcome from this meeting looks like."
+        },
+        {
+          "icon": "🛡️",
+          "l": "Your instinct",
+          "t": "You feel the pull to defend instead of propose."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reframe the topic",
+          "desc": "Open with 'here's the actual problem we're all trying to solve.'"
+        },
+        {
+          "n": "2",
+          "title": "Bring a fix",
+          "desc": "Walk in with one written option that addresses their complaint's root."
+        },
+        {
+          "n": "3",
+          "title": "Assign next steps",
+          "desc": "End the meeting by proposing who does what, before anyone else does."
+        }
+      ],
+      "script": "\"Before we go through the complaint point by point — here's what I think the real issue is, and one way to fix it.\"",
+      "watchFor": "Your boss starts nodding at your framing instead of the complaint's framing.",
+      "ifItFails": "Your boss sticks to the original complaint and won't move to your framing. Don't fight the frame twice — answer the complaint directly, then attach your fix at the end anyway. Say: \"Understood — addressing that directly, and here's what I'd also propose to prevent it again.\"",
+      "counter": "If someone walks into a meeting about your complaint with a pre-built agenda, they're taking the pen from you.\n• Notice a written plan arriving before the discussion even starts.\n• Ask: \"Before we get to solutions — can we agree on the problem first?\"\n• Slow the meeting down until your version of the issue is heard.",
+      "insight": "Reframing wins you the room, but a sharp boss notices the pivot every time. The real test is whether your fix is actually good, not just fast."
+    },
+    {
+      "id": 11,
+      "cat": "if_they_go",
+      "danger": "high",
+      "title": "Survive the Meeting Where Everyone Is Watching You",
+      "principle": "Cialdini: Social Proof Under Group Scrutiny",
+      "remember": "In a group meeting, calm reads as right even before anyone checks the facts.",
+      "when": "The escalation lands as a group meeting — your boss, the complainer, maybe HR, all in one room.",
+      "hook": "Groups don't remember the argument. <strong>They remember who looked steady and who looked rattled.</strong>",
+      "truth": "People in a room judge tone before they judge content.\n• The calmest person in the room gets believed by default.\n• Getting visibly upset confirms whatever story was told about you.\n• Everyone is watching your face more than listening to your words.",
+      "theySee": "Someone who takes notes, answers in short even sentences, and doesn't raise their voice once.",
+      "signals": [
+        {
+          "icon": "👥",
+          "l": "Extra faces",
+          "t": "More people are in the room than the issue actually requires."
+        },
+        {
+          "icon": "📜",
+          "l": "Prepared statement",
+          "t": "The other side speaks first with a version that sounds rehearsed."
+        },
+        {
+          "icon": "😰",
+          "l": "Body signals",
+          "t": "You notice your own hands or voice starting to shake."
+        },
+        {
+          "icon": "🤐",
+          "l": "Silence trap",
+          "t": "The room goes quiet and waits for your reaction specifically."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Slow your speech",
+          "desc": "Speak twenty percent slower than feels natural for the first two minutes."
+        },
+        {
+          "n": "2",
+          "title": "Take visible notes",
+          "desc": "Write down what's said instead of jumping to respond right away."
+        },
+        {
+          "n": "3",
+          "title": "Answer, don't defend",
+          "desc": "Answer only the specific claim asked, not the whole story at once."
+        }
+      ],
+      "script": "\"Let me make sure I have this right: the concern is [X]. Here's what happened from my side, in order.\"",
+      "watchFor": "The room's energy drops and people start asking clarifying questions instead of accusatory ones.",
+      "ifItFails": "Someone in the room keeps interrupting or escalating the tone anyway. Don't match their volume — go quieter and slower, which forces them to either match you or look worse. Say: \"I want to answer that fully — can I finish the point before the next question?\"",
+      "counter": "If you're in a room built to make someone crack, notice the extra bodies and the prepared opening.\n• Notice more attendees than the issue seems to justify.\n• Ask who called the meeting and what its stated purpose is.\n• Request the agenda in writing before the meeting starts, if possible.",
+      "insight": "Staying steady wins the room, but the room isn't the whole story — decisions made after the door closes matter more. That's the meeting you don't get invited to."
+    },
+    {
+      "id": 12,
+      "cat": "boss_asks",
+      "danger": "moderate",
+      "title": "Give the Bad News First",
+      "principle": "Voss: Tactical Empathy — Front-Loading Bad News",
+      "remember": "Say the bad part first. Waiting makes it look like you hid it.",
+      "when": "Your boss calls you in after hearing the other side's version of events.",
+      "hook": "Bad news gets worse the longer you sit on it. <strong>Say the ugliest part first and the rest sounds like context.</strong>",
+      "truth": "A boss braces for the worst the moment they call you in.\n• Leading with the bad part shows you're not hiding anything.\n• Burying it makes your boss dig, which reads as guilt.\n• Once the worst is said, everything after sounds like explanation.",
+      "theySee": "Someone who opens with the mistake instead of the excuse.",
+      "signals": [
+        {
+          "icon": "🥶",
+          "l": "Cold open",
+          "t": "Your boss starts with 'I heard something' instead of a normal greeting."
+        },
+        {
+          "icon": "🚪",
+          "l": "Closed door",
+          "t": "They close the door or move you to a private room."
+        },
+        {
+          "icon": "📝",
+          "l": "Notebook out",
+          "t": "They have notes or a printed email in front of them."
+        },
+        {
+          "icon": "😐",
+          "l": "Flat tone",
+          "t": "Their voice is more neutral than usual, holding back a reaction."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say it first",
+          "desc": "Open with the worst fact before your boss has to ask for it."
+        },
+        {
+          "n": "2",
+          "title": "Skip the excuse",
+          "desc": "State what happened in one sentence before explaining why."
+        },
+        {
+          "n": "3",
+          "title": "Offer the fix",
+          "desc": "Follow immediately with what you're doing to correct it."
+        }
+      ],
+      "script": "\"Before you say anything — I did miss that deadline, and I should've flagged it sooner. Here's what I'm doing to fix it.\"",
+      "watchFor": "Your boss's shoulders drop and their tone shifts from guarded to normal.",
+      "ifItFails": "Your boss already has a fixed read and won't move off it. Don't repeat your explanation louder. Ask instead: \"What would need to happen for this to be resolved for you?\" and let them define done.",
+      "counter": "If your boss opens a meeting with unusually flat tone and a closed door, they may be bracing to deliver bad news to you.\n• Notice the tone shift before a single word is said.\n• Don't fill the silence with guesses about what's wrong.\n• Ask directly: \"What did you want to talk about?\"",
+      "insight": "Leading with the bad news buys trust, but trust doesn't erase the mistake. The next question your boss asks is whether it happens again."
+    },
+    {
+      "id": 13,
+      "cat": "boss_asks",
+      "danger": "moderate",
+      "title": "Never Trash the Person Who Escalated",
+      "principle": "Greene: Law 15, Applied Inversely — Reputation Management",
+      "remember": "Don't insult them to your boss. It makes you look worse, not them.",
+      "when": "Your boss asks you directly what you think of the person who went over your head.",
+      "hook": "Attacking them in front of the boss confirms their story. <strong>It says you're exactly as reactive as they claimed.</strong>",
+      "truth": "A boss reads your reaction to criticism as a data point about you.\n• Trashing the other person signals you can't handle disagreement well.\n• Staying measured makes their complaint look like an overreaction instead.\n• Your boss remembers tone longer than they remember details.",
+      "theySee": "Someone who answers the question about the other person with facts, not insults.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Loaded question",
+          "t": "Your boss asks 'what's your take on them' in a leading tone."
+        },
+        {
+          "icon": "⏸️",
+          "l": "Waiting stare",
+          "t": "They pause after asking, watching how you respond."
+        },
+        {
+          "icon": "😠",
+          "l": "Your urge",
+          "t": "You feel the pull to list everything wrong with the person."
+        },
+        {
+          "icon": "🗞️",
+          "l": "Prior warning",
+          "t": "You've heard secondhand that they already complained about you."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stick to facts",
+          "desc": "Describe specific incidents, not the person's character, when asked."
+        },
+        {
+          "n": "2",
+          "title": "Skip the adjectives",
+          "desc": "Cut words like 'difficult' or 'dramatic' from your answer entirely."
+        },
+        {
+          "n": "3",
+          "title": "End on the work",
+          "desc": "Bring the answer back to the actual disagreement, not the person."
+        }
+      ],
+      "script": "\"We disagree on the timeline. I don't think it's personal — I think we're reading the risk differently.\"",
+      "watchFor": "Your boss's posture relaxes and they move the conversation to solutions, not personalities.",
+      "ifItFails": "Your boss keeps pushing for your personal opinion of them anyway. Don't cave and vent. Say: \"Honestly, I'd rather focus on the disagreement than the person — that's what I can actually fix.\"",
+      "counter": "If your boss asks you to weigh in on someone's character during a conflict, notice you're being pulled into a trap that could backfire on you too.\n• Notice a leading question about someone's personality, not their work.\n• Answer about actions and outcomes, not adjectives.\n• Say: \"I'd need specifics to comment fairly.\"",
+      "insight": "Staying measured protects your reputation more than winning the character argument ever would. The harder discipline is holding that line even when the other person didn't."
+    },
+    {
+      "id": 14,
+      "cat": "boss_asks",
+      "danger": "low",
+      "title": "Hand Your Boss a Decision, Not a Debate",
+      "principle": "Greene: Law 28 — Enter Action with Boldness, Applied to Decision Framing",
+      "remember": "Give your boss two options to pick from, not a pile of complaints.",
+      "when": "Your boss asks \"so what do you want me to do about this?\"",
+      "hook": "A boss with no options invents one, and it might not favor you. <strong>Bring the choices yourself.</strong>",
+      "truth": "People decide faster and better between two named options.\n• An open question forces your boss to build the solution alone.\n• A boss who builds their own fix may not include you in it.\n• Naming your preferred option first shapes which one gets picked.",
+      "theySee": "Someone laying out two clear paths with a light recommendation, not a vague complaint.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Open question",
+          "t": "Your boss says 'what do you think we should do here?'"
+        },
+        {
+          "icon": "⏰",
+          "l": "Time pressure",
+          "t": "They mention wanting this resolved by end of week."
+        },
+        {
+          "icon": "😮‍💨",
+          "l": "Fatigue tone",
+          "t": "They sound tired of hearing about this issue already."
+        },
+        {
+          "icon": "👀",
+          "l": "Looking at you",
+          "t": "They wait for you to propose something instead of deciding themselves."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Build two options",
+          "desc": "Write two workable paths forward before the meeting, not during it."
+        },
+        {
+          "n": "2",
+          "title": "Name your pick",
+          "desc": "Say which one you'd choose and why, in one sentence."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the call",
+          "desc": "End with 'does one of those work, or is there a third I'm missing?'"
+        }
+      ],
+      "script": "\"Two ways to go: we split the task, or I take it with a later deadline. I'd lean toward splitting it — your call.\"",
+      "watchFor": "Your boss picks one of your two options instead of proposing a third.",
+      "ifItFails": "Your boss rejects both and invents their own fix. Don't argue for your original pick. Say: \"That works — want me to draft what that looks like by tomorrow?\" and take the follow-up action yourself.",
+      "counter": "If someone hands you only two options during a disagreement, check what a third option might look like before you pick.\n• Notice when only two paths are offered, both favoring them.\n• Ask: \"What happens if we did neither of those?\"\n• Propose your own third option before agreeing to either.",
+      "insight": "Giving your boss a clean choice gets you a fast decision, but fast isn't always the decision you wanted. The real skill is building options that are all good for you."
+    },
+    {
+      "id": 15,
+      "cat": "reclaiming",
+      "danger": "moderate",
+      "title": "Re-Set the Relationship With the Person Who Escalated",
+      "principle": "Greene: Law 13 — Appeal to Self-Interest, Applied to Repair",
+      "remember": "Talk to them directly after, once, and make it about working together again.",
+      "when": "The dust has settled and you still have to work with the person who went over your head.",
+      "hook": "Ignoring it forever poisons every meeting after. <strong>One direct conversation resets the account.</strong>",
+      "truth": "Unaddressed conflict leaks into every future interaction quietly.\n• A single direct conversation closes the loop better than silence.\n• Bringing up the escalation itself, once, removes its power.\n• Avoiding them signals the relationship is still broken to everyone watching.",
+      "theySee": "Someone approaching them calmly, without an agenda of revenge or an apology tour.",
+      "signals": [
+        {
+          "icon": "😬",
+          "l": "Awkward avoidance",
+          "t": "You both go quiet or leave meetings early to skip small talk."
+        },
+        {
+          "icon": "📧",
+          "l": "Cc habits",
+          "t": "They still cc your boss on routine messages out of habit."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Team notices",
+          "t": "Coworkers ask if things are 'okay' between you two."
+        },
+        {
+          "icon": "🧊",
+          "l": "Old tension",
+          "t": "Meetings with both of you feel stiffer than they used to."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Request a short talk",
+          "desc": "Ask for fifteen minutes, just the two of you, no agenda listed."
+        },
+        {
+          "n": "2",
+          "title": "Name it once",
+          "desc": "Mention the escalation briefly, then move straight to going forward."
+        },
+        {
+          "n": "3",
+          "title": "Propose a norm",
+          "desc": "Agree on how future disagreements get raised, directly first."
+        }
+      ],
+      "script": "\"Want to grab fifteen minutes? I'd like us to be able to raise stuff directly going forward, without it needing to go further.\"",
+      "watchFor": "They agree to the meeting without hesitation or a defensive reply.",
+      "ifItFails": "They decline the meeting or keep it strictly professional and cold. Don't force closeness that isn't there. Keep interactions clean and documented instead: \"No problem — I'll keep things in writing so we're both clear going forward.\"",
+      "counter": "If someone requests a quiet one-on-one right after a conflict with your boss involved, notice they're trying to close the file before you're ready to.\n• Notice the timing — right after they were the one exposed.\n• Agree to talk, but don't promise forgiveness in advance.\n• Say: \"Happy to talk, but I still want things documented too.\"",
+      "insight": "Closing the loop directly stops the awkwardness from spreading to the whole team. The harder question is whether you actually trust them again, or just look like you do."
+    },
+    {
+      "id": 16,
+      "cat": "reclaiming",
+      "danger": "low",
+      "title": "Make Yourself Impossible to Skip Next Time",
+      "principle": "Status Asymmetry — Influence Without Authority",
+      "remember": "Be the person whose answer is faster and better than going upstairs.",
+      "when": "You've survived one escalation and want to make the next one less likely.",
+      "hook": "People skip you when talking to you feels slower than talking to your boss. <strong>Fix the speed problem, not just the relationship.</strong>",
+      "truth": "People escalate to whoever solves their problem fastest.\n• Slow replies from you make the chain of command look faster.\n• Being the quickest clear answer removes the reason to skip you.\n• A reputation for speed spreads faster than one for correctness.",
+      "theySee": "Someone who replies to hard questions within the day, with a clear answer, not a maybe.",
+      "signals": [
+        {
+          "icon": "🐌",
+          "l": "Slow replies",
+          "t": "You notice yourself sitting on requests for more than a day."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Vague answers",
+          "t": "Your typical response is 'let me check' more than a real answer."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat askers",
+          "t": "The same person keeps re-asking things you already half-answered."
+        },
+        {
+          "icon": "⬆️",
+          "l": "Boss shortcuts",
+          "t": "People go to your boss for things clearly in your lane."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set a reply clock",
+          "desc": "Answer any direct question within one business day, even if incomplete."
+        },
+        {
+          "n": "2",
+          "title": "Give a real answer",
+          "desc": "Say yes, no, or a specific next step — never just 'maybe.'"
+        },
+        {
+          "n": "3",
+          "title": "Close the loop",
+          "desc": "Follow up without being asked when you said you would."
+        }
+      ],
+      "script": "\"Answer: yes, we can do that by Thursday. I'll send the plan by end of day.\"",
+      "watchFor": "People start asking you first, before mentioning your boss's name at all.",
+      "ifItFails": "You reply fast and clear, but they still go around you out of habit or bias. Don't take it personally and slow down. Ask your boss directly: \"Can we agree that questions on X route to me first?\"",
+      "counter": "If someone becomes suspiciously fast and precise right after being skipped, they're rebuilding their position — watch if it's backed by real follow-through.\n• Notice sudden speed after a public embarrassment.\n• Test it — ask a hard question and see if the answer holds up.\n• Keep escalating past them if speed isn't matched by accuracy.",
+      "insight": "Speed buys you back the traffic, but speed without accuracy just moves the next escalation further down the road. The next test is whether you're right as often as you're fast."
+    },
+    {
+      "id": 17,
+      "cat": "reclaiming",
+      "danger": "moderate",
+      "title": "Let Them Save Face in Public",
+      "principle": "Greene: Law 47 — Do Not Go Past the Mark You Aimed For",
+      "remember": "Once you've won, don't make them look small in front of others.",
+      "when": "You came out ahead after the escalation and now share a room with them again.",
+      "hook": "Winning quietly lasts. <strong>Winning loudly buys you a grudge that outlives the argument.</strong>",
+      "truth": "A public loss creates a debt the loser wants repaid.\n• Rubbing in a win turns a settled issue into a standing feud.\n• Letting them exit gracefully removes their reason to try again.\n• People remember who let them keep dignity longer than who was right.",
+      "theySee": "Someone who doesn't bring up the old conflict in group settings, even when it would score points.",
+      "signals": [
+        {
+          "icon": "😬",
+          "l": "Old grudge",
+          "t": "They still tense up when the old topic comes up in meetings."
+        },
+        {
+          "icon": "😏",
+          "l": "Testing jokes",
+          "t": "Coworkers make jokes about 'who won' in front of both of you."
+        },
+        {
+          "icon": "😤",
+          "l": "Your urge",
+          "t": "You feel the pull to mention the old win when they're wrong again."
+        },
+        {
+          "icon": "🧊",
+          "l": "Cold politeness",
+          "t": "They're correct and formal with you, never warm."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Skip the recap",
+          "desc": "Never reference the old escalation in front of other people."
+        },
+        {
+          "n": "2",
+          "title": "Credit them once",
+          "desc": "Find one real thing to credit them for publicly, soon."
+        },
+        {
+          "n": "3",
+          "title": "Keep it working-level",
+          "desc": "Treat the relationship as purely professional, not cold, not warm."
+        }
+      ],
+      "script": "\"Nice catch on that number — good call.\" (said in a group, about something unrelated to the old conflict)",
+      "watchFor": "Their posture around you loosens slightly in group settings over the following weeks.",
+      "ifItFails": "They keep bringing up the old conflict themselves, refusing to let it go. Don't keep offering olive branches. Say once, privately: \"I think we're both past this — let's leave it there,\" and then stop initiating repair entirely.",
+      "counter": "If someone who beat you publicly starts crediting you generously afterward, notice they're managing the relationship, not just being kind.\n• Notice unprompted public credit right after you lost ground.\n• Accept it plainly without over-thanking them.\n• Keep your own record of what actually happened, privately.",
+      "insight": "Letting someone save face costs you nothing and buys years of easier meetings. The harder discipline is doing it for someone you don't actually respect."
+    },
+    {
+      "id": 18,
+      "cat": "go_yourself",
+      "danger": "moderate",
+      "title": "Escalate Only After You've Tried the Direct Route Twice",
+      "principle": "Machiavelli: The Prince — Avoid Unnecessary Enemies",
+      "remember": "Talk to them twice before you go over their head, or it looks like ambush.",
+      "when": "You're considering escalating a problem with a peer or a difficult manager above them.",
+      "hook": "Skipping straight to the top makes you the story, not the problem. <strong>Two honest attempts first make the escalation look earned.</strong>",
+      "truth": "An escalation without a visible attempt reads as an ambush.\n• Two documented tries show you gave the direct route a fair shot.\n• Skipping straight up makes you look like you wanted a fight.\n• The record of trying protects you more than the outcome does.",
+      "theySee": "A colleague raising the same issue twice, calmly, before ever mentioning anyone above them.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeat problem",
+          "t": "The same issue keeps coming up despite you raising it once already."
+        },
+        {
+          "icon": "🚫",
+          "l": "No movement",
+          "t": "Nothing changed after your first direct conversation about it."
+        },
+        {
+          "icon": "📈",
+          "l": "Rising stakes",
+          "t": "The problem is starting to affect a deadline or other people."
+        },
+        {
+          "icon": "✍️",
+          "l": "Your patience",
+          "t": "You're already drafting the email to their manager in your head."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Raise it again",
+          "desc": "Bring the issue up a second time, in writing this time."
+        },
+        {
+          "n": "2",
+          "title": "Set a deadline",
+          "desc": "Say plainly what you need and by when, in that message."
+        },
+        {
+          "n": "3",
+          "title": "Give the warning",
+          "desc": "If nothing changes, tell them directly you'll need to escalate."
+        }
+      ],
+      "script": "\"Raising this again since it's still unresolved — I need it fixed by Friday, or I'll need to bring in [manager] to help.\"",
+      "watchFor": "They finally move on the issue once the deadline and warning are both explicit.",
+      "ifItFails": "Friday comes and nothing has changed despite the clear warning. Don't send a third warning — that makes the earlier one meaningless. Escalate exactly as you said you would, and attach the two prior messages as proof you tried.",
+      "counter": "If a coworker gives you a clear deadline before escalating, take it seriously — it's a genuine last step, not a bluff.\n• Notice a written deadline attached to a repeated request.\n• Fix the actual issue, not just the tone of your reply.\n• Reply with a real plan before the deadline, not after.",
+      "insight": "Trying twice protects your reputation when you do escalate. The next problem is deciding what 'twice' really means when the stakes keep rising each time."
+    },
+    {
+      "id": 19,
+      "cat": "go_yourself",
+      "danger": "moderate",
+      "title": "Frame Your Escalation as a Request for Help, Not a Complaint",
+      "principle": "Cialdini: Framing Effects × Greene: Law 13 — Appeal to Self-Interest",
+      "remember": "Ask for help solving a problem. Don't ask someone to punish a person.",
+      "when": "You've decided to escalate and need to write the message to the manager above.",
+      "hook": "A complaint puts the boss in judge mode. <strong>A request for help puts them on your side of the table.</strong>",
+      "truth": "How a message is framed decides which role the reader plays.\n• A complaint makes the reader referee between two sides.\n• A request for help makes the reader a partner on your problem.\n• People act faster helping than they do judging.",
+      "theySee": "An email that opens with the business problem, not the name of the person you're frustrated with.",
+      "signals": [
+        {
+          "icon": "⚖️",
+          "l": "Judge framing",
+          "t": "Your draft starts with what someone else did wrong."
+        },
+        {
+          "icon": "😤",
+          "l": "Emotion leaking",
+          "t": "Words like 'frustrated' or 'unacceptable' appear in your draft."
+        },
+        {
+          "icon": "❓",
+          "l": "No ask",
+          "t": "You haven't said what you want the reader to actually do."
+        },
+        {
+          "icon": "🎯",
+          "l": "Blame heavy",
+          "t": "The other person's name appears more than the actual problem does."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open with the problem",
+          "desc": "Start the message with the business impact, not who caused it."
+        },
+        {
+          "n": "2",
+          "title": "Name a specific ask",
+          "desc": "State exactly what help or decision you need from them."
+        },
+        {
+          "n": "3",
+          "title": "Mention the person last",
+          "desc": "Bring in names only where necessary for context, briefly."
+        }
+      ],
+      "script": "\"The launch is at risk because we can't align on the timeline. Could you help us settle it this week? Happy to walk through both views.\"",
+      "watchFor": "The manager responds asking how they can help, instead of who's at fault.",
+      "ifItFails": "The manager reads it as a complaint anyway and starts assigning blame. Don't correct their framing mid-conversation — redirect with a question instead. Say: \"Totally fine to look at that too — what I really need from you today is a decision on the timeline.\"",
+      "counter": "If someone frames a complaint about you as a 'request for help' to your shared boss, notice the softer wrapper doesn't change what's happening.\n• Notice a message that asks for 'help' but centers your name.\n• Get your own version to the boss in the same conversation.\n• Say: \"Happy to help solve it — what specifically isn't working?\"",
+      "insight": "Framing an ask as help gets a faster, friendlier response. The trade-off is it can undersell how serious the problem actually is — sometimes you need the boss angry, not helpful."
+    },
+    {
+      "id": 20,
+      "cat": "go_yourself",
+      "danger": "high",
+      "title": "Warn Them Before You Go Over Their Head",
+      "principle": "Machiavelli: Reputation Management × Schelling: Signaling Intent",
+      "remember": "Tell them you're escalating before you do it, unless warning them causes real harm.",
+      "when": "You've decided to escalate a peer or manager and are deciding whether to tell them first.",
+      "hook": "A warning costs you the surprise but buys you the reputation. <strong>Most fights are worth losing the surprise to keep your name clean.</strong>",
+      "truth": "How you escalate becomes a story people tell about you.\n• A warning shows confidence — you're not afraid of them knowing.\n• A surprise ambush wins the moment but costs trust long-term.\n• The exception is real risk: retaliation, safety, or destroyed evidence.",
+      "theySee": "Someone telling them directly, \"I'm bringing this to [manager] since we can't resolve it,\" before doing it.",
+      "signals": [
+        {
+          "icon": "⚠️",
+          "l": "Retaliation risk",
+          "t": "This person has punished people before for raising issues."
+        },
+        {
+          "icon": "🗑️",
+          "l": "Evidence at risk",
+          "t": "They could delete or change records once they know you're moving."
+        },
+        {
+          "icon": "🙂",
+          "l": "Normal case",
+          "t": "There's no real risk, just discomfort in telling them directly."
+        },
+        {
+          "icon": "😬",
+          "l": "Your hesitation",
+          "t": "You're avoiding the warning because it feels awkward, not because it's unsafe."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the risk first",
+          "desc": "Ask yourself honestly if warning them creates real danger, not just discomfort."
+        },
+        {
+          "n": "2",
+          "title": "Tell them plainly",
+          "desc": "Say you're escalating and why, in one direct sentence, if it's safe."
+        },
+        {
+          "n": "3",
+          "title": "Skip the warning if unsafe",
+          "desc": "Go straight to the manager with a clear record, no warning, if there's real risk."
+        }
+      ],
+      "script": "\"I want you to hear this from me first — I'm bringing the timeline issue to [manager] since we haven't resolved it directly.\"",
+      "watchFor": "They either move to fix it fast or say \"go ahead\" without hostility.",
+      "ifItFails": "They react with anger or try to talk you out of it entirely. Don't negotiate the decision itself once you've said it — that reopens the exact stall you're escalating about. Say: \"Understood you disagree. I'm still moving forward as I said,\" and follow through the same day.",
+      "counter": "If a peer warns you they're about to escalate, they've handed you a short window to fix things or prepare your own version — use both.\n• Notice the direct warning as a real signal, not a bluff.\n• Fix the issue fast if you can, before they follow through.\n• Get your own account to the manager in the same window.",
+      "insight": "Warning someone first protects your name more than it protects them. This works until the person you're warning is the one who'd retaliate — then the whole calculation flips, and silence becomes the safer move."
+    }
+  ]
+}

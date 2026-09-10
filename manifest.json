@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 64,
+  "manifestVersion": 65,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -494,7 +494,20 @@
       "url": "playbooks/playbook-srv-collecting-money-from-someone-who-won-t-pay.json",
       "addedAt": "2026-09-09T06:14:20.870Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-over-your-head",
+      "title": "Over Your Head",
+      "theme": "workplace power",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#7C2D12",
+      "coverIcon": "🪜",
+      "url": "playbooks/playbook-srv-over-your-head.json",
+      "addedAt": "2026-09-10T00:08:08.582Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-09T06:14:20.870Z"
+  "generatedAt": "2026-09-10T00:08:08.582Z"
 }
