@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 66,
+  "manifestVersion": 67,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -520,7 +520,20 @@
       "url": "playbooks/playbook-srv-working-the-panel-that-decides-your-offer.json",
       "addedAt": "2026-09-10T00:08:32.788Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-fake-urgency",
+      "title": "Black Book: Fake Urgency",
+      "theme": "urgency",
+      "topic": "Spotting fake urgency designed to skip your thinking",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#C0392B",
+      "coverIcon": "⏱️",
+      "url": "playbooks/playbook-srv-black-book-fake-urgency.json",
+      "addedAt": "2026-09-10T17:31:12.977Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-10T00:08:32.788Z"
+  "generatedAt": "2026-09-10T17:31:12.977Z"
 }

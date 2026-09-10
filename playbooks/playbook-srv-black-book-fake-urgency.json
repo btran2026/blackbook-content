@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "id": "srv-black-book-fake-urgency",
+    "version": "1.0",
+    "title": "Black Book: Fake Urgency",
+    "subtitle": "Spot the Pressure. Stop the Con.",
+    "description": "12 cards for reading manufactured deadlines, scam pressure tactics, and office urgency theater before they cost you.",
+    "author": "AI",
+    "createdAt": "2026-09-10T17:31:12.977Z",
+    "tags": [
+      "urgency",
+      "manipulation",
+      "fraud",
+      "decision-making",
+      "pressure tactics"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#C0392B",
+    "coverIcon": "⏱️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting fake urgency designed to skip your thinking",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "recognition",
+      "label": "Spotting the Tell",
+      "color": "#8E44AD"
+    },
+    {
+      "key": "mechanics",
+      "label": "How It Works",
+      "color": "#2C3E50"
+    },
+    {
+      "key": "fraud",
+      "label": "Scam Pressure",
+      "color": "#C0392B"
+    },
+    {
+      "key": "workplace",
+      "label": "Office Pressure",
+      "color": "#2980B9"
+    },
+    {
+      "key": "defense",
+      "label": "Counter Moves",
+      "color": "#27AE60"
+    },
+    {
+      "key": "aftermath",
+      "label": "After the Panic",
+      "color": "#D35400"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "recognition",
+      "danger": "low",
+      "title": "Tell Real Deadlines From Invented Ones",
+      "hook": "Real deadlines exist in the world. Fake ones only exist in the message.",
+      "truth": "Most urgency is manufactured. Here is what separates the fake from the real.\n• Real urgency names a specific consequence tied to a real clock.\n• Fake urgency is vague — 'act now' with no explanation of why NOW.\n• If you can't verify the deadline in 60 seconds, it probably isn't real.",
+      "principle": "Loss Aversion",
+      "remember": "Real deadlines can be verified. Fake ones fall apart when you look.",
+      "theySee": "A person staring at an email with a deadline in the subject line, hand already on their mouse, not yet asking what happens if they wait.",
+      "signals": [
+        {
+          "l": "No reason given",
+          "t": "The message states a deadline but never explains why that specific time matters.",
+          "icon": "❓"
+        },
+        {
+          "l": "Same offer again",
+          "t": "The identical urgent message arrived last week and the week before.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Punishment never named",
+          "t": "The penalty for waiting is described in vague terms — 'lose access' — nothing specific.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Timer on screen",
+          "t": "A countdown clock is running but no real event is tied to when it hits zero.",
+          "icon": "⏳"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what happens at zero",
+          "desc": "Write down the specific consequence if you wait. If you can't name it in one sentence, the deadline is fake."
+        },
+        {
+          "n": "2",
+          "title": "Find one external source",
+          "desc": "Look up the sender independently — their real website or phone number — and confirm the deadline exists outside the message."
+        },
+        {
+          "n": "3",
+          "title": "Search your inbox for repeats",
+          "desc": "Look for the same urgent message from previous weeks. One repeat is enough to call it fake."
+        }
+      ],
+      "script": "\"What specifically happens if I wait until tomorrow?\"",
+      "counter": "Someone sets a fake deadline on you. Slow down and check.\n• No explanation for why the deadline is right now.\n• The same deadline reappears after it supposedly passed.\n• They get tense the moment you ask for details.",
+      "insight": "The next harder question is whether the person setting the deadline is covering for poor planning — fake urgency is often someone else's panic wearing a clock."
+    },
+    {
+      "id": 2,
+      "cat": "mechanics",
+      "danger": "moderate",
+      "title": "Panic Kills the Part of Your Brain That Catches Lies",
+      "hook": "Fake urgency isn't a trick. It's a brain override. <strong>Panic skips the part of you that asks questions.</strong>",
+      "truth": "Fear is faster than thought. That is the whole exploit.\n• Urgency triggers a fear response and shuts down the evaluation step.\n• Under panic, you skip verification and go straight to action.\n• The con ends the moment you feel calm enough to ask one question.",
+      "principle": "Amygdala Hijack",
+      "remember": "Panic makes you skip the step where you catch the lie.",
+      "theySee": "A person reading a message with wide eyes, reaching for their wallet before they have finished reading it.",
+      "signals": [
+        {
+          "l": "Heart speeds up",
+          "t": "Your body is moving faster before your mind has decided anything.",
+          "icon": "💓"
+        },
+        {
+          "l": "Tunnel focus",
+          "t": "You stop noticing everything in the room except the urgent thing in front of you.",
+          "icon": "🔦"
+        },
+        {
+          "l": "Steps skipped",
+          "t": "You are about to click or call without reading the full message first.",
+          "icon": "⏭️"
+        },
+        {
+          "l": "Guilt spike",
+          "t": "The message makes you feel like you have already done something wrong before you have done anything.",
+          "icon": "😰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the feeling out loud",
+          "desc": "Say 'I'm panicking' before you do anything else. Naming it slows the response down."
+        },
+        {
+          "n": "2",
+          "title": "Set a 60-second timer",
+          "desc": "Force one full minute of doing nothing — no clicking, no calling, no typing — before touching the message."
+        },
+        {
+          "n": "3",
+          "title": "Read the message a second time slowly",
+          "desc": "The second read almost always shows the gap or the buried ask that felt invisible the first time."
+        }
+      ],
+      "script": "\"I need one minute before I do anything.\"",
+      "counter": "Someone is deliberately using panic against you. Here is how you know.\n• The message hits you in the gut before you understand the words.\n• The ask is buried after several lines of fear-language.\n• Slowing down makes them push harder immediately.",
+      "insight": "The calmer you stay, the less power the fake urgency has — but the harder part is staying calm when the message was specifically written to prevent exactly that."
+    },
+    {
+      "id": 3,
+      "cat": "recognition",
+      "danger": "low",
+      "title": "The Same Limited-Time Offer Comes Back Every Week",
+      "hook": "If the limited-time deal resets every Monday, it was never limited. <strong>Repeated scarcity is just a price tag with extra drama.</strong>",
+      "truth": "Real scarcity doesn't come back. Fake scarcity does.\n• A real limited offer has a hard stop: inventory runs out, the date passes, the slot fills.\n• Fake scarcity resets — same deal, new countdown, next week.\n• Once you spot it repeating, the seller's credibility drops on everything they say.",
+      "principle": "Cialdini: Scarcity",
+      "remember": "If the offer comes back, it was never going away.",
+      "theySee": "A shopper clicking 'buy now' on a sale that had the exact same countdown running last Tuesday.",
+      "signals": [
+        {
+          "l": "Clock resets",
+          "t": "The timer hits zero and the deal continues unchanged.",
+          "icon": "🔄"
+        },
+        {
+          "l": "No number of spots",
+          "t": "Scarcity is claimed but the message never says how many units or seats remain.",
+          "icon": "🔢"
+        },
+        {
+          "l": "Friday arrival",
+          "t": "The last-chance email arrives every Friday at the same time.",
+          "icon": "📅"
+        },
+        {
+          "l": "Identical wording",
+          "t": "The urgency line is word-for-word the same as a message from weeks ago.",
+          "icon": "📋"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Screenshot and wait seven days",
+          "desc": "Save the last-chance price and check whether the deal still exists next week. One check is usually enough."
+        },
+        {
+          "n": "2",
+          "title": "Search the coupon code online",
+          "desc": "Type the code into Google. If it has been circulating for months, the urgency was a lie from the start."
+        },
+        {
+          "n": "3",
+          "title": "Ask the seller directly",
+          "desc": "'Is this price available after the sale ends?' Watch how they answer. Hesitation or vagueness is your answer."
+        }
+      ],
+      "script": "\"I'll check back next week and see if the price is still there.\"",
+      "counter": "Someone questions your deadline and won't move fast. Notice what that tells you.\n• They pause instead of acting — that is rational, not suspicious.\n• They ask whether the deadline is hard or soft — answer honestly.\n• They save your offer to check it later — a smart buyer.",
+      "insight": "The real question once the fake urgency is gone is whether you would still want it at full price — because if the pressure was doing most of the work, that is information about the product."
+    },
+    {
+      "id": 4,
+      "cat": "fraud",
+      "danger": "extreme",
+      "title": "Your Account Will Be Locked in 10 Minutes",
+      "hook": "Real banks don't text you a 10-minute countdown. <strong>That clock was built to stop you from picking up the phone and calling them.</strong>",
+      "truth": "The countdown is the con. It replaces verification with panic.\n• Real institutions give written notice and a grace window — not 10 minutes.\n• The link in the message goes to a fake page that looks like the real site.\n• The moment you slow down and call the real number, the scam ends.",
+      "principle": "Fear Appeal",
+      "remember": "Real banks give you days to respond. Fake ones give you 10 minutes.",
+      "theySee": "A person picking up their phone, seeing an official-looking bank text with a 10-minute countdown, and starting to type a reply before checking the sender.",
+      "signals": [
+        {
+          "l": "Unknown sender",
+          "t": "The number or email address is one you have never seen before in any prior communication.",
+          "icon": "👤"
+        },
+        {
+          "l": "Link in the message",
+          "t": "You are told to click a link to log in rather than go to the site yourself.",
+          "icon": "🔗"
+        },
+        {
+          "l": "Minutes to act",
+          "t": "The window is short enough — 10 to 15 minutes — that you cannot make a phone call to verify.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "No account reference",
+          "t": "A real bank alert would include your account's last four digits or a transaction you recognize.",
+          "icon": "🏦"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Do not click the link",
+          "desc": "Open a new browser tab and type the institution's real web address yourself. Do not use anything inside the message."
+        },
+        {
+          "n": "2",
+          "title": "Call the number on your card",
+          "desc": "Not the number in the message. The one printed on your physical card or on your paper statement."
+        },
+        {
+          "n": "3",
+          "title": "Report the message",
+          "desc": "Forward it to your bank's fraud team or your phone carrier's spam number. Takes 30 seconds."
+        }
+      ],
+      "script": "\"I'm going to hang up and call the number on my card before I do anything else.\"",
+      "counter": "A real alert might still feel like a fake one. Here is how to tell them apart.\n• Real alerts don't include a link asking you to log in.\n• Real alerts don't threaten immediate account closure in minutes.\n• Real alerts reference your account or a recent transaction you recognize.",
+      "insight": "The next harder question is whether you would recognize the fake login page once you were on it — because the logos, fonts, and layouts are copied exactly."
+    },
+    {
+      "id": 5,
+      "cat": "fraud",
+      "danger": "high",
+      "title": "Weeks of Warmth, Then Sudden Urgency",
+      "hook": "The friendly message with no ask is not friendly. <strong>It's the setup. The ask comes three conversations later.</strong>",
+      "truth": "Trust is the first con. Urgency is just the closing move.\n• Fraudsters spend weeks building comfort before they create any pressure.\n• By the time urgency appears, you feel a relationship that isn't real.\n• The earlier warmth makes you want to say yes — saying no feels like betrayal.",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Long warmup plus sudden pressure equals a layered con.",
+      "theySee": "A stranger who has been friendly and helpful for weeks, now needing something done right away.",
+      "signals": [
+        {
+          "l": "Unexpected first contact",
+          "t": "Someone reached out to you first with no clear reason for why they chose you.",
+          "icon": "📩"
+        },
+        {
+          "l": "Agrees with everything",
+          "t": "They match your opinions, your humor, your interests — fast and without any pushback.",
+          "icon": "🤝"
+        },
+        {
+          "l": "Asks got bigger",
+          "t": "Small easy requests came first, then slightly bigger ones, and now something large.",
+          "icon": "📈"
+        },
+        {
+          "l": "Suddenly urgent",
+          "t": "After weeks of calm conversation, something now must happen today.",
+          "icon": "🚨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List every request in order",
+          "desc": "Write down every ask this person has made since first contact. A pattern of rising requests is the tell."
+        },
+        {
+          "n": "2",
+          "title": "Pause the moment urgency appears",
+          "desc": "The instant warmth turns into pressure, stop the conversation. Don't explain — just stop."
+        },
+        {
+          "n": "3",
+          "title": "Tell someone outside the situation",
+          "desc": "Give a trusted person the full story from the first message. They will see what you can't because they are outside it."
+        }
+      ],
+      "script": "\"I need a few days before I can move on this. I'll get back to you.\"",
+      "counter": "Someone spots your trust-building and pumps the brakes. They are doing the right thing.\n• They bring in a third person to look at the situation.\n• They go quiet right when you need speed.\n• They ask questions about your very first contact with them.",
+      "insight": "The longer the warmup, the bigger the eventual ask — the ones who spent the most time on you are also the most dangerous when urgency finally appears."
+    },
+    {
+      "id": 6,
+      "cat": "fraud",
+      "danger": "extreme",
+      "title": "They Tell You to Keep It Secret",
+      "hook": "\"Don't tell anyone about this.\" That line is a con in four words. <strong>Secrets protect the fraud, not you.</strong>",
+      "truth": "Legitimate requests don't need your silence.\n• Real institutions never ask you to keep transactions secret from family or advisors.\n• Secrecy cuts off the people who would immediately recognize the con.\n• The person demanding secrecy knows exactly what your family would say if they heard.",
+      "principle": "Social Isolation",
+      "remember": "If they need you to keep it secret, they need you to stay trapped.",
+      "theySee": "A person being told to handle a financial matter quietly, alone, without talking to family or a bank.",
+      "signals": [
+        {
+          "l": "Secrecy demanded",
+          "t": "You are explicitly told to keep this between yourself and the other person.",
+          "icon": "🤫"
+        },
+        {
+          "l": "Family excluded",
+          "t": "You are told specifically not to mention it to a spouse, parent, or sibling.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Shame angle",
+          "t": "They hint that your family wouldn't understand or would judge you for this.",
+          "icon": "😳"
+        },
+        {
+          "l": "Pressure plus silence",
+          "t": "Both urgency and secrecy appear in the same conversation — act now, tell nobody.",
+          "icon": "🔒"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Tell one trusted person immediately",
+          "desc": "The moment secrecy is requested, tell exactly one trusted person the full story. That breaks the con's main protection."
+        },
+        {
+          "n": "2",
+          "title": "Treat secrecy as the red flag",
+          "desc": "Don't evaluate the offer at all until you have dealt with why they want you silent. The secrecy is the problem."
+        },
+        {
+          "n": "3",
+          "title": "End the conversation",
+          "desc": "You don't owe a reply to someone asking you to hide things from people who protect you. Stop responding."
+        }
+      ],
+      "script": "\"I need to run this by my family before I decide anything.\"",
+      "counter": "Someone breaks your secrecy request on a real deal. Understand what that shows.\n• They are getting a second opinion — that is normal on any real decision.\n• A real deal survives a trusted person looking at it.\n• If your deal can't survive scrutiny, that is information too.",
+      "insight": "The harder part is that people deep in a long-running con have already been isolated — the secrecy started weeks before they noticed it had a name."
+    },
+    {
+      "id": 7,
+      "cat": "workplace",
+      "danger": "moderate",
+      "title": "When Everything Is Urgent, Nothing Gets Done",
+      "hook": "When every task is marked urgent, urgent stops meaning anything. <strong>The label is now decoration.</strong>",
+      "truth": "Constant urgency at work is a planning failure, not a workload problem.\n• When priorities are unclear, people mark everything urgent to avoid making the call themselves.\n• You end up switching tasks all day and finishing none of them.\n• The fix isn't working faster — it's forcing someone to rank the list out loud.",
+      "principle": "Eisenhower Matrix",
+      "remember": "If everything is urgent, someone forgot to do their job of deciding.",
+      "theySee": "A worker jumping between five tasks, none finished, all marked urgent in the same inbox.",
+      "signals": [
+        {
+          "l": "All-caps subject lines",
+          "t": "Multiple emails arrive marked URGENT in the subject with no explanation of what makes them urgent.",
+          "icon": "📢"
+        },
+        {
+          "l": "No order given",
+          "t": "A manager sends several tasks at once with nothing to indicate which one to do first.",
+          "icon": "🃏"
+        },
+        {
+          "l": "Meeting with no agenda",
+          "t": "Someone called a meeting right now with no stated purpose or question to answer.",
+          "icon": "📅"
+        },
+        {
+          "l": "Three switches by noon",
+          "t": "You have changed what you are working on at least three times in the first two hours.",
+          "icon": "🔀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List and number every urgent task",
+          "desc": "Write each one on paper and number them. Now you have a visible list your manager needs to respond to."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the one that matters most",
+          "desc": "'If I can only finish one of these today, which one?' This forces a real answer instead of more vague urgency."
+        },
+        {
+          "n": "3",
+          "title": "Count your task switches for one day",
+          "desc": "Write down every time you change tasks. Show the count to your manager at the end of the week. Numbers make the pattern visible."
+        }
+      ],
+      "script": "\"Which one of these would you want done first if I could only do one today?\"",
+      "counter": "Your manager pushes back when you force prioritization. That reaction is data.\n• They want to keep all tasks at equal priority — that is their planning gap, not yours.\n• Resistance means they haven't decided what actually matters.\n• Now you know: the urgency was anxiety, not a real deadline.",
+      "insight": "The person who marks everything urgent is usually covering for not having decided what matters — and you pay the cost in interrupted work and nothing finished."
+    },
+    {
+      "id": 8,
+      "cat": "workplace",
+      "danger": "low",
+      "title": "Their Late-Night Panic Is Not Your Emergency",
+      "hook": "Someone else's panic landed in your inbox. <strong>That doesn't make it your emergency.</strong>",
+      "truth": "Urgency travels by email. The original deadline is almost never yours.\n• Most urgent emails are urgent to the sender because they didn't plan ahead.\n• Responding fast teaches them that panicking at you works.\n• One slow, calm reply resets the pattern more than a dozen fast ones.",
+      "principle": "Status Asymmetry",
+      "remember": "Responding fast to every panic trains people to panic at you more.",
+      "theySee": "A coworker hitting send on a frantic late-night message, expecting an answer before they go to sleep.",
+      "signals": [
+        {
+          "l": "After-hours send",
+          "t": "The message arrives outside work hours and asks for an answer right now.",
+          "icon": "🌙"
+        },
+        {
+          "l": "No time named",
+          "t": "'As soon as possible' with no specific time given — which means they get to decide when you are late.",
+          "icon": "🕐"
+        },
+        {
+          "l": "Same person again",
+          "t": "This person marks emails urgent regularly, not just once in a rare situation.",
+          "icon": "🔁"
+        },
+        {
+          "l": "They started late",
+          "t": "The urgency traces back to something they could have started days earlier and didn't.",
+          "icon": "⏰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait before responding",
+          "desc": "Set a specific window — 2 hours, or next morning. Do not respond in 10 minutes. Reply in your own time."
+        },
+        {
+          "n": "2",
+          "title": "Answer the email, not the tone",
+          "desc": "Reply with facts and a timeframe. Do not copy their panic in your reply. Keep your message shorter than theirs."
+        },
+        {
+          "n": "3",
+          "title": "Name the pattern if it repeats",
+          "desc": "If this happens more than twice a month from the same person, bring it up in your next meeting with your manager and name it specifically."
+        }
+      ],
+      "script": "\"I'll have this for you by [specific time]. Let me know if something harder is blocking you.\"",
+      "counter": "Someone treats your urgent email as non-urgent. Take the feedback.\n• They are telling you their time is not yours to commandeer.\n• Adjust your lead time on future asks.\n• Fast turnaround is earned by prior planning, not by panicking at people.",
+      "insight": "The people who respond fastest to every panic become the people who get panicked at most — it is an invisible tax on being reliable."
+    },
+    {
+      "id": 9,
+      "cat": "recognition",
+      "danger": "low",
+      "title": "Know Your Own Priorities Before Someone Else Sets Them",
+      "hook": "If you don't know what matters to you today, someone else will decide — and they'll make it urgent. <strong>Your empty schedule is their invitation.</strong>",
+      "truth": "Fake urgency only lands on people who don't have their own list.\n• Without your own priority list, every incoming request looks equally valid.\n• A person with a clear plan spots fake urgency fast because the request doesn't fit the plan.\n• A person without a plan spends the day working on other people's priorities.",
+      "principle": "Greene: Law 7 — Get Others to Do the Work",
+      "remember": "Your own list for the day is the only thing that stops other people's urgency from winning.",
+      "theySee": "A person who looks around for direction the moment they sit down — no list, no plan, open to whatever arrives first.",
+      "signals": [
+        {
+          "l": "No list written",
+          "t": "You start the day without a written set of what you plan to finish today.",
+          "icon": "📝"
+        },
+        {
+          "l": "First email wins",
+          "t": "Whatever you opened first this morning is what you are currently working on.",
+          "icon": "📬"
+        },
+        {
+          "l": "Others run your day",
+          "t": "By noon, you haven't done a single thing you intended to do at the start of the day.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Always catching up",
+          "t": "You feel like you are behind before the day is half over, every day.",
+          "icon": "🏃"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three things before opening email",
+          "desc": "Do it before your inbox is open. They don't have to be large. They have to be yours, not anyone else's."
+        },
+        {
+          "n": "2",
+          "title": "Block the first hour in your calendar",
+          "desc": "Label it. No meetings, no messages. Use it for your three things only."
+        },
+        {
+          "n": "3",
+          "title": "Check at noon: did you finish yours?",
+          "desc": "If not, something fake-urgent got through. Name it specifically — what was it, and who sent it?"
+        }
+      ],
+      "script": "\"I'm working through something until [time]. I'll get to yours right after.\"",
+      "counter": "Someone reaches out first thing in the morning with something that sounds pressing.\n• They timed it for before you have settled in — that is not coincidence.\n• The request benefits them, not you.\n• You don't have to answer before you finish the thing you came in to do.",
+      "insight": "The harder part is that many people piling urgency on you aren't doing it on purpose — but the result is the same either way, and your list is the only counter."
+    },
+    {
+      "id": 10,
+      "cat": "defense",
+      "danger": "low",
+      "title": "Pause Before You Click, Call, or Send",
+      "hook": "Every fraud and every bad decision has one thing in common: speed. <strong>Slow is the move.</strong>",
+      "truth": "One pause is worth more than ten security warnings.\n• Panic moves you to action before you evaluate. A pause reverses that order.\n• 60 seconds of doing nothing is enough to change the result in most cases.\n• The person pushing you to act fast gets weaker every second you don't.",
+      "principle": "System 2 Thinking (Kahneman)",
+      "remember": "One minute of doing nothing beats every security app installed on your phone.",
+      "theySee": "A person who stops, puts down their phone, and sits still for 60 seconds before responding to an urgent message.",
+      "signals": [
+        {
+          "l": "Pull to act now",
+          "t": "You feel the urge to click or call before you have thought through what you are agreeing to.",
+          "icon": "🧲"
+        },
+        {
+          "l": "They fill the silence",
+          "t": "The moment you go quiet, more messages arrive to fill the gap before you have decided anything.",
+          "icon": "💬"
+        },
+        {
+          "l": "More messages arrive",
+          "t": "The urgency gets louder and more frequent when you do not respond immediately.",
+          "icon": "📲"
+        },
+        {
+          "l": "Shame for pausing",
+          "t": "They suggest you are being slow, suspicious, or unhelpful just by taking time to think.",
+          "icon": "😤"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set a 60-second timer",
+          "desc": "Physical timer or your phone. Do not touch the message until it goes off. Do nothing."
+        },
+        {
+          "n": "2",
+          "title": "Write the ask in one sentence",
+          "desc": "'They want me to [do X] by [time].' If you can't write it clearly, you don't understand the ask yet."
+        },
+        {
+          "n": "3",
+          "title": "Ask one verification question",
+          "desc": "Pick the single most important thing to confirm before you act. One question. Ask it before anything else."
+        }
+      ],
+      "script": "\"Let me make sure I understand what you need. Give me a moment.\"",
+      "counter": "Someone pauses on your real urgent request. Check yourself.\n• Your reaction to being slowed down tells you whether your urgency was real.\n• If you get angry at the pause, the urgency might be yours, not the situation's.\n• A legitimate request survives 60 seconds of verification.",
+      "insight": "The pause isn't only defense — the 60 seconds usually shows you three things you missed in the first read, and that is where the actual problem starts."
+    },
+    {
+      "id": 11,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Use the Number on Your Card, Not the Number in the Message",
+      "hook": "The message looks real. The link looks real. The logo looks real. <strong>None of that makes it real.</strong>",
+      "truth": "Fakes are built to pass a quick look. They fail a direct check.\n• The real number to call is on your physical card or paper statement — not in any message.\n• Going to the real website in a new browser tab shows you whether the alert even exists.\n• Anyone legitimate will wait 10 minutes for you to verify. Fraudsters won't.",
+      "principle": "First-Principles Verification",
+      "remember": "Use the number on your card. Never the number in the message.",
+      "theySee": "A person who closes the suspicious message, opens a new browser tab, and types the real institution's address from memory.",
+      "signals": [
+        {
+          "l": "Link to log in",
+          "t": "Any message asking you to click a link and log in is suspect, regardless of how it looks.",
+          "icon": "🔗"
+        },
+        {
+          "l": "New number",
+          "t": "The sender's phone number doesn't match any contact you have saved or used before.",
+          "icon": "📵"
+        },
+        {
+          "l": "Urgency plus link",
+          "t": "Both a time pressure and a click-here link appear in the same message.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Logo fine, address wrong",
+          "t": "The email looks fully branded but the sender's address is a random string of letters.",
+          "icon": "🎭"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the real contact independently",
+          "desc": "Look it up in your physical documents, a saved contact, or a known website. Not from anything inside the suspicious message."
+        },
+        {
+          "n": "2",
+          "title": "Call or log in on your own path",
+          "desc": "Don't use anything inside the message — no links, no numbers, no QR codes. Go around it entirely."
+        },
+        {
+          "n": "3",
+          "title": "Ask the institution directly",
+          "desc": "'Did you send me a message today?' They answer in under a minute. A yes or no is all you need."
+        }
+      ],
+      "script": "\"I'm going to hang up and call the number on my card to confirm.\"",
+      "counter": "Someone tries to stop you from verifying independently. That reaction is the tell.\n• Any pressure to stay on the line instead of calling another number.\n• Any claim that going to the real site will be too slow or won't work.\n• Urgency that gets louder the moment you try to verify.",
+      "insight": "The tell isn't the message — it's whether they can afford to wait 10 minutes for you to check. Real institutions can. Fraudsters can't."
+    },
+    {
+      "id": 12,
+      "cat": "aftermath",
+      "danger": "moderate",
+      "title": "You Already Moved Fast — Here Is What You Do Now",
+      "hook": "You clicked. You sent. You shared. <strong>Speed of recovery matters more now than shame about moving fast.</strong>",
+      "truth": "Most damage from fake urgency is reversible — but only if you move fast in the other direction.\n• The window to stop a fraud is minutes to hours, not days.\n• Shame about moving too fast costs you more time than reporting does.\n• Every minute frozen in embarrassment is a minute the fraudster uses.",
+      "principle": "Incident Response",
+      "remember": "Stop the bleeding first. Feel bad about it later.",
+      "theySee": "A person sitting frozen at their screen, too embarrassed to call their bank and say they fell for something.",
+      "signals": [
+        {
+          "l": "Post-send dread",
+          "t": "You sent or clicked and immediately felt something was wrong before anything confirmed it.",
+          "icon": "😨"
+        },
+        {
+          "l": "No real confirmation",
+          "t": "The page you landed on after clicking didn't show a proper confirmation screen.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Sender went quiet",
+          "t": "The person who was so urgent went completely silent the moment you acted.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Another ask arrived",
+          "t": "They are back with a second request on the same thread right after you completed the first.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Call your bank right now",
+          "desc": "Use the number on your card. Tell them exactly what happened. They have a fraud team that handles this call every day."
+        },
+        {
+          "n": "2",
+          "title": "Change passwords on affected accounts",
+          "desc": "Do it from a different device if possible. Do it in the next 10 minutes, not later today."
+        },
+        {
+          "n": "3",
+          "title": "Tell someone who can help",
+          "desc": "A family member, a colleague, your IT department — whoever applies. Say it out loud. No shame required to ask for help."
+        }
+      ],
+      "script": "\"I think I fell for something. I need to report it right now.\"",
+      "counter": "Someone uses your first mistake to push a second ask — 'You already did it once, this is the same thing.' That is the follow-up con.\n• The first mistake doesn't obligate you to the second one.\n• Real follow-ups don't reference the first transaction as proof of your obligation.\n• Stop now. Report both asks.",
+      "insight": "The real cost isn't what you lost in the first move — it's whether you freeze afterward and let the follow-up con land on someone who is already embarrassed and off balance."
+    }
+  ]
+}
