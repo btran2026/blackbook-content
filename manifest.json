@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 66,
+  "manifestVersion": 67,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -520,7 +520,20 @@
       "url": "playbooks/playbook-srv-working-the-panel-that-decides-your-offer.json",
       "addedAt": "2026-09-10T00:08:32.788Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-reading-posture-and-the-feet",
+      "title": "Reading Posture and the Feet",
+      "theme": "body language",
+      "topic": "Reading posture and the feet for true intent",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A237E",
+      "coverIcon": "👁️",
+      "url": "playbooks/playbook-srv-reading-posture-and-the-feet.json",
+      "addedAt": "2026-09-11T17:30:16.512Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-10T00:08:32.788Z"
+  "generatedAt": "2026-09-11T17:30:16.512Z"
 }
