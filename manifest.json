@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 66,
+  "manifestVersion": 67,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -520,7 +520,20 @@
       "url": "playbooks/playbook-srv-working-the-panel-that-decides-your-offer.json",
       "addedAt": "2026-09-10T00:08:32.788Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-energy-vampire-field-manual",
+      "title": "Energy Vampire Field Manual",
+      "theme": "psychology",
+      "topic": "Handling an energy vampire without a blowup",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🧛",
+      "url": "playbooks/playbook-srv-energy-vampire-field-manual.json",
+      "addedAt": "2026-09-12T16:45:25.929Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-10T00:08:32.788Z"
+  "generatedAt": "2026-09-12T16:45:25.929Z"
 }

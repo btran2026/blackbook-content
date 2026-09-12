@@ -1,0 +1,706 @@
+{
+  "meta": {
+    "id": "srv-energy-vampire-field-manual",
+    "version": "1.0",
+    "title": "Energy Vampire Field Manual",
+    "subtitle": "12 moves for handling draining people without a blowup",
+    "description": "A closed-file dossier on spotting, managing, and reducing exposure to people who drain your time and attention. No scenes, no speeches. Just moves that work.",
+    "author": "AI",
+    "createdAt": "2026-09-12T16:45:25.929Z",
+    "tags": [
+      "psychology",
+      "relationships",
+      "social defense",
+      "limits",
+      "gray rock",
+      "emotional drain",
+      "dark psychology"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🧛",
+    "fromServer": true,
+    "generation": {
+      "topic": "Handling an energy vampire without a blowup",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "identify",
+      "label": "Spot the Type",
+      "color": "#C0392B"
+    },
+    {
+      "key": "gray-rock",
+      "label": "Go Flat",
+      "color": "#7F8C8D"
+    },
+    {
+      "key": "limit",
+      "label": "Hold the Line",
+      "color": "#2C3E50"
+    },
+    {
+      "key": "shield",
+      "label": "Guard Your Energy",
+      "color": "#1A5276"
+    },
+    {
+      "key": "counter",
+      "label": "What to Say",
+      "color": "#884EA0"
+    },
+    {
+      "key": "recover",
+      "label": "Reset and Reload",
+      "color": "#1E8449"
+    },
+    {
+      "key": "exit",
+      "label": "Reduce Exposure",
+      "color": "#935116"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "identify",
+      "danger": "low",
+      "title": "Spot the Drain Before It Hits You",
+      "hook": "You don't get tired from the meeting. <strong>You get tired from the person.</strong> Most people figure that out six months too late.",
+      "truth": "Emotional contagion means you absorb their mood before you realize it's happening.\n• They drain you through mood, not topics — easy talks with them cost more than hard talks with others.\n• After every conversation, you feel worse. They feel better. Every time.\n• Most people blame the day, not the person — and keep booking more time with them.",
+      "principle": "Emotional Contagion (Hatfield & Cacioppo)",
+      "remember": "You feel tired after every talk with them. That is the pattern.",
+      "theySee": "A person sitting quietly and listening while they explain the same problem again.",
+      "signals": [
+        {
+          "l": "Same complaint back",
+          "t": "They bring up the same frustration you heard from them last week.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Yes-but every time",
+          "t": "Every solution you offer gets a 'yes, but' and the problem stays unsolved.",
+          "icon": "🚫"
+        },
+        {
+          "l": "They leave lighter",
+          "t": "They walk away noticeably relaxed while you feel heavy after every single talk.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "You feel heavy",
+          "t": "You feel worse leaving the conversation than you did arriving, every time without exception.",
+          "icon": "😮‍💨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Track your energy after every talk",
+          "desc": "This week, rate your energy 1–10 right after every conversation with them. Write the number down each time."
+        },
+        {
+          "n": "2",
+          "title": "Check the direction",
+          "desc": "Note who left the conversation lighter: you or them. Do this for five conversations in a row and look at the pattern."
+        },
+        {
+          "n": "3",
+          "title": "Name the type in one word",
+          "desc": "Write one word for what they do most — complainer, nagger, drama-maker. Use that word to decide your approach before every contact."
+        }
+      ],
+      "script": "\"I've got to wrap up — let's pick this up another time.\"",
+      "counter": "If someone notices you're managing them and calls it out, you've been visible.\n• If they say 'you seem different lately,' go flat: 'I'm fine, just busy.'\n• Do not explain your strategy. Explanation gives them a new angle to work.\n• Go back to gray rock immediately and hold it.",
+      "insight": "Knowing they drain you is the easy part. The harder question is why you kept showing up on empty for so long."
+    },
+    {
+      "id": 2,
+      "cat": "identify",
+      "danger": "low",
+      "title": "The Four Tells That Confirm You Have One",
+      "hook": "<strong>They don't announce what they are.</strong> They just keep showing up. Here are four things to watch for in the first five minutes.",
+      "truth": "Four patterns in the first five minutes tell you what you're dealing with.\n• Frequent complaints with no solutions wanted — they need an audience, not answers.\n• Guilt shifts like 'I guess I'll just handle this alone' — designed to make you jump in.\n• Limit-testing: they push small stated limits to see how far you'll go before you stop them.",
+      "principle": "Orloff: Energy Vampire Typology",
+      "remember": "Four tells show up fast in the first five minutes. Watch for them.",
+      "theySee": "A person who listens, nods, and offers an answer — and then watches to see if it gets rejected.",
+      "signals": [
+        {
+          "l": "Guilt line dropped",
+          "t": "They say 'I guess I'll just deal with this alone' and go quiet, waiting for you to jump in.",
+          "icon": "😢"
+        },
+        {
+          "l": "Crisis every call",
+          "t": "Every conversation opens with an emergency that needs your help right now.",
+          "icon": "🚨"
+        },
+        {
+          "l": "Answer rejected",
+          "t": "You give a solid answer. They ignore it and keep talking about the problem.",
+          "icon": "🙅"
+        },
+        {
+          "l": "Time limit broken",
+          "t": "You said you had ten minutes. They're still talking at twenty.",
+          "icon": "⏱️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Run the five-minute check",
+          "desc": "In the first five minutes of any talk this week, count how many of the four tells appear. Stop counting when you hit two."
+        },
+        {
+          "n": "2",
+          "title": "Log the guilt attempts",
+          "desc": "Write one tally mark every time they use a guilt shift in a single conversation. Do this for one full week."
+        },
+        {
+          "n": "3",
+          "title": "Track the time overrun",
+          "desc": "Record whether they stop when your stated end time hits. Write the exact number of minutes they ran over."
+        }
+      ],
+      "script": "\"I only have a few minutes right now. What's the one thing you need?\"",
+      "counter": "If the four tells are showing up in your own behavior, you may be the draining one.\n• Check whether others keep conversations with you short or avoid scheduling time alone with you.\n• Ask one person you trust: 'Do I make conversations about my problems too often?'\n• If the answer is yes, this entire dossier applies in reverse — read it from that side.",
+      "insight": "The guilt-shift is the fastest tell to spot. The harder question is why it still works on you after you've seen it a dozen times."
+    },
+    {
+      "id": 3,
+      "cat": "gray-rock",
+      "danger": "low",
+      "title": "Go Flat: Give Them Nothing to Feed On",
+      "hook": "The less interesting you are to them, the less time they spend on you. <strong>Go flat. Go boring. Stop giving reactions.</strong>",
+      "truth": "Energy vampires feed on your emotional reactions — drama, visible care, frustration they can see.\n• Short, dull, factual answers remove the food source. No opinions, no feelings, no hooks to grab.\n• They push harder when the reaction disappears — that escalation is the test. Push through it.\n• After the test fails, they move toward someone who reacts. You become too much work.",
+      "principle": "Gray Rock Method (Tina Swithin)",
+      "remember": "Flat answers starve the cycle. Stop reacting and they move to someone who does.",
+      "theySee": "A person who gives one-word answers, looks mildly bored, and never seems upset by anything.",
+      "signals": [
+        {
+          "l": "They repeat louder",
+          "t": "They say the same thing again with more emotion, trying to pull a bigger reaction out of you.",
+          "icon": "📢"
+        },
+        {
+          "l": "They ask about you",
+          "t": "They ask personal questions about your life to pull you in as a participant, not just a listener.",
+          "icon": "❓"
+        },
+        {
+          "l": "They pause and stare",
+          "t": "They go quiet and look at you, waiting for you to fill the silence with something personal.",
+          "icon": "👀"
+        },
+        {
+          "l": "Opinion asked for",
+          "t": "They ask 'what do you think?' to get you emotionally invested in their situation.",
+          "icon": "💭"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three gray-rock answers right now",
+          "desc": "Before you see them next, write three neutral sentences for topics they always bring up. Examples: 'Yeah, sounds tough.' / 'Not sure.' / 'Could be.' Memorize each one."
+        },
+        {
+          "n": "2",
+          "title": "Cut your answer length in half",
+          "desc": "Whatever you would normally say, say half of it. Then stop talking completely."
+        },
+        {
+          "n": "3",
+          "title": "Let the silence sit",
+          "desc": "When they pause and look at you waiting for a reaction, count three seconds silently. Say nothing. Let them fill the gap first."
+        }
+      ],
+      "script": "\"Yeah, things are fine on my end.\"",
+      "counter": "If someone goes flat on you and you can't get a real response, you're being gray-rocked.\n• Flat answers with no emotion mean they've decided to disengage from you specifically.\n• Pushing harder for a reaction only confirms their read. Stop immediately.\n• If you have real business with this person, keep it to two sentences and one clear ask — nothing more.",
+      "insight": "Gray rock works until they escalate hard to force a reaction. The move after this card is the hard limit — or the slow fade at the end of this dossier."
+    },
+    {
+      "id": 4,
+      "cat": "limit",
+      "danger": "moderate",
+      "title": "Never Over-Explain Your No",
+      "hook": "<strong>Every extra word you give them is a door they can walk back through.</strong> A short no closes faster than a long one.",
+      "truth": "Over-explaining invites negotiation. Energy vampires treat your reasons as arguments to defeat.\n• Each justification you add is a new angle for them to push back on or work around.\n• They don't want your logic — they want your time and attention, and they'll dig for it.\n• One sentence ends the loop. A paragraph keeps it open for as long as they're willing to push.",
+      "principle": "Loss Aversion (Kahneman & Tversky)",
+      "remember": "More words means more chances for them to argue back. Say less.",
+      "theySee": "A person who says one short sentence, then goes quiet and doesn't look like they want to discuss it.",
+      "signals": [
+        {
+          "l": "They counter your reason",
+          "t": "They respond to your excuse with a fix for it: 'but you could do it right after your meeting.'",
+          "icon": "🔄"
+        },
+        {
+          "l": "They ask again",
+          "t": "They rephrase the same request and ask again two minutes after you said no.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Heavy sigh after no",
+          "t": "They go quiet or sigh heavily the moment you decline, waiting for you to soften.",
+          "icon": "😮‍💨"
+        },
+        {
+          "l": "They name others",
+          "t": "They bring in a third person: 'even Marcus thought you could help with this.'",
+          "icon": "👥"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your one-line no right now",
+          "desc": "Write one sentence for the next time they ask for your time or help. No 'because' anywhere in it. Example: 'That doesn't work for me.'"
+        },
+        {
+          "n": "2",
+          "title": "Say it once, then stop talking",
+          "desc": "Deliver the line. Close your mouth. Count five seconds. Let them respond first. Do not add a single word."
+        },
+        {
+          "n": "3",
+          "title": "Repeat it word for word if they push",
+          "desc": "If they push back, say the exact same sentence again. Same words. Same tone. No additions, no apology."
+        }
+      ],
+      "script": "\"That doesn't work for me.\"",
+      "counter": "If someone uses a flat one-line no on you and won't give reasons, they've decided.\n• A short no with no reason is a firm no. Asking for their reasons is pushing past a stated limit.\n• Offering to fix their reason is an escalation move — they see it and it hardens the no further.\n• Move on to your next ask or drop the topic entirely. Persistence here costs you credibility.",
+      "insight": "The one-sentence no works until they escalate to guilt or bring in a third party. That move gets its own card later in this file."
+    },
+    {
+      "id": 5,
+      "cat": "limit",
+      "danger": "low",
+      "title": "Name Your End Time Before the Talk Starts",
+      "hook": "<strong>Tell them how long you have before the conversation begins.</strong> An open-ended conversation has no end.",
+      "truth": "Without a stated end time, the conversation runs until they're satisfied — not until you are.\n• Stating the limit at the start makes leaving clean. No excuse needed when you stand up.\n• They can't claim surprise when you go if you told them the time upfront and they agreed.\n• The limit has to be real. Name the specific thing you're doing right after.",
+      "principle": "Parkinson's Law",
+      "remember": "Name your end time before the talk starts, not in the middle of it.",
+      "theySee": "A person who checks their watch and says 'I've got fifteen minutes' before sitting down.",
+      "signals": [
+        {
+          "l": "Keeps adding topics",
+          "t": "They say 'just one more thing' for the third time past your stated end time.",
+          "icon": "➕"
+        },
+        {
+          "l": "They block your leaving",
+          "t": "When you start to stand up, they say 'wait, I just need to tell you one more thing.'",
+          "icon": "🚪"
+        },
+        {
+          "l": "You're sitting down",
+          "t": "You sat down somewhere you can't leave easily — their office, their couch, a corner booth.",
+          "icon": "🪑"
+        },
+        {
+          "l": "No time was named",
+          "t": "You started the conversation without stating how long you had, and now there's no clean way to leave.",
+          "icon": "⏰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State the hard stop before you sit",
+          "desc": "The first sentence out of your mouth: 'I have [X] minutes before I need to leave for [real thing].' Say it out loud before anything else."
+        },
+        {
+          "n": "2",
+          "title": "Stay standing for brief contacts",
+          "desc": "For short or obligatory interactions, don't sit down. Standing signals you're about to move — it shortens the talk on its own."
+        },
+        {
+          "n": "3",
+          "title": "Leave at the stated time with no apology",
+          "desc": "When your time hits, stand up and say 'I've got to go.' No 'sorry.' No 'just a few more minutes.' Walk."
+        }
+      ],
+      "script": "\"I've got twelve minutes before my next call — what do you need?\"",
+      "counter": "If someone gives you a hard stop upfront, use the time well.\n• Get to your actual point in the first two minutes. Don't warm up.\n• Don't add 'just one more thing' at the end — that's the exact drain move they're protecting against.\n• If the stop feels abrupt every single time you talk, they're managing their time with you deliberately. Read that.",
+      "insight": "A stated end time protects you from the open-ended conversation. The harder problem is what to do when they follow you out the door anyway."
+    },
+    {
+      "id": 6,
+      "cat": "shield",
+      "danger": "low",
+      "title": "Use a Group as Your Buffer",
+      "hook": "<strong>One-on-one gives them full access to you.</strong> A group splits their focus and gives you natural chances to move away. Use it.",
+      "truth": "In a group, their demands get spread across more people — the hit you take is smaller.\n• They can't hold the floor without others noticing and stepping in on their own.\n• You get natural chances to move away: someone else talks, you step over, the moment passes.\n• They will try to pull you out of the group for private talk. Greet that with a hard stop.",
+      "principle": "Diffusion of Responsibility (Darley & Latané)",
+      "remember": "Groups split the drain. Never meet alone with them if you can put one more person in the room.",
+      "theySee": "A person talking easily with two or three others, greeting them briefly and then moving back into the group.",
+      "signals": [
+        {
+          "l": "They pull you aside",
+          "t": "They steer you away from the group: 'can I grab you for a second?'",
+          "icon": "👋"
+        },
+        {
+          "l": "Corner maneuver",
+          "t": "They position themselves so your back is to the wall and away from other people.",
+          "icon": "🧱"
+        },
+        {
+          "l": "All talk aimed at you",
+          "t": "In a group, they direct every sentence at you specifically and ignore everyone else in the room.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Post-event text",
+          "t": "Right after a group event ends, they text you to continue the conversation privately.",
+          "icon": "📱"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Add one person to every obligatory contact",
+          "desc": "For any required meeting or call with them this week, add at least one other person to the setting before it starts."
+        },
+        {
+          "n": "2",
+          "title": "Stay in the group when they pull",
+          "desc": "When they try to separate you from the group, keep moving toward others. 'Let's catch up in the meeting' is a complete sentence."
+        },
+        {
+          "n": "3",
+          "title": "Plan your re-entry before the event",
+          "desc": "Before any group event, pick two people you'll move toward if they pull you aside. Have a reason to walk over to each of them ready before you arrive."
+        }
+      ],
+      "script": "\"Let's catch up with the others — walk with me.\"",
+      "counter": "If someone keeps routing you into group settings instead of talking directly, they're protecting their time and attention from you specifically.\n• A pattern of group-only contact is a soft limit. Respect it.\n• Don't create a one-on-one situation to force a real conversation.\n• If you need something specific, ask for a short slot with a clear topic stated upfront — not an open-ended talk.",
+      "insight": "Groups work as a buffer until they get your number and text you directly. The next move is gray rock deployed in private."
+    },
+    {
+      "id": 7,
+      "cat": "shield",
+      "danger": "moderate",
+      "title": "Only Deal With Them When You're Running Full",
+      "hook": "<strong>Tired people fold.</strong> Engaging an energy vampire when you're already low costs you double what it should.",
+      "truth": "Your ability to hold firm on your limits drops as you get worn down — they get the tired version of you.\n• When you're low, you say yes to things you'd shut down fast on a good morning.\n• They may time their biggest asks for right after your hardest moments — learned behavior.\n• Protect your best hours. Hard talks get your peak window, not your worst one.",
+      "principle": "Ego Depletion (Baumeister & Tierney)",
+      "remember": "Deal with them when you're strong, never when you're already running on nothing.",
+      "theySee": "A person who says 'I can't talk right now' calmly and names a specific time for the next morning.",
+      "signals": [
+        {
+          "l": "End-of-day call",
+          "t": "They call or show up right before dinner, when your patience is lowest.",
+          "icon": "🌆"
+        },
+        {
+          "l": "Post-crisis ask",
+          "t": "They bring a big request right after you've just handled something difficult.",
+          "icon": "💥"
+        },
+        {
+          "l": "Back-to-back ask",
+          "t": "They catch you immediately after a long meeting with no break between.",
+          "icon": "📅"
+        },
+        {
+          "l": "You're already tired",
+          "t": "You haven't slept well, haven't eaten, or are physically worn down before the talk even starts.",
+          "icon": "😴"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Block one morning slot for hard contacts",
+          "desc": "Look at this week's calendar right now. Block one 20-minute slot on a high-energy morning for any must-have contact with them."
+        },
+        {
+          "n": "2",
+          "title": "Push any surprise contact to tomorrow",
+          "desc": "If they catch you at a bad moment, say 'I can't do this now — let's talk tomorrow at 9.' Name the exact time on the spot."
+        },
+        {
+          "n": "3",
+          "title": "Run a personal reset before every scheduled talk",
+          "desc": "Before any planned contact with them, take ten minutes alone — walk, sit in silence, or write down what you want from the conversation."
+        }
+      ],
+      "script": "\"I'm not in a good place to talk right now. Tomorrow morning works — I'll reach out.\"",
+      "counter": "If someone keeps delaying you with 'not now, tomorrow,' check whether this is a consistent pattern.\n• Repeated delays mean they're managing their time with you deliberately — not just being busy.\n• Don't take the delays as rejection. Take them as a preference for specific conditions.\n• If you have a real need, ask for a specific time slot with a clear topic — not an open-ended 'tomorrow.'",
+      "insight": "Protecting your best hours is straightforward once you decide to do it. The harder part is what to do when they deliberately time every big ask for your worst moments."
+    },
+    {
+      "id": 8,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Cut the Victim Loop With a Solution Redirect",
+      "hook": "<strong>They don't want your answer. They want your ear.</strong> Ask for one solution and watch the conversation change fast.",
+      "truth": "Victim/complainers keep going because you keep listening — not because they're stuck on a hard problem.\n• They say 'yes, but' to every fix because fixing the problem ends their access to your attention.\n• One redirect — 'what's one thing you could do today?' — separates the stuck from the truly unwilling.\n• Two 'yes-buts' in a row tells you which one you're dealing with. Act on that information.",
+      "principle": "Pattern Interrupt (Bandler & Grinder — NLP)",
+      "remember": "Ask for one solution. Two yes-buts in a row and you are done listening.",
+      "theySee": "A person who nods once, asks one short question, and then waits quietly without adding anything more.",
+      "signals": [
+        {
+          "l": "Yes-but three times",
+          "t": "They say 'yes, but' to your third different solution in a single conversation.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Same story back",
+          "t": "They bring up the same problem they told you about last week with nothing changed.",
+          "icon": "📖"
+        },
+        {
+          "l": "Advice ignored",
+          "t": "You gave solid advice last time. They're back with the identical story and no action taken.",
+          "icon": "🗑️"
+        },
+        {
+          "l": "Sympathy pause",
+          "t": "They stop mid-sentence and wait for you to say 'oh no, that's awful' before they'll continue.",
+          "icon": "😔"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Listen for thirty seconds then redirect",
+          "desc": "Give them thirty seconds of real attention. Then ask: 'What's one thing you could actually do about this today?' Say nothing else after that."
+        },
+        {
+          "n": "2",
+          "title": "Count the yes-buts silently",
+          "desc": "Two 'yes-buts' to two different solutions means the conversation is over. Start preparing your leaving line while they're still talking."
+        },
+        {
+          "n": "3",
+          "title": "Name it once and leave",
+          "desc": "Say: 'I want to help, but I think you need more than I can give here.' Then end the conversation. No further explanation."
+        }
+      ],
+      "script": "\"I hear you. What's one thing you can actually do about this today?\"",
+      "counter": "If someone redirects you to solutions while you're venting, check whether you've brought this same problem before.\n• A redirect is a signal: they've heard this, and you're not moving forward on it.\n• Two redirects in a row means they've decided you're not looking for help — you're looking for an audience.\n• Either take the solution seriously or stop bringing this problem to this person entirely.",
+      "insight": "The redirect works well once or twice. After that, you're managing a pattern that isn't going to change — and the question becomes how much more of your time you keep putting into it."
+    },
+    {
+      "id": 9,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Retrain the Nagger With One Calm Repeated Line",
+      "hook": "<strong>Naggers repeat because repeating has worked before.</strong> It worked because you eventually gave in. Stop giving in once and the whole cycle changes.",
+      "truth": "The nagger's cycle runs on your past responses — you caved eventually, so they know pushing works.\n• Inconsistency teaches them to push harder and longer. One caved yes undoes weeks of holding firm.\n• The same calm line delivered without frustration breaks the cycle faster than an argument does.\n• They'll get louder before they stop — that escalation is the cycle fighting to survive.",
+      "principle": "Operant Conditioning — Extinction (Skinner)",
+      "remember": "Same line, same tone, every single time. That is how the cycle breaks.",
+      "theySee": "A person who gives the same quiet answer every time they push, without getting upset or adding anything new.",
+      "signals": [
+        {
+          "l": "Same request again",
+          "t": "They ask the same thing they asked yesterday, almost word for word.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Volume goes up",
+          "t": "When you say no, their next ask is louder or carries more emotional weight.",
+          "icon": "📣"
+        },
+        {
+          "l": "You caved before",
+          "t": "You remember giving in after they pushed long enough. They remember it too.",
+          "icon": "🕰️"
+        },
+        {
+          "l": "Criticism added",
+          "t": "They attach a dig to the request: 'you never do this' or 'you always forget.'",
+          "icon": "🗡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your one line right now",
+          "desc": "Write the exact sentence you will say every time they nag. Example: 'I hear you. I'll get to it when I'm ready.' Memorize the exact words before the next interaction."
+        },
+        {
+          "n": "2",
+          "title": "Deliver it the same way every time",
+          "desc": "Same words, flat tone, same expression. No visible frustration, no negotiation offered. Repeat as many times as it takes."
+        },
+        {
+          "n": "3",
+          "title": "Hold the moment you want to cave",
+          "desc": "The instant you feel like giving in to stop the pressure, say the line one more time instead. One cave resets everything back to zero."
+        }
+      ],
+      "script": "\"I hear you. I'll get to it when I'm ready.\"",
+      "counter": "If someone uses the same flat line on every request you make, you're being managed deliberately.\n• Their consistency is intentional. Pushing harder only hardens their position.\n• Check whether you've been crossing their stated limits. If yes, stop.\n• If you have a real need, make it specific and time-bound: 'I need this by Thursday because of X.'",
+      "insight": "Consistent calm breaks the nagger cycle in days. The trap is the first moment you cave under pressure — that single yes resets the whole thing back to the beginning."
+    },
+    {
+      "id": 10,
+      "cat": "recover",
+      "danger": "low",
+      "title": "Run a Reset After Every Draining Contact",
+      "hook": "<strong>The mood from that conversation follows you into the next one.</strong> A deliberate reset stops the bleed before it hits someone who doesn't deserve it.",
+      "truth": "Without a reset, their emotional state stays on you and changes how you show up in the next room.\n• Your mental state does not automatically clear after a hard conversation — it carries straight over.\n• A deliberate break, even five minutes, stops the carry-over before it hits the next person or task.\n• Without it, you bring their residue into your next meeting, call, or conversation and spread the drain.",
+      "principle": "Zeigarnik Effect — open loops stay active until deliberately closed",
+      "remember": "After every draining talk, do one concrete thing to clear your head before the next.",
+      "theySee": "A person who steps outside alone for a few minutes right after the conversation, then comes back looking steady.",
+      "signals": [
+        {
+          "l": "Still replaying it",
+          "t": "Fifteen minutes after the talk, you're still going over what they said.",
+          "icon": "🌀"
+        },
+        {
+          "l": "Short with next person",
+          "t": "You snap or go flat with someone different right after talking to them.",
+          "icon": "😤"
+        },
+        {
+          "l": "Can't get started",
+          "t": "You sit down to work right after the talk and can't focus for ten minutes.",
+          "icon": "😶"
+        },
+        {
+          "l": "Mood carries forward",
+          "t": "Your next call starts with you already feeling negative before it has even begun.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your reset activity before you need it",
+          "desc": "Pick one right now: five-minute walk, two minutes of silence, or writing three sentences about what just happened. Pick it before the next contact happens."
+        },
+        {
+          "n": "2",
+          "title": "Run it immediately after every contact with them",
+          "desc": "Don't go straight to the next task. Do the reset first, every time, no exceptions. The habit has to be automatic to work."
+        },
+        {
+          "n": "3",
+          "title": "Rate your state before and after",
+          "desc": "Score your mood 1–10 before the reset and right after. Track it for one week. If the number doesn't move, change the reset activity."
+        }
+      ],
+      "script": "\"Give me five minutes before our next call — I'll be right with you.\"",
+      "counter": "If someone seems short, cold, or distracted right after talking to you, you may have drained them.\n• Check whether the conversation ran long or circled the same problem more than once.\n• Give them space. Don't push for another interaction right away.\n• If this happens repeatedly after your conversations with the same person, that pattern is the signal — act on it.",
+      "insight": "The reset is easy to run once you commit to it. The harder question is whether you can stay far enough out of their orbit for the reset to actually do its job."
+    },
+    {
+      "id": 11,
+      "cat": "recover",
+      "danger": "low",
+      "title": "Fill Back Up Between Contacts",
+      "hook": "<strong>You can't hold firm limits on empty.</strong> Recovering on purpose is part of the strategy, not a nice bonus.",
+      "truth": "Deliberate recovery between contacts keeps your ability to hold the line sharp enough to use.\n• Activities that restore you — alone time, physical activity, quiet hobbies — rebuild what they take.\n• Without deliberate recovery, you get a little weaker in every interaction over time.\n• The goal isn't to feel good. It's to walk into the next contact strong enough to hold your position.",
+      "principle": "Stress-Recovery Cycle (Selye: General Adaptation Syndrome)",
+      "remember": "What you do between contacts decides how strong you are in the next one.",
+      "theySee": "A person who shows up to every interaction looking calm and sharp, no matter how hard the last one was.",
+      "signals": [
+        {
+          "l": "Back-to-back contacts",
+          "t": "You're scheduled to talk to them again before you've recovered from the last time.",
+          "icon": "📅"
+        },
+        {
+          "l": "No alone time booked",
+          "t": "You have no alone time on the calendar before your next interaction with them this week.",
+          "icon": "🗓️"
+        },
+        {
+          "l": "You dread it already",
+          "t": "You feel dread about the upcoming talk before it has even started.",
+          "icon": "😰"
+        },
+        {
+          "l": "Patience running short",
+          "t": "You notice yourself getting irritated faster in their presence than you used to.",
+          "icon": "😠"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Put recovery on the calendar now",
+          "desc": "Block 20 minutes of alone time before any scheduled interaction with them this week. Label it whatever you want — just protect the block."
+        },
+        {
+          "n": "2",
+          "title": "Name one activity that actually restores you",
+          "desc": "Write down one thing that leaves you feeling sharper, not just distracted. Use it deliberately before the next contact — not randomly when you happen to remember it."
+        },
+        {
+          "n": "3",
+          "title": "Add one day of gap between contacts",
+          "desc": "Push your next scheduled interaction one day further out. If they push for sooner, use the delay line from the previous card."
+        }
+      ],
+      "script": "\"I'm not available until Thursday. I'll reach out then.\"",
+      "counter": "If someone keeps delaying contact with recovery-style excuses, they're actively managing the distance between you.\n• Frequent delays with no follow-through mean the gap is growing deliberately.\n• Don't fill every gap they leave with another ask. Wait for them to initiate.\n• If the gap keeps widening and they never reach out, that is the answer — not a schedule problem.",
+      "insight": "Recovery between contacts is maintenance. The real move is reducing how often you need to run it — which means cutting contact, not just managing the aftermath."
+    },
+    {
+      "id": 12,
+      "cat": "exit",
+      "danger": "high",
+      "title": "Reduce Exposure Slowly — No Blowup Required",
+      "hook": "<strong>A sudden cutoff creates a scene.</strong> A slow pull-back is invisible and clean. Done right, they drift toward someone who reacts — and leave you alone.",
+      "truth": "A hard, sudden cutoff triggers their worst moves — guilt, drama, direct confrontation.\n• Slow it down: less frequent contact, shorter replies, less visible care with each interaction.\n• They will test the fade with a bigger crisis or a guilt line. Hold steady through it.\n• Done right, they find someone who gives them more — and the problem solves itself.",
+      "principle": "Fading (Applied Behavior Analysis — Gradual Extinction)",
+      "remember": "Slow down contact bit by bit. They move on before they notice what happened.",
+      "theySee": "A person who is always around but gradually a little less available each week, with no drama and no explanation.",
+      "signals": [
+        {
+          "l": "More contact after less",
+          "t": "When you pull back, they send more messages or show up more often to make up for it.",
+          "icon": "📲"
+        },
+        {
+          "l": "Guilt spike",
+          "t": "They say 'I feel like you've been avoiding me' and wait for you to deny it.",
+          "icon": "😢"
+        },
+        {
+          "l": "New crisis injected",
+          "t": "Right as you start to pull back, a new urgent problem appears that requires your immediate attention.",
+          "icon": "🚨"
+        },
+        {
+          "l": "Third-party report",
+          "t": "A mutual contact tells you they mentioned you've been distant or different lately.",
+          "icon": "🗣️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Add one day of delay to your responses this week",
+          "desc": "If you normally reply same day, wait until the next morning. Do this every time for one full week. Don't announce it."
+        },
+        {
+          "n": "2",
+          "title": "Cut every reply length in half",
+          "desc": "Whatever you'd normally write or say, write half of it. Less detail, fewer words, no emotional hooks anywhere in it."
+        },
+        {
+          "n": "3",
+          "title": "Hold your ground through the guilt spike",
+          "desc": "When they escalate or drop a guilt line, go gray rock. Do not explain the distance. Do not apologize. Do not close the gap. Hold."
+        }
+      ],
+      "script": "\"I've been pretty heads-down lately — things are fine.\"",
+      "counter": "If someone is fading on you with shorter replies and growing delays, pushing harder speeds the fade.\n• Don't inject a crisis or guilt move to pull them back — it confirms exactly what they suspected.\n• If you need real clarity, ask directly: 'Are we good?' and accept whatever answer you get without pushing further.\n• If the gap keeps widening after that, you have your answer. Act on it.",
+      "insight": "The slow fade works cleanly if they aren't deeply attached. If they are, the fade triggers the exact blowup you were trying to avoid — and you need a harder plan for that."
+    }
+  ]
+}
