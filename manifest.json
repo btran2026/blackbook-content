@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 68,
+  "manifestVersion": 69,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -546,7 +546,20 @@
       "url": "playbooks/playbook-srv-controlling-what-your-old-boss-says-about-you.json",
       "addedAt": "2026-09-13T21:28:17.486Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-when-your-rival-offers-you-a-truce",
+      "title": "When Your Rival Offers You a Truce",
+      "theme": "rivalry",
+      "topic": "",
+      "cardCount": 18,
+      "contentVersion": 1,
+      "coverColor": "#7a1f2b",
+      "coverIcon": "⚔️",
+      "url": "playbooks/playbook-srv-when-your-rival-offers-you-a-truce.json",
+      "addedAt": "2026-09-13T21:28:21.503Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-13T21:28:17.486Z"
+  "generatedAt": "2026-09-13T21:28:21.503Z"
 }

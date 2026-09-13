@@ -1,0 +1,1088 @@
+{
+  "meta": {
+    "id": "srv-when-your-rival-offers-you-a-truce",
+    "version": "1.0",
+    "title": "When Your Rival Offers You a Truce",
+    "subtitle": "Read the offer, test it, set terms you can check, and know when to break it first.",
+    "description": "A field guide to enemy peace offers. Why they come now, how to test them before you answer, how to write terms that can't be talked around, and what to do the moment the truce gets broken — by them or by you.",
+    "author": "AI",
+    "createdAt": "2026-09-13T21:09:20.950Z",
+    "tags": [
+      "rivalry",
+      "negotiation",
+      "power",
+      "conflict",
+      "office politics"
+    ],
+    "totalCards": 18,
+    "isSeeded": true,
+    "coverColor": "#7a1f2b",
+    "coverIcon": "⚔️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "read-why",
+      "label": "Read Why They Want Peace Now",
+      "color": "#8b1e3f"
+    },
+    {
+      "key": "test-offer",
+      "label": "Test the Offer Before You Answer",
+      "color": "#1e5f8b"
+    },
+    {
+      "key": "set-terms",
+      "label": "Set the Terms You Can Verify",
+      "color": "#2f7a3d"
+    },
+    {
+      "key": "public-version",
+      "label": "The Public Version of the Deal",
+      "color": "#a17a1e"
+    },
+    {
+      "key": "watch-violation",
+      "label": "Watch for the First Violation",
+      "color": "#5c1e8b"
+    },
+    {
+      "key": "break-timing",
+      "label": "Break It on Your Timing",
+      "color": "#8b1e1e"
+    },
+    {
+      "key": "if-they-break",
+      "label": "If They Break It First",
+      "color": "#3a3a3a"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "read-why",
+      "danger": "low",
+      "title": "Find Out What's Costing Them Right Now",
+      "principle": "Sun Tzu — Know the Ground Before You Parley",
+      "remember": "Peace offers come from pain. Find the pain before you answer.",
+      "hook": "Nobody waves a white flag out of kindness. <strong>Something behind it is bleeding them dry.</strong>",
+      "truth": "A truce offer is a symptom, not a gift.\n• Their cost of fighting just passed their cost of stopping.\n• That means the fight was hurting them more than you knew.\n• Most people answer the offer. The move is to find the cost first.",
+      "when": "Your rival messages you out of nowhere and asks to meet and talk peace.",
+      "theySee": "Someone calm and willing to listen, not someone gloating over the fight.",
+      "signals": [
+        {
+          "icon": "💸",
+          "l": "Budget cut",
+          "t": "They lost a budget line or a backer tied to the fight."
+        },
+        {
+          "icon": "🧍",
+          "l": "Ally silent",
+          "t": "An ally who used to back them in public has gone quiet."
+        },
+        {
+          "icon": "⏳",
+          "l": "New deadline",
+          "t": "They face a deadline that makes the fight too expensive to keep running."
+        },
+        {
+          "icon": "👔",
+          "l": "Boss pressure",
+          "t": "Someone above them told them to make the fight stop."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check public losses",
+          "desc": "Look at what they lost in the last month — budget, headcount, a client, a title."
+        },
+        {
+          "n": "2",
+          "title": "Ask their circle",
+          "desc": "Ask someone close to them, in one line, why now."
+        },
+        {
+          "n": "3",
+          "title": "Ask them directly",
+          "desc": "In the meeting, ask what changed since last week."
+        }
+      ],
+      "script": "\"Sure, let's talk. What changed since last week that makes now the right time?\"",
+      "watchFor": "They pause, then answer with a reason that isn't about you.",
+      "ifItFails": "They give a vague answer like 'just tired of this.' Don't push twice — that tips your hand. Instead, note the vague answer and test it later against what you find out from their circle. Say: \"Fair enough. Let's talk terms then.\"",
+      "counter": "If someone is doing this cost-read on you, guard your tells.\n• Don't explain your reasons for the truce unprompted.\n• Say only: \"Things changed. I want this resolved.\"\n• Keep your real cost hidden — it's the only leverage you have left.",
+      "insight": "The cost that made them stop is the same cost you can use to shape the terms. The harder part is finding it before you're sitting across from them.",
+      "example": "Dana's rival for the promotion suddenly asked to grab coffee and 'clear the air.' Dana held off answering and asked a mutual coworker what changed — the rival's mentor had just moved teams. Dana walked into the coffee knowing exactly why peace looked good all of a sudden, and priced the terms accordingly."
+    },
+    {
+      "id": 2,
+      "cat": "read-why",
+      "danger": "low",
+      "title": "Check If the Truce Is Even Theirs to Offer",
+      "principle": "Machiavelli — Judge Motives by Who Holds the Reins",
+      "remember": "Some truces aren't theirs. Someone above them ordered it.",
+      "hook": "A truce offered under orders is not a truce. <strong>It's a leash with a longer chain.</strong>",
+      "truth": "A truce that comes from above isn't a change of heart.\n• Their boss or board may have ordered the fight to stop, not them.\n• That means the fight can restart the moment the order lifts.\n• Most people treat any truce the same. The order behind it changes everything.",
+      "when": "Your rival offers peace right after a meeting with their boss or a mutual contact.",
+      "theySee": "Someone who takes the offer at face value and relaxes their guard.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Timing tell",
+          "t": "The offer came right after a meeting you weren't in."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Wrong words",
+          "t": "They use phrases that sound like someone else's, not theirs."
+        },
+        {
+          "icon": "🙄",
+          "l": "Reluctant tone",
+          "t": "They sound flat or annoyed while offering peace, not relieved."
+        },
+        {
+          "icon": "🔁",
+          "l": "No real change",
+          "t": "Nothing else about their behavior toward you has shifted."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask who else knows",
+          "desc": "Ask them who else was in the room when this decision got made."
+        },
+        {
+          "n": "2",
+          "title": "Compare tone to words",
+          "desc": "Check if their tone matches the peace they're offering."
+        },
+        {
+          "n": "3",
+          "title": "Write the order down",
+          "desc": "Note who ordered it, in case the order gets reversed later."
+        }
+      ],
+      "script": "\"Good. Who else knows we're doing this?\"",
+      "watchFor": "They name a boss or a third party before they name themselves.",
+      "ifItFails": "They claim full ownership and get defensive when you ask who else knows. Don't accuse them of lying — just build the terms so they hold even if the order that made them changes. Say: \"Then let's put it in writing so it holds either way.\"",
+      "counter": "If you're the one offering a truce under orders, expect this question.\n• They will test whether the peace is really yours to give.\n• Say: \"It's my call. I'm the one signing it.\"\n• Make sure that's actually true before you say it.",
+      "insight": "A truce ordered from above is a truce with an expiration date nobody wrote down. The harder question is whether you can get terms solid enough to survive the order being reversed.",
+      "example": "Marcus offered his coworker a truce right after their director sat them both down. The coworker asked, flatly, who else knew about the peace. Marcus admitted the director asked for it — so the coworker got it in writing that day, before the director could change her mind next quarter."
+    },
+    {
+      "id": 3,
+      "cat": "read-why",
+      "danger": "moderate",
+      "title": "Notice If the Truce Came Right After Your Win",
+      "principle": "Loss Aversion — Freeze the Score While You're Ahead",
+      "remember": "A truce after your win locks in their loss. That's not fair, that's smart.",
+      "hook": "They didn't get nicer. <strong>You got a win they can't afford to let you repeat.</strong>",
+      "truth": "A truce right after your win is a stop-loss, not a change of heart.\n• They want the score frozen right where it sits, in their favor to freeze now.\n• That means your next move was about to cost them more.\n• Most people feel flattered by peace. The move is to price your last win.",
+      "when": "Your rival offers a truce within days of a clear win you scored against them.",
+      "theySee": "Someone glad the fight is over, ready to shake hands and move on.",
+      "signals": [
+        {
+          "icon": "📈",
+          "l": "Win timing",
+          "t": "The offer landed within days of your last clear win."
+        },
+        {
+          "icon": "🛑",
+          "l": "Sudden stop",
+          "t": "They stopped a move they had already started against you."
+        },
+        {
+          "icon": "🤐",
+          "l": "No mention",
+          "t": "They never bring up your win directly in the offer."
+        },
+        {
+          "icon": "🎯",
+          "l": "Narrow ask",
+          "t": "The truce covers exactly the area where you were winning."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Price your last win",
+          "desc": "Write down what your last win cost them in money, time, or standing."
+        },
+        {
+          "n": "2",
+          "title": "Set the truce past that line",
+          "desc": "Ask for terms that hold your win in place, not just stop the fight."
+        },
+        {
+          "n": "3",
+          "title": "Don't give it back",
+          "desc": "Refuse any term that quietly returns what you already won."
+        }
+      ],
+      "script": "\"I'll agree to stop here — but what I already won stays mine. Agreed?\"",
+      "watchFor": "They hesitate before agreeing to keep your last win in place.",
+      "ifItFails": "They agree in words, then quietly try to claw the win back in the fine print. Read every term against your last win before you sign anything. Say: \"This term undoes what we just agreed to. Fix it or we're not done talking.\"",
+      "counter": "If you're the one asking for a truce after a loss, expect this read.\n• They will price what you lost and lock it in.\n• Don't offer a truce right after a loss — wait a week so it doesn't look like retreat.\n• If you must, ask for one thing back in the terms, so it isn't a clean surrender.",
+      "insight": "Timing a truce right after a loss tells your rival exactly what they took from you. The next problem is proving in the terms that the win is really yours to keep.",
+      "example": "Priya landed the client her rival Tom had been chasing for months. Two days later Tom offered a truce on all their turf disputes. Priya agreed — but only after making him confirm in writing that the client stayed hers, not up for a rematch next quarter."
+    },
+    {
+      "id": 4,
+      "cat": "test-offer",
+      "danger": "low",
+      "title": "Ask for One Small Thing First",
+      "principle": "Cialdini — Commitment and Consistency",
+      "remember": "Ask for a small favor before you agree to anything big.",
+      "hook": "Words are free. <strong>Make them spend something small before you believe the big promise.</strong>",
+      "truth": "A small ask tests whether the truce is real before you commit to it.\n• A genuine truce can absorb one small, costless-to-them request.\n• A fake one stalls, hedges, or refuses even the small ask.\n• Most people jump straight to the big terms. The move is to test small first.",
+      "when": "Your rival proposes a truce and wants to move straight to the big terms.",
+      "theySee": "Someone being reasonable and slow, not someone stalling out of fear.",
+      "signals": [
+        {
+          "icon": "🐢",
+          "l": "Slow reply",
+          "t": "They take unusually long to agree to something small and easy."
+        },
+        {
+          "icon": "🙅",
+          "l": "Small refusal",
+          "t": "They refuse a request that costs them almost nothing."
+        },
+        {
+          "icon": "🔀",
+          "l": "Redirect",
+          "t": "They try to skip your small ask and jump to the big deal."
+        },
+        {
+          "icon": "✅",
+          "l": "Quick yes",
+          "t": "They agree fast and follow through within a day."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick something small",
+          "desc": "Choose one request that costs them little but proves good faith."
+        },
+        {
+          "n": "2",
+          "title": "Ask before the big talk",
+          "desc": "Make the small ask before you discuss the real terms."
+        },
+        {
+          "n": "3",
+          "title": "Watch the follow-through",
+          "desc": "Check if they actually do it, not just agree to it."
+        }
+      ],
+      "script": "\"Before we talk terms, pull that comment about me off the group thread. Let's see that first.\"",
+      "watchFor": "They do the small thing within a day, without being reminded.",
+      "ifItFails": "They agree but stall on delivery for days. That delay is your answer — they're not ready to move, or not sincere. Don't start the big talks yet. Say: \"Let's pick this back up once that's actually done.\"",
+      "counter": "If someone tests you with a small ask before a truce, know what it's for.\n• They're checking if your word matches your action, not just your promise.\n• Do the small thing fast if you're serious about the truce.\n• If you can't do it, say why — silence reads as a no.",
+      "insight": "A small test costs almost nothing and tells you almost everything. The harder part is not skipping it because the big offer feels too good to slow down.",
+      "example": "When his rival proposed peace, Diego asked him first to just stop cc'ing their boss on every minor email. The rival did it within the hour. Diego took that as real, and moved to the bigger terms the next day."
+    },
+    {
+      "id": 5,
+      "cat": "test-offer",
+      "danger": "low",
+      "title": "Make Them Name Terms First",
+      "principle": "Voss — Never Split the Difference: Let Them Anchor",
+      "remember": "Whoever names the number first gives away the most information.",
+      "hook": "Don't propose the peace. <strong>Make them say what they want, out loud, first.</strong>",
+      "truth": "The first number or term spoken sets the whole frame of the deal.\n• Whoever speaks first reveals how much they need this to end.\n• If you speak first, you hand them your price before you know theirs.\n• Most people fill silence with an offer. The move is to sit in it.",
+      "when": "Your rival says 'let's work something out' but hasn't said what they actually want.",
+      "theySee": "Someone patient and calm, waiting to hear them out — not someone stalling.",
+      "signals": [
+        {
+          "icon": "🤷",
+          "l": "Vague opener",
+          "t": "They open with 'let's figure something out' instead of a term."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Long pause",
+          "t": "They go quiet when you ask them to name what they want."
+        },
+        {
+          "icon": "📝",
+          "l": "First list",
+          "t": "They eventually list specific things they want to stop or gain."
+        },
+        {
+          "icon": "😬",
+          "l": "Overreach ask",
+          "t": "Their first term asks for more than the fight was ever about."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask an open question",
+          "desc": "Ask what they need from this, and stop talking."
+        },
+        {
+          "n": "2",
+          "title": "Wait through the silence",
+          "desc": "Let the pause sit, even if it feels long and awkward."
+        },
+        {
+          "n": "3",
+          "title": "Write down their first ask",
+          "desc": "Note their exact first term before you respond to any of it."
+        }
+      ],
+      "script": "\"Okay — what would you need to see for this to actually be over?\"",
+      "watchFor": "They break the silence first and name a specific term.",
+      "ifItFails": "They bounce the question back with 'what do you want?' Don't answer with your real number — answer with a smaller, vaguer one. Say: \"I want this to actually stop. You tell me what that looks like from your side.\"",
+      "counter": "If someone throws the question back at you to make you anchor first, notice it.\n• They're using your silence discomfort against you.\n• Answer with a question of your own, not a number.\n• Whoever blinks first in this exchange sets the whole deal's shape.",
+      "insight": "The first term spoken is a map of what they think they can get away with. The next problem is deciding how much of that first ask to actually give them.",
+      "example": "When her office rival said 'let's just work this out,' Nina asked what he actually needed and went quiet. After a long ten seconds, he named three specific things — two she'd have given freely, and one she now knew to negotiate hard against."
+    },
+    {
+      "id": 6,
+      "cat": "test-offer",
+      "danger": "moderate",
+      "title": "Take Longer to Answer Than They Expect",
+      "principle": "Schelling — Delay as a Bargaining Tool",
+      "remember": "Slow replies cost them nothing from you and tell you everything.",
+      "hook": "Silence is a test they can't fake their way through. <strong>Let the clock do the work.</strong>",
+      "truth": "A delay costs you nothing and forces their hand.\n• If the truce is urgent for them, delay makes their real need show.\n• Someone who needs peace badly will follow up. Someone faking it goes quiet.\n• Most people answer fast to be polite. The move is to make them wait.",
+      "when": "Your rival offers a truce and expects a fast yes or no.",
+      "theySee": "Someone unbothered, taking their time, not desperate to end the fight either.",
+      "signals": [
+        {
+          "icon": "📩",
+          "l": "Follow-up",
+          "t": "They message again before you've replied to the first one."
+        },
+        {
+          "icon": "😐",
+          "l": "No follow-up",
+          "t": "They go quiet and don't chase you for an answer."
+        },
+        {
+          "icon": "📈",
+          "l": "Sweetened offer",
+          "t": "Their second message offers more than the first one did."
+        },
+        {
+          "icon": "🕰️",
+          "l": "Set deadline",
+          "t": "They try to put a deadline on your answer."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Don't reply same-day",
+          "desc": "Let at least one full day pass before you respond at all."
+        },
+        {
+          "n": "2",
+          "title": "Watch who follows up",
+          "desc": "Note whether they check in again before you've said a word."
+        },
+        {
+          "n": "3",
+          "title": "Answer only after the tell shows",
+          "desc": "Reply once you've seen whether they chase or go quiet."
+        }
+      ],
+      "script": "\"Let me think this through. I'll get back to you.\"",
+      "watchFor": "They message again within 48 hours, asking if you've decided.",
+      "ifItFails": "They set a hard deadline to force your hand before the tell shows. A deadline this early is itself a tell — it means they need this more than they let on. Say: \"That timeline doesn't work for me. I'll answer when I've thought it through.\"",
+      "counter": "If someone stalls you after you offer a truce, know what the silence means.\n• They're using your wait to see how much you need this.\n• Don't sweeten your offer just because they went quiet.\n• Set your own deadline instead: \"I need an answer by Friday, or the offer's off the table.\"",
+      "insight": "The wait is a mirror — it shows you who needs the truce more, them or you. The next problem is not caving on your own terms just to end the discomfort of waiting.",
+      "example": "Carlos offered his rival a truce and got silence for two days. On day three, a second message showed up with better terms than the first. Carlos knew then who wanted this more, and answered accordingly."
+    },
+    {
+      "id": 7,
+      "cat": "set-terms",
+      "danger": "moderate",
+      "title": "Turn Every Promise Into a Number",
+      "principle": "Schelling — Credible Commitments Need Observable Terms",
+      "remember": "If you can't measure it, they can break it and call it a misunderstanding.",
+      "hook": "\"Be respectful\" means nothing. <strong>\"Don't mention my name in that meeting\" means everything.</strong>",
+      "truth": "Vague terms let them break the truce and argue they didn't.\n• A specific, countable term has no room for a different reading.\n• Vague terms like 'be fair' let them redefine the deal after the fact.\n• Most people accept fuzzy peace. The move is to turn every line into a number or a name.",
+      "when": "Your rival proposes terms like 'let's just be respectful going forward.'",
+      "theySee": "Someone thorough and businesslike, not someone who doesn't trust them.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Fuzzy word",
+          "t": "They use words like 'respect,' 'fair,' or 'professional' with no detail."
+        },
+        {
+          "icon": "🙄",
+          "l": "Pushback",
+          "t": "They resist when you ask to make a term specific."
+        },
+        {
+          "icon": "📋",
+          "l": "Easy specifics",
+          "t": "They agree fast to specific terms without any fuss."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeats vague",
+          "t": "They keep circling back to the vague version even after you specify."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Rewrite each vague term",
+          "desc": "Turn every fuzzy line into a specific action, name, or number."
+        },
+        {
+          "n": "2",
+          "title": "Read it back to them",
+          "desc": "Say the specific version out loud and get a clear yes."
+        },
+        {
+          "n": "3",
+          "title": "Send it in writing",
+          "desc": "Put the specific terms in a text or email right after you talk."
+        }
+      ],
+      "script": "\"When you say respectful, I mean specifically: you don't bring my name up in the Tuesday meeting. Are we agreed on that exact version?\"",
+      "watchFor": "They say yes to the specific version without trying to soften it back down.",
+      "ifItFails": "They agree to the vague version but dodge every attempt to make it specific. That dodge is the answer — they want room to move later. Don't sign anything yet. Say: \"If we can't get specific, we don't actually have a deal.\"",
+      "counter": "If someone tries to pin your promises to specific numbers, expect it.\n• They're closing the room you'd need to bend the deal later.\n• Only agree to specifics you can actually keep.\n• If a specific term is too tight, counter with a different specific, not a vague one.",
+      "insight": "A vague truce is a truce with a trapdoor built in. The next problem is making sure the specific terms you write down are ones you can actually check later.",
+      "example": "When her rival offered 'let's just be professional,' Leah asked what that meant exactly and got him to agree, out loud, to one line: no more comments about her in client calls. Two weeks later, when he slipped, she had the exact line to point back to."
+    },
+    {
+      "id": 8,
+      "cat": "set-terms",
+      "danger": "moderate",
+      "title": "Name the Exact Line That Ends It",
+      "principle": "Tripwire Commitment — Make the Break Undeniable",
+      "remember": "Pick one clear line. If they cross it, the truce is over, no debate.",
+      "hook": "Don't wait to feel like they broke it. <strong>Write down the one thing that proves it, before it happens.</strong>",
+      "truth": "A truce without a named trigger dies slowly in arguments about intent.\n• A named trigger removes the need to argue about what counts as a break.\n• Without one, every violation turns into a debate you have to win.\n• Most people trust their gut to know a break when they see it. The move is to write the line down first.",
+      "when": "You're about to agree to a truce and haven't defined what breaking it looks like.",
+      "theySee": "Someone organized, setting up ground rules, not someone planning for war.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "No trigger",
+          "t": "Neither of you has named what counts as a violation."
+        },
+        {
+          "icon": "🙅",
+          "l": "Resists naming",
+          "t": "They resist when you try to name a specific trigger."
+        },
+        {
+          "icon": "✅",
+          "l": "Names one back",
+          "t": "They offer their own trigger for what would break it for them."
+        },
+        {
+          "icon": "📄",
+          "l": "Wants it unwritten",
+          "t": "They prefer to keep the terms spoken, never in writing."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one clear trigger",
+          "desc": "Choose one specific, easy-to-see action that would count as a break."
+        },
+        {
+          "n": "2",
+          "title": "Say it plainly",
+          "desc": "State the trigger out loud so there's no room to argue later."
+        },
+        {
+          "n": "3",
+          "title": "Write it where you can find it",
+          "desc": "Save the trigger somewhere you can point to if it happens."
+        }
+      ],
+      "script": "\"If you talk to my manager about this again, that's the truce over. Just so we're both clear on where the line is.\"",
+      "watchFor": "They repeat the trigger back in their own words to confirm it.",
+      "ifItFails": "They agree to the trigger, then claim later it 'wasn't that serious' when it happens. Don't argue the severity — point back to the exact words you both agreed on. Say: \"We named this exact thing as the line. It happened. That's the answer.\"",
+      "counter": "If someone names a hard trigger for you, treat it as a real wall, not a suggestion.\n• They've removed their own room to negotiate after the fact.\n• Don't test the edge of their trigger to see if it's soft.\n• If the trigger is unfair, negotiate it now, not after you've crossed it.",
+      "insight": "A named trigger turns a fight about feelings into a fact you can point to. The next problem is what you actually do the moment it fires — that's a different card.",
+      "example": "Before agreeing to peace with his co-founder, Sam named one exact trigger: contacting the lead investor without him on the email. When it happened three months later, there was no argument about whether it counted — it just did."
+    },
+    {
+      "id": 9,
+      "cat": "set-terms",
+      "danger": "high",
+      "title": "Keep One Card Off the Table",
+      "principle": "Greene — Law 3: Conceal Your Intentions",
+      "remember": "Never put every piece of leverage into the truce. Keep one back.",
+      "hook": "Give them everything and you have nothing left if they break their word. <strong>Keep one thing they don't know you're holding.</strong>",
+      "truth": "A truce that uses all your leverage leaves you unarmed if they cheat.\n• Full disclosure feels honest but strips your ability to respond to a break.\n• A held-back card costs you nothing now and protects you later.\n• Most people lay every card down to prove good faith. The move is to keep one face-down.",
+      "when": "You're finalizing truce terms and they ask you to lay out everything you have on them.",
+      "theySee": "Someone cooperative and transparent, giving up ground in good faith.",
+      "signals": [
+        {
+          "icon": "🃏",
+          "l": "Full-disclosure ask",
+          "t": "They ask you to hand over everything you have on them."
+        },
+        {
+          "icon": "🔍",
+          "l": "Probing question",
+          "t": "They ask pointed questions trying to find out what else you know."
+        },
+        {
+          "icon": "😌",
+          "l": "Relief tell",
+          "t": "They visibly relax once they think they've seen your whole hand."
+        },
+        {
+          "icon": "🚪",
+          "l": "Loose end",
+          "t": "You notice a piece of information they don't know you have."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List what you know",
+          "desc": "Write down every piece of leverage you have on them, in private."
+        },
+        {
+          "n": "2",
+          "title": "Pick one to hold back",
+          "desc": "Choose the one piece least likely to come up on its own."
+        },
+        {
+          "n": "3",
+          "title": "Give the rest, not that one",
+          "desc": "Disclose everything else so the truce still looks complete."
+        }
+      ],
+      "script": "\"Here's everything relevant — I think we're square on what's on the table.\"",
+      "watchFor": "They accept your disclosure and move to close the deal without digging further.",
+      "ifItFails": "They sense you're holding something back and press for more. Don't confirm or deny it — redirect to the deal itself. Say: \"That's everything that matters to this truce. Are we done here or not?\"",
+      "counter": "If someone gives you a clean, complete-sounding disclosure, assume it isn't.\n• Nobody hands over their whole hand — check what's missing.\n• Ask a specific question about the one thing they'd most want to hide.\n• Treat their calm as a performance, not proof they're out of cards.",
+      "insight": "The card you hold back is the one you'll need the day they decide the truce doesn't suit them anymore. The next problem is knowing when to play it — too early and you look like you never meant peace.",
+      "example": "When settling terms with her rival, Ana disclosed the two emails she had on him, but kept a third one quiet, the one that actually mattered. Six months later, when he broke the truce, that email was the only thing that made him back down fast."
+    },
+    {
+      "id": 10,
+      "cat": "public-version",
+      "danger": "low",
+      "title": "Write the Announcement Before They Do",
+      "principle": "Narrative Control — First Story Wins",
+      "remember": "Whoever tells the story first gets believed. Tell it first.",
+      "hook": "The truce isn't real until people hear about it. <strong>Make sure they hear your version.</strong>",
+      "truth": "The first version of the story becomes the default one everyone repeats.\n• People believe whichever account they hear first, then defend it.\n• A late version always sounds like a rebuttal, even when it's true.\n• Most people wait to see what gets said. The move is to say it first.",
+      "when": "You and your rival have agreed to terms and word is about to get out.",
+      "theySee": "Someone confident and settled, moving on before they've even finished thinking about it.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "They're telling it",
+          "t": "You hear your rival's version reaching people before yours does."
+        },
+        {
+          "icon": "🐌",
+          "l": "You're behind",
+          "t": "You haven't said anything to anyone yet and it's already spreading."
+        },
+        {
+          "icon": "🎭",
+          "l": "Spin creeping in",
+          "t": "Their version quietly makes them sound like the bigger person."
+        },
+        {
+          "icon": "👥",
+          "l": "Mutual contacts",
+          "t": "People you both know are already asking what happened."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Draft one line",
+          "desc": "Write one calm sentence describing the truce, before anyone asks."
+        },
+        {
+          "n": "2",
+          "title": "Tell your closest contact first",
+          "desc": "Say your version to the person most likely to repeat it."
+        },
+        {
+          "n": "3",
+          "title": "Keep it boring",
+          "desc": "Make your version flat and factual — boring stories don't get repeated wrong."
+        }
+      ],
+      "script": "\"We talked it through and we're good now. Nothing more to it than that.\"",
+      "watchFor": "People start repeating your exact phrase back to you within a few days.",
+      "ifItFails": "Their version got out first and already sounds better than yours. Don't argue with their story in public — that just spreads it further. Say privately to the same contact: \"That's not quite how it went — here's the actual version,\" and let it travel the same path theirs did.",
+      "counter": "If your rival is telling their version faster than you, they're playing this exact card.\n• Notice how fast a story spreads once someone owns it first.\n• Don't wait for the full truth to come out on its own.\n• Get your flat, boring version moving the same day, not the same week.",
+      "insight": "The public story about a truce matters more than the private terms, because it decides who looks like they won. The next problem is keeping your private terms different from your public story without getting caught in the gap.",
+      "example": "After settling with her work rival, Jess told their most talkative coworker the flat version first thing Monday morning: 'we sorted it out, all good.' By Wednesday, that was the version everyone repeated — before her rival ever got the chance to tell his."
+    },
+    {
+      "id": 11,
+      "cat": "public-version",
+      "danger": "moderate",
+      "title": "Let Them Save Face, Keep the Real Terms Private",
+      "principle": "Machiavelli — Appearance and Reality Serve Different Masters",
+      "remember": "Give them a good story to tell. Keep the real deal between you two.",
+      "hook": "They don't need to win in public. <strong>They just need to look like they didn't lose.</strong>",
+      "truth": "People fight harder to protect how they look than to protect what they actually got.\n• A public story that lets them save face costs you nothing real.\n• Refusing them that story turns a done deal back into a fight.\n• Most people want credit for winning. The move is to let them have the appearance and keep the substance.",
+      "when": "You've won the real terms but your rival needs to tell people they didn't lose.",
+      "theySee": "Someone generous, letting them keep their dignity instead of rubbing it in.",
+      "signals": [
+        {
+          "icon": "🎭",
+          "l": "Face-saving ask",
+          "t": "They ask you not to tell certain people how the terms actually went."
+        },
+        {
+          "icon": "📢",
+          "l": "Their version",
+          "t": "They want to tell a version where the truce was mutual, not a win for you."
+        },
+        {
+          "icon": "🤐",
+          "l": "Silence request",
+          "t": "They ask you to stay quiet about specific details."
+        },
+        {
+          "icon": "😤",
+          "l": "Resistance if refused",
+          "t": "They get combative the moment you threaten to correct their story."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Separate the two versions",
+          "desc": "Decide what the real terms are and what the public story will be."
+        },
+        {
+          "n": "2",
+          "title": "Offer the face-saving line",
+          "desc": "Suggest a public version that lets them look even, not beaten."
+        },
+        {
+          "n": "3",
+          "title": "Hold the real terms in writing",
+          "desc": "Keep the actual terms written down somewhere only you two see."
+        }
+      ],
+      "script": "\"Publicly, this can just be 'we sorted it out like adults.' Between us, the terms stay what we agreed.\"",
+      "watchFor": "They visibly relax once they know the public story protects them.",
+      "ifItFails": "They take the face-saving story, then start acting like the real terms were the face-saving version too. Correct it fast, in private, with the paper trail. Say: \"That's the story for other people. Between us, here's what we actually agreed,\" and point to the written terms.",
+      "counter": "If someone offers you a face-saving public story, take it — but check what it costs.\n• A generous-sounding offer can hide worse real terms underneath.\n• Ask exactly what the real terms are before agreeing to any public version.\n• Don't let the relief of saving face stop you from reading the fine print.",
+      "insight": "Letting them save face is cheap generosity that buys you a quieter room. The next problem is making sure the private terms don't quietly drift toward the public story over time.",
+      "example": "After Ray won the territory fight over the account, he let his rival tell the team it was a 'joint decision to split coverage.' Privately, the account was fully Ray's. The rival kept his dignity, and Ray kept the client."
+    },
+    {
+      "id": 12,
+      "cat": "watch-violation",
+      "danger": "moderate",
+      "title": "Write Down Every Move After the Handshake",
+      "principle": "Documentation as Leverage",
+      "remember": "Memory fades. A written record doesn't.",
+      "hook": "You'll remember the fight. <strong>You won't remember the exact date of the small thing they did in week three.</strong>",
+      "truth": "A record turns a fuzzy feeling of being wronged into proof.\n• Dates and exact words hold up. Memory of a vibe does not.\n• Without a record, they can gaslight you about what actually happened.\n• Most people trust their memory. The move is to write it down the same day.",
+      "when": "The truce is a week old and something small happens that bothers you.",
+      "theySee": "Someone who seems to have moved on and stopped paying close attention.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Small slip",
+          "t": "They do a small thing that brushes against the terms."
+        },
+        {
+          "icon": "🤔",
+          "l": "You doubt yourself",
+          "t": "You start wondering if you're overreacting to something small."
+        },
+        {
+          "icon": "🗒️",
+          "l": "Nothing written",
+          "t": "You realize you have no record of the last time this happened."
+        },
+        {
+          "icon": "🔁",
+          "l": "Pattern forming",
+          "t": "This is the second time something like this has happened."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write it same-day",
+          "desc": "Note the date, the exact words or action, within hours of it happening."
+        },
+        {
+          "n": "2",
+          "title": "Keep it in one place",
+          "desc": "Put every entry in the same file or notes app, not scattered."
+        },
+        {
+          "n": "3",
+          "title": "Don't confront on entry one",
+          "desc": "Hold the record instead of reacting to the first small item."
+        }
+      ],
+      "script": "(To yourself, in the record) \"Sept 20 — mentioned my name in the standup after agreeing not to. Second time.\"",
+      "watchFor": "You can answer, without hesitating, exactly when and what happened last time.",
+      "ifItFails": "You realize you've let too much time pass without writing anything down and the details have blurred. Stop guessing at exact wording — write down what you're sure of and mark the rest as approximate. Going forward, log everything the same day, no exceptions.",
+      "counter": "If you sense your rival is quietly logging your every move, assume they are.\n• Anything you do near the line will get written down and used later.\n• Stay clean of the line entirely, not just technically inside it.\n• Ask directly if something feels off, instead of letting it become their evidence.",
+      "insight": "A record is boring to keep and devastating to have. The next problem is knowing how many entries make a pattern worth acting on, versus noise.",
+      "example": "Two weeks into the truce, Owen's rival made a small crack about him in a group chat. Owen wrote down the date and the exact words instead of reacting. A month later, with three entries logged, the pattern was undeniable and Owen had every date to prove it."
+    },
+    {
+      "id": 13,
+      "cat": "watch-violation",
+      "danger": "moderate",
+      "title": "Expect a Small Test Before the Real Break",
+      "principle": "Salami Slicing — Small Cuts Before the Big One",
+      "remember": "They test the fence with a small push before they climb over it.",
+      "hook": "The big betrayal rarely comes first. <strong>A small, deniable one comes to test if you're watching.</strong>",
+      "truth": "People probe boundaries with small moves before committing to a big one.\n• A small test costs them little if you don't react, and tells them the line moved.\n• If you let the small test slide silently, the next one gets bigger.\n• Most people wait for the big break to respond. The move is to answer the small one.",
+      "when": "Something just happened that's small enough to argue isn't really a violation.",
+      "theySee": "Someone who either lets it go, unbothered, or notices and says something.",
+      "signals": [
+        {
+          "icon": "🔬",
+          "l": "Deniable size",
+          "t": "The move is small enough that they could call it an accident."
+        },
+        {
+          "icon": "👀",
+          "l": "Watching your reaction",
+          "t": "They seem to be watching how you respond more than usual."
+        },
+        {
+          "icon": "🤏",
+          "l": "Just inside the line",
+          "t": "The move sits right at the edge of what you defined as a break."
+        },
+        {
+          "icon": "🔁",
+          "l": "Testing again soon",
+          "t": "A second small test comes within days of the first."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name it, small as it is",
+          "desc": "Say something the same week, even if it feels minor to mention."
+        },
+        {
+          "n": "2",
+          "title": "Keep your response small too",
+          "desc": "Match the size of the test — a note, not a war."
+        },
+        {
+          "n": "3",
+          "title": "Track if it repeats",
+          "desc": "Watch whether the same kind of test happens again soon after."
+        }
+      ],
+      "script": "\"That was small, but it's right at the line we set. Don't do it again.\"",
+      "watchFor": "They stop that specific small behavior and don't repeat it.",
+      "ifItFails": "They shrug it off as nothing and do a similar small thing again within the week. That's your answer — the small tests are a pattern, not an accident. Say: \"That's twice now. I'm done pretending this is nothing,\" and move to the terms you set for a real break.",
+      "counter": "If you're testing someone else's line with small moves, know the risk.\n• A sharp opponent names the small test immediately, not later.\n• If they call it out, stop — pushing further after being caught costs you the truce.\n• A quiet target who says nothing might be building a record instead of ignoring it.",
+      "insight": "The small test is the whole truce compressed into one moment — do they respect the line or not. The next problem is not treating every accident as a test, since that turns you into the one who breaks the peace first.",
+      "example": "A week after the truce, Kim's rival made one small dig in a shared meeting, small enough to laugh off. Kim named it flatly right after the meeting instead of letting it slide. It didn't happen again."
+    },
+    {
+      "id": 14,
+      "cat": "watch-violation",
+      "danger": "moderate",
+      "title": "Don't Fire Back at the First Small Poke",
+      "principle": "Schelling — Threshold Commitment: React to the Line, Not the Noise",
+      "remember": "Save your reaction for the real break. Don't waste it on a small poke.",
+      "hook": "React to every small thing and you look jumpy. <strong>Save your response for something that actually matters.</strong>",
+      "truth": "Overreacting to a minor poke burns your credibility for the real break later.\n• If you treat every small thing as war, the real break gets the same response and loses weight.\n• They can point to your overreaction and make themselves look reasonable.\n• Most people react to protect their pride in the moment. The move is to save the reaction.",
+      "when": "Something small and borderline just happened and you feel the urge to respond hard right now.",
+      "theySee": "Someone who noticed but didn't blow up — calm, not weak.",
+      "signals": [
+        {
+          "icon": "😤",
+          "l": "Urge to escalate",
+          "t": "You feel the pull to respond harder than the moment calls for."
+        },
+        {
+          "icon": "🤏",
+          "l": "Genuinely small",
+          "t": "The thing that happened is objectively minor, not the named trigger."
+        },
+        {
+          "icon": "👥",
+          "l": "Others watching",
+          "t": "Other people are watching how you react to this specific moment."
+        },
+        {
+          "icon": "📉",
+          "l": "Ambiguous intent",
+          "t": "It's unclear if this was even deliberate on their part."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Note it, don't announce it",
+          "desc": "Write the moment down instead of reacting out loud."
+        },
+        {
+          "n": "2",
+          "title": "Ask yourself the size question",
+          "desc": "Check if this matches the trigger you named, or falls short of it."
+        },
+        {
+          "n": "3",
+          "title": "Respond at the size it earns",
+          "desc": "Give a small, flat response if it's small — save the big one."
+        }
+      ],
+      "script": "\"Noted. Let's keep moving.\"",
+      "watchFor": "The small poke doesn't repeat, and your calm response gets no pushback.",
+      "ifItFails": "You stayed calm and it happened again anyway, bigger this time. That's the pattern showing itself — stop absorbing it. Say: \"This is the second time. We're past small now,\" and move to your named trigger response.",
+      "counter": "If someone is staying unnervingly calm while you test small boundaries, notice it.\n• Calm silence from them might mean they're logging it, not ignoring it.\n• Don't mistake their quiet for permission to push further.\n• If you get no reaction, stop testing rather than assume the line moved.",
+      "insight": "The person who saves their reaction for the real break is the one whose reaction still means something when it lands. The next problem is spotting the real break clearly enough to know it's time to finally use it.",
+      "example": "When his rival made a borderline comment in a shared Slack channel, Theo felt the pull to fire back publicly. He typed 'noted' instead, and moved on. Two months later, when a real violation happened, his response finally landed with full weight — because he hadn't burned it on the small stuff."
+    },
+    {
+      "id": 15,
+      "cat": "break-timing",
+      "danger": "high",
+      "title": "Break the Truce When It Stops Paying You",
+      "principle": "Machiavelli — The Prince: Keep Faith Only While It Serves You",
+      "remember": "A truce is a tool, not a promise carved in stone.",
+      "hook": "You don't owe the truce your future. <strong>You owe it exactly as long as it works for you.</strong>",
+      "truth": "A truce is a tool for a situation, not a moral debt you carry forever.\n• Circumstances that made peace useful can change without any violation from them.\n• Waiting for them to break it first can cost you the timing advantage.\n• Most people think only a violation justifies ending a truce. The move is to end it when it stops paying, on your terms.",
+      "when": "Nothing's been technically broken, but the truce no longer serves what you need.",
+      "theySee": "Someone who seemed settled, suddenly moving again — unexpected, unreadable.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Value dropped",
+          "t": "What you got from the truce has shrunk to almost nothing."
+        },
+        {
+          "icon": "🔓",
+          "l": "New opening",
+          "t": "A new opportunity appeared that the truce is now blocking."
+        },
+        {
+          "icon": "⚖️",
+          "l": "Cost flipped",
+          "t": "Keeping the peace now costs you more than breaking it would."
+        },
+        {
+          "icon": "🕰️",
+          "l": "Old terms, new world",
+          "t": "The situation that made the truce useful has clearly changed."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Confirm the value is gone",
+          "desc": "Check honestly whether the truce still gets you anything real."
+        },
+        {
+          "n": "2",
+          "title": "Pick your moment",
+          "desc": "Choose a time when moving costs you the least and them the most."
+        },
+        {
+          "n": "3",
+          "title": "Move without asking permission",
+          "desc": "Act first, then inform them — don't negotiate your way out."
+        }
+      ],
+      "script": "\"Circumstances changed. I'm no longer bound by our arrangement as of today.\"",
+      "watchFor": "They scramble to respond instead of having a ready counter.",
+      "ifItFails": "They see it coming and move first, locking in an advantage before you finish your sentence. Don't try to out-explain them in the moment — leave the conversation and act on your next move separately. Say: \"We're done talking about this today,\" and follow up in writing only. This is high-risk — do not use this on someone who can fire you, fund you, or outrank you in a room that matters.",
+      "counter": "If your rival breaks a truce with no violation on your part, recognize the move.\n• They decided the deal stopped paying them, nothing more sentimental than that.\n• Don't waste time arguing they broke a promise — they'll agree and not care.\n• Ask instead what it takes to make a new deal pay them again, or prepare to fight.",
+      "insight": "A truce only holds as long as it's useful to both sides, whether either side says so out loud or not. The harder part is timing your exit so you're the one who benefits from the surprise, not them.",
+      "example": "Six months into a quiet truce with her former co-founder, Wren got a job offer that meant competing directly with him again. Nothing had been broken. She simply told him plainly it was over, and took the offer before he could react."
+    },
+    {
+      "id": 16,
+      "cat": "break-timing",
+      "danger": "high",
+      "title": "Leave Quiet, Not Loud",
+      "principle": "Schelling — First-Mover Advantage in Ending a Commitment",
+      "remember": "The one who leaves quiet keeps control. The one who slams the door loses it.",
+      "hook": "A loud exit hands them a story where you're the villain. <strong>A quiet one hands them nothing.</strong>",
+      "truth": "Ending a truce loudly gives your rival a story and a reason to hit back hard.\n• A quiet exit removes their best material for painting you as the aggressor.\n• A loud one rallies their allies faster than yours can respond.\n• Most people want the satisfaction of a dramatic exit. The move is to deny them the scene.",
+      "when": "You've decided to end the truce and you're tempted to make it a moment.",
+      "theySee": "Someone who simply stopped playing by the old rules, without a scene.",
+      "signals": [
+        {
+          "icon": "🎬",
+          "l": "Urge for drama",
+          "t": "You feel the pull to make the exit into a public moment."
+        },
+        {
+          "icon": "📣",
+          "l": "Audience present",
+          "t": "Other people are around who would witness a loud exit."
+        },
+        {
+          "icon": "😡",
+          "l": "Anger driving it",
+          "t": "Your reason for leaving loud is mostly about feeling owed a scene."
+        },
+        {
+          "icon": "🧾",
+          "l": "Story risk",
+          "t": "A loud exit would give them a clean story to tell about you."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide alone first",
+          "desc": "Make the decision to end it in private, before telling anyone."
+        },
+        {
+          "n": "2",
+          "title": "Tell them plainly, once",
+          "desc": "Say it in one flat sentence, in person or in writing, no speech."
+        },
+        {
+          "n": "3",
+          "title": "Move on the same day",
+          "desc": "Take your next real action the same day, so the words aren't empty."
+        }
+      ],
+      "script": "\"This isn't working anymore. I'm done with it.\"",
+      "watchFor": "They're left with nothing dramatic to repeat to anyone else.",
+      "ifItFails": "They try to bait you into a public blow-up to get their story. Don't take the bait in the room — leave the conversation and let your actions speak later. Say: \"We're not doing this here,\" and walk away without raising your voice. This is high-risk — a public blow-up can outlast the actual dispute in people's memory, so keep it contained.",
+      "counter": "If your rival exits a truce quietly, don't assume it's over quietly for you.\n• A quiet exit means they've already planned their next move.\n• Don't wait for a dramatic sign that things have changed — check for one anyway.\n• Ask directly what changed, rather than filling the silence with guesses.",
+      "insight": "Quiet is control. Loud is a gift you hand your rival for free. The next problem is what you do in the silence right after — that's where the real advantage gets built or wasted.",
+      "example": "When Felix decided the truce with his rival wasn't worth it anymore, he skipped the confrontation everyone expected. He sent one flat line, then quietly moved his account list the same afternoon. By the time his rival noticed, there was nothing left to argue about."
+    },
+    {
+      "id": 17,
+      "cat": "if-they-break",
+      "danger": "moderate",
+      "title": "Get the Proof Before You Say a Word",
+      "principle": "Build the Record Before You Act",
+      "remember": "Don't accuse until you can prove it. A weak accusation is worse than none.",
+      "hook": "Calling it a break too early lets them deny it and look wronged. <strong>Wait until you can't be argued with.</strong>",
+      "truth": "An accusation without proof turns you into the one who looks unstable.\n• Proof removes their easiest exit: denying it ever happened.\n• A too-early accusation gives them time to build a counter-story.\n• Most people react the moment they feel wronged. The move is to gather first, speak second.",
+      "when": "You're fairly sure your rival just broke the truce, but you don't have it nailed down yet.",
+      "theySee": "Someone who seems unaware or slow to notice, not building a case.",
+      "signals": [
+        {
+          "icon": "🧩",
+          "l": "Missing detail",
+          "t": "You have the general sense of a break but not the exact proof."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Urge to confront",
+          "t": "You feel the pull to say something before you've checked the facts."
+        },
+        {
+          "icon": "👤",
+          "l": "Witness exists",
+          "t": "Someone else saw or heard what happened and can confirm it."
+        },
+        {
+          "icon": "📱",
+          "l": "Digital trace",
+          "t": "There's a message, post, or record that could confirm the break."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Collect the proof",
+          "desc": "Get the screenshot, message, or witness account before saying anything."
+        },
+        {
+          "n": "2",
+          "title": "Wait a day to cool off",
+          "desc": "Let a day pass so your first message isn't written in anger."
+        },
+        {
+          "n": "3",
+          "title": "Confront with the proof in hand",
+          "desc": "Only raise it once you can show it, not just describe it."
+        }
+      ],
+      "script": "\"I have this in writing. Do you want to explain it, or should we skip straight to what happens next?\"",
+      "watchFor": "They stop arguing that it happened and move straight to justifying it.",
+      "ifItFails": "You confront them and they claim the proof doesn't mean what you think it means. Don't argue interpretation — let the proof sit and bring in a third party who can read it plainly. Say: \"Let's have someone else look at this and tell us what it says.\"",
+      "counter": "If someone confronts you with proof of a break, don't argue the proof itself.\n• Arguing with clear proof makes you look worse, not better.\n• Address the reason, not the record: \"Here's why that happened.\"\n• Move fast to what you'll do differently — dwelling on denial burns your credibility.",
+      "insight": "Proof is slow to gather and impossible to argue with once you have it. The next problem is deciding what you actually do with it — proof alone doesn't punish anyone.",
+      "example": "When Nadia heard her rival had broken their truce, she said nothing until a coworker forwarded her the actual message. She waited a full day, then brought the screenshot itself to the conversation — no room left for him to deny it."
+    },
+    {
+      "id": 18,
+      "cat": "if-they-break",
+      "danger": "extreme",
+      "title": "Make the Break Cost More Than It Gained Them",
+      "principle": "Schelling — Deterrence: The Punishment Must Exceed the Prize",
+      "remember": "If breaking the truce was cheap for them, they'll break it again.",
+      "hook": "A weak response teaches them the truce was never real. <strong>Make the price higher than what they gained.</strong>",
+      "truth": "A response smaller than their gain teaches them to break it again later.\n• If the cost of breaking it is low, breaking it becomes their standard move.\n• Your response needs to erase their gain and add a cost on top.\n• Most people respond just enough to feel better. The move is to respond enough that they remember it.",
+      "when": "You have solid proof your rival broke the truce, and now you have to respond.",
+      "theySee": "Someone who moves without warning, after staying quiet and controlled.",
+      "signals": [
+        {
+          "icon": "💰",
+          "l": "Their gain",
+          "t": "Name exactly what they got from breaking the truce."
+        },
+        {
+          "icon": "⚖️",
+          "l": "Underpriced risk",
+          "t": "They clearly expected a small or no response from you."
+        },
+        {
+          "icon": "👀",
+          "l": "Others watching",
+          "t": "Other people will see how you respond and remember it."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat risk",
+          "t": "Nothing stops them from doing this again if it goes unanswered."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name their exact gain",
+          "desc": "Write down precisely what breaking the truce got them."
+        },
+        {
+          "n": "2",
+          "title": "Build a response bigger than that gain",
+          "desc": "Pick a response that costs them more than they gained."
+        },
+        {
+          "n": "3",
+          "title": "Deliver it once, without a warning shot",
+          "desc": "Act directly — a warning just gives them time to prepare."
+        }
+      ],
+      "script": "\"You broke the terms, so the terms are void. Here's what happens now.\"",
+      "watchFor": "They stop testing you and start trying to negotiate a new peace instead.",
+      "ifItFails": "They shrug off the cost and escalate instead of backing down. Don't double the same move — that just trades blows evenly. Say: \"Then we're past truces,\" and shift to protecting your position long-term instead of trying to win the next exchange. This is extreme risk — do not use this against someone who controls your paycheck, your legal standing, or your safety. Get outside help first in those cases.",
+      "counter": "If someone is about to make you pay more than you gained from breaking a deal, see it coming.\n• They're not just angry — they're pricing a lesson for next time.\n• Don't assume your gain was worth whatever they're about to do back.\n• If you can, get ahead of it: name the cost yourself before they set it for you.",
+      "insight": "A truce with no real cost for breaking it was never a truce, just a pause. The open question left after this card is whether you want peace again someday, or whether this is the fight now, for good.",
+      "example": "When Victor's rival quietly poached his biggest referral source despite their truce, Victor didn't just complain — he pulled his support from a project the rival needed approved that same week. The rival lost more than he gained, and never tested the line again."
+    }
+  ]
+}
