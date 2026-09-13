@@ -1,0 +1,1204 @@
+{
+  "meta": {
+    "id": "srv-two-names-one-chair",
+    "version": "1.0",
+    "title": "Two Names, One Chair",
+    "subtitle": "Surviving a Co-Lead Who Wants the Whole Job",
+    "description": "A closed file on shared leadership. How a co-lead takes the role one inch at a time, what the first grab looks like, and how you hold your half or end the split on your terms.",
+    "author": "AI",
+    "createdAt": "2026-09-10T21:53:35.557Z",
+    "tags": [
+      "power",
+      "office politics",
+      "co-lead",
+      "status",
+      "territory",
+      "promotion"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#8A1C2B",
+    "coverIcon": "♟️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "reading",
+      "label": "Reading the Split You Were Handed",
+      "color": "#6B7A8F"
+    },
+    {
+      "key": "territory",
+      "label": "Claiming Territory Early",
+      "color": "#B5651D"
+    },
+    {
+      "key": "boss",
+      "label": "Who Speaks to the Boss",
+      "color": "#4C6A92"
+    },
+    {
+      "key": "encroach",
+      "label": "When He Moves on Your Half",
+      "color": "#8A1C2B"
+    },
+    {
+      "key": "team",
+      "label": "Making the Team Pick a Door",
+      "color": "#5C7A4A"
+    },
+    {
+      "key": "ending",
+      "label": "Ending the Split",
+      "color": "#3F3F46"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "reading",
+      "danger": "low",
+      "title": "Find Out Who Asked For the Split",
+      "principle": "Machiavelli: The Prince — Know Whose Hand Placed You",
+      "remember": "Someone chose this setup. Find out who and why.",
+      "when": "Your boss announces you and a peer will run the team together.",
+      "hook": "A shared job is never an accident. <strong>Someone wanted two names on the door, and they had a reason.</strong>",
+      "truth": "A split role is a decision, and decisions have authors.\n• A boss splits work when he cannot pick between two people.\n• Or one person asked for the title and got half.\n• Whoever asked for the split already knows what he wants next.",
+      "theySee": "A new co-lead asking friendly questions about how the plan came together.",
+      "signals": [
+        {
+          "icon": "🗓️",
+          "l": "Timing gap",
+          "t": "Your co-lead knew about the split before you did"
+        },
+        {
+          "icon": "🤐",
+          "l": "No reason given",
+          "t": "Your boss never explains why the job needs two people"
+        },
+        {
+          "icon": "📝",
+          "l": "Written by one",
+          "t": "The announcement uses your co-lead's words, not your boss's"
+        },
+        {
+          "icon": "🔁",
+          "l": "Temporary language",
+          "t": "Your boss calls the setup a trial or a first phase"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask your boss the direct question",
+          "desc": "Ask why the job has two leads and what would end that."
+        },
+        {
+          "n": "2",
+          "title": "Check the calendar",
+          "desc": "Look at who met your boss in the two weeks before the announcement."
+        },
+        {
+          "n": "3",
+          "title": "Ask a third person",
+          "desc": "Ask a peer outside the team what he heard about the setup."
+        }
+      ],
+      "script": "\"Before I run at this — <strong>what made you split the role instead of picking one of us?</strong> And what would make you stop splitting it?\"",
+      "watchFor": "Your boss pauses, then gives a date or a condition instead of a reason.",
+      "example": "Dan got named co-lead on a Monday. He asked his boss the same day why the role had two names. His boss said the split ran until the March review. Dan built his whole plan around March while his co-lead built one around forever.",
+      "ifItFails": "Your boss says it is a partnership and gives no end date. Do not push twice in one meeting. Send a short note that forces a written answer: <strong>\"Putting this in writing so we work off the same page — is the co-lead setup reviewed in March, or open-ended?\"</strong> A written question needs a written answer, and now you have both.",
+      "counter": "If someone asks you who built the setup, he is mapping the room.\n• He wants to know if you asked for the split.\n• Say: <strong>\"Ask him — I got the same call you did.\"</strong>\n• Then find out what he already knows before you say more.",
+      "insight": "Most people spend the first month working. The winner spends it finding the end date. The next question is harder: if the split has no end date, who benefits from that?"
+    },
+    {
+      "id": 2,
+      "cat": "reading",
+      "danger": "low",
+      "title": "Write Down What Each of You Owns",
+      "principle": "Sun Tzu: Know the Ground Before the Battle",
+      "remember": "Undefined work goes to whoever grabs it first.",
+      "when": "Your boss gives you and your co-lead the same job with no written split.",
+      "hook": "Nobody wrote down who owns what. <strong>That blank space is the whole fight.</strong>",
+      "truth": "A vague split is not neutral. It favors the faster hand.\n• Every task with no owner is a free square on the board.\n• Your co-lead is counting the same squares you are.\n• The first written list becomes the truth everyone quotes.",
+      "theySee": "A co-lead who sends a clean list of who owns what, one week in.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "No owner named",
+          "t": "The announcement lists goals but names no owner per goal"
+        },
+        {
+          "icon": "🙋",
+          "l": "Fast volunteering",
+          "t": "Your co-lead offers to take a task before anyone asks"
+        },
+        {
+          "icon": "📄",
+          "l": "Missing doc",
+          "t": "There is no document that says who decides what"
+        },
+        {
+          "icon": "🔄",
+          "l": "Double replies",
+          "t": "Two of you answer the same question from the same person"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List every part of the job",
+          "desc": "Write all the work areas on one page, budget and hiring included."
+        },
+        {
+          "n": "2",
+          "title": "Put a name on each line",
+          "desc": "Assign each line to you, to him, or mark it open."
+        },
+        {
+          "n": "3",
+          "title": "Send it and ask for edits",
+          "desc": "Send the page to him and your boss the same hour."
+        }
+      ],
+      "script": "\"I wrote down how I read the split so we don't both chase the same thing. <strong>Tell me what I got wrong and I'll fix it today.</strong>\"",
+      "watchFor": "He edits two lines and accepts the rest, which locks the rest in your version.",
+      "example": "Priya sent a one-page split on day four. Her co-lead moved one item and signed off. Six months later, every argument about ownership got settled by opening Priya's page.",
+      "ifItFails": "He never replies, or says the split feels too rigid. Silence is his move — it keeps the squares open. Send it again with a clock on it: <strong>\"No reply by Friday and I'll treat this version as how we're running it. Say the word if you want a different cut.\"</strong> Now doing nothing means agreeing.",
+      "counter": "If he sends the first written split, he has already picked the good half.\n• Read what he left open, not what he claimed.\n• Say: <strong>\"Good start. Three lines have no owner — let's fix those now.\"</strong>\n• Claim the open lines in the same reply, not later.",
+      "insight": "The page is worth more than the work for the first month. This works until your boss writes his own version — then the harder question is whose page he copies from."
+    },
+    {
+      "id": 3,
+      "cat": "reading",
+      "danger": "moderate",
+      "title": "Learn Which Half the Boss Actually Watches",
+      "principle": "Pfeffer: Power — Visibility Beats Output",
+      "remember": "Own the work your boss checks, not the work that matters most.",
+      "when": "You must choose which half of the shared job to fight for.",
+      "hook": "Two halves are never equal. <strong>One gets watched, one gets thanked at the end of the year.</strong>",
+      "truth": "Your boss has one number he reports upward. That is the half worth having.\n• The watched half gets mentioned in every status meeting.\n• The quiet half can be perfect and stay invisible.\n• Most people take the hard half thinking hard means valued.",
+      "theySee": "A co-lead who asks the boss what he reports to his own boss each month.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "Repeat metric",
+          "t": "Your boss asks about the same number every week"
+        },
+        {
+          "icon": "🚪",
+          "l": "Escalation path",
+          "t": "Problems in one area go straight to your boss's boss"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Meeting order",
+          "t": "One area gets discussed first in every review"
+        },
+        {
+          "icon": "🧊",
+          "l": "Silent area",
+          "t": "Your boss has not asked about the other half in a month"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Read three status decks",
+          "desc": "Find what your boss reports upward and which numbers appear every time."
+        },
+        {
+          "n": "2",
+          "title": "Count the questions",
+          "desc": "Track which half your boss asks about over two weeks."
+        },
+        {
+          "n": "3",
+          "title": "Ask for that half out loud",
+          "desc": "Tell your boss you want the watched half and give a work reason."
+        }
+      ],
+      "script": "\"I want to take <strong>the delivery number</strong> because that's the one you report every month. He's stronger on platform anyway. Any reason not to?\"",
+      "watchFor": "Your boss agrees quickly, which means he already thought about who owns that number.",
+      "example": "Marco tracked his boss's questions for two weeks. Eleven were about churn, one was about tooling. He asked for churn and got it. His co-lead kept tooling and spent the year explaining work nobody asked about.",
+      "ifItFails": "Your co-lead already holds the watched half. Do not ask to swap — that reads as a grab. Attach yourself to the number instead: <strong>\"I'll own the weekly churn readout so you get your time back for the platform build.\"</strong> Reporting a number puts you in the room where it gets discussed.",
+      "counter": "If he asks for the visible half and calls it a favor, he is taking the podium.\n• Notice he offered you the harder work, not the seen work.\n• Say: <strong>\"Fine — then I present it every other month.\"</strong>\n• Split the reporting even when you split the work unevenly.",
+      "insight": "Do not run this on a boss who signs your review while your co-lead is in the room. The trap is real though: the watched half is also the half that gets you blamed first."
+    },
+    {
+      "id": 4,
+      "cat": "reading",
+      "danger": "moderate",
+      "title": "Spot the Co-Lead Who Is Playing for Sole Ownership",
+      "principle": "Greene: Laws of Human Nature — Read the Move, Not the Mood",
+      "remember": "Watch what he collects, not what he says.",
+      "when": "Your co-lead is friendly, helpful, and something still feels off.",
+      "hook": "He says partner in every meeting. <strong>Count what he takes home after each one.</strong>",
+      "truth": "A person who wants the whole job collects three things: access, information, and the record.\n• He takes meetings with your boss alone and calls them quick syncs.\n• He answers questions you should have answered.\n• He writes the summary of every meeting he sits in.",
+      "theySee": "A calm co-lead who agrees in the room and asks normal follow-up questions.",
+      "signals": [
+        {
+          "icon": "🤝",
+          "l": "Solo access",
+          "t": "He meets your boss without you and summarizes it after"
+        },
+        {
+          "icon": "✍️",
+          "l": "Owns the notes",
+          "t": "He sends the recap of every meeting, including yours"
+        },
+        {
+          "icon": "📣",
+          "l": "We becomes I",
+          "t": "He says we in the room and I in the writeup"
+        },
+        {
+          "icon": "🧲",
+          "l": "Team pull",
+          "t": "Your reports check decisions with him first"
+        },
+        {
+          "icon": "🕰️",
+          "l": "Late loop-in",
+          "t": "He tells you about decisions after they are made"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log his solo meetings",
+          "desc": "For two weeks, write down every meeting he had with your boss alone."
+        },
+        {
+          "n": "2",
+          "title": "Read his recaps for pronouns",
+          "desc": "Count how many times he writes I where the work was shared."
+        },
+        {
+          "n": "3",
+          "title": "Take one recap yourself",
+          "desc": "Send the summary of the next shared meeting before he does."
+        }
+      ],
+      "script": "\"I'll take notes on this one and send the recap — <strong>you've been carrying that every week.</strong>\"",
+      "watchFor": "He offers to send it anyway, twice, in the same conversation.",
+      "example": "Lena noticed her co-lead wrote every recap for a month. She sent one herself after a planning meeting. He replied within ten minutes with his own version and called it a supplement. She stopped wondering.",
+      "ifItFails": "He keeps writing the recaps and you look petty if you fight over notes. Move up a level instead of sideways. Ask your boss for a standing three-way check-in: <strong>\"Can we make the Thursday sync all three of us? Cleaner than two versions reaching you.\"</strong> That kills the solo channel without naming him.",
+      "counter": "If someone starts taking notes at every meeting you share, he is building the record.\n• The person who writes the summary decides what happened.\n• Say: <strong>\"Send me the draft first — I'll add my side before it goes out.\"</strong>\n• Reply to his recap in writing with your correction, every time.",
+      "insight": "Do not confront him on this — you will look insecure and he will look organized. The real move is boring: you write the record too. The harder question is what you do when your boss starts quoting his version back to you."
+    },
+    {
+      "id": 5,
+      "cat": "territory",
+      "danger": "moderate",
+      "title": "Take the Hiring Decisions First",
+      "principle": "Greene: Law 12 — Selective Honesty × Control of Appointments",
+      "remember": "Whoever hires the team owns the team in a year.",
+      "when": "The shared team has open roles to fill in the next quarter.",
+      "hook": "Budgets get cut. Projects get killed. <strong>The people you hired stay for years.</strong>",
+      "truth": "Hiring is the only territory that keeps working after you stop pushing.\n• Every person you hire treats you as the reason he is here.\n• Loyalty from a hire costs nothing and lasts through reorganizations.\n• Most co-leads fight over projects and hand over hiring as admin work.",
+      "theySee": "A co-lead who volunteers to run the boring interview loops and headcount tracker.",
+      "signals": [
+        {
+          "icon": "🪑",
+          "l": "Open seats",
+          "t": "The team has two or more roles unfilled"
+        },
+        {
+          "icon": "📋",
+          "l": "No loop owner",
+          "t": "Nobody runs the interview process end to end"
+        },
+        {
+          "icon": "😩",
+          "l": "He calls it admin",
+          "t": "Your co-lead complains that interviews eat his week"
+        },
+        {
+          "icon": "💰",
+          "l": "Headcount unclaimed",
+          "t": "Nobody tracks the budget for open roles"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Offer to own the loop",
+          "desc": "Tell your co-lead you will run interviews so he keeps building time."
+        },
+        {
+          "n": "2",
+          "title": "Make the final call yours",
+          "desc": "Say you will bring him finalists, not every candidate."
+        },
+        {
+          "n": "3",
+          "title": "Meet each new hire week one",
+          "desc": "Sit with every new person in their first week, alone, for thirty minutes."
+        }
+      ],
+      "script": "\"I'll take the hiring loop off you — <strong>screens, panels, offers.</strong> I'll bring you the last two for each role so you're not sitting in eight interviews a week.\"",
+      "watchFor": "He says thank you and puts his interview time back into his own projects.",
+      "example": "Ray took over hiring because his co-lead called it a time sink. He hired four engineers in five months. When the team split next year, all four asked to report to Ray.",
+      "ifItFails": "He insists on joint decisions on every hire. Do not fight it — control the front of the pipe instead. Own sourcing and screening: <strong>\"You take final calls, I'll run screens and bring you the shortlist.\"</strong> He picks from the list you built.",
+      "counter": "If your co-lead volunteers for all the hiring, he is buying next year's team.\n• Notice he took work that looks tedious and lasts forever.\n• Say: <strong>\"I'll sit on the final panel for every role.\"</strong>\n• Meet each new hire in their first week yourself.",
+      "insight": "Do not run this if you plan to leave inside a year — you pay the cost and someone else collects. The trap is volume: hire fast and badly and every one of those people is your name on a mistake."
+    },
+    {
+      "id": 6,
+      "cat": "territory",
+      "danger": "moderate",
+      "title": "Own the Number Everyone Repeats",
+      "principle": "Schelling: Focal Point — Coordination Around One Signal",
+      "remember": "Own one number and every meeting starts with your slide.",
+      "when": "Your team reports several metrics and none of them belongs to a person.",
+      "hook": "Every team has one number the room actually cares about. <strong>Put your name on it before he does.</strong>",
+      "truth": "A number with your name attached pulls you into every room where it comes up.\n• People bring the number to you before they bring it to your boss.\n• You decide what the number means when it moves.\n• Most people report numbers. Owning one means you explain it.",
+      "theySee": "A co-lead who sends a short weekly note with one number and one line of context.",
+      "signals": [
+        {
+          "icon": "🔢",
+          "l": "Orphan metric",
+          "t": "A key number appears in decks with no owner listed"
+        },
+        {
+          "icon": "❓",
+          "l": "Wrong asks",
+          "t": "People ask three different people what the number means"
+        },
+        {
+          "icon": "📆",
+          "l": "No cadence",
+          "t": "The number gets reported when someone remembers"
+        },
+        {
+          "icon": "📉",
+          "l": "Blame drift",
+          "t": "When the number drops, nobody is asked to explain it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one number",
+          "desc": "Choose the number your boss repeats most and that you can influence."
+        },
+        {
+          "n": "2",
+          "title": "Start a weekly note",
+          "desc": "Send the number every Monday with two lines: what moved and why."
+        },
+        {
+          "n": "3",
+          "title": "Answer before you are asked",
+          "desc": "When it drops, send the explanation before anyone requests it."
+        }
+      ],
+      "script": "\"Starting Monday I'll send the <strong>weekly retention read</strong> — number, what moved, what we're doing. Ping me directly if you need it sooner.\"",
+      "watchFor": "Your boss forwards your note upward instead of writing his own version.",
+      "example": "Sofia started a Monday retention note nobody asked for. By week six her director was pasting it into the executive update. When a VP wanted a retention answer, he emailed Sofia, not her co-lead.",
+      "ifItFails": "He starts sending a competing note on the same number. Two notes confuse the room and you both lose. Merge them and keep the pen: <strong>\"One note beats two — I'll keep sending it and put your platform section on top.\"</strong> He gets a section, you keep the byline.",
+      "counter": "If he claims a number, he claims every meeting about it.\n• Notice he sends the update nobody assigned him.\n• Say: <strong>\"Add my section and send it from both of us.\"</strong>\n• If he refuses, start your own note on a different number that week.",
+      "insight": "One number beats five. The trap is picking a number you cannot move — then you own the bad news and none of the credit. The next question is what you do the first week it drops."
+    },
+    {
+      "id": 7,
+      "cat": "territory",
+      "danger": "high",
+      "title": "Get Your Name on the Budget Line",
+      "principle": "Pfeffer: Control of Resources",
+      "remember": "The person who approves spending is the real boss.",
+      "when": "Your shared team has a budget and only one of you signs off.",
+      "hook": "Titles are noise. <strong>The person who says yes to money is the one people ask.</strong>",
+      "truth": "Approval rights beat job titles every time.\n• People learn who approves within two weeks and route around the other name.\n• Every approval is a small favor that gets remembered.\n• A co-lead with no approval rights is a senior helper.",
+      "theySee": "A co-lead who asks finance a practical question about how approvals get routed.",
+      "signals": [
+        {
+          "icon": "🖊️",
+          "l": "One signer",
+          "t": "Only his name is in the approval system"
+        },
+        {
+          "icon": "🔀",
+          "l": "Routing habit",
+          "t": "Your team sends spending requests to him, not to you"
+        },
+        {
+          "icon": "🤷",
+          "l": "You find out late",
+          "t": "You learn about a purchase after it clears"
+        },
+        {
+          "icon": "💬",
+          "l": "Vendor calls",
+          "t": "Vendors ask for him by name"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the system",
+          "desc": "Ask finance who is listed as approver for your team's cost center."
+        },
+        {
+          "n": "2",
+          "title": "Ask your boss for parity",
+          "desc": "Ask to be added as a second approver at the same limit."
+        },
+        {
+          "n": "3",
+          "title": "Approve something in week one",
+          "desc": "Approve the first request that comes in so the team learns the path."
+        }
+      ],
+      "script": "\"Finance has one approver on our cost center and it's him. <strong>Add me at the same limit</strong> — otherwise the co-lead thing is just a word on a slide.\"",
+      "watchFor": "Finance sends you a confirmation email and the first request lands in your queue.",
+      "example": "Tom found out only his co-lead could approve spending. He asked his director in a one-on-one and got added the same week. Two months later he approved a tooling contract his co-lead had stalled for a month, and the team noticed who unblocked it.",
+      "ifItFails": "Your boss says one approver keeps things simple. Do not argue about fairness — argue about speed. Say: <strong>\"Then make me the backup approver so nothing waits when he's out.\"</strong> Backup becomes primary the first week he takes vacation.",
+      "counter": "If he keeps sole approval and calls it a formality, it is not a formality.\n• Watch whose queue the requests land in.\n• Say: <strong>\"Add me as backup so nothing stalls when you travel.\"</strong>\n• Then approve the first thing that arrives while he is out.",
+      "insight": "Do not raise this in a group meeting — it sounds like a power grab because it is one. Ask in private, frame it as coverage. The harder part is what you approve first: pick something the team already wanted."
+    },
+    {
+      "id": 8,
+      "cat": "territory",
+      "danger": "low",
+      "title": "Run the Meeting Nobody Wants to Run",
+      "principle": "Gracián: The Art of Worldly Wisdom — Make Yourself Necessary",
+      "remember": "Run the calendar and you decide what gets discussed.",
+      "when": "Your shared team has a weekly meeting with no clear owner.",
+      "hook": "Whoever writes the agenda decides what the team thinks about. <strong>That job is usually free.</strong>",
+      "truth": "Agenda control is the cheapest power in a shared job.\n• You choose what gets time and what gets pushed to next week.\n• You decide who presents and who watches.\n• People read agenda work as service, so nobody fights you for it.",
+      "theySee": "A helpful co-lead who sends the agenda every Sunday night.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Drifting meeting",
+          "t": "The weekly meeting starts with nobody knowing the topic"
+        },
+        {
+          "icon": "⏰",
+          "l": "Overruns",
+          "t": "The meeting runs long and items get dropped at random"
+        },
+        {
+          "icon": "🙃",
+          "l": "No owner",
+          "t": "Nobody sends an agenda before the meeting"
+        },
+        {
+          "icon": "🔇",
+          "l": "Same voices",
+          "t": "The same two people talk for most of the hour"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send an agenda Sunday",
+          "desc": "Post a five-line agenda before the next weekly meeting."
+        },
+        {
+          "n": "2",
+          "title": "Give each item an owner",
+          "desc": "Write a name next to every line, including his."
+        },
+        {
+          "n": "3",
+          "title": "Close with actions",
+          "desc": "End the meeting by reading out who does what by when."
+        }
+      ],
+      "script": "\"I'll own the agenda for the weekly so we stop losing the last fifteen minutes. <strong>Send me items by Friday and I'll slot them.</strong>\"",
+      "watchFor": "He starts sending you his items by Friday instead of raising them live.",
+      "example": "Nina took over the weekly agenda because it kept running over. Within a month, her co-lead was emailing her to get his topic on the list. She decided what the team talked about and it looked like housekeeping.",
+      "ifItFails": "He starts adding items live and blowing up your order. Do not fight it in the room. Put a written cap on it after: <strong>\"Let's cap live adds at one per person — everything else waits a week.\"</strong> Now the rule limits him, not you.",
+      "counter": "If he owns the agenda, he owns what the team thinks about.\n• Notice which of your items keep sliding to next week.\n• Say: <strong>\"Put my item first this week — it's slipped twice.\"</strong>\n• If it slips again, send it to the team as its own note.",
+      "insight": "This is the lowest-risk grab in the book because it looks like chores. The trap is doing it forever — the agenda owner can turn into the secretary if he never presents anything himself."
+    },
+    {
+      "id": 9,
+      "cat": "boss",
+      "danger": "high",
+      "title": "Never Let Him Be the Only Voice in the Room",
+      "principle": "Greene: Law 8 — Make Others Come to You × Access Control",
+      "remember": "If he meets the boss alone, you get described, not heard.",
+      "when": "Your co-lead has a standing one-on-one with your boss and you do not.",
+      "hook": "He is in there right now. <strong>You are the topic and not the speaker.</strong>",
+      "truth": "Access decides the story. The person in the room writes it.\n• He gives context first, and first context sticks.\n• Your work reaches your boss through his words.\n• Most people wait to be invited. The invite never comes.",
+      "theySee": "A co-lead who asks the boss for a short regular check-in for practical reasons.",
+      "signals": [
+        {
+          "icon": "🚪",
+          "l": "Standing solo",
+          "t": "He has a recurring one-on-one and you do not"
+        },
+        {
+          "icon": "🔮",
+          "l": "Boss knows first",
+          "t": "Your boss mentions details you have not told him"
+        },
+        {
+          "icon": "🧾",
+          "l": "Second-hand feedback",
+          "t": "You hear your boss's opinions through your co-lead"
+        },
+        {
+          "icon": "📞",
+          "l": "Quick calls",
+          "t": "He takes calls from your boss and steps out of the room"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for your own slot",
+          "desc": "Ask your boss for a 20-minute weekly one-on-one, same as your co-lead."
+        },
+        {
+          "n": "2",
+          "title": "Bring one decision each time",
+          "desc": "Never bring a status update. Bring a decision he must make."
+        },
+        {
+          "n": "3",
+          "title": "Send a two-line recap",
+          "desc": "After each one-on-one, email what you agreed so it is on the record."
+        }
+      ],
+      "script": "\"I'd like twenty minutes a week, same as he gets. <strong>Not for status — I'll bring you one decision each time.</strong> Tuesday or Thursday?\"",
+      "watchFor": "Your boss picks a day on the spot instead of saying he will think about it.",
+      "example": "Ken realized his co-lead had a Monday one-on-one he never knew about. He asked for Thursdays and brought one hard decision every week. By quarter end his boss was pinging him first on anything urgent.",
+      "ifItFails": "Your boss says he prefers to meet you both together. Take it and change the shape. Ask to alternate who leads the meeting: <strong>\"Works for me. Can we alternate who drives the agenda so you hear both reads?\"</strong> If he refuses that too, start sending your own short weekly note directly.",
+      "counter": "If your co-lead controls access, he controls your reputation.\n• Notice when your boss knows things you never told him.\n• Say to your boss: <strong>\"Tell me what you're hearing about my side.\"</strong>\n• Then correct one specific thing, with a number, not a complaint.",
+      "insight": "Do not complain about his access — bosses hear that as weakness. Ask for your own instead. The harder part: once you have the slot, you have to be worth the twenty minutes every single week."
+    },
+    {
+      "id": 10,
+      "cat": "boss",
+      "danger": "moderate",
+      "title": "Report Results, Not Effort",
+      "principle": "Cialdini: Authority × Pfeffer: Self-Promotion Without Bragging",
+      "remember": "Say what changed and by how much. Skip the story.",
+      "when": "You and your co-lead both update your boss on the same shared work.",
+      "hook": "He talks about how hard the week was. <strong>You say the number went from 41 to 58.</strong>",
+      "truth": "Bosses remember numbers and forget effort stories.\n• A number sounds like a fact and does not need defending.\n• Effort stories sound like a request for sympathy.\n• Most people describe the work because the work was hard.",
+      "theySee": "A co-lead who gives three short sentences with two numbers in them.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Effort talk",
+          "t": "Your co-lead opens updates with how busy the team was"
+        },
+        {
+          "icon": "⏳",
+          "l": "Long updates",
+          "t": "His update runs five minutes with no number in it"
+        },
+        {
+          "icon": "😐",
+          "l": "Boss checks out",
+          "t": "Your boss looks at his phone during the update"
+        },
+        {
+          "icon": "📈",
+          "l": "Number gap",
+          "t": "Nobody states a before and after figure"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your update as three lines",
+          "desc": "Line one: the number. Line two: what changed it. Line three: what is next."
+        },
+        {
+          "n": "2",
+          "title": "Include one before and after",
+          "desc": "Always say the old number and the new number in the same sentence."
+        },
+        {
+          "n": "3",
+          "title": "Stop talking after the third line",
+          "desc": "Do not fill silence. Let your boss ask the next question."
+        }
+      ],
+      "script": "\"Two things. <strong>Onboarding time went from nine days to four.</strong> The new checklist did it. Next I'm cutting the approval step — I need your sign-off by Friday.\"",
+      "watchFor": "Your boss writes the number down or repeats it back to you.",
+      "example": "Ana followed her co-lead's ten-minute update with three sentences and two numbers. Her director stopped her at the door afterward and asked her to present the same thing to his boss. She got the room.",
+      "ifItFails": "Your boss nods and moves on without reacting. That means the number did not matter to him. Ask him directly which number does: <strong>\"Which number do you get asked about upstairs? I'll report that one instead.\"</strong> Then own that number from the next update onward.",
+      "counter": "If he leads with numbers and you lead with work, you sound slower.\n• Notice when his update has a figure and yours has a paragraph.\n• Say: <strong>\"Mine's up 30 percent this month — here's the driver.\"</strong>\n• Bring one number to every update, even a small one.",
+      "insight": "Do not inflate a number — one caught exaggeration erases a year of trust. The trap is picking numbers that flatter you but nobody upstairs tracks."
+    },
+    {
+      "id": 11,
+      "cat": "boss",
+      "danger": "high",
+      "title": "Make Your Boss Choose Between Two Plans",
+      "principle": "Schelling: Commitment × Forced Choice",
+      "remember": "Bring two plans and one of them is yours.",
+      "when": "You and your co-lead disagree and neither of you will move.",
+      "hook": "A tie goes to whoever framed the question. <strong>Frame it first.</strong>",
+      "truth": "Bosses hate conflict but they like picking from a menu.\n• A written choice turns a fight into a decision he can make in a minute.\n• The person who writes both options controls how both look.\n• Most people escalate with a complaint and get told to work it out.",
+      "theySee": "A co-lead who sends a one-page document with two clear options and a recommendation.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Loop with no end",
+          "t": "You have argued the same point in three meetings"
+        },
+        {
+          "icon": "🕳️",
+          "l": "Work stalled",
+          "t": "The team waits because neither of you decided"
+        },
+        {
+          "icon": "🙅",
+          "l": "Boss dodges",
+          "t": "Your boss tells you both to align and leaves"
+        },
+        {
+          "icon": "📃",
+          "l": "Nothing written",
+          "t": "The disagreement exists only in conversations"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write both options fairly",
+          "desc": "Give each option a cost, a risk, and a date. Make his readable."
+        },
+        {
+          "n": "2",
+          "title": "Name your pick and why",
+          "desc": "Say which one you recommend in one sentence with one reason."
+        },
+        {
+          "n": "3",
+          "title": "Set a decision date",
+          "desc": "Ask for an answer by a specific day and say what happens without one."
+        }
+      ],
+      "script": "\"We're stuck, so here's both plans on one page. <strong>I recommend option A because it ships in six weeks instead of twelve.</strong> If we don't pick by Thursday, we lose the quarter.\"",
+      "watchFor": "Your boss replies in the document instead of asking for a meeting.",
+      "example": "Deepak and his co-lead deadlocked on architecture for a month. Deepak wrote both plans on one page and sent it with a Thursday deadline. His boss picked Deepak's option in writing on Wednesday, and the argument was over.",
+      "ifItFails": "Your boss picks your co-lead's plan. Do not relitigate — bank it instead. Reply in writing the same day: <strong>\"Got it, going with his plan. I'll own the migration piece and report progress weekly.\"</strong> You lose the decision and take the reporting job that comes with it.",
+      "counter": "If he sends the boss two options, read how he described yours.\n• Check whether your option has a cost his does not.\n• Say: <strong>\"My option is described wrong — here's the corrected version.\"</strong>\n• Send your correction to the same people, within the hour.",
+      "insight": "Do not run this more than once a quarter. A boss who gets forced choices weekly starts seeing you as the problem, not the solver. The real trap: whichever plan wins, you must be visibly loyal to it by Monday."
+    },
+    {
+      "id": 12,
+      "cat": "encroach",
+      "danger": "high",
+      "title": "Answer the First Small Grab Immediately",
+      "principle": "Greene: Law 15 — Crush the Enemy Totally, Applied Small",
+      "remember": "The first grab is a test. Answer it in one day.",
+      "when": "Your co-lead makes one decision on your side without telling you.",
+      "hook": "He moved one inch. <strong>He is watching to see if you noticed.</strong>",
+      "truth": "The first grab is small on purpose. It costs him nothing if you push back.\n• He picks something minor so complaining looks petty.\n• If nothing happens, the next grab is bigger.\n• Most people let the first one go and lose the whole half by month six.",
+      "theySee": "A co-lead who sends a short, calm, same-day message about one specific decision.",
+      "signals": [
+        {
+          "icon": "📩",
+          "l": "Copy without ask",
+          "t": "He emails your team a decision and copies you at the end"
+        },
+        {
+          "icon": "🧑‍💼",
+          "l": "Direct to your report",
+          "t": "He gives direction to someone who reports to you"
+        },
+        {
+          "icon": "🤏",
+          "l": "Small first",
+          "t": "The first grab is minor enough that complaining looks small"
+        },
+        {
+          "icon": "🫧",
+          "l": "Soft language",
+          "t": "He calls it just moving things along"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer the same day",
+          "desc": "Send one message within 24 hours. Later reads as acceptance."
+        },
+        {
+          "n": "2",
+          "title": "Name the specific act, not his character",
+          "desc": "Say what he did. Do not say he is trying to take over."
+        },
+        {
+          "n": "3",
+          "title": "State the rule going forward",
+          "desc": "Give one plain sentence about how the next one gets handled."
+        }
+      ],
+      "steps_note": "",
+      "script": "\"You told Sam to change the launch date. <strong>That's my call and I need to make it.</strong> Next time send it to me and I'll turn it around same day.\"",
+      "watchFor": "He apologizes and then routes the next decision to you instead of your team.",
+      "example": "Chris saw his co-lead reschedule a launch with his engineer directly. He messaged him within two hours, named the exact decision, and set the rule. The next four decisions came to Chris first.",
+      "ifItFails": "He says he was just helping and does it again a week later. Stop talking to him and change the plumbing. Tell your report in writing: <strong>\"If a change request comes from him, send it to me before you act on it.\"</strong> Now his grabs bounce back to you automatically.",
+      "counter": "If someone corrects you sharply the same day over something small, he is setting a line.\n• Notice the speed — fast means he is defending territory.\n• Say: <strong>\"Fair. I'll route it through you.\"</strong>\n• Then test a different area next month and see if he watches that one too.",
+      "insight": "Do not run this in a group channel — public correction of a peer makes you the aggressor. Send it direct. The harder problem: he will now grab in places you cannot see."
+    },
+    {
+      "id": 13,
+      "cat": "encroach",
+      "danger": "high",
+      "title": "Put the Record in Writing Without Complaining",
+      "principle": "Machiavelli: Discourses — Evidence Beats Argument",
+      "remember": "Write down what happened. Never write down how you feel.",
+      "when": "Your co-lead takes credit for work your side did.",
+      "hook": "You cannot argue about credit and win. <strong>You can put facts where people read them.</strong>",
+      "truth": "Complaints sound like weakness. Records sound like management.\n• A neutral written record beats any spoken protest.\n• You do not accuse. You list who did what and let readers count.\n• Most people either stay silent or explode. Both lose.",
+      "theySee": "A co-lead who sends a factual project recap with names next to each piece of work.",
+      "signals": [
+        {
+          "icon": "🎤",
+          "l": "Credit shift",
+          "t": "He presents your team's work using I instead of naming people"
+        },
+        {
+          "icon": "📰",
+          "l": "Missing names",
+          "t": "His writeup leaves out the person who did the work"
+        },
+        {
+          "icon": "😶",
+          "l": "Team notices",
+          "t": "Your report asks you why his name was on their project"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat pattern",
+          "t": "It has happened twice on two different projects"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write a plain recap",
+          "desc": "List each piece of work and the person who did it. No adjectives."
+        },
+        {
+          "n": "2",
+          "title": "Send it to the whole group",
+          "desc": "Send it to your boss, your co-lead, and the team together."
+        },
+        {
+          "n": "3",
+          "title": "Do it every time, not once",
+          "desc": "Make the recap a routine so it never looks like a reaction."
+        }
+      ],
+      "script": "\"Recap for the record: <strong>Sam built the pipeline, Dana ran the migration, I handled the vendor.</strong> Full timeline attached. Good quarter.\"",
+      "watchFor": "Your boss replies to the recap and names the people you named.",
+      "example": "Ruth's co-lead presented her team's migration as his own. She sent a plain recap the next morning with three names in it and no complaint. Her director replied to all and thanked the two engineers by name. Her co-lead never presented her work again.",
+      "ifItFails": "He replies to your recap with his own version that adds his contributions. Do not argue in the thread. Take it to your boss in person once, with the two documents: <strong>\"Two recaps went out. Tell me which one matches what you saw, so I know how to run the next one.\"</strong> Make him rule on the facts, not on the two of you.",
+      "counter": "If someone sends a factual recap right after you present, he is correcting the record.\n• Notice the timing — within a day means it is aimed at you.\n• Say: <strong>\"Good detail. I'll use your names list in the exec version.\"</strong>\n• Then add your own contribution as a line, not as a rebuttal.",
+      "insight": "Do not send a recap while you are angry — the tone leaks through and people smell it. Wait until morning. The trap is frequency: recap everything and you become noise nobody opens."
+    },
+    {
+      "id": 14,
+      "cat": "encroach",
+      "danger": "extreme",
+      "title": "Set One Public Boundary in a Meeting",
+      "principle": "Schelling: The Visible Commitment",
+      "remember": "Say the line once in front of witnesses. Then stop.",
+      "when": "Your co-lead overrides your decision in front of the team.",
+      "hook": "He did it in the room. <strong>The room is where you answer.</strong>",
+      "truth": "A boundary set in private can be denied. One set in front of six people cannot.\n• Witnesses make the rule real without you repeating it.\n• You state a fact about ownership, not a feeling about him.\n• Most people swallow it in the room and complain after. That confirms he can.",
+      "theySee": "A co-lead who says one flat sentence, without heat, and moves the meeting along.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Public override",
+          "t": "He reverses your call while your team watches"
+        },
+        {
+          "icon": "👥",
+          "l": "Room goes quiet",
+          "t": "The team stops talking and looks at you"
+        },
+        {
+          "icon": "🔂",
+          "l": "Second time",
+          "t": "He has done this before and nothing happened"
+        },
+        {
+          "icon": "🙂",
+          "l": "Casual tone",
+          "t": "He says it lightly, as if it is not a decision"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer in the room",
+          "desc": "Say one sentence right then. Do not save it for later."
+        },
+        {
+          "n": "2",
+          "title": "State ownership as a fact",
+          "desc": "Say who owns the call. Do not explain or defend."
+        },
+        {
+          "n": "3",
+          "title": "Move the meeting on",
+          "desc": "Ask the next agenda question immediately so nobody debates it."
+        }
+      ],
+      "script": "\"<strong>Hiring for this team is my call and it stays a yes.</strong> Next item — Dana, where are we on the migration?\"",
+      "watchFor": "He does not push back in the room and the next person starts talking about the next item.",
+      "example": "Owen's co-lead cancelled his hire offer in a team meeting. Owen said one sentence, kept the offer, and asked the next question. Nobody mentioned it again, and his co-lead never overruled him publicly after that.",
+      "ifItFails": "He argues back in the room and the meeting turns into a fight. Stop instantly — you cannot win a public argument with a peer. Say: <strong>\"We'll settle it after and tell you all today.\"</strong> Then take it to your boss the same afternoon with both positions written down.",
+      "counter": "If someone draws a public line on you, do not fight it live.\n• Notice that witnesses are the point of his move.\n• Say: <strong>\"Noted. Let's take it offline.\"</strong>\n• Then get the decision reversed in writing, not in the room.",
+      "insight": "Do not run this if your co-lead has more time with your boss than you do — you will look like the difficult one. Use it once a year at most. The next problem is repair: you have to be visibly normal with him the very next day."
+    },
+    {
+      "id": 15,
+      "cat": "team",
+      "danger": "high",
+      "title": "Make People Route Requests to One of You",
+      "principle": "Cialdini: Consistency — Small Commitments Harden",
+      "remember": "Fix the routing and the team picks without knowing it.",
+      "when": "Your team keeps asking both of you the same question and getting two answers.",
+      "hook": "Nobody votes for a leader. <strong>They just learn whose name to type first.</strong>",
+      "truth": "The team follows the path with the fewest problems, not the better leader.\n• Whoever answers fastest becomes the default within three weeks.\n• Two answers to one question makes people pick a permanent side.\n• Most people wait for the boss to clarify. He will not.",
+      "theySee": "A co-lead who answers within an hour and gives a clear yes or no.",
+      "signals": [
+        {
+          "icon": "↔️",
+          "l": "Double asking",
+          "t": "Team members ask both of you and compare answers"
+        },
+        {
+          "icon": "⚡",
+          "l": "Speed gap",
+          "t": "One of you replies in an hour and one in a day"
+        },
+        {
+          "icon": "🧭",
+          "l": "No routing rule",
+          "t": "Nobody knows which questions go to whom"
+        },
+        {
+          "icon": "🫤",
+          "l": "Conflicting calls",
+          "t": "Two answers to the same question reach the team"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Publish a routing line",
+          "desc": "Post one message saying which topics come to you and which to him."
+        },
+        {
+          "n": "2",
+          "title": "Answer within the hour",
+          "desc": "For your topics, reply fast even if the answer is not yet."
+        },
+        {
+          "n": "3",
+          "title": "Never reverse him publicly",
+          "desc": "If he answered first, take the disagreement to him privately."
+        }
+      ],
+      "script": "\"Quick routing so nobody waits: <strong>hiring, budget and dates come to me. Architecture and tooling go to him.</strong> I'll answer within the hour.\"",
+      "watchFor": "Requests stop arriving in the group channel and start landing in your direct messages.",
+      "example": "Ben posted a four-line routing note and answered every question inside an hour. His co-lead took a day to reply on average. Within a month, people were asking Ben about architecture too.",
+      "ifItFails": "He posts his own routing note that claims your topics. Two notes means the team ignores both. Do not post a third — make it a joint decision he cannot dodge: <strong>\"Let's send one version together. Send me your cut and I'll merge it today.\"</strong> The merged version is written by whoever holds the pen.",
+      "counter": "If he posts routing rules, read which topics he assigned himself.\n• Notice that he took the topics with decision power.\n• Say: <strong>\"Add that dates and budget come to me — that's already how it runs.\"</strong>\n• Then answer one of those questions publicly within the hour.",
+      "insight": "Do not claim topics you cannot answer fast — one slow week and the team routes around you permanently. The real trap: speed is a promise you must keep every day."
+    },
+    {
+      "id": 16,
+      "cat": "team",
+      "danger": "high",
+      "title": "Build Two Allies Who Will Say Your Name",
+      "principle": "Greene: Law 18 — Do Not Build Fortresses, Build a Network",
+      "remember": "Two people who defend you beat ten who like you.",
+      "when": "You realize your co-lead is talking about you to people you do not know.",
+      "hook": "Being liked is decoration. <strong>You need two people who will argue for you when you are not there.</strong>",
+      "truth": "Reputation is built by other mouths, not yours.\n• A peer's word about you carries more weight than your own.\n• Allies need a reason: give them something they cannot get elsewhere.\n• Most people build wide and shallow. Two deep allies beat twenty contacts.",
+      "theySee": "A peer who brings useful information and asks for nothing that week.",
+      "signals": [
+        {
+          "icon": "🕵️",
+          "l": "Backchannel",
+          "t": "You hear your name came up in a meeting you were not in"
+        },
+        {
+          "icon": "🧩",
+          "l": "Uneven support",
+          "t": "Nobody speaks for you when a decision goes against you"
+        },
+        {
+          "icon": "🤔",
+          "l": "New opinions",
+          "t": "Someone outside your team has a firm view about your work"
+        },
+        {
+          "icon": "📉",
+          "l": "No sponsor",
+          "t": "You cannot name one person who would defend you to your boss"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick two names",
+          "desc": "Choose one peer of your boss and one person your boss trusts."
+        },
+        {
+          "n": "2",
+          "title": "Give first, three times",
+          "desc": "Send each one something useful — data, a warning, a contact — before asking anything."
+        },
+        {
+          "n": "3",
+          "title": "Tell them what you want",
+          "desc": "Say plainly what role you want next so they can repeat it."
+        }
+      ],
+      "script": "\"I want the whole team by the March review. <strong>If my name comes up, that's what I'm going for.</strong> Anything you'd fix before then?\"",
+      "watchFor": "One of them tells you something about your boss's thinking that you did not ask for.",
+      "example": "Hana picked two allies: her boss's peer in finance and the head of support. She fed each of them early warnings for three months and asked for nothing. When the co-lead split ended, both told her director she should run it alone.",
+      "ifItFails": "You ask and they go vague, or say they stay out of politics. That is a no. Do not push — spend the effort elsewhere. Go to someone who already owes you: <strong>\"You said the pipeline fix saved your quarter. I'm going for the full team in March — would you say that to Mark?\"</strong> A specific ask attached to a specific debt is harder to dodge.",
+      "counter": "If your co-lead suddenly has coffee with your boss's peers, he is building the same network.\n• Notice new names in his calendar, not new words in his mouth.\n• Say to those people: <strong>\"What are you hearing about our team?\"</strong>\n• Then give them something useful the same week he asked them for something.",
+      "insight": "Do not ask an ally to attack your co-lead — that turns your ally into a witness against you. Ask them to speak for you only. The next question is whether your two allies talk to each other."
+    },
+    {
+      "id": 17,
+      "cat": "team",
+      "danger": "moderate",
+      "title": "Give Your People Something Only You Can Give",
+      "principle": "Cialdini: Reciprocity × Scarcity",
+      "remember": "People follow the person who moves their career.",
+      "when": "Your reports are drifting toward your co-lead for decisions.",
+      "hook": "Loyalty is not earned by being nice. <strong>It is earned by giving something scarce.</strong>",
+      "truth": "People attach to whoever changes their situation.\n• A promotion, a visible project, or an introduction beats years of kindness.\n• Scarce things build loyalty. Common things build nothing.\n• Most leaders give praise, which costs nothing and buys nothing.",
+      "theySee": "A leader who hands them a real chance and says exactly what it is worth.",
+      "signals": [
+        {
+          "icon": "🚶",
+          "l": "Drift",
+          "t": "Your reports check decisions with your co-lead first"
+        },
+        {
+          "icon": "🙂",
+          "l": "Praise only",
+          "t": "You have given feedback but no opportunity in six months"
+        },
+        {
+          "icon": "🎁",
+          "l": "He gives access",
+          "t": "Your co-lead brings your reports into senior meetings"
+        },
+        {
+          "icon": "📤",
+          "l": "Quiet exits",
+          "t": "One of your people asked about moving to his side"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find one scarce thing",
+          "desc": "Pick a promotion case, an exec presentation slot, or a senior introduction."
+        },
+        {
+          "n": "2",
+          "title": "Give it to one person",
+          "desc": "Give it to the strongest person on your side, not the neediest."
+        },
+        {
+          "n": "3",
+          "title": "Say what it cost you",
+          "desc": "Tell them plainly that you spent something to get it for them."
+        }
+      ],
+      "script": "\"I got you the exec readout slot in April. <strong>I had to trade a headcount ask for it.</strong> Land it and I'll put your promotion case up in June.\"",
+      "watchFor": "That person starts bringing you problems before they bring them to anyone else.",
+      "example": "Jamal gave his best engineer an exec presentation slot and told her what he traded for it. She presented, got noticed, and started forwarding him everything her skip-level said. She never asked his co-lead for anything again.",
+      "ifItFails": "You give the opportunity and the person still routes around you. That means your co-lead already gave them something bigger. Stop spending on that person. Ask directly once: <strong>\"You take decisions to him first. Tell me straight — what's he giving you that I'm not?\"</strong> The answer tells you what to buy next.",
+      "counter": "If your co-lead hands your people big chances, he is buying them.\n• Notice which of your reports he put in front of executives.\n• Say to that report: <strong>\"Good slot. What did he ask you for?\"</strong>\n• Then give that person something he cannot — a promotion case only you can file.",
+      "insight": "Do not promise something you cannot deliver — one broken promise costs you the whole team. The harder part is supply: scarce gifts run out, and then loyalty needs a new reason."
+    },
+    {
+      "id": 18,
+      "cat": "ending",
+      "danger": "high",
+      "title": "Ask For a Decision Date, Not a Decision",
+      "principle": "Schelling: Deadline as Commitment Device",
+      "remember": "Ask when it ends, not who wins.",
+      "when": "The split has run past the point where it makes sense and nobody has ended it.",
+      "hook": "Asking to win sounds greedy. <strong>Asking when it ends sounds responsible.</strong>",
+      "truth": "A boss avoids picking because picking creates a loser who might quit.\n• A date does not name a winner, so it is easy for him to agree to.\n• Once a date exists, everything you do points at it.\n• Most people ask for the job. Ask for the clock instead.",
+      "theySee": "A co-lead who raises a practical planning question about the next six months.",
+      "signals": [
+        {
+          "icon": "♾️",
+          "l": "No end in sight",
+          "t": "The split has run longer than your boss originally said"
+        },
+        {
+          "icon": "🐌",
+          "l": "Slow decisions",
+          "t": "The team waits days for calls that need one person"
+        },
+        {
+          "icon": "🙈",
+          "l": "Boss avoids it",
+          "t": "Your boss changes the subject when you mention the setup"
+        },
+        {
+          "icon": "💸",
+          "l": "Cost showing",
+          "t": "A project slipped because two people had to agree"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Bring one cost",
+          "desc": "Name one thing that slipped because two people had to agree."
+        },
+        {
+          "n": "2",
+          "title": "Ask for a date, not an answer",
+          "desc": "Ask when he will decide, not what he will decide."
+        },
+        {
+          "n": "3",
+          "title": "Confirm the date in writing",
+          "desc": "Email the date the same day so it exists outside the conversation."
+        }
+      ],
+      "script": "\"The hiring plan slipped three weeks because we both had to sign. <strong>I'm not asking you to pick today — I'm asking when you'll pick.</strong> Can we say end of March?\"",
+      "watchFor": "Your boss names a month out loud instead of saying he will think about it.",
+      "example": "Elena stopped asking to run the team alone. She asked her VP for a decision date and named one cost. He said end of Q1. She spent the next ten weeks building a case aimed at exactly that day and got the team.",
+      "ifItFails": "He gives no date and says the setup is working fine. Then make the cost visible instead of arguing. Send a short note after the next delay: <strong>\"This one waited nine days on two approvals. Logging it so we can see the pattern by March.\"</strong> Three of those notes create the date for you.",
+      "counter": "If your co-lead pushes for a decision date, he thinks he wins on that date.\n• Notice whether his best work lands right before it.\n• Say: <strong>\"Good idea — let's include the platform milestones in the review.\"</strong>\n• Then move your biggest win to land in the same month.",
+      "insight": "Do not run this until you own a number and two allies — a date with no case behind it just runs out the clock on you. The next question is what you do in the last four weeks."
+    },
+    {
+      "id": 19,
+      "cat": "ending",
+      "danger": "extreme",
+      "title": "Decide Whether to Take the Other Job Instead",
+      "principle": "BATNA — Your Best Alternative Decides Your Nerve",
+      "remember": "An outside offer changes how you sit in the room.",
+      "when": "The split drags on and you are not sure you will win it.",
+      "hook": "You negotiate differently when you can leave. <strong>Everyone can tell which one you are.</strong>",
+      "truth": "Your calm in this fight comes from having somewhere to go.\n• A real alternative changes your voice before you say a word.\n• Without one, every meeting feels like it decides your life.\n• Most people start looking after they lose. That is the worst time.",
+      "theySee": "A colleague who seems relaxed about a decision everyone else finds tense.",
+      "signals": [
+        {
+          "icon": "😰",
+          "l": "Stakes feel huge",
+          "t": "You lose sleep over one meeting with your boss"
+        },
+        {
+          "icon": "🥊",
+          "l": "You over-fight",
+          "t": "You argue points that do not matter much"
+        },
+        {
+          "icon": "🚫",
+          "l": "No options",
+          "t": "You have not spoken to a recruiter in a year"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Long drag",
+          "t": "The split has run past two quarters with no date"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Take three calls",
+          "desc": "Answer three recruiters this month, even if you plan to stay."
+        },
+        {
+          "n": "2",
+          "title": "Get one number",
+          "desc": "Push one process far enough to hear a real salary range."
+        },
+        {
+          "n": "3",
+          "title": "Set your own line",
+          "desc": "Write down the date and condition that would make you leave."
+        }
+      ],
+      "script": "(To a recruiter) \"I'm not looking hard, but I'll take a call. <strong>Tell me the band and the scope and I'll tell you if it's worth a conversation.</strong>\"",
+      "watchFor": "You stop rehearsing the next meeting with your boss in your head.",
+      "example": "Victor took three recruiter calls during a stalled co-lead fight and got one real offer. He never mentioned it at work. He stopped arguing small points, and his director told him two months later he seemed like the steadier of the two.",
+      "ifItFails": "The market is cold and no offer appears. Build the alternative inside instead. Ask a leader in another group: <strong>\"If a role opens on your side in the next two quarters, would you want me in it?\"</strong> An internal option is slower but it works the same way on your nerve.",
+      "counter": "If your co-lead suddenly relaxes and stops fighting small points, he has an option.\n• Notice calm that arrives without any change in the situation.\n• Say to your boss: <strong>\"Is he staying through March? I'm planning around it.\"</strong>\n• Then plan for the version where he leaves and you inherit the mess.",
+      "insight": "Do not tell anyone at work you are looking, and never use an offer as a threat — bosses remember the threat long after they forget the raise. The trap is the opposite one: an offer makes leaving easy, and easy is not always right."
+    },
+    {
+      "id": 20,
+      "cat": "ending",
+      "danger": "extreme",
+      "title": "Win the Split Without Making an Enemy",
+      "principle": "Greene: Law 46 — Never Appear Too Perfect × Sun Tzu: Build Him a Golden Bridge",
+      "remember": "When you win, hand him a good exit and mean it.",
+      "when": "Your boss tells you the team is yours and your co-lead reports elsewhere.",
+      "hook": "You won. <strong>He is still in the building, and he talks to people.</strong>",
+      "truth": "A cornered loser costs more than a losing one who kept his face.\n• People judge you by how you treat him in the first two weeks.\n• A humiliated peer becomes a permanent source of bad stories about you.\n• Most winners celebrate and create an enemy who works down the hall.",
+      "theySee": "A new sole lead who praises his work in public and asks his advice in private.",
+      "signals": [
+        {
+          "icon": "👀",
+          "l": "Team watches",
+          "t": "Your team studies how you talk about him after the decision"
+        },
+        {
+          "icon": "🗨️",
+          "l": "Story forming",
+          "t": "People ask you what happened between you two"
+        },
+        {
+          "icon": "🚪",
+          "l": "He withdraws",
+          "t": "He stops coming to meetings he used to attend"
+        },
+        {
+          "icon": "🧨",
+          "l": "Loyal remnant",
+          "t": "Two of his people still route work through him"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Give him credit in public, once",
+          "desc": "In the first team meeting, name two things he built and keep his name on them."
+        },
+        {
+          "n": "2",
+          "title": "Ask his advice on one thing",
+          "desc": "Ask him one real question about the part he knows best."
+        },
+        {
+          "n": "3",
+          "title": "Protect his people",
+          "desc": "Tell his two closest reports their work and roles are safe. Then keep it."
+        }
+      ],
+      "script": "\"The platform work is his and it's the reason this team functions. <strong>I'm not touching it and I'm asking him to review the roadmap.</strong> Nothing changes for anyone on that side.\"",
+      "watchFor": "He answers your question and stays in the room after the meeting ends.",
+      "example": "Grace took over the full team in April. In her first all-hands she named two systems her former co-lead built and asked him to review her roadmap. He said yes. Two years later he recommended her for a director role.",
+      "ifItFails": "He refuses the bridge and goes cold or starts briefing against you. Do not chase him twice. Say it once in front of a witness and then let it be his choice: <strong>\"The door's open — the platform review is yours whenever you want it. I'll stop asking.\"</strong> Now everyone saw you offer and saw him decline.",
+      "counter": "If someone beats you and immediately praises you in public, he is buying quiet.\n• Notice that the praise arrived before any real offer.\n• Say: <strong>\"Appreciated. What does that look like in scope and headcount?\"</strong>\n• Take the concrete part and ignore the warm part.",
+      "insight": "Do not soften this into an apology — you won, and pretending otherwise reads as guilt. Generosity from strength works. Generosity from doubt invites another round. The next problem is quieter: half his team is now yours and they remember whose side they were on."
+    }
+  ]
+}

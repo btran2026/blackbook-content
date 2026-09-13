@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 66,
+  "manifestVersion": 67,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -520,7 +520,20 @@
       "url": "playbooks/playbook-srv-working-the-panel-that-decides-your-offer.json",
       "addedAt": "2026-09-10T00:08:32.788Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-two-names-one-chair",
+      "title": "Two Names, One Chair",
+      "theme": "power",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#8A1C2B",
+      "coverIcon": "♟️",
+      "url": "playbooks/playbook-srv-two-names-one-chair.json",
+      "addedAt": "2026-09-13T19:46:58.652Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-10T00:08:32.788Z"
+  "generatedAt": "2026-09-13T19:46:58.652Z"
 }
