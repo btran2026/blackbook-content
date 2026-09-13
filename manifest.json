@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 69,
+  "manifestVersion": 70,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -559,7 +559,20 @@
       "url": "playbooks/playbook-srv-when-your-rival-offers-you-a-truce.json",
       "addedAt": "2026-09-13T21:28:21.503Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-boss-game",
+      "title": "The Boss Game",
+      "theme": "career",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#1F2937",
+      "coverIcon": "♟️",
+      "url": "playbooks/playbook-srv-the-boss-game.json",
+      "addedAt": "2026-09-13T21:29:18.417Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-13T21:28:21.503Z"
+  "generatedAt": "2026-09-13T21:29:18.417Z"
 }

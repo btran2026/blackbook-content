@@ -1,0 +1,1098 @@
+{
+  "meta": {
+    "id": "srv-the-boss-game",
+    "version": "1.0",
+    "title": "The Boss Game",
+    "subtitle": "Build real trust upward. Beat nobody sideways.",
+    "description": "Twenty field-tested moves for reading your boss like a target, banking credit before you need it, and staying out of the fights your peers can't resist.",
+    "author": "AI",
+    "createdAt": "2026-09-13T20:38:43.359Z",
+    "tags": [
+      "career",
+      "office politics",
+      "management",
+      "boss relationship",
+      "workplace power",
+      "promotion"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#1F2937",
+    "coverIcon": "♟️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "trust",
+      "label": "The Bond",
+      "color": "#4A6FA5"
+    },
+    {
+      "key": "visibility",
+      "label": "Credit & Optics",
+      "color": "#C9A227"
+    },
+    {
+      "key": "rivals",
+      "label": "Peer Competition",
+      "color": "#B4402A"
+    },
+    {
+      "key": "conflict",
+      "label": "Conflict & Bad News",
+      "color": "#6B4C9A"
+    },
+    {
+      "key": "politics",
+      "label": "Office Politics",
+      "color": "#2F8F6E"
+    },
+    {
+      "key": "growth",
+      "label": "The Long Game",
+      "color": "#546E7A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "trust",
+      "danger": "low",
+      "title": "Learn What Your Boss Is Actually Measured On",
+      "principle": "Status Asymmetry — Read the Real Scoreboard",
+      "remember": "Help them win their number, not the one you assume.",
+      "hook": "Your boss has a boss too. <strong>Find that boss's number and you find the real game.</strong>",
+      "when": "You start a new role or a new manager takes over your team.",
+      "truth": "Every boss answers to someone with a number on a dashboard.\n• Stated goals and the real scoreboard are rarely the same thing.\n• Find the real number and your work suddenly matters more to them.\n• Most people guess at priorities instead of asking who grades their boss.",
+      "theySee": "An employee asking sharp questions about what leadership tracks, not just about their own tasks.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "Dashboard talk",
+          "t": "They mention a number in every leadership meeting recap."
+        },
+        {
+          "icon": "📆",
+          "l": "Quarterly panic",
+          "t": "They get tense the week before quarterly reviews."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Repeated phrase",
+          "t": "They repeat the same phrase from their own boss's emails."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask directly",
+          "desc": "Ask your boss: 'What does your boss judge you on this quarter?'"
+        },
+        {
+          "n": "2",
+          "title": "Cross-check",
+          "desc": "Compare their answer to what gets praised in leadership meetings."
+        },
+        {
+          "n": "3",
+          "title": "Attach your work",
+          "desc": "Rewrite your next update to show how it moves that number."
+        }
+      ],
+      "script": "\"Before I plan next quarter — what's the one number your boss is going to ask you about?\"",
+      "watchFor": "They pause, then give you a real answer instead of the usual mission-statement line.",
+      "ifItFails": "They deflect with 'just do good work' and give nothing concrete. Stop asking directly — watch instead. Read the last three emails they forwarded up the chain and note which numbers repeat. Say nothing; just start aligning your updates to that number.",
+      "counter": "If a report starts asking what you're measured on, they are mapping your pressure points.\n• Notice when someone probes your own targets more than their tasks.\n• Say: \"I'll share what's useful for you to know.\"\n• Give them the public version, keep the political detail private.",
+      "insight": "Knowing the real scoreboard is easy. The harder part is proving your work moved it without sounding like you're keeping score.",
+      "example": "Devon joined a new team and asked his manager point blank what number her own boss judged her on. She said retention of key accounts. He rewrote his next update to show how his onboarding fix cut early cancellations. She quoted his number to her own boss the next week."
+    },
+    {
+      "id": 2,
+      "cat": "trust",
+      "danger": "low",
+      "title": "Match How They Like Information Delivered",
+      "principle": "Voss: Mirroring — Channel Preference",
+      "remember": "Say it their way, not your way.",
+      "hook": "The right message in the wrong shape gets ignored. <strong>Match the format and you jump the queue.</strong>",
+      "when": "You send updates or ask for a decision and keep getting ignored or delayed.",
+      "truth": "People act fastest on information delivered in their own preferred shape.\n• Some bosses want bullets, some want a story, some want a call.\n• Match their format and your message jumps the queue in their head.\n• Most people send updates in their own favorite format and wonder why nothing moves.",
+      "theySee": "Someone who makes their job easier every time they open a message from you.",
+      "signals": [
+        {
+          "icon": "📧",
+          "l": "Reply speed",
+          "t": "They reply to short bullet emails fast but ignore long ones."
+        },
+        {
+          "icon": "☎️",
+          "l": "Call preference",
+          "t": "They call instead of typing back a reply."
+        },
+        {
+          "icon": "📎",
+          "l": "Skim pattern",
+          "t": "They only ever respond to the first line of long emails."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch two weeks",
+          "desc": "Track which of your messages get fast replies and which stall."
+        },
+        {
+          "n": "2",
+          "title": "Copy the pattern",
+          "desc": "Write your next three updates in the format that got fast replies."
+        },
+        {
+          "n": "3",
+          "title": "Ask once",
+          "desc": "Ask them directly: 'Do you want the short version or the full one?'"
+        }
+      ],
+      "script": "\"Quick version or should I send the full write-up?\"",
+      "watchFor": "They answer faster and start replying same-day instead of days later.",
+      "ifItFails": "You match the format and they still stall. The problem isn't format, it's priority. Ask directly: \"Is this one stuck behind something else, or should I follow up with someone else?\" Naming the delay forces a real answer.",
+      "counter": "If someone starts mirroring your exact communication style, they are studying you to move faster through your filters.\n• Notice sudden matching of your tone, length, or timing.\n• That's not friendship, it's fast-tracking.\n• Judge the request on its content, not on how comfortable it feels.",
+      "insight": "Matching format gets you read. The next problem is getting acted on, which takes more than good formatting.",
+      "example": "Priya kept sending her manager detailed weekly memos that sat unread for days. She switched to three-bullet summaries after noticing he replied fast to short Slack messages. Her next ask got approved within the hour."
+    },
+    {
+      "id": 3,
+      "cat": "trust",
+      "danger": "low",
+      "title": "Bring the Fix, Not Just the Problem",
+      "principle": "Managing Up — Problem-Solution Bundling",
+      "remember": "Never hand them a problem with no next step attached.",
+      "hook": "A problem alone is a burden. <strong>A problem with two fixes attached is a decision.</strong>",
+      "when": "You find a real problem and want to flag it without becoming the problem yourself.",
+      "truth": "A problem with no solution attached becomes the boss's new headache to solve.\n• Attach even a rough fix and the problem becomes a decision, not a burden.\n• Bosses remember who handed them headaches versus who handed them options.\n• Most people report problems raw because it feels honest. It just feels like more work to them.",
+      "theySee": "Someone who thinks one step ahead of the problem instead of stopping at the complaint.",
+      "signals": [
+        {
+          "icon": "😮‍💨",
+          "l": "Sigh response",
+          "t": "They sigh or go quiet when you raise an issue with no plan."
+        },
+        {
+          "icon": "👍",
+          "l": "Quick approval",
+          "t": "They approve fast when you offer two clear options."
+        },
+        {
+          "icon": "🔁",
+          "l": "Bounce-back",
+          "t": "They ask 'so what do you think we should do?' every time."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write two options",
+          "desc": "Before you flag any issue, write down two possible fixes."
+        },
+        {
+          "n": "2",
+          "title": "Lead with the fix",
+          "desc": "Open the conversation with the options, then explain the problem."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a pick",
+          "desc": "End with 'which of these do you want me to run with?'"
+        }
+      ],
+      "script": "\"We've got a problem with the vendor timeline. Here are two ways to fix it — I'd lean toward option two. Want me to move on it?\"",
+      "watchFor": "They say 'go with your call' instead of asking you to explain the problem again.",
+      "ifItFails": "They still want to dig into the raw problem themselves. Let them — hand over the details and let it be, don't defend your recommendation. Say: \"Here's everything I found. Your call.\" Fighting for your fix here costs you more than losing it.",
+      "counter": "If a peer brings you a problem wrapped in one suspiciously convenient solution, check whose interest it really serves.\n• Notice when the 'only' fix offered happens to help them most.\n• Ask: \"What's option two?\"\n• If they don't have one, they weren't solving, they were selling.",
+      "insight": "This buys trust fast. The real test comes later, when your fix is wrong and you have to own that too.",
+      "example": "Tomas found a scheduling conflict that would delay launch by a week. Instead of just flagging it, he brought two fixes and a recommendation. His boss picked one in the same meeting and thanked him for making it easy."
+    },
+    {
+      "id": 4,
+      "cat": "trust",
+      "danger": "moderate",
+      "title": "Tell Them the Bad News Yourself, First",
+      "principle": "Voss: Tactical Empathy — Preemptive Disclosure",
+      "remember": "Say the bad thing first. Silence makes it bigger.",
+      "hook": "Bad news finds your boss no matter what. <strong>Make sure it finds them from you.</strong>",
+      "when": "Something has gone wrong and your boss will hear about it from someone eventually.",
+      "truth": "Bad news traveling through someone else always lands worse than bad news from you.\n• Whoever tells the boss first controls the story and the tone.\n• A boss who hears bad news from you trusts you more, not less.\n• Most people delay hoping it resolves itself. That delay is what gets remembered.",
+      "theySee": "Someone walking in fast with a problem, before anyone else could bring it to them first.",
+      "signals": [
+        {
+          "icon": "⏰",
+          "l": "Time gap",
+          "t": "More than a few hours have passed since you knew about the problem."
+        },
+        {
+          "icon": "👥",
+          "l": "Other channels",
+          "t": "Other people who know about the problem are also close to your boss."
+        },
+        {
+          "icon": "📉",
+          "l": "Getting worse",
+          "t": "The problem is still moving and getting bigger by the hour."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Go now",
+          "desc": "Tell your boss within the hour you know, not at the next scheduled check-in."
+        },
+        {
+          "n": "2",
+          "title": "State the fact plainly",
+          "desc": "Say what happened in one sentence, no excuses, before anything else."
+        },
+        {
+          "n": "3",
+          "title": "Name the fix in motion",
+          "desc": "Add what you're already doing about it, even if it's a first step."
+        }
+      ],
+      "script": "\"Wanted you to hear this from me before anyone else: the client escalated this morning. Here's what I'm doing about it right now.\"",
+      "watchFor": "They ask what you need from them instead of asking why this happened.",
+      "ifItFails": "They're angry anyway and want to know why you didn't catch it sooner. Don't argue the timeline — that reads as excuse-making. Do not use this move if the mistake is one you personally covered up; own that separately first. Say: \"You're right, I should have flagged it at [X point]. Here's how I'm making sure that gap doesn't happen again.\"",
+      "counter": "If a peer rushes to tell your shared boss bad news about your project first, they're framing the story before you can.\n• Notice if they reach the boss's inbox or door before you do.\n• Get your version in fast, even a short one: \"Adding context to what you may have heard.\"\n• Never let their version sit alone as the only account.",
+      "insight": "This builds trust fast. It also means you're now the person who reports problems — the next move is proving you also prevent them.",
+      "example": "Renee's client threatened to cancel over a missed deadline. She told her boss within the hour, before the client's own email landed, and laid out her recovery plan. Her boss later told her that call was why he trusted her with the next big account."
+    },
+    {
+      "id": 5,
+      "cat": "visibility",
+      "danger": "moderate",
+      "title": "Don't Outshine Your Boss in the Room",
+      "principle": "Greene: Law 1 — Never Outshine the Master",
+      "remember": "Beat your peers, never your boss. Hand them every win.",
+      "hook": "Your talent is the most dangerous thing in the room. <strong>A boss's ego cannot share the spotlight with someone else's shine.</strong>",
+      "when": "You solve something impressive in a meeting your boss is also in.",
+      "truth": "A boss does not fear your work. A boss fears looking replaceable next to it.\n• Being visibly smarter than your boss in public reads as a threat, not a gift.\n• The safest place to be brilliant is a level below where they stand.\n• Most people think great work speaks for itself. With an insecure boss, it speaks against you.",
+      "theySee": "A sharp employee who somehow makes the boss look good every time they shine.",
+      "signals": [
+        {
+          "icon": "🥶",
+          "l": "Cold shift",
+          "t": "Their warmth drops right after you get praised in a group setting."
+        },
+        {
+          "icon": "🙄",
+          "l": "Correction reflex",
+          "t": "They correct or add to your point in front of others, unprompted."
+        },
+        {
+          "icon": "📵",
+          "l": "Info cutoff",
+          "t": "They stop looping you into meetings you used to attend."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Save the big reveal",
+          "desc": "Tell your boss the good result privately before the group ever hears it."
+        },
+        {
+          "n": "2",
+          "title": "Let them present it",
+          "desc": "Offer: 'Want to walk them through it, or should I?' and mean it."
+        },
+        {
+          "n": "3",
+          "title": "Credit their input",
+          "desc": "Name one thing they contributed, even a small one, when you do present."
+        }
+      ],
+      "script": "\"Got the numbers back — this looks great. Want to share it in the meeting, or want me to?\"",
+      "watchFor": "They visibly relax and start asking how to present it, not whether to.",
+      "ifItFails": "They still feel threatened and start finding fault with the work in public. Don't defend it in the room — that just extends the spotlight on the gap. Pull them aside after: \"Sounds like you want it done differently — walk me through it and I'll adjust.\" Do not use this move on a boss who already actively takes credit for your work; that boss needs the paper-trail move instead, not more shine given away.",
+      "counter": "If a peer keeps quietly handing your boss the win instead of taking credit, they're managing the same fear you should be managing.\n• Notice who never claims credit even when they clearly did the work.\n• That's not modesty. That's someone protecting a relationship you're competing inside of.\n• Match their restraint in front of the boss, out-produce them everywhere else.",
+      "insight": "This wins safety fast. The real trap is doing it so well that nobody upstream ever learns the work was yours.",
+      "example": "Malik solved a data bug his boss had been stuck on for days. Instead of announcing it in the team meeting, he told his boss privately first and let him present the fix. His boss started bringing him into leadership meetings within a month."
+    },
+    {
+      "id": 6,
+      "cat": "visibility",
+      "danger": "low",
+      "title": "Make Your Win Sound Like Their Win",
+      "principle": "Greene: Law 1 × Reciprocity",
+      "remember": "Say their name in the story of your success.",
+      "hook": "Credit sticks to whoever gets named first. <strong>Say their name before you say yours.</strong>",
+      "when": "You land a result and are about to tell your boss about it.",
+      "truth": "Your boss remembers credit by whoever's name got said first, not by who did the work.\n• Opening with their contribution rewires how they recall the whole project.\n• A boss who feels central to your win will protect and promote you.\n• Most people say 'I did this' and wonder why the boss stays lukewarm.",
+      "theySee": "A team member who makes them look like a strong coach, not just a manager who got lucky.",
+      "signals": [
+        {
+          "icon": "🪞",
+          "l": "Story repeat",
+          "t": "They tell your win to their own boss using your exact phrasing."
+        },
+        {
+          "icon": "😊",
+          "l": "Posture shift",
+          "t": "They sit up straighter or smile wider when you credit them."
+        },
+        {
+          "icon": "🎁",
+          "l": "Return favor",
+          "t": "They start giving you more visible tasks after you credit them."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open with their part",
+          "desc": "Start the update with 'The way you set this up made it work.'"
+        },
+        {
+          "n": "2",
+          "title": "Name your part after",
+          "desc": "Follow with what you specifically did, briefly and plainly."
+        },
+        {
+          "n": "3",
+          "title": "Watch for the tell",
+          "desc": "Check if they repeat your framing later, unprompted, to someone else."
+        }
+      ],
+      "script": "\"Honestly, this landed because of how you framed it in kickoff. I just ran with it — here's where it ended up.\"",
+      "watchFor": "They start telling the story themselves with your framing baked in.",
+      "ifItFails": "They take the credit and never mention your name again, anywhere. Stop giving it away for free — a second unpaid gift reads as weakness, not generosity. Put it on record neutrally instead: send a recap email naming who did what, once, without complaint.",
+      "counter": "If a peer keeps crediting you loudly for things you barely touched, check what they want back.\n• Notice praise that's bigger than your actual contribution.\n• They're banking a favor, not being kind.\n• Say thanks, then correct the record with the real split: 'Sarah built most of this.'",
+      "insight": "This buys goodwill cheap. The harder call is knowing when you've paid enough goodwill in and it's time to put your name back on your own work.",
+      "example": "After a strong client renewal, Ana opened her update to her manager with 'the way you structured the pitch made this land.' Her manager repeated that exact framing to his own boss a week later, word for word."
+    },
+    {
+      "id": 7,
+      "cat": "visibility",
+      "danger": "low",
+      "title": "Put Credit in Writing Before You Need It",
+      "principle": "Paper Trail — Documented Attribution",
+      "remember": "Write down who did what before anyone needs to remember.",
+      "when": "You finish meaningful work on a shared project with unclear individual credit.",
+      "hook": "Memory gets rewritten by whoever talks last. <strong>Send the record before anyone needs to argue about it.</strong>",
+      "truth": "Memory about who-did-what gets rewritten by whoever tells the story last.\n• A written recap sent at the time beats anyone's memory six months later.\n• Nobody questions a factual, unemotional record sent in the moment.\n• Most people wait until credit is disputed. By then it looks defensive, not factual.",
+      "theySee": "A normal wrap-up email, nothing unusual, just someone closing the loop properly.",
+      "signals": [
+        {
+          "icon": "🤷",
+          "l": "Vague retelling",
+          "t": "Someone retells the project story and blurs who did which part."
+        },
+        {
+          "icon": "📤",
+          "l": "No summary sent",
+          "t": "Nobody sent a written recap when the project actually closed."
+        },
+        {
+          "icon": "🏆",
+          "l": "Award season",
+          "t": "Performance review season or a promotion cycle is coming up."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send the recap",
+          "desc": "Email a short summary the day the project closes: who owned what."
+        },
+        {
+          "n": "2",
+          "title": "Keep it neutral",
+          "desc": "Write it as fact, not as a claim: 'Recap so it's on record.'"
+        },
+        {
+          "n": "3",
+          "title": "CC the right people",
+          "desc": "Include your boss and anyone else who'll matter at review time."
+        }
+      ],
+      "script": "\"Recap so it's on record: Sarah built the model, Dan unblocked procurement, I ran the rollout. Great team effort.\"",
+      "watchFor": "Nobody disputes the email, and it gets referenced later as the official version.",
+      "ifItFails": "Someone replies-all with a different version that edits you out. Don't argue in the thread — that just amplifies the dispute in front of everyone. Reply once, calmly, with the specific fact they missed, then take it to your boss directly: \"Wanted to flag a gap in that recap in case it matters for review.\"",
+      "counter": "If a peer starts sending tidy recap emails right after every project, they're building their review file in public.\n• Notice recaps that arrive suspiciously fast and land your boss on CC.\n• If it's accurate, let it stand — don't nitpick a fair record.\n• If it's not, correct it once, same day, same channel.",
+      "insight": "A paper trail is quiet insurance. The real skill is sending it so it reads as teamwork, not as a claim staked.",
+      "example": "When a six-month project wrapped, Jordan sent a plain recap naming who owned each piece, boss included on the thread. Six months later at review time, that email settled a credit dispute nobody remembered accurately anymore."
+    },
+    {
+      "id": 8,
+      "cat": "visibility",
+      "danger": "low",
+      "title": "Ask for Credit Before the Project Ends",
+      "principle": "Preemptive Framing — Set Expectations Early",
+      "remember": "Agree on credit at the start, not after the win.",
+      "hook": "Whoever names the split first owns it. <strong>Ask before the work even begins.</strong>",
+      "when": "You're about to start a high-visibility project with unclear ownership.",
+      "truth": "Credit disputes happen because nobody named the split before the work began.\n• Naming your role at the start makes it awkward for anyone to erase it later.\n• A boss who agreed to a split up front has to defend it, not just remember it.\n• Most people wait to see how it goes. By then the loudest person owns the story.",
+      "theySee": "Someone organized and professional, asking a normal planning question.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Unclear roles",
+          "t": "Nobody has said out loud who presents the final result."
+        },
+        {
+          "icon": "👥",
+          "l": "Crowded project",
+          "t": "More than two people are visibly attached to this project already."
+        },
+        {
+          "icon": "📅",
+          "l": "Big stakes ahead",
+          "t": "This project will get discussed at a leadership review later."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask at kickoff",
+          "desc": "In the first planning conversation, ask who presents results at the end."
+        },
+        {
+          "n": "2",
+          "title": "Get it in writing",
+          "desc": "Confirm the answer in a follow-up email, not just out loud."
+        },
+        {
+          "n": "3",
+          "title": "Reference it once",
+          "desc": "If it drifts later, refer back once: 'matches what we agreed at kickoff.'"
+        }
+      ],
+      "script": "\"Before we dive in — when this wraps, who's presenting it up? Just want to plan my part around that.\"",
+      "watchFor": "They answer specifically instead of vaguely, and it matches what actually happens later.",
+      "ifItFails": "The project ends and someone else presents it anyway, despite the early agreement. Don't fight it in the room. Go to your boss privately with the email: \"We'd agreed I'd present this — want to make sure I still get airtime on the next one.\"",
+      "counter": "If a peer asks about credit split before work even starts, they're locking in position early — match them or lose the room.\n• Notice early ownership questions that sound administrative but aren't.\n• Answer with equal specificity, don't let vague beat specific.\n• State your own role just as plainly in the same conversation.",
+      "insight": "This prevents most disputes. It does nothing for the one time someone breaks the agreement anyway — that's a different, harder conversation.",
+      "example": "Before a cross-team initiative kicked off, Sam asked in the first planning call who'd present the final results. His manager said Sam would. When another team tried to take the spotlight later, Sam pointed back to that early agreement and kept his slot."
+    },
+    {
+      "id": 9,
+      "cat": "rivals",
+      "danger": "moderate",
+      "title": "Never Fight a Peer in Front of the Boss",
+      "principle": "Greene: Law 20 — Avoid Open War",
+      "remember": "Win the argument later, never in the room.",
+      "hook": "Public fights make everyone look bad. <strong>Whoever stays calmest wins the room's opinion.</strong>",
+      "when": "A peer challenges your idea or work directly in a meeting.",
+      "truth": "Public fights make the boss judge both of you as difficult, not one of you as right.\n• Whoever looks calmer in the room wins the room's opinion, not whoever is correct.\n• Open conflict forces the boss to referee, which they resent doing.\n• Most people defend hard in the moment. That's exactly what gets remembered badly.",
+      "theySee": "Someone unbothered and composed, which reads as more senior than the person attacking.",
+      "signals": [
+        {
+          "icon": "😠",
+          "l": "Public jab",
+          "t": "A peer criticizes your work directly in front of your boss."
+        },
+        {
+          "icon": "🎯",
+          "l": "Repeated target",
+          "t": "They've done this to you more than once in group settings."
+        },
+        {
+          "icon": "👀",
+          "l": "Boss watching",
+          "t": "Your boss is visibly watching how you react, not just the content."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stay level",
+          "desc": "Answer the content once, briefly, with no edge in your voice."
+        },
+        {
+          "n": "2",
+          "title": "Table it",
+          "desc": "Say you'll follow up offline instead of arguing further live."
+        },
+        {
+          "n": "3",
+          "title": "Handle it after",
+          "desc": "Message them privately after the meeting to resolve or escalate."
+        }
+      ],
+      "script": "\"Fair question — let's take the details offline so we don't eat the room's time.\"",
+      "watchFor": "The room moves on, and your boss's eyes come back to you, not them.",
+      "ifItFails": "They keep pushing live and won't let it drop. Don't match their volume — that's the trap. Turn it to your boss directly: \"Happy to dig into this with you after — want to keep moving on the agenda?\" That hands the boss the reason to shut it down, not you.",
+      "counter": "If a peer stays calm while attacking you publicly, they're using your reaction as the actual weapon.\n• Notice if they seem to want a reaction more than an answer.\n• Don't give them the heated response they're fishing for.\n• Answer flat, table it, and match their calm exactly.",
+      "insight": "Staying calm wins the room. The harder problem is a peer who keeps doing this privately where nobody sees you win.",
+      "example": "In a client review, a peer publicly picked apart Elena's numbers in front of their shared VP. She answered once, calmly, and offered to follow up offline. The VP later told her privately he respected how she didn't take the bait."
+    },
+    {
+      "id": 10,
+      "cat": "rivals",
+      "danger": "low",
+      "title": "Turn a Rival Into an Ally With a Shared Target",
+      "principle": "Schelling: Common Enemy Coalition",
+      "remember": "Point them at a bigger problem than you.",
+      "hook": "Rivalry needs two people staring at each other. <strong>Point them both somewhere else instead.</strong>",
+      "when": "A peer sees you as competition for the same promotion or project.",
+      "truth": "Rivalry needs two people pointed at each other. Point them both somewhere else instead.\n• A shared outside problem turns two rivals into two teammates fast.\n• People fight less over rank when there's a bigger fight to win together.\n• Most people try to out-compete a rival directly. That just sharpens the rivalry.",
+      "theySee": "Someone practical, focused on the bigger problem, not on the competition between you two.",
+      "signals": [
+        {
+          "icon": "🥊",
+          "l": "Direct competition",
+          "t": "You and a peer are both up for the same visible role or project."
+        },
+        {
+          "icon": "🧱",
+          "l": "Shared obstacle",
+          "t": "A vendor, a deadline, or another team is blocking both of you."
+        },
+        {
+          "icon": "😒",
+          "l": "Cold peer",
+          "t": "They've started being short or distant with you lately."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the shared problem",
+          "desc": "Bring up the outside obstacle blocking you both, plainly, in conversation."
+        },
+        {
+          "n": "2",
+          "title": "Propose joining up",
+          "desc": "Suggest tackling it together instead of separately."
+        },
+        {
+          "n": "3",
+          "title": "Split the win evenly",
+          "desc": "When it works, credit both names equally, every time it comes up."
+        }
+      ],
+      "script": "\"Instead of both of us fighting this vendor separately, want to team up on it? Two of us pushing beats one.\"",
+      "watchFor": "Their tone warms and they start planning with you instead of around you.",
+      "ifItFails": "They decline and keep treating you as competition anyway. Stop pursuing the alliance — you can't force one. Build your own case in parallel and let your boss see two separate strong efforts; don't mention the rejected offer to anyone.",
+      "counter": "If a rival suddenly proposes teaming up right when you're both competing for something, check whose work carries the partnership.\n• Notice if the 'shared problem' conveniently needs your specific skill more than theirs.\n• Ask plainly what each person owns before agreeing.\n• Get the split in writing before the joint work starts.",
+      "insight": "A shared enemy cools most rivalries. It doesn't erase the ones built on real scarcity — one promotion, one seat — and that fight needs a different move entirely.",
+      "example": "Two directors, both up for the same VP seat, were both stuck fighting the same broken vendor contract. One proposed tackling the vendor together instead of separately. They fixed it jointly, split the credit evenly, and stopped treating each other as the enemy."
+    },
+    {
+      "id": 11,
+      "cat": "rivals",
+      "danger": "low",
+      "title": "Never Feed Gossip About a Peer, Even True Gossip",
+      "principle": "Greene: Law 4 — Say Less Than Necessary",
+      "remember": "What you say about them gets said about you next.",
+      "hook": "Gossip has a boomerang. <strong>Whoever throws it gets hit by it eventually.</strong>",
+      "when": "Someone brings you gossip or complaints about a peer you compete with.",
+      "truth": "Whoever spreads gossip becomes the person everyone assumes will gossip about them too.\n• People remember who ran their mouth longer than they remember what was said.\n• Staying quiet about a rival costs nothing and buys trust with everyone watching.\n• Most people join in because it feels safe among friends. Nothing at work stays private long.",
+      "theySee": "Someone careful and trustworthy, the person others feel safe telling things to.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Bait offered",
+          "t": "A coworker brings you a juicy complaint about your peer, unprompted."
+        },
+        {
+          "icon": "👂",
+          "l": "Fishing question",
+          "t": "They ask what you 'really think' about that peer's work."
+        },
+        {
+          "icon": "📱",
+          "l": "Group chat drift",
+          "t": "A group chat starts drifting toward talking about someone not present."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Don't add fuel",
+          "desc": "Respond with something neutral, not a new complaint of your own."
+        },
+        {
+          "n": "2",
+          "title": "Redirect",
+          "desc": "Steer the conversation back to work, not the person."
+        },
+        {
+          "n": "3",
+          "title": "Note who brought it",
+          "desc": "Remember who tried to pull you into it — that's data about them."
+        }
+      ],
+      "script": "\"Honestly I try to stay out of that stuff — what's going on with the launch timeline though?\"",
+      "watchFor": "The gossip attempt fizzles and the conversation moves to something concrete.",
+      "ifItFails": "They push harder, naming specifics and waiting for you to react. Don't defend the peer either — that also gets repeated back distorted. Just repeat the redirect once more, flatter: \"Not something I've got a take on. Anyway —\" and change the subject fully.",
+      "counter": "If someone stays suspiciously quiet whenever gossip comes up, that's discipline worth noticing, not weakness.\n• Notice who never takes the bait in group conversations.\n• That person is safer to trust with real information than the ones who always chime in.\n• Match their restraint before you hand anyone your own opinions.",
+      "insight": "Silence here costs nothing and buys years of trust. The real test is staying quiet even when the gossip about your rival happens to be true.",
+      "example": "A coworker tried to pull Frank into trashing a rival's project failure at lunch. Frank steered it back to the quarter's roadmap instead. Months later, that same rival was the one who backed Frank for a high-visibility project when it mattered."
+    },
+    {
+      "id": 12,
+      "cat": "rivals",
+      "danger": "low",
+      "title": "Let Them Win Small, Take the Big Ones",
+      "principle": "Sun Tzu — Choose Your Battles",
+      "remember": "Give up the small fights. Save your energy for the ones that count.",
+      "hook": "Not every disagreement is worth winning. <strong>Save your fight for the one that actually matters.</strong>",
+      "when": "You and a peer disagree on something minor that doesn't affect your standing.",
+      "truth": "Fighting over everything makes you look difficult and burns trust you'll need later.\n• Giving up small, low-stakes fights costs you nothing real.\n• It banks goodwill you can spend when a big fight actually matters.\n• Most people fight every disagreement on principle. That principle gets expensive fast.",
+      "theySee": "Someone easygoing and low-drama, not someone who needs to win every round.",
+      "signals": [
+        {
+          "icon": "🪑",
+          "l": "Low stakes",
+          "t": "The disagreement is about a meeting time, a format, or a small process."
+        },
+        {
+          "icon": "⚖️",
+          "l": "No real cost",
+          "t": "Losing this one doesn't change your credit, your review, or your project."
+        },
+        {
+          "icon": "🔜",
+          "l": "Bigger fight coming",
+          "t": "You already know a higher-stakes decision is coming up soon."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the cost",
+          "desc": "Before pushing back, ask yourself what losing this specific point actually costs you."
+        },
+        {
+          "n": "2",
+          "title": "Give it up visibly",
+          "desc": "Say plainly that you're fine with their way, out loud, not silently."
+        },
+        {
+          "n": "3",
+          "title": "Bank it",
+          "desc": "Remember this later if you need them to back down on something bigger."
+        }
+      ],
+      "script": "\"Honestly, your way works fine for this one — let's go with it.\"",
+      "watchFor": "They relax around you and start being more flexible on the next disagreement.",
+      "ifItFails": "They take every small concession as a sign you'll always fold, and push on the big one too. Stop giving ground here — hold the line clearly: \"This one's different, here's why it matters to me.\" A pattern of giving in with no visible limit trains people to keep pushing.",
+      "counter": "If a peer keeps folding on small things, don't assume they're a pushover — they may be saving position for later.\n• Notice easy wins that come a little too easily.\n• Ask why this one didn't need a fight, if it seems odd.\n• Treat the pattern as strategy, not weakness, and stay fair in return.",
+      "insight": "This works until the big fight actually arrives. The real skill is knowing which one is big before you've already given up your position.",
+      "example": "Ravi and a peer disagreed over meeting cadence, a call Ravi didn't care much about. He let it go visibly and easily. When a real disagreement over project ownership came up later, that peer backed down first."
+    },
+    {
+      "id": 13,
+      "cat": "conflict",
+      "danger": "moderate",
+      "title": "Disagree With Your Boss in Private, Support Them in Public",
+      "principle": "Greene: Law 1 variant — Loyalty Optics",
+      "remember": "Fight for your view behind closed doors, then back them in the room.",
+      "hook": "Public disagreement makes a boss dig in. <strong>Say it after the door closes instead.</strong>",
+      "when": "Your boss makes a call in a meeting that you think is wrong.",
+      "truth": "Public disagreement makes your boss defend their authority instead of hearing your point.\n• A private disagreement lets them actually consider changing course without losing face.\n• Backing them publicly, even when you disagree, buys you the right to push back privately.\n• Most people speak up in the room because it feels honest. It just makes the boss dig in.",
+      "theySee": "A loyal team member in the room, and a direct, honest one behind closed doors.",
+      "signals": [
+        {
+          "icon": "🤨",
+          "l": "Bad call live",
+          "t": "Your boss says something in a meeting you think is a mistake."
+        },
+        {
+          "icon": "👥",
+          "l": "Others present",
+          "t": "Other team members or their boss are in the room too."
+        },
+        {
+          "icon": "⏳",
+          "l": "Still time",
+          "t": "The decision hasn't been executed yet — there's still room to change it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Back them live",
+          "desc": "Say nothing contradicting in the room, even a small nod of support."
+        },
+        {
+          "n": "2",
+          "title": "Catch them after",
+          "desc": "Ask for two minutes right after the meeting ends."
+        },
+        {
+          "n": "3",
+          "title": "Make the case",
+          "desc": "Lay out your concern plainly, with the specific risk, not just a feeling."
+        }
+      ],
+      "script": "\"Got two minutes? Wanted to flag a risk on the timeline call before it goes further — not trying to relitigate in there.\"",
+      "watchFor": "They ask follow-up questions instead of getting defensive about the original call.",
+      "ifItFails": "They hear you out and don't change course, and the mistake plays out. Don't say 'I told you so' later — that spends the trust you just built. Say: \"Want me to help manage the fallout on X?\" and move straight into being useful.",
+      "counter": "If a peer always backs the boss loudly in public but you never hear their real opinion, they may be saving their honesty for private access you don't have.\n• Notice unanimous public agreement paired with private access you're not part of.\n• Ask your boss directly for your own two minutes on decisions that affect you.\n• Don't assume silence in the room means agreement from anyone.",
+      "insight": "This buys you a real voice. The harder part is knowing when a boss simply won't take the advice, no matter how well you deliver it.",
+      "example": "In a planning meeting, Nora's boss committed to a vendor she knew was a mistake. She backed him publicly in the room, then asked for two minutes right after and laid out the risk clearly. He reversed the call by end of day and thanked her for not embarrassing him in front of the room."
+    },
+    {
+      "id": 14,
+      "cat": "conflict",
+      "danger": "low",
+      "title": "Label Their Defensiveness Before It Locks In",
+      "principle": "Voss: Tactical Empathy — Label",
+      "remember": "Name their worry before they have to defend it.",
+      "hook": "Once someone says an idea out loud, they defend it. <strong>Name their worry before they lock in.</strong>",
+      "when": "You need to push back on your boss's idea without triggering their ego.",
+      "truth": "People defend ideas harder once they've said them out loud in front of others.\n• Naming their likely worry first stops them from having to protect their pride.\n• It turns a confrontation into a shared problem to solve.\n• Most people lead with their own objection. That forces the other person to defend, not listen.",
+      "theySee": "Someone who seems to understand their side already, which lowers their guard.",
+      "signals": [
+        {
+          "icon": "🧱",
+          "l": "Instant defense",
+          "t": "They tense up the moment you start disagreeing."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat mode",
+          "t": "They repeat their original point louder instead of engaging yours."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Fresh idea",
+          "t": "They just proposed this idea moments ago, so pride is still high."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the worry",
+          "desc": "Say what you think their concern is before stating your own."
+        },
+        {
+          "n": "2",
+          "title": "Pause",
+          "desc": "Let them confirm or correct it before you say anything else."
+        },
+        {
+          "n": "3",
+          "title": "Add your point",
+          "desc": "Only after they've engaged, lay out your actual concern."
+        }
+      ],
+      "script": "\"It probably feels like slowing down here costs us the deadline — that's the real risk, right?\"",
+      "watchFor": "They engage with the substance instead of repeating their original position.",
+      "ifItFails": "They confirm the worry, then hold their position anyway out of pride, not logic. Don't push a third time in the same conversation. Give them a way to revisit it without losing face: \"No rush — want to sit on it a day and compare notes tomorrow?\"",
+      "counter": "If your boss labels your likely objection before you've said it, they're steering you toward agreement fast.\n• Notice when they name your worry accurately and warmly.\n• Don't feel relieved and drop your guard.\n• Confirm the part they got right, then name the part they didn't.",
+      "insight": "This defuses most defensiveness. It doesn't work on someone who's already publicly committed — that needs a way to change course that isn't called changing course.",
+      "example": "Before pushing back on her boss's rushed timeline, Yuki named his likely worry first: 'It probably feels like slowing down costs us the deadline.' He confirmed that was exactly it, and the conversation turned into solving the actual risk together."
+    },
+    {
+      "id": 15,
+      "cat": "conflict",
+      "danger": "high",
+      "title": "Getting Blamed for Someone Else's Mistake",
+      "principle": "Reputation Defense — Fact Over Feeling",
+      "remember": "Correct the record once, calmly, with facts, not with anger.",
+      "hook": "Uncorrected blame becomes the accepted story fast. <strong>Say the facts once, flat, before anger says them for you.</strong>",
+      "when": "Your boss blames you for an error that was actually a peer's or another team's.",
+      "truth": "Blame that goes uncorrected in the first conversation becomes the accepted story fast.\n• The first correction matters more than any later one — it sets the record.\n• Anger reads as guilt to a boss deciding who's at fault.\n• Most people either take the blame quietly or blow up. Neither protects the truth.",
+      "theySee": "Someone calm, specific, and not panicking — which reads as someone who has nothing to hide.",
+      "signals": [
+        {
+          "icon": "😳",
+          "l": "Wrong target",
+          "t": "Your boss is addressing you about a mistake you didn't make."
+        },
+        {
+          "icon": "📄",
+          "l": "Evidence exists",
+          "t": "There's an email, a ticket, or a log that shows who actually did it."
+        },
+        {
+          "icon": "⏰",
+          "l": "First conversation",
+          "t": "This is the very first time the mistake has come up."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stay flat",
+          "desc": "Answer with no defensiveness in your tone, just the facts."
+        },
+        {
+          "n": "2",
+          "title": "Show the record",
+          "desc": "Point to the specific evidence: the email, the ticket, the timestamp."
+        },
+        {
+          "n": "3",
+          "title": "Don't name-and-shame",
+          "desc": "State the fact plainly without piling on the person responsible."
+        }
+      ],
+      "script": "\"Looking at the ticket, that change went out from the platform team on the 12th — happy to pull the thread if it helps sort out next steps.\"",
+      "watchFor": "Your boss's tone shifts from accusing you to asking about the actual timeline.",
+      "ifItFails": "They don't check the record and stay convinced it was you. Don't repeat the defense a third time in the same meeting — it starts sounding like excuse-making. Follow up in writing after: \"Wanted to attach the ticket link here for the record, in case it's useful later.\" Do not use this move to publicly humiliate the peer who actually erred — settle that separately, one on one.",
+      "counter": "If someone else is calmly redirecting blame toward you with 'facts', check their evidence before you accept it.\n• Notice confident blame that arrives with suspiciously convenient documentation.\n• Ask to see the actual record yourself, not just their summary of it.\n• Get your own timeline down in writing before the story sets.",
+      "insight": "Correcting the record protects you today. It doesn't fix the peer who caused it — that relationship needs its own conversation, away from your boss.",
+      "example": "Marcus got blamed in a leadership review for a system outage caused by another team. He pulled up the incident ticket calmly, showed the timestamp and owning team, and asked if it helped to loop them in. The blame shifted to the right desk by end of meeting."
+    },
+    {
+      "id": 16,
+      "cat": "politics",
+      "danger": "moderate",
+      "title": "Build Allies Your Boss Doesn't See",
+      "principle": "Greene: Law 7 — Coalition Building Outside the Chain",
+      "remember": "Make friends outside your boss's line of sight, before you need them.",
+      "hook": "A boss's favor can vanish overnight. <strong>Build backup before you need it.</strong>",
+      "when": "You realize your career depends on more than just your boss's opinion of you.",
+      "truth": "A boss's favor can vanish overnight — layoffs, politics, a bad quarter, a new manager.\n• Allies outside your direct chain give you information and options your boss can't control.\n• People who know your work independently can vouch for you when your boss can't or won't.\n• Most people only invest in the relationship directly above them. That's one point of failure.",
+      "theySee": "Someone who shows real interest in other teams, not someone building an escape hatch.",
+      "signals": [
+        {
+          "icon": "🏢",
+          "l": "Single point",
+          "t": "Your entire reputation currently rests on one manager's opinion."
+        },
+        {
+          "icon": "🔄",
+          "l": "Org changes",
+          "t": "There's reorg talk, leadership turnover, or budget uncertainty around you."
+        },
+        {
+          "icon": "🤐",
+          "l": "No outside contacts",
+          "t": "You can't name one person outside your team who knows your work."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick two people",
+          "desc": "Identify two people at the skip level or in adjacent teams worth knowing."
+        },
+        {
+          "n": "2",
+          "title": "Find a real reason",
+          "desc": "Offer something useful — a cross-team fix, a shared problem, real help."
+        },
+        {
+          "n": "3",
+          "title": "Stay in touch lightly",
+          "desc": "Check in every few months, not just when you need something."
+        }
+      ],
+      "script": "\"Noticed our teams keep hitting the same handoff issue — got 15 minutes to compare notes sometime this week?\"",
+      "watchFor": "They start looping you into things outside your usual scope, unprompted.",
+      "ifItFails": "They're polite but never engage beyond the first meeting. Don't chase it — move to someone else on your list. Relationships built on forced effort read as networking, not real interest, and people can tell.",
+      "counter": "If a peer starts building relationships with your boss's boss out of nowhere, they're insuring against your boss turning on them, or planning past your boss entirely.\n• Notice sudden new visibility with people above your shared boss.\n• Don't read it as betrayal automatically — it might just be smart insurance.\n• Build your own version instead of trying to block theirs.",
+      "insight": "This protects you when the relationship above you breaks. It doesn't replace being good at your job — allies vouch for real work, not for charm alone.",
+      "example": "Before any reorg rumors started, Dana had already built a quiet relationship with a director two levels up, born from fixing a shared handoff problem. When her own manager left suddenly, that director was the one who vouched for her in the transition."
+    },
+    {
+      "id": 17,
+      "cat": "politics",
+      "danger": "low",
+      "title": "Read the Room Before You Speak in Meetings",
+      "principle": "Status Signaling — Sequence Reading",
+      "remember": "Notice who talks first and who talks last before you jump in.",
+      "hook": "Speaking order maps the real hierarchy. <strong>Time your point to the room, not to the moment it occurs to you.</strong>",
+      "when": "You're in a meeting with your boss, their boss, or people above your usual level.",
+      "truth": "Who speaks when in a meeting maps the real hierarchy better than any org chart.\n• Speaking too early or too often above your level reads as overstepping.\n• Timing your input to follow the senior voice signals you understand the room.\n• Most people just say what's true when it occurs to them. Timing matters as much as content.",
+      "theySee": "Someone composed and aware, contributing at the right moment instead of rushing in.",
+      "signals": [
+        {
+          "icon": "🎤",
+          "l": "Speaking order",
+          "t": "The most senior person in the room speaks first on any new topic."
+        },
+        {
+          "icon": "🤫",
+          "l": "Quiet juniors",
+          "t": "More junior people wait and build on what's already been said."
+        },
+        {
+          "icon": "👔",
+          "l": "Unfamiliar faces",
+          "t": "People above your normal level are in this meeting."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait a beat",
+          "desc": "Let the senior person in the room speak first on any open question."
+        },
+        {
+          "n": "2",
+          "title": "Build, don't compete",
+          "desc": "Frame your point as an addition: 'building on that —' not a correction."
+        },
+        {
+          "n": "3",
+          "title": "Save disagreement",
+          "desc": "If you disagree with someone senior, raise it after, not live in the room."
+        }
+      ],
+      "script": "\"Building on that — one thing I'd add from the data side is...\"",
+      "watchFor": "Senior people start directing follow-up questions at you, not around you.",
+      "ifItFails": "You read the room wrong and speak out of turn anyway, drawing a cool look from someone senior. Don't over-apologize in the room — that draws more attention. Address it briefly after: \"Didn't mean to jump the line back there.\" Then let it go.",
+      "counter": "If a peer is clearly holding back to read the room while you speak first, they may be watching how the room reacts to you before committing to a position.\n• Notice people who wait until senior reactions are visible before talking.\n• Don't assume their silence means agreement.\n• Ask them directly afterward what they actually thought.",
+      "insight": "Reading the room protects your image. It won't tell you what's actually true — sometimes the right answer is the one nobody senior said first.",
+      "example": "In a meeting stacked with senior leadership, Priya waited for the VP to speak first, then built on his point instead of leading with her own. He started addressing follow-up questions straight to her by the end of the meeting."
+    },
+    {
+      "id": 18,
+      "cat": "politics",
+      "danger": "moderate",
+      "title": "Know Who Actually Has Your Boss's Ear",
+      "principle": "Greene: Law 33 — Map the Real Influence",
+      "remember": "Find whose opinion your boss actually trusts, not just who's loudest.",
+      "hook": "The org chart lies. <strong>The real chart is who your boss calls first.</strong>",
+      "when": "You need a decision made and your direct request isn't moving fast enough.",
+      "truth": "Every boss has one or two people whose read on things quietly outweighs everyone else's.\n• That person isn't always the most senior title in the room.\n• Getting a real read from that person tells you where you actually stand.\n• Most people only track the org chart. The real chart is who your boss calls first.",
+      "theySee": "Someone perceptive who seems to know how things actually work around here.",
+      "signals": [
+        {
+          "icon": "☎️",
+          "l": "First call",
+          "t": "Your boss mentions calling the same person before big decisions."
+        },
+        {
+          "icon": "🍽️",
+          "l": "Informal access",
+          "t": "That person gets invited to informal lunches or one-on-ones often."
+        },
+        {
+          "icon": "🗳️",
+          "l": "Quiet veto",
+          "t": "Ideas that person dislikes quietly disappear from the agenda."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch decisions",
+          "desc": "Notice whose name comes up before your boss finalizes a call."
+        },
+        {
+          "n": "2",
+          "title": "Build a real relationship",
+          "desc": "Get to know that person on actual shared work, not flattery."
+        },
+        {
+          "n": "3",
+          "title": "Use it sparingly",
+          "desc": "Only route through them on things that genuinely matter."
+        }
+      ],
+      "script": "\"Curious how you'd read this one — my boss mentioned you two think alike on stuff like this.\"",
+      "watchFor": "They engage seriously instead of brushing you off as going around the chain.",
+      "ifItFails": "They sense you're trying to use them as a back channel and pull back. Stop routing through them for a while. Go back to your direct boss and make your case there instead, cleanly, without mentioning the detour: \"Wanted to bring this to you directly.\"",
+      "counter": "If a peer suddenly gets close to the person who has your boss's ear, they've found the real influence map before you did.\n• Notice new, unexplained closeness to a quiet influencer.\n• Don't panic or compete for the same person's attention obviously.\n• Find your own credible reason to build that same relationship.",
+      "insight": "Mapping real influence gets your ideas moving faster. Misusing it — going around your boss too often — burns the map and the boss both.",
+      "example": "Owen noticed his manager always called the same quiet analyst before big calls, not the loudest voice in the room. He built a real working relationship with that analyst over shared reports. When Owen's next big idea needed a green light, it moved twice as fast."
+    },
+    {
+      "id": 19,
+      "cat": "growth",
+      "danger": "low",
+      "title": "Ask for the High-Visibility Project Before It's Posted",
+      "principle": "Preemptive Positioning — First-Mover Claim",
+      "remember": "Raise your hand before the opportunity becomes a competition.",
+      "hook": "By the time it's announced, the best seats are gone. <strong>Ask before there's even a rumor to react to.</strong>",
+      "when": "You hear early whispers about a new initiative or high-profile project forming.",
+      "truth": "By the time a project is announced, the people who wanted it already asked privately.\n• Early asks look like initiative. Late asks look like catching up to everyone else.\n• Being first removes the peer competition — nobody else has asked yet.\n• Most people wait for the official announcement. By then, the best seats are taken.",
+      "theySee": "Someone ambitious and plugged in, asking before anyone else even knows to ask.",
+      "signals": [
+        {
+          "icon": "👂",
+          "l": "Early whisper",
+          "t": "You've heard hallway or Slack mentions of something new forming."
+        },
+        {
+          "icon": "📋",
+          "l": "No owner yet",
+          "t": "Nobody has been publicly assigned to lead it yet."
+        },
+        {
+          "icon": "🏃",
+          "l": "Peers quiet",
+          "t": "Your usual competitors for these projects haven't said anything yet."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Confirm it's real",
+          "desc": "Verify the initiative is actually happening, not just rumor."
+        },
+        {
+          "n": "2",
+          "title": "Go directly",
+          "desc": "Ask your boss privately, before any group announcement is made."
+        },
+        {
+          "n": "3",
+          "title": "State your case briefly",
+          "desc": "Give one concrete reason you're a fit, not a general interest pitch."
+        }
+      ],
+      "script": "\"Heard whispers about the new ops project — before it's officially staffed, I'd like to be considered. Here's why I think I'm a fit: [specific reason].\"",
+      "watchFor": "They say 'let me think about it' instead of 'it's already spoken for.'",
+      "ifItFails": "They tell you it's already been decided or promised to someone else. Don't sulk or drop it — ask for the next one specifically: \"Understood — can you keep me in mind for whatever's next like this?\" That keeps you first in line for the next opening instead of last.",
+      "counter": "If a peer asks for a new project before it's even announced, they're moving faster than you on the same opportunity.\n• Notice initiatives that get staffed with no visible process.\n• Ask your boss directly if the next one can include you from the start.\n• Don't wait for the next whisper — ask now, before there's a rumor to react to.",
+      "insight": "Speed wins you the seat. The harder work starts after — you asked for visibility, now you have to deliver something worth the early bet.",
+      "example": "Lena heard early hallway talk about a new analytics initiative with no owner yet. She asked her boss directly the same week, before any official posting. She got the role before her usual competitor for these projects even knew it existed."
+    },
+    {
+      "id": 20,
+      "cat": "growth",
+      "danger": "moderate",
+      "title": "Know When You've Outgrown the Relationship",
+      "principle": "Sunk-Cost Anchoring — Loyalty vs. Ceiling",
+      "remember": "A great boss with no room left is still a ceiling.",
+      "hook": "Loyalty can quietly become a ceiling. <strong>Ask what's realistic before another year disappears.</strong>",
+      "when": "Your boss has no more room, budget, or title to give you, and hasn't for a while.",
+      "truth": "Loyalty to a person can quietly become a ceiling on your own growth.\n• A boss can run out of room to promote you even while genuinely valuing you.\n• Staying out of loyalty costs you years you can't easily get back.\n• Most people wait for the boss to fix it. It's often not theirs to fix.",
+      "theySee": "Someone still fully engaged and professional, giving no early sign of one foot out the door.",
+      "signals": [
+        {
+          "icon": "🚧",
+          "l": "Frozen title",
+          "t": "Your role or title hasn't moved in over two years despite good work."
+        },
+        {
+          "icon": "💰",
+          "l": "Budget excuse",
+          "t": "Every raise or promotion conversation ends with 'budget' or 'next cycle.'"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same ceiling",
+          "t": "Your boss has told you they're maxed out on what they can offer, more than once."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask directly, once",
+          "desc": "Ask your boss plainly what's realistically possible in the next year."
+        },
+        {
+          "n": "2",
+          "title": "Get a real answer",
+          "desc": "Listen for specifics, not reassurance — dates, titles, numbers."
+        },
+        {
+          "n": "3",
+          "title": "Start looking quietly",
+          "desc": "If the answer is vague, start exploring other options without announcing it."
+        }
+      ],
+      "script": "\"I want to be straight with you — what's realistically possible for me here in the next year?\"",
+      "watchFor": "They give you a vague, hopeful answer instead of a specific plan with a date attached.",
+      "ifItFails": "They give you the same vague answer again, or get defensive about the question. Don't push a third time or threaten to leave to force their hand — that rarely improves the offer and burns the relationship if you stay. Start real conversations elsewhere quietly, and let the market answer the question your boss won't.",
+      "counter": "If your boss senses you're eyeing the door, they may counter with vague promises instead of a real plan to keep you in place.\n• Notice sudden promises with no dates or specifics attached.\n• Ask for the promise in writing, with a timeline.\n• If they can't commit to a date, treat the promise as a delay, not an answer.",
+      "insight": "Loyalty is worth a lot, right up until it's not worth your career. The next hard part is doing this without burning the relationship you spent this whole file building.",
+      "example": "After two years with no title change and vague budget excuses, Carlos asked his boss plainly what was realistically possible in the next year. The answer stayed vague. He quietly interviewed elsewhere and had an offer with a real title in six weeks."
+    }
+  ]
+}
