@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 67,
+  "manifestVersion": 68,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -533,7 +533,20 @@
       "url": "playbooks/playbook-srv-two-names-one-chair.json",
       "addedAt": "2026-09-13T19:46:58.652Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-controlling-what-your-old-boss-says-about-you",
+      "title": "Controlling What Your Old Boss Says About You",
+      "theme": "career",
+      "topic": "",
+      "cardCount": 22,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "📞",
+      "url": "playbooks/playbook-srv-controlling-what-your-old-boss-says-about-you.json",
+      "addedAt": "2026-09-13T21:28:17.486Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-13T19:46:58.652Z"
+  "generatedAt": "2026-09-13T21:28:17.486Z"
 }

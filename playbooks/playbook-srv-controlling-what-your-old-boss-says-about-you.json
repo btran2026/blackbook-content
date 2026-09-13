@@ -1,0 +1,1291 @@
+{
+  "meta": {
+    "id": "srv-controlling-what-your-old-boss-says-about-you",
+    "version": "1.0",
+    "title": "Controlling What Your Old Boss Says About You",
+    "subtitle": "The reference check happens without you in the room. Get there first.",
+    "description": "A field manual for shaping the story a former boss tells before it ever gets told — from the years before you quit, through the exit, to the call nobody lets you sit in on, and the cleanup when it goes wrong anyway.",
+    "author": "AI",
+    "createdAt": "2026-09-13T21:15:55.978Z",
+    "tags": [
+      "career",
+      "references",
+      "negotiation",
+      "reputation",
+      "exit strategy"
+    ],
+    "totalCards": 22,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "📞",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "build_record_early",
+      "label": "Build The Record Years Early",
+      "color": "#4a5568"
+    },
+    {
+      "key": "exit_writes_reference",
+      "label": "The Exit That Writes Your Reference",
+      "color": "#7c3aed"
+    },
+    {
+      "key": "choose_who_they_call",
+      "label": "Choose Who They Call",
+      "color": "#0891b2"
+    },
+    {
+      "key": "prime_reference_word_for_word",
+      "label": "Prime Your Reference Word For Word",
+      "color": "#c2410c"
+    },
+    {
+      "key": "when_you_know_bad",
+      "label": "When You Know It Will Be Bad",
+      "color": "#991b1b"
+    },
+    {
+      "key": "contain_bad_word",
+      "label": "Containing A Bad Word Already Said",
+      "color": "#b91c1c"
+    },
+    {
+      "key": "after_offer_lands",
+      "label": "After The Offer Lands",
+      "color": "#166534"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "build_record_early",
+      "danger": "low",
+      "title": "Email Your Wins The Day They Happen",
+      "hook": "Memory fades fast. A saved email doesn't. <strong>Your boss won't remember the save you made in March unless it's in writing.</strong>",
+      "truth": "Bosses forget details fast and keep a vague feeling instead of facts.\n• A record made the same day beats a memory built years later.\n• The habit turns 'did fine' into a list of dated, specific wins.\n• Most people wait until they need a reference, and the file is empty.",
+      "principle": "Documentation Effect — Contemporaneous Record",
+      "remember": "Write down every win the day it happens, not years later.",
+      "theySee": "A coworker who sends a short recap email after a big save and quietly cc's the manager.",
+      "signals": [
+        {
+          "icon": "📧",
+          "l": "Recap habit",
+          "t": "You send a one-line recap email within a day of any win."
+        },
+        {
+          "icon": "📎",
+          "l": "CC pattern",
+          "t": "You cc your manager on client thank-yous instead of forwarding later."
+        },
+        {
+          "icon": "🗂️",
+          "l": "Personal folder",
+          "t": "You keep a private folder of these emails outside company email."
+        },
+        {
+          "icon": "📅",
+          "l": "Dated wins",
+          "t": "You can name three dated wins from the last six months without thinking hard."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send same-day recap",
+          "desc": "Write a two-line email the same day you land a win, and cc your manager."
+        },
+        {
+          "n": "2",
+          "title": "Save it outside work",
+          "desc": "Forward the email to a personal account or note app the same week."
+        },
+        {
+          "n": "3",
+          "title": "Repeat monthly",
+          "desc": "Set a monthly reminder to check you have at least one dated win logged."
+        }
+      ],
+      "script": "\"Quick recap for the file: we hit the deadline after the vendor dropped Tuesday, and the client renewed early. Wanted to flag it since it was a team effort.\"",
+      "watchFor": "Your boss replies 'nice work' or forwards your note to their own boss.",
+      "ifItFails": "Your boss never replies and you can't tell if it landed. Don't send a second recap right away — that reads needy. Instead, bring it up yourself at your next 1:1: \"Wanted to make sure the renewal made it onto your radar — it happened faster than expected.\" Now it's spoken, not just sent.",
+      "counter": "If a peer starts cc'ing your shared boss on every small win, they're building their own file.\n• Notice if their recaps always land right before review season.\n• Say nothing — don't call it out, it reads petty.\n• Start your own same-day recap habit instead of reacting to theirs.",
+      "insight": "This card is invisible until the day you need a reference, and then it's the only thing that matters. The harder part is doing it when nothing is on fire and it feels unnecessary."
+    },
+    {
+      "id": 2,
+      "cat": "build_record_early",
+      "danger": "low",
+      "title": "Get Praise Put In Writing",
+      "hook": "A compliment said out loud dies in the hallway. <strong>The same compliment in an email lives in a folder for three years.</strong>",
+      "truth": "Spoken praise feels good but leaves no trace anyone can point to later.\n• Written praise becomes a document your boss can quote, not just recall.\n• Asking for it in writing forces the giver to be specific, not vague.\n• Most people accept the verbal 'great job' and never convert it.",
+      "principle": "Documentation Effect — Written Over Verbal Record",
+      "remember": "Turn every spoken compliment into a written one within a day.",
+      "theySee": "Someone who says thanks for the kind words, then asks for a one-line email version for their file.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Verbal praise",
+          "t": "Your boss tells you in person that a project went well."
+        },
+        {
+          "icon": "✍️",
+          "l": "Conversion ask",
+          "t": "You ask them to put a version of that in an email or chat message."
+        },
+        {
+          "icon": "🏆",
+          "l": "Client compliment",
+          "t": "A client says something nice about you on a call."
+        },
+        {
+          "icon": "📤",
+          "l": "Forward habit",
+          "t": "You forward that client message to your boss the same day."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Catch the compliment",
+          "desc": "Notice when your boss or a client praises your work out loud."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the written version",
+          "desc": "Say you'd love that in an email so you remember exactly what worked."
+        },
+        {
+          "n": "3",
+          "title": "File it the same day",
+          "desc": "Save the message to a personal folder before it gets buried in your inbox."
+        }
+      ],
+      "script": "\"That means a lot — would you mind dropping a line of that in an email? I want to remember exactly what worked for next time.\"",
+      "watchFor": "Your boss sends the email within the day instead of forgetting by tomorrow.",
+      "ifItFails": "Your boss says sure and never sends it. Don't ask twice — that reads like you're building a case against them. Instead, write your own summary and send it to them for a quick reply: \"Wanted to jot down what you said Tuesday so I don't lose it — let me know if I got it right.\" A one-word confirmation from them still counts as their words in writing.",
+      "counter": "If someone keeps asking you to put praise in writing, they're building their own record.\n• Notice if the ask comes right after a big win, timed for effect.\n• You can still say yes — it costs you nothing and builds goodwill.\n• Keep your own note of what you actually meant, in case it gets stretched later.",
+      "insight": "The gap here is between what people say and what they'll defend later under a recruiter's question. The next problem is making sure this written praise comes from more than one person."
+    },
+    {
+      "id": 3,
+      "cat": "build_record_early",
+      "danger": "moderate",
+      "title": "Build A Second Champion Above Your Boss",
+      "hook": "Your direct boss can be replaced, promoted, or turn on you tomorrow. <strong>The person two levels up remembers you on their own terms.</strong>",
+      "truth": "One champion is one point of failure if they leave or turn sour.\n• A skip-level relationship gives you a witness your boss doesn't control.\n• It also gives you a second person to name when a reference call comes.\n• Most people only manage up one level and never notice the risk.",
+      "principle": "Greene: Law 20 — Do Not Commit to Anyone",
+      "remember": "Have two people who could vouch for you, not just one.",
+      "theySee": "An employee who shows up prepared in skip-levels and shares real wins, not small talk.",
+      "signals": [
+        {
+          "icon": "👥",
+          "l": "Skip-level cadence",
+          "t": "You have a standing skip-level meeting at least once a quarter."
+        },
+        {
+          "icon": "💬",
+          "l": "Substance over chat",
+          "t": "You bring one real update or ask, not just weather talk."
+        },
+        {
+          "icon": "🎯",
+          "l": "Cross-team visibility",
+          "t": "People outside your team know what you shipped this year."
+        },
+        {
+          "icon": "🤝",
+          "l": "Second name ready",
+          "t": "You can name someone besides your boss who'd speak for you today."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Request a standing skip-level",
+          "desc": "Ask your boss's boss for a quarterly 20-minute check-in."
+        },
+        {
+          "n": "2",
+          "title": "Bring one real topic",
+          "desc": "Show up with one concrete update or question each time, not chit-chat."
+        },
+        {
+          "n": "3",
+          "title": "Stay visible cross-team",
+          "desc": "Volunteer for one project a year that other teams or leaders will see."
+        }
+      ],
+      "script": "\"Would you be open to a short check-in each quarter? I'd like to keep you posted on what I'm shipping and get your read on where I should focus.\"",
+      "watchFor": "They start referencing your work by name in meetings you're not in.",
+      "ifItFails": "Your boss blocks the skip-level or gets defensive about being bypassed. Don't push through them — go sideways instead. Build the same relationship with a senior peer on another team who works with your output directly: \"Would love your read on how the integration landed from your side.\" A peer's word still counts when a recruiter asks around.",
+      "counter": "If a direct report of yours starts scheduling time with your boss, don't read it as disloyalty.\n• Notice if they always bring real substance, not just face time.\n• Ask them directly what they're hoping to get from it.\n• Use it as a signal to make sure your own praise of them is also in writing.",
+      "insight": "This only pays off years later, which is exactly why most people skip it. The harder part is keeping this relationship real instead of political — a skip-level who smells strategy stops trusting you."
+    },
+    {
+      "id": 4,
+      "cat": "exit_writes_reference",
+      "danger": "low",
+      "title": "Resign In Person Before The Email Goes Out",
+      "hook": "The story of your exit gets written in the first five minutes. <strong>Whoever hears it first decides what everyone else believes.</strong>",
+      "when": "You've accepted another offer and haven't told your boss yet.",
+      "truth": "The first version of your exit story becomes the official one.\n• Telling your boss in person, before HR or a mass email, gives you the frame.\n• A surprised boss who hears it secondhand tells a worse story out of hurt pride.\n• Most people email first to avoid an awkward talk, and lose the frame.",
+      "principle": "Voss: Tactical Empathy — Control The First Telling",
+      "remember": "Tell your boss face to face before anyone else hears it.",
+      "theySee": "An employee who respected them enough to deliver the news directly and calmly.",
+      "signals": [
+        {
+          "icon": "🚪",
+          "l": "Private ask",
+          "t": "You book fifteen minutes on their calendar with no subject line."
+        },
+        {
+          "icon": "🤐",
+          "l": "No leaks",
+          "t": "Nobody on the team has heard a rumor before your meeting."
+        },
+        {
+          "icon": "📝",
+          "l": "Letter ready",
+          "t": "You have a short resignation letter ready to send right after."
+        },
+        {
+          "icon": "🙂",
+          "l": "Calm delivery",
+          "t": "You state the news plainly instead of over-explaining or apologizing."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Book time with no detail",
+          "desc": "Ask for fifteen minutes on their calendar without saying why in advance."
+        },
+        {
+          "n": "2",
+          "title": "Say it plainly first",
+          "desc": "Open with the decision in one sentence before any explanation."
+        },
+        {
+          "n": "3",
+          "title": "Send the letter right after",
+          "desc": "Email HR and your boss the written resignation within the hour."
+        }
+      ],
+      "script": "\"I wanted you to hear this from me first — I've accepted another role and I'm resigning. I'll have a letter over within the hour and I want to make this transition as clean as possible.\"",
+      "watchFor": "Your boss asks how they can help make the transition smooth instead of going quiet.",
+      "ifItFails": "Your boss reacts with anger or tries to talk you out of it on the spot. Don't argue the decision — it's already made. Say: \"I hear you, and I've thought this through. Let's focus on making the handoff clean.\" Then leave the room and let the written letter carry the rest.",
+      "counter": "If someone tells you their exit news in a suspiciously calm, rehearsed way, they're managing the story.\n• Notice if they immediately pivot to logistics instead of letting the moment land.\n• Ask one direct question: \"What made this the right time?\"\n• Judge them on the notice and handoff that follows, not the delivery.",
+      "insight": "The delivery buys you the frame, but the frame only holds if the next weeks back it up. The next problem is what you do with the notice period you just bought yourself."
+    },
+    {
+      "id": 5,
+      "cat": "exit_writes_reference",
+      "danger": "low",
+      "title": "Hand Off Clean Instead Of Dumping The Workload",
+      "hook": "Anyone can quit. <strong>Few people quit and leave the place better than they found it.</strong>",
+      "when": "You've given notice and have two to four weeks left on the job.",
+      "truth": "The last thing you do is the thing people remember longest.\n• A clean handoff makes your exit a non-event instead of a scramble.\n• Whoever inherits your work becomes a witness to how you left it.\n• Most people coast the notice period, and that coasting becomes the story.",
+      "principle": "Recency Effect — Last Impression Weighs Most",
+      "remember": "Leave your work easier to pick up than you found it.",
+      "theySee": "Someone who spends their last weeks writing docs and training instead of checking out.",
+      "signals": [
+        {
+          "icon": "📓",
+          "l": "Handoff doc",
+          "t": "You write a document listing every open task, password, and contact."
+        },
+        {
+          "icon": "🎓",
+          "l": "Training sessions",
+          "t": "You book time to walk your replacement or team through the work."
+        },
+        {
+          "icon": "✅",
+          "l": "Loose ends closed",
+          "t": "You close or hand off every open ticket before your last day."
+        },
+        {
+          "icon": "📆",
+          "l": "Full effort to the end",
+          "t": "You work at full pace through the last week, not just the first."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the handoff doc",
+          "desc": "List every open task, key contact, and password on day one of notice."
+        },
+        {
+          "n": "2",
+          "title": "Book training time",
+          "desc": "Schedule sessions with whoever inherits your work before your last week."
+        },
+        {
+          "n": "3",
+          "title": "Close loose ends",
+          "desc": "Finish or formally hand off every open item by your final day."
+        }
+      ],
+      "script": "\"I put together a doc with every open item, who owns what next, and the contacts you'll need. Happy to walk through it whenever works.\"",
+      "watchFor": "Your team stops asking 'what happens when you leave' and starts asking about the new role instead.",
+      "ifItFails": "Nobody has time to sit for the handoff and your notice runs out anyway. Send the document regardless and say so in writing: \"Since we couldn't find time to walk through it live, everything is documented here in detail.\" That protects you even if they never read it.",
+      "counter": "If a departing coworker suddenly stops caring the moment they give notice, don't take over their work silently.\n• Notice the drop in effort and name it directly to your manager.\n• Ask them for a handoff doc before their last week, not their last day.\n• Don't let their coasting become your emergency.",
+      "insight": "A clean handoff is cheap to do and expensive to skip — it costs a few tired weeks and buys years of goodwill. The harder part is doing it even when you're already mentally gone."
+    },
+    {
+      "id": 6,
+      "cat": "exit_writes_reference",
+      "danger": "moderate",
+      "title": "Ask Directly What They'll Say About You",
+      "hook": "Most people leave a job and just hope for the best. <strong>You can ask the question out loud and get the answer before you need it.</strong>",
+      "when": "You're a week or two from your last day and things ended on decent terms.",
+      "truth": "People rarely rehearse what they'll say about you until someone calls and asks.\n• Asking now forces your boss to think it through while you're still there to shape it.\n• A vague answer today is a warning sign you can still address.\n• Most people never ask, and find out the answer secondhand, too late.",
+      "principle": "Preemptive Framing — Ask Before They Improvise",
+      "remember": "Ask now what they'd tell a recruiter, while you can still fix it.",
+      "theySee": "A confident employee who wants clarity, not someone who sounds insecure or needy.",
+      "signals": [
+        {
+          "icon": "🕐",
+          "l": "Right timing",
+          "t": "You ask during your final week, not your first day of notice."
+        },
+        {
+          "icon": "❓",
+          "l": "Direct question",
+          "t": "You ask what they'd say if a recruiter called, not 'was I good.'"
+        },
+        {
+          "icon": "😐",
+          "l": "Vague answer",
+          "t": "They hesitate or give a generic answer instead of specifics."
+        },
+        {
+          "icon": "🔧",
+          "l": "Follow-up room",
+          "t": "You have time left to address anything they raise before you're gone."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the right moment",
+          "desc": "Ask in your last week, in a private one-on-one, not a group goodbye."
+        },
+        {
+          "n": "2",
+          "title": "Ask the exact question",
+          "desc": "Ask what they'd tell a recruiter who called about you tomorrow."
+        },
+        {
+          "n": "3",
+          "title": "Address any hesitation now",
+          "desc": "If they pause or hedge, ask what would make the answer stronger."
+        }
+      ],
+      "script": "\"Before I go — if a recruiter called you next month, what would you tell them about working with me? I'd rather hear it now than find out later.\"",
+      "watchFor": "They answer fast and specific instead of pausing to think it over.",
+      "ifItFails": "They hesitate, give a flat 'you did fine,' and won't say more. Don't push for a better answer on the spot — that reads as fishing. Instead, name a concrete win yourself: \"I was proud of the renewal we saved in March — is that the kind of thing you'd mention?\" Give them the specific to agree to.",
+      "counter": "If your outgoing employee asks you this question, don't dodge it with a generic answer.\n• Notice that a vague answer will worry them more than an honest one.\n• Give one concrete, specific thing you'd actually say.\n• If there's a real concern, say it plainly now instead of in a reference call later.",
+      "insight": "This question does double duty — it tells you the answer and it primes them to think it through before anyone calls. The next problem is what to do if the answer you get back is bad."
+    },
+    {
+      "id": 7,
+      "cat": "exit_writes_reference",
+      "danger": "moderate",
+      "title": "Time Your Notice Around Their Deadline, Not Yours",
+      "hook": "Quit in the middle of their biggest deadline and you're the villain forever. <strong>Quit right after and you're the person who saw it through.</strong>",
+      "when": "You have a new offer and some flexibility on your start date.",
+      "truth": "People remember who bailed at the worst moment more than who stayed.\n• Leaving after a deadline instead of before rewrites your whole tenure.\n• A boss under pressure tells a worse story about anyone who adds to it.\n• Most people quit the moment they're ready, not the moment it's smart.",
+      "principle": "Timing As Leverage — Schelling's Commitment Window",
+      "remember": "Leave right after the big deadline, not in the middle of it.",
+      "theySee": "Someone reliable who stuck around for the hard part before moving on.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Deadline mapped",
+          "t": "You know the exact date of your team's next big deadline."
+        },
+        {
+          "icon": "⏳",
+          "l": "Start date flex",
+          "t": "Your new employer can flex your start date by two to three weeks."
+        },
+        {
+          "icon": "🧮",
+          "l": "Cost weighed",
+          "t": "You weigh a slightly later start against a much better reference."
+        },
+        {
+          "icon": "🏁",
+          "l": "Post-deadline exit",
+          "t": "Your notice date lands right after the deadline closes, not before."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map the deadline calendar",
+          "desc": "Note your team's next major deadline or launch date before you resign."
+        },
+        {
+          "n": "2",
+          "title": "Ask the new employer for flex",
+          "desc": "Ask if your start date can move two to three weeks later."
+        },
+        {
+          "n": "3",
+          "title": "Resign right after the deadline",
+          "desc": "Give notice the week after the deadline closes, not during it."
+        }
+      ],
+      "script": "\"Would it be possible to push my start date by two weeks? I want to see a launch through at my current role instead of leaving mid-crunch.\"",
+      "watchFor": "Your new employer agrees without pushback, and your old boss thanks you for staying through it.",
+      "ifItFails": "Your new employer needs you sooner and won't move the date. Don't force the delay — take the earlier start and be upfront with your current boss instead: \"I know the timing isn't ideal, and I want to help set up whoever covers this before I go.\" A named handoff plan beats a bad exit story even without perfect timing.",
+      "counter": "If an employee announces they're leaving right before your biggest deadline, don't let anger write your reference for you.\n• Notice if you're tempted to punish them in a future reference call.\n• Judge the handoff plan they offer, not just the timing.\n• Say what you'd actually tell a recruiter, separate from how you feel today.",
+      "insight": "This trades a few weeks of your time for years of a better story told about you. The harder part is that not every job lets you choose the timing — sometimes the deadline outlasts your patience."
+    },
+    {
+      "id": 8,
+      "cat": "choose_who_they_call",
+      "danger": "moderate",
+      "title": "Give A Named List, Not 'Call My Old Company'",
+      "hook": "Leave the reference open and a recruiter calls the switchboard. <strong>Name the people and you decide who answers the phone.</strong>",
+      "when": "A job application or recruiter asks for professional references.",
+      "truth": "Most companies will connect a caller to whoever picks up, not whoever helps you.\n• A named list of two or three people replaces a random draw with a chosen one.\n• Recruiters rarely go around a specific list you hand them.\n• Most candidates write 'available upon request' and let chance decide.",
+      "principle": "Choice Architecture — Narrow The Options You Control",
+      "remember": "Hand over names, so nobody has to guess who to call.",
+      "theySee": "A candidate who looks organized and confident, with references ready to go.",
+      "signals": [
+        {
+          "icon": "📋",
+          "l": "Ready list",
+          "t": "You keep an updated list of two to three names, titles, and numbers."
+        },
+        {
+          "icon": "🎯",
+          "l": "Role match",
+          "t": "Each name matches the kind of role you're applying for."
+        },
+        {
+          "icon": "☎️",
+          "l": "Pre-cleared contacts",
+          "t": "Every person on the list has already agreed to take the call."
+        },
+        {
+          "icon": "🚫",
+          "l": "No open door",
+          "t": "You never write 'contact HR' or 'available on request' by default."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick two or three names",
+          "desc": "Choose people who worked closely with you and will speak specifically."
+        },
+        {
+          "n": "2",
+          "title": "Confirm they'll answer",
+          "desc": "Ask each one directly if they're comfortable taking a reference call."
+        },
+        {
+          "n": "3",
+          "title": "Hand the list over first",
+          "desc": "Offer the named list before anyone asks 'who can we contact at your old job.'"
+        }
+      ],
+      "script": "\"Here are the two people best positioned to speak to my work there — happy to make an introduction if that's easier.\"",
+      "watchFor": "The recruiter says thanks and calls your named list instead of asking for a general company contact.",
+      "ifItFails": "The recruiter says company policy requires them to call HR or your direct manager regardless of your list. Don't fight the policy — get ahead of it instead by contacting that manager yourself first: \"Wanted to give you a heads-up, a recruiter from [company] will likely reach out for a reference this week.\" A warned reference is a controlled reference.",
+      "counter": "If a candidate hands you a curated reference list, treat it as a floor, not the full picture.\n• Notice whose name is missing — a direct boss left off a management role is a signal.\n• Ask one open question: \"Is there anyone else here who worked with you closely?\"\n• Weigh the answer, but don't assume the worst from an absence alone.",
+      "insight": "A named list works until the company's own policy overrides it. The next problem is making sure the people on your list actually say what you think they'll say."
+    },
+    {
+      "id": 9,
+      "cat": "choose_who_they_call",
+      "danger": "moderate",
+      "title": "Route Around A Bad Boss To A Peer Who Saw The Work",
+      "hook": "Your boss isn't the only one who watched you work. <strong>Point the call somewhere they don't control.</strong>",
+      "when": "Your direct boss is unlikely to give a strong reference, but a peer or client would.",
+      "truth": "Employers assume the direct boss is the only voice worth calling.\n• A peer, client, or cross-team lead saw your work just as closely.\n• Naming that person legitimately redirects the call without hiding anything.\n• Most candidates default to the boss out of habit, even when it hurts them.",
+      "principle": "Status Asymmetry — Choose The Witness, Not The Title",
+      "remember": "Point them to whoever saw your best work, not just your title's boss.",
+      "theySee": "A candidate offering a specific, credible witness instead of the obvious org-chart choice.",
+      "signals": [
+        {
+          "icon": "🔀",
+          "l": "Alternate witness",
+          "t": "You name a peer, client, or cross-team lead instead of your direct boss."
+        },
+        {
+          "icon": "🧩",
+          "l": "Clear reason",
+          "t": "You explain why this person saw the relevant work firsthand."
+        },
+        {
+          "icon": "🙋",
+          "l": "Offered, not hidden",
+          "t": "You volunteer the direct boss's name too, if asked, instead of dodging."
+        },
+        {
+          "icon": "📈",
+          "l": "Matches the role",
+          "t": "The alternate reference speaks to skills the new job actually needs."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Identify the better witness",
+          "desc": "Pick a peer, client, or cross-team lead who saw your strongest work."
+        },
+        {
+          "n": "2",
+          "title": "Explain the redirect plainly",
+          "desc": "Tell the recruiter why this person is more relevant than the org chart suggests."
+        },
+        {
+          "n": "3",
+          "title": "Stay ready to name the boss too",
+          "desc": "If pushed for the direct manager, give the name rather than refuse."
+        }
+      ],
+      "script": "\"My direct manager changed twice that year, so the person who saw this project closest was our client lead — happy to connect you, and I can also give you my manager's info if useful.\"",
+      "watchFor": "The recruiter accepts the redirect and doesn't ask twice for the direct boss.",
+      "ifItFails": "The recruiter insists on the direct manager specifically. Don't refuse outright — that reads like you're hiding something. Give the name and immediately add context: \"Sure, that's [name] — just so you know, we worked together for a short stretch before I moved to a different reporting line.\" Context before the call beats defense after it.",
+      "counter": "If a candidate steers you away from their direct boss, don't assume the worst automatically.\n• Notice if the reason given is specific and checks out logically.\n• Ask directly: \"Can I also get your direct manager's contact?\"\n• Judge based on whether they hesitate or hand it over readily.",
+      "insight": "This works because most recruiters follow the org chart out of habit, not policy. The harder part is picking a redirect that holds up if someone asks for the boss anyway."
+    },
+    {
+      "id": 10,
+      "cat": "choose_who_they_call",
+      "danger": "low",
+      "title": "Warn Your Reference Before The Call Comes In",
+      "hook": "A cold reference call catches people off guard and off their best answer. <strong>A warned reference sounds ready because they are.</strong>",
+      "when": "You've listed someone as a reference and an offer process is moving forward.",
+      "truth": "People give sharper, more specific answers when they expect the question.\n• A surprise call gets a vague, generic response even from a genuine supporter.\n• A short heads-up gives them time to recall the right details.\n• Most candidates assume their reference will 'just know what to say.'",
+      "principle": "Priming — Prepared Beats Spontaneous",
+      "remember": "Text your reference before the call, not after it happens.",
+      "theySee": "A quick, friendly heads-up message that makes them feel included, not managed.",
+      "signals": [
+        {
+          "icon": "📱",
+          "l": "Advance text",
+          "t": "You message your reference within a day of listing their name."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Rough timing",
+          "t": "You tell them roughly when the call might come, this week or next."
+        },
+        {
+          "icon": "🎯",
+          "l": "Role context",
+          "t": "You mention what the new role is, so they can speak to the right skills."
+        },
+        {
+          "icon": "🙏",
+          "l": "Simple ask",
+          "t": "You thank them for being willing, without over-explaining or scripting them."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Message right away",
+          "desc": "Text or email your reference as soon as you list their name."
+        },
+        {
+          "n": "2",
+          "title": "Give the context",
+          "desc": "Share the company, role, and what skills the job is looking for."
+        },
+        {
+          "n": "3",
+          "title": "Keep it short",
+          "desc": "Thank them and stop — don't turn the message into a script."
+        }
+      ],
+      "script": "\"Heads up, I listed you as a reference for a product lead role at [company] — they may call this week or next. It's a people-management-heavy role if that's useful context. Thank you again for this.\"",
+      "watchFor": "Your reference replies with a thumbs up or a question about the role, not silence.",
+      "ifItFails": "Your reference doesn't respond and the recruiter calls anyway. It's fine — the message still gave them context even unread until later. Follow up once, lightly: \"No rush at all, just flagging in case the call already happened.\" One nudge, then let it go.",
+      "counter": "If a candidate warns you before a reference call, take it as normal courtesy, not manipulation.\n• Notice if they're giving you facts or trying to script your answer.\n• Answer from your own memory regardless of what they hinted at.\n• If the hint doesn't match what you remember, say so honestly on the call.",
+      "insight": "The warning buys sharper answers, not different ones — it can't turn a weak supporter into a strong one. The next problem is making sure the reference actually says what you rehearsed with them."
+    },
+    {
+      "id": 11,
+      "cat": "prime_reference_word_for_word",
+      "danger": "moderate",
+      "title": "Write The Draft They'll Approve, Not Compose",
+      "hook": "Most people asked for a reference stare at a blank page for ten minutes. <strong>Hand them a draft and they'll edit instead of write.</strong>",
+      "when": "Someone agrees to write you a LinkedIn recommendation or reference letter.",
+      "truth": "A blank page produces generic, short praise nine times out of ten.\n• A starting draft anchors their memory to specific, strong details.\n• People edit down a strong draft far less than they build one up from nothing.\n• Most candidates just say thanks and wait, leaving the strength to chance.",
+      "principle": "Anchoring — Give Them The First Draft",
+      "remember": "Send a draft so they edit your words instead of starting blank.",
+      "theySee": "Someone making it easy for them to help, not putting words in their mouth.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "Draft offered",
+          "t": "You send three or four sentences they can use as a starting point."
+        },
+        {
+          "icon": "✏️",
+          "l": "Edit invitation",
+          "t": "You explicitly say to change anything that doesn't sound right."
+        },
+        {
+          "icon": "🎯",
+          "l": "Specific detail",
+          "t": "The draft names one real project or number, not generic praise."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Time saved",
+          "t": "They reply within days instead of the request sitting for weeks."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Draft three sentences",
+          "desc": "Write a short recommendation naming one specific project and result."
+        },
+        {
+          "n": "2",
+          "title": "Offer it as optional",
+          "desc": "Send it with an explicit line that they should change anything."
+        },
+        {
+          "n": "3",
+          "title": "Follow up once",
+          "desc": "If a week passes with no reply, send one light, friendly nudge."
+        }
+      ],
+      "script": "\"No pressure at all, but if it helps, here's a rough starting point you can change however you like: 'Worked with [name] on the Q3 migration — they caught a data issue that would have cost us the client and fixed it in a weekend...' Totally your call.\"",
+      "watchFor": "They reply with your draft lightly edited instead of a generic two-line version.",
+      "ifItFails": "They ignore the draft and write two generic lines anyway, or don't respond at all. Don't push a second time — accept what you get and ask someone else who has more time or more enthusiasm. Say to that second person: \"Would you be up for writing a short recommendation? Happy to send a draft if that's helpful.\"",
+      "counter": "If someone sends you a draft recommendation to sign off on, read it before you approve it.\n• Notice if it claims things you don't actually remember happening.\n• Cut anything you can't personally back up if asked.\n• Send back your own honest version instead of rubber-stamping theirs.",
+      "insight": "The draft raises the floor of what you get, but it can't raise the ceiling — a lukewarm supporter stays lukewarm no matter how good your draft is. The next problem is briefing them for a live phone call, where there's no draft to hand over."
+    },
+    {
+      "id": 12,
+      "cat": "prime_reference_word_for_word",
+      "danger": "moderate",
+      "title": "Send Talking Points Before The Live Call",
+      "hook": "On a live call, people ramble or freeze. <strong>Three bullet points in their inbox the night before fixes both.</strong>",
+      "when": "A reference call is scheduled and your reference is a busy, well-meaning person.",
+      "truth": "A recruiter's question catches people flat-footed if they haven't thought it through.\n• Bullet points the night before give them recall instead of improvisation.\n• Specific numbers and stories beat 'they were great to work with' every time.\n• Most candidates trust the relationship alone to carry the call.",
+      "principle": "Priming — Recall Over Improvisation",
+      "remember": "Send three bullet points the night before the call, not the morning of.",
+      "theySee": "A short, useful reminder that respects their time instead of a demand.",
+      "signals": [
+        {
+          "icon": "🌙",
+          "l": "Night-before timing",
+          "t": "You send the notes the evening before, not hours before the call."
+        },
+        {
+          "icon": "🔢",
+          "l": "Three bullets max",
+          "t": "You list exactly two or three points, not a full page."
+        },
+        {
+          "icon": "📊",
+          "l": "Numbers included",
+          "t": "At least one bullet has a real number or date attached."
+        },
+        {
+          "icon": "🎓",
+          "l": "Role framing",
+          "t": "One bullet ties directly to what the new job is looking for."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick three moments",
+          "desc": "Choose two or three concrete examples that fit the new role's needs."
+        },
+        {
+          "n": "2",
+          "title": "Write it short",
+          "desc": "Turn each into one line with a number, date, or name attached."
+        },
+        {
+          "n": "3",
+          "title": "Send it the night before",
+          "desc": "Email the notes the evening before the scheduled call, not that morning."
+        }
+      ],
+      "script": "\"Ahead of tomorrow's call, three things that might jog your memory: the Q2 launch we shipped two weeks early, the vendor issue I caught before it hit the client, and the team I onboarded that quarter. No script needed, just didn't want you searching for details on the spot.\"",
+      "watchFor": "They mention one of your specific bullets back to you after the call, unprompted.",
+      "ifItFails": "The call happens and your reference gives vague answers anyway, ignoring the notes. You can't fix that call after the fact, so focus forward: ask the recruiter directly if there's anything specific they want more detail on, and offer to have a second reference cover that ground. \"Happy to have you speak with [name] too, who worked more closely on the technical side.\"",
+      "counter": "If a candidate sends you talking points before a call, use them as memory joggers, not a script to read.\n• Notice if a bullet doesn't match your actual memory of events.\n• Speak from what you personally witnessed, not what's written.\n• Tell the recruiter plainly if you can't verify something on the list.",
+      "insight": "This narrows the gap between what happened and what gets remembered on the spot. The harder part is that a reference who barely knows you can't be primed into becoming a strong one."
+    },
+    {
+      "id": 13,
+      "cat": "prime_reference_word_for_word",
+      "danger": "low",
+      "title": "Run A Practice Call Before The Real One",
+      "hook": "A written note is one thing. <strong>Hearing them say the words out loud tells you if the reference will actually land.</strong>",
+      "when": "You have time before the reference call and want to know it will go well.",
+      "truth": "People who sound great in writing sometimes freeze or ramble on the phone.\n• A short practice run surfaces the gap before it costs you the offer.\n• Hearing their actual tone tells you more than any text exchange.\n• Most candidates never test this and find out only when it's too late.",
+      "principle": "Dry Run — Rehearsal Reveals The Gap",
+      "remember": "Do a quick practice call so you hear what they'll actually say.",
+      "theySee": "Someone catching up before a call, not someone auditioning them.",
+      "signals": [
+        {
+          "icon": "☎️",
+          "l": "Casual framing",
+          "t": "You frame the call as catching up, not as a rehearsal."
+        },
+        {
+          "icon": "❓",
+          "l": "Real question asked",
+          "t": "You ask what they'd say if a recruiter called right now."
+        },
+        {
+          "icon": "😬",
+          "l": "Tone check",
+          "t": "You listen for hesitation, flatness, or genuine warmth in their voice."
+        },
+        {
+          "icon": "🔁",
+          "l": "Course correct",
+          "t": "You still have time to pick a different reference if this one falls flat."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Schedule a casual catch-up",
+          "desc": "Book a short call framed as checking in, not as reference prep."
+        },
+        {
+          "n": "2",
+          "title": "Ask the direct question",
+          "desc": "Ask what they'd tell a recruiter if the call happened today."
+        },
+        {
+          "n": "3",
+          "title": "Listen to the tone",
+          "desc": "Judge their energy and specifics, not just their words."
+        }
+      ],
+      "script": "\"Hey, wanted to catch up before things move forward — out of curiosity, if a recruiter called you tomorrow, what would come to mind first about working together?\"",
+      "watchFor": "Their voice picks up energy and they name a specific project without being prompted.",
+      "ifItFails": "Their answer sounds flat, short, or hesitant even in a casual setting. Don't put them on the official list — quietly pick someone else instead. Say: \"Appreciate you being open to this — I think I'll lean on [other person] for this particular role, but would love to stay in touch.\" No confrontation needed.",
+      "counter": "If someone books a casual catch-up right before you're due to give them a reference, recognize the test.\n• Notice the question underneath the small talk.\n• Answer honestly rather than performing enthusiasm you don't feel.\n• If you're lukewarm, say so kindly now instead of on the real call.",
+      "insight": "This is the cheapest insurance available — one awkward call instead of a blown offer. The next problem is what you do when the practice run reveals the reference is genuinely weak."
+    },
+    {
+      "id": 14,
+      "cat": "prime_reference_word_for_word",
+      "danger": "moderate",
+      "title": "Ask The 'Would You Rehire Me' Question Early",
+      "hook": "This is the one question recruiters actually weigh. <strong>Ask it yourself, months before anyone else does.</strong>",
+      "when": "You want to know your standing with a former boss well before you need a reference.",
+      "truth": "Recruiters lean hard on the rehire question because it's harder to fake than praise.\n• Asking it yourself gets you the real answer while you still have time to act.\n• A hesitant answer here is worth more warning than a hundred compliments.\n• Most people never ask, and get blindsided by the question secondhand.",
+      "principle": "Signal Extraction — The Rehire Question",
+      "remember": "Ask if they'd hire you again. That answer tells you everything.",
+      "theySee": "Someone confident enough to ask a direct question instead of fishing for compliments.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Direct phrasing",
+          "t": "You ask 'would you hire me again' word for word, not a softer version."
+        },
+        {
+          "icon": "⏸️",
+          "l": "Pause length",
+          "t": "You notice how long they take before answering."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Specific yes",
+          "t": "A strong yes comes with a reason attached, not just the word."
+        },
+        {
+          "icon": "🚩",
+          "l": "Hedge words",
+          "t": "Words like 'depends' or 'it was a tough time' signal a real concern."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask it plainly",
+          "desc": "Say the exact words: would you hire me again, given the chance."
+        },
+        {
+          "n": "2",
+          "title": "Notice the pause",
+          "desc": "A fast, warm yes means something different than a slow, careful one."
+        },
+        {
+          "n": "3",
+          "title": "Follow a hedge with a question",
+          "desc": "If they hedge, ask directly what's behind the hesitation."
+        }
+      ],
+      "script": "\"Can I ask you something direct — if you had an opening tomorrow, would you hire me again?\"",
+      "watchFor": "They answer instantly with a reason, instead of pausing to think about how to phrase it.",
+      "ifItFails": "They hedge, go quiet, or give a soft non-answer. Don't let it sit unresolved — ask the follow-up directly: \"That's useful to know — what would need to be different for the answer to be yes?\" That question turns a vague warning into something you can actually act on.",
+      "counter": "If a former report asks you this question, don't dodge it to spare their feelings.\n• Notice that a soft dodge worries them more than an honest answer would.\n• Give a real yes or a real reason, not a vague maybe.\n• If it's a no, say what would change it, so it isn't just a closed door.",
+      "insight": "This question is the closest thing to a real reference check you can run on yourself. The next question is harder: what do you do about it if the answer isn't yes."
+    },
+    {
+      "id": 15,
+      "cat": "when_you_know_bad",
+      "danger": "high",
+      "title": "Check The Company's Reference Policy First",
+      "hook": "Some companies legally can't say anything bad about you, even if your boss wants to. <strong>Know the rule before you panic about the person.</strong>",
+      "when": "You suspect a former boss might badmouth you and don't know your options.",
+      "truth": "Many companies restrict managers to confirming only dates and title, by policy.\n• Knowing this in advance tells you how much damage is even possible.\n• A policy-bound company neutralizes a personally hostile boss automatically.\n• Most people assume the worst without checking if the policy already protects them.",
+      "principle": "Institutional Constraint — Policy Over Personality",
+      "remember": "Find out if the company only confirms dates and title. That protects you.",
+      "theySee": "Nothing — this move is invisible to your former employer entirely.",
+      "signals": [
+        {
+          "icon": "📜",
+          "l": "Policy lookup",
+          "t": "You check the employee handbook or HR site for a reference policy."
+        },
+        {
+          "icon": "☎️",
+          "l": "Test call",
+          "t": "You have a friend call HR posing as a reference checker to test the policy."
+        },
+        {
+          "icon": "🏢",
+          "l": "Company size clue",
+          "t": "Larger companies are more likely to have a strict, HR-only policy."
+        },
+        {
+          "icon": "🔒",
+          "l": "Confirmed limit",
+          "t": "You confirm the answer is limited to employment dates and job title only."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the handbook",
+          "desc": "Look for a reference or verification-of-employment policy in company documents."
+        },
+        {
+          "n": "2",
+          "title": "Ask HR directly",
+          "desc": "Call or email HR asking what information they release for reference checks."
+        },
+        {
+          "n": "3",
+          "title": "Test it if unsure",
+          "desc": "Have a trusted friend call and ask what HR is willing to confirm."
+        }
+      ],
+      "script": "\"Hi, I'm doing an employment verification for a former team member — can you confirm what information your policy allows you to share?\"",
+      "watchFor": "HR states a strict dates-and-title-only policy without hesitation.",
+      "ifItFails": "The company has no formal policy and leaves it up to individual managers. In that case the policy check won't protect you, so shift to managing the person directly — go back to the earlier moves on asking what they'll say and priming a better reference elsewhere. Do not rely on policy alone if none exists.",
+      "counter": "If you're the manager and a former report you dislike is about to be checked on, know your own company's policy before you speak.\n• Notice if your personal opinion could get the company in legal trouble if voiced.\n• Stick to dates, title, and eligibility for rehire if that's the policy.\n• Route any pointed question to HR instead of answering it yourself.",
+      "insight": "A strict policy caps the damage but caps the upside too — it can't turn a hostile boss into a warm one, only a silent one. The next problem is what happens when the boss is willing to say something bad anyway, informally, off the record."
+    },
+    {
+      "id": 16,
+      "cat": "when_you_know_bad",
+      "danger": "high",
+      "title": "Tell The New Employer Yourself, First",
+      "hook": "Bad news you deliver sounds like honesty. <strong>Bad news they discover sounds like a lie you got caught in.</strong>",
+      "when": "You know a specific negative thing might come up in your reference check.",
+      "truth": "The same fact lands differently depending on who says it first.\n• Disclosing it yourself frames it as one chapter, not the whole story.\n• A hiring manager who hears it from you can ask you questions directly.\n• Most candidates hope it won't come up, and lose all control if it does.",
+      "principle": "Preemptive Disclosure — Control The Frame",
+      "remember": "Say the bad thing yourself before someone else says it for you.",
+      "theySee": "A candidate who seems unusually straightforward and not afraid of a hard topic.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Specific issue",
+          "t": "You know exactly what the negative topic is likely to be."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Self-disclosure",
+          "t": "You raise it yourself in the interview process before it's asked."
+        },
+        {
+          "icon": "📖",
+          "l": "Short story",
+          "t": "You explain it in two or three sentences, not a long defense."
+        },
+        {
+          "icon": "➡️",
+          "l": "Forward pivot",
+          "t": "You end with what you did differently after, not just the incident."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the exact issue",
+          "desc": "Identify precisely what a former boss might raise, in one sentence."
+        },
+        {
+          "n": "2",
+          "title": "Raise it before they ask",
+          "desc": "Bring it up yourself in a late-stage interview, briefly and plainly."
+        },
+        {
+          "n": "3",
+          "title": "End on the after",
+          "desc": "Close with what changed afterward, not the incident itself."
+        }
+      ],
+      "script": "\"I want to be upfront about something you may hear in a reference check — my last manager and I clashed over a project timeline, and it got tense. What I'd add is that afterward I changed how I escalate risk early, and that's held up since.\"",
+      "watchFor": "The hiring manager nods and moves the conversation forward instead of digging deeper.",
+      "ifItFails": "They ask several follow-up questions and seem visibly unsettled. Don't over-explain further — offer a second reference who can speak to the after: \"Happy to connect you with someone who worked with me on the next project, after that shift.\" Give them a way to verify your growth instead of just your word.",
+      "counter": "If a candidate discloses something negative upfront, weigh it as a data point, not a disqualifier.\n• Notice whether the story is brief and specific or long and defensive.\n• Ask one clarifying question about what changed afterward.\n• Check it against the reference call rather than deciding on the spot.",
+      "insight": "Telling it yourself buys you the frame, not forgiveness — the story still has to hold up under a reference call. The next problem is what to do if the bad word already went out before you got the chance to say anything."
+    },
+    {
+      "id": 17,
+      "cat": "when_you_know_bad",
+      "danger": "moderate",
+      "title": "Get A Neutral HR Reference Instead Of The Boss",
+      "hook": "You don't have to use the person who dislikes you. <strong>HR can confirm your record without ever picking up the phone to your old boss.</strong>",
+      "when": "You know your direct boss won't give a fair reference and want a safer path.",
+      "truth": "Most job offers only require confirmation of employment, not a character reference.\n• Routing the reference through HR removes your boss's opinion from the equation.\n• A recruiter who only needs dates and title rarely insists on more.\n• Most candidates assume the boss is mandatory, and hand them the power by default.",
+      "principle": "Institutional Constraint — Replace The Person With The Process",
+      "remember": "Ask if HR can confirm your employment instead of your old boss.",
+      "theySee": "A candidate handling logistics smoothly, not someone avoiding a conversation.",
+      "signals": [
+        {
+          "icon": "🏢",
+          "l": "HR contact offered",
+          "t": "You give the recruiter an HR or verification-line contact directly."
+        },
+        {
+          "icon": "📞",
+          "l": "No boss requested",
+          "t": "The recruiter doesn't ask for the direct manager by name."
+        },
+        {
+          "icon": "✅",
+          "l": "Dates confirmed",
+          "t": "HR confirms employment dates and title without incident."
+        },
+        {
+          "icon": "🗒️",
+          "l": "Character elsewhere",
+          "t": "You supply a peer or client reference to cover the character side."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the verification line",
+          "desc": "Locate your former employer's HR or third-party verification contact."
+        },
+        {
+          "n": "2",
+          "title": "Offer it as the first option",
+          "desc": "Give the recruiter this contact before they ask who else to call."
+        },
+        {
+          "n": "3",
+          "title": "Supply a character reference separately",
+          "desc": "Name a peer or client for anything beyond dates and title."
+        }
+      ],
+      "script": "\"For employment verification, HR handles that directly — here's the contact. For a working reference, I'd point you to [peer's name], who I worked with most closely day to day.\"",
+      "watchFor": "The recruiter accepts both contacts without asking to speak to your direct manager.",
+      "ifItFails": "The recruiter says they specifically need to speak with your direct manager as part of their process. Don't refuse — provide the contact and get ahead of it by contacting your boss yourself first, giving them notice and a chance to be reasonable in the moment: \"Wanted to give you a heads-up that [recruiter] may reach out this week for a reference.\"",
+      "counter": "If a candidate routes you to HR instead of asking for your personal reference, that's a normal, common move.\n• Notice this is standard practice, not evasion, at most large companies.\n• Ask for a working reference separately if you need more color.\n• Don't penalize the candidate for using the process as designed.",
+      "insight": "This works because most reference checks care about verifying facts, not gathering opinions. The harder part is the character reference gap this leaves — you still need someone who'll speak to how you actually work."
+    },
+    {
+      "id": 18,
+      "cat": "contain_bad_word",
+      "danger": "high",
+      "title": "Confirm The Bad Reference Before You React",
+      "hook": "Secondhand news of a bad reference is often wrong, exaggerated, or a guess. <strong>Confirm it before you burn a bridge over a rumor.</strong>",
+      "when": "You hear through the grapevine that a former boss said something bad about you.",
+      "truth": "A rumor of a bad reference travels faster and looser than the actual words said.\n• Confirming the exact wording tells you if this is a real problem or noise.\n• Acting on a rumor risks damaging a relationship over something unverified.\n• Most people react to the feeling of betrayal before checking the facts.",
+      "principle": "Verification Before Action — Don't Fight A Rumor",
+      "remember": "Find out exactly what was said before you do anything about it.",
+      "theySee": "Nothing yet — this move happens quietly, before any confrontation.",
+      "signals": [
+        {
+          "icon": "👂",
+          "l": "Secondhand tip",
+          "t": "A recruiter or friend mentions a reference 'wasn't great,' without detail."
+        },
+        {
+          "icon": "🔍",
+          "l": "Source check",
+          "t": "You ask the recruiter directly for the specific wording used, if they'll share."
+        },
+        {
+          "icon": "🤝",
+          "l": "Trusted contact",
+          "t": "You ask a friend at the same recruiting firm to check the notes if possible."
+        },
+        {
+          "icon": "📝",
+          "l": "Written confirmation",
+          "t": "You get something closer to exact words, not just a vague impression."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the recruiter directly",
+          "desc": "Ask what specifically was said, not just whether it was good or bad."
+        },
+        {
+          "n": "2",
+          "title": "Get a second source if possible",
+          "desc": "Check with anyone else who might have heard the same call."
+        },
+        {
+          "n": "3",
+          "title": "Decide only after confirming",
+          "desc": "Wait until you have the actual wording before taking any next step."
+        }
+      ],
+      "script": "\"I heard the reference call didn't go as expected — would you be able to share roughly what was said? I want to understand it before assuming the worst.\"",
+      "watchFor": "The recruiter gives you a specific quote or paraphrase instead of staying vague.",
+      "ifItFails": "The recruiter won't share details, citing confidentiality. Don't push further with them — go to the source instead. Contact your former boss directly and ask plainly: \"I heard the reference call may not have gone well — can you tell me what came up? I'd rather hear it from you.\" Do not use this on someone who could retaliate against you at your current job if they're still connected there.",
+      "counter": "If you gave a rough reference and hear the candidate is asking around about it, expect the direct question.\n• Notice that a defensive answer will confirm their fear more than a plain one.\n• Tell them plainly what you said if they ask you directly.\n• Own it if it was harsher than fair, rather than denying it happened.",
+      "insight": "Most 'bad references' turn out smaller than the rumor once confirmed. The next problem is what to do when the confirmed words really were damaging and untrue."
+    },
+    {
+      "id": 19,
+      "cat": "contain_bad_word",
+      "danger": "high",
+      "title": "Send HR A Factual Rebuttal, Not An Emotional One",
+      "hook": "Anger reads as guilt. <strong>A calm, dated list of facts reads as someone who has nothing to hide.</strong>",
+      "when": "You've confirmed a former manager gave a specific, false, or unfair reference.",
+      "truth": "HR departments respond to documentation, not to how upset you sound.\n• A short, factual write-up is far more useful to them than a complaint.\n• Naming a legal or policy angle gets attention that a feeling doesn't.\n• Most people vent instead of documenting, and nothing changes as a result.",
+      "principle": "Institutional Leverage — Speak The Language Of Policy",
+      "remember": "Write down the facts and dates. Skip the anger completely.",
+      "theySee": "A calm, organized person raising a legitimate concern, not a disgruntled ex-employee.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Dated facts",
+          "t": "Your write-up lists specific dates, projects, and outcomes."
+        },
+        {
+          "icon": "🚫",
+          "l": "No emotion language",
+          "t": "You avoid words like 'unfair' or 'furious' in the written note."
+        },
+        {
+          "icon": "📜",
+          "l": "Policy reference",
+          "t": "You mention the company's own reference policy if one exists."
+        },
+        {
+          "icon": "📩",
+          "l": "Formal channel",
+          "t": "You send it to HR in writing, not a phone call or hallway complaint."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the facts only",
+          "desc": "List what was said, when, and how it conflicts with your documented record."
+        },
+        {
+          "n": "2",
+          "title": "Cite the policy",
+          "desc": "Reference the company's stated reference policy if one exists."
+        },
+        {
+          "n": "3",
+          "title": "Send it formally",
+          "desc": "Email HR directly, keeping the tone flat and the content factual."
+        }
+      ],
+      "script": "\"I'm writing to flag a concern about a reference call on [date]. I understand [manager] stated [specific claim], which conflicts with my documented performance reviews from [dates]. Given the company's stated reference policy, I wanted to raise this formally.\"",
+      "watchFor": "HR responds asking for more detail instead of dismissing the note outright.",
+      "ifItFails": "HR responds slowly or says there's nothing they can do. Escalate in writing to a second contact, such as HR's manager or legal, and keep the same factual tone: \"Following up on my note from [date] — given no response, I wanted to make sure this reached the right level.\" Do not use this move if the claim can't be backed by anything documented; an unprovable rebuttal only invites scrutiny of your own record.",
+      "counter": "If you're the manager receiving a factual rebuttal from a former employee, take it seriously rather than defensively.\n• Notice that a calm, documented complaint usually has something real behind it.\n• Compare the claim against your own notes before responding.\n• Correct the record if you were wrong, rather than doubling down.",
+      "insight": "Facts move HR; feelings don't. This works only if you actually have the documentation — which is why the early habit of writing down your wins matters years before you ever need it. The next problem is whether you can afford to wait out HR's timeline."
+    },
+    {
+      "id": 20,
+      "cat": "contain_bad_word",
+      "danger": "extreme",
+      "title": "Use A Lawyer's Letter As A Last, Loud Move",
+      "hook": "Most disputes never need a lawyer. <strong>When they do, one letter says more than a hundred angry calls.</strong>",
+      "when": "A documented false reference is actively costing you real job offers, and HR has ignored you.",
+      "truth": "A lawyer's letter forces a company to weigh legal risk, not just your feelings.\n• Defamation and tortious interference claims exist specifically for this situation.\n• The letter rarely needs to become a lawsuit to change behavior.\n• Most people threaten this themselves, which carries none of the same weight.",
+      "principle": "Schelling: Costly Signal — Outside Authority Changes The Calculus",
+      "remember": "A real lawyer's letter costs them more to ignore than to fix.",
+      "theySee": "A serious legal letterhead landing on the desk of someone who has to answer for it now.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Real damage",
+          "t": "You can point to a specific job offer lost because of the reference."
+        },
+        {
+          "icon": "🗂️",
+          "l": "Documented proof",
+          "t": "You have the exact false statement in writing or confirmed by a source."
+        },
+        {
+          "icon": "⚖️",
+          "l": "Consult first",
+          "t": "You've spoken with an employment lawyer before sending anything."
+        },
+        {
+          "icon": "🔇",
+          "l": "HR went quiet",
+          "t": "You already tried the factual, formal route and got no real response."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Consult an employment lawyer",
+          "desc": "Bring your documentation to a lawyer and ask if a claim is viable."
+        },
+        {
+          "n": "2",
+          "title": "Let the lawyer draft the letter",
+          "desc": "Have them send a formal letter naming the statement and the harm caused."
+        },
+        {
+          "n": "3",
+          "title": "Wait for the response",
+          "desc": "Give the company a real deadline to respond before considering further action."
+        }
+      ],
+      "script": "This letter is drafted and sent by your lawyer, not by you directly — your only line is to your lawyer: \"Here's the documented false statement, the job offer it cost me, and the dates. What's realistic here?\"",
+      "watchFor": "The company's own legal counsel responds within the letter's deadline instead of ignoring it.",
+      "ifItFails": "The company's lawyer disputes the facts or stalls past the deadline. At that point the decision is whether to file, which is a real financial and time cost your lawyer should weigh with you honestly. Do not use this move over a merely lukewarm reference — it is for a documented false statement causing real, provable damage, and it can end any chance of a neutral relationship with that company permanently.",
+      "counter": "If your company receives a lawyer's letter about a reference you gave, do not respond informally or emotionally.\n• Notice this is now a legal matter, not a personnel one.\n• Route it to your own legal counsel immediately, untouched.\n• Say nothing further to the former employee directly.",
+      "insight": "This is the last card in the deck, not the first one to reach for — it burns the relationship completely in exchange for stopping the damage. The real question underneath is whether you're chasing justice or just trying to get the next job, and only one of those is worth a lawyer's fee."
+    },
+    {
+      "id": 21,
+      "cat": "after_offer_lands",
+      "danger": "low",
+      "title": "Ask For The Reference While The Goodwill Is Warm",
+      "hook": "The best time to ask for a favor is right after you gave someone a reason to feel good. <strong>An offer letter is exactly that reason.</strong>",
+      "when": "You just accepted a new offer and want to lock in strong references for next time.",
+      "truth": "Goodwill peaks right after good news, then fades within weeks.\n• Asking for a recommendation now catches people at their most generous.\n• A written recommendation banked today outlives whatever happens later.\n• Most people wait until they need the next reference, when the moment has passed.",
+      "principle": "Reciprocity Window — Strike While Goodwill Is High",
+      "remember": "Ask for the recommendation right after good news, not years later.",
+      "theySee": "Someone celebrating a win and thoughtfully asking for a favor at a natural moment.",
+      "signals": [
+        {
+          "icon": "🎉",
+          "l": "Good news shared",
+          "t": "You tell colleagues and your boss about the new offer soon after signing."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Quick ask",
+          "t": "You ask for a written recommendation within a week or two of the news."
+        },
+        {
+          "icon": "💼",
+          "l": "Multiple askers",
+          "t": "You ask more than one person, not just your closest colleague."
+        },
+        {
+          "icon": "📝",
+          "l": "Banked in writing",
+          "t": "You end up with two or three recommendations saved, not just verbal well-wishes."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Share the news warmly",
+          "desc": "Tell your manager and close colleagues about the new role in person."
+        },
+        {
+          "n": "2",
+          "title": "Ask within two weeks",
+          "desc": "Request a written recommendation while the congratulations are still fresh."
+        },
+        {
+          "n": "3",
+          "title": "Ask more than one person",
+          "desc": "Request from at least two people, not just the closest relationship."
+        }
+      ],
+      "script": "\"Since I have some news to share — I accepted a new role starting next month. While it's fresh, would you be open to writing a short recommendation? It would mean a lot.\"",
+      "watchFor": "They respond quickly and warmly instead of asking you to remind them later.",
+      "ifItFails": "They congratulate you but the recommendation never comes despite the good mood. Send one gentle reminder two weeks later, tied to a deadline: \"No pressure, just wanted to check if you had a chance — I'd love to have it before I start the new role.\" A deadline gives them a reason to act now instead of forever later.",
+      "counter": "If a departing colleague asks for a recommendation right after sharing good news, recognize the timing is intentional, not accidental.\n• Notice that saying yes now costs you little and helps them a lot.\n• Write something specific rather than a generic two-liner.\n• If you can't honestly recommend them, say so kindly instead of stalling.",
+      "insight": "This banks proof for a future you haven't met yet — the next job search, the one after that. The harder part is remembering to do this when you're mentally already gone, focused on the new role instead of the old paperwork."
+    },
+    {
+      "id": 22,
+      "cat": "after_offer_lands",
+      "danger": "low",
+      "title": "Close The Loop With A Thank You That Cements The Story",
+      "hook": "The last message you send someone is the one they remember longest. <strong>Make it the version of the story you want repeated.</strong>",
+      "when": "You've started the new job and the dust from the transition has settled.",
+      "truth": "A final message shapes the lasting memory more than the whole job did.\n• Naming specific moments turns a generic goodbye into a story worth retelling.\n• A short thank you weeks later shows the relationship wasn't just transactional.\n• Most people go quiet the moment they leave, and the story fades to neutral.",
+      "principle": "Recency Effect — Own The Last Word",
+      "remember": "Send one thank-you after you've settled in. Make it specific.",
+      "theySee": "Someone who valued the relationship beyond just needing something from it.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Settled timing",
+          "t": "You send this a few weeks into the new job, not the day you leave."
+        },
+        {
+          "icon": "🎯",
+          "l": "Specific memory",
+          "t": "You name one real moment or lesson from your time working together."
+        },
+        {
+          "icon": "🚫",
+          "l": "No ask attached",
+          "t": "The message doesn't ask for anything, it just closes the loop."
+        },
+        {
+          "icon": "🔗",
+          "l": "Door left open",
+          "t": "You leave the relationship open for the future, not closed off."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait a few weeks",
+          "desc": "Let the new job settle before sending a final thank-you message."
+        },
+        {
+          "n": "2",
+          "title": "Name one specific memory",
+          "desc": "Mention a real project or lesson, not a generic thank you."
+        },
+        {
+          "n": "3",
+          "title": "Leave it open, ask for nothing",
+          "desc": "End the message without any request attached to it."
+        }
+      ],
+      "script": "\"A few weeks into the new role now, and I keep coming back to what you taught me about scoping a project before promising a date — using it daily here. Just wanted to say thanks, genuinely.\"",
+      "watchFor": "They reply warmly and reference the same memory back to you.",
+      "ifItFails": "They don't respond at all. That's fine — this message was never about getting a reply, it was about being the last thing they remember. Don't chase a response or send a second one; the message already did its job the moment it was read.",
+      "counter": "If a former employee sends you a specific, warm thank-you weeks after leaving, take it at face value.\n• Notice there's no ask attached, which usually means it's genuine.\n• Reply if you can, it costs little and closes the loop well.\n• Let it soften any lingering annoyance about how they left.",
+      "insight": "This is the cheapest, longest-lasting move in the whole file — one message, no ask, years of shelf life. The real test is whether everything you did before this point was true enough to make the memory worth repeating."
+    }
+  ]
+}
