@@ -1,0 +1,707 @@
+{
+  "meta": {
+    "id": "srv-foot-in-the-door-the-defense-dossier",
+    "version": "1.0",
+    "title": "Foot in the Door: The Defense Dossier",
+    "subtitle": "12 moves to stop escalating requests before they own you",
+    "description": "A closed-file reference on the foot-in-the-door technique — how it works, why it works on almost everyone, and exactly how to shut it down at each stage. Builds from first recognition through the full counter-sequence.",
+    "author": "AI",
+    "createdAt": "2026-09-13T17:13:36.573Z",
+    "tags": [
+      "persuasion",
+      "negotiation",
+      "psychology",
+      "defense",
+      "compliance",
+      "escalation",
+      "social engineering"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "🚪",
+    "fromServer": true,
+    "generation": {
+      "topic": "Defending against the foot-in-the-door escalation",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "spotting",
+      "label": "Spotting the Pattern",
+      "color": "#e94560",
+      "description": "Early recognition of escalating request sequences"
+    },
+    {
+      "key": "defense",
+      "label": "Holding the Line",
+      "color": "#0f3460",
+      "description": "Moves for saying no and making it stick"
+    },
+    {
+      "key": "audit",
+      "label": "Reviewing Commitments",
+      "color": "#533483",
+      "description": "Stepping back to assess what you have actually agreed to"
+    },
+    {
+      "key": "reset",
+      "label": "Breaking the Chain",
+      "color": "#16213e",
+      "description": "Moves that stop an escalating sequence mid-run"
+    },
+    {
+      "key": "counter",
+      "label": "Flipping the Dynamic",
+      "color": "#1b4332",
+      "description": "Using their own tools against them"
+    },
+    {
+      "key": "aftermath",
+      "label": "The Day After",
+      "color": "#2c2c54",
+      "description": "What happens once you finally refuse"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "spotting",
+      "danger": "low",
+      "title": "Notice When the First Ask Costs You Almost Nothing",
+      "hook": "The ask that takes thirty seconds is not the real ask. It is the setup for the one that takes much more.",
+      "truth": "The first request is designed to be easy. Almost nobody refuses it.\n• The small ask creates a yes on record — that record gets used later.\n• You see yourself as helpful; they see you as committed.\n• The trap is not the first ask. It is every ask that follows.",
+      "principle": "Cialdini: Commitment & Consistency",
+      "remember": "The easy ask is bait. The real ask comes next.",
+      "theySee": "A person making a very small, quick request while looking friendly and relaxed.",
+      "signals": [
+        {
+          "l": "Tiny first ask",
+          "t": "They want something so small it feels rude to say no.",
+          "icon": "🎣"
+        },
+        {
+          "l": "Yes confirmed fast",
+          "t": "They want a verbal or written agreement before moving the conversation forward.",
+          "icon": "✅"
+        },
+        {
+          "l": "Next ask ready",
+          "t": "They have a follow-up request prepared the moment you agree to the first.",
+          "icon": "📋"
+        },
+        {
+          "l": "Nothing returned",
+          "t": "They give nothing back in exchange for your first yes.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log the ask exactly",
+          "desc": "Write down in one sentence what they asked for. Keep the record. It will matter later."
+        },
+        {
+          "n": "2",
+          "title": "Pause before answering",
+          "desc": "Wait ten seconds. Ask yourself: if a stranger made this same ask cold today, would I say yes?"
+        },
+        {
+          "n": "3",
+          "title": "Attach a limit to your yes",
+          "desc": "If you agree, add: 'I can help with this one thing. That's where it stops for now.'"
+        }
+      ],
+      "script": "\"I can help with this specific thing. That's where it stops for now.\"",
+      "counter": "Someone is using this on you when the favor feels too easy and they seem too pleased by your yes.\n• Notice if they repeat or confirm your agreement out loud — that is anchoring it for later.\n• Ask 'What comes after this?' before you commit to anything.\n• Give the smallest possible yes: one thing, one time, no standing agreement.",
+      "insight": "The danger is not the first ask. The danger is that after one yes, saying no later feels like breaking a promise — even though you made no such promise."
+    },
+    {
+      "id": 2,
+      "cat": "spotting",
+      "danger": "moderate",
+      "title": "They Are Building a Story About Who You Are",
+      "hook": "Every yes you give rewrites how you see yourself. <strong>They are writing that story, not you.</strong>",
+      "truth": "Once you act helpfully, you start to believe you are a helpful person — and then act to match that belief.\n• The pattern changes your self-image after just one or two small yeses.\n• You stop evaluating each new ask on its own merits and evaluate it against your new self-image instead.\n• The trap: you say yes to the next ask not because it is reasonable but because it fits who you think you are now.",
+      "principle": "Bem: Self-Perception Theory",
+      "remember": "One yes makes you see yourself as a yes person.",
+      "theySee": "A person agreeing to small favors and quietly starting to think of themselves as the go-to helper.",
+      "signals": [
+        {
+          "l": "Self-label creep",
+          "t": "You catch yourself thinking 'well, I've been helping them, so...' before they even ask.",
+          "icon": "🏷️"
+        },
+        {
+          "l": "Guilt on refusal",
+          "t": "Saying no to the next ask feels like betraying something, not just declining something.",
+          "icon": "😬"
+        },
+        {
+          "l": "Label said publicly",
+          "t": "They reference your past help in front of others to lock the label in place.",
+          "icon": "📢"
+        },
+        {
+          "l": "Asks speed up",
+          "t": "Each new request comes faster than the one before it.",
+          "icon": "⏩"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the label they gave you",
+          "desc": "Write down the identity they have been pushing: 'the reliable one,' 'the team player,' 'the person who always comes through.' Say it out loud."
+        },
+        {
+          "n": "2",
+          "title": "Separate acts from identity",
+          "desc": "List every specific thing you actually did for them. Each is a single act. None of them obligate you to the next one."
+        },
+        {
+          "n": "3",
+          "title": "Test the next ask as a stranger would",
+          "desc": "Cover your history with this person. If someone you'd never met asked you the new thing cold today, would you say yes? That answer is the correct answer."
+        }
+      ],
+      "script": "\"That was a one-time thing. It doesn't mean I'm the person for everything like it.\"",
+      "counter": "You are being labeled when they say things like 'you're always so reliable' right before asking for something bigger.\n• Notice the timing: praise lands right before the bigger ask, every time.\n• Say: 'I helped with that once. This new thing needs its own decision.'\n• Refuse the label. You did one act. That is all it was.",
+      "insight": "The harder problem is that the label sometimes comes from inside — you start calling yourself a yes person before they do, and by then their job is already finished."
+    },
+    {
+      "id": 3,
+      "cat": "audit",
+      "danger": "low",
+      "title": "Review Every Commitment Before the Next Step",
+      "hook": "You signed up for the first step. Nobody showed you the whole staircase.",
+      "truth": "People keep going because stopping feels like wasting what they already put in. That feeling is the trick.\n• Past effort does not make the next step a good idea — it just makes you feel like it does.\n• Each step costs more than the last. The early steps make the later ones feel normal by comparison.\n• The time to audit is before each new phase starts, not after you are already deep in it.",
+      "principle": "Sunk-Cost Anchoring",
+      "remember": "Each step needs a fresh yes. Past yeses do not transfer.",
+      "theySee": "A person stopping before a new project phase and listing what they have already put in.",
+      "signals": [
+        {
+          "l": "Phase language",
+          "t": "They call new asks 'the next phase' as if you already agreed to phases when you agreed to step one.",
+          "icon": "📊"
+        },
+        {
+          "l": "Past effort cited",
+          "t": "They remind you of everything you have already done to justify the next ask.",
+          "icon": "🔙"
+        },
+        {
+          "l": "Scope never shown",
+          "t": "You were never given the full picture of what the whole thing would become.",
+          "icon": "🗺️"
+        },
+        {
+          "l": "Terms grow larger",
+          "t": "Cost, time, or effort for the next step is bigger than anything they described at the start.",
+          "icon": "📈"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List what you have given so far",
+          "desc": "Write down every yes, every hour, every dollar spent. Make it concrete. Total it up so the number is real."
+        },
+        {
+          "n": "2",
+          "title": "Ask what the next step actually costs",
+          "desc": "Get the complete picture — time, money, political cost — before saying anything about the next ask."
+        },
+        {
+          "n": "3",
+          "title": "Decide as if starting fresh",
+          "desc": "Ignore what you have already done. If someone showed you only the next step with no history, would you say yes to it?"
+        }
+      ],
+      "script": "\"Before we go further, I need to see the full picture of what the next phase requires.\"",
+      "counter": "They are using past effort on you when they say 'after everything you've done, it would be a shame to stop now.'\n• Past effort is gone. It does not make the next step cheaper or smarter.\n• Say: 'What I've already done doesn't change what I owe on this new ask.'\n• Stop. Review what the next step actually costs. Decide cold.",
+      "insight": "The most expensive step is always the one you take because you already took all the others — and by then the cost of stopping feels higher than the cost of continuing, even when it is not."
+    },
+    {
+      "id": 4,
+      "cat": "spotting",
+      "danger": "high",
+      "title": "Watch for 'You Already Agreed' Used as a Weapon",
+      "hook": "<strong>\"You already said yes to X, so Y is basically the same thing.\"</strong> That sentence is a move, not a fact.",
+      "truth": "They take your old yes and use it as a down payment on the next thing — without asking permission to do so.\n• The new ask is always described as a small extension of what you already did.\n• Each extension feels minor. By step five you are far from where you started.\n• The defense is simple: your past yes is not transferable to anything you did not explicitly agree to.",
+      "principle": "Prior-Agreement Leverage",
+      "remember": "Your old yes covers only what you agreed to, nothing more.",
+      "theySee": "A person opening a new conversation by citing an earlier agreement as the reason for a bigger ask.",
+      "signals": [
+        {
+          "l": "\"Since you agreed\"",
+          "t": "They open the new ask by referencing your past yes directly, in those words or close to them.",
+          "icon": "🔗"
+        },
+        {
+          "l": "Framed as similar",
+          "t": "The new ask is described as 'basically the same' or 'just like' what you already did.",
+          "icon": "🪞"
+        },
+        {
+          "l": "Logic chain built",
+          "t": "They construct a sentence where each step follows from the last, ending at a much bigger ask.",
+          "icon": "⛓️"
+        },
+        {
+          "l": "No new justification",
+          "t": "They offer no new reason for the larger ask — just your past compliance as the entire argument.",
+          "icon": "🚫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the exact boundary of your old yes",
+          "desc": "State in one sentence exactly what you agreed to. Nothing more, nothing less. Read it back to yourself."
+        },
+        {
+          "n": "2",
+          "title": "Name the gap between then and now",
+          "desc": "Say out loud: 'I agreed to A. This new ask is B. Those are two different things.'"
+        },
+        {
+          "n": "3",
+          "title": "Demand a fresh justification",
+          "desc": "Ask them to make the case for the new ask without referencing your old yes. If they cannot do it, you have your answer."
+        }
+      ],
+      "script": "\"What I agreed to before was specific. This is a new ask and it needs its own answer.\"",
+      "counter": "When someone uses your past yes against you, slow down and get specific about what was actually said.\n• Ask them to state word for word what you originally agreed to. Then compare it to the new ask.\n• If there is any daylight between them, there is a gap they are skipping over.\n• Say: 'Those are two separate things. The second is not covered by the first.'",
+      "insight": "The chain works because each link looks small. By the time it is long, you have forgotten you only agreed to the first link — and they are counting on that forgetting."
+    },
+    {
+      "id": 5,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Say No After You Already Said Yes",
+      "hook": "Changing your mind is not weakness. It is the only move that stops a runaway chain once it is already running.",
+      "truth": "Most people feel they cannot reverse a yes. That feeling is exactly what the other person is counting on.\n• Reversing early costs almost nothing. Reversing late costs a lot. Reverse early.\n• The discomfort of changing your mind is short. The cost of following a bad chain to the end is longer.\n• A clean reversal with one reason is harder to argue against than a vague hesitation or a slow fade.",
+      "principle": "Cialdini: Commitment & Consistency",
+      "remember": "Saying yes once does not lock you in forever.",
+      "theySee": "A person plainly telling someone they are walking back an agreement they made earlier.",
+      "signals": [
+        {
+          "l": "Regret lands fast",
+          "t": "You feel uneasy the moment you say yes, before anything has been done.",
+          "icon": "😟"
+        },
+        {
+          "l": "Scope revealed after",
+          "t": "They reveal more of what the ask actually involves only after you have agreed.",
+          "icon": "📦"
+        },
+        {
+          "l": "Announced quickly",
+          "t": "They tell other people about your agreement before you have time to reconsider.",
+          "icon": "📣"
+        },
+        {
+          "l": "Act-now pressure",
+          "t": "They push you to start immediately, before you can think it through.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State the reversal plainly",
+          "desc": "Say: 'I said yes earlier and I am changing that to no.' No long explanation needed before you say it."
+        },
+        {
+          "n": "2",
+          "title": "Give one clean reason",
+          "desc": "One sentence only: 'I looked at what this actually involves and it does not work for me.'"
+        },
+        {
+          "n": "3",
+          "title": "Hold through pushback",
+          "desc": "When they say 'but you already agreed,' repeat your reason once using the same words. Do not add new justifications. Silence beats arguing."
+        }
+      ],
+      "script": "\"I said I'd help with that, but I looked at it more carefully and I'm not able to.\"",
+      "counter": "When someone reverses on you, do not argue consistency — find out what changed for them.\n• Ask what specifically made them change their mind. That tells you where your ask broke down.\n• Do not replay the original agreement. It is gone. Rebuild from where they are now.\n• If they reverse at step two, your escalation was too fast or too large at step two.",
+      "insight": "The longer you wait to reverse, the harder it gets — not because the other person's position changes, but because yours does, and the label from card two has had more time to set."
+    },
+    {
+      "id": 6,
+      "cat": "reset",
+      "danger": "moderate",
+      "title": "Break the Chain at the Second Ask",
+      "hook": "Step one builds the pattern. Step two locks it in. Break it at step two and the whole sequence falls apart.",
+      "truth": "The first ask is almost always easy enough to pass. The second ask is where the pattern takes hold in you.\n• Agreeing to the second ask tells your brain: 'I do this kind of thing for this person.'\n• After the second yes, each new yes gets easier and each potential no gets harder to say.\n• Break at two. You have not yet built a story about being this person's go-to helper.",
+      "principle": "Freedman & Fraser: Foot-in-the-Door Effect",
+      "remember": "The second yes is where the chain gets strong. Stop it there.",
+      "theySee": "A person pausing noticeably before answering a second request from the same person who made the first.",
+      "signals": [
+        {
+          "l": "Second ask fast",
+          "t": "The second ask arrives within hours or one day of the first.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Same framing used",
+          "t": "They use almost identical language for the second ask as they used for the first.",
+          "icon": "📝"
+        },
+        {
+          "l": "Warmth increased",
+          "t": "They are noticeably more friendly and relaxed after your first agreement.",
+          "icon": "😊"
+        },
+        {
+          "l": "Bigger scope",
+          "t": "The second ask is measurably larger than the first, even though it is framed as similar.",
+          "icon": "📐"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Flag the second ask explicitly",
+          "desc": "Say to yourself: 'This is the second request. I agreed to the first. This is a new decision, not a continuation.'"
+        },
+        {
+          "n": "2",
+          "title": "Evaluate it as if the first never happened",
+          "desc": "Remove the first ask from your thinking. Would you agree to this second thing on its own, with no history between you?"
+        },
+        {
+          "n": "3",
+          "title": "Say yes with hard limits or say no cleanly",
+          "desc": "If you agree, attach a boundary immediately: 'I can do this specific thing. After that, anything else gets a separate conversation.'"
+        }
+      ],
+      "script": "\"I can handle this one too, but I want to be clear — anything after this gets a separate conversation before I commit.\"",
+      "counter": "If someone stops your chain at step two, don't push. Find out what created the friction before trying again.\n• Ask 'What would make this easier for you?' rather than restating why they said yes the first time.\n• If they say no at two, going back with a smaller ask can reset the temperature.\n• A chain that breaks at two is recoverable. A chain that breaks at five is not.",
+      "insight": "Most people never notice step two is where they lose the ability to say no cleanly. By step three, they have stopped trying — and the type you identified in the early cards is fully in control."
+    },
+    {
+      "id": 7,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Name the Pattern Out Loud to the Person Using It",
+      "hook": "<strong>The move stops working the moment you call it by name.</strong> Most people who use it do not expect you to know what it is.",
+      "truth": "The foot-in-the-door sequence depends on you not noticing you are inside one. Name it and the spell breaks.\n• They cannot keep escalating once you have made the pattern visible to both of you in the same room.\n• Naming it is not aggressive — it is accurate. That accuracy puts them on the back foot immediately.\n• They will either back down or show their real ask. Both results give you more information than silence does.",
+      "principle": "Pattern Interruption",
+      "remember": "Naming the move out loud breaks its power immediately.",
+      "theySee": "A person calmly stating the sequence of requests they have received from the same person over the past few days.",
+      "signals": [
+        {
+          "l": "Third ask arrives",
+          "t": "You are being asked for a third thing by the same person within a short time.",
+          "icon": "3️⃣"
+        },
+        {
+          "l": "Size grows each time",
+          "t": "Each ask is noticeably larger than the one before it — no exceptions.",
+          "icon": "📊"
+        },
+        {
+          "l": "Past yeses cited",
+          "t": "They keep tying the new ask back to things you already said yes to as their main argument.",
+          "icon": "🔗"
+        },
+        {
+          "l": "Obligation felt",
+          "t": "You feel like you owe them the next yes even though nothing has been offered to you in return.",
+          "icon": "⚖️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State what you observe plainly",
+          "desc": "Say: 'You asked me for A, then B, now C. Each one is larger than the one before.'"
+        },
+        {
+          "n": "2",
+          "title": "Name the pattern without anger",
+          "desc": "Say: 'This looks like a pattern where each ask gets bigger after I say yes to the previous one.'"
+        },
+        {
+          "n": "3",
+          "title": "Ask for the real ask directly",
+          "desc": "Say: 'What is the actual thing you need? Let's talk about that directly instead of getting there in steps.'"
+        }
+      ],
+      "script": "\"I've noticed each ask has been bigger than the last. What's the full thing you're actually trying to get to?\"",
+      "counter": "If someone names the pattern on you, denying it makes you look worse than anything else you could do.\n• Say: 'You're right. Here is what I actually need.' Then make the real ask directly.\n• They already know what you were doing. Honest transparency recovers more ground than denial.\n• Cut to the real ask immediately. The sequence is blown and there is no value in continuing it.",
+      "insight": "The harder question is whether to name it early — when you first suspect it — or wait until you are sure. Naming it wrong costs you credibility. Naming it too late costs you options."
+    },
+    {
+      "id": 8,
+      "cat": "spotting",
+      "danger": "high",
+      "title": "Spot the Jump — When They Skip Steps to Speed Up",
+      "hook": "Smooth escalation is hard to see. A big jump is easier to catch — but only if you know what a jump looks like.",
+      "truth": "The foot-in-the-door sequence works best when each step is slightly larger than the last. A big jump is less effective but also more visible.\n• A large gap after small asks is a sign they are rushing, desperate, or testing your limits.\n• When the jump feels wrong before you analyze it, that feeling is accurate. Trust it.\n• The jump is a gift — it makes the pattern visible at exactly the moment you most need to see it.",
+      "principle": "Gradual Escalation Mechanics",
+      "remember": "A sudden big ask after small ones means they got impatient.",
+      "theySee": "A person being asked for something many times larger than all the previous requests combined.",
+      "signals": [
+        {
+          "l": "Size mismatch clear",
+          "t": "The new ask is many times larger than anything they have asked for before.",
+          "icon": "📏"
+        },
+        {
+          "l": "Urgency added",
+          "t": "They add time pressure to the big ask that was absent from every earlier request.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Tone shifts",
+          "t": "Their manner changes — more formal, more intense, or more serious than before.",
+          "icon": "🎭"
+        },
+        {
+          "l": "Past help cited heavily",
+          "t": "They lean hard on everything you have already done for them to justify the size of the jump.",
+          "icon": "📚"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Put a number on the gap",
+          "desc": "If they asked for one hour before and now want twenty, say that number out loud to yourself. Making the gap concrete stops you from minimizing it."
+        },
+        {
+          "n": "2",
+          "title": "Ask why this is happening now",
+          "desc": "Say: 'What changed that this is coming up right now?' The answer tells you how much is actually riding on your yes."
+        },
+        {
+          "n": "3",
+          "title": "Slow the clock down",
+          "desc": "Say you need time before answering. Any urgency they feel belongs to them. It is not yours to carry."
+        }
+      ],
+      "script": "\"That's a much bigger ask than anything we've been talking about. I need to think about it on its own.\"",
+      "counter": "If someone calls out the size of your jump, you either had a good reason or you got impatient — and they can tell which.\n• If you had a good reason, state it plainly. Do not defend the sequence that led to it.\n• If you got impatient, the sequence is finished. Reset and make a direct ask with a direct reason.\n• A jump that gets named is usually unrecoverable. Slow the escalation down from the start next time.",
+      "insight": "The gap that makes the move visible is the same gap that makes the move fail — understanding this lets you use controlled jumps deliberately as a test of how far someone will go before they push back."
+    },
+    {
+      "id": 9,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Use a Big Ask to Reset After Too Many Yeses",
+      "hook": "If you are already five steps in and the asks keep coming, you need a move that changes what is normal in this conversation fast.",
+      "truth": "Once you are deep in the sequence, small refusals read as excuses. A large counter-ask resets the frame for both of you.\n• Asking for something large forces them to refuse — and a refusal from them makes saying no much easier for you.\n• After they refuse your big ask, a smaller request — your real target — lands more easily than it would have otherwise.\n• This is an aggressive move. Use it when the other moves in this dossier have already failed.",
+      "principle": "Cialdini: Door-in-the-Face",
+      "remember": "A large ask from you resets what looks reasonable to them.",
+      "theySee": "A person making a large, unexpected request before the other person can launch their next ask.",
+      "signals": [
+        {
+          "l": "You are deep in",
+          "t": "You have said yes four or more times and the requests keep arriving.",
+          "icon": "🔢"
+        },
+        {
+          "l": "Nothing given back",
+          "t": "They have returned nothing across all your previous yeses.",
+          "icon": "🔄"
+        },
+        {
+          "l": "No feels impossible",
+          "t": "Saying no feels out of reach because of how much you have already agreed to do.",
+          "icon": "🚧"
+        },
+        {
+          "l": "Asks accelerate",
+          "t": "New requests are coming faster, not slower, as the sequence goes on.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Identify your big ask",
+          "desc": "Think of something significant you actually need from them. It must be clearly larger than anything they have asked of you."
+        },
+        {
+          "n": "2",
+          "title": "Make the big ask first",
+          "desc": "Ask for it plainly before their next request lands. Give no warm-up. No apology."
+        },
+        {
+          "n": "3",
+          "title": "Follow with your real target",
+          "desc": "After they refuse or hesitate, make a smaller, specific request — the one you actually want. It will feel more reasonable by comparison."
+        }
+      ],
+      "script": "\"Before we go any further, I need you to take on [the large thing]. If that's not possible, then at minimum I need [the real ask].\"",
+      "counter": "Recognize this move when someone makes an unreasonably large ask right before a smaller one arrives.\n• The large ask is designed to be refused. That refusal sets up the smaller ask that follows.\n• Evaluate the smaller ask on its own merits. The large one is irrelevant to it.\n• Say: 'I'm going to look at this second request as if I never heard the first one.'",
+      "insight": "The risk of this move is that they say yes to your large ask — which is why you should use only something you would actually accept if they called you on it."
+    },
+    {
+      "id": 10,
+      "cat": "spotting",
+      "danger": "high",
+      "title": "Spot the Lowball — Agreement First, True Cost Revealed Later",
+      "hook": "They get your yes. Then they change the deal. Your yes stays. The deal gets worse.",
+      "truth": "The lowball works by separating your agreement from the real terms. You say yes to a deal that does not fully exist yet.\n• They reveal the true cost only after you have agreed — when saying no feels much harder than it did before.\n• The agreement you made to the original terms now makes the worse terms feel acceptable by comparison.\n• The defense: require complete information before any agreement. Not after. Not as you go.",
+      "principle": "Lowball Technique",
+      "remember": "Get the full cost before you say yes, never after.",
+      "theySee": "A person agreeing to help with something before being told what it will actually cost them in time or effort.",
+      "signals": [
+        {
+          "l": "Vague terms at start",
+          "t": "The first ask is described without clear numbers, time required, or scope of work.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "Details added later",
+          "t": "Specifics appear after you have said yes, described as minor additions to what you agreed to.",
+          "icon": "➕"
+        },
+        {
+          "l": "Early enthusiasm pushed",
+          "t": "They want your emotional buy-in and your yes before the details are finished.",
+          "icon": "🎉"
+        },
+        {
+          "l": "Cost grows in pieces",
+          "t": "Each new piece of information they reveal costs more than what came before it.",
+          "icon": "💸"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Demand full terms before agreeing to anything",
+          "desc": "Say: 'Walk me through the complete picture — time required, cost, and what is expected of me specifically.'"
+        },
+        {
+          "n": "2",
+          "title": "Get the terms in writing",
+          "desc": "Have them state the full terms in a message or email. Verbal agreements are easy to misremember in their favor."
+        },
+        {
+          "n": "3",
+          "title": "State that changed terms restart the conversation",
+          "desc": "Say explicitly: 'My yes is based on what we have discussed right now. If the terms change, we start over from scratch.'"
+        }
+      ],
+      "script": "\"I want to understand the full picture before I say yes. Walk me through all of it.\"",
+      "counter": "When terms change after you have agreed, you are in a lowball — and you are allowed to withdraw the yes.\n• The deal changed. Your agreement was to the original deal, not the new one.\n• Say: 'What you're describing now is different from what I agreed to. I need to evaluate it fresh.'\n• Do not let them frame the change as minor. Make them justify the new terms from scratch.",
+      "insight": "The most successful lowballs never feel like a switch. They feel like a natural clarification — which is exactly what makes them hard to catch without knowing what to look for before it starts."
+    },
+    {
+      "id": 11,
+      "cat": "reset",
+      "danger": "moderate",
+      "title": "Strip the Label They Put on You and Start Clean",
+      "hook": "You are not 'the helpful one,' 'the team player,' or 'the person who always comes through.' That label is not yours — they gave it to you.",
+      "truth": "By this point in the sequence you have probably accepted a label. The label is the last thing they protect.\n• If you act against the label — 'the reliable one says no?' — they make you feel inconsistent and disloyal.\n• The label is not a contract. It is a story they told you so you would tell it to yourself.\n• Rejecting the label is the hardest move in this dossier — and the most important one.",
+      "principle": "Bem: Self-Perception Theory",
+      "remember": "You can reject the label they built and decide fresh each time.",
+      "theySee": "A person telling someone they are no longer going to be the automatic go-to for this kind of help.",
+      "signals": [
+        {
+          "l": "Label said again",
+          "t": "They call you 'reliable,' 'the go-to person,' or 'the one who gets it' right before asking for more.",
+          "icon": "🏷️"
+        },
+        {
+          "l": "Others use it now",
+          "t": "People around you have heard the label and use it without being told to.",
+          "icon": "👥"
+        },
+        {
+          "l": "No feels wrong inside",
+          "t": "Saying no feels like you are becoming a different, worse person — not just declining a request.",
+          "icon": "😔"
+        },
+        {
+          "l": "Surprise at hesitation",
+          "t": "They show real hurt or surprise when you pause, as if your hesitation is a personal betrayal.",
+          "icon": "😯"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the label explicitly",
+          "desc": "Say out loud: 'The story has been that I am the reliable one. I did not agree to that story.'"
+        },
+        {
+          "n": "2",
+          "title": "Separate the acts from the identity",
+          "desc": "List every specific thing you actually did. Each was a single choice. None of them create a standing obligation to do the next one."
+        },
+        {
+          "n": "3",
+          "title": "Make the next decision as a stranger would",
+          "desc": "Ask: if someone who had never met you made this exact ask today, would you say yes? Answer that question. Not the label question."
+        }
+      ],
+      "script": "\"I've been the person who said yes to these things. That doesn't mean I have to keep being that person.\"",
+      "counter": "When someone rejects the label you built for them, the sequence is finished — do not try to reinforce it.\n• Reinforcing the label after they have named it makes the move obvious to everyone watching.\n• Go back to the real ask and make it directly, without the history.\n• If the real ask stands on its own merits, it never needed the label to begin with.",
+      "insight": "The label is sticky because it works from both directions — once you have rejected it, you may find yourself wondering who you are to this person now, which opens a different kind of pressure that has nothing to do with the original ask."
+    },
+    {
+      "id": 12,
+      "cat": "aftermath",
+      "danger": "low",
+      "title": "What Happens After You Finally Say No",
+      "hook": "You said no. Now they have options. Know what comes next before it arrives.",
+      "truth": "The first no after a chain of yeses is a stress test for the relationship.\n• If they accept cleanly, the relationship was real — or they have other options and move on.\n• If they push guilt, go quiet, or bring in other people, the sequence was never about the relationship.\n• What they do in the next 48 hours tells you more than the entire sequence before it did.",
+      "principle": "Greene: Law 7 — Get Others to Do the Work",
+      "remember": "How they react to your no tells you who they are.",
+      "theySee": "A person watching quietly to see how someone responds to hearing no for the first time after a long chain of yeses.",
+      "signals": [
+        {
+          "l": "Guilt arrives fast",
+          "t": "They respond to your no with silence, visible disappointment, or 'I thought I could count on you.'",
+          "icon": "😞"
+        },
+        {
+          "l": "Third party contacts you",
+          "t": "Someone else reaches out to advocate for them after you said no — they recruited help.",
+          "icon": "📲"
+        },
+        {
+          "l": "Rephrased repeat attempt",
+          "t": "They come back within a few days with a slightly different version of the same ask.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Clean acceptance",
+          "t": "They accept the no without pressure — meaning either they have other options or the relationship is solid.",
+          "icon": "✅"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch the first 24 hours exactly",
+          "desc": "Note what they do immediately after the no. Write it down. Their first reaction is unguarded and honest — it shows you what the whole sequence was really about."
+        },
+        {
+          "n": "2",
+          "title": "Hold the no through any pressure",
+          "desc": "If guilt or third-party pressure appears, repeat your no once in the same words you used before. Do not add new justifications. The explanation is complete."
+        },
+        {
+          "n": "3",
+          "title": "Decide what access they get going forward",
+          "desc": "Based on what you see in 48 hours, decide how much of your time and attention this person gets from here. Make that decision now, not later when pressure returns."
+        }
+      ],
+      "script": "\"My answer is still no. That's not going to change.\"",
+      "counter": "If you are on the other side and someone says no after a long chain of yeses, the sequence is over.\n• Do not guilt-trip. It confirms they were right to refuse and makes you look worse to anyone watching.\n• Do not recruit others to push them. That destroys trust with everyone who finds out you did it.\n• If the relationship matters, let the no stand. Come back weeks later with something different and smaller.",
+      "insight": "The no that ends a chain is also the beginning of a new baseline — the real question is whether you notice when they reset the sequence with a small, easy ask three weeks from now."
+    }
+  ]
+}
