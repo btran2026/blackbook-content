@@ -1,0 +1,1202 @@
+{
+  "meta": {
+    "id": "srv-layoff-proof",
+    "version": "1.0",
+    "title": "Layoff-Proof",
+    "subtitle": "Position yourself before the list gets made",
+    "description": "The cuts are decided before anyone announces them. This is the file on how the decision actually gets made, who's in the room, and what you do in the weeks before and after your name comes up.",
+    "author": "AI",
+    "createdAt": "2026-09-13T21:04:32.429Z",
+    "tags": [
+      "career",
+      "layoffs",
+      "workplace politics",
+      "job security",
+      "negotiation"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#7A1F2B",
+    "coverIcon": "🪓",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "visibility",
+      "label": "Get Seen",
+      "color": "#E63946"
+    },
+    {
+      "key": "allies",
+      "label": "Build Alliances",
+      "color": "#2A9D8F"
+    },
+    {
+      "key": "indispensable",
+      "label": "Cost More to Cut",
+      "color": "#E9C46A"
+    },
+    {
+      "key": "intel",
+      "label": "Read the Signals",
+      "color": "#264653"
+    },
+    {
+      "key": "defense",
+      "label": "Survive the Cut",
+      "color": "#6D597A"
+    },
+    {
+      "key": "hedge",
+      "label": "Hedge Your Bet",
+      "color": "#457B9D"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "visibility",
+      "danger": "low",
+      "title": "Make Your Wins Visible to the Person Who Decides",
+      "principle": "Status Asymmetry",
+      "remember": "If the boss above your boss never hears your name, you're invisible.",
+      "hook": "Layoffs get decided by people who barely know you exist. <strong>If your name never reaches that room, you're already on the list.</strong>",
+      "truth": "Your manager knows your work. The person who picks the cut list often does not.\n• Cut decisions get made by people two levels above your daily contact.\n• Your manager's opinion is one input, not the final word.\n• Most people stop at impressing their boss and go no further.",
+      "when": "You just finished a project that saved time or money, and only your manager knows.",
+      "theySee": "A director skimming a short email that names you next to a real number.",
+      "signals": [
+        {
+          "icon": "📧",
+          "l": "No forward",
+          "t": "Your manager never forwards your wins to their own boss."
+        },
+        {
+          "icon": "🙈",
+          "l": "Skip-level blank",
+          "t": "Your skip-level manager can't name one thing you did this year."
+        },
+        {
+          "icon": "🗓️",
+          "l": "No mention",
+          "t": "Team wins get named in all-hands meetings, yours never do."
+        },
+        {
+          "icon": "🤐",
+          "l": "Credit vacuum",
+          "t": "You hear about your own project's success from someone else first."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the number",
+          "desc": "Turn your last project into one line with a dollar or hour figure attached."
+        },
+        {
+          "n": "2",
+          "title": "Cc the skip-level",
+          "desc": "Send a short update to your manager and cc their boss, once a quarter."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the room",
+          "desc": "Ask your manager to let you present the result at the next leadership meeting."
+        }
+      ],
+      "script": "\"Quick update for you both — the migration I led cut our processing time by 30%, which frees up about 10 hours a week for the team.\"",
+      "watchFor": "The skip-level replies directly to you instead of just to your manager.",
+      "ifItFails": "Your manager blocks the cc or never forwards the update. Stop routing through them and find a direct channel instead: volunteer for a cross-team project that reports straight to the skip-level. Say to your manager: <strong>\"I'd like to present this one myself at the next leadership sync, since I did the work.\"</strong>",
+      "counter": "If a coworker keeps cc'ing your boss on their wins, they are running this move on you too.\n• Notice when someone routes routine updates to people above you.\n• Say: <strong>\"Good to see this, let's also get X's input before it goes further.\"</strong>\n• Add your own name to the same thread before it moves higher.",
+      "insight": "Visibility without a number attached reads as noise. The harder part is doing this without looking like you're campaigning for your own survival.",
+      "example": "Dana automated a report that took her team six hours a week. She mentioned it once in standup and nobody reacted. Three months later she sent her director a two-line email with the hours saved spelled out, and got pulled into a strategy meeting she'd never been invited to before."
+    },
+    {
+      "id": 2,
+      "cat": "visibility",
+      "danger": "low",
+      "title": "Attach Your Name to Revenue, Not Just Tasks",
+      "principle": "Greene: Law 6 — Court Attention",
+      "remember": "Money-makers survive cuts. Task-doers get counted as cost.",
+      "hook": "Two people cost the same on a spreadsheet. <strong>Only one of them shows up next to a dollar sign.</strong>",
+      "truth": "A budget review sees names next to numbers, not job descriptions.\n• Cost centers get cut first, revenue lines get protected.\n• Nobody asks what a good employee does, they ask what a line item does.\n• Most people describe their job by tasks, not by what it earns or saves.",
+      "when": "You're asked to describe your role in a review, a resume, or a meeting.",
+      "theySee": "A finance lead reading a name tied to a number on a spreadsheet, not a job title.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "No dollar tie",
+          "t": "Your work never appears next to a revenue or savings figure anywhere."
+        },
+        {
+          "icon": "🧾",
+          "l": "Task language",
+          "t": "You describe your job with verbs like 'support' or 'assist' only."
+        },
+        {
+          "icon": "💸",
+          "l": "Cost bucket",
+          "t": "Your team gets called overhead in budget conversations."
+        },
+        {
+          "icon": "🏷️",
+          "l": "No client name",
+          "t": "No client or product can name what you specifically did for them."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the dollar line",
+          "desc": "Trace your work back to a sale, a saved cost, or a retained client."
+        },
+        {
+          "n": "2",
+          "title": "Rewrite your title internally",
+          "desc": "Describe your role in your next 1-on-1 as what it protects or earns, not what it does."
+        },
+        {
+          "n": "3",
+          "title": "Ask finance the question",
+          "desc": "Ask your manager how your team's budget line gets described upstream."
+        }
+      ],
+      "script": "\"Just so I frame this right going forward — is my work counted as part of the cost of running the platform, or tied to the renewal numbers on the client side?\"",
+      "watchFor": "Your manager pauses before answering, then starts using your framing in the next review.",
+      "ifItFails": "Your manager says your role is pure overhead and there's no dollar tie to find. Don't argue the framing — go find or create the tie yourself. Ask to shadow one client call or one sales handoff next quarter so your name can attach to a real number by year end.",
+      "counter": "If a coworker starts renaming their work in dollar terms, they are running this move to protect their spot.\n• Notice when task language quietly becomes revenue language in meetings.\n• Ask: <strong>\"What's the number behind that number?\"</strong>\n• Make sure your own dollar tie is on record before theirs is the only one.",
+      "insight": "A dollar figure protects you until the whole revenue line gets cut. The harder question is what you do when the product itself, not you, is the problem.",
+      "example": "Marcus supported the sales team's tools for years and called himself 'IT support' in every review. He reworked his story to 'I keep the systems that closed $4M in deals last quarter running.' Same job, different survival odds."
+    },
+    {
+      "id": 3,
+      "cat": "visibility",
+      "danger": "low",
+      "title": "Send the Update Nobody Asked For",
+      "principle": "Cialdini: Mere-Exposure",
+      "remember": "People spare what they see working. Silence gets forgotten first.",
+      "hook": "Nobody defends a name they haven't thought about in months. <strong>Silence is not safety, it's the fastest way to disappear.</strong>",
+      "truth": "Decision-makers protect what feels familiar and present in their mind.\n• A name that shows up regularly feels safer to keep than a stranger's.\n• Silence reads as nothing happening, even when a lot is happening.\n• Most people wait to be asked instead of showing up first.",
+      "when": "A month has passed and nobody above your manager has heard from you directly.",
+      "theySee": "A short, useful note landing in their inbox from someone they'd otherwise forget exists.",
+      "signals": [
+        {
+          "icon": "📭",
+          "l": "No inbound",
+          "t": "Nobody above your manager has emailed you in three months or more."
+        },
+        {
+          "icon": "🫥",
+          "l": "Meeting ghost",
+          "t": "You attend meetings but never speak or send a follow-up."
+        },
+        {
+          "icon": "🔄",
+          "l": "Reactive only",
+          "t": "Every update you send is a reply, never one you started."
+        },
+        {
+          "icon": "🗒️",
+          "l": "No paper trail",
+          "t": "You can't find one email where you told leadership what you did."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a cadence",
+          "desc": "Send one short update to your manager's chain every four to six weeks."
+        },
+        {
+          "n": "2",
+          "title": "Keep it to five lines",
+          "desc": "State the problem, what you did, and the result in plain numbers."
+        },
+        {
+          "n": "3",
+          "title": "End with a question",
+          "desc": "Close with one question that invites a reply, so it isn't a one-way memo."
+        }
+      ],
+      "script": "\"Wanted to flag this before the quarterly review — we caught a billing error that would've cost us $18K, fixed it, and added a check so it can't happen again. Anything you'd want more detail on?\"",
+      " watchFor": "A leader replies with a question instead of just \"thanks, noted.\"",
+      "ifItFails": "Nobody replies for two update cycles in a row. Don't send a third update into the void — change the channel instead. Ask your manager directly: <strong>\"Is this landing anywhere, or should I find a different way to get visibility on this work?\"</strong>",
+      "counter": "If a coworker suddenly starts sending polished updates up the chain, they read the same danger you do.\n• Notice the timing — updates spike right before review or headcount season.\n• Match their cadence instead of competing on any single email.\n• Ask your manager directly where you stand instead of guessing from their moves.",
+      "insight": "Regular visibility beats occasional brilliance in most people's memory. The harder problem is keeping it up when nothing dramatic happened that month.",
+      "example": "Priya started sending a five-line monthly note to her VP, even in slow months. Six months in, when budget cuts came up, her VP was the one who said 'not her, she's the one who caught the vendor overcharge.'"
+    },
+    {
+      "id": 4,
+      "cat": "allies",
+      "danger": "low",
+      "title": "Build a Skip-Level Relationship Before You Need One",
+      "principle": "Greene: Law 4 — Always Say Less Than Necessary... Except Upward",
+      "remember": "Meet the person above your boss before you need them to save you.",
+      "hook": "The first time your skip-level hears your name should not be on a layoff spreadsheet. <strong>By then it's too late to introduce yourself.</strong>",
+      "truth": "People protect faces they recognize, not names on an org chart.\n• A face in a real conversation beats a bullet point in a report.\n• Relationships built in a crisis look desperate and land badly.\n• Most people never talk to their skip-level until they're already in trouble.",
+      "when": "You realize your skip-level manager couldn't pick your face out of a lineup.",
+      "theySee": "An employee asking a genuine question in a skip-level meeting, not pitching or complaining.",
+      "signals": [
+        {
+          "icon": "👤",
+          "l": "No 1-on-1 ever",
+          "t": "You've never had a single one-on-one with your skip-level manager."
+        },
+        {
+          "icon": "🤷",
+          "l": "Name confusion",
+          "t": "Your skip-level mixes up your name with a coworker's."
+        },
+        {
+          "icon": "🚪",
+          "l": "Skip meetings",
+          "t": "You skip the optional skip-level office hours every time they're offered."
+        },
+        {
+          "icon": "📉",
+          "l": "Cold contact",
+          "t": "The only time you've messaged them was to ask for something."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Take the office hours",
+          "desc": "Sign up for the next skip-level open slot, even a 15-minute one."
+        },
+        {
+          "n": "2",
+          "title": "Bring one real question",
+          "desc": "Ask about a decision or direction you're genuinely unsure about, not small talk."
+        },
+        {
+          "n": "3",
+          "title": "Follow up once",
+          "desc": "Send one line after, referencing something specific they said."
+        }
+      ],
+      "script": "\"I've got a question about how the team's priorities might shift next quarter — could I grab 15 minutes at your next office hours?\"",
+      "watchFor": "They remember and reference your question the next time they see you.",
+      "ifItFails": "They cancel or never book the meeting after two tries. Stop chasing the calendar invite and find a lower-cost entry point: comment usefully in a channel or all-hands Q&A where they're present, so your name lands without needing a meeting at all.",
+      "counter": "If a peer suddenly starts booking time with your skip-level, notice what changed for them.\n• Ask yourself if a reorg or review cycle is coming that you haven't heard about.\n• Book your own time in the same window, don't wait to react.\n• Bring a real question, not a copy of theirs.",
+      "insight": "This relationship only pays off if it's already warm when the list gets made. The harder part is doing it consistently enough that it doesn't look like a rescue mission in month eleven.",
+      "example": "Owen took fifteen minutes of skip-level office hours every quarter for a year, asking real questions about roadmap. When his team got restructured, his skip-level personally asked for him to move to a surviving group instead of the cut list."
+    },
+    {
+      "id": 5,
+      "cat": "allies",
+      "danger": "low",
+      "title": "Get a Peer in Another Department to Vouch for You",
+      "principle": "Greene: Law 20 — Do Not Commit to Anyone, but Court Many",
+      "remember": "One team can't save you. A second team that wants you can.",
+      "hook": "Layoffs cut by team first. <strong>If only one team wants to keep you, you have exactly one vote.</strong>",
+      "truth": "Headcount decisions get made team by team, in isolation from each other.\n• A manager fighting to keep you is one voice in one room.\n• A second department asking for you turns a cut into a transfer.\n• Most people only build a reputation inside their own team's walls.",
+      "when": "You've delivered something useful to a team you don't formally belong to.",
+      "theySee": "A manager in another department who remembers you solved a real problem for them.",
+      "signals": [
+        {
+          "icon": "🏝️",
+          "l": "Silo only",
+          "t": "Nobody outside your direct team could describe what you do."
+        },
+        {
+          "icon": "🔁",
+          "l": "One requester",
+          "t": "Every piece of work you've done was requested by the same manager."
+        },
+        {
+          "icon": "🚫",
+          "l": "No cross-project",
+          "t": "You've never been staffed on a project outside your home team."
+        },
+        {
+          "icon": "🗣️",
+          "l": "No outside mention",
+          "t": "No manager outside your team has ever mentioned your name in a meeting."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Take one cross-team ask",
+          "desc": "Volunteer for the next request that comes from outside your direct chain."
+        },
+        {
+          "n": "2",
+          "title": "Deliver fast and small",
+          "desc": "Pick something you can finish in under two weeks to build a real memory."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to say so",
+          "desc": "Ask that manager to mention the help to your manager directly, not just to you."
+        }
+      ],
+      "script": "\"Glad that worked out — if it's useful, feel free to mention to my manager that the turnaround helped, it's good context for my review.\"",
+      "watchFor": "The other manager brings up your name unprompted in a meeting you're not in.",
+      "ifItFails": "The other manager helps but never says a word to anyone above them. Don't ask twice — build the record yourself instead. Send a short note to your own manager naming the project and asking them to confirm the impact directly with the other manager.",
+      "counter": "If a coworker starts doing quiet favors for another department, they're building a second vote.\n• Notice who starts getting unplanned work from outside the team.\n• Build your own outside relationship in parallel, don't wait to compete later.\n• Ask your manager plainly if cross-team value counts in the next review.",
+      "insight": "A second department that wants you changes the math from a cut to a move. The harder part is doing this without your own manager reading it as disloyalty.",
+      "example": "Lena spent a week helping the ops team fix a reporting mess that wasn't her job. Six months later, when her department shrank, the ops director asked HR directly if she could move to his team instead of being let go."
+    },
+    {
+      "id": 6,
+      "cat": "allies",
+      "danger": "moderate",
+      "title": "Never Let HR Be the First Time Someone Says Your Name",
+      "principle": "Availability Heuristic",
+      "remember": "Be a known name in the good meetings before you're a name in the bad one.",
+      "hook": "HR builds the cut list from names managers already say out loud. <strong>If you're not in the good conversations, you default into the bad one.</strong>",
+      "truth": "HR doesn't invent the list, they collect names managers already keep saying.\n• Names that come up often in praise get remembered as valuable.\n• Names that never come up get remembered as replaceable, by default.\n• Most people assume silence is neutral. In a cut list, silence is a vote against you.",
+      "when": "You realize you can't recall the last time your manager mentioned your name to anyone senior.",
+      "theySee": "A manager who, asked to name their strongest people, says your name without hesitation.",
+      "signals": [
+        {
+          "icon": "🗂️",
+          "l": "No mentions found",
+          "t": "Your manager can't recall telling anyone above them about your work."
+        },
+        {
+          "icon": "📋",
+          "l": "Generic review",
+          "t": "Your last review used words like 'solid' or 'meets expectations' only."
+        },
+        {
+          "icon": "🤝",
+          "l": "No sponsor",
+          "t": "Nobody senior has ever advocated for your promotion or raise."
+        },
+        {
+          "icon": "😶",
+          "l": "Absent from praise",
+          "t": "Team shout-outs never include your name, even for shared work."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask your manager directly",
+          "desc": "Ask them what they'd say if asked to name their top three performers."
+        },
+        {
+          "n": "2",
+          "title": "Fix the gap you find",
+          "desc": "If you're not on that list, ask what specifically would move you onto it."
+        },
+        {
+          "n": "3",
+          "title": "Check back in 90 days",
+          "desc": "Revisit the same question after doing the work they named."
+        }
+      ],
+      "script": "\"If someone asked you today to name your top performers, would I be on that list? And if not, what would get me there?\"",
+      "watchFor": "Your manager hesitates or gives a vague answer instead of a quick yes.",
+      "ifItFails": "Your manager says yes but nothing changes in how they talk about you to others. Stop trusting the verbal answer and build your own evidence trail: keep a dated list of wins and ask for them in writing at your next formal review, where it becomes harder to ignore.",
+      "counter": "If your manager asks you this same question about a peer, they may be building their own list.\n• Notice when managers start asking pointed 'who's strong' questions out of nowhere.\n• Recognize a review or restructuring cycle is likely starting.\n• Ask your own manager the same question about yourself, first.",
+      "insight": "This card only works if the answer is honest, and most managers won't tell you the truth outright. The next problem is figuring out what to do when the honest answer is no.",
+      "example": "Tariq asked his manager this question point blank in a 1-on-1. His manager admitted he'd only been naming two other people in leadership syncs. Tariq asked what would fix that, delivered on it in a quarter, and heard his own name mentioned in the next round of talent reviews."
+    },
+    {
+      "id": 7,
+      "cat": "indispensable",
+      "danger": "low",
+      "title": "Own the One System Nobody Else Understands",
+      "principle": "Bus-Factor Leverage",
+      "remember": "If only you can fix it, they can't cut you without a plan.",
+      "hook": "Companies don't cut what would break something. <strong>Be the wire nobody wants to touch.</strong>",
+      "truth": "A layoff list gets checked against what would break if a name disappeared.\n• A skill that's easy to replace gets cut first, every time.\n• A system only one person understands creates real risk to remove.\n• Most people spread their knowledge around instead of guarding one piece of it.",
+      "when": "You're asked to document a process so 'anyone can pick it up.'",
+      "theySee": "A manager weighing the cost of losing you against the cost of keeping you.",
+      "signals": [
+        {
+          "icon": "📚",
+          "l": "Fully documented",
+          "t": "Every process you touch already has a full written guide, ready for anyone."
+        },
+        {
+          "icon": "👥",
+          "l": "Easily backfilled",
+          "t": "Your manager names two other people who could do your job tomorrow."
+        },
+        {
+          "icon": "🔧",
+          "l": "No unique tool",
+          "t": "Nobody has ever called you the only person who understands something."
+        },
+        {
+          "icon": "🗃️",
+          "l": "Shared access",
+          "t": "Every system you run has three other admins with full access already."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the tangled system",
+          "desc": "Identify the process or tool that's messy, undocumented, and nobody wants."
+        },
+        {
+          "n": "2",
+          "title": "Learn it deeply",
+          "desc": "Become the person who can explain and fix it faster than anyone else."
+        },
+        {
+          "n": "3",
+          "title": "Document just enough",
+          "desc": "Write down enough for continuity, but keep the deep fixes in your head."
+        }
+      ],
+      "script": "\"I can take ownership of the billing reconciliation script — nobody's touched it since the last engineer left, and it's a risk sitting untouched.\"",
+      "watchFor": "People start routing questions about that system to you by default, unprompted.",
+      "ifItFails": "Someone else grabs the same system and documents it fully to look helpful. Don't fight over the same territory — move to the next undocumented mess before they do, and make sure your manager knows you offered first.",
+      "counter": "If a coworker suddenly refuses to document their work, they may be protecting their position with this move.\n• Notice when someone becomes the sole owner of an unwritten process.\n• Ask your manager to require written backup documentation as a policy, not a target at one person.\n• Offer to co-own critical systems so no one person is a single point of failure.",
+      "insight": "This buys you time, not permanent safety, because eventually someone gets told to document you out of the job. The next question is what you do once that documentation exists.",
+      "example": "Felix was the only person who understood the legacy invoicing script. He never fully wrote it down. When his division got restructured, his manager fought to keep him specifically because nobody else could touch that system without months of relearning."
+    },
+    {
+      "id": 8,
+      "cat": "indispensable",
+      "danger": "low",
+      "title": "Become the Translator Between Two Teams That Don't Talk",
+      "principle": "Greene: Law 8 — Make Other People Come to You",
+      "remember": "Sit between two teams that need each other and can't talk.",
+      "hook": "Two teams that don't get along both need someone in the middle. <strong>Be the only bridge and you become the toll both sides have to pay.</strong>",
+      "truth": "Friction between departments creates a gap someone has to fill.\n• Whoever fills that gap becomes the shortcut both sides rely on.\n• Removing that person means the friction comes back immediately.\n• Most people avoid the friction instead of standing in the middle of it.",
+      "when": "You notice two teams keep miscommunicating and both come to you separately to vent.",
+      "theySee": "Two managers who each think you're the only reason their teams don't collide.",
+      "signals": [
+        {
+          "icon": "🌉",
+          "l": "No bridge role",
+          "t": "Nobody currently translates between engineering and sales, or similar split teams."
+        },
+        {
+          "icon": "🔥",
+          "l": "Recurring friction",
+          "t": "The same two teams have the same miscommunication every single quarter."
+        },
+        {
+          "icon": "📞",
+          "l": "Both call you",
+          "t": "Both sides already come to you separately to explain their side."
+        },
+        {
+          "icon": "🧩",
+          "l": "No shared language",
+          "t": "Each team uses different terms for the same process or metric."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map the friction point",
+          "desc": "Write down exactly where the two teams keep misunderstanding each other."
+        },
+        {
+          "n": "2",
+          "title": "Offer to run point",
+          "desc": "Volunteer to attend both teams' meetings and translate one recurring issue."
+        },
+        {
+          "n": "3",
+          "title": "Make the fix visible",
+          "desc": "Send a short summary each week showing what got unblocked because of the translation."
+        }
+      ],
+      "script": "\"I keep hearing the same disconnect from both sides on this — let me sit in both meetings for a month and see if I can close the gap.\"",
+      "watchFor": "Both managers start cc'ing you automatically on anything related to that friction point.",
+      "ifItFails": "One team stops inviting you once the immediate fire is out. Don't wait to be re-invited — schedule a standing monthly sync yourself and frame it as ongoing risk reduction, not a one-time favor.",
+      "counter": "If a coworker inserts themselves between two teams you manage, check whether they're building this position on purpose.\n• Notice who starts attending meetings on both sides of a divide.\n• Ask directly what problem they're solving by being there.\n• Build a direct relationship with the other team so you don't need the middleman.",
+      "insight": "This role protects you until the two teams merge or one gets cut entirely. The next problem is what happens to the bridge when one side of the river disappears.",
+      "example": "Simone noticed sales and engineering kept blaming each other for missed deadlines. She started sitting in both standups and translating priorities. When headcount cuts hit engineering, sales leadership specifically asked to keep her on their budget instead."
+    },
+    {
+      "id": 9,
+      "cat": "indispensable",
+      "danger": "low",
+      "title": "Take the Project With the Budget Line Attached",
+      "principle": "Sunk-Cost Anchoring",
+      "remember": "Work tied to spent money is harder to cut than work tied to nothing.",
+      "hook": "Money already spent protects the person finishing the job. <strong>Attach yourself to the project leadership can't walk away from.</strong>",
+      "truth": "A half-finished, funded project creates its own protection.\n• Cutting the person on it means writing off money already spent.\n• Finished, low-cost work has nothing left defending it.\n• Most people pick projects by interest, not by what budget sits behind them.",
+      "when": "A new initiative gets approved with a real budget and a named owner slot.",
+      "theySee": "A finance lead who sees your name tied to a project they've already paid for.",
+      "signals": [
+        {
+          "icon": "💰",
+          "l": "No funded project",
+          "t": "None of your current work has an approved budget line behind it."
+        },
+        {
+          "icon": "🏗️",
+          "l": "All maintenance",
+          "t": "Your work is all upkeep, nothing new or funded is attached to your name."
+        },
+        {
+          "icon": "📉",
+          "l": "Sunk-cost absent",
+          "t": "If you left tomorrow, no approved spend would be at risk."
+        },
+        {
+          "icon": "🧮",
+          "l": "No finance visibility",
+          "t": "Finance has never heard your name connected to a specific initiative."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the funded gap",
+          "desc": "Look for a newly approved project that doesn't yet have a clear owner."
+        },
+        {
+          "n": "2",
+          "title": "Raise your hand fast",
+          "desc": "Volunteer before the role gets assigned to someone else by default."
+        },
+        {
+          "n": "3",
+          "title": "Track the spend",
+          "desc": "Keep a running note of budget committed to the project with your name on it."
+        }
+      ],
+      "script": "\"I'd like to own the rollout for the new platform — I know it's got budget approved through Q3 and I want to be the one driving it.\"",
+      "watchFor": "Finance or leadership starts referring to the project by your name, not just its title.",
+      "ifItFails": "Someone senior takes the project lead and assigns you a supporting role instead. Don't sit quietly under them — ask to own a named, budgeted sub-piece of it so your name still attaches to real spend, not just their project.",
+      "counter": "If a coworker races to grab a newly funded project, recognize the same move.\n• Notice who moves fastest right after a budget gets approved.\n• Ask your manager directly for a stake in the same project.\n• Get your name attached to a specific deliverable, not just the team.",
+      "insight": "Sunk cost protects you only until the project finishes or gets cancelled outright. The next question is what funded work you line up before this one runs out.",
+      "example": "Diego volunteered to lead a new CRM rollout the week it got approved, before anyone else claimed it. When a later round of cuts hit his department, leadership left him in place specifically because the $400K project was mid-flight and unfinished."
+    },
+    {
+      "id": 10,
+      "cat": "indispensable",
+      "danger": "moderate",
+      "title": "Say Yes to the Task Your Manager Wants to Avoid",
+      "principle": "Greene: Law 7 — Get Others to Do the Work, Reversed",
+      "remember": "Take the ugly job nobody wants. It's the one that sticks.",
+      "hook": "Everyone wants the fun project. <strong>The ugly, unglamorous job is the one that makes you impossible to replace quickly.</strong>",
+      "truth": "Unwanted work has less competition and more real dependency built in.\n• Nobody fights you for the job nobody wants, so you own it outright.\n• A manager relieved of an ugly problem remembers who solved it.\n• Most people chase visible, glamorous work and skip the boring leverage sitting right there.",
+      "when": "Your manager mentions a task with visible dread, or nobody volunteers in a meeting.",
+      "theySee": "A manager relieved that a problem they were dreading just became someone else's job.",
+      "signals": [
+        {
+          "icon": "😩",
+          "l": "Manager dread",
+          "t": "Your manager visibly avoids bringing up a specific recurring task."
+        },
+        {
+          "icon": "🙋",
+          "l": "No volunteers",
+          "t": "A task gets mentioned in meetings and nobody ever offers to take it."
+        },
+        {
+          "icon": "📦",
+          "l": "Orphaned work",
+          "t": "A process exists with no clear current owner listed anywhere."
+        },
+        {
+          "icon": "🧹",
+          "l": "Cleanup backlog",
+          "t": "There's a known mess — data, compliance, an old system — nobody wants to touch."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Spot the dread",
+          "desc": "Notice the task your manager mentions with a sigh or avoids scheduling."
+        },
+        {
+          "n": "2",
+          "title": "Offer before asked",
+          "desc": "Say you'll take it before your manager has to assign it to anyone."
+        },
+        {
+          "n": "3",
+          "title": "Report the relief, not just the result",
+          "desc": "Frame updates around the problem it removed from your manager's plate."
+        }
+      ],
+      "script": "\"I'll take the vendor compliance cleanup off your plate this quarter — I know it's been sitting there.\"",
+      "watchFor": "Your manager visibly relaxes or thanks you specifically for taking it, unprompted.",
+      "ifItFails": "You take the ugly job and it turns out to be a dead end nobody notices even when done. Stop absorbing thankless work silently — name the completion explicitly in a written update so the relief gets recorded, not just felt: <strong>\"Closed out the compliance backlog — flagging so it's on record before next review.\"</strong>",
+      "counter": "If a coworker suddenly volunteers for the job you've been avoiding, notice what they're building.\n• Recognize this as a deliberate move to gain a manager's relief and loyalty.\n• Don't let them take credit for a shared mess without your name attached too.\n• Volunteer jointly if the task is big enough to share the protection it buys.",
+      "insight": "Ugly work protects you as long as it stays ugly and undone by others. The next problem is what happens once you've cleaned it up and it's no longer a special favor.",
+      "example": "Anita took over a compliance backlog nobody wanted, one nobody had touched in two years. It was tedious and thankless. When cuts came, her manager fought to keep her specifically because nobody else knew how to keep that mess from coming back."
+    },
+    {
+      "id": 11,
+      "cat": "intel",
+      "danger": "low",
+      "title": "Watch the Budget Meetings, Not the Rumor Mill",
+      "principle": "Base-Rate Signal Reading",
+      "remember": "Money moves before people do. Watch the money.",
+      "hook": "Rumors are noise. <strong>Budget freezes and travel bans are the real early warning.</strong>",
+      "truth": "Layoffs follow money problems, and money problems show up in spending long before an announcement.\n• Budget freezes and hiring pauses come months before layoffs, reliably.\n• Rumors spread emotion, not information, and are usually wrong on timing.\n• Most people track gossip and miss the actual financial signal sitting in plain sight.",
+      "when": "You hear a rumor about layoffs at your company or in your industry.",
+      "theySee": "Nothing — this is intelligence you gather quietly, not a move anyone notices.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "Hiring freeze",
+          "t": "Open roles on your team's page have sat unfilled for two months or more."
+        },
+        {
+          "icon": "✈️",
+          "l": "Travel ban",
+          "t": "Approved travel or event budget suddenly requires VP sign-off."
+        },
+        {
+          "icon": "📉",
+          "l": "Earnings language",
+          "t": "The last earnings call used words like 'streamlining' or 'efficiency.'"
+        },
+        {
+          "icon": "🖊️",
+          "l": "Contractor cuts first",
+          "t": "Contractors and vendors are getting let go before any employees are."
+        },
+        {
+          "icon": "🤐",
+          "l": "Leadership silence",
+          "t": "Leadership stops answering direct questions about headcount in all-hands."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the job board",
+          "desc": "Look at how long your team's open roles have sat unfilled."
+        },
+        {
+          "n": "2",
+          "title": "Read the earnings call",
+          "desc": "Search the transcript for words like 'cost discipline' or 'headcount.'"
+        },
+        {
+          "n": "3",
+          "title": "Ask a direct question",
+          "desc": "Ask your manager plainly if there's a hiring freeze on your team right now."
+        }
+      ],
+      "script": "\"Is there a freeze on backfilling the open role on our team, or is that just taking a while to fill?\"",
+      "watchFor": "Your manager gives a vague, rehearsed-sounding answer instead of a direct one.",
+      "ifItFails": "Your manager deflects and won't confirm or deny a freeze. Don't push harder in the same conversation — go check the signal yourself instead: pull up the company's job postings page and count how many roles have been open over 60 days across departments.",
+      "counter": "If a coworker starts asking you pointed questions about budget and headcount, they've read the same signals.\n• Notice when someone starts asking about freezes or reorgs out of nowhere.\n• Compare notes carefully, but don't spread unverified panic further.\n• Use the same signals yourself instead of relying on their read alone.",
+      "insight": "Financial signals tell you timing, not who specifically gets cut. The harder question is what you do with three months of warning instead of zero.",
+      "example": "Wei noticed his company's job board hadn't filled two roles in ten weeks, right after an earnings call mentioned 'efficiency.' He quietly updated his resume and lined up two interviews before the layoff was announced six weeks later."
+    },
+    {
+      "id": 12,
+      "cat": "intel",
+      "danger": "low",
+      "title": "Track Who Stops Getting Invited to Meetings",
+      "principle": "Exclusion Signal",
+      "remember": "Getting quietly dropped from meetings comes before getting dropped from the company.",
+      "hook": "Nobody announces you're on the list. <strong>They just stop inviting you to the room where decisions get made.</strong>",
+      "truth": "Exclusion is quiet and happens weeks before any formal announcement.\n• Managers stop including people they've already mentally written off.\n• A dropped invite is rarely explained, it's just absorbed as an oversight.\n• Most people assume a missed invite is an accident instead of checking.",
+      "when": "You notice you weren't invited to a recurring meeting you used to attend.",
+      "theySee": "Nothing directly — this is a pattern you notice in others and in yourself.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Dropped invite",
+          "t": "A recurring meeting you always attended no longer includes you."
+        },
+        {
+          "icon": "🗨️",
+          "l": "Cc removed",
+          "t": "You're no longer cc'd on a thread you used to be included on."
+        },
+        {
+          "icon": "🔕",
+          "l": "Info gap",
+          "t": "You learn about a team decision after everyone else already knew."
+        },
+        {
+          "icon": "👋",
+          "l": "One-on-ones shrink",
+          "t": "Your manager's 1-on-1s with you get shorter or get cancelled more often."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the pattern",
+          "desc": "Note if this is one meeting or a broader pattern across several."
+        },
+        {
+          "n": "2",
+          "title": "Ask, don't assume",
+          "desc": "Ask directly why you were left off, framed as scheduling, not accusation."
+        },
+        {
+          "n": "3",
+          "title": "Get back in or get clarity",
+          "desc": "Either get re-added or get a straight answer about your standing."
+        }
+      ],
+      "script": "\"Noticed I wasn't on the invite for the roadmap sync this week — was that intentional, or should I still be included?\"",
+      "watchFor": "Your manager scrambles to re-add you immediately, or gives an evasive non-answer.",
+      "ifItFails": "Your manager says it was an oversight but you still don't get re-added. Don't let it drop quietly — ask a direct follow-up: <strong>\"Should I take this as a signal my role on this project is changing? I'd rather know now.\"</strong>",
+      "counter": "If you notice a coworker being quietly dropped from meetings, that information is worth having before it's your turn.\n• Notice patterns of exclusion happening to others on your team.\n• Don't assume you're safe just because it's happening to someone else.\n• Use it as a prompt to check your own meeting invites too.",
+      "insight": "This signal tells you something changed, not what to do about it. The next move is deciding whether to fight for the seat or start building a second option.",
+      "example": "Grace noticed she'd been quietly dropped from the product sync three weeks running. She asked directly, got a vague answer, and started interviewing that same week. She was laid off a month later, already two interviews deep."
+    },
+    {
+      "id": 13,
+      "cat": "intel",
+      "danger": "low",
+      "title": "Notice When Your Manager's Manager Changes",
+      "principle": "New-Broom Effect",
+      "remember": "New leaders bring their own people. Old loyalty stops counting.",
+      "hook": "A new boss above your boss resets the score. <strong>Whatever you built with the old regime may not transfer.</strong>",
+      "truth": "Incoming leaders often protect people they already trust, not people who were valuable before.\n• A new leader inherits a team but not its history or its loyalties.\n• Old wins get discounted fast if the new leader didn't see them happen.\n• Most people coast on old credibility and get blindsided when the new boss doesn't know it exists.",
+      "when": "A reorg announcement puts a new leader over your manager or your department.",
+      "theySee": "An employee who reaches out fast, with something concrete, instead of waiting to be noticed.",
+      "signals": [
+        {
+          "icon": "🔄",
+          "l": "Reorg announced",
+          "t": "A new VP or director now sits above your previous chain of command."
+        },
+        {
+          "icon": "👥",
+          "l": "Their own people",
+          "t": "The new leader is already bringing former colleagues into key roles."
+        },
+        {
+          "icon": "📇",
+          "l": "Zero history",
+          "t": "The new leader has never heard your name before the announcement."
+        },
+        {
+          "icon": "🗓️",
+          "l": "No intro meeting",
+          "t": "Weeks pass with no 1-on-1 offered between you and the new leader."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Request time fast",
+          "desc": "Ask for a short intro meeting within the first two weeks of the change."
+        },
+        {
+          "n": "2",
+          "title": "Bring a one-pager",
+          "desc": "Summarize your role, your biggest win, and current priorities in one page."
+        },
+        {
+          "n": "3",
+          "title": "Ask what they value",
+          "desc": "Ask directly what this new leader is measuring or prioritizing first."
+        }
+      ],
+      "script": "\"Wanted to introduce myself early — here's a quick one-pager on what I own and what I've delivered this year. Happy to grab 15 minutes whenever works.\"",
+      "watchFor": "The new leader references your one-pager in a later conversation or meeting.",
+      "ifItFails": "The new leader never responds or takes the meeting and stays noncommittal. Don't wait passively for a second chance — go through your direct manager instead: ask them to specifically raise your name and results in their first 1-on-1 with the new leader.",
+      "counter": "If a coworker moves fast to reach the new leader before you do, recognize the race you're both running.\n• Notice who gets a meeting with new leadership first.\n• Don't assume seniority protects you automatically under a new regime.\n• Request your own introduction immediately, don't wait to be invited.",
+      "insight": "A new leader resets the clock on everyone's standing, good and bad. The harder part is that this can happen more than once in a single year, and each time the clock resets again.",
+      "example": "When Rosa's division got a new VP after a reorg, she requested a 15-minute intro within the first week and brought a one-page summary of her work. Two peers who waited to be noticed were both let go in the reshuffle that followed three months later."
+    },
+    {
+      "id": 14,
+      "cat": "defense",
+      "danger": "low",
+      "title": "Never Be the Most Expensive Option for the Same Output",
+      "principle": "Comparative Cost Anchoring",
+      "remember": "If someone cheaper does your job just as well, you're the risk.",
+      "hook": "Cuts aren't personal, they're comparative. <strong>You just have to cost less trouble than the next name on the list.</strong>",
+      "truth": "A layoff list ranks people against each other, not against a fixed bar.\n• Being good isn't enough if someone else is equally good and cheaper.\n• Salary, seniority, and location all factor into the comparison silently.\n• Most people benchmark themselves against their own past, not against who they're actually competing with.",
+      "when": "You're up for a raise, or you know a reorg is combining similar roles.",
+      "theySee": "A manager weighing your output against your cost, compared to peers doing similar work.",
+      "signals": [
+        {
+          "icon": "💵",
+          "l": "Salary outlier",
+          "t": "You're the highest-paid person doing a role others also do, cheaper."
+        },
+        {
+          "icon": "📍",
+          "l": "Location gap",
+          "t": "A cheaper location has people doing near-identical work to yours."
+        },
+        {
+          "icon": "🪞",
+          "l": "Redundant role",
+          "t": "A reorg is merging two teams that both have someone in your role."
+        },
+        {
+          "icon": "🧾",
+          "l": "No unique output",
+          "t": "Your specific output is identical to at least one other person's."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map your redundancy",
+          "desc": "List who else at the company does work close to identical to yours."
+        },
+        {
+          "n": "2",
+          "title": "Differentiate one thing",
+          "desc": "Pick one skill or responsibility only you currently hold, and grow it."
+        },
+        {
+          "n": "3",
+          "title": "Ask about the merge",
+          "desc": "If teams are merging, ask directly how the overlap will get resolved."
+        }
+      ],
+      "script": "\"With the merge, I know there's overlap between my role and Sam's — what's the plan for splitting that up, and where do you see me fitting?\"",
+      "watchFor": "Your manager names a specific, different responsibility for you versus the overlapping peer.",
+      "ifItFails": "Your manager avoids the question or says it hasn't been decided yet. Don't wait for them to decide your fate — pick the differentiation yourself and announce it: take on the one piece of the overlapping work nobody else wants, and tell your manager you're doing it.",
+      "counter": "If a peer starts specializing away from your shared work, they've spotted the same redundancy risk.\n• Notice when a peer suddenly picks up a new skill only they hold.\n• Don't assume your tenure protects you against a cheaper duplicate.\n• Pick your own differentiator before the redundancy gets decided for you.",
+      "insight": "This is a numbers game, not a fairness game, and fighting it with effort alone won't change the math. The next question is whether you can make yourself the cheaper, better option instead of the pricier duplicate.",
+      "example": "After a merger, two project managers did nearly the same job, one earning $30K more. The higher earner picked up vendor negotiation, a skill the other lacked, and made sure his manager knew. When the roles got merged, he kept the job."
+    },
+    {
+      "id": 15,
+      "cat": "defense",
+      "danger": "low",
+      "title": "Keep a Paper Trail of Every Win, Dated",
+      "principle": "Evidence Asymmetry",
+      "remember": "Memory fades. A dated list of wins does not.",
+      "hook": "When the review happens, nobody remembers your March win in December. <strong>Except you, if you wrote it down.</strong>",
+      "truth": "Managers forget specific wins fast, especially under review-cycle pressure.\n• Recency bias means your last two weeks outweigh your last six months.\n• A written, dated list beats anyone's memory, including your manager's.\n• Most people trust their manager to remember and get erased from the story.",
+      "when": "A review, reorg, or layoff round is coming and you need to make your case fast.",
+      "theySee": "Nothing directly — this is your private record, used when you need it.",
+      "signals": [
+        {
+          "icon": "🧠",
+          "l": "Memory reliance",
+          "t": "You have no written record of your wins from more than two months back."
+        },
+        {
+          "icon": "📅",
+          "l": "Recency skew",
+          "t": "Your last review only mentioned things from the past few weeks."
+        },
+        {
+          "icon": "🗑️",
+          "l": "Lost credit",
+          "t": "You've forgotten a specific win yourself until reminded by someone else."
+        },
+        {
+          "icon": "📁",
+          "l": "No file exists",
+          "t": "You have no single document listing your results for the year."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Start the file today",
+          "desc": "Open one document and log every win with a date, going forward."
+        },
+        {
+          "n": "2",
+          "title": "Add the number",
+          "desc": "Attach a measurable result to each entry: hours saved, revenue, retention."
+        },
+        {
+          "n": "3",
+          "title": "Review it before every 1-on-1",
+          "desc": "Scan the list before each check-in so nothing gets left out of the conversation."
+        }
+      ],
+      "script": "\"Before we start, I jotted down a few things from the past month I want to make sure are on your radar.\"",
+      "watchFor": "Your manager starts referencing your own list back to you in later conversations.",
+      "ifItFails": "You bring the list and your manager still seems unmoved or distracted. Don't drop it there — put it in writing instead: send a short recap email after the meeting restating the wins, so it exists outside the room and outside memory.",
+      "counter": "If a coworker starts bringing a written list to every check-in, they're building a defense file.\n• Recognize this as prep for a review or layoff cycle, not paranoia.\n• Start your own file if you haven't, don't wait until you need it.\n• Compare notes on format, but keep your own record private and accurate.",
+      "insight": "A paper trail only works if you actually open it when it matters, not just keep it. The harder discipline is updating it weekly instead of scrambling to reconstruct it under pressure.",
+      "example": "When Carlos got pulled into a surprise performance review, he pulled up a dated log of twelve wins from the past year, most his manager had forgotten. The review, meant to be a warning, turned into a raise conversation instead."
+    },
+    {
+      "id": 16,
+      "cat": "defense",
+      "danger": "low",
+      "title": "Answer 'What Do You Do Here' Before They Ask It",
+      "principle": "Voss: Tactical Empathy — Accusation Audit",
+      "remember": "Say what your job protects before someone else questions if it matters.",
+      "hook": "If leadership has to ask what your role does, that's already a bad sign. <strong>Answer the question before it becomes a question about you.</strong>",
+      "truth": "Roles that are hard to explain get questioned first when budgets tighten.\n• An unclear job title invites the exact scrutiny that leads to cuts.\n• Naming your own value first removes the guesswork that hurts you.\n• Most people assume their role is obviously understood and never actually check.",
+      "when": "You've changed roles, teams, or responsibilities and haven't re-explained your job since.",
+      "theySee": "An employee who can explain their own value in one clear sentence, unprompted.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Vague title",
+          "t": "Your job title doesn't match what you actually spend your time doing."
+        },
+        {
+          "icon": "🌀",
+          "l": "Scope drift",
+          "t": "Your responsibilities have shifted a lot since your last formal job description."
+        },
+        {
+          "icon": "🗯️",
+          "l": "Confused peers",
+          "t": "Coworkers on other teams can't describe what you're responsible for."
+        },
+        {
+          "icon": "📄",
+          "l": "Outdated doc",
+          "t": "Your last written job description is more than a year old."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the one-liner",
+          "desc": "Draft one sentence explaining what would break if your role disappeared."
+        },
+        {
+          "n": "2",
+          "title": "Say it out loud once",
+          "desc": "Use that sentence in your next team meeting or 1-on-1, unprompted."
+        },
+        {
+          "n": "3",
+          "title": "Update the record",
+          "desc": "Ask HR or your manager to refresh your job description to match reality."
+        }
+      ],
+      "script": "\"Just so it's clear for the team — my role right now is keeping the onboarding pipeline from breaking as we scale, which is why the delays dropped 40% this quarter.\"",
+      "watchFor": "A colleague repeats your one-liner back to someone else without you prompting them.",
+      "ifItFails": "Nobody reacts and the explanation seems to land flat. Don't assume it didn't register — check directly instead: ask your manager in the next 1-on-1, <strong>\"Does that match how you'd describe my role to someone else?\"</strong>",
+      "counter": "If a coworker suddenly starts explaining their role unprompted in meetings, they may sense the same scrutiny you do.\n• Notice when someone starts justifying their job out of nowhere.\n• Ask yourself if a budget review or reorg is the reason.\n• Get your own explanation ready in parallel, don't wait to be asked.",
+      "insight": "This buys clarity, not safety, if the role itself turns out to be genuinely unnecessary. The next question is what you do if writing the sentence honestly shows the job doesn't hold up.",
+      "example": "After a reorg blurred everyone's titles, Yuki noticed nobody could explain what she did anymore, including her own manager. She wrote one sentence about her real function and used it in the next all-hands. Her role was one of the few in her group untouched by the next round of cuts."
+    },
+    {
+      "id": 17,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Don't Let a Bad Quarter Be Your Only Story",
+      "principle": "Recency Bias Correction",
+      "remember": "One bad quarter shouldn't erase a whole year of good ones.",
+      "hook": "A layoff list often gets built off the last three months, not the last three years. <strong>If your worst quarter is the freshest memory, that's the story that sticks.</strong>",
+      "truth": "Managers under pressure lean hard on whatever happened most recently.\n• A rough quarter right before a review round overwrites a year of good work.\n• Nobody proactively balances recent bad news against older good news for you.\n• Most people assume their track record speaks for itself and don't correct the record.",
+      "when": "You've had a visibly rough month or quarter right as a review or layoff cycle approaches.",
+      "theySee": "A manager whose most vivid memory of you is the recent miss, not the year of wins before it.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Recent miss",
+          "t": "You missed a deadline or target in the last four to six weeks."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Bad timing",
+          "t": "Your rough patch lines up right before a scheduled review cycle."
+        },
+        {
+          "icon": "🙊",
+          "l": "No context given",
+          "t": "Nobody above you knows the reason behind the recent miss."
+        },
+        {
+          "icon": "📊",
+          "l": "No year view",
+          "t": "Your last conversation with your manager only covered the past month."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the miss directly",
+          "desc": "Bring up the rough patch yourself before your manager brings it up first."
+        },
+        {
+          "n": "2",
+          "title": "Give the real context",
+          "desc": "Explain what caused it plainly, without over-apologizing or over-explaining."
+        },
+        {
+          "n": "3",
+          "title": "Zoom out on purpose",
+          "desc": "Follow with a short summary of the full year, not just the recent miss."
+        }
+      ],
+      "script": "\"I want to own the delay on the Q3 launch directly — the vendor issue cost us three weeks. Zooming out, though, here's where the year landed overall.\"",
+      "watchFor": "Your manager's next sentence references the full year, not just the recent miss.",
+      "ifItFails": "Your manager stays focused on the recent miss and won't zoom out with you. Don't keep re-explaining the miss — redirect with a written record instead: send a short year-in-review email covering all quarters, so the full picture exists outside that one conversation.",
+      "counter": "If your manager brings up only your last month in a review, recognize the recency trap being used against you.\n• Notice when feedback only covers the most recent weeks.\n• Ask directly: <strong>\"Can we also look at the full year here?\"</strong>\n• Bring your own written record of the earlier months to the conversation.",
+      "insight": "This works because most people flinch from naming their own miss and let silence fill in the worst version. The harder move is doing this before the miss becomes the only thing anyone remembers.",
+      "example": "After a missed deadline right before annual reviews, Beth got ahead of it by naming the vendor delay directly in her self-review and following with a full-year summary of wins. Her manager's write-up cited the year, not the miss."
+    },
+    {
+      "id": 18,
+      "cat": "hedge",
+      "danger": "low",
+      "title": "Keep Your Resume Warm Even When You Feel Safe",
+      "principle": "Schelling: Prepared Alternatives",
+      "remember": "Update your resume when you're calm, not when you're scared.",
+      "hook": "Nobody writes a good resume in a panic. <strong>Do it now, while nothing is on fire.</strong>",
+      "truth": "A resume written under pressure reads rushed and undersells the work.\n• Panic writing skips details and numbers that took months to happen.\n• A warm resume means a real option exists the day you need one.\n• Most people only touch their resume after the layoff, when it's hardest to write well.",
+      "when": "You finish a project worth listing, whether or not you're job hunting.",
+      "theySee": "Nothing — this is a private habit, not a visible move.",
+      "signals": [
+        {
+          "icon": "🗓️",
+          "l": "Stale resume",
+          "t": "Your resume hasn't been updated in more than six months."
+        },
+        {
+          "icon": "🕸️",
+          "l": "Dead network",
+          "t": "You haven't messaged a former coworker or recruiter in over a year."
+        },
+        {
+          "icon": "❌",
+          "l": "No LinkedIn activity",
+          "t": "Your LinkedIn profile hasn't changed since your last job update."
+        },
+        {
+          "icon": "🙅",
+          "l": "No interviews lined up",
+          "t": "You have zero active conversations with other companies right now."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set a quarterly reminder",
+          "desc": "Add a recurring calendar note to update your resume every three months."
+        },
+        {
+          "n": "2",
+          "title": "Log the number immediately",
+          "desc": "Write down each project's result the week it finishes, not months later."
+        },
+        {
+          "n": "3",
+          "title": "Take one outside call a quarter",
+          "desc": "Talk to one recruiter or former colleague every few months, even casually."
+        }
+      ],
+      "script": "\"Hey, it's been a while — not actively looking, but wanted to reconnect and hear what you're seeing out there.\"",
+      "watchFor": "The recruiter or contact remembers you and reaches out again on their own later.",
+      "ifItFails": "You keep meaning to update it and it slips for another quarter. Stop relying on willpower — attach it to something you already do: update the resume the same day you write your quarterly self-review, so it rides on an existing habit.",
+      "counter": "There's no real counter here, since keeping your own resume warm doesn't act on anyone else.\n• Watch for coworkers suddenly polishing their LinkedIn — it can signal a mood shift on the team.\n• Don't assume it means they know something you don't.\n• Use it as a nudge to check your own resume regardless.",
+      "insight": "A warm resume is insurance you hope never to use, and that's exactly why most people skip it. The harder discipline is keeping it current for years without ever needing it, and not resenting the time spent.",
+      "example": "Nora updated her resume every quarter for two years, treating it like a routine chore. When her division got cut without warning, she had interviews scheduled within a week, while former teammates were starting from a blank page."
+    },
+    {
+      "id": 19,
+      "cat": "hedge",
+      "danger": "moderate",
+      "title": "Turn a Layoff Rumor Into Information, Not Panic",
+      "principle": "Schelling: Signaling Under Uncertainty",
+      "remember": "A rumor is a question. Go find the answer instead of guessing.",
+      "hook": "Everyone else spreads the rumor. <strong>You go find out if it's true.</strong>",
+      "truth": "Rumors travel faster than facts and usually distort both timing and scope.\n• Panic spreads through a team faster than any confirmed detail does.\n• Whoever asks a direct, calm question usually gets a straighter answer.\n• Most people either deny the rumor to themselves or spiral on it, and skip verifying it.",
+      "when": "A layoff rumor starts circulating through your team or company.",
+      "theySee": "An employee asking a calm, specific question instead of panicking or gossiping.",
+      "signals": [
+        {
+          "icon": "🗯️",
+          "l": "Rumor spreads",
+          "t": "Multiple coworkers mention hearing about layoffs from different sources."
+        },
+        {
+          "icon": "🤫",
+          "l": "Leadership silence",
+          "t": "Leadership hasn't addressed the rumor directly in any recent communication."
+        },
+        {
+          "icon": "😰",
+          "l": "Team panic",
+          "t": "People start openly worrying in Slack or during meetings about their jobs."
+        },
+        {
+          "icon": "📵",
+          "l": "No official channel",
+          "t": "There's no scheduled all-hands or update where you could ask a question."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask your manager directly",
+          "desc": "Ask a calm, specific question about the rumor in your next 1-on-1."
+        },
+        {
+          "n": "2",
+          "title": "Check the financial signals",
+          "desc": "Look at hiring freezes, budget news, or recent earnings calls for confirmation."
+        },
+        {
+          "n": "3",
+          "title": "Act on facts, not fear",
+          "desc": "Decide your next move based on what you actually confirmed, not the rumor's worst version."
+        }
+      ],
+      "script": "\"There's been some talk about layoffs going around — can you tell me anything about what's actually planned, or when we'll hear something official?\"",
+      "watchFor": "Your manager gives a specific timeline or detail instead of a generic reassurance.",
+      "ifItFails": "Your manager says they can't comment or clearly doesn't know either. Don't wait passively for official word — start your hedge quietly instead: update your resume and reach out to one contact that same week, regardless of what gets confirmed later.",
+      "counter": "If a coworker starts calmly asking pointed questions about layoffs, they've decided to verify instead of panic.\n• Notice who's asking direct questions versus who's just spreading fear.\n• Follow their lead and ask your own direct question instead of guessing.\n• Don't let their calm fool you into assuming everything's fine.",
+      "insight": "Getting a straight answer only tells you what's already been decided, not what you can still change. The next question is what you do with confirmed bad news once you have it.",
+      "example": "When layoff rumors hit her floor, Jasmine skipped the group chat spiral and asked her manager directly what was confirmed. She learned her department was safe but a sister team wasn't, and used the calm week that followed to quietly firm up her own position instead of guessing."
+    },
+    {
+      "id": 20,
+      "cat": "hedge",
+      "danger": "high",
+      "title": "If the Call Comes, Negotiate the Package, Don't Beg for the Job",
+      "principle": "Never Split the Difference — Voss: Calibrated Questions",
+      "remember": "Once the decision is made, negotiate the exit terms, not your job back.",
+      "hook": "By the time you're in that meeting, the decision is already final. <strong>Fighting to keep the job wastes the only leverage you have left.</strong>",
+      "truth": "A layoff decision is rarely reversed once it reaches the formal meeting.\n• The people in that room have no authority to undo the decision.\n• Severance, timing, and references are still fully negotiable in that same meeting.\n• Most people spend their only leverage arguing for a reversal that won't happen.",
+      "when": "You're in the room and told your position is being eliminated.",
+      "theySee": "Someone calm and specific, asking practical questions instead of pleading or arguing.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "Prepared paperwork",
+          "t": "HR hands you a folder with severance terms already drafted."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Time pressure",
+          "t": "You're asked to sign something within a short window, same day."
+        },
+        {
+          "icon": "🔒",
+          "l": "Final language",
+          "t": "The language used is 'effective immediately,' not 'under review.'"
+        },
+        {
+          "icon": "🚪",
+          "l": "Security present",
+          "t": "IT access or building access changes are already mentioned or underway."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Don't argue the decision",
+          "desc": "Skip pleading to keep the job — that decision was made before this meeting."
+        },
+        {
+          "n": "2",
+          "title": "Ask what's negotiable",
+          "desc": "Ask directly about severance length, health coverage, and reference terms."
+        },
+        {
+          "n": "3",
+          "title": "Ask for time to review",
+          "desc": "Ask for a few days before signing anything, and get everything in writing."
+        }
+      ],
+      "script": "\"I understand the decision is final. I do want to talk through the severance terms — is there room to discuss the length of coverage and the reference I'll get?\"",
+      "watchFor": "HR shifts from reading a script to actually answering your specific questions.",
+      "ifItFails": "HR says the severance terms are fixed and non-negotiable. Don't sign on the spot — take the legally allowed review period instead, and say: <strong>\"I'll take the time allowed to review this before I sign anything.\"</strong> Then get a second opinion from an employment lawyer before the deadline.",
+      "counter": "If you're the one delivering this news to someone else, expect them to try negotiating in the room.\n• Recognize a request for time or terms as reasonable, not resistance.\n• Have clear, honest answers ready on what actually is negotiable.\n• Don't pressure them to sign faster than the review period allows.",
+      "insight": "This is the one moment where fighting for dignity and fighting for terms can look the same but aren't. The next question, once the paperwork is signed, is how fast you turn the resume you kept warm into the next offer.",
+      "example": "When Aaron's role was eliminated, he skipped arguing the decision and asked calm, specific questions about severance and references instead. He walked out with two extra weeks of pay and a stronger reference than the standard package offered."
+    }
+  ]
+}

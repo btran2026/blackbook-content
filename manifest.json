@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 70,
+  "manifestVersion": 71,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -572,7 +572,20 @@
       "url": "playbooks/playbook-srv-the-boss-game.json",
       "addedAt": "2026-09-13T21:29:18.417Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-layoff-proof",
+      "title": "Layoff-Proof",
+      "theme": "career",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#7A1F2B",
+      "coverIcon": "🪓",
+      "url": "playbooks/playbook-srv-layoff-proof.json",
+      "addedAt": "2026-09-13T21:31:13.081Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-13T21:29:18.417Z"
+  "generatedAt": "2026-09-13T21:31:13.081Z"
 }
