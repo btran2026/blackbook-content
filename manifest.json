@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 71,
+  "manifestVersion": 72,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -585,7 +585,20 @@
       "url": "playbooks/playbook-srv-layoff-proof.json",
       "addedAt": "2026-09-13T21:31:13.081Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-taking-over-a-team-loyal-to-the-last-boss",
+      "title": "Taking Over a Team Loyal to the Last Boss",
+      "theme": "leadership",
+      "topic": "",
+      "cardCount": 24,
+      "contentVersion": 1,
+      "coverColor": "#8C2F39",
+      "coverIcon": "🪑",
+      "url": "playbooks/playbook-srv-taking-over-a-team-loyal-to-the-last-boss.json",
+      "addedAt": "2026-09-14T23:49:08.300Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-13T21:31:13.081Z"
+  "generatedAt": "2026-09-14T23:49:08.300Z"
 }
