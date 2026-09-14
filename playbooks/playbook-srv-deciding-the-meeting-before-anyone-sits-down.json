@@ -1,0 +1,1441 @@
+{
+  "meta": {
+    "id": "srv-deciding-the-meeting-before-anyone-sits-down",
+    "version": "1.0",
+    "title": "Deciding the Meeting Before Anyone Sits Down",
+    "subtitle": "The room only confirms what you settled in the hallway",
+    "description": "Twenty-four moves for winning a decision before the meeting starts: find who really signs, shape the room and the date, write the paper they read first, walk every vote one-by-one, plant the objection with its answer attached, and lock the yes in writing before anyone can reopen it.",
+    "author": "AI",
+    "createdAt": "2026-09-13T19:45:26.168Z",
+    "tags": [
+      "meetings",
+      "influence",
+      "decisions",
+      "office politics",
+      "pre-wiring",
+      "stakeholders"
+    ],
+    "totalCards": 24,
+    "isSeeded": true,
+    "coverColor": "#243447",
+    "coverIcon": "🪑",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "decider",
+      "label": "Find Who Actually Decides",
+      "color": "#C9A227"
+    },
+    {
+      "key": "room",
+      "label": "Set The Room",
+      "color": "#2E86AB"
+    },
+    {
+      "key": "date",
+      "label": "The Date",
+      "color": "#8E6C88"
+    },
+    {
+      "key": "list",
+      "label": "The List",
+      "color": "#B5543A"
+    },
+    {
+      "key": "paper",
+      "label": "Write The Paper They Read First",
+      "color": "#3F7D58"
+    },
+    {
+      "key": "prewire",
+      "label": "One-By-One Before The Room",
+      "color": "#6C5CE7"
+    },
+    {
+      "key": "objection",
+      "label": "Plant The Objection And Its Answer",
+      "color": "#A4303F"
+    },
+    {
+      "key": "inside",
+      "label": "Inside The Meeting",
+      "color": "#1F6F8B"
+    },
+    {
+      "key": "lock",
+      "label": "Lock The Decision In Writing",
+      "color": "#4A4E69"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "decider",
+      "danger": "low",
+      "title": "Find the Person Who Signs, Not the Person Who Talks",
+      "principle": "Power Mapping — Decision Rights",
+      "remember": "The loudest person usually cannot approve anything.",
+      "when": "You have a meeting next week and you are not sure who actually says yes.",
+      "hook": "You can win every argument in the room and still get nothing. <strong>The person who can pay was not in the room.</strong>",
+      "truth": "Most meetings hold one decider and five people who perform.\n• Budget, headcount and sign-off sit with one name.\n• Reach that name early and the room turns into theater.\n• Most people pitch the whole room and never find the name.",
+      "theySee": "A colleague asking simple questions about how the last project got approved.",
+      "signals": [
+        {
+          "icon": "🖊️",
+          "l": "Signature trail",
+          "t": "They tell you a different person signs the purchase order."
+        },
+        {
+          "icon": "🔇",
+          "l": "Quiet one",
+          "t": "One person says little and everyone checks their face before answering."
+        },
+        {
+          "icon": "🔁",
+          "l": "Deferred answer",
+          "t": "Your contact says they will have to run it past someone."
+        },
+        {
+          "icon": "📅",
+          "l": "Calendar weight",
+          "t": "The meeting moves whenever one specific person cannot attend."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask how the last one got approved",
+          "desc": "Ask your contact who signed off the last project this size."
+        },
+        {
+          "n": "2",
+          "title": "Check the calendar",
+          "desc": "See whose absence moves the meeting. That is the decider."
+        },
+        {
+          "n": "3",
+          "title": "Book fifteen minutes with that person",
+          "desc": "Ask for a short call before the meeting, never after it."
+        }
+      ],
+      "script": "\"Before we book the room — <strong>who signed off the last project this size?</strong> I want the paper to answer their questions, not mine.\"",
+      "watchFor": "They name a person who is not on the invite.",
+      "example": "Dan pitched the product team for three weeks and got nowhere. Then he asked who paid for the last tool, and it was a finance director nobody had mentioned. He got twenty minutes with her on a Tuesday. The meeting he had been dreading turned into a rubber stamp.",
+      "ifItFails": "Your contact dodges and says the team decides together. Test it with money instead: ask who approves the spend. If they still dodge, send the paper to your contact and copy the person you suspect — \"Copying Priya in case this needs her sign-off\" — then watch who replies.",
+      "counter": "If someone keeps asking who approves things, they are mapping your org.\n• Notice questions about budgets, sign-off and past approvals.\n• Say: \"Depends on the size. What number are we talking about?\"\n• Hold the real name back until you know what they want.",
+      "insight": "Finding the decider is the easy half. Most deciders cannot say yes alone, but anyone can say no alone. The next question is who can kill it."
+    },
+    {
+      "id": 2,
+      "cat": "decider",
+      "danger": "moderate",
+      "title": "Find the One Person Who Can Kill It",
+      "principle": "Schelling: The Veto Player",
+      "remember": "One person can kill it. Find them before the meeting.",
+      "when": "Your plan needs money or data, and one department can block it without ever joining the meeting.",
+      "hook": "A yes needs five people. <strong>A no needs one.</strong>",
+      "truth": "Approval is a chorus. A kill is a solo.\n• Legal, security, finance and compliance each hold a quiet veto.\n• They say no late because nobody asked them early.\n• Most people brief the friends and surprise the blockers.",
+      "theySee": "A colleague emailing them weeks early to ask what would make them object.",
+      "signals": [
+        {
+          "icon": "🚧",
+          "l": "Later check",
+          "t": "Someone says we will need security to look at it later."
+        },
+        {
+          "icon": "👤",
+          "l": "New name",
+          "t": "A team you never deal with appears on the invite list."
+        },
+        {
+          "icon": "🐢",
+          "l": "Known brake",
+          "t": "Your contact says that one department always slows things down."
+        },
+        {
+          "icon": "📜",
+          "l": "Review question",
+          "t": "Someone asks whether this has been through review yet."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what kills plans here",
+          "desc": "Ask two colleagues which team stopped the last three projects."
+        },
+        {
+          "n": "2",
+          "title": "Email the blocker first",
+          "desc": "Send them the draft before you send it to your supporters."
+        },
+        {
+          "n": "3",
+          "title": "Get their condition in writing",
+          "desc": "Ask for the exact change that turns their no into a yes."
+        }
+      ],
+      "script": "\"I would rather hear your problem with this now than in the room. <strong>What would make you say no?</strong>\"",
+      "watchFor": "They send back a list of conditions instead of a refusal.",
+      "example": "Ines sent her data plan to the privacy lead six weeks early and asked what would sink it. He named one field she did not need anyway. She cut it, quoted him in the paper, and in the meeting he said the review was already done.",
+      "ifItFails": "They go silent or demand a formal request. Do not chase twice. Put the silence on the clock: \"If I do not hear back by Thursday, I will present this as no privacy objection raised.\" Now the silence costs them, not you.",
+      "counter": "If someone asks you early what would make you object, they are closing your veto.\n• Notice the friendly pre-check that arrives weeks before the meeting.\n• Say: \"I cannot answer that until I see the final version.\"\n• Keep one condition unsaid so you still hold a stop.",
+      "insight": "Do not fire the deadline line at a compliance team that outranks your boss — they will escalate and you lose the month. The real trick is turning a blocker into a co-author, and that costs you a piece of the plan."
+    },
+    {
+      "id": 3,
+      "cat": "decider",
+      "danger": "low",
+      "title": "Learn What the Decider Gets Graded On",
+      "principle": "Munger: Incentive-Caused Bias",
+      "remember": "Find what their boss measures. Aim at that.",
+      "when": "You know who decides, and your pitch is still about your problem instead of theirs.",
+      "hook": "Nobody approves your project. <strong>They approve the thing that makes their number look better.</strong>",
+      "truth": "Deciders do not weigh good ideas. They weigh what shows up in their review.\n• Every decider has two or three numbers their boss watches.\n• Tie your ask to one number and the ask stops being yours.\n• Most people sell the feature and never name the number.",
+      "theySee": "A colleague who opens with the decider's own quarterly target, not with a product.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "Repeated metric",
+          "t": "They mention the same number in three different meetings."
+        },
+        {
+          "icon": "🎯",
+          "l": "Town hall slide",
+          "t": "Their boss put one target on the last all-hands slide."
+        },
+        {
+          "icon": "😬",
+          "l": "Sore spot",
+          "t": "They change the subject when one number comes up."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Borrowed words",
+          "t": "They repeat a phrase their boss uses, word for word."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Read their boss's last update",
+          "desc": "Find the email or deck and write down the three numbers in it."
+        },
+        {
+          "n": "2",
+          "title": "Pick the one you move",
+          "desc": "Choose the single number your plan improves and estimate by how much."
+        },
+        {
+          "n": "3",
+          "title": "Rewrite your first line",
+          "desc": "Open the paper with their number, not with your project name."
+        }
+      ],
+      "script": "\"You said onboarding time is the number you get asked about. <strong>This cuts it from nine days to four.</strong> That is the whole reason I am bringing it.\"",
+      "watchFor": "They start describing how they will explain it upward.",
+      "example": "Marcus wanted two engineers for a rebuild. His VP was graded on support tickets, so he reframed the ask as a ticket cut and showed the ninety-day math. The VP approved it in eleven minutes and used the same slide with his own boss the next week.",
+      "ifItFails": "They say the number is not really theirs this year. Do not argue. Ask one question and let them hand you the new target: \"Then what are you getting asked about instead?\" Rebuild the first line around whatever they say and resend the paper the same day.",
+      "counter": "If someone opens with your own target, they have studied you.\n• Notice a pitch that uses your boss's exact words.\n• Say: \"Nice framing. Now walk me through the cost side.\"\n• Judge the plan on what it takes, not on where it points.",
+      "insight": "Aiming at their number gets you heard. It also ties your project to a target that can change in one reorg. The next question is what your plan is for when their number moves."
+    },
+    {
+      "id": 4,
+      "cat": "room",
+      "danger": "low",
+      "title": "Ask Who Else Is Coming Before You Say Yes",
+      "principle": "Sun Tzu: Know the Ground",
+      "remember": "Never walk into a room you have not checked first.",
+      "when": "Someone sends you a meeting invite and the attendee list is hidden or vague.",
+      "hook": "An invite is a map. <strong>Read it before you agree to stand on it.</strong>",
+      "truth": "The invite list tells you what kind of meeting it really is.\n• Two names means a talk. Nine names means a decision or an ambush.\n• Someone from HR or finance changes the whole meaning.\n• Most people accept the invite and read the list in the lobby.",
+      "theySee": "A colleague who replies to an invite with one question before accepting.",
+      "signals": [
+        {
+          "icon": "🙈",
+          "l": "Hidden list",
+          "t": "The organizer hid the attendee list on the invite."
+        },
+        {
+          "icon": "➕",
+          "l": "Late add",
+          "t": "Two names appear on the invite the night before."
+        },
+        {
+          "icon": "❓",
+          "l": "No agenda",
+          "t": "The invite has a title and no agenda body."
+        },
+        {
+          "icon": "🏢",
+          "l": "Odd department",
+          "t": "Someone from a team with no stake in the work is included."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reply before you accept",
+          "desc": "Ask who will be there and what the meeting needs to decide."
+        },
+        {
+          "n": "2",
+          "title": "Look up the strangers",
+          "desc": "Check who each unfamiliar name reports to before the day."
+        },
+        {
+          "n": "3",
+          "title": "Call one attendee",
+          "desc": "Ring somebody on the list and ask what they expect to happen."
+        }
+      ],
+      "script": "\"Happy to take it. <strong>Who else is coming, and what do we need to walk out having decided?</strong> I will bring the numbers for that.\"",
+      "watchFor": "They add an agenda to the invite after your reply.",
+      "example": "Ravi got an invite titled Quick Sync with no agenda. He asked who was attending and learned that the head of finance was on it. He brought the cost model instead of the roadmap, and walked out with the budget approved.",
+      "ifItFails": "They answer vaguely — just a few people, nothing formal. Take the invite off the table for a day: \"I will hold the slot once I know what we are deciding, so I bring the right numbers.\" An organizer with a real agenda sends it within an hour. One with an ambush goes quiet.",
+      "counter": "If someone asks who is coming before accepting, they are scouting you.\n• Notice the reply that asks for the list, not the time.\n• Say: \"Still forming. I will send the agenda when it is set.\"\n• Decide whether you want them prepared or surprised, then answer.",
+      "insight": "Knowing the room stops the ambush. It does not get you the room you want. The move that follows is changing the list yourself."
+    },
+    {
+      "id": 5,
+      "cat": "room",
+      "danger": "moderate",
+      "title": "Cut the Room to Five People",
+      "principle": "Ringelmann Effect — Group Size Kills Decisions",
+      "remember": "Over seven people, nobody decides anything.",
+      "when": "Your decision meeting has twelve names on it and half of them are there to be polite.",
+      "hook": "Every extra chair adds an opinion and removes a decision. <strong>Big rooms produce follow-up meetings.</strong>",
+      "truth": "People decide in small groups and perform in large ones.\n• Above seven, everyone talks for the audience instead of the problem.\n• Cut the room and the decider has nobody to defer to.\n• Most people invite everyone so nobody feels left out, then get nothing.",
+      "theySee": "A colleague who sends a short note offering to save them an hour.",
+      "signals": [
+        {
+          "icon": "👥",
+          "l": "Silent majority",
+          "t": "Four people said nothing at all in the last meeting."
+        },
+        {
+          "icon": "🔄",
+          "l": "Repeat topic",
+          "t": "The same subject has come back three times with no decision."
+        },
+        {
+          "icon": "📎",
+          "l": "Plus ones",
+          "t": "Attendees forward the invite to their own team members."
+        },
+        {
+          "icon": "⌛",
+          "l": "Round the table",
+          "t": "Half the time goes to updates nobody needed to hear live."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List who must be there",
+          "desc": "Write the decider, the person who pays, and the two who do the work."
+        },
+        {
+          "n": "2",
+          "title": "Move everyone else to the recap",
+          "desc": "Tell the rest they will get the notes and can object in writing."
+        },
+        {
+          "n": "3",
+          "title": "Send the shorter invite",
+          "desc": "Cancel the big invite and resend with the short list and an agenda."
+        }
+      ],
+      "script": "\"I am cutting this to the four people who have to sign. <strong>You will get the write-up the same hour, and your objection still counts in writing.</strong>\"",
+      "watchFor": "Someone you cut replies thanks and asks only for the notes.",
+      "example": "Sofia inherited a stalled program review with fourteen attendees. She cut it to five and promised the rest same-day notes. The decision that had drifted for six weeks got made in twenty-two minutes.",
+      "ifItFails": "Someone you cut demands to be there and cc's their manager. Do not fight over the chair. Give them a role that keeps them out: \"Rather than sit through it, review the paper Monday and I will read your comments into the room.\" Send them the draft that afternoon so the offer is real.",
+      "counter": "If someone shrinks a room and you are the one cut, you were counted as a risk.\n• Notice a resized invite that drops exactly the people who push back.\n• Say: \"Send me the paper Friday and I will comment before you meet.\"\n• Get your objection in writing before the small room sits.",
+      "insight": "Do not cut a director who outranks your boss out of a meeting they asked for — cut sideways and downward only. The harder part is that a small room makes the decision fast and gives you nowhere to hide when it is wrong."
+    },
+    {
+      "id": 6,
+      "cat": "room",
+      "danger": "moderate",
+      "title": "Get Yourself Named as the One Who Runs the Meeting",
+      "principle": "Schattschneider: Agenda Control",
+      "remember": "Whoever writes the agenda picks the fight.",
+      "when": "A meeting is forming about your work and someone else is setting it up.",
+      "hook": "The chair looks like admin work. <strong>It is the right to choose which argument happens.</strong>",
+      "truth": "The agenda decides what the room is allowed to talk about.\n• Order sets weight. Item one gets the fresh attention.\n• Anything you leave off has to be raised as an interruption.\n• Most people fight for speaking time and hand away the list.",
+      "theySee": "A helpful colleague offering to take the scheduling work off their plate.",
+      "signals": [
+        {
+          "icon": "📝",
+          "l": "Free chair",
+          "t": "Nobody has written an agenda two days before the meeting."
+        },
+        {
+          "icon": "😮‍💨",
+          "l": "Busy organizer",
+          "t": "The organizer complains about how full their week is."
+        },
+        {
+          "icon": "🌀",
+          "l": "Drift",
+          "t": "The last meeting ran long and ended with no decision."
+        },
+        {
+          "icon": "🙋",
+          "l": "Open request",
+          "t": "Someone asks in the thread what we should cover."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Offer to draft the agenda",
+          "desc": "Tell the organizer you will send a draft by tomorrow morning."
+        },
+        {
+          "n": "2",
+          "title": "Put your item first",
+          "desc": "Place your decision at the top with a time box beside it."
+        },
+        {
+          "n": "3",
+          "title": "Send it to everyone",
+          "desc": "Email the agenda to all attendees so it becomes the official one."
+        }
+      ],
+      "script": "\"I will draft the agenda and send it round tonight so we are not deciding what to discuss at nine. <strong>First item is the vendor call, fifteen minutes, decision.</strong>\"",
+      "watchFor": "Attendees reply to your agenda instead of the original invite.",
+      "example": "Tom's director kept running a shapeless weekly. Tom offered to draft the agenda each Sunday and put his hiring request at the top. Within a month, every attendee replied to Tom's email instead of the invite, and his two roles were approved without debate.",
+      "ifItFails": "The organizer thanks you and sends their own agenda with your item last. Do not complain about the order. Add a constraint that moves it: \"I have a hard stop at half past, so I will take the vendor call first and then hand back.\" Send that to the whole list, not just the organizer.",
+      "counter": "If a helpful colleague offers to run your agenda, they are choosing your topics.\n• Notice who owns the document everyone replies to.\n• Say: \"Send me the draft and I will set the order.\"\n• Keep the send button. Let them do the typing.",
+      "insight": "Do not take the chair from someone who wanted it — take it from someone who dreads it. This works until the decision goes badly, and then the agenda has your name on it."
+    },
+    {
+      "id": 7,
+      "cat": "date",
+      "danger": "moderate",
+      "title": "Book the Meeting Just Before Their Money Deadline",
+      "principle": "Schelling: Deadlines as Commitment",
+      "remember": "Put the meeting where their deadline does the pushing.",
+      "when": "You need a yes, and the decider has a budget or planning date coming up.",
+      "hook": "You do not have to create urgency. <strong>Their calendar already has some. Stand next to it.</strong>",
+      "truth": "The date on the invite carries more weight than the paper on it.\n• Every team has a date where unspent money or an empty plan hurts them.\n• Meet three days before that date and delay costs them, not you.\n• Most people book the first free slot and wonder why nobody moved.",
+      "theySee": "A colleague who asks when the planning cycle closes, then books around it.",
+      "signals": [
+        {
+          "icon": "💸",
+          "l": "Use it or lose it",
+          "t": "Finance sends a note about unspent budget this quarter."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Planning window",
+          "t": "Teams are told to submit next quarter's plans by a set date."
+        },
+        {
+          "icon": "📉",
+          "l": "Empty slot",
+          "t": "The decider has a roadmap with a gap they need to fill."
+        },
+        {
+          "icon": "🏃",
+          "l": "Rush of asks",
+          "t": "Colleagues suddenly compete for sign-off in the same two weeks."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find their real deadline",
+          "desc": "Ask finance or an assistant when the budget or plan locks."
+        },
+        {
+          "n": "2",
+          "title": "Book three days before it",
+          "desc": "Take a slot close enough that a delay means they miss the date."
+        },
+        {
+          "n": "3",
+          "title": "Name the date in the invite",
+          "desc": "Write one line in the invite body saying what closes that week."
+        }
+      ],
+      "script": "\"I put us on Tuesday because planning locks on Friday. <strong>If we do not decide Tuesday, this waits a full quarter.</strong>\"",
+      "watchFor": "They move other things off the calendar to keep your slot.",
+      "example": "Karim learned that his client's capital budget closed on 30 June. He booked the review for 26 June and said so in the invite. The client, who had stalled for two months, signed on the day rather than start over in the new cycle.",
+      "ifItFails": "They notice the squeeze and push the meeting past the date to punish you. Do not move it back. Send the ask in writing with a smaller shape that fits inside the deadline: \"If we cannot meet before Friday, approve the pilot budget only and we will do the full case next quarter.\" A small yes now beats a big maybe later.",
+      "counter": "If someone books you right before your own deadline, they are using your clock.\n• Notice a meeting request that names your cut-off date.\n• Say: \"Let us meet Tuesday, but the deadline is not the argument.\"\n• Decide the same way you would with a month to spare, or defer it on purpose.",
+      "insight": "Do not run this on a decider who already caught you doing it once — the second time reads as pressure and pressure makes people say no for sport. The real trap is winning a yes the deadline bought, then having to deliver it."
+    },
+    {
+      "id": 8,
+      "cat": "date",
+      "danger": "low",
+      "title": "Ask for Thirty Minutes, Not an Hour",
+      "principle": "Parkinson's Law",
+      "remember": "Thirty minutes forces a yes. An hour invites a debate.",
+      "when": "You are about to send an invite for a decision and your finger hovers over sixty minutes.",
+      "hook": "Work spreads to fill the time you give it. <strong>So does doubt.</strong>",
+      "truth": "A short slot changes who gets to talk and what gets decided.\n• An hour leaves room for the philosophical question that kills it.\n• Thirty minutes makes the decider cut the drift themselves.\n• Most people book long to be safe, and hand every critic a stage.",
+      "theySee": "A colleague asking for half an hour and sending the material in advance.",
+      "signals": [
+        {
+          "icon": "🕰️",
+          "l": "Dead half",
+          "t": "The last hour meeting produced its decision in the first ten minutes."
+        },
+        {
+          "icon": "🧠",
+          "l": "Big question",
+          "t": "Someone asks what this really means for strategy near the end."
+        },
+        {
+          "icon": "📵",
+          "l": "Laptop drift",
+          "t": "Attendees open laptops once the update section starts."
+        },
+        {
+          "icon": "✅",
+          "l": "Fast accept",
+          "t": "Busy people accept a thirty-minute slot the same day."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Book thirty minutes",
+          "desc": "Set the slot to half an hour and say decision in the title."
+        },
+        {
+          "n": "2",
+          "title": "Send the paper first",
+          "desc": "Email the one-pager two days early so nobody needs a briefing."
+        },
+        {
+          "n": "3",
+          "title": "Put the ask at minute five",
+          "desc": "Plan to state the decision early, then use the rest for questions."
+        }
+      ],
+      "script": "\"Thirty minutes, decision on the vendor. <strong>The one-pager is attached — read it before and we will spend the time on your questions, not my slides.</strong>\"",
+      "watchFor": "The decider accepts within the day instead of asking their assistant to find time.",
+      "example": "Anna kept booking hour-long reviews that ended in more homework. She switched to thirty minutes with a pre-read attached. Her director approved two of the next three requests in the room, and told her to keep doing it that way.",
+      "ifItFails": "They expand it back to an hour and fill it with updates. Take your item out of the long meeting rather than fight the format: \"I will take the vendor call as a separate fifteen with you and Priya on Thursday.\" Send that invite before the long meeting starts.",
+      "counter": "If someone squeezes your decision into half an hour, they want the questions cut short.\n• Notice a big decision with a small slot and a late pre-read.\n• Say: \"I will not decide today. Send the paper and book twenty minutes Friday.\"\n• Take the time back in writing instead of on the clock.",
+      "insight": "Short meetings decide faster, and they decide with less information. The next question is whether your paper is good enough to carry the weight the clock no longer does."
+    },
+    {
+      "id": 9,
+      "cat": "list",
+      "danger": "high",
+      "title": "Leave Your Loudest Critic Off the Invite and Brief Them First",
+      "principle": "Cialdini: Commitment and Consistency — Public Positions Harden",
+      "remember": "Never let a critic say no in front of an audience.",
+      "when": "One person always attacks your proposals in meetings, and they are on the list again.",
+      "hook": "A no said in private can change tomorrow. <strong>A no said in front of nine people is now their identity.</strong>",
+      "truth": "People defend the position they took out loud, long after they stop believing it.\n• A public objection becomes a promise they have to keep.\n• Meet them alone first and their doubt stays cheap to drop.\n• Most people invite the critic to be fair, then get a performance.",
+      "theySee": "A colleague who comes to their desk with a draft before anyone else has seen it.",
+      "signals": [
+        {
+          "icon": "🎤",
+          "l": "Audience effect",
+          "t": "They only attack the plan when other people are watching."
+        },
+        {
+          "icon": "🧊",
+          "l": "Private warmth",
+          "t": "They are reasonable one to one and hostile in the room."
+        },
+        {
+          "icon": "🏷️",
+          "l": "Old stance",
+          "t": "They keep repeating a position they took six months ago."
+        },
+        {
+          "icon": "👁️",
+          "l": "Boss check",
+          "t": "They look at their own manager before they speak."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "See them before the invite goes out",
+          "desc": "Walk to their desk with the draft and ask for their read."
+        },
+        {
+          "n": "2",
+          "title": "Take one of their changes",
+          "desc": "Accept a real edit and tell them you will credit it in the paper."
+        },
+        {
+          "n": "3",
+          "title": "Invite them once they are in",
+          "desc": "Add them to the meeting only after they have softened in private."
+        }
+      ],
+      "script": "\"You will hate parts of this, so I am showing you before anyone else. <strong>Tell me the worst thing in it and I will fix that before it goes out.</strong>\"",
+      "watchFor": "They start editing your draft instead of arguing with it.",
+      "example": "Ben's architecture lead torched every proposal in design review. Ben took the next draft to his desk three days early and cut one module on his advice. In the review, the lead said the design had already addressed his concern, and it passed first time.",
+      "ifItFails": "They take the private meeting and attack anyway in the room. Do not defend in real time. Say the record out loud, once: \"We went through this Tuesday and I made the change you asked for — what is new since then?\" That question costs them the audience, because now they must either name something or look like they did not read it.",
+      "counter": "If someone shows you a draft in private before a big meeting, they are spending your objection early.\n• Notice the friendly preview that arrives just before the invite.\n• Say: \"Good. I will give you my view in the meeting so everyone hears it.\"\n• Keep your position unspoken until the room can hear it.",
+      "insight": "Do not leave a critic off the invite if they outrank the decider — being excluded becomes their whole argument. The harder part is that a critic you convert in private expects to be consulted every time from now on."
+    },
+    {
+      "id": 10,
+      "cat": "list",
+      "danger": "low",
+      "title": "Add One Neutral Person Who Already Agrees With You",
+      "principle": "Cialdini: Authority — The Independent Third Party",
+      "remember": "Bring one person with no stake who already agrees.",
+      "when": "Your proposal will sound like self-interest because you gain if it passes.",
+      "hook": "Your own case is evidence about you. <strong>A neutral voice is evidence about the plan.</strong>",
+      "truth": "The room discounts anyone who benefits from the decision.\n• A person with nothing to gain carries weight you cannot buy.\n• One sentence from them outweighs three of your slides.\n• Most people stack the room with allies who obviously gain too.",
+      "theySee": "A colleague asking a respected outsider for an honest read on a plan.",
+      "signals": [
+        {
+          "icon": "⚖️",
+          "l": "Self-interest tag",
+          "t": "Someone says of course you would say that."
+        },
+        {
+          "icon": "🧪",
+          "l": "Evidence gap",
+          "t": "They ask whether anyone outside your team has looked at it."
+        },
+        {
+          "icon": "🫱",
+          "l": "Ally overlap",
+          "t": "Everyone who supports you also gets budget from the plan."
+        },
+        {
+          "icon": "🎓",
+          "l": "House expert",
+          "t": "One person gets quoted in decisions across several teams."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick someone with nothing to gain",
+          "desc": "Choose a respected person outside your team and your budget line."
+        },
+        {
+          "n": "2",
+          "title": "Get their honest read first",
+          "desc": "Ask for their view on the draft before you invite them anywhere."
+        },
+        {
+          "n": "3",
+          "title": "Ask for one sentence in the room",
+          "desc": "Ask them to say whether the numbers hold, and nothing more."
+        }
+      ],
+      "script": "\"You have no stake in this, which is exactly why I want you there. <strong>If the cost model holds up, say so in one line. If it does not, say that instead.</strong>\"",
+      "watchFor": "The decider turns to your neutral person and asks them directly.",
+      "example": "Priya's platform request read as empire building. She asked a staff engineer from another division to check the load numbers, and he found them sound. In the review he said one sentence — the math is right — and the debate ended there.",
+      "ifItFails": "Your neutral person hedges in the room or cannot attend. Get the sentence in writing before the meeting and read it out with their name on it: \"Marco reviewed the model on Monday and wrote that the throughput assumption is conservative.\" A quoted line from an absent expert still outranks your own slide.",
+      "counter": "If someone brings a neutral expert who happens to agree, ask what they were shown.\n• Notice an outsider who only reviewed the parts that look good.\n• Say: \"What did you not get to look at?\"\n• Judge the gap, not the endorsement.",
+      "insight": "A borrowed voice buys you credibility once. Use the same person twice and they stop being neutral — they become your ally, and the room prices them accordingly."
+    },
+    {
+      "id": 11,
+      "cat": "paper",
+      "danger": "low",
+      "title": "Send a One-Page Paper Two Days Early",
+      "principle": "Bezos: The Narrative Memo",
+      "remember": "The paper decides. The meeting just confirms it.",
+      "when": "You have a decision meeting booked and you were about to build slides.",
+      "hook": "People make up their minds alone, at their desk, on a Tuesday night. <strong>Be the document in front of them.</strong>",
+      "truth": "Most decisions are settled before the meeting by whoever wrote the only document.\n• A paper gets read in quiet, with no rival talking over it.\n• Whatever is written becomes the thing the room edits.\n• Most people show up with slides and let the loudest voice write the story.",
+      "theySee": "A colleague sending a short document two days early with a clear ask in it.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "No document",
+          "t": "Nobody has circulated anything before the meeting."
+        },
+        {
+          "icon": "🌙",
+          "l": "Late reader",
+          "t": "The decider replies to emails after nine at night."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Loud room",
+          "t": "The last decision went to whoever argued hardest."
+        },
+        {
+          "icon": "🔁",
+          "l": "Rehash",
+          "t": "Meetings start with ten minutes of recapping the problem."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write one page, not ten slides",
+          "desc": "Use plain sentences: the ask, the cost, the risk, the date."
+        },
+        {
+          "n": "2",
+          "title": "Send it forty-eight hours out",
+          "desc": "Email it two days early so it gets read before opinions form."
+        },
+        {
+          "n": "3",
+          "title": "Ask for comments in the document",
+          "desc": "Tell people to leave comments so their objections arrive early."
+        }
+      ],
+      "script": "\"One page attached, two days early. <strong>Comment in the doc before Thursday and we will use the meeting only for what is still open.</strong>\"",
+      "watchFor": "Someone replies with comments before the meeting starts.",
+      "example": "Lena stopped making decks for her steering group and sent a one-pager on Mondays instead. By Wednesday, two of the three objections were already resolved in the comments. The group started approving her items without discussion.",
+      "ifItFails": "Nobody reads it and the meeting starts cold. Do not summarize from memory. Put the room in silence: \"Take four minutes and read the page. Then we will decide.\" Read it with them, then open with the first comment in the margin.",
+      "counter": "If someone sends a paper early, they are setting what you argue about.\n• Notice that the document frames the problem before you have.\n• Say: \"Before we work through this, here is the option it leaves out.\"\n• Send your own half-page to the same list, not just a reply.",
+      "insight": "The paper wins the argument you wrote down. It cannot win the one you left out, and a sharp reader will look for exactly that gap first."
+    },
+    {
+      "id": 12,
+      "cat": "paper",
+      "danger": "low",
+      "title": "Put the Decision in the First Line",
+      "principle": "BLUF — Primacy Effect",
+      "remember": "Put the ask in line one. Nobody reads to the end.",
+      "when": "You wrote a page of background and buried the actual request near the bottom.",
+      "hook": "They read the first three lines properly and skim the rest. <strong>Spend your best sentence there.</strong>",
+      "truth": "A reader decides how to feel about a document in the opening lines.\n• The first sentence sets what the rest is measured against.\n• Put the ask up top and the background becomes support, not suspense.\n• Most people build to the request and lose the reader at line four.",
+      "theySee": "A colleague whose email opens with the exact request, the number and the date.",
+      "signals": [
+        {
+          "icon": "🔎",
+          "l": "Lost ask",
+          "t": "Someone asks what exactly you need from them."
+        },
+        {
+          "icon": "⏭️",
+          "l": "Skim reply",
+          "t": "They reply to a point from your second paragraph only."
+        },
+        {
+          "icon": "🧵",
+          "l": "Long thread",
+          "t": "The thread runs six emails and nobody has answered the question."
+        },
+        {
+          "icon": "🕐",
+          "l": "Quick reader",
+          "t": "The decider answers within two minutes or not at all."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the ask as one sentence",
+          "desc": "Name what you want, how much it costs, and by when."
+        },
+        {
+          "n": "2",
+          "title": "Move it to line one",
+          "desc": "Cut everything above it and put the background underneath."
+        },
+        {
+          "n": "3",
+          "title": "Read only the first three lines",
+          "desc": "Check that a stranger could act on those lines alone."
+        }
+      ],
+      "script": "\"<strong>Ask: approve £40k and one contractor for the migration, decision needed by Friday.</strong> Background and the two other options are below.\"",
+      "watchFor": "They reply with a yes or a single question instead of asking what you need.",
+      "example": "Jonas kept getting no reply from his director. He rewrote the same email with the request as the opening line and the detail beneath. The director answered in four minutes with one word: approved.",
+      "ifItFails": "They still reply asking what you actually need. Stop writing prose. Send three lines — ask, cost, date — with nothing else in the body: \"Approve £40k, one contractor, by Friday. Yes or no is enough.\" A one-word answer becomes the easiest thing on their screen.",
+      "counter": "If a document leads with the ask, check what got pushed below the fold.\n• Notice the clean opening line and the buried assumptions.\n• Say: \"Before I answer, what is in the part I would skim?\"\n• Read the last third of the document first.",
+      "insight": "A clear ask gets a fast answer, and a fast answer can be no. The next question is whether your first line gives them enough reason to say yes in the same breath."
+    },
+    {
+      "id": 13,
+      "cat": "paper",
+      "danger": "moderate",
+      "title": "Give Them Three Options and Rank Them",
+      "principle": "Compromise Effect — The Middle Option Wins",
+      "remember": "Give three choices. Make yours the middle one.",
+      "when": "You want one specific answer, and presenting it alone makes it feel like a demand.",
+      "hook": "One option is a request. <strong>Three options is a decision, and you drew the map.</strong>",
+      "truth": "People reach for the middle when they are shown a range.\n• A cheap option and an expensive option make your plan look measured.\n• Choosing among your three feels like control to them.\n• Most people present one plan and get a yes or no coin flip.",
+      "theySee": "A colleague presenting three real choices with costs and a clear recommendation.",
+      "signals": [
+        {
+          "icon": "🪙",
+          "l": "Binary trap",
+          "t": "The last proposal got a flat no with no discussion."
+        },
+        {
+          "icon": "💬",
+          "l": "Cost question",
+          "t": "They ask what a cheaper version would look like."
+        },
+        {
+          "icon": "🧭",
+          "l": "Range hunting",
+          "t": "They ask what other companies do about this."
+        },
+        {
+          "icon": "🛑",
+          "l": "Risk worry",
+          "t": "They say the full plan feels like a big first step."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three real options",
+          "desc": "Do nothing, your plan, and a bigger version with a real price."
+        },
+        {
+          "n": "2",
+          "title": "Cost each one honestly",
+          "desc": "Put money, time and risk in one line each so they compare fast."
+        },
+        {
+          "n": "3",
+          "title": "Name your recommendation",
+          "desc": "Say which one you would pick and give the single reason why."
+        }
+      ],
+      "script": "\"Three options on page one. <strong>A is do nothing and we keep paying the outage cost. C is the full rebuild at £300k. I recommend B at £90k because it removes the outage without touching billing.</strong>\"",
+      "watchFor": "They start comparing option A against option C instead of debating your plan.",
+      "example": "Nadia needed £90k for a fix. She presented doing nothing, her fix, and a £300k rebuild, with a line of cost against each. The committee spent the meeting dismissing the two ends and approved her middle option in the last five minutes.",
+      "ifItFails": "They pick the cheap option to save money. Do not argue that they chose wrong. Accept it with the consequence attached in writing: \"Happy to run A. To be clear on the record, that leaves the Friday outage in place — I will bring the cost of that in ninety days.\" Then send the recap with that line in it.",
+      "counter": "If someone hands you three options, check whether two are decoys.\n• Notice an option that is obviously too small and one obviously too big.\n• Say: \"What would a fourth option look like, at half of B?\"\n• Make them build a choice they did not prepare.",
+      "insight": "Do not use fake ends with a decider who has run this move themselves — a decoy they spot turns the whole paper suspect. The real trap is that all three must be options you can actually deliver."
+    },
+    {
+      "id": 14,
+      "cat": "prewire",
+      "danger": "moderate",
+      "title": "Walk Every Vote One-by-One Before the Room",
+      "principle": "Kotter: Build the Guiding Coalition",
+      "remember": "Get every yes in private before the room.",
+      "when": "A committee will decide your proposal next week and you have spoken to none of them alone.",
+      "hook": "A meeting is where you count votes. <strong>It is a terrible place to collect them.</strong>",
+      "truth": "Groups do not make decisions. Individuals do, and then confirm together.\n• A private meeting lets them ask the question they would not ask publicly.\n• Each person you convert becomes the next person's social proof.\n• Most people save everything for the room and get ambushed by a surprise.",
+      "theySee": "A colleague booking a quiet fifteen minutes with each attendee that week.",
+      "signals": [
+        {
+          "icon": "🗳️",
+          "l": "Unknown votes",
+          "t": "You cannot name how each attendee will vote."
+        },
+        {
+          "icon": "😶",
+          "l": "Surprise objection",
+          "t": "Someone raised a brand new concern in the last meeting."
+        },
+        {
+          "icon": "🤝",
+          "l": "Side alliances",
+          "t": "Two attendees always arrive at the same position."
+        },
+        {
+          "icon": "📵",
+          "l": "No contact",
+          "t": "You have never spoken to three of the people on the list."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List every attendee and their vote",
+          "desc": "Write yes, no, or unknown beside each name today."
+        },
+        {
+          "n": "2",
+          "title": "Book fifteen minutes with each unknown",
+          "desc": "Ask for their read on the draft, not for their support."
+        },
+        {
+          "n": "3",
+          "title": "Name your supporters to the next person",
+          "desc": "Tell each person who has already backed it, by name."
+        }
+      ],
+      "script": "\"Fifteen minutes before Thursday? I want your read on the draft while it can still change. <strong>Priya and Tom are already behind it, so you would be joining a decision, not starting an argument.</strong>\"",
+      "watchFor": "Someone asks you what the other attendees think.",
+      "example": "Marcus had eight people on a funding board and no idea where they stood. He booked fifteen minutes with each one over nine days and named his supporters as he went. The board meeting lasted eleven minutes and the vote was unanimous.",
+      "ifItFails": "Two people refuse to meet or say they will decide in the room. Do not push for the meeting. Send them the paper with one direct question and a date: \"No need to meet — just tell me by Wednesday whether the cost section works for you.\" A written answer binds them almost as well as a conversation.",
+      "counter": "If people start booking one-to-ones before a decision, someone is counting votes.\n• Notice a week of short meetings that all touch the same topic.\n• Say: \"I will give you my position in the meeting.\"\n• Call two other attendees yourself and find out what they were promised.",
+      "insight": "Do not run a private round on a committee that has banned pre-meetings — being caught counting votes reads as a coup. The harder part is keeping every private promise identical, because they will compare notes."
+    },
+    {
+      "id": 15,
+      "cat": "prewire",
+      "danger": "low",
+      "title": "Ask Each Person What Would Make Them Say No",
+      "principle": "Voss: Calibrated Questions — Get to No",
+      "remember": "Ask what would make them say no, before they can.",
+      "when": "You are in a one-to-one before the meeting and they say the plan looks fine.",
+      "hook": "Looks fine means they have not read it. <strong>Make them find the problem while it is still cheap.</strong>",
+      "truth": "People protect you from their real objection until it is too late to fix.\n• Asking for the no gives them permission to be honest.\n• Whatever they name becomes a thing you can fix and credit them for.\n• Most people ask do you support this and collect polite lies.",
+      "theySee": "A colleague who asks them to find the flaw instead of asking for approval.",
+      "signals": [
+        {
+          "icon": "🙂",
+          "l": "Polite yes",
+          "t": "They say it looks good without asking a single question."
+        },
+        {
+          "icon": "📥",
+          "l": "No comments",
+          "t": "They opened the document and left nothing in it."
+        },
+        {
+          "icon": "🕵️",
+          "l": "Late ambush",
+          "t": "They raised their real concern after the last decision was made."
+        },
+        {
+          "icon": "↩️",
+          "l": "Second-hand doubt",
+          "t": "You hear their objection from someone else first."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the no directly",
+          "desc": "Ask what would make them vote against it on Thursday."
+        },
+        {
+          "n": "2",
+          "title": "Write their words down",
+          "desc": "Take the exact phrase they use and read it back to them."
+        },
+        {
+          "n": "3",
+          "title": "Fix one thing and tell them",
+          "desc": "Change the paper and send it with their concern named."
+        }
+      ],
+      "script": "\"Do not tell me it looks fine. <strong>What would make you vote no on Thursday?</strong> I would rather fix it now than find out in the room.\"",
+      "watchFor": "They pause, then name something you had not considered.",
+      "example": "Claire's sponsor kept saying the plan looked good. She asked what would make him vote no, and he admitted he could not defend the hiring line to his own boss. She cut one role, gave him the numbers he needed, and he opened the meeting by backing it.",
+      "ifItFails": "They say nothing would make them say no. Take that literally and lock it: \"Good — then I will put you down as a yes in the recap.\" Say it while looking at them. Anyone with a hidden doubt corrects you in the next five seconds.",
+      "counter": "If someone asks what would make you say no, they are hunting your objection early.\n• Notice the question that invites your worst case out loud.\n• Say: \"Several things. Send me the final version and I will list them.\"\n• Answer in writing, on your timing, with more than one item.",
+      "insight": "Asking for the no gets you the real problem. It also tells them they have a veto they may not have known they had. The next move is deciding which of their conditions you actually meet."
+    },
+    {
+      "id": 16,
+      "cat": "prewire",
+      "danger": "high",
+      "title": "Give Your Rival a Private Win First",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Give a rival one small win before you need their vote.",
+      "when": "Someone who competes with you for budget will be in the room when your plan is discussed.",
+      "hook": "A debt is quieter than an argument. <strong>Make them owe you something small a week early.</strong>",
+      "truth": "People find it hard to attack someone who just helped them in public.\n• Support one of their asks first, visibly, with no conditions attached.\n• The debt sits in the room with them when your item comes up.\n• Most people go to a rival empty-handed and ask for peace.",
+      "theySee": "A rival who backed their request in front of the boss last week, for free.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Their pending ask",
+          "t": "They have a request waiting for the same committee."
+        },
+        {
+          "icon": "🪤",
+          "l": "Budget clash",
+          "t": "You and they are drawing from the same pot this quarter."
+        },
+        {
+          "icon": "🗡️",
+          "l": "Past attack",
+          "t": "They picked apart your last proposal in front of the director."
+        },
+        {
+          "icon": "🫂",
+          "l": "Warm opening",
+          "t": "They thank you personally after a public compliment."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find their pending ask",
+          "desc": "Learn what they need approved in the next three weeks."
+        },
+        {
+          "n": "2",
+          "title": "Back it in public, for free",
+          "desc": "Say one clear supportive sentence in a meeting or on the thread."
+        },
+        {
+          "n": "3",
+          "title": "Ask a week later, alone",
+          "desc": "Go to them before your meeting and ask only that they not block it."
+        }
+      ],
+      "script": "\"I backed your headcount ask on Tuesday because it is the right call. <strong>On Thursday I need you not to fight the platform budget. Tell me what you need to live with it.</strong>\"",
+      "watchFor": "They stop arguing the principle and start negotiating the amount.",
+      "example": "Owen's peer had blocked his budget twice. Owen publicly backed her hiring request in a leadership meeting, saying nothing about his own plan. Two weeks later she stayed quiet during his budget review and sent him a note afterwards: we are square.",
+      "ifItFails": "They take the favour and attack you anyway. Do not mention the debt in the room — that reads as weak. Collect it afterwards, in private, once: \"I backed your ask without conditions. You went after mine with the committee watching. I will remember how this works.\" Then stop supporting them and let others notice.",
+      "counter": "If a rival suddenly backs your request for nothing, price the favour before you accept it.\n• Notice unprompted public support from someone who competes with you.\n• Say: \"Appreciated. To be clear, I have not seen your plan yet.\"\n• Thank them publicly and keep your vote unpromised.",
+      "insight": "Do not try this on someone whose bonus is directly cut by your plan — money beats goodwill every time. The real trap is that a paid debt resets to zero, and you will need a new one next quarter."
+    },
+    {
+      "id": 17,
+      "cat": "objection",
+      "danger": "low",
+      "title": "Write Their Objection Into Your Own Paper",
+      "principle": "McGuire: Inoculation Theory",
+      "remember": "Print their objection in your paper, then answer it.",
+      "when": "You know exactly which attack is coming and you are hoping it does not get raised.",
+      "hook": "An objection you printed is a topic. <strong>An objection they raise is an attack.</strong>",
+      "truth": "Whoever says the concern first owns how it gets discussed.\n• Naming the risk yourself makes you look like the careful one.\n• The critic loses the moment of surprise they were saving.\n• Most people hide the weak point and hand the critic a free hit.",
+      "theySee": "A colleague whose document contains a section titled why this might fail.",
+      "signals": [
+        {
+          "icon": "🔮",
+          "l": "Known attack",
+          "t": "The same person raises the same concern every single time."
+        },
+        {
+          "icon": "🕳️",
+          "l": "Soft spot",
+          "t": "You avoided one number when you wrote the paper."
+        },
+        {
+          "icon": "🗒️",
+          "l": "Prepared critic",
+          "t": "They arrive with written notes on your document."
+        },
+        {
+          "icon": "👂",
+          "l": "Corridor echo",
+          "t": "You hear your weak point repeated by someone else's team."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the three worst objections",
+          "desc": "Put them in their own words, not in your softer version."
+        },
+        {
+          "n": "2",
+          "title": "Put them in the paper with answers",
+          "desc": "Add a short section: the risk, then one line on how you handle it."
+        },
+        {
+          "n": "3",
+          "title": "Name the person who raised it",
+          "desc": "Credit the critic by name so they read as a contributor."
+        }
+      ],
+      "script": "\"Page two lists the three ways this fails, including the one Tom raised last month about the billing dependency. <strong>Each one has the answer next to it. If there is a fourth, I want it today.</strong>\"",
+      "watchFor": "The critic says their point is already covered and moves on.",
+      "example": "Grace knew the security lead would hit her plan on data retention. She wrote his objection into the paper word for word and credited him. In the meeting he said it looked handled, and the rest of the room treated the risk as closed.",
+      "ifItFails": "They raise the objection anyway and claim your answer is thin. Do not defend it twice. Push the burden across: \"The answer is on page two. Tell me specifically which part of it does not hold.\" Now they must do the analysis in front of everyone, unprepared, or drop it.",
+      "counter": "If a paper lists its own weaknesses, check which one is missing.\n• Notice three small risks named and the expensive one absent.\n• Say: \"Good list. What is the risk you left off?\"\n• Raise the unnamed one, not the ones already answered.",
+      "insight": "Printing the objection kills the ambush. It also puts your weak point in writing forever, where a future rival can find it in the file."
+    },
+    {
+      "id": 18,
+      "cat": "objection",
+      "danger": "moderate",
+      "title": "Hand Your Hardest Question to an Ally",
+      "principle": "Greene: Law 26 — Keep Your Hands Clean",
+      "remember": "Let a friend ask the hard question you already answered.",
+      "when": "There is one brutal question about your plan and you do not want to raise it yourself.",
+      "hook": "You cannot look strong answering your own attack. <strong>Give the attack away and keep the answer.</strong>",
+      "truth": "The room trusts an answer more when someone else forced it out of you.\n• A planted question looks like scrutiny, so the answer looks earned.\n• The real critic finds their best question already asked and beaten.\n• Most people rehearse the answer and never arrange the question.",
+      "theySee": "A colleague asking a tough question, and you answering it without hesitation.",
+      "signals": [
+        {
+          "icon": "🎭",
+          "l": "Too smooth",
+          "t": "Your last pitch went unchallenged and got no decision."
+        },
+        {
+          "icon": "🧨",
+          "l": "One killer question",
+          "t": "You know the single question that could sink the meeting."
+        },
+        {
+          "icon": "🤝",
+          "l": "Willing ally",
+          "t": "One attendee already supports you and speaks up often."
+        },
+        {
+          "icon": "🧊",
+          "l": "Cold room",
+          "t": "The decider stays quiet and waits for someone else to test you."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the one question you fear",
+          "desc": "Choose the question you least want asked in front of the decider."
+        },
+        {
+          "n": "2",
+          "title": "Ask an ally to ask it",
+          "desc": "Give them the exact words and tell them to ask it early."
+        },
+        {
+          "n": "3",
+          "title": "Answer it in under sixty seconds",
+          "desc": "Give a short answer with a number in it, then stop talking."
+        }
+      ],
+      "script": "(To your ally, the day before) \"<strong>Ask me about the migration risk about five minutes in. Ask it hard.</strong> I have the numbers and I would rather answer you than get it from Tom at the end.\"",
+      "watchFor": "The decider nods at your answer and the room stops looking for a problem.",
+      "example": "Yusuf asked a friendly peer to challenge his timeline early in the review. He answered with a dated plan and a named contractor. The finance director who had come to attack the timeline closed her notebook and asked about rollout instead.",
+      "ifItFails": "Your ally forgets, or asks it limply. Take the question yourself rather than let the real critic own it: \"Before anyone asks — the migration risk. Here is the number and here is the plan.\" Say it fast and move on. A self-raised question is weaker than a planted one, and far stronger than an ambush.",
+      "counter": "If a tough question gets a suspiciously polished answer, it was arranged.\n• Notice a question asked early by a known supporter.\n• Say: \"That answer sounds ready. What question did you not prepare for?\"\n• Ask a second question the plant could not have anticipated.",
+      "insight": "Do not plant a question with someone who reports to you — the room can smell it and you both look worse. The harder part is having an answer so clean that the arrangement never shows."
+    },
+    {
+      "id": 19,
+      "cat": "objection",
+      "danger": "moderate",
+      "title": "Leave One Thing in the Plan for Them to Cut",
+      "principle": "Sacrificial Detail — The Planted Cut",
+      "remember": "Leave one thing in the plan for them to delete.",
+      "when": "Your decider always changes something, no matter how good the proposal is.",
+      "hook": "Some people cannot approve a plan without touching it. <strong>Choose what they touch.</strong>",
+      "truth": "A decider proves their value by changing something.\n• Give them an obvious, expendable target and they will take it.\n• They leave with a win and your real plan passes untouched.\n• Most people submit a perfect plan and watch them cut the important part.",
+      "theySee": "A decider spotting one clearly oversized item and removing it themselves.",
+      "signals": [
+        {
+          "icon": "✂️",
+          "l": "Habitual cutter",
+          "t": "They have changed something in every plan you ever submitted."
+        },
+        {
+          "icon": "💰",
+          "l": "Budget pride",
+          "t": "They tell stories about the money they saved on past projects."
+        },
+        {
+          "icon": "🔍",
+          "l": "Line hunting",
+          "t": "They read down the cost table with a pen in their hand."
+        },
+        {
+          "icon": "🏁",
+          "l": "Need a mark",
+          "t": "They will not approve anything without adding a condition."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Add one visible, expendable item",
+          "desc": "Include something real but optional, priced high enough to notice."
+        },
+        {
+          "n": "2",
+          "title": "Defend it once, weakly",
+          "desc": "Argue for it briefly, then give it up without a fight."
+        },
+        {
+          "n": "3",
+          "title": "Lock the rest as agreed",
+          "desc": "Say that with that removed, the remainder is approved as written."
+        }
+      ],
+      "script": "\"If the offsite has to go, it goes. <strong>With that out, we are agreed on the rest as written — headcount, tooling and the March date?</strong>\"",
+      "watchFor": "They cross out the item you planted and approve the rest without reading further.",
+      "example": "Rosa put a £20k conference line in a £180k plan. Her VP struck it out inside two minutes and told her to be more disciplined. Everything she actually needed went through unchanged, including the two hires.",
+      "ifItFails": "They cut your planted item and keep going into the real budget. Stop them with a consequence on the next line, not a complaint: \"The offsite is fine to lose. The second engineer is not — cut that and the March date goes with it.\" Tie the cut to a date they already promised someone else.",
+      "counter": "If a plan contains one obviously fat item, it was left there for you.\n• Notice a line that is easy to cut and costs them nothing.\n• Say: \"Leave that in. Walk me through the second largest item instead.\"\n• Cut where it hurts, or approve the whole thing and hold them to it.",
+      "insight": "Do not plant a cut with a decider who reads every line and remembers — being caught once makes every future number suspect. The real trap is planting something you would actually miss."
+    },
+    {
+      "id": 20,
+      "cat": "inside",
+      "danger": "low",
+      "title": "Speak Third, Not First",
+      "principle": "Asch: Conformity — Let Others Commit First",
+      "remember": "Let two people talk first. Then say what they meant.",
+      "when": "The meeting opens and you feel the pull to make your case immediately.",
+      "hook": "The first speaker gets corrected. The second gets argued with. <strong>The third gets agreed with.</strong>",
+      "truth": "Early speakers spend their position before they know the room.\n• The first two voices show you where the resistance actually sits.\n• Speaking third lets you sum up and attach your ask to it.\n• Most people lead with their pitch and spend the rest defending it.",
+      "theySee": "A colleague who listens, then says something that sounds like what everyone was thinking.",
+      "signals": [
+        {
+          "icon": "🚪",
+          "l": "Open floor",
+          "t": "The chair asks where everyone wants to start."
+        },
+        {
+          "icon": "🌡️",
+          "l": "Unknown mood",
+          "t": "You cannot tell whether the room is warm or cold yet."
+        },
+        {
+          "icon": "🗯️",
+          "l": "Early volunteer",
+          "t": "One person always jumps in first and gets picked apart."
+        },
+        {
+          "icon": "👀",
+          "l": "Watching decider",
+          "t": "The decider says nothing and watches who speaks."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Hold your opening",
+          "desc": "Let two people speak before you say anything at all."
+        },
+        {
+          "n": "2",
+          "title": "Write their words down",
+          "desc": "Note the exact phrase each one uses for the problem."
+        },
+        {
+          "n": "3",
+          "title": "Sum up and add the ask",
+          "desc": "Say what both raised, then attach your request as the answer."
+        }
+      ],
+      "script": "\"So Tom is worried about the March date and Priya is worried about cost. <strong>The plan on page one solves both, and it needs one decision today: the contractor.</strong>\"",
+      "watchFor": "Two people nod while you summarize, before you have made your ask.",
+      "example": "Alex always opened his review meetings and always ended up defending. He tried staying quiet for the first two speakers, then summarized both and tied his budget ask to their concerns. The head of operations said that was exactly the point, and the budget passed.",
+      "ifItFails": "The chair calls on you first. Do not pitch — buy the position back with a question: \"Before I go through it, what is the main worry in the room?\" Let two people answer, then give your summary. You have turned first into third.",
+      "counter": "If someone stays silent then summarizes everyone, they are collecting positions.\n• Notice the quiet person who speaks only after the room has committed.\n• Say: \"Before we go on — where do you actually stand?\"\n• Make them take a position before they hear the rest.",
+      "insight": "Speaking third wins the room's agreement. It also means you never set the terms, so the next question is whether you can set the terms in the paper instead."
+    },
+    {
+      "id": 21,
+      "cat": "inside",
+      "danger": "low",
+      "title": "Say the Decision Out Loud Before Anyone Stands Up",
+      "principle": "Voss: Summary — Get a That's Right",
+      "remember": "Before anyone stands, read the decision back out loud.",
+      "when": "The meeting is drifting toward its end and nobody has said what was decided.",
+      "hook": "A meeting that ends in agreement usually ends in four different agreements. <strong>Say yours while they are still sitting.</strong>",
+      "truth": "People leave a room with different versions of the same yes.\n• Reading it back forces the differences into the open while fixing is cheap.\n• A spoken summary with names becomes the version everyone remembers.\n• Most people say thanks everyone and lose the decision on the walk out.",
+      "theySee": "A colleague stating the decision in one sentence and asking if that is right.",
+      "signals": [
+        {
+          "icon": "🚶",
+          "l": "Chair scrape",
+          "t": "People start gathering laptops with five minutes left."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Vague close",
+          "t": "Someone says great, let us move forward on this."
+        },
+        {
+          "icon": "❔",
+          "l": "No owner",
+          "t": "Nobody has said which person does the next thing."
+        },
+        {
+          "icon": "🙃",
+          "l": "Two versions",
+          "t": "Two attendees describe the plan differently in the same meeting."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Interrupt at five minutes left",
+          "desc": "Stop the discussion and say you want to close the decision."
+        },
+        {
+          "n": "2",
+          "title": "State it with a name and a date",
+          "desc": "Say who does what, by when, and how much it costs."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the correction",
+          "desc": "Ask whether that is right, then wait through the silence."
+        }
+      ],
+      "script": "\"Before anyone leaves — <strong>decision: we go with the contractor, £40k, Priya signs the order by Friday, live in March.</strong> Is that right?\"",
+      "watchFor": "Someone corrects one detail and the rest of the room says yes.",
+      "example": "Ana ended a budget meeting by reading the decision back with the name and the date in it. The finance lead corrected the amount from £40k to £38k, and everyone else agreed. Her recap email an hour later went unchallenged.",
+      "ifItFails": "The decider says let us not lock it today. Do not push for the yes. Lock the next step instead: \"Then the decision is that you confirm by Wednesday and Priya holds the contractor slot until then.\" Send that in writing before they reach their next meeting.",
+      "counter": "If someone reads back a decision at the end, check the details they added.\n• Notice extra numbers or names that were never discussed.\n• Say: \"That is right except the date. Make it the following Friday.\"\n• Correct it out loud in the room, never in an email afterwards.",
+      "insight": "A spoken close ends the meeting cleanly. Spoken words fade by Monday, so the real work is the email that follows within the hour."
+    },
+    {
+      "id": 22,
+      "cat": "inside",
+      "danger": "moderate",
+      "title": "Stop the Meeting From Turning Into Another Meeting",
+      "principle": "Schelling: Forcing the Decision",
+      "remember": "Kill the follow-up meeting before it gets booked.",
+      "when": "Someone says we should take this offline and set up a proper session.",
+      "hook": "Let us discuss it further is a polite no. <strong>Answer it before it reaches the calendar.</strong>",
+      "truth": "Delay is the safest way to refuse without saying no.\n• A follow-up meeting scatters the room and resets every private yes.\n• Naming what the delay costs turns a free no into an expensive one.\n• Most people accept the next meeting and start the whole run again.",
+      "theySee": "A colleague asking what new information the next meeting would bring.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Offline move",
+          "t": "Someone suggests taking it offline for a deeper session."
+        },
+        {
+          "icon": "🧾",
+          "l": "More data",
+          "t": "They ask for one more piece of analysis before deciding."
+        },
+        {
+          "icon": "🫥",
+          "l": "No objection",
+          "t": "Nobody has actually argued against the plan itself."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Clock excuse",
+          "t": "They say there is not enough time to do it justice today."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what the next meeting adds",
+          "desc": "Ask which specific question the extra session would answer."
+        },
+        {
+          "n": "2",
+          "title": "Name the cost of waiting",
+          "desc": "Say in one line what a two-week delay changes in money or dates."
+        },
+        {
+          "n": "3",
+          "title": "Offer the smaller yes",
+          "desc": "Ask them to approve the first step now and review it later."
+        }
+      ],
+      "script": "\"Happy to book more time, but what would we know then that we do not know now? <strong>Two weeks moves live from March to May. Approve the first phase today and we review in four weeks.</strong>\"",
+      "watchFor": "Nobody can name a question the next meeting would answer, and the decider decides.",
+      "example": "Dev's steering group tried to push his decision to another session. He asked what the extra meeting would tell them and got silence. The chair said fine, approve phase one, and the project kept its March date.",
+      "ifItFails": "The decider insists on another meeting. Take the date and shrink its purpose so it cannot reopen everything: \"Then Tuesday at nine, thirty minutes, one question only — contractor yes or no. I will send the page tonight.\" Put that in the recap so the scope is fixed before anyone arrives.",
+      "counter": "If someone blocks your request for more time, they want the decision before you are ready.\n• Notice pressure to decide when a real question is still open.\n• Say: \"The open question is the security review. I will decide when it lands.\"\n• Name the question, not the discomfort, and give your own date.",
+      "insight": "Do not corner a decider who genuinely lacks the information — you win the meeting and lose them. The next question is which smaller yes you would accept, and you should decide that before you walk in."
+    },
+    {
+      "id": 23,
+      "cat": "lock",
+      "danger": "low",
+      "title": "Send the Recap Within the Hour",
+      "principle": "The Written Record — Primacy of the First Draft",
+      "remember": "The first person to write it down owns what happened.",
+      "when": "The meeting just ended with a yes and everyone went back to their desks.",
+      "hook": "Memory is a negotiation. <strong>The email settles it, and the first email wins.</strong>",
+      "truth": "Whoever writes the record decides what was agreed.\n• A recap sent within the hour becomes the version nobody rewrites.\n• Names and dates turn a warm agreement into an assignment.\n• Most people write notes the next day and inherit someone else's story.",
+      "theySee": "A colleague whose summary email lands before they have made coffee.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Fast writer",
+          "t": "Somebody else usually sends notes the day after the meeting."
+        },
+        {
+          "icon": "🌪️",
+          "l": "Loose ending",
+          "t": "The meeting ended with nods and no written agreement."
+        },
+        {
+          "icon": "🧑‍⚖️",
+          "l": "Missing people",
+          "t": "Two people who were not there will be told what happened."
+        },
+        {
+          "icon": "🔁",
+          "l": "Past reopen",
+          "t": "A previous decision got reopened because nothing was written."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write it before you do anything else",
+          "desc": "Send the recap within sixty minutes, while people still remember."
+        },
+        {
+          "n": "2",
+          "title": "Use four lines only",
+          "desc": "Write decision, owner, date, and money. Cut everything else."
+        },
+        {
+          "n": "3",
+          "title": "Copy the people who were absent",
+          "desc": "Add anyone who can reopen it later so they see it first."
+        }
+      ],
+      "script": "\"<strong>Recap: approved the contractor at £38k. Priya signs by Friday 20th. Live date March 3rd. Open item: security review, Tom, by the 27th.</strong> Corrections by end of day, please.\"",
+      "watchFor": "Someone forwards your email onward instead of writing their own version.",
+      "example": "Theo started sending a four-line recap within an hour of every steering meeting. When a director claimed six weeks later that the budget was never approved, Theo forwarded the email with the director's own reply under it. The topic closed in one message.",
+      "ifItFails": "Someone replies that the recap is not what was agreed. Do not argue by email. Ask them to write the correction themselves and set a deadline: \"Send me your version of that line by five and I will reissue it to the group.\" Most people will not do the work, and your version stands by default.",
+      "counter": "If someone's recap adds a commitment you did not make, correct it fast.\n• Notice a line with your name on it that you never agreed to.\n• Say: \"One correction — I did not take the security review. Tom did.\"\n• Reply to everyone on the original thread, within the hour.",
+      "insight": "The fast recap owns the record. It also puts your name on the promise, so the next question is whether you can deliver the version you wrote."
+    },
+    {
+      "id": 24,
+      "cat": "lock",
+      "danger": "moderate",
+      "title": "Set a Reply Deadline and Treat Silence as Yes",
+      "principle": "Default Bias — Silence as Consent",
+      "remember": "Set a reply deadline. Silence then counts as yes.",
+      "when": "You need approval from busy people who never reply and later say they never agreed.",
+      "hook": "Waiting for a yes hands them the clock. <strong>Take it back with one sentence.</strong>",
+      "truth": "People delay by not replying, then claim they were never asked.\n• A stated deadline makes doing nothing into an answer.\n• The burden moves from you chasing them to them objecting.\n• Most people send a polite reminder and wait another week.",
+      "theySee": "A colleague whose email says exactly what happens if nobody replies.",
+      "signals": [
+        {
+          "icon": "👻",
+          "l": "No reply",
+          "t": "Two of your last three approval emails were never answered."
+        },
+        {
+          "icon": "🔙",
+          "l": "Late reversal",
+          "t": "Someone said afterwards that they never agreed to it."
+        },
+        {
+          "icon": "📚",
+          "l": "Overloaded inbox",
+          "t": "The decider says their inbox is out of control."
+        },
+        {
+          "icon": "🧯",
+          "l": "Chase loop",
+          "t": "You have sent three reminders with no answer at all."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Put the deadline in the email",
+          "desc": "Name a date and time, not soon or this week."
+        },
+        {
+          "n": "2",
+          "title": "Say what happens if nobody replies",
+          "desc": "Write one line: no reply means we proceed as written."
+        },
+        {
+          "n": "3",
+          "title": "Proceed and say so",
+          "desc": "On the date, send one line confirming you are going ahead."
+        }
+      ],
+      "script": "\"<strong>Unless I hear an objection by Thursday 5pm, we proceed as written: contractor at £38k, start March 3rd.</strong> One line back is enough if you want to stop it.\"",
+      "watchFor": "A person who never replies answers within a day with one condition.",
+      "example": "Mira could not get three directors to approve a vendor change. She sent one email with a Thursday deadline and a line saying silence meant approval. Two replied within a day, the third said nothing, and the change went through without a single meeting.",
+      "ifItFails": "Someone objects to the method rather than the plan, or reopens it weeks later. Do not defend the method. Forward your own email with the date visible and one sentence: \"This went out on the 12th with a Thursday deadline and no objection came in. If you want it changed now, tell me what you want and what it costs us.\" They now have to pay for the reversal.",
+      "counter": "If an email says silence means approval, it is trying to spend your veto.\n• Notice a deadline you never agreed to attached to a decision you own.\n• Say: \"Silence is not my yes. I will answer by Monday.\"\n• Reply to everyone on the thread, so the record shows your no.",
+      "insight": "Do not use this on someone who signs your reviews or on anything legal — it reads as going around them. This works until you meet a person who lets it run on purpose, then disowns it the moment it goes wrong."
+    }
+  ]
+}

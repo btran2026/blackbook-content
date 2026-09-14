@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 72,
+  "manifestVersion": 73,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -598,7 +598,20 @@
       "url": "playbooks/playbook-srv-taking-over-a-team-loyal-to-the-last-boss.json",
       "addedAt": "2026-09-14T23:49:08.300Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-deciding-the-meeting-before-anyone-sits-down",
+      "title": "Deciding the Meeting Before Anyone Sits Down",
+      "theme": "meetings",
+      "topic": "",
+      "cardCount": 24,
+      "contentVersion": 1,
+      "coverColor": "#243447",
+      "coverIcon": "🪑",
+      "url": "playbooks/playbook-srv-deciding-the-meeting-before-anyone-sits-down.json",
+      "addedAt": "2026-09-14T23:50:17.591Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-14T23:49:08.300Z"
+  "generatedAt": "2026-09-14T23:50:17.591Z"
 }
