@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "id": "srv-cold-room",
+    "version": "1.0",
+    "title": "Cold Room",
+    "subtitle": "How to Read a Room That Has Turned Against You",
+    "description": "12 moves for spotting, diagnosing, and responding when a room goes cold — before it becomes a closed verdict.",
+    "author": "AI",
+    "createdAt": "2026-09-14T19:03:01.422Z",
+    "tags": [
+      "reading rooms",
+      "social intelligence",
+      "negotiation",
+      "influence",
+      "dark psychology"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "🧊",
+    "fromServer": true,
+    "generation": {
+      "topic": "Reading a room that has turned cold on you",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "detection",
+      "label": "Spotting the Cold",
+      "color": "#2C3E50"
+    },
+    {
+      "key": "diagnosis",
+      "label": "Reading Why",
+      "color": "#8E44AD"
+    },
+    {
+      "key": "repair",
+      "label": "Warming the Room",
+      "color": "#C0392B"
+    },
+    {
+      "key": "positioning",
+      "label": "Holding Your Ground",
+      "color": "#2980B9"
+    },
+    {
+      "key": "counter",
+      "label": "Defending Against It",
+      "color": "#27AE60"
+    },
+    {
+      "key": "exit",
+      "label": "Knowing When to Leave",
+      "color": "#E67E22"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "detection",
+      "danger": "moderate",
+      "title": "Spot the Drop Before Anyone Says a Word",
+      "hook": "The room went cold 10 minutes before you noticed. <strong>The signals were already there.</strong>",
+      "truth": "Most people only catch coldness after they've talked into it for five more minutes. That delay is what kills you.\n• Arms cross, eyes drop, nods stop — all before anyone speaks a word.\n• Conversation volume drops or topic shifts the moment you enter or open your mouth.\n• The trap: you fill the silence with more words and confirm their verdict for them.",
+      "principle": "Mehrabian: Nonverbal Dominance",
+      "remember": "The room tells you the truth before anyone opens their mouth.",
+      "theySee": "A person walking into a room where the group stops talking and looks down at their phones.",
+      "signals": [
+        {
+          "l": "Arms crossed",
+          "t": "Two or more people in the room cross their arms within 30 seconds of you starting to speak.",
+          "icon": "🤐"
+        },
+        {
+          "l": "Eyes down",
+          "t": "The person you're addressing looks at their phone or the table instead of at you.",
+          "icon": "👇"
+        },
+        {
+          "l": "One-word reply",
+          "t": "You ask an open question and get a single-word answer from someone who normally talks freely.",
+          "icon": "💬"
+        },
+        {
+          "l": "Topic skip",
+          "t": "Someone steers the conversation elsewhere before you finish your sentence.",
+          "icon": "↪️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Scan before you sit",
+          "desc": "Count crossed arms, downward eyes, and phone faces in the first 20 seconds. Don't guess — count."
+        },
+        {
+          "n": "2",
+          "title": "Say one low-stakes line",
+          "desc": "Watch who responds and who looks away. That's your map of who is still with you."
+        },
+        {
+          "n": "3",
+          "title": "Go quiet for 90 seconds",
+          "desc": "Let the room fill itself. You'll learn more in silence than you will by talking."
+        }
+      ],
+      "script": "\"Before I get into this — is this a good time, or should we push?\"",
+      "counter": "You're being read right now too. A practiced reader scans you before speaking and adjusts mid-sentence.\n• If someone pauses and studies the room before starting, they're mapping it.\n• Vary your response speed — don't let them time your reactions.\n• Break the pattern: ask them a direct question before they finish setting up. A reader loses the map when someone moves unexpectedly.",
+      "insight": "The first drop in engagement is almost never about what you just said — it's about what happened before you walked in. The harder part is figuring out which earlier moment set it off."
+    },
+    {
+      "id": 2,
+      "cat": "detection",
+      "danger": "low",
+      "title": "Fire a Broad Question to Find Who's Still With You",
+      "hook": "You can't warm a room until you know how cold it is — and who it's coldest toward. <strong>A single wide question tells you both.</strong>",
+      "truth": "Broadcast a general, low-stakes question to the group and you instantly get a temperature map. The cold ones stay silent; the warm ones answer.\n• One broad question draws a response from anyone still engaged — it costs them nothing to answer.\n• The people who say nothing or give flat replies show you exactly where the coldness lives.\n• The trap: asking a pointed question to the coldest person first — they'll shut the whole conversation down.",
+      "principle": "Cold Reading: Shotgun Technique",
+      "remember": "Ask a wide question. Watch who answers. Now you know who is still in.",
+      "theySee": "A person asking the whole group a simple question and waiting, watching every face for who moves first.",
+      "signals": [
+        {
+          "l": "Fast answer",
+          "t": "One person answers before everyone else — that's your warm contact in the room.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Group silence",
+          "t": "Nobody volunteers a word for more than 3 seconds after you ask.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Side glance",
+          "t": "Two people look at each other instead of at you when you ask the question.",
+          "icon": "👀"
+        },
+        {
+          "l": "Nod cluster",
+          "t": "A small group nods to each other but not toward you after you speak.",
+          "icon": "🤝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your broadcast question before you walk in",
+          "desc": "Make it open and answerable by anyone: 'What's the one thing you're tracking most closely on this right now?'"
+        },
+        {
+          "n": "2",
+          "title": "Track who answers first",
+          "desc": "Write down or remember which 2-3 people responded first without hesitation. Those are your warm contacts."
+        },
+        {
+          "n": "3",
+          "title": "Address warm contacts directly next",
+          "desc": "Speak your next point toward them by name or eye contact. Use them to pull the room along."
+        }
+      ],
+      "script": "\"Quick question for the group — what's the one thing that's been sitting on your mind about this?\"",
+      "counter": "If someone broadcasts a wide question to a group you're in, they're mapping who's engaged. Don't be the person who answers reflexively — you've just handed them your position.\n• Pause 2 seconds before answering to see who else responds first.\n• Give a short, neutral answer — don't elaborate unless asked.\n• Notice who the questioner makes eye contact with after the responses. That's who they're targeting next.",
+      "insight": "The quietest people after a broad question aren't checked out — they're the most aware. The next question is whether that silence is working for you or against them."
+    },
+    {
+      "id": 3,
+      "cat": "diagnosis",
+      "danger": "high",
+      "title": "Find the One Person Who Turned the Room",
+      "hook": "Rooms don't go cold by themselves. <strong>Someone flipped the switch — and everyone else followed.</strong>",
+      "truth": "Cold rooms almost always have one person who set the temperature. The rest of the group stopped deciding independently and started mirroring them.\n• One person's body language or single word shifts the whole group's response to you.\n• Once the group follows the lead, individuals stop thinking for themselves and wait for the next cue.\n• The trap: trying to fix the whole room without finding the source — you'll spend all your moves on the wrong people.",
+      "principle": "Asch: Conformity Effect",
+      "remember": "One person set the tone. Find them before you work the room.",
+      "theySee": "A person speaking to a group and noticing that everyone else quickly glances at one particular person before they respond.",
+      "signals": [
+        {
+          "l": "Others check one person",
+          "t": "When you speak, two or more people glance at one specific person before they react.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Late nod",
+          "t": "The group only nods or responds after one specific person nods first.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "One person still",
+          "t": "While others make small talk, one person is notably quiet and watching you closely.",
+          "icon": "🧍"
+        },
+        {
+          "l": "Mirrored posture",
+          "t": "Several people in the room sit in the same posture as one person who is leaning back or turned away.",
+          "icon": "🪞"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch who others look at in the first 3 minutes",
+          "desc": "Count which person in the room gets the most quick glances from the rest of the group when you speak."
+        },
+        {
+          "n": "2",
+          "title": "Test your read",
+          "desc": "Make a direct, low-stakes comment to that person. Watch if the room's temperature shifts based on how they respond."
+        },
+        {
+          "n": "3",
+          "title": "Address only them for two minutes",
+          "desc": "Ignore the rest of the room briefly. Direct your content to that one person. The others will follow their lead."
+        }
+      ],
+      "script": "\"I want to make sure I'm hitting what actually matters to you — what's your biggest concern with this right now?\"",
+      "counter": "If someone in a group singles you out with warmth while ignoring others, they've identified you as the person the room follows. Decide if you want that role before you play it.\n• Look around before responding — see if others are waiting on your reaction.\n• Give a short, neutral answer. The room follows whatever energy you return.\n• Ask the room a question instead of answering directly — move the spotlight off yourself.",
+      "insight": "The person who turned the room cold was almost always responding to something you did in an earlier meeting — what you're reading now is a delayed reaction, not a fresh one."
+    },
+    {
+      "id": 4,
+      "cat": "diagnosis",
+      "danger": "moderate",
+      "title": "Separate 'They're Cold to You' from 'They're Cold Today'",
+      "hook": "Not every cold room is about you. <strong>Walking in assuming it is will make you look paranoid and trigger moves you don't need to make.</strong>",
+      "truth": "People blame themselves for a cold room about 80% of the time. Often the room was already flat before you showed up.\n• A group dealing with bad news, a hard morning, or internal stress reads cold for no personal reason.\n• The tell: they're equally flat with each other — not just with you.\n• The trap: adjusting your whole approach to a cold room that has nothing to do with you — you'll look confused and the room will notice.",
+      "principle": "Ross: Fundamental Attribution Error",
+      "remember": "Find out if it is about you or about the day before you change anything.",
+      "theySee": "A person looking around the room and noticing that people are flat with each other, not just with them.",
+      "signals": [
+        {
+          "l": "Flat with each other",
+          "t": "Group members give the same short answers to each other as they give to you.",
+          "icon": "😐"
+        },
+        {
+          "l": "Tight jaw",
+          "t": "Someone in the room has a visibly tight jaw or is staring at the table between conversations.",
+          "icon": "😬"
+        },
+        {
+          "l": "No side talk",
+          "t": "The usual clusters of conversation before the meeting don't happen — people sit down early and quietly.",
+          "icon": "🤫"
+        },
+        {
+          "l": "Phone grip",
+          "t": "Multiple people are holding their phones face-down on the table or gripping them without looking at them.",
+          "icon": "📵"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Test a third party",
+          "desc": "Watch how two people in the room talk to each other — not you. Count their eye contact and nods. If it's the same flatness, it's not personal."
+        },
+        {
+          "n": "2",
+          "title": "Ask a process question, not a personal one",
+          "desc": "'Is there anything I should know about today before we dive in?' signals you're aware without making it about you."
+        },
+        {
+          "n": "3",
+          "title": "Wait 10 minutes before changing your approach",
+          "desc": "Act on a false read and you've wasted your moves. Let the actual temperature show itself first."
+        }
+      ],
+      "script": "\"Is there anything going on I should know about before we dive in?\"",
+      "counter": "Someone who misreads a cold room and over-adjusts toward you gives you a free read. They'll over-explain, apologize unnecessarily, or try too hard. Stay flat and they'll fill the silence themselves.\n• Don't match their energy spike — hold your baseline.\n• Let them talk. They'll keep going.\n• Decide whether to use that information or simply reset their comfort once they've said enough.",
+      "insight": "The bigger risk isn't cold rooms — it's your own pattern of assuming you caused them. That assumption burns moves you need to save for when the cold is actually aimed at you."
+    },
+    {
+      "id": 5,
+      "cat": "repair",
+      "danger": "high",
+      "title": "Name the Cold Before It Names You",
+      "hook": "Silence about obvious tension doesn't make it disappear. <strong>It tells the room you can't handle it.</strong>",
+      "truth": "Naming what's in the room removes its ability to run quietly against you. The room has to respond — and both responses give you new information.\n• A label like 'seems like there's some hesitation here' forces a reaction from anyone in the room.\n• The group either confirms or corrects the label — and either answer tells you where you stand.\n• The trap: framing the label as an accusation — 'you seem upset with me' puts people on the defensive and shuts the read down.",
+      "principle": "Voss: Label",
+      "remember": "Say the tension out loud. People relax when someone names the thing in the room.",
+      "theySee": "A person calmly naming something uncomfortable out loud while everyone else is acting like it isn't there.",
+      "signals": [
+        {
+          "l": "Dead pause",
+          "t": "A question you ask gets a 4-second silence instead of a quick reply.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Eyes break fast",
+          "t": "Multiple people break eye contact immediately after you finish speaking.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Flat agree",
+          "t": "Someone says 'sure' or 'fine' with no follow-up or detail — they're closing off.",
+          "icon": "🙄"
+        },
+        {
+          "l": "Wrong answer",
+          "t": "Someone answers a question you didn't ask — steering away from your actual point.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the label before you use it",
+          "desc": "Draft it now: 'It seems like there might be some hesitation about this.' That's the exact line."
+        },
+        {
+          "n": "2",
+          "title": "Deliver it flat, no upswing at the end",
+          "desc": "Say the label without raising your voice at the end. A rising tone sounds like a question and reads as unsure. A flat tone reads as calm."
+        },
+        {
+          "n": "3",
+          "title": "Stop talking after the label",
+          "desc": "Give the room 5 full seconds to respond. The first person to speak after the label is your clearest read."
+        }
+      ],
+      "script": "\"It seems like there's some hesitation in the room about this — and I want to make sure we're working with the real picture.\"",
+      "counter": "If someone labels your hesitation or coldness, they're running this exact move on you. You don't have to confirm or correct on their schedule.\n• Pause. Don't rush to fill the silence they just made.\n• Give a factual response, not an emotional one: 'I'm still taking in what was just said.'\n• Label back: 'Seems like you're reading something into this' — now you're the one doing the reading.",
+      "insight": "The label works once. Use it twice in the same conversation and the room reads it as fishing for reassurance — which is worse than the original cold."
+    },
+    {
+      "id": 6,
+      "cat": "repair",
+      "danger": "moderate",
+      "title": "Find the One Warm Person and Win the Room Through Them",
+      "hook": "You don't need to thaw the whole room. <strong>You need one person to flip first, and the rest will watch and follow.</strong>",
+      "truth": "Groups stop deciding individually once a tone is set. One warm response from a well-placed person gives everyone else permission to engage again.\n• One person nodding and leaning in signals to the group that it's safe to respond.\n• The room re-reads the situation based on that single person's behavior, not on yours.\n• The trap: targeting the coldest person first — they'll resist and their resistance signals to the group to stay cold.",
+      "principle": "Cialdini: Social Proof",
+      "remember": "Warm one person. The rest watch that person and follow.",
+      "theySee": "A person making direct eye contact with one specific individual in the group and speaking almost entirely to them for two full minutes.",
+      "signals": [
+        {
+          "l": "One nod",
+          "t": "One person in the room is nodding while everyone else sits flat — that's your target.",
+          "icon": "✅"
+        },
+        {
+          "l": "Leans in",
+          "t": "One person shifts their body slightly forward while others stay back and still.",
+          "icon": "⬆️"
+        },
+        {
+          "l": "Follows up",
+          "t": "One person asks you a question without being prompted — they're still engaged.",
+          "icon": "🙋"
+        },
+        {
+          "l": "Eye contact held",
+          "t": "One person holds eye contact with you for more than 2 seconds after you stop speaking.",
+          "icon": "👁️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the warm contact in the first 3 minutes",
+          "desc": "Identify the one person who nods, holds eye contact, or asks an unprompted question. That's your anchor."
+        },
+        {
+          "n": "2",
+          "title": "Speak directly to them for 2 full minutes",
+          "desc": "Address your content toward them by name or direct eye contact. Get a verbal response from them — not just a nod."
+        },
+        {
+          "n": "3",
+          "title": "Expand outward once they've responded twice",
+          "desc": "After two responses from your anchor, glance at the next warmest person. Pull them in with a direct question. Repeat."
+        }
+      ],
+      "script": "\"That's exactly what I was hoping someone would bring up — [Name], let's pull on that.\"",
+      "counter": "If someone is targeting you as their warm anchor in a cold room, they're using you to flip the group. Decide if that's a role you want before you play it fully.\n• Stay warm without becoming their spokesperson — short answers don't commit the room.\n• Watch who tightens up when you engage. Someone in the room may have reason to want it to stay cold.\n• You can stay neutral without going cold — a flat, polite response keeps you out of their move without switching sides.",
+      "insight": "The move that follows is knowing how fast to expand from one warm contact to the full room — go too fast and you lose them both before anyone else commits."
+    },
+    {
+      "id": 7,
+      "cat": "repair",
+      "danger": "moderate",
+      "title": "Give Something Before You Ask for Anything",
+      "hook": "A cold room is already calculating what you want from them. <strong>Change that calculation before you open your mouth.</strong>",
+      "truth": "People in a cold room brace to resist an ask. A genuine give short-circuits the resistance before it builds.\n• Offer real information, credit, or a concession before making your main point.\n• The group re-categorizes you from 'wants something' to 'already gave something' — the posture shifts.\n• The trap: giving something so small or so obvious it reads as tactical — that makes the cold worse, not better.",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Give first. A room that owes you something is easier to win than one that does not.",
+      "theySee": "A person who walks into the room and immediately gives the group something real — credit, useful information, or a concession — before saying anything else.",
+      "signals": [
+        {
+          "l": "Sits forward",
+          "t": "Someone who was leaning back shifts slightly forward right after you give the credit or information.",
+          "icon": "⬆️"
+        },
+        {
+          "l": "First smile",
+          "t": "You spot the first genuine smile in the room immediately after you give something.",
+          "icon": "😊"
+        },
+        {
+          "l": "Note taken",
+          "t": "Someone writes something down or types after you share useful information — they're keeping it.",
+          "icon": "📝"
+        },
+        {
+          "l": "Name repeated",
+          "t": "Someone uses the name you credited or repeats your point back in their next sentence.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Identify the give before you walk in",
+          "desc": "Write one thing you'll open with: a piece of useful information, a public credit, or a concession they weren't expecting."
+        },
+        {
+          "n": "2",
+          "title": "Lead with the give, not after your main point",
+          "desc": "Open with it: 'Before I get into this, I want to acknowledge what [Name]'s team did last week.'"
+        },
+        {
+          "n": "3",
+          "title": "Match the size of the give to how cold the room is",
+          "desc": "A mildly flat room needs a small give. A hostile room needs something real — a public credit, a concession, or an honest admission."
+        }
+      ],
+      "script": "\"Before I say anything else — what [Name]'s team did last week changed my thinking on this, and I want to say that out loud first.\"",
+      "counter": "If someone opens a cold room with a generous credit or give, check whether it's real. A tactical give falls apart when you push on the specifics.\n• Ask one detailed follow-up about what they just credited. A genuine give holds up; a move does not.\n• Don't let the give erase your cold — assess the ask that follows it separately.\n• If the give was real, you owe something in return. Know that before you respond.",
+      "insight": "The size of the give signals how large the ask that follows will be — read that ratio before the ask arrives and you'll negotiate from a stronger position."
+    },
+    {
+      "id": 8,
+      "cat": "positioning",
+      "danger": "high",
+      "title": "Stop Talking When the Room Is Already Against You",
+      "hook": "More words into a cold room don't warm it. <strong>They give it more material to reject.</strong>",
+      "truth": "A cold room treats everything you say as more evidence for its verdict. Silence forces the room to generate its own — and rooms are bad at holding silence.\n• Every extra sentence you produce gives the cold room more to push back against.\n• Silence puts the pressure on the room to fill the gap — they often soften just to do it.\n• The trap: mistaking silence for giving up — silence is the move, not the absence of one.",
+      "principle": "Voss: Strategic Pause",
+      "remember": "When the room is cold, talking more digs you deeper. Stop.",
+      "theySee": "A person who stops mid-point, sets down their notes, and waits for the room to respond without adding another word.",
+      "signals": [
+        {
+          "l": "You're filling",
+          "t": "You notice you've been talking for 3 minutes with no response or question from anyone in the room.",
+          "icon": "🔊"
+        },
+        {
+          "l": "Room checks out",
+          "t": "Two or more people start doing something else — phone, laptop, notes — while you're still talking.",
+          "icon": "📱"
+        },
+        {
+          "l": "Pace goes up",
+          "t": "You catch yourself talking faster than you normally do — that's a panic sign, not a momentum sign.",
+          "icon": "⏩"
+        },
+        {
+          "l": "No pushback",
+          "t": "Nobody objects to anything — not because they agree, but because they've stopped paying attention.",
+          "icon": "🚫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set a 90-second hard stop before you speak",
+          "desc": "Decide: I'll make my main point in 90 seconds, then stop. No bonus material, no follow-up sentences."
+        },
+        {
+          "n": "2",
+          "title": "Name the pause when you hit it",
+          "desc": "After you stop, say: 'I'll leave it there.' Don't fill what comes after. Wait."
+        },
+        {
+          "n": "3",
+          "title": "Count to 7 in your head",
+          "desc": "After your last word, count 7 seconds before speaking again. Most rooms break before you get to 7."
+        }
+      ],
+      "script": "\"I'll leave that there — what's the room's read?\"",
+      "counter": "If someone goes deliberately silent mid-conversation, the silence is a move. They're applying pressure by not filling the space.\n• Don't rush to fill it yourself. Count to 5 before saying anything.\n• Ask a specific direct question. Silence doesn't hold when there's a concrete thing to answer.\n• If the silence runs past 10 seconds, name it: 'Looks like we're both waiting on something.' It breaks the move by making it visible.",
+      "insight": "The hardest part isn't the silence — it's not reading your own silence as failure. The room is doing more useful work in those 7 seconds than you did in the previous 3 minutes."
+    },
+    {
+      "id": 9,
+      "cat": "positioning",
+      "danger": "moderate",
+      "title": "Don't Outperform a Cold Room — Match Down First",
+      "hook": "Going harder when the room is cold looks desperate. <strong>It confirms the room's read before you've said anything real.</strong>",
+      "truth": "A cold room reads high energy as a signal that you're unaware or scared. Low and steady reads as confident and in control.\n• A calm, lower-energy delivery makes the cold room look like the one overreacting.\n• Once you're slightly below their energy, any warmth you bring feels like an upgrade to them.\n• The trap: matching down so long you stay there — you have to start the lift at some point or you've lost the room permanently.",
+      "principle": "NLP: Pacing and Leading",
+      "remember": "Match the room's energy first. Then lift it. Never the other way.",
+      "theySee": "A person who walks into a quiet, tense room and speaks softly and slowly instead of trying to fill the space with energy.",
+      "signals": [
+        {
+          "l": "Voice going up",
+          "t": "You hear yourself getting louder to compensate for the lack of response — that's the wrong move.",
+          "icon": "📢"
+        },
+        {
+          "l": "Adding material",
+          "t": "You're adding points you didn't plan to add because the room isn't reacting to your planned ones.",
+          "icon": "📄"
+        },
+        {
+          "l": "Faster movement",
+          "t": "You move around the room or shift in your seat more than you normally would when you feel settled.",
+          "icon": "🏃"
+        },
+        {
+          "l": "Bigger gestures",
+          "t": "Your hand movements are wider and faster than they are when you feel confident and grounded.",
+          "icon": "🙌"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Cut your opening energy by 30% before you enter",
+          "desc": "Decide: speak slower than planned, pause more, use less gesture. Start there and hold it for 5 minutes."
+        },
+        {
+          "n": "2",
+          "title": "Match their body posture for the first few minutes",
+          "desc": "If the room is leaning back, don't lean in. Sit back. You're at their level now, not above it."
+        },
+        {
+          "n": "3",
+          "title": "Introduce one small lift",
+          "desc": "After 5 minutes of matching, try one warmer tone or a short direct question. Watch if the room follows. If it does, lift again."
+        }
+      ],
+      "script": "\"I'll keep this short and direct — here's the one thing I want you to take from this conversation.\"",
+      "counter": "If someone walks into a cold room and immediately drops their energy low and moves slowly, they know exactly what they're doing. They're running a calibration move on the room.\n• Don't let their calm pull you into filling the space with energy — that's what they're waiting for.\n• Wait for their ask before you decide how warm to be.\n• Their patience is a tactic with a time limit. It ends the moment they make their move.",
+      "insight": "The lift has to start somewhere — knowing the exact moment to shift from matching to leading is harder than the match itself, and getting it wrong undoes all of it."
+    },
+    {
+      "id": 10,
+      "cat": "counter",
+      "danger": "extreme",
+      "title": "Recognize When the Cold Room Was Built for You",
+      "hook": "Some cold rooms happen by accident. <strong>Others are built on purpose — to make you smaller before you ask for something.</strong>",
+      "truth": "A deliberately cold room is a negotiating move. The discomfort is the point — and your reaction to it tells them more than your words do.\n• An engineered cold drains your confidence and reads your stress responses before you've made any ask.\n• The person who built the cold watches your reactions more carefully than they listen to your words.\n• The trap: trying to warm a room that someone decided should stay cold — you're performing for an audience that already chose not to respond.",
+      "principle": "Greene: Law 33 — Find Each Man's Thumbscrew",
+      "remember": "A room that is cold on purpose wants you rattled. Do not give them that.",
+      "theySee": "A person walking into a room where no one looks up, no seat is offered, and a conversation was clearly going without them.",
+      "signals": [
+        {
+          "l": "No greeting",
+          "t": "Nobody in the room acknowledges you when you enter — including people who know you well.",
+          "icon": "🚪"
+        },
+        {
+          "l": "Seat taken",
+          "t": "The seat you'd normally take is occupied, or the open seat is in an awkward position.",
+          "icon": "🪑"
+        },
+        {
+          "l": "Mid-conversation",
+          "t": "Others are already deep in a discussion and make no move to include you or pause for you.",
+          "icon": "💬"
+        },
+        {
+          "l": "Visible clock check",
+          "t": "Someone checks the time or their phone visibly right after you start speaking.",
+          "icon": "⏰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name what's happening to yourself before you react",
+          "desc": "Tell yourself silently: 'This room was set up this way.' Hold that thought. You're not imagining it."
+        },
+        {
+          "n": "2",
+          "title": "Slow everything down deliberately",
+          "desc": "Speak slower than planned. Move deliberately. Take your seat without rushing. Show zero discomfort."
+        },
+        {
+          "n": "3",
+          "title": "Wait for them to make the first move",
+          "desc": "Don't work to warm a room someone decided should stay cold. Let them move. You respond from there, not from panic."
+        }
+      ],
+      "script": "\"I'm going to take a moment before we start — I want to make sure I have the full picture of what's on the table today.\"",
+      "counter": "If you're the one engineering a cold room, understand what a well-read target sees in the first 2 minutes.\n• A target who stays calm and slows down has spotted the move. You've already lost the upper hand.\n• If they wait for you to act instead of adjusting to you, they're running Card 8 on you right now.\n• A deliberately cold room only works on someone who can't name it. If they name it, you have nothing left.",
+      "insight": "The move that follows identifying an engineered cold isn't repair — it's defense and then your own counter. Repair is the wrong instinct here."
+    },
+    {
+      "id": 11,
+      "cat": "exit",
+      "danger": "extreme",
+      "title": "Know Which Cold Rooms Can't Be Recovered",
+      "hook": "Some rooms are closed before you arrived. <strong>Staying and working them costs you more than leaving cleanly.</strong>",
+      "truth": "Trying to warm a room with a fixed verdict burns your options and tells the room you don't know when to stop.\n• A room that has already decided stops giving you real signals — they just wait you out.\n• Every extra minute you stay raises how much you've put in and lowers your position.\n• Leaving with a clean, clear statement is a stronger move than staying and losing ground slowly.",
+      "principle": "Kahneman: Sunk-Cost Effect",
+      "remember": "Some rooms are already decided. Knowing that early saves your time and your face.",
+      "theySee": "A person who reads the room for 5 minutes, makes one clear statement, and ends the meeting themselves before being shown the door.",
+      "signals": [
+        {
+          "l": "Fixed posture",
+          "t": "Nobody in the room has shifted their body position in 10 minutes — they've decided and are waiting you out.",
+          "icon": "🪨"
+        },
+        {
+          "l": "Surface agree",
+          "t": "Every point you make gets a nod with zero follow-up questions — they're moving you along, not engaging.",
+          "icon": "🙂"
+        },
+        {
+          "l": "Door watch",
+          "t": "The person at the head of the table keeps glancing at the door or the clock.",
+          "icon": "🚪"
+        },
+        {
+          "l": "No notes",
+          "t": "Nobody in the room is writing anything down or opening anything on their device.",
+          "icon": "📓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set your final read at the 10-minute mark",
+          "desc": "After 10 minutes, decide: is the room opening or holding closed? If it's the same or colder, the next move is your last one."
+        },
+        {
+          "n": "2",
+          "title": "Make one final, clean statement",
+          "desc": "Say the clearest version of your position in two sentences. Don't argue it. Just state it."
+        },
+        {
+          "n": "3",
+          "title": "End it yourself before they do",
+          "desc": "'I think we've covered what's useful today — I'll follow up with the next step from my side.' Leave first."
+        }
+      ],
+      "script": "\"I think we've gotten to the useful part of this conversation — I'll send you what the next step looks like from my side.\"",
+      "counter": "If someone walks out of a room you built to be cold, they've read you. The walk-out is a message, not a concession.\n• Do not call them back. Calling them back reverses everything.\n• If you needed them in the room, the engineering failed — adjust what you're bringing to the next conversation.\n• They now have more time and more information than you. Move fast.",
+      "insight": "The room that can't be recovered isn't a failure — it's information about what they decided before you arrived. The question is what you do with that before the next time you're in a room with the same people."
+    },
+    {
+      "id": 12,
+      "cat": "repair",
+      "danger": "moderate",
+      "title": "Reset the Room with One Concrete Offer",
+      "hook": "Abstract arguments don't break a cold room. <strong>A specific, named offer forces it to respond.</strong>",
+      "truth": "Cold rooms stay cold on ideas. They have no choice but to respond to a specific, named offer with a number, a date, or a name attached.\n• A concrete offer — a date, a number, an action — forces the room to decide rather than drift.\n• Once one person responds to the specifics, the wall breaks — others follow because now there's something real to react to.\n• The trap: offering something so vague it still requires interpretation — the room stays cold and you look like you don't know what you want.",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "A concrete offer forces a response. Vague arguments let a cold room keep ignoring you.",
+      "theySee": "A person who stops making general arguments and puts a specific proposal on the table with a date and a contact name attached.",
+      "signals": [
+        {
+          "l": "Leans in",
+          "t": "Someone who was leaning back shifts forward after you name the specific offer — they're now evaluating it.",
+          "icon": "⬆️"
+        },
+        {
+          "l": "Question asked",
+          "t": "Someone asks a clarifying question about the specifics — that's engagement, not resistance.",
+          "icon": "❓"
+        },
+        {
+          "l": "Counter offered",
+          "t": "Someone offers a different number, name, or date — the cold just broke and there's a real conversation now.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Writing starts",
+          "t": "One person opens a notebook or begins typing — they're capturing the offer.",
+          "icon": "✍️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your specific offer before the meeting",
+          "desc": "One sentence: 'I'm proposing [X] by [date], with [Name] as the point of contact.' Build the offer before you walk in."
+        },
+        {
+          "n": "2",
+          "title": "Put it on the table when engagement drops",
+          "desc": "When the room goes flat mid-conversation, stop making arguments. Put the offer out."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a specific response, not a general reaction",
+          "desc": "'Can you work with this, or is there one specific thing you'd change?' Forces a real answer instead of a polite nothing."
+        }
+      ],
+      "script": "\"Here's what I'm actually proposing: [X] by [date], with [Name] running point. What would you need to change for that to work?\"",
+      "counter": "If someone drops a specific offer into a cold room, they're forcing you to engage on their terms and their timeline. You don't have to.\n• Ask one clarifying question — not an objection — to slow the pace without rejecting the offer.\n• Say 'I need to check one thing before I respond to the specifics' — you buy 24 hours without saying no.\n• A concrete offer is built to get your commitment fast. Making them wait one day is a counter-move, not a delay.",
+      "insight": "The offer that breaks a cold room creates a commitment — and now you have to follow through faster than you planned, or the cold comes back harder the second time."
+    }
+  ]
+}
