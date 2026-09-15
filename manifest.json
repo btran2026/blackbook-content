@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 75,
+  "manifestVersion": 76,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -637,7 +637,20 @@
       "url": "playbooks/playbook-srv-reading-a-candidate-who-rehearsed-every-answer.json",
       "addedAt": "2026-09-15T23:12:12.417Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-only-no-in-the-room",
+      "title": "The Only No in the Room",
+      "theme": "dissent",
+      "topic": "",
+      "cardCount": 8,
+      "contentVersion": 1,
+      "coverColor": "#7a1f2b",
+      "coverIcon": "🛑",
+      "url": "playbooks/playbook-srv-the-only-no-in-the-room.json",
+      "addedAt": "2026-09-15T23:18:24.978Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-15T23:12:12.417Z"
+  "generatedAt": "2026-09-15T23:18:24.978Z"
 }
