@@ -1,0 +1,1218 @@
+{
+  "meta": {
+    "id": "srv-defending-your-budget-when-the-cuts-come",
+    "version": "1.0",
+    "title": "Defending Your Budget When the Cuts Come",
+    "subtitle": "Twenty moves for the quarter your number gets a target on it",
+    "description": "Finance does not cut what it cannot see and cannot cut what it is afraid to break. This is the field file on reading the cut before the memo, wiring your protectors early, controlling the scenario math, and surviving the number after it lands.",
+    "author": "AI",
+    "createdAt": "2026-09-11T21:53:45.074Z",
+    "tags": [
+      "budget",
+      "corporate politics",
+      "finance",
+      "survival",
+      "negotiation",
+      "power"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#8B1E2D",
+    "coverIcon": "🩸",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "signals",
+      "label": "Reading the Signals Before the Memo",
+      "color": "#B4472E"
+    },
+    {
+      "key": "prewire",
+      "label": "Pre-Wiring Your Protectors",
+      "color": "#3E6E8C"
+    },
+    {
+      "key": "scenario",
+      "label": "The Scenario Request",
+      "color": "#6B4E9E"
+    },
+    {
+      "key": "naming",
+      "label": "Naming What Dies",
+      "color": "#8B1E2D"
+    },
+    {
+      "key": "aiming",
+      "label": "Aiming the Cut Elsewhere",
+      "color": "#2F6B4F"
+    },
+    {
+      "key": "after",
+      "label": "After the Number Lands",
+      "color": "#7A6A2F"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "signals",
+      "danger": "low",
+      "title": "Watch Finance's Calendar, Not Your Boss's Mood",
+      "principle": "Sun Tzu: Know the Ground Before the Battle",
+      "remember": "The cut has a date. Find the date before the memo.",
+      "when": "You hear a rumor about cuts but nobody will confirm anything.",
+      "hook": "Cuts are not weather. They run on a calendar you can look up. <strong>The memo is the last step, not the first.</strong>",
+      "truth": "Finance builds the cut six to ten weeks before anyone tells you.\n• The planning calendar leaks the date even when people stay quiet.\n• Once you know the date, every meeting before it becomes a chance to move.\n• Most people wait for the announcement. By then the numbers are typed.",
+      "theySee": "A manager asking the finance analyst a boring scheduling question over coffee.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Calendar pull-in",
+          "t": "They move the planning kickoff two weeks earlier than last year"
+        },
+        {
+          "icon": "📊",
+          "l": "New template",
+          "t": "Finance sends a new budget template with a scenario column"
+        },
+        {
+          "icon": "🔒",
+          "l": "Hiring pause",
+          "t": "Open roles stop getting approved but nobody calls it a freeze"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Odd invite",
+          "t": "Your boss gets a recurring meeting you are not on"
+        },
+        {
+          "icon": "💬",
+          "l": "Vendor delay",
+          "t": "Procurement slows down on renewals they normally rubber-stamp"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask finance for the planning dates",
+          "desc": "Email the analyst who owns your cost center. Ask for the submission deadline and the review dates."
+        },
+        {
+          "n": "2",
+          "title": "Mark the two weeks before submission",
+          "desc": "Block those days. That is when the real decisions get made, not in the review."
+        },
+        {
+          "n": "3",
+          "title": "Check last year's dates",
+          "desc": "Pull last year's planning emails. Compare. If this year is earlier, the cut is bigger."
+        }
+      ],
+      "script": "\"Quick one — what's the submission deadline for FY planning, and when does the leadership review happen? <strong>I want to have my numbers clean before you need them, not after.</strong>\"",
+      "watchFor": "The analyst gives you the dates and adds a detail nobody asked for, like \"they want two scenarios this year.\"",
+      "example": "Priya heard the cut rumor in March. Instead of asking her boss, she emailed the finance analyst about submission dates. The reply said April 18, with a note about a new 15% scenario tab. She had five weeks nobody else knew they had.",
+      "ifItFails": "The analyst stalls or says they cannot share. Do not push them. Go sideways: ask a peer in another department to forward you the planning email they got. Say: \"Can you forward me whatever finance sent you on planning dates? I think mine went to the wrong alias.\"",
+      "counter": "If someone asks you for your planning dates, they are mapping your timeline.\n• Notice who wants dates but never asks about content.\n• Say: \"Dates are moving. What are you trying to line up?\"\n• Give them the public date, keep the internal review date to yourself.",
+      "insight": "Knowing the date does not save your budget. It only buys you the weeks where the number is still soft. The harder part is what you put into those weeks."
+    },
+    {
+      "id": 2,
+      "cat": "signals",
+      "danger": "low",
+      "title": "Count Who Got Invited to the Pre-Read",
+      "principle": "Status Asymmetry",
+      "remember": "The people in the pre-read decide. Everyone else reacts.",
+      "when": "A budget review is on the calendar and you were invited to the main meeting only.",
+      "hook": "The decision happens in a 30-minute pre-read with four people. <strong>The big meeting is theater.</strong>",
+      "truth": "Every cut has two meetings. You were invited to the wrong one.\n• The pre-read sets the number. The review announces it.\n• If you are not in the pre-read, you argue against a number already agreed.\n• Getting into the pre-read matters more than anything you would say in it.",
+      "theySee": "A team lead offering to send materials early so the meeting runs faster.",
+      "signals": [
+        {
+          "icon": "📧",
+          "l": "Deck goes early",
+          "t": "Your boss asks for your slides four days before the meeting"
+        },
+        {
+          "icon": "👥",
+          "l": "Small invite",
+          "t": "You see a 30-minute meeting on a shared calendar with three leaders only"
+        },
+        {
+          "icon": "🤐",
+          "l": "Pre-agreed tone",
+          "t": "People in the big meeting already know what the slide says"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Short review",
+          "t": "A 60-minute budget review ends in 20 minutes with no debate"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask your boss who sees the numbers first",
+          "desc": "Say you want to know the reading order so your slides land right. The answer names the pre-read group."
+        },
+        {
+          "n": "2",
+          "title": "Offer to walk them through it",
+          "desc": "Ask for 15 minutes with the pre-read owner before the deck goes out. Frame it as saving their time."
+        },
+        {
+          "n": "3",
+          "title": "Send a one-page summary early",
+          "desc": "If you cannot get in the room, get your page in the room. One page, three numbers, no appendix."
+        }
+      ],
+      "script": "\"Before this goes into the pre-read — <strong>can I take 15 minutes to walk you through the two numbers people always ask about?</strong> Saves you defending my math in the room.\"",
+      "watchFor": "They move the 15 minutes onto the calendar themselves instead of telling you to send it by email.",
+      "example": "Dev noticed the review always ended early. He asked his director who read the deck first. It was the CFO's chief of staff. Dev got 15 minutes with her the Tuesday before. His line item came out of the review untouched.",
+      "ifItFails": "They tell you there is no pre-read, or they refuse the 15 minutes. Stop asking for the room and buy an advocate inside it. Send the one-pager to the person you know attends, with: \"You'll see my section Thursday. Here's the 30-second version so you're not guessing.\"",
+      "counter": "If someone asks you for a pre-read slot, they want to set the number before the room sees it.\n• Notice when the ask arrives days before the meeting.\n• Say: \"Send me the page. I'll read it, no meeting.\"\n• Keep your reaction for the room where others can hear it.",
+      "insight": "Getting into the pre-read is the whole game in most companies. This works until you get in and realize the number was set a level above that, too."
+    },
+    {
+      "id": 3,
+      "cat": "signals",
+      "danger": "moderate",
+      "title": "Read the Vendor Renewals Before You Read the Rumors",
+      "principle": "Machiavelli: Judge by Actions, Not Words",
+      "remember": "Money moves before mouths do. Watch the contracts.",
+      "when": "Leadership says everything is fine but something feels off.",
+      "hook": "Leaders lie about cuts. Contracts do not. <strong>Procurement knows before you do.</strong>",
+      "truth": "The first sign of a cut is a renewal that does not get signed.\n• Finance slows contract approvals weeks before any announcement.\n• Vendors tell you the truth because they want their renewal.\n• Most people watch headcount. Contracts move first and move quietly.",
+      "theySee": "A manager checking in with a vendor rep about renewal timing, like normal account hygiene.",
+      "signals": [
+        {
+          "icon": "📝",
+          "l": "Renewal stall",
+          "t": "A routine renewal sits in approval for three weeks"
+        },
+        {
+          "icon": "📉",
+          "l": "Shorter terms",
+          "t": "Finance pushes a one-year deal where you had three years"
+        },
+        {
+          "icon": "🧾",
+          "l": "PO splitting",
+          "t": "They ask you to split a purchase order into quarters"
+        },
+        {
+          "icon": "📞",
+          "l": "Vendor anxiety",
+          "t": "Your vendor rep calls to ask if anything changed on your side"
+        },
+        {
+          "icon": "🚫",
+          "l": "New spend block",
+          "t": "Any new spend now needs a VP signature it never needed"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List your renewals for the next six months",
+          "desc": "Write the dates and dollar amounts. Five minutes with your contracts folder."
+        },
+        {
+          "n": "2",
+          "title": "Call the rep on the biggest one",
+          "desc": "Ask where the paperwork is sitting. They will tell you exactly which desk it stopped at."
+        },
+        {
+          "n": "3",
+          "title": "Ask procurement one question",
+          "desc": "Ask if approval thresholds changed this quarter. A yes means the cut is already in motion."
+        }
+      ],
+      "script": "\"Has the approval threshold moved this quarter? <strong>I want to know before I send you something that sits for a month.</strong>\"",
+      "watchFor": "Procurement answers with a number instead of a no, and adds when it changed.",
+      "example": "Tomas saw his analytics renewal sit unsigned for 18 days. He called the rep, who said it was stuck with the controller. Tomas asked procurement about thresholds. They had dropped from $50K to $10K nine days earlier. He restructured his ask before the memo went out.",
+      "ifItFails": "Procurement gives you a flat no comment. Do not escalate, that marks you. Test it instead: submit a small routine purchase and time how long it takes. If a $3K item takes two weeks, you have your answer without asking anyone. Then tell your boss: \"Routine approvals are running two weeks. Is planning pulling in?\"",
+      "counter": "If someone keeps asking you about approval thresholds, they are reading your cut timeline.\n• Notice the question wrapped inside a friendly process chat.\n• Say: \"Thresholds are the same for you. Why, what are you sizing?\"\n• Answer about their spend, never about the policy change.",
+      "insight": "Contract signals tell you the cut is coming, not how big. The next question is who inside your company already knows the size, and what they want from you."
+    },
+    {
+      "id": 4,
+      "cat": "signals",
+      "danger": "moderate",
+      "title": "Find Out Whether This Is a Trim or a Kill",
+      "principle": "Sun Tzu: Know the Enemy's Intention",
+      "remember": "A trim wants your list. A kill wants your org chart.",
+      "when": "Your boss asks you to \"find some savings\" without naming a number.",
+      "hook": "A 5% trim and a 30% kill need opposite moves. <strong>Guess wrong and you hand them the wrong thing.</strong>",
+      "truth": "The size of the ask tells you which game you are in.\n• A trim is a list exercise. Finance wants line items to strike.\n• A kill is a structure exercise. They want to delete a function.\n• If you hand over a neat list during a kill, you just wrote your own obituary.",
+      "theySee": "A direct report asking a sensible planning question about the size of the target.",
+      "signals": [
+        {
+          "icon": "🔢",
+          "l": "No number given",
+          "t": "They ask for savings but refuse to name a percent"
+        },
+        {
+          "icon": "🏗️",
+          "l": "Structure questions",
+          "t": "They ask how many people report into each function, not what things cost"
+        },
+        {
+          "icon": "🧩",
+          "l": "Scope creep",
+          "t": "The ask expands from your team to the whole department in a week"
+        },
+        {
+          "icon": "👤",
+          "l": "HR sits in",
+          "t": "An HR partner joins a meeting that is about spend"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the percent out loud",
+          "desc": "Say you will build the list either way, but the shape depends on the size."
+        },
+        {
+          "n": "2",
+          "title": "Watch for org-chart questions",
+          "desc": "If they ask about reporting lines and spans, this is structure, not spend."
+        },
+        {
+          "n": "3",
+          "title": "Name your floor early",
+          "desc": "Tell them the number below which the function stops working. Say it once, in a calm voice."
+        }
+      ],
+      "script": "\"I'll build it either way. <strong>But five percent and twenty-five percent are two different exercises — five is a list, twenty-five is a redesign.</strong> Which one am I building?\"",
+      "watchFor": "They stop giving vague answers and give you a range, even a soft one.",
+      "example": "Karen's VP asked for savings with no number. She asked whether it was a list or a redesign. He paused and said \"closer to a redesign.\" She stopped writing her line-item list and spent the week building a case for which function survived. Her team kept nine of eleven roles.",
+      "ifItFails": "They refuse to name a size and say \"just bring options.\" Force the shape with math instead of asking again. Send three tiers with what breaks at each and let their pick tell you the size. Write: \"Here's 5, 15 and 25 percent with what stops at each. Tell me which one to build out.\"",
+      "counter": "If your boss asks for savings with no number, they may be hiding a kill.\n• Notice questions about headcount inside a conversation about spend.\n• Say: \"Is this about cost or about structure? I'll build either.\"\n• Do not volunteer your org chart until someone asks for it in writing.",
+      "insight": "Most people spend a kill week optimizing a trim. Do not run this on a boss who already told you the number and just wants the list — asking twice reads as stalling."
+    },
+    {
+      "id": 5,
+      "cat": "prewire",
+      "danger": "moderate",
+      "title": "Get Three People Outside Your Team to Depend on Your Budget",
+      "principle": "Greene: Law 11 — Learn to Keep People Dependent on You",
+      "remember": "A budget that only serves you is easy to cut.",
+      "when": "Your line item only shows up in your own team's results.",
+      "hook": "Finance cuts what one team uses. <strong>They flinch at what three teams need.</strong>",
+      "truth": "Cuts follow the blast radius, and they measure it before they swing.\n• Spend that serves one team has a blast radius of one.\n• Spend three teams depend on means three leaders complain at once.\n• Build the dependency months early. Building it during the cut looks like a stunt.",
+      "theySee": "A colleague offering to run their report for free on an existing tool.",
+      "signals": [
+        {
+          "icon": "🔗",
+          "l": "Single-team tag",
+          "t": "Your cost center is the only one listed on the contract"
+        },
+        {
+          "icon": "🙋",
+          "l": "No outside users",
+          "t": "Nobody outside your team has logged into the tool this quarter"
+        },
+        {
+          "icon": "📋",
+          "l": "Cut list order",
+          "t": "Your item appears above shared tools on the draft cut list"
+        },
+        {
+          "icon": "🤷",
+          "l": "Quiet defenders",
+          "t": "Nobody outside your team mentions your work in reviews"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick three teams who need what you have",
+          "desc": "Choose leaders with more political weight than you. Not peers, people above your line."
+        },
+        {
+          "n": "2",
+          "title": "Give them something running this month",
+          "desc": "A dashboard, a data feed, a weekly report. Something that breaks visibly when it stops."
+        },
+        {
+          "n": "3",
+          "title": "Put their name on the cost line",
+          "desc": "Ask finance to split the cost center or tag their team as a user. Get it in the system."
+        }
+      ],
+      "script": "\"I can run your weekly numbers off the platform we already pay for. <strong>Takes me twenty minutes, saves you a headcount ask.</strong> Want me to set it up?\"",
+      "watchFor": "Their team starts asking you directly when a report is late, without going through their boss.",
+      "example": "Marcus gave the sales ops lead a free weekly pipeline feed off his data tool. Four months later finance flagged the tool for the cut list. Sales ops emailed the CFO before Marcus even saw the list. The line survived at full value.",
+      "ifItFails": "They take the report and still stay quiet when the cut lands. Stop giving and start showing the gap. Turn the report off for one cycle with notice, in writing: \"Heads up — the feed pauses next week while we sort funding. Tell me if that breaks anything on your side.\"",
+      "counter": "If someone offers you a free service off their budget, they are buying a defender.\n• Notice the offer that costs them nothing and ties you in.\n• Say: \"Happy to use it. I'm not signing up to defend it.\"\n• Keep a backup you control so you never argue for their line.",
+      "insight": "Dependency protects the line but chains you to the work. This fails badly if the three teams are all in the same org getting cut together."
+    },
+    {
+      "id": 6,
+      "cat": "prewire",
+      "danger": "moderate",
+      "title": "Give Your Finance Partner a Win Before You Need One",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Help finance look good in March. Ask in September.",
+      "when": "You only talk to your finance analyst when you want something approved.",
+      "hook": "Your finance partner has a boss, a deadline and a reputation. <strong>Nobody ever helps them with any of it.</strong>",
+      "truth": "Finance analysts choose which line items they fight for. That choice is personal.\n• Give them clean numbers early and you make their job easy.\n• They repay it by warning you before the list goes out.\n• Most people treat finance as a gate. Finance remembers who did.",
+      "theySee": "A business lead who sends their forecast two days early with the variances already explained.",
+      "signals": [
+        {
+          "icon": "📨",
+          "l": "Late everyone else",
+          "t": "Your analyst chases four other teams for numbers every month"
+        },
+        {
+          "icon": "😤",
+          "l": "Visible stress",
+          "t": "They mention their own deadline in a meeting about yours"
+        },
+        {
+          "icon": "🔍",
+          "l": "Variance hunt",
+          "t": "They ask the same explanation question three months running"
+        },
+        {
+          "icon": "🤝",
+          "l": "Warm signal",
+          "t": "They start copying you on drafts before they go out"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send your numbers two days early",
+          "desc": "Not the day of. Two days. It changes their whole week and they notice."
+        },
+        {
+          "n": "2",
+          "title": "Explain the variance before they ask",
+          "desc": "One line per item. Say what moved and why. Save them the chase."
+        },
+        {
+          "n": "3",
+          "title": "Ask what makes their life hard",
+          "desc": "One question, once. Then fix one of the things they say."
+        }
+      ],
+      "script": "\"Numbers are in two days early, variances explained at the bottom so you don't have to chase me. <strong>What else makes your close painful? I'll fix my part of it.</strong>\"",
+      "watchFor": "They send you a draft list or a heads-up email before it becomes official.",
+      "example": "Ana sent clean forecasts early for two quarters and fixed a coding error that had annoyed her analyst for a year. In October the analyst texted her: \"Your travel line is on the draft. Move it before Friday.\" Ana moved it into a project code. It survived.",
+      "ifItFails": "They take the help and stay strictly by the book. Shift from favors to shared risk. Ask them to co-own the forecast accuracy number in front of their boss: \"Can we present the variance story together next month? It's your data and my explanation — lands better from both of us.\"",
+      "counter": "If a colleague suddenly sends you perfect early numbers, they are buying a future favor.\n• Notice help arriving right before planning season.\n• Say: \"Appreciated. I still can't tell you what's on the list.\"\n• Take the help, keep the rules, and say the rule out loud once.",
+      "insight": "An analyst warning you is worth more than a VP promising you. The harder part is that they can only warn you once before it costs them their job."
+    },
+    {
+      "id": 7,
+      "cat": "prewire",
+      "danger": "high",
+      "title": "Line Up the Customer Who Will Complain for You",
+      "principle": "Greene: Law 7 — Get Others to Do the Work",
+      "remember": "Find who screams if your budget dies. Tell them early.",
+      "when": "Your spend directly supports an external customer or a revenue team.",
+      "hook": "Your complaint is a cost argument. Their complaint is a revenue emergency. <strong>Only one of those stops a cut.</strong>",
+      "truth": "Internal arguments lose to spreadsheets. Outside pressure does not.\n• Find the customer, partner or revenue leader who feels the loss first.\n• Tell them the risk before the decision, not after.\n• They escalate on their own timeline. You never have to say a word.",
+      "theySee": "A vendor manager giving a client an honest early warning about a service risk.",
+      "signals": [
+        {
+          "icon": "💰",
+          "l": "Revenue tie",
+          "t": "Your spend appears in a customer contract or an SLA"
+        },
+        {
+          "icon": "📣",
+          "l": "Loud account",
+          "t": "One client already escalates fast when anything slips"
+        },
+        {
+          "icon": "🧨",
+          "l": "Named risk",
+          "t": "Your item shows up in a risk register nobody wants to own"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Sales dependency",
+          "t": "The sales team demos something your budget pays for"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the one who feels it first",
+          "desc": "Write down the single account or revenue leader who notices within a week."
+        },
+        {
+          "n": "2",
+          "title": "Tell them the risk in plain words",
+          "desc": "No drama. One sentence about what may change and when the decision lands."
+        },
+        {
+          "n": "3",
+          "title": "Give them the date",
+          "desc": "Tell them when the decision gets made. People escalate when they know a clock exists."
+        }
+      ],
+      "script": "\"Heads up before you hear it elsewhere — <strong>the funding for your onboarding support is on the review list, decision lands the 18th.</strong> If that service matters to your renewal, the person to talk to is Dana.\"",
+      "watchFor": "The customer emails your leadership directly, and your name is not in the email.",
+      "example": "Leo told his biggest account that their dedicated support hours were under review, and gave the date. Two days later the account's VP emailed Leo's CRO about renewal risk. The funding was restored before the review meeting happened.",
+      "ifItFails": "The customer shrugs or stays quiet. You have spent the card, so stop pushing the customer and take the risk in writing to your own leadership. Send: \"I told the account the service is under review. They haven't escalated yet. If we cut it, I need the renewal risk logged with my name off it.\"",
+      "counter": "If a vendor warns you their service is at risk, they are recruiting you as their escalation.\n• Notice the warning that comes with a decision date attached.\n• Say: \"Send me what actually changes. I'll decide if I escalate.\"\n• Do not escalate on their timeline. Escalate on yours or not at all.",
+      "insight": "Outside pressure works once and leaves fingerprints. Do not run this if your leadership can trace the leak back to you — and in a small account team, they always can."
+    },
+    {
+      "id": 8,
+      "cat": "prewire",
+      "danger": "moderate",
+      "title": "Move Your Spend Into a Named Project Before Planning",
+      "principle": "Sunk-Cost Anchoring",
+      "remember": "Loose line items die. Named projects have to be cancelled.",
+      "when": "Your spend sits in a general bucket like tools, travel or contractors.",
+      "hook": "Nobody has to explain deleting a line called \"software, misc.\" <strong>Someone has to explain killing Project Atlas.</strong>",
+      "truth": "A cut list is a list of names, and some names are harder to say out loud.\n• Loose buckets get struck with no conversation and no owner.\n• Named projects require a person to cancel them in front of others.\n• Do this before planning opens. Doing it during looks like hiding money.",
+      "theySee": "A manager cleaning up cost coding so reporting gets more accurate.",
+      "signals": [
+        {
+          "icon": "🗑️",
+          "l": "Misc buckets",
+          "t": "Your costs sit under a generic code with no project name"
+        },
+        {
+          "icon": "❓",
+          "l": "No owner",
+          "t": "Nobody's name appears next to the spend in the system"
+        },
+        {
+          "icon": "📑",
+          "l": "Easy strike",
+          "t": "Last year's cut list was all generic line items"
+        },
+        {
+          "icon": "🏷️",
+          "l": "Tag request",
+          "t": "Finance asks everyone to tag spend to initiatives this year"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List every loose line you own",
+          "desc": "Pull the ledger. Mark every item with no project name attached."
+        },
+        {
+          "n": "2",
+          "title": "Attach each one to a funded initiative",
+          "desc": "Use an initiative leadership already approved. Do not invent a new one."
+        },
+        {
+          "n": "3",
+          "title": "Email finance the mapping",
+          "desc": "One email, one table, old code to new project. Ask them to confirm in writing."
+        }
+      ],
+      "script": "\"I'm re-coding my spend so reporting matches the initiatives we committed to. <strong>The tooling line moves under Atlas, travel moves under the partner program.</strong> Can you confirm the mapping is live before submission?\"",
+      "watchFor": "Finance confirms the new codes in writing and the items show up under project names in the next report.",
+      "example": "Wen had $240K sitting in \"contractor, misc.\" In February she remapped it under the compliance program the board had approved. In the June cut, the reviewer skipped it and struck two generic lines from another team instead.",
+      "ifItFails": "Finance rejects the remap or calls it cost shuffling. Do not argue coding, argue accuracy. Offer the reverse trade: \"Then I'll report it both ways — the code stays, but every deck shows it under Atlas so the review knows what it funds.\"",
+      "counter": "If a peer suddenly remaps spend into a named program, they are armoring it before planning.\n• Notice code changes that happen weeks before submission.\n• Say: \"Show me the before and after. I want both views.\"\n• Ask for the old view in every review so the real number stays visible.",
+      "insight": "Naming buys you one review cycle, not immunity. Do not try this after the cut list is drafted — moving money then reads as hiding it, and that follows you."
+    },
+    {
+      "id": 9,
+      "cat": "scenario",
+      "danger": "moderate",
+      "title": "Ask What Problem the Cut Is Solving",
+      "principle": "Voss: Calibrated Question",
+      "remember": "Ask what the money is for. The answer changes the ask.",
+      "when": "You get a flat percentage cut request with no reason attached.",
+      "hook": "Every cut funds something. <strong>Find out what, and you find out what they will trade.</strong>",
+      "truth": "The percentage is a symptom. The real number sits somewhere else.\n• Cuts fund a gap: a miss, an acquisition, a margin promise to the board.\n• Once you know the gap, you can offer a different way to close it.\n• Most people argue the percent. The percent is not negotiable. The method is.",
+      "theySee": "A team lead who wants to help solve the real problem, not just protect their own turf.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Uniform percent",
+          "t": "Every team got the exact same percentage, regardless of size"
+        },
+        {
+          "icon": "⏳",
+          "l": "Hard deadline",
+          "t": "The savings must land by a specific quarter, not any time"
+        },
+        {
+          "icon": "🏦",
+          "l": "Cash language",
+          "t": "They talk about cash flow instead of headcount or efficiency"
+        },
+        {
+          "icon": "📈",
+          "l": "Margin promise",
+          "t": "Leadership repeated a margin number to investors recently"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what gap the savings fills",
+          "desc": "One question, asked once, in a one-on-one. Not in the group meeting."
+        },
+        {
+          "n": "2",
+          "title": "Ask when the money is needed",
+          "desc": "Timing is often worth more than the amount. Cash in Q3 beats cash in Q4."
+        },
+        {
+          "n": "3",
+          "title": "Offer a different route to the same number",
+          "desc": "Deferral, renegotiation, a one-time asset sale. Same dollars, different pain."
+        }
+      ],
+      "script": "\"Before I cut — <strong>what is the savings actually paying for, and by when?</strong> If it's cash timing, I can move spend across quarters instead of killing capability.\"",
+      "watchFor": "They tell you the real driver, like a board commitment or an acquisition, instead of repeating the percent.",
+      "example": "Sasha asked her CFO what the 12% was funding. He said cash cover for an acquisition closing in Q3. She offered to defer $400K of spend into Q4 instead of cutting it. Same cash, nothing died, and the CFO used her plan as the template for two other teams.",
+      "ifItFails": "They say \"it's just the number, everyone's doing it.\" Stop asking why and make them price the method. Send two plans that hit the same dollars — one that defers, one that deletes — and ask them to pick. Write: \"Both get you the number. One keeps the capability. Which do you want me to run?\"",
+      "counter": "If someone asks you what the cut is for, they want to trade method for amount.\n• Notice the question aimed at your reason, not your number.\n• Say: \"The number is the number. Bring me how, not why.\"\n• Hold the amount, let them design the method. It is the cheaper concession.",
+      "insight": "Deferral is the cheapest form of survival and the most often forgotten. This works until the deferred money comes due in a quarter that is also getting cut."
+    },
+    {
+      "id": 10,
+      "cat": "scenario",
+      "danger": "moderate",
+      "title": "Bring Three Scenarios Instead of One Defense",
+      "principle": "Schelling: Commitment and the Menu of Choices",
+      "remember": "Give them three doors. Never argue against one.",
+      "when": "Finance asks you to justify your budget in a review.",
+      "hook": "Defending one number makes you the obstacle. <strong>Offering three makes you the author.</strong>",
+      "truth": "Whoever writes the options controls what gets chosen.\n• Three scenarios move the meeting from yes-or-no to which-one.\n• Each scenario carries its own named consequence, written by you.\n• Skip the middle-option trap — make all three real, or they pick the fake one.",
+      "theySee": "A leader who came prepared with choices instead of excuses.",
+      "signals": [
+        {
+          "icon": "🧮",
+          "l": "Justify language",
+          "t": "They ask you to justify rather than to propose"
+        },
+        {
+          "icon": "🥊",
+          "l": "Adversarial setup",
+          "t": "The meeting is framed as finance versus your team"
+        },
+        {
+          "icon": "📄",
+          "l": "One-number deck",
+          "t": "Every other team brings a single defended number"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat asks",
+          "t": "They keep sending your deck back for more detail"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Build three real cuts, not two decoys",
+          "desc": "Light, medium and deep. Each one must be something you would actually run."
+        },
+        {
+          "n": "2",
+          "title": "Attach one named loss to each",
+          "desc": "Write what stops. Name the service, the date and who notices."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to choose in the room",
+          "desc": "End the slide with a question, not a plea. Make the choice theirs and visible."
+        }
+      ],
+      "script": "\"Here are three versions. <strong>Six percent, we slow down. Fourteen percent, the partner onboarding stops in August. Twenty-two percent, we shut the service and tell the accounts in July.</strong> Which one do you want me to run?\"",
+      "watchFor": "They start debating between your options instead of asking for a fourth, deeper one.",
+      "example": "Ben's team was told to cut 20%. He brought 6, 14 and 22 percent, each with a dated consequence. The CFO picked 14 and asked him to present it to the other directors. Ben's number came in six points better than the mandate.",
+      "ifItFails": "They pick your deepest scenario without blinking. Do not reopen the menu, that kills your credibility. Hand them the operating consequence in writing instead: \"Twenty-two it is. I'll send the shutdown plan and the customer notice this week — I need your name on the notice.\"",
+      "counter": "If someone hands you three options, they wrote the menu and the outcome.\n• Notice the extreme option built to make the middle look safe.\n• Say: \"Add a fourth: your number with no loss. Show me why that's impossible.\"\n• Pick from the menu only after you have priced one option they left off.",
+      "insight": "The menu-writer usually wins. Do not build a scenario you cannot actually execute — they will pick exactly that one, and then watch you try."
+    },
+    {
+      "id": 11,
+      "cat": "scenario",
+      "danger": "high",
+      "title": "Make the Deep Cut Scenario Cost Them Something Real",
+      "principle": "Loss Aversion",
+      "remember": "Attach a real loss to the deep option, with a date.",
+      "when": "You have to model a cut level that would break your operation.",
+      "hook": "A deep cut with vague consequences gets chosen instantly. <strong>A deep cut with a named customer and a date gets debated.</strong>",
+      "truth": "Losses feel bigger than savings when the loss has a face.\n• Vague harm reads as complaint. Named harm reads as risk.\n• A date makes it land on someone's calendar, not in theory.\n• Never overstate it. One bluff found out and every future number of yours is fiction.",
+      "theySee": "A manager reading out the operating facts of a scenario, calmly, without pleading.",
+      "signals": [
+        {
+          "icon": "😐",
+          "l": "Instant pick",
+          "t": "They choose the deepest option within seconds of seeing it"
+        },
+        {
+          "icon": "🌫️",
+          "l": "Vague loss",
+          "t": "Your consequence column says reduced capacity instead of a name"
+        },
+        {
+          "icon": "📆",
+          "l": "No dates",
+          "t": "Nothing in your scenario has a calendar date attached"
+        },
+        {
+          "icon": "🙄",
+          "l": "Discounted risk",
+          "t": "They call your risk column posturing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the thing that stops",
+          "desc": "One service, one product, one commitment. Not capability or coverage."
+        },
+        {
+          "n": "2",
+          "title": "Put a date on it",
+          "desc": "Say the week it stops. Vague timing reads as a threat that never lands."
+        },
+        {
+          "n": "3",
+          "title": "Name who finds out",
+          "desc": "Say which customer, which regulator, which exec hears about it first."
+        }
+      ],
+      "script": "\"At twenty-two percent, <strong>the weekend support line closes September 1, and the four enterprise accounts with 24/7 in their contract find out that week.</strong> I'll run it if that's the call — I need it written down as the call.\"",
+      "watchFor": "Someone in the room asks who signs off on telling the customers.",
+      "example": "Nadia's deep scenario said \"reduced service quality.\" It was picked in 30 seconds. She rewrote it: \"weekend line closes Sept 1, four contracted accounts affected.\" At the next review the same group moved to the middle option and asked legal to check the contracts.",
+      "ifItFails": "They accept the loss and tell you to proceed. Now execute exactly as written and put the ownership where it belongs, in email, once, without drama: \"Confirming: weekend line closes Sept 1 per the review decision. I'll draft the customer notice for your signature.\"",
+      "counter": "If someone attaches a dramatic named loss to their deep option, test whether it is real.\n• Notice consequences that only appear when their budget is threatened.\n• Say: \"Show me the contract clause that breaks.\"\n• Ask for the loss in writing. Bluffs do not survive an email.",
+      "insight": "A real named loss is your strongest card and it only works if you will actually let it happen. Do not play this against a leader who would happily take the blowup to prove a point."
+    },
+    {
+      "id": 12,
+      "cat": "scenario",
+      "danger": "moderate",
+      "title": "Put Your Fixed Costs in the First Column",
+      "principle": "Anchoring",
+      "remember": "Show what cannot move before you show what can.",
+      "when": "You build the spreadsheet that finance will cut from.",
+      "hook": "Whoever formats the sheet decides where the eye lands. <strong>Most people hand over a flat list and lose 20% by lunch.</strong>",
+      "truth": "A cut reviewer scans for the easiest strike, and the layout tells them where.\n• Put contracted, regulated and committed spend in the first column.\n• The reviewer's eye hits immovable money first and adjusts the target down.\n• Never hide the flexible money. Label it clearly and price what it buys.",
+      "theySee": "An analyst presenting a well-organized sheet with contract status marked.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "Flat list",
+          "t": "Your budget sheet lists items alphabetically with no status column"
+        },
+        {
+          "icon": "✂️",
+          "l": "Fast strikes",
+          "t": "The reviewer marks cuts in under ten minutes"
+        },
+        {
+          "icon": "📌",
+          "l": "No contract flags",
+          "t": "Nothing in your sheet shows which items are under contract"
+        },
+        {
+          "icon": "🔍",
+          "l": "Line-by-line",
+          "t": "They go through your sheet top to bottom instead of by size"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Split the sheet into three columns",
+          "desc": "Contracted, committed, flexible. Put contracted on the left."
+        },
+        {
+          "n": "2",
+          "title": "Add the termination cost to each contract",
+          "desc": "Write the break fee next to every contracted line. Real numbers only."
+        },
+        {
+          "n": "3",
+          "title": "Total the flexible column at the bottom",
+          "desc": "Show the real cut pool. It makes the mandate look arithmetic, not political."
+        }
+      ],
+      "script": "\"Left column is contracted through FY27 with break fees listed. Middle is committed to named projects. <strong>Right column is the flexible pool — that's $610K, and the mandate asks for $900K.</strong> Let's start there.\"",
+      "watchFor": "The reviewer starts working from your flexible column total instead of your gross budget.",
+      "example": "Owen restructured his sheet into three columns with break fees listed. The finance director looked at the flexible total, did the math out loud, and went to his VP to renegotiate the mandate. Owen's target dropped from 18% to 11%.",
+      "ifItFails": "They say break fees are a sunk cost and cut anyway. Move from cost to cash: show the fee is money leaving this year. Send the cash view: \"Cancelling saves $300K of spend and pays $190K in break fees this quarter. Net cash this year is $110K. Still want it?\"",
+      "counter": "If someone hands you a sheet already sorted by what cannot move, they are steering your eye.\n• Notice the layout that shrinks the cut pool before you read a number.\n• Say: \"Resort it by dollar size. I'll decide what's fixed.\"\n• Ask for break fees in a separate file so you can test each one.",
+      "insight": "Layout wins more budget than argument does. The harder part is when a reviewer asks you to prove a break fee and the contract is softer than you claimed."
+    },
+    {
+      "id": 13,
+      "cat": "naming",
+      "danger": "high",
+      "title": "Say Exactly Which Service Stops and When",
+      "principle": "Schelling: Credible Commitment",
+      "remember": "Name the dead thing. Vague warnings get ignored.",
+      "when": "You are asked what happens if the cut goes through.",
+      "hook": "\"We'd be stretched thin\" gets cut. <strong>\"The Tuesday close stops on March 3\" gets a meeting.</strong>",
+      "truth": "Specific death creates an owner. Vague pain creates nothing.\n• A named service with a date needs someone to approve killing it.\n• That approval is a signature nobody wants to give.\n• The cost is you must actually stop it. Say it and then keep going and you are finished.",
+      "theySee": "A manager stating operating facts in a flat voice, with a calendar date.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Soft language",
+          "t": "You catch yourself saying capacity, bandwidth or coverage"
+        },
+        {
+          "icon": "🙃",
+          "l": "No reaction",
+          "t": "Leadership nods at your warning and moves to the next slide"
+        },
+        {
+          "icon": "📉",
+          "l": "Repeat cuts",
+          "t": "Your team got cut two cycles running with no pushback"
+        },
+        {
+          "icon": "🧍",
+          "l": "No owner",
+          "t": "Nobody's name is attached to the consequence in the notes"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the sentence with a date in it",
+          "desc": "One service, one stop date. Read it aloud before the meeting."
+        },
+        {
+          "n": "2",
+          "title": "Say it once and stop talking",
+          "desc": "Do not soften it, do not add context. Let the silence do the work."
+        },
+        {
+          "n": "3",
+          "title": "Send it in writing the same day",
+          "desc": "Short email, same sentence, no argument. The record is the point."
+        }
+      ],
+      "script": "\"To be clear on what this means operationally: <strong>the Tuesday reconciliation run ends March 3.</strong> Finance closes two days later every month after that. I'll plan for it if that's the decision.\"",
+      "watchFor": "Someone asks \"wait, who signs off on that?\" out loud in the room.",
+      "example": "Rachel stopped saying her team would be stretched. She said the Tuesday reconciliation would end March 3 and month-end close would slip two days. The controller, who owned close, called her VP that afternoon. Half the cut was reversed.",
+      "ifItFails": "They accept it and say fine. Do not backpedal — execute and make the date visible to the people it hits. Send the notice yourself: \"Heads up, the Tuesday run ends March 3 per the budget decision. Plan your close around a two-day slip.\"",
+      "counter": "If someone names a dramatic stop date to protect their budget, test the date.\n• Notice a date that always lands right before a critical business event.\n• Say: \"Why that date? Walk me through what forces it.\"\n• Ask them to send the notice to the affected team now, not later.",
+      "insight": "Naming the death is the strongest budget move there is, and the most expensive one to bluff. Do not use this if you cannot survive them saying yes."
+    },
+    {
+      "id": 14,
+      "cat": "naming",
+      "danger": "high",
+      "title": "Refuse to Choose Between Two Things You Need",
+      "principle": "Gracián: Do Not Be Drawn Into a False Choice",
+      "remember": "If they force a pick, make them pick and own it.",
+      "when": "Your boss tells you to choose which of two critical functions to kill.",
+      "hook": "They hand you the knife so the blood is on your hands. <strong>Hand it back, politely, in writing.</strong>",
+      "truth": "Delegated cuts are delegated blame, and the blame outlives the savings.\n• A forced pick makes you the author of the loss.\n• Giving them the facts and letting them decide keeps you the messenger.\n• Refusing outright gets you removed. Refusing with two priced options does not.",
+      "theySee": "A direct report giving them full information and asking for a decision at their level.",
+      "signals": [
+        {
+          "icon": "🔪",
+          "l": "You decide",
+          "t": "Your boss says the choice is yours but the number is not"
+        },
+        {
+          "icon": "📝",
+          "l": "No written ask",
+          "t": "The instruction comes verbally and never in email"
+        },
+        {
+          "icon": "🫥",
+          "l": "Absent at review",
+          "t": "They want you to present the cut alone"
+        },
+        {
+          "icon": "🎭",
+          "l": "Blame history",
+          "t": "Last year's cut is still described as the previous manager's call"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Price both options in writing",
+          "desc": "Two paragraphs. What each loss costs the business, with names and dates."
+        },
+        {
+          "n": "2",
+          "title": "Say you will run either one",
+          "desc": "Do not refuse the work. Refuse only the authorship of the choice."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the decision in email",
+          "desc": "Send it as a question with a deadline. A verbal yes disappears later."
+        }
+      ],
+      "script": "\"I'll run whichever you pick and I won't argue it after. <strong>But this one is above my line — option A costs us the audit trail, option B costs us the two enterprise renewals. Tell me which by Friday and I'll execute Monday.</strong>\"",
+      "watchFor": "They reply in writing with a choice, or they escalate the decision to their own boss.",
+      "example": "Ibrahim was told to pick between killing compliance reporting or client onboarding. He priced both in a short email and asked his VP to choose by Friday. The VP took it to the CFO. The mandate was cut in half and neither function died.",
+      "ifItFails": "They refuse to decide and repeat that it is your call. Take the decision but move the record. Send one email documenting the choice and the reason, copy your boss, and note their instruction: \"Per your direction that the call is mine, I'm cutting B. Here's what breaks and when. Flagging it now so it isn't a surprise in Q3.\"",
+      "counter": "If someone hands you a choice between two bad options, they are moving the blame.\n• Notice authority arriving only for the painful decision.\n• Say: \"Happy to decide if I also own the number. Do I?\"\n• Trade authorship for authority, or push it back up in writing.",
+      "insight": "The person who names the victim owns the funeral for years. Do not push back this way on a boss who already told you twice — the third refusal becomes your performance review."
+    },
+    {
+      "id": 15,
+      "cat": "naming",
+      "danger": "moderate",
+      "title": "Show the Rehiring Cost of the Cut",
+      "principle": "Total Cost Accounting",
+      "remember": "Cutting costs money later. Put that money on the slide.",
+      "when": "Finance wants to cut a role or a team you rebuilt once before.",
+      "hook": "Saving $180K this year to spend $260K rebuilding next year is not a saving. <strong>It just lands in someone else's budget.</strong>",
+      "truth": "Cut decisions use one year of math. Rebuilding lands outside the window.\n• Show the rebuild cost inside the same 24 months and the saving shrinks.\n• Recruiting fees, ramp time and lost knowledge are real invoices.\n• Use only numbers you can source. One invented figure kills the whole slide.",
+      "theySee": "A manager showing a two-year view of the same decision, with sources cited.",
+      "signals": [
+        {
+          "icon": "🔄",
+          "l": "Rebuild history",
+          "t": "Your company cut and rehired this same function before"
+        },
+        {
+          "icon": "🕐",
+          "l": "One-year window",
+          "t": "Every slide in the review shows a single fiscal year"
+        },
+        {
+          "icon": "💸",
+          "l": "Agency fees",
+          "t": "Your last two hires came through a recruiter at 20 percent"
+        },
+        {
+          "icon": "🧠",
+          "l": "Deep knowledge",
+          "t": "One person holds process knowledge nobody else has written down"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull your last rebuild's real cost",
+          "desc": "Recruiter fee, salary, months to full speed. Use the actual invoices."
+        },
+        {
+          "n": "2",
+          "title": "Build a 24-month table",
+          "desc": "Year one saving, year two rebuild cost, net across both. Two columns."
+        },
+        {
+          "n": "3",
+          "title": "Offer the cheaper alternative",
+          "desc": "Deferral, reduced hours, contractor conversion. Give them a way to say yes."
+        }
+      ],
+      "script": "\"One-year view says we save $180K. <strong>Two-year view: we paid a 22 percent agency fee and six months of ramp last time, so the rebuild runs $260K.</strong> If the cash matters this year, I can defer instead.\"",
+      "watchFor": "Finance asks you to send the two-year table so they can use it in their own analysis.",
+      "example": "Hana pulled the invoices from her team's 2023 rebuild: $58K in agency fees and five months of ramp. Her two-year table showed the proposed cut lost money by month 19. The CFO converted the role to part-time instead of cutting it.",
+      "ifItFails": "They say next year's budget is not their problem. Move the cost into someone's lap who is in the room. Send the table to the leader who would pay the rebuild: \"If this gets cut, the rehire lands in your line in FY27. Wanted you to see the number before the review.\"",
+      "counter": "If someone shows you a two-year cost to block a cut, check the source of the rebuild number.\n• Notice ramp costs stated as an opinion instead of an invoice.\n• Say: \"Send me the actual invoices from last time.\"\n• Compare their number to HR's real cost-per-hire before you accept it.",
+      "insight": "Two-year math wins arguments with finance and loses them with a CFO chasing one quarter. The next question is whose budget the rebuild lands in, because that person is your ally."
+    },
+    {
+      "id": 16,
+      "cat": "aiming",
+      "danger": "extreme",
+      "title": "Offer Savings That Are Not Yours",
+      "principle": "Greene: Law 26 — Keep Your Hands Clean",
+      "remember": "Bring finance savings from somewhere else. Bring the math.",
+      "when": "You must produce savings and your own budget has nothing loose left.",
+      "hook": "Finance wants dollars, not your dollars. <strong>Bring dollars from anywhere and you become the helper, not the target.</strong>",
+      "truth": "The cut lands where a credible number is easiest to find.\n• Find duplicate spend, dead licenses or overlapping contracts across teams.\n• Bring it as a process finding, never as a name.\n• If it reads as pointing at a peer, you make an enemy who plans budgets too.",
+      "theySee": "A colleague who did the homework and found company savings nobody else spotted.",
+      "signals": [
+        {
+          "icon": "🧾",
+          "l": "Duplicate tools",
+          "t": "Two teams pay for the same platform under different contracts"
+        },
+        {
+          "icon": "💤",
+          "l": "Dead licenses",
+          "t": "A seat count is double the number of active users"
+        },
+        {
+          "icon": "🔁",
+          "l": "Overlapping vendors",
+          "t": "Three vendors deliver the same service to different departments"
+        },
+        {
+          "icon": "📦",
+          "l": "Auto-renewals",
+          "t": "A contract renews yearly and nobody has reviewed it since 2022"
+        },
+        {
+          "icon": "🗂️",
+          "l": "Shadow spend",
+          "t": "Spend sits on a corporate card instead of a purchase order"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull the vendor list company-wide",
+          "desc": "Ask procurement for the top 50 vendors by spend. It is usually shareable."
+        },
+        {
+          "n": "2",
+          "title": "Find the duplicates and dead seats",
+          "desc": "Match vendors to functions. Check seat counts against active users."
+        },
+        {
+          "n": "3",
+          "title": "Send it as a process finding",
+          "desc": "No team names. Describe the pattern, the dollars and who should verify."
+        }
+      ],
+      "script": "\"I went through the top vendor list looking for overlap. <strong>There's roughly $400K in duplicate platform spend and unused seats across three contracts.</strong> Names are in the appendix — I'd rather procurement verify it than me.\"",
+      "watchFor": "Finance takes the analysis and asks procurement to verify it instead of asking you for more cuts.",
+      "example": "Colin had nothing left to cut. He pulled the vendor list and found two departments paying for the same data platform, plus 340 unused seats. He sent it as an overlap analysis with no names. The CFO credited him in the review and moved his target to another director.",
+      "ifItFails": "Someone accuses you of pointing at their team. Do not defend, hand them ownership immediately and publicly. Say: \"It was a list-level find, not an audit of your team. You know that spend better than I do — take it and tell us what's real. I'll back whatever number you land on.\"",
+      "counter": "If a peer brings company-wide savings during a cut, they are moving the target off themselves.\n• Notice the helpful analysis that never touches their own line.\n• Say: \"Great find. What did you cut in yours this cycle?\"\n• Ask for their number in the same meeting. It reprices their generosity.",
+      "insight": "This buys you a cycle and creates an enemy who will remember for three. Do not run it if the duplicate spend belongs to someone with a seat at the review table."
+    },
+    {
+      "id": 17,
+      "cat": "aiming",
+      "danger": "high",
+      "title": "Volunteer the Cheap Cut First",
+      "principle": "Cialdini: Reciprocity × Greene: Law 22 — Surrender Tactic",
+      "remember": "Give one real cut early. It buys the rest.",
+      "when": "Cuts are coming and everyone is holding their numbers tight.",
+      "hook": "The first person to cut looks like a partner. <strong>The last one looks like the problem.</strong>",
+      "truth": "Finance builds the list out of resistance, and resistance is visible.\n• Volunteering early makes you the cooperative team on their tracker.\n• Choose a cut that costs you little but reads as significant.\n• Give it before the mandate lands. After, it is just compliance.",
+      "theySee": "A leader who moved first and brought a real number without being chased.",
+      "signals": [
+        {
+          "icon": "🐢",
+          "l": "Everyone stalls",
+          "t": "Three teams have missed the savings submission deadline"
+        },
+        {
+          "icon": "🎣",
+          "l": "Chasing mode",
+          "t": "Finance sends a second reminder about savings ideas"
+        },
+        {
+          "icon": "⭐",
+          "l": "Cooperation list",
+          "t": "Someone mentions which teams have submitted already"
+        },
+        {
+          "icon": "💤",
+          "l": "Dead line item",
+          "t": "You have spend you would have killed anyway this year"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the spend you no longer need",
+          "desc": "A tool losing users, a program ending, a contract you were going to drop."
+        },
+        {
+          "n": "2",
+          "title": "Offer it before the mandate arrives",
+          "desc": "Send it early, unprompted, with the dollar amount in the subject line."
+        },
+        {
+          "n": "3",
+          "title": "Say what you are protecting",
+          "desc": "In the same message, name the one thing you want left alone."
+        }
+      ],
+      "script": "\"Before the mandate lands — <strong>I'm giving back $220K from the legacy reporting tool, effective Q3.</strong> In exchange I'd like the partner onboarding budget left whole. Fair trade?\"",
+      "watchFor": "Finance names your team as an example in a meeting, or your protected item disappears from the draft list.",
+      "example": "Diane knew her old reporting tool was dying anyway. She offered the $220K back in March, before the mandate, and named onboarding as what she wanted protected. The May cut list skipped her team entirely.",
+      "ifItFails": "They take the $220K and still hand you the full mandate. Say the trade out loud, once, to the person who took it: \"I gave that back early on the understanding onboarding stayed whole. If the mandate is unchanged, I'd like the $220K counted against it. Can you confirm?\"",
+      "counter": "If someone volunteers a cut early, check whether the thing they gave was already dead.\n• Notice generous savings on tools nobody uses anymore.\n• Say: \"Nice. What's the usage on that today?\"\n• Count the real value, not the sticker value, against their mandate.",
+      "insight": "Being first is cheap the first year and expensive the third, when they expect it. Do not do this if your boss reads early giving as proof you were padded."
+    },
+    {
+      "id": 18,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Get the Decision and the Consequence in the Same Email",
+      "principle": "Machiavelli: Secure the Record",
+      "remember": "Write down what they chose and what it breaks. Same email.",
+      "when": "The cut is decided and everyone moves on to the next topic.",
+      "hook": "In nine months someone will ask why the service failed. <strong>The email you send today decides whose name gets said.</strong>",
+      "truth": "Memory in companies runs on documents, not on meetings.\n• A short confirmation email fixes what was decided and what it costs.\n• It protects you and it quietly slows the next cut.\n• Keep it neutral. One bitter sentence turns your record into evidence against you.",
+      "theySee": "A professional sending a clean summary so everyone has the same understanding.",
+      "signals": [
+        {
+          "icon": "🏃",
+          "l": "Fast move-on",
+          "t": "The meeting ends and nobody writes anything down"
+        },
+        {
+          "icon": "🗨️",
+          "l": "Verbal only",
+          "t": "The decision was spoken and never sent in email"
+        },
+        {
+          "icon": "🌀",
+          "l": "Shifting story",
+          "t": "Two people describe the decision differently the next week"
+        },
+        {
+          "icon": "📚",
+          "l": "Old blame",
+          "t": "Last year's failures still get blamed on unclear decisions"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send it within 24 hours",
+          "desc": "Same day is better. Later reads as building a case."
+        },
+        {
+          "n": "2",
+          "title": "Write three lines only",
+          "desc": "What was decided, what stops, when it stops. No argument, no feelings."
+        },
+        {
+          "n": "3",
+          "title": "Ask one closing question",
+          "desc": "End with a question that needs a reply, so the record has their answer in it."
+        }
+      ],
+      "script": "\"Confirming yesterday: <strong>we're funding at $1.4M, the weekend support line closes September 1, and four contracted accounts are affected.</strong> I'll draft the customer notice — do you want it to go out from you or from me?\"",
+      "watchFor": "They reply to the email, even with one word. That reply is the record.",
+      "example": "Sam sent a three-line confirmation after his budget review. Eight months later an escalation hit about weekend coverage. The CTO found Sam's email, forwarded it, and the conversation moved to who approved it, not who failed.",
+      "ifItFails": "Nobody replies. Silence is not a record. Send one short follow-up that forces a yes or no: \"No reply on this — I'm treating the September 1 close as confirmed and starting the customer notice Thursday. Tell me if that's wrong.\"",
+      "counter": "If someone sends you a confirmation email naming consequences, they are building the record.\n• Notice the summary that arrives right after a hard decision.\n• Say: \"Correcting one thing so the record is right.\"\n• Reply once with your version, or the silence becomes their version.",
+      "insight": "The record protects you next year more than it helps you this year. The harder part is writing it without a single sentence that sounds like you are angry."
+    },
+    {
+      "id": 19,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Spend the Cut Budget Where It Is Hardest to Cut Again",
+      "principle": "Sun Tzu: Fortify Ground You Cannot Be Driven From",
+      "remember": "Move what survived into contracts and commitments.",
+      "when": "The cut is done and you still control what is left.",
+      "hook": "What survived this year is next year's target. <strong>Move it somewhere with a signature on it.</strong>",
+      "truth": "Cuts return, and they hit the same soft money twice.\n• Multi-year contracts and committed programs are hard to strike mid-term.\n• Converting flexible spend into committed spend armors it for two cycles.\n• The price is real: you lose the ability to move that money yourself.",
+      "theySee": "A manager locking in better pricing with a longer contract term.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeat targets",
+          "t": "The same line item appeared on the cut list two years running"
+        },
+        {
+          "icon": "📃",
+          "l": "Annual terms",
+          "t": "Your key contracts all renew every twelve months"
+        },
+        {
+          "icon": "💧",
+          "l": "Soft money",
+          "t": "Most of your remaining spend has no contract behind it"
+        },
+        {
+          "icon": "📆",
+          "l": "Next cycle talk",
+          "t": "Leadership already mentions another review next year"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the two things you must keep",
+          "desc": "Not everything. Two. The rest stays flexible so you have something to give."
+        },
+        {
+          "n": "2",
+          "title": "Convert them to multi-year deals",
+          "desc": "Ask the vendor for a two- or three-year term with a discount. Finance likes discounts."
+        },
+        {
+          "n": "3",
+          "title": "Get the discount in the business case",
+          "desc": "Present it as savings, not as protection. The signature comes faster."
+        }
+      ],
+      "script": "\"The vendor will hold pricing for three years if we commit now — <strong>that's 14 percent below the annual rate, about $95K saved over the term.</strong> Want me to lock it before the rate resets in November?\"",
+      "watchFor": "Finance approves the multi-year term and cites the discount as a win in their own report.",
+      "example": "Priyanka's data platform had been on the cut list twice. After the cut she negotiated a three-year term at 14% off and sold it to finance as savings. The next year's review skipped it, because cancelling cost more than keeping it.",
+      "ifItFails": "Finance refuses multi-year commitments during a downturn. Get the protection without the term: ask the vendor for a written price hold and a long notice period instead. Tell finance: \"No commitment then — but I'm locking a 12-month price hold and a 90-day cancel notice. Zero risk, and it stops the rate reset.\"",
+      "counter": "If a manager rushes a multi-year contract right after a cut, they are armoring the money.\n• Notice long terms proposed during a spending freeze.\n• Say: \"Show me the exit terms and the break fee.\"\n• Approve the discount, keep a cancel clause. That kills the armor.",
+      "insight": "Armoring the money protects it from finance and from you. Do not lock more than two items — a team with no flexible money left has nothing to offer next cycle and becomes the headcount conversation."
+    },
+    {
+      "id": 20,
+      "cat": "after",
+      "danger": "high",
+      "title": "Report the Breakage Early and Without Blame",
+      "principle": "Greene: Law 4 — Say Less Than Necessary",
+      "remember": "Report the damage first, calmly, before anyone else does.",
+      "when": "The cut has started to break things and nobody has said it out loud yet.",
+      "hook": "The first person to report the damage is the honest one. <strong>The second is the one who was hiding it.</strong>",
+      "truth": "Bad news has an owner, and the owner is whoever says it last.\n• Reporting early makes you the source of truth for the whole story.\n• Skip the blame line — the facts already say who decided.\n• Save this for real breakage. Two false alarms and nobody reads your emails.",
+      "theySee": "A manager giving a straight operational update with numbers and no complaint.",
+      "signals": [
+        {
+          "icon": "⏰",
+          "l": "Slipping dates",
+          "t": "Your close or delivery is two days late for the second month"
+        },
+        {
+          "icon": "🧯",
+          "l": "Quiet firefighting",
+          "t": "Your team covers the gap with unpaid overtime nobody logged"
+        },
+        {
+          "icon": "📬",
+          "l": "Customer noise",
+          "t": "An account mentions slower responses in a routine call"
+        },
+        {
+          "icon": "😶",
+          "l": "Nobody reports",
+          "t": "No one has put the slippage in any written update"
+        },
+        {
+          "icon": "🔮",
+          "l": "Next review",
+          "t": "Another planning cycle opens in under three months"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the damage as numbers",
+          "desc": "Days late, tickets missed, hours of overtime. No adjectives at all."
+        },
+        {
+          "n": "2",
+          "title": "Send it before month-end",
+          "desc": "Early beats complete. A short update now beats a full report later."
+        },
+        {
+          "n": "3",
+          "title": "Attach what restores it",
+          "desc": "Name the smallest amount of money that fixes it, and what it fixes."
+        }
+      ],
+      "script": "\"Operational update, no drama: <strong>close ran two days late in August and September, and the team logged 140 hours of overtime covering it.</strong> $90K restores the contractor and puts close back on day three. Flagging now so it's not a surprise in planning.\"",
+      "watchFor": "A leader forwards your update to someone senior and asks what it would take to fix it.",
+      "example": "Jonah's close slipped two months running after his contractor was cut. He sent a three-line update with the overtime hours and a $90K restore figure, no complaint in it. In the next planning cycle the $90K came back and his team was left out of the new mandate.",
+      "ifItFails": "They read it and do nothing. Escalate by widening the audience, not the volume. Add the person whose work depends on yours to the next update and make the impact theirs: \"Adding Maria since the close slip now hits her reporting deadline. Same numbers as last month, plus two days.\"",
+      "counter": "If someone sends calm damage reports after a cut they opposed, they are building a restore case.\n• Notice numbers that only ever move in one direction.\n• Say: \"Send me the baseline from before the cut.\"\n• Compare their new numbers to the old ones before you fund anything.",
+      "insight": "Calm damage reporting gets money back more reliably than any argument in the room did. Do not send this if you cannot show the baseline — without last year's numbers it reads as complaining with decimals."
+    }
+  ]
+}

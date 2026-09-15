@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 76,
+  "manifestVersion": 77,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -650,7 +650,20 @@
       "url": "playbooks/playbook-srv-the-only-no-in-the-room.json",
       "addedAt": "2026-09-15T23:18:24.978Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-defending-your-budget-when-the-cuts-come",
+      "title": "Defending Your Budget When the Cuts Come",
+      "theme": "budget",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#8B1E2D",
+      "coverIcon": "🩸",
+      "url": "playbooks/playbook-srv-defending-your-budget-when-the-cuts-come.json",
+      "addedAt": "2026-09-15T23:18:28.896Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-15T23:18:24.978Z"
+  "generatedAt": "2026-09-15T23:18:28.896Z"
 }
