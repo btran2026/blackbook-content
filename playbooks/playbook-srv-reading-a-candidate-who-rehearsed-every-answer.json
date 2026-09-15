@@ -1,0 +1,1201 @@
+{
+  "meta": {
+    "id": "srv-reading-a-candidate-who-rehearsed-every-answer",
+    "version": "1.0",
+    "title": "Reading a Candidate Who Rehearsed Every Answer",
+    "subtitle": "Break the script before you sign the offer.",
+    "description": "Every candidate now has an AI coach, a mock-interview deck, and a memorized answer for your favorite question. This is the field manual for reading past the polish — before, during, and after the interview — so you hire the person, not the performance.",
+    "author": "AI",
+    "createdAt": "2026-09-10T17:51:26.190Z",
+    "tags": [
+      "hiring",
+      "interviewing",
+      "recruiting",
+      "negotiation",
+      "reading people"
+    ],
+    "totalCards": 22,
+    "isSeeded": true,
+    "coverColor": "#7C2D12",
+    "coverIcon": "🎭",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "beforeTheyWalkIn",
+      "label": "Before They Walk In",
+      "color": "#0F172A"
+    },
+    {
+      "key": "preparedAnswers",
+      "label": "Their Prepared Answers",
+      "color": "#7C2D12"
+    },
+    {
+      "key": "breakingTheScript",
+      "label": "Breaking The Script",
+      "color": "#991B1B"
+    },
+    {
+      "key": "whatTheyAskYou",
+      "label": "What They Ask You",
+      "color": "#1E3A8A"
+    },
+    {
+      "key": "theBackchannel",
+      "label": "The Backchannel",
+      "color": "#713F12"
+    },
+    {
+      "key": "theDecisionAndOffer",
+      "label": "The Decision And The Offer",
+      "color": "#14532D"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "beforeTheyWalkIn",
+      "danger": "low",
+      "title": "Assume Every Answer Is Memorized",
+      "when": "You are about to interview someone who clearly spent days prepping for this exact role.",
+      "hook": "A smooth answer is not proof of skill. <strong>It is proof of practice.</strong>",
+      "truth": "Fluent delivery feels true because your brain confuses smooth with honest.\n• A rehearsed answer sounds better than a real one, every time.\n• You start grading confidence instead of the actual work described.\n• The trap: you stop listening for content once the delivery sounds good.",
+      "principle": "Fluency Heuristic",
+      "remember": "Smooth talking is not proof of skill. It is proof of practice.",
+      "theySee": "An interviewer nodding along, smiling, taking notes on the polished story.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Perfect structure",
+          "t": "They answer in a clean setup-conflict-result shape every single time."
+        },
+        {
+          "icon": "⏱️",
+          "l": "No pause",
+          "t": "They start answering before you finish the question."
+        },
+        {
+          "icon": "📋",
+          "l": "Same words",
+          "t": "They use the exact phrase from their resume bullet, word for word."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write down the goal before they arrive",
+          "desc": "Name the one skill this interview must prove. Ignore how good the story sounds."
+        },
+        {
+          "n": "2",
+          "title": "Plan one off-script follow-up per answer",
+          "desc": "Pick a detail question you will ask no matter what they say first."
+        },
+        {
+          "n": "3",
+          "title": "Score content separate from delivery",
+          "desc": "Use two columns on your notes: what they said, how well they said it."
+        }
+      ],
+      "script": "\"That's a great summary — walk me through the actual day you realized it wasn't working.\"",
+      "watchFor": "They slow down, drop the smooth tone, and start using filler words like 'um' or 'so actually'.",
+      "ifItFails": "They have a rehearsed follow-up too, because they prepped two layers deep. Go a third layer down and ask for a number: <strong>\"What was the metric before, and what was it after?\"</strong> Numbers are harder to script than stories.",
+      "counter": "If you are the candidate and the interviewer seems to be waiting for you to slip, notice it.\n• They ask a warm question, then go quiet and wait for more.\n• Give the real detail before they have to dig for it.\n• Say: <strong>\"Want me to go deeper on the numbers or the team dynamics?\"</strong>",
+      "insight": "Every hiring manager thinks they can spot rehearsed answers. Most can't — polish and truth feel identical from the outside. The harder part is building questions that can't be prepped for at all.",
+      "example": "Raj interviewed a candidate whose answers sounded like a keynote. After the polished story on a 'failed launch,' Raj asked what the exact rollback metric was. The candidate paused, then gave a real, specific number for the first time all hour. Raj hired him — the gap between polish and substance had closed."
+    },
+    {
+      "id": 2,
+      "cat": "beforeTheyWalkIn",
+      "danger": "low",
+      "title": "Build Questions They Can't Have Practiced",
+      "when": "You are writing the interview questions before a candidate who has clearly done heavy prep work arrives.",
+      "hook": "Every common interview question has a script written for it online. <strong>Ask the one that doesn't.</strong>",
+      "truth": "Generic questions get generic, rehearsed answers because the internet already wrote them.\n• 'Tell me about a challenge' has ten thousand template answers online.\n• A question tied to your specific team has zero.\n• The trap: reusing last year's question bank trains candidates to beat you.",
+      "principle": "Script Theory (Schank & Abelson)",
+      "remember": "If the question is googleable, so is the answer.",
+      "theySee": "An interviewer asking something oddly specific to the company, not from a textbook.",
+      "signals": [
+        {
+          "icon": "🔍",
+          "l": "Blank pause",
+          "t": "They pause longer than usual because they have no stored answer."
+        },
+        {
+          "icon": "🧩",
+          "l": "Building live",
+          "t": "They visibly construct the answer instead of reciting it."
+        },
+        {
+          "icon": "😅",
+          "l": "Honest hedge",
+          "t": "They say 'I haven't thought about it that way' before answering."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull one real problem from your team's last month",
+          "desc": "Turn an actual open issue into a question with no clean answer."
+        },
+        {
+          "n": "2",
+          "title": "Name a real constraint, not a hypothetical",
+          "desc": "Give them your actual budget, headcount, or deadline as the setup."
+        },
+        {
+          "n": "3",
+          "title": "Skip the classic prompts entirely",
+          "desc": "Drop 'greatest weakness' and 'why this company' from your list."
+        }
+      ],
+      "script": "\"Here's a real ticket from last sprint we haven't solved. How would you start on it Monday morning?\"",
+      "watchFor": "They ask you a clarifying question back instead of launching into an answer.",
+      "ifItFails": "They still pivot to a stored story that sort of fits. Interrupt politely and re-anchor: <strong>\"Sure, but using our numbers specifically — what's your first move?\"</strong> Force them back into your specifics, not their template.",
+      "counter": "If you are the candidate and the question feels oddly specific, that is the tell.\n• Notice when a question uses real names, numbers, or your resume detail.\n• Do not force a stored story onto it — it will show the seams.\n• Say: <strong>\"Let me think through your specific numbers for a second.\"</strong> Then actually do it.",
+      "insight": "A custom question buys you one honest answer per candidate. The next problem is scoring an honest, messy answer fairly against a smooth one — most interviewers still reward smooth.",
+      "example": "Dana replaced 'tell me about a conflict' with a real open ticket from her own backlog. The strongest-seeming candidate on paper froze. A quieter candidate asked two sharp clarifying questions and sketched a real plan. Dana hired the quiet one."
+    },
+    {
+      "id": 3,
+      "cat": "beforeTheyWalkIn",
+      "danger": "low",
+      "title": "Decide the Three Things You Actually Need to Know",
+      "when": "You have a stack of resumes and a 45-minute slot, and every past interview has drifted.",
+      "hook": "An unfocused interview rewards whoever prepared the most talking points. <strong>Decide what you're testing before they walk in.</strong>",
+      "truth": "Without a target, you grade charisma because it's the easiest thing to notice.\n• A drifting interview lets the candidate steer to their strongest material.\n• Three fixed targets stop you from being led around by their script.\n• The trap: 'get a good feel for them' is not a target — it's a shrug.",
+      "principle": "Sun Tzu: Know the Ground First",
+      "remember": "Know what you're testing before they say one word.",
+      "theySee": "An interviewer who stays on topic and doesn't get pulled into tangents.",
+      "signals": [
+        {
+          "icon": "📌",
+          "l": "Fixed agenda",
+          "t": "You catch yourself redirecting back to your three questions."
+        },
+        {
+          "icon": "🗒️",
+          "l": "Written targets",
+          "t": "You wrote down the three things before the call, not during it."
+        },
+        {
+          "icon": "🚧",
+          "l": "Polite redirect",
+          "t": "You cut off a strong tangent because it isn't one of your three."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the three skills that must be true",
+          "desc": "Name the exact three things this hire fails without, before you read the resume again."
+        },
+        {
+          "n": "2",
+          "title": "Attach one question to each",
+          "desc": "Pick a question that only that skill can answer well."
+        },
+        {
+          "n": "3",
+          "title": "Cut everything else from the plan",
+          "desc": "Drop any question not tied to one of the three."
+        }
+      ],
+      "script": "\"I want to make sure we cover three specific things today — let's start with the first.\"",
+      "watchFor": "The candidate stops trying to redirect to their prepared favorite topic.",
+      "ifItFails": "They keep steering back to their rehearsed strength no matter what you ask. Name it directly: <strong>\"I hear you on that — I actually need to hear about X specifically.\"</strong> Making the ask explicit removes their excuse to dodge again.",
+      "counter": "If you are the candidate and the interviewer keeps redirecting you, they are running a targeted interview.\n• Notice the same three topics keep coming back up.\n• Stop trying to pivot to your best story — it won't land.\n• Say: <strong>\"Got it — let me answer that one directly.\"</strong> Then actually answer it.",
+      "insight": "Three fixed targets beat a free-flowing chat every time. The next problem is resisting the pull to add a fourth target mid-interview because one answer impressed you.",
+      "example": "Leo used to let interviews wander for an hour. Before his next round, he wrote three skills on an index card and stuck to them. He cut the interview to 30 minutes and made a better call than any of his hour-long ones."
+    },
+    {
+      "id": 4,
+      "cat": "beforeTheyWalkIn",
+      "danger": "moderate",
+      "title": "Control the Room Before You Control the Talk",
+      "when": "You are setting up the interview format — video call, in-person, panel — for someone likely to be over-prepped.",
+      "hook": "A candidate who rehearsed in a mirror rehearsed for a straight-on camera. <strong>Change the angle and the script gets harder to run.</strong>",
+      "truth": "Rehearsal happens in a predictable setup: a desk, a webcam, a script taped nearby.\n• Most practice sessions assume a static, front-facing format.\n• A changed format — walk-and-talk, whiteboard, group panel — breaks the muscle memory.\n• The trap: comfort is what lets a script run smoothly. Remove the comfort.",
+      "principle": "Environmental Control — Greene: Law 3, Conceal Your Intentions",
+      "remember": "They rehearsed sitting down and facing a screen. Don't let them stay there.",
+      "theySee": "An interviewer suggesting a whiteboard or a walk instead of a normal desk chat.",
+      "signals": [
+        {
+          "icon": "🖥️",
+          "l": "Notes visible",
+          "t": "Their eyes flick to the same spot off-camera every answer."
+        },
+        {
+          "icon": "🪑",
+          "l": "Rigid posture",
+          "t": "They sit in one fixed position built for reading a script."
+        },
+        {
+          "icon": "📎",
+          "l": "Sticky notes",
+          "t": "You spot paper taped near the camera during a video call."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a format they didn't rehearse for",
+          "desc": "Move one segment to a whiteboard, a walk, or a live tool instead of Q&A."
+        },
+        {
+          "n": "2",
+          "title": "Add one unscheduled voice to the room",
+          "desc": "Bring in a teammate for ten minutes who wasn't on the original panel list."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to stand and sketch, not sit and speak",
+          "desc": "Have them draw the process on a board instead of describing it verbally."
+        }
+      ],
+      "script": "\"Let's actually stand up and sketch this on the whiteboard instead of talking it through.\"",
+      "watchFor": "Their fluent pace drops and their answers get shorter and more literal.",
+      "ifItFails": "Some candidates adapt fast and recover their polish in the new format within minutes. If that happens, you've learned something too: they perform well under an unfamiliar setup, which is its own real signal. Note it and move to a content-based follow-up instead of another format change. Do not use this move in a legally structured panel process where every candidate must get an identical format — that invites a fairness complaint.",
+      "counter": "If you are the candidate and the format suddenly changes, recognize the test.\n• Notice the switch from talking to whiteboard, or seated to standing.\n• Don't panic — the change tests adaptability, not your prepared story.\n• Say: <strong>\"Sure, give me a second to think out loud while I sketch.\"</strong>",
+      "insight": "Changing the format breaks memorized delivery, but it also breaks calibration for candidates who are simply nervous, not dishonest. The next problem is telling those two apart.",
+      "example": "Priya's team always ran flat video Q&A. For one over-coached finalist, she switched to a shared whiteboard mid-call. His fluent pitch cracked into halting, real thinking — and it was better thinking than the polished version had been."
+    },
+    {
+      "id": 5,
+      "cat": "preparedAnswers",
+      "danger": "low",
+      "title": "Spot the STAR Answer That's Too Clean",
+      "when": "A candidate answers 'tell me about a time' with a flawless setup, conflict, and triumphant result.",
+      "hook": "Real work is messy. <strong>A story with no mess in it was written for an audience, not lived.</strong>",
+      "truth": "The STAR method teaches a shape, and thousands of coaches teach the same shape.\n• A too-perfect arc means the story was built backward from the ending.\n• Real events have loose threads: unclear credit, unresolved parts, luck.\n• The trap: a clean story feels more credible, but real ones rarely are that neat.",
+      "principle": "Social Desirability Bias",
+      "remember": "Real stories have loose ends. Rehearsed ones tie up too neatly.",
+      "theySee": "An interviewer who seems impressed by a confident, tidy story.",
+      "signals": [
+        {
+          "icon": "🎀",
+          "l": "No loose ends",
+          "t": "Every detail in the story serves the happy ending, nothing extra."
+        },
+        {
+          "icon": "🏆",
+          "l": "Solo hero",
+          "t": "They are the single hero of the story with no messy team credit."
+        },
+        {
+          "icon": "📈",
+          "l": "Round numbers",
+          "t": "Every result is a suspiciously clean number like 'doubled' or '50%'."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask who else was in the room",
+          "desc": "Get them to name one other person and what that person actually did."
+        },
+        {
+          "n": "2",
+          "title": "Ask what didn't work first",
+          "desc": "Ask for the failed attempt before the one that worked."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the exact number, not the rounded one",
+          "desc": "Push for the real figure behind '50% faster' or 'doubled revenue.'"
+        }
+      ],
+      "script": "\"Who else was in that room, and what did they actually do?\"",
+      "watchFor": "They stumble naming a specific teammate or admit someone else did the harder part.",
+      "ifItFails": "They have a smooth co-star ready too — the story was built as a two-person script. Ask for a third name and a specific disagreement: <strong>\"Did anyone push back on the approach? What did they say?\"</strong> Conflict is the hardest part to fake convincingly.",
+      "counter": "If you are the candidate and you're asked who else was there, this is a mess-check.\n• Do not protect the clean version — name the real, messier credit split.\n• A true story with someone else's win in it reads as more credible, not less.\n• Say: <strong>\"Actually, Dana solved the hard part — I ran the rollout.\"</strong>",
+      "insight": "A too-clean story is a flag, not proof of a lie. The next move is deciding how much messiness is normal memory-smoothing versus an outright fabrication.",
+      "example": "An interviewer heard a flawless 'I saved the launch' story from a candidate. When asked who else was in the room, the candidate named a teammate and admitted that person actually caught the bug first. The story got more believable, not less, and he got the offer."
+    },
+    {
+      "id": 6,
+      "cat": "preparedAnswers",
+      "danger": "low",
+      "title": "Catch Them Quoting the Job Post Back at You",
+      "when": "A candidate's answer uses the exact phrases from your job description or your company's website.",
+      "hook": "They didn't discover they're 'data-driven.' <strong>They read it in your posting an hour ago.</strong>",
+      "truth": "Mirroring your own language back to you feels like a match because it sounds familiar.\n• Matching your words creates false rapport — it feels like alignment, but it's homework.\n• Real experience uses the candidate's own words, not your marketing copy.\n• The trap: familiar language reads as 'culture fit' when it's actually just research.",
+      "principle": "Goffman: Impression Management",
+      "remember": "If they sound like your job post, they read your job post. That's it.",
+      "theySee": "An interviewer who seems pleased the candidate 'gets' the company's values.",
+      "signals": [
+        {
+          "icon": "🪞",
+          "l": "Exact phrase match",
+          "t": "They repeat a specific phrase straight from your careers page."
+        },
+        {
+          "icon": "🎯",
+          "l": "Suspicious alignment",
+          "t": "Their 'personal values' match your stated company values word for word."
+        },
+        {
+          "icon": "📖",
+          "l": "Recited tone",
+          "t": "The phrase comes out sounding quoted, not lived."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask them to define the term in their own words",
+          "desc": "When they say 'data-driven,' ask what that means specifically to them."
+        },
+        {
+          "n": "2",
+          "title": "Ask for one time they failed to be that thing",
+          "desc": "Ask when they weren't data-driven and what happened."
+        },
+        {
+          "n": "3",
+          "title": "Drop your own buzzwords from the next question",
+          "desc": "Rephrase your follow-up without using the company's language at all."
+        }
+      ],
+      "script": "\"You said 'data-driven' — walk me through the last decision you made without enough data.\"",
+      "watchFor": "They pause because the follow-up doesn't match the phrase they prepped around.",
+      "ifItFails": "They have a backup story that also uses the buzzword smoothly. Drop the term completely and ask for a raw number instead: <strong>\"What's one metric you check every single week, right now?\"</strong> A real habit produces an instant, specific answer.",
+      "counter": "If you are the candidate, using the job posting's language is fine — but back it with your own story.\n• Notice if you're leaning on their words instead of your own experience.\n• Swap 'I'm data-driven' for the actual dashboard you check daily.\n• Say: <strong>\"I check conversion rate and refund rate every Monday morning.\"</strong>",
+      "insight": "Mirroring language gets candidates past a first screen because it feels like fit. The next question is whether real fit and borrowed vocabulary can be told apart at all in month one.",
+      "example": "A hiring manager noticed a candidate's answers matched the job posting almost word for word. She asked what metric he checked weekly. He named one, instantly, with the exact dashboard tool. The buzzwords were borrowed; the habit underneath was real."
+    },
+    {
+      "id": 7,
+      "cat": "preparedAnswers",
+      "danger": "moderate",
+      "title": "Listen for the Missing Pronoun",
+      "when": "A candidate tells a team story and keeps saying 'we' when you asked what they personally did.",
+      "hook": "'We' hides a person who didn't do much. <strong>Find out which 'we' they actually were.</strong>",
+      "truth": "Group pronouns let a candidate borrow credit without a direct claim they'd have to defend.\n• 'We shipped it' avoids saying whether they wrote the code or watched from a meeting.\n• Vague team language often means a small, unclear personal contribution.\n• The trap: assuming 'we' equals 'I' hires someone else's résumé.",
+      "principle": "Linguistic Distancing (Deceptive Language Analysis)",
+      "remember": "If they keep saying 'we,' ask what 'I' actually did.",
+      "theySee": "An interviewer nodding along to a team success story.",
+      "signals": [
+        {
+          "icon": "👥",
+          "l": "Constant 'we'",
+          "t": "They never once say 'I' when describing the actual work."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Vague verbs",
+          "t": "They say 'we worked on it' instead of naming a specific action."
+        },
+        {
+          "icon": "🔀",
+          "l": "Role dodge",
+          "t": "They avoid stating their title or exact task on the project."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what their specific line item was",
+          "desc": "Ask what task had their name next to it on the project plan."
+        },
+        {
+          "n": "2",
+          "title": "Ask what they'd have done if the team was half the size",
+          "desc": "Force them to isolate their own contribution from the group's."
+        },
+        {
+          "n": "3",
+          "title": "Ask who they'd call today with a question about it",
+          "desc": "A real contributor knows exactly who owned which piece."
+        }
+      ],
+      "script": "\"You keep saying 'we' — what was the one part that was specifically yours?\"",
+      "watchFor": "Their answer gets noticeably shorter, or they name a small, honest piece of the work.",
+      "ifItFails": "They confidently claim the whole project as personally theirs, which is its own red flag. Cross-check with a reference: <strong>\"I'll ask your old team lead the same question — what will they say your part was?\"</strong> Watch their face, not just their words.",
+      "counter": "If you are the candidate and get asked to isolate your part, don't get defensive.\n• Notice this is a normal, fair check, not an accusation.\n• Name your literal piece even if it sounds smaller than the team win.\n• Say: <strong>\"My specific piece was the rollout plan — Sam wrote the core feature.\"</strong>",
+      "insight": "The missing pronoun catches inflated credit, but team players genuinely think in 'we' by habit. The harder read is telling modest team culture from a resume built on someone else's work.",
+      "example": "An interviewer noticed a candidate said 'we' fourteen times describing one product launch. Asked for his specific line item, he named the rollout email sequence — a real, small, honest answer. It matched the reference check exactly."
+    },
+    {
+      "id": 8,
+      "cat": "preparedAnswers",
+      "danger": "moderate",
+      "title": "Weigh the Shape of the Answer, Not the Content",
+      "when": "You're listening to a story and the facts sound fine but something about how it's told feels off.",
+      "hook": "Liars over-explain. <strong>Truth-tellers leave gaps because they're not managing your reaction.</strong>",
+      "truth": "A real memory comes out roughly in order, with a few sensory details, and some 'I don't remember exactly.'\n• Real memories have irregular detail: sharp on one part, blurry on another.\n• A rehearsed account has even, managed detail all the way through.\n• The trap: extra detail sounds more credible, but constructed stories often over-detail on purpose.",
+      "principle": "Statement Validity Analysis (Reality Monitoring)",
+      "remember": "Real memories are patchy. Rehearsed ones are evenly polished.",
+      "theySee": "An interviewer listening closely, maybe re-asking the same story from a new angle.",
+      "signals": [
+        {
+          "icon": "🧵",
+          "l": "Even detail",
+          "t": "Every part of the story has the same, careful level of detail."
+        },
+        {
+          "icon": "🚫",
+          "l": "No 'I don't recall'",
+          "t": "They never say they forgot a date, name, or exact number."
+        },
+        {
+          "icon": "🎬",
+          "l": "Chronological perfect",
+          "t": "The story runs in flawless order with no jumping around."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask them to tell it out of order",
+          "desc": "Ask what happened right before the ending, then loop back to the middle."
+        },
+        {
+          "n": "2",
+          "title": "Ask for one small, unimportant detail",
+          "desc": "Ask what day of the week it was, or what tool was open on their screen."
+        },
+        {
+          "n": "3",
+          "title": "Compare this telling to an earlier one",
+          "desc": "If you asked about it before, check whether small details shifted."
+        }
+      ],
+      "script": "\"Actually, back up — what happened right before that part?\"",
+      "watchFor": "They hesitate, or the story loses its smooth rhythm when told out of sequence.",
+      "ifItFails": "They tell it out of order just as smoothly, which means it's either deeply rehearsed or genuinely well-remembered — you can't be sure which from delivery alone. Stop reading tone and go check the facts externally: pull a reference who was there. Do not treat delivery quirks alone as proof of dishonesty in a final decision — that risks rejecting an honest, nervous candidate.",
+      "counter": "If you are the candidate and asked to retell something out of order, stay calm.\n• This is a normal consistency check, not an accusation.\n• Don't force a smooth answer — let it come out messier this time.\n• Say: <strong>\"Let me think — right before that, we were still debugging the login issue.\"</strong>",
+      "insight": "Delivery patterns are a hint, never proof — nervous honest people and smooth liars can look identical. The real work happens later, cross-checking the story against someone else's account.",
+      "example": "A recruiter asked a candidate to retell a project story starting from the middle instead of the beginning. The candidate lost his smooth rhythm, went quiet, then rebuilt it honestly with real gaps. The recruiter trusted the messier version more."
+    },
+    {
+      "id": 9,
+      "cat": "breakingTheScript",
+      "danger": "low",
+      "title": "Ask for the Boring Detail They Didn't Prep",
+      "when": "A candidate just finished a big, impressive story and you want to know if it's real.",
+      "hook": "Nobody rehearses the boring part. <strong>That's exactly where you should dig.</strong>",
+      "truth": "Prep time goes to the exciting parts of a story — the win, the pitch, the drama.\n• Coaching sessions focus on the headline moment, not the paperwork around it.\n• The boring logistics — who approved it, what tool, what date — rarely get rehearsed.\n• The trap: skipping the boring follow-up means you never test if the story is real.",
+      "principle": "Voss: Calibrated Questions",
+      "remember": "Nobody rehearses the boring part. Ask about that instead.",
+      "theySee": "An interviewer asking a small, unglamorous logistics question after a big story.",
+      "signals": [
+        {
+          "icon": "🗂️",
+          "l": "Approval chain",
+          "t": "You ask who signed off, and they hesitate or guess."
+        },
+        {
+          "icon": "🛠️",
+          "l": "Tool name",
+          "t": "You ask which specific tool or system they used, and the answer is vague."
+        },
+        {
+          "icon": "📅",
+          "l": "Timing gap",
+          "t": "You ask roughly when it happened, and the timeline doesn't add up."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait until the big story is fully told",
+          "desc": "Let them finish the impressive version completely before you dig."
+        },
+        {
+          "n": "2",
+          "title": "Ask one small logistics question",
+          "desc": "Ask who approved the budget, what software they used, or the exact month."
+        },
+        {
+          "n": "3",
+          "title": "Compare the answer's confidence to the main story's",
+          "desc": "Notice if the confident tone drops for this smaller detail."
+        }
+      ],
+      "script": "\"Quick detail — who actually signed off on that budget?\"",
+      "watchFor": "Their answer comes slower and less confidently than the main story did.",
+      "ifItFails": "They answer the boring detail just as smoothly, which means either it's true or they over-prepped the whole thing. Ask for a second, unrelated boring detail from the same story: <strong>\"And what was the vendor's name?\"</strong> Two boring details in a row are much harder to invent on the spot.",
+      "counter": "If you are the candidate and get a small logistics question after a big story, answer plainly.\n• This isn't a trap if your story is true — just answer what you remember.\n• If you genuinely don't recall a small detail, say so.\n• Say: <strong>\"Honestly I don't remember the exact vendor, but I can check.\"</strong>",
+      "insight": "Boring details are hard to fake but easy to forget honestly. The next problem is not punishing a real candidate for a normal memory gap.",
+      "example": "After a candidate's impressive turnaround story, the interviewer asked who approved the extra budget. The candidate blanked for a second, then said honestly 'my manager, I'd have to check the name.' The hesitation matched a true, slightly hazy memory — not a lie."
+    },
+    {
+      "id": 10,
+      "cat": "breakingTheScript",
+      "danger": "moderate",
+      "title": "Make Them Argue the Other Side",
+      "when": "A candidate just delivered a confident, one-sided opinion about how they'd solve a problem.",
+      "hook": "Anyone can defend their own idea. <strong>Watch what happens when you make them attack it.</strong>",
+      "truth": "A rehearsed pitch only survives from one direction because it was never stress-tested from the other.\n• Prepped answers are built to be delivered, not defended under pressure.\n• Arguing against their own position forces real, live thinking.\n• The trap: a candidate who can't argue against themselves may not have thought it through at all.",
+      "principle": "Greene: Law 17 — Unpredictability",
+      "remember": "Make them argue against their own answer. Watch what happens.",
+      "theySee": "An interviewer politely pushing back and asking for the counter-case.",
+      "signals": [
+        {
+          "icon": "🔄",
+          "l": "Flat reversal",
+          "t": "They just restate the same opinion louder instead of engaging."
+        },
+        {
+          "icon": "🤔",
+          "l": "Real pause",
+          "t": "They visibly think before answering, unlike their first smooth pitch."
+        },
+        {
+          "icon": "🛡️",
+          "l": "Defensive tone",
+          "t": "Their voice gets tighter or more clipped than before."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Let them finish their confident answer",
+          "desc": "Don't interrupt the pitch — let it play out fully first."
+        },
+        {
+          "n": "2",
+          "title": "Ask them to build the strongest case against it",
+          "desc": "Ask what a smart critic would say is wrong with their plan."
+        },
+        {
+          "n": "3",
+          "title": "Push once more if the counter-case is weak",
+          "desc": "Ask for one more specific flaw if the first answer is vague."
+        }
+      ],
+      "script": "\"Good — now argue against it. What's the strongest case that you're wrong?\"",
+      "watchFor": "They generate a genuinely new point instead of restating their original answer.",
+      "ifItFails": "They flatly refuse or say 'I don't see a weakness,' which is itself informative — treat it as a real answer, not a dodge to push past. Note it and move on: <strong>\"Fair enough — let's talk about a time you were actually wrong about something like this.\"</strong> Shift from hypothetical to a past event, which is harder to spin.",
+      "counter": "If you are the candidate and asked to argue against your own answer, don't get defensive.\n• This tests thinking, not your original answer's quality.\n• Give a real weakness, even a small one — total certainty reads as rigid.\n• Say: <strong>\"Fair — the risk is it's slower to set up than the quick fix.\"</strong>",
+      "insight": "This move separates a memorized pitch from real judgment fast. It fails on candidates who are simply too junior to have formed a counter-view yet, and that's a different problem than dishonesty.",
+      "example": "A candidate pitched a confident migration plan. Asked to argue against it, she paused, then named a real timeline risk she hadn't mentioned. The interviewer trusted the plan more, not less, because she could see its edges."
+    },
+    {
+      "id": 11,
+      "cat": "breakingTheScript",
+      "danger": "low",
+      "title": "Go Back to the Same Story Twice",
+      "when": "You're 40 minutes into a long interview and want to check if an earlier story holds up.",
+      "hook": "A true story stays the same shape twice. <strong>A built one shifts slightly each time you ask.</strong>",
+      "truth": "Memory of real events is stable in outline even if wording changes.\n• A true story keeps the same people, order, and outcome on a retell.\n• A constructed story can shift details because there's no memory anchor, just a script.\n• The trap: asking once and moving on means you never catch the drift.",
+      "principle": "Consistency Check — Behavioral Interviewing Cross-Reference",
+      "remember": "Ask about it once early, once late. See if the story moves.",
+      "theySee": "An interviewer circling back later, seemingly just making conversation.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Detail shift",
+          "t": "A name, number, or order changes between the first and second telling."
+        },
+        {
+          "icon": "😮",
+          "l": "Caught off guard",
+          "t": "They seem surprised you remembered to ask about it again."
+        },
+        {
+          "icon": "🧷",
+          "l": "Overcorrection",
+          "t": "They add extra detail the second time that wasn't there the first."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Note one detail from an early story",
+          "desc": "Write down a specific name, date, or number they gave you early on."
+        },
+        {
+          "n": "2",
+          "title": "Bring it up again later, framed as new",
+          "desc": "Ask about the same event again like it's a fresh question."
+        },
+        {
+          "n": "3",
+          "title": "Compare the two answers after the call",
+          "desc": "Check your notes side by side for anything that doesn't match."
+        }
+      ],
+      "script": "\"Going back to that migration project — remind me who greenlit it?\"",
+      "watchFor": "They pause, notice the repeat, or their second answer doesn't match the first.",
+      "ifItFails": "The two versions match perfectly, which just means the story is either true or deeply memorized — you still don't know which. Escalate to a reference check on that specific project: <strong>\"I'll confirm the timeline with your old manager — that's just process.\"</strong> Say it plainly, watch their reaction, not just their words.",
+      "counter": "If you are the candidate and get asked about the same story twice, relax.\n• This is a normal memory check, not a trap you failed already.\n• Give the same core facts; small wording differences are fine.\n• Say: <strong>\"Same one — Sam approved it in March, like I said.\"</strong>",
+      "insight": "A perfect match doesn't clear anyone, and a small mismatch doesn't convict them — memory is naturally imperfect. The real signal is a mismatch on something they'd have no reason to forget.",
+      "example": "An interviewer casually re-asked about a project's approver 30 minutes after the first mention. The candidate gave the same name instantly, without noticing the repeat. The consistency, given naturally, closed the question."
+    },
+    {
+      "id": 12,
+      "cat": "breakingTheScript",
+      "danger": "moderate",
+      "title": "Use Silence After the Rehearsed Line",
+      "when": "A candidate delivers a clearly memorized closing line and pauses for your reaction.",
+      "hook": "They rehearsed the line. <strong>They didn't rehearse what happens if you say nothing back.</strong>",
+      "truth": "A scripted answer is built to end on applause, not on more silence.\n• The rehearsed close expects a nod, a laugh, or the next question.\n• Silence removes the expected cue and forces them to keep talking, unscripted.\n• The trap: filling the silence yourself lets them exit the moment cleanly.",
+      "principle": "Voss: Silence as Leverage",
+      "remember": "Say nothing after their big line. Watch what they add next.",
+      "theySee": "An interviewer just looking at them, not reacting, not asking the next question yet.",
+      "signals": [
+        {
+          "icon": "🤐",
+          "l": "Visible discomfort",
+          "t": "They shift in their seat or repeat part of the line."
+        },
+        {
+          "icon": "➕",
+          "l": "Extra add-on",
+          "t": "They add unscripted detail just to fill the quiet."
+        },
+        {
+          "icon": "👀",
+          "l": "Reads your face",
+          "t": "They watch your expression closely, waiting for a cue."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Notice the rehearsed close as it happens",
+          "desc": "Recognize the tone shift that signals a memorized ending line."
+        },
+        {
+          "n": "2",
+          "title": "Say nothing for three full seconds",
+          "desc": "Hold eye contact and don't nod, speak, or write for a slow three count."
+        },
+        {
+          "n": "3",
+          "title": "Let whatever they add next be the real answer",
+          "desc": "Treat their unscripted follow-up as more honest than the original line."
+        }
+      ],
+      "script": "(Say nothing. Hold eye contact. Let the pause run three full seconds before your next question.)",
+      "watchFor": "They add something unplanned to fill the gap, often more revealing than the original line.",
+      "ifItFails": "They sit comfortably in the silence and let it stretch without adding anything — some candidates are simply trained for this too. Move on without comment: <strong>\"Okay — let's talk about something specific from last month instead.\"</strong> Do not turn the silence into a staring contest; it reads as hostile past five or six seconds and can sour a good candidate on the role.",
+      "counter": "If you are the candidate and the interviewer goes quiet after your answer, don't panic-fill it.\n• Recognize this as a pressure test, not disapproval.\n• A short pause on your end is fine — you don't have to fill dead air.\n• Say, calmly: <strong>\"That's my answer — happy to go deeper if useful.\"</strong>",
+      "insight": "Silence pulls unscripted words out of almost anyone. Do not run this on a candidate already visibly anxious — it reads as intimidation, not evaluation, and you'll lose good people who freeze under pressure rather than perform under it.",
+      "example": "After a polished closing line, an interviewer just held eye contact and said nothing. Three seconds in, the candidate added, unprompted, 'honestly, the first version of that plan failed.' That admission was the most useful thing said all interview."
+    },
+    {
+      "id": 13,
+      "cat": "breakingTheScript",
+      "danger": "high",
+      "title": "Change the Format Mid-Interview",
+      "when": "You are 20 minutes into a standard Q&A and every answer so far has felt performed.",
+      "hook": "They rehearsed for an interview. <strong>They didn't rehearse for a working session.</strong>",
+      "truth": "Rehearsal targets the expected format: question, answer, next question.\n• A sudden switch to a live task removes the format the script was built for.\n• Working live on a real problem shows actual process, not a memorized story.\n• The trap: this only works once per interview — use it on your most important gap.",
+      "principle": "Greene: Law 17 — Unpredictability",
+      "remember": "Stop asking questions. Hand them a real problem to solve live.",
+      "theySee": "An interviewer pulling up a real document or tool and asking them to work through it live.",
+      "signals": [
+        {
+          "icon": "😳",
+          "l": "Visible reset",
+          "t": "Their confident pace drops as they shift from talking to doing."
+        },
+        {
+          "icon": "🖊️",
+          "l": "Real thinking",
+          "t": "You see them actually work the problem instead of narrating a memory."
+        },
+        {
+          "icon": "❓",
+          "l": "Real questions",
+          "t": "They ask you clarifying questions about the live task, not about the format."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Prep one live task in advance",
+          "desc": "Bring one real, small problem from your team that fits in ten minutes."
+        },
+        {
+          "n": "2",
+          "title": "Announce the switch plainly",
+          "desc": "Tell them directly you're moving from talking to a short working exercise."
+        },
+        {
+          "n": "3",
+          "title": "Watch process, not the final answer",
+          "desc": "Grade how they work through it, not whether they land the perfect result."
+        }
+      ],
+      "script": "\"Let's switch gears — I'm going to share my screen and we'll work through a real ticket together.\"",
+      "watchFor": "They start asking specific, practical questions about the task instead of general ones about the process.",
+      "ifItFails": "They freeze or refuse, saying they need more context — sometimes that's fair, sometimes it's avoidance. Give one piece of missing context, then hold the ask: <strong>\"Here's the one detail you're missing — now take a first pass, even a rough one.\"</strong> Do not use this move in a legally standardized process where every candidate must get the identical format — an ad-hoc switch for one candidate only can expose you to a fairness complaint.",
+      "counter": "If you are the candidate and the format suddenly shifts to a live task, don't freeze up.\n• Recognize this tests real process, not memorized stories.\n• Talk out loud as you work — narrate your thinking, wrong turns included.\n• Say: <strong>\"Let me think out loud — first I'd check X, then...\"</strong>",
+      "insight": "A live task beats any interview question for honesty, but it only works if you have one ready and it's fair to run on this specific candidate. The next problem is building enough of these tasks that you're not always reusing the same one.",
+      "example": "Twenty minutes into a smooth Q&A, a hiring manager shared her screen and handed over a real, unsolved ticket. The candidate's fluent tone dropped, replaced by real, halting, useful thinking out loud. She hired him off that ten minutes alone."
+    },
+    {
+      "id": 14,
+      "cat": "whatTheyAskYou",
+      "danger": "low",
+      "title": "Read Their Questions as the Real Interview",
+      "when": "You've finished your questions and it's time for 'so, what do you want to ask me?'",
+      "hook": "Anyone can prep answers. <strong>Almost nobody can fake genuine curiosity about a job they don't actually want.</strong>",
+      "truth": "A rehearsed candidate preps answers far more than they prep good questions.\n• Answers get coached; questions rarely get the same attention.\n• The questions they ask reveal what they actually care about, unscripted.\n• The trap: a generic 'what's the culture like' question is often the least prepared moment — and the most honest.",
+      "principle": "Signal Theory — Costly Signals",
+      "remember": "What they ask you matters more than what they answered.",
+      "theySee": "An interviewer leaning in, genuinely curious what the candidate will ask.",
+      "signals": [
+        {
+          "icon": "💰",
+          "l": "Money first",
+          "t": "Their first real question is about pay, bonus, or equity."
+        },
+        {
+          "icon": "🧭",
+          "l": "Scope question",
+          "t": "They ask what happens if the role's priorities shift in six months."
+        },
+        {
+          "icon": "🫤",
+          "l": "No question",
+          "t": "They have no real question at all beyond the generic culture one."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Give real open space, not a rushed close",
+          "desc": "Leave five full minutes for their questions, not a rushed thirty seconds."
+        },
+        {
+          "n": "2",
+          "title": "Notice the order they ask things in",
+          "desc": "Track which topic they lead with — that's usually their real priority."
+        },
+        {
+          "n": "3",
+          "title": "Ask what prompted a specific question",
+          "desc": "If a question seems pointed, ask what made them think of it."
+        }
+      ],
+      "script": "\"What made you ask about that specifically?\"",
+      "watchFor": "They give an honest, sometimes unflattering reason for the question instead of a smooth deflection.",
+      "ifItFails": "They give a vague, safe answer like 'just curious' with no real reason behind it. Don't push further in the room — it's a soft signal either way. Note it and revisit in the debrief: <strong>\"Their first question was about remote flexibility, not the work — worth a follow-up email before we decide.\"</strong>",
+      "counter": "If you are the candidate, your questions are being read as closely as your answers.\n• Notice this and pick your first question deliberately.\n• Lead with something about the actual work, not pay or perks.\n• Say: <strong>\"What does success in this role look like at 90 days?\"</strong>",
+      "insight": "Questions leak priorities that answers hide. The next problem is a candidate who has learned to game this too — which the next card covers.",
+      "example": "A candidate's first question was about the exact bonus structure, before anything about the actual work. The hiring manager noted it, then asked what prompted it — the candidate admitted plainly he was choosing between two offers on comp alone. Useful, honest information, gathered for free."
+    },
+    {
+      "id": 15,
+      "cat": "whatTheyAskYou",
+      "danger": "low",
+      "title": "Notice When Their Questions Are Also Scripted",
+      "when": "A candidate asks you a question that sounds suspiciously like a 'good questions to ask in an interview' listicle.",
+      "hook": "Some candidates prep their questions as hard as their answers. <strong>A rehearsed question is still a script — just a second one.</strong>",
+      "truth": "Popular advice tells candidates to ask about growth, challenges, and success metrics.\n• Thousands of candidates ask the exact same three 'smart' questions from the same articles.\n• A truly curious question is usually oddly specific, not a listicle favorite.\n• The trap: rewarding the polished question is the same mistake as rewarding the polished answer.",
+      "principle": "Impression Management — Second-Order Scripting",
+      "remember": "A perfect question can be just as rehearsed as a perfect answer.",
+      "theySee": "An interviewer who seems pleased by a 'thoughtful' question.",
+      "signals": [
+        {
+          "icon": "📃",
+          "l": "Listicle question",
+          "t": "They ask 'what does success look like in 90 days,' word for word."
+        },
+        {
+          "icon": "🔂",
+          "l": "No follow-up",
+          "t": "They don't follow your answer with anything specific to what you said."
+        },
+        {
+          "icon": "🎭",
+          "l": "Delivery mismatch",
+          "t": "The question sounds more polished than their spontaneous answers did."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer fully, then wait for a follow-up",
+          "desc": "Give a real, detailed answer and see if they build on it."
+        },
+        {
+          "n": "2",
+          "title": "Ask what they'd do with your answer",
+          "desc": "Ask how what you just said changes their view of the role."
+        },
+        {
+          "n": "3",
+          "title": "Compare this question's polish to their live task",
+          "desc": "Weigh a scripted question less if their live problem-solving was weaker."
+        }
+      ],
+      "script": "\"Given what I just told you, does that change how you'd approach the first month?\"",
+      "watchFor": "They connect your specific answer to a real, adjusted thought instead of a generic thank-you.",
+      "ifItFails": "They just say 'that's helpful, thanks' with no real follow-up thought. That's a mild signal, not a disqualifier — plenty of good hires are just not natural conversationalists in an interview. Weigh it against everything else you saw, especially the live task from earlier.",
+      "counter": "If you are the candidate, don't just borrow a listicle question wholesale.\n• Notice if your planned question could apply to any company at all.\n• Swap in something specific to what the interviewer already told you.\n• Say: <strong>\"You mentioned the on-call rotation — how does that actually work week to week?\"</strong>",
+      "insight": "A scripted question isn't a lie — it's just low-effort curiosity. The harder question is whether low effort here predicts low effort on the job, or just interview nerves.",
+      "example": "A candidate asked the textbook '90 days success' question. The interviewer answered in detail, then asked if it changed his plan. He connected it to a specific first task, unprompted — the scripted opener led into a real, live thought."
+    },
+    {
+      "id": 16,
+      "cat": "whatTheyAskYou",
+      "danger": "low",
+      "title": "Ask Them What They'd Ask a Bad Candidate",
+      "when": "You want to see how the candidate actually thinks about hiring quality, not just their own pitch.",
+      "hook": "Ask them to hire someone else for a minute. <strong>Watch what standard they hold that person to.</strong>",
+      "truth": "People reveal their real standards when judging someone other than themselves.\n• Talking about a hypothetical bad hire removes the self-defense reflex.\n• Their answer shows what they actually value in the work, unfiltered.\n• The trap: this only works if the question feels like genuine curiosity, not a trick.",
+      "principle": "Perspective-Taking Probe",
+      "remember": "Ask what a bad candidate looks like. Their answer says who they are.",
+      "theySee": "An interviewer asking an odd, almost philosophical hiring question.",
+      "signals": [
+        {
+          "icon": "🪤",
+          "l": "Vague answer",
+          "t": "They give a generic answer like 'someone who doesn't fit the culture.'"
+        },
+        {
+          "icon": "🎯",
+          "l": "Specific tell",
+          "t": "They name a concrete red flag from their own experience."
+        },
+        {
+          "icon": "🪞",
+          "l": "Self-reveal",
+          "t": "Their answer accidentally describes their own weak spot."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Frame it as a real hiring question",
+          "desc": "Ask like you genuinely want their hiring opinion, not a trap."
+        },
+        {
+          "n": "2",
+          "title": "Push for a specific example, not a category",
+          "desc": "Ask for one real red flag they've actually seen in someone else."
+        },
+        {
+          "n": "3",
+          "title": "Note if it echoes anything they said about themselves",
+          "desc": "Check if their answer contradicts an earlier claim about their own work."
+        }
+      ],
+      "script": "\"If you were hiring for this role, what's one answer that would worry you?\"",
+      "watchFor": "They give a specific, confident answer instead of a vague, safe one.",
+      "ifItFails": "They deflect with something generic like 'everyone's different.' Don't push twice — it just tells you they'd rather not judge out loud, which is itself mildly useful data. Move to a more direct question instead: <strong>\"Fair — then tell me about a coworker who impressed you, and why.\"</strong>",
+      "counter": "If you are the candidate and asked this, don't dodge into vague territory.\n• Recognize they want a real opinion, not corporate safety.\n• Give a specific, honest red flag you've actually seen.\n• Say: <strong>\"Someone who blames the team for a miss without naming their own part.\"</strong>",
+      "insight": "This question works because judging others is easier than judging yourself. The next problem is the interview closing — you now have a read, but so does the candidate, on you.",
+      "example": "Asked what answer would worry him in a candidate, one applicant said 'someone who never mentions a specific number.' Twenty minutes earlier, he had been the one leaning on vague, unnumbered stories. The interviewer noticed the gap immediately."
+    },
+    {
+      "id": 17,
+      "cat": "theBackchannel",
+      "danger": "high",
+      "title": "Call the Reference Not on the List",
+      "when": "You have three glowing references handed to you, all clearly hand-picked.",
+      "hook": "Every reference on their list agreed to be there. <strong>Find someone who didn't get asked.</strong>",
+      "truth": "A hand-picked reference list is curated the same way a resume is.\n• Provided references were chosen because they'll say something specific and good.\n• A former colleague not on the list has no script to follow.\n• The trap: three perfect references tell you the candidate is good at picking references.",
+      "principle": "Machiavelli: Judge by Deeds, Not Words",
+      "remember": "Their reference list is curated. Find someone who isn't on it.",
+      "theySee": "Nothing — this happens outside the interview, without the candidate present.",
+      "signals": [
+        {
+          "icon": "📇",
+          "l": "Same title pattern",
+          "t": "All three references are peers or reports, never a manager who left on bad terms."
+        },
+        {
+          "icon": "🔗",
+          "l": "Shared network",
+          "t": "You find a mutual connection through LinkedIn who worked with them directly."
+        },
+        {
+          "icon": "🚪",
+          "l": "Gap in history",
+          "t": "There's an unexplained short stint at a company with no listed reference there."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find someone through LinkedIn, not the candidate's list",
+          "desc": "Search for a former manager or teammate at each past company."
+        },
+        {
+          "n": "2",
+          "title": "Ask a specific, factual question, not an opinion one",
+          "desc": "Ask what the candidate's actual title and main task was, not 'were they good.'"
+        },
+        {
+          "n": "3",
+          "title": "Check local laws and your own company policy first",
+          "desc": "Confirm back-channel checks are legal and permitted before you make the call."
+        }
+      ],
+      "script": "\"Hi — I'm doing a reference check on [name] for a role here. Do you have two minutes to confirm their role and dates?\"",
+      "watchFor": "A long pause, a vague non-answer, or a suddenly formal tone when you ask a simple factual question.",
+      "ifItFails": "You can't find anyone outside the candidate's list, which happens for genuinely private or junior roles too — that alone isn't damning. Fall back to verifying only the hard facts you can check independently: dates of employment, title, and degree, through HR or a records service. Do not use this move where local law requires the candidate's consent before you contact anyone off their list — check with your own legal or HR team first, every time.",
+      "counter": "If you are the candidate, assume someone off your list may get called.\n• Keep your resume dates and titles exactly accurate everywhere, always.\n• Don't rely on your chosen references to be your only story.\n• If asked, say plainly: <strong>\"Feel free to also reach out to anyone else from that team.\"</strong>",
+      "insight": "An unlisted reference is the single highest-value check in the whole process, and also the easiest one to run badly or illegally. The next problem is what you do when that reference says something that contradicts the candidate directly.",
+      "example": "A hiring manager found a former teammate of a finalist through LinkedIn, not on the reference list. She asked only for title and dates — both matched exactly. The extra call confirmed the resume in ten minutes flat, cleanly, with no drama."
+    },
+    {
+      "id": 18,
+      "cat": "theBackchannel",
+      "danger": "low",
+      "title": "Cross-Check Their Timeline Against LinkedIn",
+      "when": "You're reviewing a resume before the final round and something about the dates feels off.",
+      "hook": "A resume is a pitch document. <strong>LinkedIn, old posts, and public records are receipts.</strong>",
+      "truth": "A resume is written to be persuasive, so gaps and overlaps get smoothed over.\n• Month-only dates hide gaps that day-level dates would reveal.\n• Old public posts, tags, or project credits often contradict a polished timeline.\n• The trap: one small mismatch isn't proof of lying — a pattern of mismatches is.",
+      "principle": "Triangulation — Statement Validity",
+      "remember": "Check the resume against public records before you ask about it.",
+      "theySee": "Nothing yet — this check happens before you bring it up.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Month-only dates",
+          "t": "Every job listed uses only month and year, never exact dates."
+        },
+        {
+          "icon": "🕳️",
+          "l": "Silent gap",
+          "t": "LinkedIn shows a gap the resume smooths into one continuous line."
+        },
+        {
+          "icon": "🏷️",
+          "l": "Title inflation",
+          "t": "Their LinkedIn title differs from the resume title for the same job."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull up their public LinkedIn history",
+          "desc": "Compare each job's start and end month against the resume, side by side."
+        },
+        {
+          "n": "2",
+          "title": "Search their name with the company for old posts",
+          "desc": "Look for old project announcements, tags, or press mentions that confirm dates."
+        },
+        {
+          "n": "3",
+          "title": "Save the specific mismatch for a direct question later",
+          "desc": "Write down the exact discrepancy to raise plainly in the next conversation."
+        }
+      ],
+      "script": "\"Your resume shows you left in June, but LinkedIn shows August — help me understand the gap.\"",
+      "watchFor": "They give an immediate, specific, checkable explanation instead of a vague one.",
+      "ifItFails": "They get defensive or give a fuzzy non-answer to a direct date question. Don't argue the point live — just note it and verify independently. Say: <strong>\"No worries, we'll confirm exact dates with HR verification as part of the offer process.\"</strong> That alone often surfaces the truth without a confrontation.",
+      "counter": "If you are the candidate, keep every date on your resume accurate and matching LinkedIn.\n• Update both at the same time whenever you change jobs.\n• If there's a real gap, name it plainly instead of smoothing it out.\n• Say: <strong>\"I took four months off after that role — happy to talk about why.\"</strong>",
+      "insight": "Public records catch sloppy resumes fast, but a careful liar keeps both versions in sync. The real backstop is still a live human reference who remembers the actual dates.",
+      "example": "A recruiter noticed a two-month gap on LinkedIn that the resume had smoothed over. Asked about it directly, the candidate explained a short freelance stint with a client name and dates that checked out later. The gap turned out to be a plus, not a flag."
+    },
+    {
+      "id": 19,
+      "cat": "theBackchannel",
+      "danger": "moderate",
+      "title": "Read Between the Lines of a Careful Reference",
+      "when": "A reference gives you technically positive answers that somehow leave you with a bad feeling.",
+      "hook": "A reference who won't say anything bad often can't say anything good either. <strong>Listen to what's missing.</strong>",
+      "truth": "Most references are coached, by lawyers or habit, to avoid saying anything actionable.\n• A guarded reference sticks to dates and titles, and nothing else, on purpose.\n• What they refuse to confirm is often more telling than what they confirm.\n• The trap: 'no comment' policies hide real warnings behind careful legal language.",
+      "principle": "Litotes Detection — What a Reference Doesn't Say",
+      "remember": "What they won't say is louder than what they do say.",
+      "theySee": "Nothing — this is your read of their tone during the call, not a visible move.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Dates only",
+          "t": "They confirm only title and dates, nothing about performance."
+        },
+        {
+          "icon": "⏸️",
+          "l": "Long pause",
+          "t": "There's a noticeable pause before a simple 'would you rehire them' question."
+        },
+        {
+          "icon": "🙊",
+          "l": "Company policy line",
+          "t": "They say 'our policy is just to confirm employment' with a flat tone."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the direct rehire question anyway",
+          "desc": "Ask plainly if they would hire this person again, even knowing the policy answer."
+        },
+        {
+          "n": "2",
+          "title": "Time the pause before their answer",
+          "desc": "Notice how long they wait before responding, not just what they say."
+        },
+        {
+          "n": "3",
+          "title": "Ask what they'd want a new manager to know",
+          "desc": "Ask an open question that a strict policy doesn't fully block."
+        }
+      ],
+      "script": "\"I know policy limits what you can share — off the record, would you hire them again?\"",
+      "watchFor": "A long pause, a laugh with no follow-up, or an oddly careful 'I can't really say.'",
+      "ifItFails": "They stay completely neutral no matter how you phrase it, which is common at large companies with strict legal policies. Don't read too much into a purely policy-driven silence — check if the reference is HR (policy-bound) or a direct manager (usually more candid) before drawing a conclusion. This is not proof of a problem; treat a fully neutral HR reference as a null result, not a red flag.",
+      "counter": "If you are the candidate and a reference might be guarded, tell them what to expect.\n• Give your reference a heads-up on what the new employer might ask.\n• Ask them directly if they're comfortable giving a real endorsement.\n• Say to your reference beforehand: <strong>\"If you can't say much, that's fine — just let me know.\"</strong>",
+      "insight": "A careful reference is a coin flip between real trouble and corporate caution. The next problem is weighing a genuinely ambiguous signal without either over-punishing or ignoring it.",
+      "example": "A former manager confirmed only dates and title, flatly. Asked off the record if she'd rehire the candidate, she paused four full seconds before saying 'I'd need to think about that.' The pause said more than the words did."
+    },
+    {
+      "id": 20,
+      "cat": "theDecisionAndOffer",
+      "danger": "low",
+      "title": "Don't Let Polish Buy a Pass on Substance",
+      "when": "You're comparing two finalists and one clearly interviews better than the other.",
+      "hook": "The best interviewer is not always the best hire. <strong>Those are two different skills.</strong>",
+      "truth": "A confident, polished presence makes every claim feel more credible than it is.\n• Good delivery makes people assume good competence, even with no evidence.\n• The two skills — interviewing well and doing the job well — barely correlate.\n• The trap: you'll remember the smooth candidate fondly and misremember the substance.",
+      "principle": "Halo Effect",
+      "remember": "Interviewing well and doing the job well are two different skills.",
+      "theySee": "An interviewer who seemed charmed in the room but is now reviewing notes carefully.",
+      "signals": [
+        {
+          "icon": "✨",
+          "l": "Charm recall",
+          "t": "You remember liking them but struggle to recall a specific fact they gave."
+        },
+        {
+          "icon": "📉",
+          "l": "Thin notes",
+          "t": "Your written notes on the polished candidate are shorter than on the other one."
+        },
+        {
+          "icon": "🆚",
+          "l": "Weaker live task",
+          "t": "Their live problem-solving score is lower than their conversation score."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Score from your written notes only, not memory",
+          "desc": "Re-read your actual notes before you decide, ignoring your gut feeling."
+        },
+        {
+          "n": "2",
+          "title": "Separate a 'likability' score from a 'proof' score",
+          "desc": "Grade specific evidence of skill separately from how much you enjoyed the chat."
+        },
+        {
+          "n": "3",
+          "title": "Ask a second interviewer for their raw notes first",
+          "desc": "Get their written scores before they hear your opinion, to avoid influence."
+        }
+      ],
+      "script": "\"Before I say who I liked — what does your written scorecard actually show?\"",
+      "watchFor": "Your own memory of the polished candidate turns out thinner than your notes suggest it should be.",
+      "ifItFails": "The panel still leans toward the charming candidate even after reviewing notes side by side. Bring in one more data point that isn't about the room: <strong>\"Let's weigh the live task score and the reference check equally with the interview feel.\"</strong> A third input dilutes a single strong charm impression.",
+      "counter": "If you are the candidate, know that likability alone won't carry a careful interviewer.\n• Don't over-invest in charm at the expense of concrete detail.\n• Back every strong impression with a specific, checkable fact.\n• Say: <strong>\"Glad that landed — here's the actual number behind it.\"</strong>",
+      "insight": "Beating the halo effect on paper is easy. Beating it in the room, in real time, while you're the one being charmed, is the actual hard part.",
+      "example": "A panel favored the more charismatic finalist until they compared written scorecards. His notes were thin generalities; the quieter candidate's notes were dense with specific numbers. The quieter one got the offer."
+    },
+    {
+      "id": 21,
+      "cat": "theDecisionAndOffer",
+      "danger": "moderate",
+      "title": "Negotiate Assuming They Rehearsed the Ask Too",
+      "when": "You're about to make an offer to a candidate who has clearly prepped every answer, including this one.",
+      "hook": "They rehearsed their number. <strong>They rehearsed your objection to it too.</strong>",
+      "truth": "A well-prepped candidate scripts the negotiation, not just the interview.\n• Salary scripts anchor high and hold the line through the first pushback.\n• Their first 'no' is often planned, not a real limit.\n• The trap: treating their first hold as final gives away room you didn't need to.",
+      "principle": "Schelling: Anchoring and Commitment",
+      "remember": "Their first 'no' in negotiation is often part of the script too.",
+      "theySee": "A hiring manager who doesn't flinch at the number and asks a real follow-up instead.",
+      "signals": [
+        {
+          "icon": "🔒",
+          "l": "Rehearsed hold",
+          "t": "They repeat the exact same number, word for word, on the second ask."
+        },
+        {
+          "icon": "📊",
+          "l": "Market quote",
+          "t": "They cite a specific market range instead of a personal need."
+        },
+        {
+          "icon": "⏳",
+          "l": "No urgency",
+          "t": "They show no rush despite claiming another offer is pending."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what the number is actually built from",
+          "desc": "Ask what specific costs or offers the number is based on, not just the figure."
+        },
+        {
+          "n": "2",
+          "title": "Offer a trade, not a straight increase",
+          "desc": "Propose a different lever — start date, title, equity — instead of just raising cash."
+        },
+        {
+          "n": "3",
+          "title": "Give a real deadline back",
+          "desc": "Set your own clear timeline for a decision instead of an open-ended back and forth."
+        }
+      ],
+      "script": "\"Walk me through how you landed on that number specifically.\"",
+      "watchFor": "They hesitate or give a vaguer answer than the confident number itself.",
+      "ifItFails": "They hold the exact number with a clean, unshaken explanation every time you push. At that point, decide if the number is fair on its own merits, not because they held firm. Say: <strong>\"That number works if we can move the start date up two weeks — deal?\"</strong> Trade something concrete instead of just conceding cash.",
+      "counter": "If you are the candidate and your number gets tested hard, hold your reasoning, not just the number.\n• Expect a specific 'why that number' follow-up question.\n• Have one real reason ready, not just a market range quote.\n• Say: <strong>\"That's based on my current total comp plus the risk of switching.\"</strong>",
+      "insight": "A rehearsed ask isn't dishonest — it's just negotiation done well. The real question left is whether you're hiring someone this prepared, or trying to out-negotiate them.",
+      "example": "A candidate held the same number through two rounds of pushback, word for word. The hiring manager asked what it was built from; she gave a specific, reasoned breakdown instantly. He matched it, respecting that the number was real, not just a script."
+    },
+    {
+      "id": 22,
+      "cat": "theDecisionAndOffer",
+      "danger": "low",
+      "title": "Build the Probation Period as the Real Interview",
+      "when": "You've made the offer and the candidate accepted, but you still have a nagging doubt from the process.",
+      "hook": "The interview room is where they perform. <strong>The first 90 days are where they actually work.</strong>",
+      "truth": "Nobody can rehearse three months of real, daily tasks the way they rehearse an hour of questions.\n• Real work over weeks reveals patterns no interview format can fake that long.\n• A structured first 90 days catches what the interview couldn't.\n• The trap: treating the offer as the finish line wastes your best remaining information window.",
+      "principle": "Machiavelli: Trust Actions Over Promises",
+      "remember": "The interview is a performance. The first 90 days is the real test.",
+      "theySee": "A new manager who checks in often and reviews real, specific work early.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Weekly check-in",
+          "t": "You schedule short, regular check-ins instead of one 90-day review."
+        },
+        {
+          "icon": "🎯",
+          "l": "Named milestones",
+          "t": "You set specific, checkable goals for week two, four, and eight."
+        },
+        {
+          "icon": "🗒️",
+          "l": "Written record",
+          "t": "You keep short written notes on real output, not just impressions."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set three checkable milestones before day one",
+          "desc": "Write specific, measurable goals for weeks two, four, and eight."
+        },
+        {
+          "n": "2",
+          "title": "Schedule short weekly check-ins, not one big review",
+          "desc": "Meet briefly every week instead of waiting for a single 90-day verdict."
+        },
+        {
+          "n": "3",
+          "title": "Compare real early output to their interview claims",
+          "desc": "Check if their actual first work matches the skill level they described."
+        }
+      ],
+      "script": "\"Let's set three specific goals for your first month, so we both know what good looks like early.\"",
+      "watchFor": "Their real early output either confirms or contradicts what they claimed in the interview.",
+      "ifItFails": "Early performance is mixed or slow, which is normal for any new hire adjusting to a new team. Don't judge off week one alone — separate onboarding friction from a real skill gap by week six or eight, using your written milestones as the actual yardstick, not your gut feeling.",
+      "counter": "If you are the new hire, know your first 90 days are being watched closely, not just your interview.\n• Ask for the specific milestones up front, in writing.\n• Deliver something real and checkable early, not just activity.\n• Say: <strong>\"Can we agree on what a strong first month looks like, concretely?\"</strong>",
+      "insight": "The interview only ever tested the performance. The real dossier on this hire — the one that actually matters — starts on day one, not before it.",
+      "example": "A manager set three specific milestones before a new hire's first day instead of a vague 90-day review. By week four, the hire had hit two of three cleanly and flagged the third as blocked by another team. The manager finally had real data, not just interview memory."
+    }
+  ]
+}
