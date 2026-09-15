@@ -1,0 +1,700 @@
+{
+  "meta": {
+    "id": "srv-black-book-isolation",
+    "version": "1.0",
+    "title": "Black Book: Isolation",
+    "subtitle": "Spot it. Name it. Break it.",
+    "description": "Twelve cards on how isolation is built — in relationships and in teams. How it starts, how it escalates, and how to dismantle it before the last way out closes.",
+    "author": "AI",
+    "createdAt": "2026-09-15T17:58:00.556Z",
+    "tags": [
+      "isolation",
+      "control",
+      "relationships",
+      "workplace",
+      "dark psychology",
+      "tactics"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🔒",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting isolation tactics in a relationship or team",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "recognition",
+      "label": "Spotting the Pattern",
+      "color": "#7B2D8B"
+    },
+    {
+      "key": "tactics",
+      "label": "How They Do It",
+      "color": "#C0392B"
+    },
+    {
+      "key": "control",
+      "label": "Control Mechanisms",
+      "color": "#E67E22"
+    },
+    {
+      "key": "progression",
+      "label": "How It Escalates",
+      "color": "#6C3483"
+    },
+    {
+      "key": "team",
+      "label": "Workplace Signals",
+      "color": "#2980B9"
+    },
+    {
+      "key": "counter",
+      "label": "Breaking Through",
+      "color": "#27AE60"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "recognition",
+      "danger": "low",
+      "title": "Spot the Flattery That Sets the Trap",
+      "hook": "They want all your time and it feels amazing. <strong>That's how it starts.</strong>",
+      "truth": "Most people miss isolation's beginning because it looks like devotion.\n• The isolator makes full-time togetherness the baseline before you realize it.\n• Once that routine is set, any break from it triggers guilt or anger.\n• By the time it feels controlling, months of habit are already working against you.",
+      "principle": "Foot-in-the-Door Effect",
+      "remember": "Feeling chosen and feeling trapped can start the same way.",
+      "theySee": "A new partner who cancels every other plan just to spend every evening with you.",
+      "signals": [
+        {
+          "l": "No outside plans",
+          "t": "They haven't made a plan that doesn't include you since you met.",
+          "icon": "📅"
+        },
+        {
+          "l": "Solo plans hidden",
+          "t": "You stop mentioning plans with friends to avoid their reaction.",
+          "icon": "🙊"
+        },
+        {
+          "l": "No lasting friends",
+          "t": "They have no friendships older than a few months.",
+          "icon": "👤"
+        },
+        {
+          "l": "Praise for staying",
+          "t": "They compliment you warmly every time you turn down going out.",
+          "icon": "💬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count the weeks",
+          "desc": "Write down how many weeks it has been since you saw a friend alone. If you can't remember the last time, that is your number."
+        },
+        {
+          "n": "2",
+          "title": "Name your baseline",
+          "desc": "Write what your social life looked like before this person showed up. That is your reference point — use it."
+        },
+        {
+          "n": "3",
+          "title": "Test one solo plan",
+          "desc": "Make one plan with a friend this week. Write down exactly how your partner reacts when you mention it."
+        }
+      ],
+      "script": "\"I'm grabbing dinner with [name] Thursday. I'll be back by nine.\"",
+      "counter": "The flattery-as-routine move shows itself in the guilt that follows any independence.\n• Notice if their warmth tracks when you give up plans and cools when you keep them.\n• Say: 'I'm keeping Thursday.' Watch whether that becomes a fight.\n• If refusing triggers anger, the devotion was never about you.",
+      "insight": "The harder part is that the person being isolated usually believes they chose to give up their social life themselves."
+    },
+    {
+      "id": 2,
+      "cat": "tactics",
+      "danger": "moderate",
+      "title": "Steady Criticism of Your People Is How the Network Gets Cut",
+      "hook": "They don't tell you to drop your friends. <strong>They just make you feel embarrassed to defend them.</strong>",
+      "truth": "Picking apart someone's support network is faster than banning contact outright.\n• Each criticism plants doubt about whether a specific friendship is worth keeping.\n• The target starts cutting friends themselves to avoid the arguments.\n• The isolator never has to issue a ban — you do the work for them.",
+      "principle": "Greene: Law 26 — Keep Your Hands Clean",
+      "remember": "You do the cutting yourself. They just make it cost too much not to.",
+      "theySee": "A partner who goes quiet or rolls their eyes every time a specific friend's name comes up.",
+      "signals": [
+        {
+          "l": "One friend targeted",
+          "t": "They criticize one specific person most — usually your closest one.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Loaded questions",
+          "t": "They ask 'why do you even like them?' after you mention seeing someone.",
+          "icon": "❓"
+        },
+        {
+          "l": "Cold after visits",
+          "t": "They're distant or sulking every time you return from seeing that person.",
+          "icon": "🌡️"
+        },
+        {
+          "l": "Better friends suggested",
+          "t": "They suggest you could find 'better' people without naming who.",
+          "icon": "⬆️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the criticized names",
+          "desc": "Write down every person your partner has said something negative about in the last month."
+        },
+        {
+          "n": "2",
+          "title": "Check who disappeared",
+          "desc": "See if the people criticized most are also the ones you've seen least recently. That gap is the pattern."
+        },
+        {
+          "n": "3",
+          "title": "Contact the top name",
+          "desc": "Reach out to whoever is at the top of that list today — text or call, no explanation needed."
+        }
+      ],
+      "script": "\"[Friend] and I go back ten years. I'm not dropping them.\"",
+      "counter": "This move escalates when the target defends the friend — that is when the real agenda shows.\n• Watch for negative comments that appear immediately after you mention seeing someone.\n• Ask: 'What specifically bothers you about them?' Force a plain answer.\n• If they can't name a real complaint, the criticism is about access, not the friend.",
+      "insight": "The real trap is that once you've cut three people, cutting the fourth feels normal."
+    },
+    {
+      "id": 3,
+      "cat": "tactics",
+      "danger": "moderate",
+      "title": "Guilt Is the Lock on the Door",
+      "hook": "They don't stop you from leaving. <strong>They make going out cost more than staying in.</strong>",
+      "truth": "Guilt works faster than a lock and doesn't leave marks.\n• They frame your independence as proof you don't care about the relationship.\n• Each time you stay home to avoid the fight, the pattern gets harder to break.\n• Going out starts to cost more emotional energy than it's worth, so you stop.",
+      "principle": "Loss Aversion",
+      "remember": "When going out always costs a fight, you stop going out.",
+      "theySee": "A partner who planned something romantic for tonight right after you mentioned your plans.",
+      "signals": [
+        {
+          "l": "Conflict on mention",
+          "t": "Arguments or big plans appear the moment you say you're going somewhere.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Love questioned",
+          "t": "They say 'if you loved me' when you want to see friends.",
+          "icon": "💔"
+        },
+        {
+          "l": "Goes silent",
+          "t": "They shut down emotionally the evening you leave.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Warm on early return",
+          "t": "They're affectionate and relieved every time you come back earlier than planned.",
+          "icon": "🌡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the last five times",
+          "desc": "Write the last five times you wanted to go out. Note which ones you skipped and the exact reason you gave yourself."
+        },
+        {
+          "n": "2",
+          "title": "Name the emotional cost",
+          "desc": "Write what going out costs you emotionally versus staying in. If staying is always easier, you're locked."
+        },
+        {
+          "n": "3",
+          "title": "Keep one plan this week",
+          "desc": "Pick one plan you would normally cancel. Keep it. Write down exactly what happens when you get home."
+        }
+      ],
+      "script": "\"I made these plans before tonight. I'm going.\"",
+      "counter": "The guilt move shows up as a perfectly timed disruption right when you have plans.\n• Notice if the emotional hit always follows your attempt at independence, not random timing.\n• Say: 'I'll be back by [time].' Don't negotiate the right to go.\n• If warmth on return only happens when you came back early, you're being trained.",
+      "insight": "The next question is whether you can keep a plan three times in a row without it costing you more each time."
+    },
+    {
+      "id": 4,
+      "cat": "control",
+      "danger": "high",
+      "title": "Constant Check-Ins Are Tracking, Not Care",
+      "hook": "Hourly calls asking where you are aren't sweet. <strong>They're a leash that tightens every time you don't answer fast enough.</strong>",
+      "truth": "The difference between care and surveillance is what happens when you don't respond immediately.\n• A caring partner checks in once; an isolator tracks every gap in response time.\n• Missing a check-in triggers punishment — anger, accusations, or withdrawal.\n• The target learns to answer immediately to avoid the cost. That's not love — that's a trained response.",
+      "principle": "Operant Conditioning: Variable Punishment",
+      "remember": "When not answering causes a fight, answering is no longer optional.",
+      "theySee": "A partner calling for the third time in one hour while you're at dinner with your sister.",
+      "signals": [
+        {
+          "l": "Missed-call stack",
+          "t": "You return to several texts asking where you are after 20 quiet minutes.",
+          "icon": "📞"
+        },
+        {
+          "l": "Anger at delay",
+          "t": "They are upset you didn't respond, not relieved you're okay.",
+          "icon": "😠"
+        },
+        {
+          "l": "Shows up unasked",
+          "t": "They appear in person to 'check in' at places you mentioned going.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Location mentioned",
+          "t": "They reference your location in conversation before you told them where you were.",
+          "icon": "📍"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log the check-ins",
+          "desc": "For the next three days, write down every time they contact you when you're out. Count the total."
+        },
+        {
+          "n": "2",
+          "title": "Note the reaction",
+          "desc": "The next time you take 30 minutes to respond, write down exactly what they say or do."
+        },
+        {
+          "n": "3",
+          "title": "Name it plainly",
+          "desc": "Say: 'You called four times in one hour. That's not concern — that's tracking me.'"
+        }
+      ],
+      "script": "\"I was at dinner. Four calls in one hour isn't concern — it's control.\"",
+      "counter": "If someone is tracking you this way, watch what they do with the information once they have it.\n• Notice if they reference your location or response time later in arguments as evidence of something.\n• Ask: 'What did you think happened?' Force the assumption out loud.\n• If the assumption is always suspicion, the check-in was never about safety.",
+      "insight": "This move usually comes right before the password demand — once they've established the right to track your time, the next target is your communications."
+    },
+    {
+      "id": 5,
+      "cat": "control",
+      "danger": "high",
+      "title": "Giving Up Your Passwords Gives Up Your Voice",
+      "hook": "They say it's about trust. <strong>It's about ending any conversation that might name what they're doing.</strong>",
+      "truth": "Access to your accounts means access to every person who might tell you something is wrong.\n• Any friend who notices the pattern gets read before they can reach you.\n• Any honest conversation about the relationship gets found and punished.\n• You learn to stop being honest with outsiders because it costs you — and the isolation holds.",
+      "principle": "Information Control: Panopticon Effect",
+      "remember": "If your messages can be read, you stop telling the truth in them.",
+      "theySee": "A partner standing over your shoulder while you type a reply to your mom.",
+      "signals": [
+        {
+          "l": "Password demanded",
+          "t": "They ask for your phone passcode, email password, or social media login.",
+          "icon": "🔑"
+        },
+        {
+          "l": "Read receipts checked",
+          "t": "They check who you've messaged and when without asking permission.",
+          "icon": "👀"
+        },
+        {
+          "l": "Private call anger",
+          "t": "They get upset when you step out of the room to take a call.",
+          "icon": "😤"
+        },
+        {
+          "l": "Message quoted back",
+          "t": "They reference something you wrote to someone else without explaining how they saw it.",
+          "icon": "💬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Audit your honesty",
+          "desc": "Think about the last three messages you sent a close friend. Did you leave anything out because it might be read?"
+        },
+        {
+          "n": "2",
+          "title": "State the line",
+          "desc": "Say out loud — then to them: 'My accounts are private. I don't share passwords with anyone.'"
+        },
+        {
+          "n": "3",
+          "title": "Send one honest message privately",
+          "desc": "Use a device or account they don't monitor. Send one fully honest message to someone you trust today."
+        }
+      ],
+      "script": "\"I don't share passwords. That's not distrust — that's a line I keep with everyone.\"",
+      "counter": "The 'trust means sharing passwords' line inverts the logic of trust on purpose.\n• Real trust doesn't require proof through surveillance — push back on the premise itself.\n• Ask: 'What would you do differently if you had access?' Make them say the real reason.\n• If they can't answer plainly, the demand is about control.",
+      "insight": "Once you've handed over the passwords, taking them back costs more than keeping your mouth shut — which is exactly the point."
+    },
+    {
+      "id": 6,
+      "cat": "control",
+      "danger": "extreme",
+      "title": "Financial Control Cuts the Last Way Out",
+      "hook": "No money means no options. <strong>That's not a side effect — it's the goal.</strong>",
+      "truth": "Money is the practical way out. Cutting access to it cuts the ability to leave.\n• They discourage or block employment to remove any income you control yourself.\n• Joint accounts make every purchase visible and negotiable.\n• When leaving requires money you don't have, the relationship becomes a room with no door.",
+      "principle": "DARVO + Resource Deprivation",
+      "remember": "No money means no door out. That's the point.",
+      "theySee": "A partner who pays every bill and hands you a weekly amount for groceries.",
+      "signals": [
+        {
+          "l": "Work discouraged",
+          "t": "They push back on job applications or interviews without giving a clear reason.",
+          "icon": "💼"
+        },
+        {
+          "l": "Account removed",
+          "t": "Your name was taken off a joint account, or you were never added to one.",
+          "icon": "🏦"
+        },
+        {
+          "l": "Spending questioned",
+          "t": "Every purchase you make, no matter how small, requires an explanation.",
+          "icon": "🧾"
+        },
+        {
+          "l": "No personal cash",
+          "t": "You have no money you can spend without it being tracked or approved first.",
+          "icon": "💸"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open a private account",
+          "desc": "Open a bank account in your name only at a bank they don't use. Do this in person — not online if they monitor your devices."
+        },
+        {
+          "n": "2",
+          "title": "Count what you own",
+          "desc": "List every asset you can access right now: cash, cards, property, valuables. Write the list somewhere they won't find it."
+        },
+        {
+          "n": "3",
+          "title": "Find one income path",
+          "desc": "Identify one way to earn money independently starting this week — shift work, freelance, anything that pays you directly."
+        }
+      ],
+      "script": "\"I'm opening my own account. That's not a discussion.\"",
+      "counter": "Rebuilding financial access is the first move — everything else waits until you have this.\n• Get one account they can't see before making any other decision.\n• Don't announce the account — this is not a negotiation.\n• If they find out and punish you for it, you have your answer about what this relationship is.",
+      "insight": "Financial control is usually the last piece of isolation to get put in place — and the first thing that needs to change before anything else can move."
+    },
+    {
+      "id": 7,
+      "cat": "progression",
+      "danger": "extreme",
+      "title": "Questions Become Commands Over Time",
+      "hook": "'Where were you?' is a question. <strong>'Don't leave this house' is what replaces it if you don't act.</strong>",
+      "truth": "Isolation escalates in a predictable pattern that most people miss because each step feels small.\n• Early: sweet questions — 'Why do you need anyone else when you have me?'\n• Middle: loaded accusations — 'You were flirting. Who is that text from? What are you hiding?'\n• Late: direct commands — 'Don't use your phone. Don't contact your family. Don't leave.'",
+      "principle": "Boiling Frog Effect: Gradual Escalation",
+      "remember": "Each small step feels minor. The total distance is enormous.",
+      "theySee": "A partner who started with daily check-in texts and now appears in person every time you go out.",
+      "signals": [
+        {
+          "l": "Tone shifted",
+          "t": "Questions that used to sound curious now sound like accusations about the same topics.",
+          "icon": "📊"
+        },
+        {
+          "l": "Faster to anger",
+          "t": "The time between suspicion and anger is getting shorter, not longer.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "New things banned",
+          "t": "Things that were fine six months ago now cause fights or are off-limits.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Commands stated flat",
+          "t": "Where you can go or who you can see is now stated as a fact, not asked as a question.",
+          "icon": "📢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map the timeline",
+          "desc": "Write three things that were fine when you started this relationship that now cause conflict. Estimate when each changed."
+        },
+        {
+          "n": "2",
+          "title": "Project six months forward",
+          "desc": "Based on how fast things escalated last year, write one sentence describing what this looks like in six more months."
+        },
+        {
+          "n": "3",
+          "title": "Tell one person today",
+          "desc": "Text or call one person outside the relationship. Describe one concrete thing that has changed. Say it plainly — no softening."
+        }
+      ],
+      "script": "\"Six months ago you asked where I was going. Now you're telling me I can't leave. I'm naming that.\"",
+      "counter": "If you see this pattern in someone else's relationship, help by naming the timeline — not attacking the person.\n• Ask: 'What was it like between you two a year ago?' Let them describe the distance themselves.\n• Don't call the partner bad — name the specific changes as facts.\n• Your job is to stay in contact so they have someone to call when they're ready.",
+      "insight": "People stay through the escalation because each step felt small at the time — the hard part is building the full timeline when you're inside it."
+    },
+    {
+      "id": 8,
+      "cat": "team",
+      "danger": "moderate",
+      "title": "The Employee Who Goes Quiet Is Being Pushed Out",
+      "hook": "Someone who stops speaking up in meetings isn't suddenly introverted. <strong>Something happened to them.</strong>",
+      "truth": "Workplace isolation shows up as behavioral changes before anyone names it.\n• An engaged person who now avoids eye contact and skips strategy talks has been cut out somewhere.\n• Mood shifts — going quiet, going negative, snapping at colleagues — follow exclusion, they don't cause it.\n• By the time the manager notices, the person has often already decided to leave.",
+      "principle": "Social Exclusion Effect (Ostracism)",
+      "remember": "When a good employee goes silent, check who stopped including them.",
+      "theySee": "A teammate who used to pitch ideas in every meeting and now sits in the back and says nothing.",
+      "signals": [
+        {
+          "l": "Stops speaking up",
+          "t": "They no longer contribute in group settings where they used to regularly.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Avoids eye contact",
+          "t": "They avoid looking at specific people in the room — not everyone, just certain ones.",
+          "icon": "👀"
+        },
+        {
+          "l": "Eats alone",
+          "t": "They eat alone or leave the building at lunch when they used to join the group.",
+          "icon": "🍽️"
+        },
+        {
+          "l": "Output drops",
+          "t": "Work quality or speed has dropped with no stated reason.",
+          "icon": "📉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check who they avoid",
+          "desc": "In the next meeting, note which specific people they won't look at or address. That's your lead — not the behavior, the direction of it."
+        },
+        {
+          "n": "2",
+          "title": "Get a private read",
+          "desc": "Ask them one-on-one: 'How's the team feeling to you lately?' Stop talking. Don't fill the silence."
+        },
+        {
+          "n": "3",
+          "title": "Map the exclusion",
+          "desc": "Ask: 'When were you last included in [specific meeting or project]?' Write the date down — then check who runs that meeting."
+        }
+      ],
+      "script": "\"You used to drive every strategy talk. You've been quiet for weeks. What changed?\"",
+      "counter": "If you're the one who has gone quiet, the move is to name what happened — not absorb it.\n• Say: 'I wasn't included in [meeting]. Is that intentional?' Force a yes or no.\n• Vague answers confirm the exclusion — push for specifics.\n• If it continues after you name it, go above the person doing it.",
+      "insight": "The employee everyone assumes 'just got quiet' usually has the clearest picture of what's wrong — which is exactly why someone is keeping them quiet."
+    },
+    {
+      "id": 9,
+      "cat": "team",
+      "danger": "high",
+      "title": "Getting Cut Out of the Loop Is a Power Move",
+      "hook": "One missed meeting invite is an accident. <strong>Six in a row is a plan.</strong>",
+      "truth": "Leaving someone out of information is how leaders damage standing without a direct attack.\n• The target loses context on decisions and starts looking uninformed when they speak.\n• Looking uninformed in front of peers does more damage faster than any public criticism.\n• The person cutting them out never has to say a word against them — the results do it.",
+      "principle": "Information Control: Status Erosion",
+      "remember": "Missing every decision slowly makes you look useless to everyone watching.",
+      "theySee": "A colleague who keeps getting surprised by decisions that everyone else already knew about.",
+      "signals": [
+        {
+          "l": "CC'd after the fact",
+          "t": "You're copied on emails after decisions are made, not before.",
+          "icon": "📧"
+        },
+        {
+          "l": "Second-hand news",
+          "t": "You hear about team decisions from people outside your direct group.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Meeting list gaps",
+          "t": "Meetings you used to attend no longer appear in your calendar.",
+          "icon": "📅"
+        },
+        {
+          "l": "Opinion skipped",
+          "t": "People stopped asking your view on things in your own area of work.",
+          "icon": "🙈"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Document the gaps",
+          "desc": "List every meeting, email thread, or decision from the last two weeks you were left out of. Keep this list somewhere permanent."
+        },
+        {
+          "n": "2",
+          "title": "Request inclusion in writing",
+          "desc": "Email your manager: 'I'd like to be included in [specific meeting]. Can you add me?' Get the response in writing."
+        },
+        {
+          "n": "3",
+          "title": "Build one outside ally",
+          "desc": "Identify one person outside your direct chain who will keep you informed. Reach out to them today with a specific question."
+        }
+      ],
+      "script": "\"I've been left off three meetings in my area. I need to know if that's intentional.\"",
+      "counter": "Once the person being excluded names it, the quiet part of the strategy is finished.\n• Reverse one exclusion immediately to reset how this looks to everyone watching.\n• If you can't reverse it without giving up real power, the exclusion was not worth what it costs you.\n• Everyone watching now knows it was done on purpose.",
+      "insight": "Fighting the exclusion loudly confirms you're rattled — the better move is pulling information from outside the loop while appearing unbothered."
+    },
+    {
+      "id": 10,
+      "cat": "recognition",
+      "danger": "extreme",
+      "title": "Emotional Dependence Is What All of This Was Building To",
+      "hook": "By the time you think you can't function without them, you are exactly where they needed you to be.",
+      "truth": "Every tactic in this dossier adds up to one result: you with no one left but them.\n• Without outside relationships, their version of what's real is the only one you hear.\n• Self-doubt grows when no one you trust reflects back that you're okay.\n• Leaving feels impossible not because of love — but because your whole world is one person.",
+      "principle": "Learned Helplessness (Seligman)",
+      "remember": "One person as your whole world means they control what's true.",
+      "theySee": "Someone who calls their partner before making any small decision — what to eat, who to text back, what to wear.",
+      "signals": [
+        {
+          "l": "Asks permission first",
+          "t": "They ask the partner's opinion before doing things they used to handle alone.",
+          "icon": "🙏"
+        },
+        {
+          "l": "One contact only",
+          "t": "They have no one to call when something goes wrong except the partner.",
+          "icon": "☎️"
+        },
+        {
+          "l": "Says can't function",
+          "t": "They say 'I don't know what I'd do without them' about practical daily tasks.",
+          "icon": "😶"
+        },
+        {
+          "l": "No solo plans",
+          "t": "They haven't made a plan that doesn't include their partner in months.",
+          "icon": "📅"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Make one decision alone",
+          "desc": "Today, make one decision — any decision — without consulting them. Write it down before and after."
+        },
+        {
+          "n": "2",
+          "title": "Call one outside person",
+          "desc": "Call or text one person from your life before this relationship. Say you've been out of touch. Start there and nothing more."
+        },
+        {
+          "n": "3",
+          "title": "Write what you lost",
+          "desc": "Write three things you used to decide or do confidently before this relationship that you now feel unsure about."
+        }
+      ],
+      "script": "\"I'm going to start making more decisions on my own. That's healthy — not a problem.\"",
+      "counter": "If you see this happening to someone else, don't attack the partner — rebuild the connection to them.\n• Stay steady: text them, show up, don't react if they cancel plans with you.\n• Ask what they think about things — not what their partner thinks.\n• Your job is to be one steady voice they hear regularly that isn't the person isolating them.",
+      "insight": "The harder question is what happens to the self-doubt that stays after the relationship ends — dependence is easier to build than confidence is to get back."
+    },
+    {
+      "id": 11,
+      "cat": "counter",
+      "danger": "low",
+      "title": "Rebuild the Network One Contact at a Time",
+      "hook": "Your old network isn't gone. <strong>Most of those people are waiting for you to reach back first.</strong>",
+      "truth": "The isolator bets the damage to your network is permanent. It usually isn't.\n• People who cared about you before mostly understand a long silence — they've seen this happen.\n• The first contact is the hardest; each one after gets cheaper.\n• One person back in contact can give you two more — they know others who knew you too.",
+      "principle": "Weak Ties Theory (Granovetter): Network Reactivation",
+      "remember": "One text to an old friend opens more than you think.",
+      "theySee": "An old friend getting a text out of nowhere from someone they haven't heard from in two years.",
+      "signals": [
+        {
+          "l": "Contact still exists",
+          "t": "You still have their number — that's all the door you need.",
+          "icon": "📱"
+        },
+        {
+          "l": "Shared contact",
+          "t": "Someone who knows both of you is still in your phone and reachable.",
+          "icon": "🔗"
+        },
+        {
+          "l": "Platform still active",
+          "t": "You still have access to a platform where old friends can find you.",
+          "icon": "💻"
+        },
+        {
+          "l": "Message received",
+          "t": "Someone from before has texted or emailed recently — that door is already open.",
+          "icon": "📬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick three names",
+          "desc": "Write three names from your life before the isolation. Don't rank them — just write the names down."
+        },
+        {
+          "n": "2",
+          "title": "Send the first message",
+          "desc": "Text the easiest one something simple: 'Hey, it's been too long. How are you?' Nothing more. Don't explain anything yet."
+        },
+        {
+          "n": "3",
+          "title": "Set one weekly contact",
+          "desc": "Put a standing reminder in your phone to reach out to someone outside your current situation once a week. Keep it every week."
+        }
+      ],
+      "script": "\"Hey. It's been way too long. I've been dealing with some stuff but I'd love to catch up.\"",
+      "counter": "If someone gets upset that you're reaching back out to old contacts, that reaction tells you exactly what they're protecting.\n• Name it: 'You're upset I texted [name]. That tells me I need to keep doing it.'\n• Don't negotiate the right to contact people you knew before this relationship.\n• Each reconnection makes the next confrontation cheaper to get through.",
+      "insight": "The move after the first contact isn't to explain everything — it's to stay in touch long enough that you have someone to call when you actually need to."
+    },
+    {
+      "id": 12,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Help Someone Being Isolated Without Pushing Them Away",
+      "hook": "Attack the partner and they'll defend the partner. <strong>Stay in contact and you might still be there when they're ready.</strong>",
+      "truth": "Trying to pull someone out of isolation by criticizing the isolator closes the door faster.\n• Attacking the partner puts the target in the position of defending them — every time.\n• Staying present — texting, showing up, not reacting to cancellations — is harder and more effective.\n• Your job isn't to convince them. It's to be one voice still there when they start to question.",
+      "principle": "Motivational Interviewing: Autonomy Support",
+      "remember": "Don't attack the person keeping them. Be there when they're ready to go.",
+      "theySee": "A friend who keeps texting even after every plan gets cancelled with no explanation given.",
+      "signals": [
+        {
+          "l": "Plans always cancelled",
+          "t": "They cancel consistently and the reason always involves their partner.",
+          "icon": "❌"
+        },
+        {
+          "l": "Short replies",
+          "t": "Texts that used to be long conversations are now one or two words.",
+          "icon": "💬"
+        },
+        {
+          "l": "Defends instantly",
+          "t": "Any mention of the partner triggers an immediate explanation or defense.",
+          "icon": "🛡️"
+        },
+        {
+          "l": "Late-night contact",
+          "t": "They only reach out late at night or during times their partner isn't around.",
+          "icon": "🌙"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send a no-pressure message",
+          "desc": "Send them something this week that requires no response: 'Thinking of you. No need to reply.'"
+        },
+        {
+          "n": "2",
+          "title": "Ask about them only",
+          "desc": "The next time you talk, ask: 'What have you been doing for yourself lately?' Don't ask about the relationship or the partner."
+        },
+        {
+          "n": "3",
+          "title": "Give them one open door",
+          "desc": "Say once, plainly: 'My door is open whenever. No questions asked.' Then don't repeat it — just stay reachable."
+        }
+      ],
+      "script": "\"No pressure at all — just wanted you to know I'm here whenever. That's it.\"",
+      "counter": "If the isolator has named you as the 'bad friend' to keep the target away from you, don't accept that label.\n• Stay in contact anyway — don't stop because you've been identified as the problem.\n• Keep a record of every time you reached out so you can show you never left.\n• When they come back, don't say 'I told you so' — just be there.",
+      "insight": "The question nobody answers is how long you stay present for someone who keeps cancelling — and at some point whether you also have to take care of yourself."
+    }
+  ]
+}

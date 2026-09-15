@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 73,
+  "manifestVersion": 74,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -611,7 +611,20 @@
       "url": "playbooks/playbook-srv-deciding-the-meeting-before-anyone-sits-down.json",
       "addedAt": "2026-09-14T23:50:17.591Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-isolation",
+      "title": "Black Book: Isolation",
+      "theme": "isolation",
+      "topic": "Spotting isolation tactics in a relationship or team",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🔒",
+      "url": "playbooks/playbook-srv-black-book-isolation.json",
+      "addedAt": "2026-09-15T17:58:00.556Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-14T23:50:17.591Z"
+  "generatedAt": "2026-09-15T17:58:00.556Z"
 }
