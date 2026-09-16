@@ -1,0 +1,593 @@
+{
+  "meta": {
+    "id": "srv-hold-your-line",
+    "version": "1.0",
+    "title": "Hold Your Line",
+    "subtitle": "The Broken-Record Defense",
+    "description": "Ten cards for when someone uses repetition as a weapon. How to spot it, hold it, and end it on your terms.",
+    "author": "AI",
+    "createdAt": "2026-09-16T17:56:26.093Z",
+    "tags": [
+      "assertiveness",
+      "negotiation",
+      "pressure tactics",
+      "dark psychology",
+      "refusal"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "🔄",
+    "fromServer": true,
+    "generation": {
+      "topic": "Holding your line when someone uses the broken-record push",
+      "cardCount": 10,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "read",
+      "label": "Spot the Push",
+      "color": "#1e3a5f"
+    },
+    {
+      "key": "anchor",
+      "label": "Lock Your Position",
+      "color": "#7c2d12"
+    },
+    {
+      "key": "compress",
+      "label": "Compress & Hold",
+      "color": "#14532d"
+    },
+    {
+      "key": "pressure",
+      "label": "Pressure Traps",
+      "color": "#581c87"
+    },
+    {
+      "key": "counter",
+      "label": "Counter-Moves",
+      "color": "#92400e"
+    },
+    {
+      "key": "exit",
+      "label": "End the Loop",
+      "color": "#1c1917"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "Spot the Broken-Record Push Before You Answer Again",
+      "hook": "They heard your no. They're repeating because repeating has worked on someone before — <strong>probably you</strong>.",
+      "truth": "The push looks like disagreement. It is conditioning. They repeat until something cracks.\n• They repeat to tire you out, not to understand your reasoning.\n• Each new reason you add gives them a new point to pick apart.\n• The loop stops when you stop rewarding it with fresh replies.",
+      "principle": "Extinction Burst (Behavioral Psychology)",
+      "remember": "They heard you the first time. This is not a debate.",
+      "theySee": "A person restating the same request in slightly different words, watching your face for any change in expression.",
+      "signals": [
+        {
+          "l": "Same words again",
+          "t": "They restate the request using nearly the same words a second time.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Eyes on your face",
+          "t": "They hold eye contact after finishing, watching closely for a crack in your expression.",
+          "icon": "👁"
+        },
+        {
+          "l": "Small new angle",
+          "t": "They add one minor new detail to make the same request sound like a fresh argument.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Pause, then push",
+          "t": "They wait a beat after your reply before launching the request again.",
+          "icon": "⏸"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the pattern to yourself",
+          "desc": "Before you answer again, tell yourself: 'This is the same request. Nothing has changed.' Say it in your head."
+        },
+        {
+          "n": "2",
+          "title": "Stop adding new reasons",
+          "desc": "Cross out any new reason forming in your head. You gave one reason. That is already one more than required."
+        },
+        {
+          "n": "3",
+          "title": "Draft your short repeat line",
+          "desc": "Write one sentence — your position in 10 words or fewer. That is your only line from here forward."
+        }
+      ],
+      "script": "\"I understand. My answer is still no.\"",
+      "counter": "When your push is spotted and named, the person has cut off your loop. They know the game.\n• If they say 'you've already said that,' your push is visible — stop immediately.\n• Shift to a genuine new point or drop the request entirely.\n• Continuing after they name it signals you know you are losing.",
+      "insight": "The harder part isn't spotting the loop — it's believing their persistence isn't evidence you're wrong."
+    },
+    {
+      "id": 2,
+      "cat": "anchor",
+      "danger": "low",
+      "title": "Lock Your Position Before the Conversation Starts",
+      "hook": "Walking in without a clear position is how you walk out saying yes to something you never wanted.",
+      "truth": "Ambiguity inside you reads as ambiguity outside. Pushers feel it before you open your mouth.\n• A clear inner position gives you a clean first line with no hesitation.\n• Hesitation in your opener gives the pusher a gap to move into immediately.\n• Your first sentence sets the floor — everything after is defense of it.",
+      "principle": "Schelling: Commitment Device",
+      "remember": "Know your answer before they ask. Decide alone, not under pressure.",
+      "theySee": "A person giving a clear, short answer with no visible pause or flinch.",
+      "signals": [
+        {
+          "l": "You trail off",
+          "t": "Your own sentence gets longer and softer as you try to justify a position you haven't fully decided.",
+          "icon": "📉"
+        },
+        {
+          "l": "You add 'maybe'",
+          "t": "You include a hedge word that opens the door to negotiation you didn't intend to offer.",
+          "icon": "🚪"
+        },
+        {
+          "l": "Pause at opener",
+          "t": "You take a visible beat before your first word, signaling you're still figuring it out.",
+          "icon": "⏳"
+        },
+        {
+          "l": "They lean in",
+          "t": "The other person moves slightly forward, reading your hesitation as an invitation to push.",
+          "icon": "⬆"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your position in one sentence",
+          "desc": "Before the conversation, write: 'My answer is X.' No conditions, no maybes. One sentence, decided alone."
+        },
+        {
+          "n": "2",
+          "title": "Say it out loud once",
+          "desc": "Repeat your sentence aloud. If it sounds weak, tighten it. If it sounds right, that is your opener word for word."
+        },
+        {
+          "n": "3",
+          "title": "Plan your first-pushback reply",
+          "desc": "Write the one sentence you will say after their first push. Same position. Three words shorter than the opener."
+        }
+      ],
+      "script": "\"I have thought about it. My answer is no.\"",
+      "counter": "When someone opens with a perfectly clean, short statement, they prepared. Don't mistake preparation for certainty.\n• Ask 'What would change that?' — a truly prepared person answers fast and specifically.\n• If they hesitate on that question, the position has a crack. Push there, once.\n• Don't push harder than three times or you signal your own weakness.",
+      "insight": "The real gap is between people who decide before the room and people who decide inside it — and the room always knows which one you are."
+    },
+    {
+      "id": 3,
+      "cat": "compress",
+      "danger": "low",
+      "title": "Give the Reason Once, Then Drop It",
+      "hook": "You owe them one reason. <strong>After that, repeating reasons is just handing them more to argue with.</strong>",
+      "truth": "One reason closes the loop. Two reasons open a debate. Three reasons hand them a sword.\n• A second reason signals the first wasn't enough — they hear doubt in the addition.\n• Each reason is a new target for them to knock down or argue around.\n• Once you've said why once, your job is to stop talking and hold the line.",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Say why once. After that, just repeat the answer.",
+      "theySee": "A person who said no, gave one short reason, and then went quiet when pushed again.",
+      "signals": [
+        {
+          "l": "Second reason forming",
+          "t": "You feel the urge to add more explanation after they push back once.",
+          "icon": "💬"
+        },
+        {
+          "l": "They ignore the reason",
+          "t": "They skip past your reason and repeat the request as if you said nothing at all.",
+          "icon": "🙉"
+        },
+        {
+          "l": "You qualify the why",
+          "t": "You add 'it's just that' or 'I mean, partly because' to soften the reason you already gave.",
+          "icon": "📎"
+        },
+        {
+          "l": "Explanation grows",
+          "t": "Each time you explain, the explanation gets longer — they are draining you on purpose.",
+          "icon": "📏"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State position plus one reason",
+          "desc": "Say your no and one clear reason in a single sentence. Keep the whole thing under 15 words."
+        },
+        {
+          "n": "2",
+          "title": "Cut the reason on the next reply",
+          "desc": "When they push back, say the same position with no reason attached. The reason already did its job."
+        },
+        {
+          "n": "3",
+          "title": "Write the stripped line right now",
+          "desc": "Write: 'My answer is still no.' That's it. No reason. Memorize it. That is your reply from push two onward."
+        }
+      ],
+      "script": "\"I already explained why. The answer is still no.\"",
+      "counter": "When someone gives one short reason then goes silent, they're holding the line on purpose. Don't probe the reason.\n• Attacking their reason shifts the debate to the wrong ground — you won't get the yes that way.\n• Ask one question: 'Is there anything that would change that?' Short, direct.\n• If they say no twice, it's over. The reason was a courtesy, not a negotiating point.",
+      "insight": "This works until you are in a relationship where not explaining is itself read as aggression — then the game changes."
+    },
+    {
+      "id": 4,
+      "cat": "compress",
+      "danger": "moderate",
+      "title": "Shorten Each Reply — Never Let Your Answer Grow",
+      "hook": "Every time your reply gets longer, you tell them the tactic is working. <strong>Shorten it. They'll feel the wall.</strong>",
+      "truth": "A longer answer signals there is a limit — and they are getting close to it. A shorter one signals there is no floor.\n• Length reads as stress. Stress reads as movement toward yes.\n• Each word past your first five is live bait for the next push.\n• The shortest version of your answer is the strongest version of your answer.",
+      "principle": "Behavioral: Extinction by Withdrawal",
+      "remember": "Longer answers signal cracks. Shorter answers signal a wall.",
+      "theySee": "A person giving shorter and shorter replies while staying completely calm.",
+      "signals": [
+        {
+          "l": "Your words increase",
+          "t": "You notice your second reply is longer than your first — stop and cut immediately.",
+          "icon": "📈"
+        },
+        {
+          "l": "They push again fast",
+          "t": "After each longer reply, they push again within seconds — the tactic is working on you.",
+          "icon": "🔁"
+        },
+        {
+          "l": "You add softeners",
+          "t": "You start saying 'I know this is hard' or 'I get where you're coming from' before repeating no.",
+          "icon": "🧩"
+        },
+        {
+          "l": "Tone softens",
+          "t": "Your voice drops or slows — they read this as weakening, not as calm.",
+          "icon": "📉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count your words on the first reply",
+          "desc": "After your opener, count the words. That is your ceiling. Every reply after must be shorter than the one before."
+        },
+        {
+          "n": "2",
+          "title": "Strip one element per reply",
+          "desc": "Remove one part of the previous reply each time. By reply three, you are down to four words or fewer."
+        },
+        {
+          "n": "3",
+          "title": "Practice the three-word version out loud",
+          "desc": "Say 'Still no.' or 'Not changing.' right now. That is where you are heading. Get comfortable there before you need it."
+        }
+      ],
+      "script": "\"Still no.\"",
+      "counter": "When someone gets shorter and shorter with you, they're not running out of words — they're cutting the rope.\n• Don't mistake brevity for rudeness. It's a deliberate signal the conversation is closing.\n• State your final ask clearly, once, in one sentence.\n• If they say two words back, the answer is no. Walk away.",
+      "insight": "The real test is whether you can hold 'still no' when the silence between you starts to feel like something you caused."
+    },
+    {
+      "id": 5,
+      "cat": "counter",
+      "danger": "low",
+      "title": "Acknowledge What They Said Without Agreeing With It",
+      "hook": "Repeating your no without acknowledging their point reads as robotic. Acknowledge and hold — that's the move.",
+      "truth": "People push harder when they feel completely ignored. A small acknowledgment takes that fuel away.\n• 'I hear that' costs you nothing and removes their 'you're not listening' weapon.\n• Acknowledgment is not agreement — don't let them frame it that way.\n• After acknowledging, go straight back to your line. No pause, no extra softening.",
+      "principle": "Voss: Label (Tactical Empathy)",
+      "remember": "Hear them out loud. Then repeat your answer. That ends the argument.",
+      "theySee": "A person nodding slightly, saying three words to show they heard, then calmly repeating the same answer.",
+      "signals": [
+        {
+          "l": "They say not listening",
+          "t": "They accuse you of ignoring them to make you over-explain yourself again.",
+          "icon": "👂"
+        },
+        {
+          "l": "Voice gets louder",
+          "t": "Their volume rises — usually means they feel unheard, not that they have a better argument.",
+          "icon": "🔊"
+        },
+        {
+          "l": "Repeat with feeling",
+          "t": "They add emotional weight to the same request, hoping you will feel the pain of refusing.",
+          "icon": "😤"
+        },
+        {
+          "l": "You feel guilty",
+          "t": "Guilt rises in your chest — the acknowledgment defuses this without costing your position.",
+          "icon": "💔"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick your acknowledge phrase now",
+          "desc": "Choose one: 'I hear that.' or 'I get it.' or 'That's fair.' Write it down. Use only one per conversation."
+        },
+        {
+          "n": "2",
+          "title": "Say it, then pause one second",
+          "desc": "Say the phrase, pause one second, then go directly into your repeat line. No bridge sentence between them."
+        },
+        {
+          "n": "3",
+          "title": "Rehearse the full combo out loud",
+          "desc": "Say: 'I hear that. My answer is still no.' Three times, out loud. It should sound natural, not scripted."
+        }
+      ],
+      "script": "\"I hear that. My answer is still no.\"",
+      "counter": "When someone acknowledges you and then holds, they've removed your 'you're not listening' card. Don't escalate.\n• Matching their volume or emotion makes you look reactive — they will stay calm and win the room.\n• Ask one specific question: 'What would change your answer?' That is your only useful move here.\n• If they won't answer that question, the position is final. They have decided.",
+      "insight": "The harder part is using this when you genuinely agree with their point but not with what they are asking for."
+    },
+    {
+      "id": 6,
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "Don't Apologize More Than Once",
+      "hook": "One apology shows you're human. <strong>Two apologies show them the door is still open.</strong>",
+      "truth": "Every extra apology signals that your guilt is bigger than your decision. They push on guilt.\n• The second apology tells them: make you feel worse and you will eventually give in.\n• Repeating apologies keeps you emotionally available to be worked on indefinitely.\n• One apology closes it. Say it, mean it, stop. Hold the line from there.",
+      "principle": "Loss Aversion (Kahneman)",
+      "remember": "Apologize once if you mean it. After that, you're negotiating with guilt.",
+      "theySee": "A person who said sorry once and did not say it again, even when pushed hard for more.",
+      "signals": [
+        {
+          "l": "You apologize twice",
+          "t": "You say 'I'm sorry' a second time after they show disappointment — the door is opening.",
+          "icon": "🚪"
+        },
+        {
+          "l": "They look hurt",
+          "t": "They make their hurt visible — a look, a sigh, a pause — to pull a second apology out of you.",
+          "icon": "😞"
+        },
+        {
+          "l": "You add 'I feel bad'",
+          "t": "You volunteer your guilt to them without being asked, giving them a tool to use against you.",
+          "icon": "🎁"
+        },
+        {
+          "l": "Answer weakens",
+          "t": "After apologizing, you soften 'no' into 'maybe later' or 'we'll see' without meaning to.",
+          "icon": "📉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the one apology clearly",
+          "desc": "If you genuinely regret the impact, say 'I'm sorry this is hard.' Once. Mean it. Done. Move on immediately."
+        },
+        {
+          "n": "2",
+          "title": "Hold the line right after",
+          "desc": "Say your repeat line immediately after the apology. No pause long enough for them to respond to the apology alone."
+        },
+        {
+          "n": "3",
+          "title": "Name the guilt-lever to yourself",
+          "desc": "Write down what they said or did that made you want to apologize again. That is the pressure move. Name it privately."
+        }
+      ],
+      "script": "\"I'm sorry it's disappointing. The answer is still no.\"",
+      "counter": "When someone apologizes once and then holds, the apology is a release valve — not a signal to keep pushing.\n• Treating the apology as weakness and pushing harder teaches them to stop apologizing next time.\n• If you heard the apology, accept it and either ask one final question or end the exchange.\n• Continuing to push after a single apology signals you are using their guilt, and they will notice.",
+      "insight": "The trouble is that people who apologize by habit can't tell the difference between genuine regret and trained compliance — including when it's happening to themselves."
+    },
+    {
+      "id": 7,
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "Stop Over-Explaining — More Words Mean More Targets",
+      "hook": "The more you explain, the more material they have to argue with. <strong>You're loading their gun for them.</strong>",
+      "truth": "Over-explaining feels like fairness. It is actually an invitation to keep arguing.\n• Every extra reason is a new point they can attack, deflect, or pick apart.\n• A long explanation signals you don't trust your own no to hold without backup.\n• The explanation manages your guilt, not their understanding. They already have their next push ready.",
+      "principle": "JADE Trap (Assertiveness Theory)",
+      "remember": "Keep your answer short. Long answers give them more to argue.",
+      "theySee": "A person giving a short answer and then going quiet, offering nothing extra to argue with.",
+      "signals": [
+        {
+          "l": "You explain twice",
+          "t": "You give the reason, they push, and you give it again in different words.",
+          "icon": "🔁"
+        },
+        {
+          "l": "They wait calmly",
+          "t": "They go quiet and patient while you talk — they are waiting for a usable detail.",
+          "icon": "😏"
+        },
+        {
+          "l": "New reason surfaces",
+          "t": "You add a second reason you hadn't mentioned, hoping this one lands better than the first.",
+          "icon": "➕"
+        },
+        {
+          "l": "They argue the reason",
+          "t": "They stop pushing on the no and start arguing only the reason — now you are off your line entirely.",
+          "icon": "🎯"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set a word limit before you speak",
+          "desc": "Decide: you will state the reason in 10 words or fewer. Write it. Count the words. Stick to it."
+        },
+        {
+          "n": "2",
+          "title": "Drop the reason when they attack it",
+          "desc": "When they argue your reason, don't defend it. Say 'The answer is still no.' Drop the reason. Done."
+        },
+        {
+          "n": "3",
+          "title": "Practice sitting in silence after your line",
+          "desc": "After your repeat line, count to five in your head. Silence is not an invitation to fill. Practice this now."
+        }
+      ],
+      "script": "\"The answer is still no. I've said what I have to say.\"",
+      "counter": "When someone cuts their explanation short after one push, they know the JADE trap. Don't probe the reason.\n• Attacking their reason earns you a debate, not the yes you want.\n• Ask: 'Is there anything that changes that?' One question. Short.\n• If they say no twice, accept it. The explanation was a courtesy.",
+      "insight": "The trap is that the more you explain, the more convinced you feel you are winning — while they use every word you give them."
+    },
+    {
+      "id": 8,
+      "cat": "anchor",
+      "danger": "high",
+      "title": "Keep Your Tone Flat — Any Change Signals a Crack",
+      "hook": "You can hold the right words and still lose. The crack shows in your voice before your mouth knows it.",
+      "truth": "They're not just listening to what you say. They're measuring how you say it.\n• A rising tone reads as a question — they hear 'maybe' even when you say 'no.'\n• A drop in volume reads as guilt or fear — both are invitations to push harder.\n• Match your tone to your first delivery every single time. That consistency is the wall.",
+      "principle": "Status Asymmetry",
+      "remember": "Same voice every time. Any change tells them you're moving.",
+      "theySee": "A person giving the same short answer at the same volume and pace, three times in a row, looking completely unbothered.",
+      "signals": [
+        {
+          "l": "Voice rises at end",
+          "t": "Your pitch goes up slightly at the end of your repeat line — they read it as uncertainty.",
+          "icon": "📈"
+        },
+        {
+          "l": "Volume drops",
+          "t": "You say the third repeat quieter than the first — they move toward you physically or verbally.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Speed increases",
+          "t": "You say the line faster each time — reads as nervousness or rushing to get past the discomfort.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Throat clear",
+          "t": "You make a small nervous sound before repeating — they feel you building up to a change.",
+          "icon": "😬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Record yourself saying the repeat line",
+          "desc": "Say your line into your phone. Play it back. Note any rise, drop, or speed change. Fix it before the conversation."
+        },
+        {
+          "n": "2",
+          "title": "Find your neutral delivery",
+          "desc": "Say the line at the volume you'd use to tell someone the time. Not loud, not soft. Flat and even. That is the target."
+        },
+        {
+          "n": "3",
+          "title": "Breathe before each reply",
+          "desc": "Take one quiet breath before you repeat your line. It resets your pace and stops the speed-creep that signals stress."
+        }
+      ],
+      "script": "\"My answer is no.\"",
+      "counter": "When someone holds the same flat tone through three or more repeats, they have either practiced this or done it before.\n• Don't raise the emotional temperature — they won't match it, and you will look reactive.\n• Ask one sharp, specific question instead of repeating your own push.\n• Flat affect under pressure usually means the position is real. Adjust your expectation.",
+      "insight": "The real problem is that people don't notice their own tone changing — it happens below what they're paying attention to."
+    },
+    {
+      "id": 9,
+      "cat": "exit",
+      "danger": "moderate",
+      "title": "Stop Talking After Three Repeats — Let Silence Close It",
+      "hook": "The loop has an off switch. You control it. Most people don't use it because silence feels rude.",
+      "truth": "At some point, more words make it worse. Silence is your hardest move and your cleanest close.\n• After three repeats, every additional word gives the loop more air to run on.\n• Silence forces them to accept the no or make their next move — you find out which fast.\n• A short close sentence — 'I think we've covered this' — signals the end without a fight.",
+      "principle": "Greene: Law 4 — Always Say Less Than Necessary",
+      "remember": "After three repeats, stop talking. Let the silence do the work.",
+      "theySee": "A person who said the same thing three times, then went quiet and waited.",
+      "signals": [
+        {
+          "l": "Third repeat done",
+          "t": "You've said your line three times. Every word past here gives the loop more room.",
+          "icon": "3️⃣"
+        },
+        {
+          "l": "They pause and look",
+          "t": "They stop pushing for a moment and look at you — they're deciding whether to escalate.",
+          "icon": "👁"
+        },
+        {
+          "l": "You feel the pull",
+          "t": "The silence feels uncomfortable and you feel the urge to add one more explanation.",
+          "icon": "💭"
+        },
+        {
+          "l": "Their energy drops",
+          "t": "Their posture softens slightly — they are running low on fuel for the push.",
+          "icon": "⬇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count your repeats as they happen",
+          "desc": "Keep a silent count. After three, your next move is silence or a close sentence — nothing else, no exceptions."
+        },
+        {
+          "n": "2",
+          "title": "Write your close sentence now",
+          "desc": "Write: 'I think we've covered this.' Say it once. Don't explain it. Don't apologize for it. That is the whole move."
+        },
+        {
+          "n": "3",
+          "title": "Practice holding five seconds of silence",
+          "desc": "After the close, count to five in your head. If they push again after five, nod once. Say nothing. That is all."
+        }
+      ],
+      "script": "\"I think we've covered this.\"",
+      "counter": "When someone closes the loop on you with silence or a final sentence, more words won't reopen it.\n• Ask one direct question: 'Is there any version of this where your answer changes?' That is your last shot.\n• If they say no, it is closed. Treat it as final.\n• Pushing past their close signals you have no other move. They will remember that.",
+      "insight": "The next harder problem is knowing when the loop still has one more useful move in it versus when you are just adding noise."
+    },
+    {
+      "id": 10,
+      "cat": "counter",
+      "danger": "high",
+      "title": "Break Someone Else's Broken-Record Loop When It's Running on You",
+      "hook": "When someone runs a broken-record push on you, meeting repeat with repeat is a standoff you will probably lose.",
+      "truth": "Out-repeating a practiced pusher doesn't work. You need to change the shape of the conversation.\n• Ask one specific question they can't answer with their same line — it forces a new move.\n• Name the pattern out loud: 'You've asked me three times now.' It breaks the loop by making it visible.\n• If neither works, walk away cleanly. Don't out-repeat someone running a stronger loop than you.",
+      "principle": "Pattern Interrupt (NLP)",
+      "remember": "Don't try to out-repeat them. Ask one sharp question instead.",
+      "theySee": "A person stopping the back-and-forth by asking a direct question or naming the pattern out loud and then waiting.",
+      "signals": [
+        {
+          "l": "Third request, same line",
+          "t": "They've repeated the same request three times with no new content added — the loop is intentional.",
+          "icon": "🔁"
+        },
+        {
+          "l": "No new content",
+          "t": "Nothing they say adds a new fact or argument — it is pure, deliberate repetition.",
+          "icon": "📋"
+        },
+        {
+          "l": "Volume stays flat",
+          "t": "They're not escalating emotionally — they are running a calm, practiced loop they've used before.",
+          "icon": "📊"
+        },
+        {
+          "l": "Reasons ignored",
+          "t": "Every reason you give gets passed over, never addressed — they are not engaging with your logic.",
+          "icon": "🙉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the one question that breaks the pattern",
+          "desc": "Say: 'What specifically would change your answer?' They have to engage with that or expose the loop."
+        },
+        {
+          "n": "2",
+          "title": "Name the loop if the question gets ignored",
+          "desc": "Say: 'You've asked me the same thing three times. My answer won't change.' Say it flat, not angry. Once."
+        },
+        {
+          "n": "3",
+          "title": "Walk away if neither move lands",
+          "desc": "Say 'I think we've both said what we have to say' and stop. Don't wait for their permission to end the exchange."
+        }
+      ],
+      "script": "\"You've asked me three times. My answer is not changing.\"",
+      "counter": "When someone asks 'what would change your answer' and you can't answer it, your own position has a real weakness.\n• Either find a genuine answer — there may be a real condition you haven't named yet.\n• Or say 'Nothing changes it' and hold that with a flat tone.\n• If you can't say either, you may be the one running a loop without knowing it.",
+      "insight": "The move that follows this is deciding whether you want to keep the relationship or win the standoff — and whether you can tell which one matters more right now."
+    }
+  ]
+}

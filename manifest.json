@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 77,
+  "manifestVersion": 78,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -663,7 +663,20 @@
       "url": "playbooks/playbook-srv-defending-your-budget-when-the-cuts-come.json",
       "addedAt": "2026-09-15T23:18:28.896Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-hold-your-line",
+      "title": "Hold Your Line",
+      "theme": "assertiveness",
+      "topic": "Holding your line when someone uses the broken-record push",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "🔄",
+      "url": "playbooks/playbook-srv-hold-your-line.json",
+      "addedAt": "2026-09-16T17:56:26.093Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-15T23:18:28.896Z"
+  "generatedAt": "2026-09-16T17:56:26.093Z"
 }
