@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 77,
+  "manifestVersion": 78,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -663,7 +663,20 @@
       "url": "playbooks/playbook-srv-defending-your-budget-when-the-cuts-come.json",
       "addedAt": "2026-09-15T23:18:28.896Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-cold-head-hot-room",
+      "title": "Cold Head, Hot Room",
+      "theme": "de-escalation",
+      "topic": "De-escalating someone who is trying to provoke you",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A252F",
+      "coverIcon": "🧊",
+      "url": "playbooks/playbook-srv-cold-head-hot-room.json",
+      "addedAt": "2026-09-17T17:56:46.127Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-15T23:18:28.896Z"
+  "generatedAt": "2026-09-17T17:56:46.127Z"
 }
