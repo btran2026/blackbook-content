@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 77,
+  "manifestVersion": 78,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -663,7 +663,20 @@
       "url": "playbooks/playbook-srv-defending-your-budget-when-the-cuts-come.json",
       "addedAt": "2026-09-15T23:18:28.896Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-door-in-the-face",
+      "title": "Door in the Face",
+      "theme": "negotiation",
+      "topic": "Defending against the door-in-the-face discount trick",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A2C42",
+      "coverIcon": "🚪",
+      "url": "playbooks/playbook-srv-door-in-the-face.json",
+      "addedAt": "2026-09-19T17:00:06.355Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-15T23:18:28.896Z"
+  "generatedAt": "2026-09-19T17:00:06.355Z"
 }
