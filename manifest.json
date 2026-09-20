@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 77,
+  "manifestVersion": 78,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -663,7 +663,20 @@
       "url": "playbooks/playbook-srv-defending-your-budget-when-the-cuts-come.json",
       "addedAt": "2026-09-15T23:18:28.896Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-own-the-room",
+      "title": "Own the Room",
+      "theme": "presence",
+      "topic": "Owning a room without dominating it",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "🃏",
+      "url": "playbooks/playbook-srv-own-the-room.json",
+      "addedAt": "2026-09-20T17:11:46.870Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-15T23:18:28.896Z"
+  "generatedAt": "2026-09-20T17:11:46.870Z"
 }

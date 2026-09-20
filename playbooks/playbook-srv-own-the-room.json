@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "id": "srv-own-the-room",
+    "version": "1.0",
+    "title": "Own the Room",
+    "subtitle": "12 moves for commanding any space without taking it over",
+    "description": "A closed dossier of presence tactics. How to walk in, speak up, read the room, and leave while they still want more. No title required.",
+    "author": "AI",
+    "createdAt": "2026-09-20T17:11:46.870Z",
+    "tags": [
+      "presence",
+      "status",
+      "influence",
+      "power",
+      "communication"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "🃏",
+    "fromServer": true,
+    "generation": {
+      "topic": "Owning a room without dominating it",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "narrative"
+    }
+  },
+  "categories": [
+    {
+      "key": "entry",
+      "label": "The Entrance",
+      "color": "#2d1b69"
+    },
+    {
+      "key": "body",
+      "label": "Physical Presence",
+      "color": "#0d3b3e"
+    },
+    {
+      "key": "voice",
+      "label": "Vocal Control",
+      "color": "#1a2e1a"
+    },
+    {
+      "key": "read",
+      "label": "Reading the Room",
+      "color": "#3b1a1a"
+    },
+    {
+      "key": "moves",
+      "label": "Tactical Moves",
+      "color": "#1a1a3b"
+    },
+    {
+      "key": "hold",
+      "label": "Holding the Position",
+      "color": "#2e2a1a"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "entry",
+      "danger": "moderate",
+      "title": "Enter the Room Before You Say a Word",
+      "hook": "Your reputation walks in with you. <strong>Most people throw it away in the first three seconds.</strong>",
+      "truth": "The entrance is a broadcast. Most people don't realize they're already being read.\n• Slow entry reads as confidence. Fast entry reads as chasing.\n• People form rank-order judgments before anyone speaks.\n• Whoever looks like they belong first wins the room's default respect.",
+      "principle": "First Impressions: Thin-Slicing",
+      "remember": "How you walk in decides what they think before you speak.",
+      "theySee": "A person standing in the doorway for one full second, scanning the room before moving to a seat.",
+      "signals": [
+        {
+          "l": "Door pause",
+          "t": "You stop at the threshold for one full beat before stepping inside.",
+          "icon": "🚪"
+        },
+        {
+          "l": "Chin level",
+          "t": "Your head stays level — not tilted down at your phone or the floor.",
+          "icon": "👀"
+        },
+        {
+          "l": "Slow first step",
+          "t": "You take three seconds to cross the threshold, not one.",
+          "icon": "🦶"
+        },
+        {
+          "l": "Seat claimed",
+          "t": "You move to your seat without scanning the room for permission first.",
+          "icon": "🪑"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop at the threshold",
+          "desc": "Before entering, pause for one full second. Scan the room left to right. Do not check your phone."
+        },
+        {
+          "n": "2",
+          "title": "Choose a seat with a clear sightline",
+          "desc": "Sit where you can see the most people without turning your back. Never sit with your back to the door."
+        },
+        {
+          "n": "3",
+          "title": "Set your things down slowly",
+          "desc": "Place your notebook or bag on the table without clattering. One slow movement beats three rushed ones."
+        }
+      ],
+      "script": "\"Let me get settled for a second before we dive in.\"",
+      "counter": "When someone enters slowly and deliberately, they are setting the frame before anyone speaks.\n• Watch for the slow entry — they're claiming the room before a word is said.\n• Don't rush to fill the silence their pause creates. That gap is a test.\n• Hold your position. Let them come to you before you speak first.",
+      "insight": "The entrance works once per room. The harder question is what you do in the first two minutes to keep what the entrance bought you."
+    },
+    {
+      "id": 2,
+      "cat": "body",
+      "danger": "low",
+      "title": "Plant Your Feet and Stop Moving",
+      "hook": "Pacing, shifting, and rocking all say the same thing: <strong>nervous.</strong> Stillness says something else entirely.",
+      "truth": "Movement is a status leak. The person who moves less reads as more in control.\n• Stillness signals you have nowhere more important to be.\n• Constant movement pulls eyes away from your words and onto your nerves.\n• Plant both feet flat and you feel the shift yourself — so does the room.",
+      "principle": "Status Asymmetry",
+      "remember": "Stillness signals power. Movement signals nerves.",
+      "theySee": "A person standing at the front of the room with both feet flat on the floor, not shifting weight or pacing.",
+      "signals": [
+        {
+          "l": "Weight shifts",
+          "t": "You catch yourself moving from foot to foot every few seconds.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Hands wander",
+          "t": "Your hands move without purpose while you talk.",
+          "icon": "🖐️"
+        },
+        {
+          "l": "Chair swivel",
+          "t": "You swivel or tilt in your chair between sentences.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Room leans in",
+          "t": "When you go still, someone in the room shifts slightly forward.",
+          "icon": "🎯"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find your feet before you speak",
+          "desc": "Before opening your mouth, press both feet flat on the floor. Feel the ground. That is your anchor point."
+        },
+        {
+          "n": "2",
+          "title": "Lock your lower body",
+          "desc": "If standing, feet shoulder-width apart. If sitting, both feet flat. Do not cross your ankles or legs."
+        },
+        {
+          "n": "3",
+          "title": "Rest your hands",
+          "desc": "When not gesturing, hands go still on the table or at your sides. No fidgeting with a pen, ring, or jacket."
+        }
+      ],
+      "script": "\"Give me a moment.\" (pause, plant your feet, then speak)",
+      "counter": "If someone is deliberate and still while you are moving, they already look more in control than you.\n• Notice if you are shifting while they are planted — you are broadcasting nerves.\n• Take one breath, press your feet down, and stop moving before your next sentence.\n• Matching their stillness resets the gap between you.",
+      "insight": "Stillness is easy to start and hard to hold when the room gets uncomfortable. The real test is whether you can stay planted when someone challenges you directly."
+    },
+    {
+      "id": 3,
+      "cat": "voice",
+      "danger": "low",
+      "title": "Talk Slower Than You Think You Should",
+      "hook": "Speed is fear dressed up as efficiency. <strong>Slow down and the room waits for you.</strong>",
+      "truth": "Talking fast is the single most common status mistake. High-status people do not rush.\n• Slow speech signals you expect to be heard — and people believe it.\n• Fast speech makes people track your speed, not your content.\n• The pause you are afraid of is the exact moment the room locks in.",
+      "principle": "Vocal Status Signaling",
+      "remember": "Slow speech makes people wait. Waiting means you matter.",
+      "theySee": "A speaker taking a full breath between sentences while the room stays quiet and leans in slightly.",
+      "signals": [
+        {
+          "l": "Run-on pace",
+          "t": "You talk through your own pauses without stopping for air.",
+          "icon": "💨"
+        },
+        {
+          "l": "Pitch rise",
+          "t": "Your voice goes up at the end of statements, like a question.",
+          "icon": "📈"
+        },
+        {
+          "l": "Room leans in",
+          "t": "When you slow down, someone in the room shifts forward in their chair.",
+          "icon": "👥"
+        },
+        {
+          "l": "Held silence",
+          "t": "You pause for two seconds and feel no urge to fill it.",
+          "icon": "🔇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Cut your pace by 20% before you walk in",
+          "desc": "Speak your opening three sentences out loud at 80% of your normal speed. Record it. Listen back. That is your target pace."
+        },
+        {
+          "n": "2",
+          "title": "Put a period in your pause",
+          "desc": "After your main point, stop for a full two seconds. Count silently: one, two. Then continue or let someone else speak."
+        },
+        {
+          "n": "3",
+          "title": "Drop your pitch at the end",
+          "desc": "Statements end with a falling pitch. Practice your last word going DOWN. 'That is the plan.' Not 'That is the plan?'"
+        }
+      ],
+      "script": "\"Here's what I think we should do.\" (then pause for two full seconds)",
+      "counter": "Slow talkers have already claimed the room before fast talkers finish their first sentence.\n• When someone slows down deliberately, they are setting pace — not being timid.\n• Do not rush to fill their pause. Whoever talks into the gap gives up ground.\n• Wait them out and respond at your own speed.",
+      "insight": "Slowing down works until someone reads it as uncertainty and talks over you. The next move is knowing exactly when to speed up and hit them with a short, sharp sentence."
+    },
+    {
+      "id": 4,
+      "cat": "voice",
+      "danger": "low",
+      "title": "Cut Every Phrase That Softens What You Mean",
+      "hook": "\"I was wondering if maybe we could...\" Nobody hears what comes after that. <strong>They've already stopped listening.</strong>",
+      "truth": "Hedging phrases delete your point before you make it. Most people use them to feel safe.\n• Qualifiers signal doubt. Doubt signals low status. Low status gets ignored.\n• 'From what I've gathered, here's what I recommend' carries more weight than ten hedged sentences.\n• Cutting the filler is the fastest single move to sound more credible in any room.",
+      "principle": "Speech Act Theory: Hedging",
+      "remember": "Qualifiers make you sound unsure before you finish your first sentence.",
+      "theySee": "A person at the table saying one clean sentence — no 'just,' no 'maybe,' no 'sort of' — and then waiting without adding anything.",
+      "signals": [
+        {
+          "l": "Filler lead",
+          "t": "Your sentence starts with 'I just wanted to' or 'I was thinking maybe.'",
+          "icon": "🚩"
+        },
+        {
+          "l": "Double softener",
+          "t": "You soften the same point twice in one statement.",
+          "icon": "✌️"
+        },
+        {
+          "l": "Idea stolen",
+          "t": "Someone restates your hedged idea without the hedge and it lands better.",
+          "icon": "➡️"
+        },
+        {
+          "l": "Clean landing",
+          "t": "You make a direct statement and the room pauses before responding.",
+          "icon": "✅"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List your three worst hedges",
+          "desc": "Write down the three phrases you use most: 'just,' 'maybe,' 'I was wondering if.' Put them on a sticky note before your next meeting."
+        },
+        {
+          "n": "2",
+          "title": "Rewrite your next contribution",
+          "desc": "Take one thing you plan to say tomorrow. Rewrite it starting with 'Here's what I think:' or 'My recommendation is:' — no lead-in softeners."
+        },
+        {
+          "n": "3",
+          "title": "Say it and stop",
+          "desc": "Make your point. Put a period on it. Do not add 'but I could be wrong' or 'that's just my take' after. Let the silence sit."
+        }
+      ],
+      "script": "\"From what I've gathered, here's what I recommend: [your point].\"",
+      "counter": "When someone cuts qualifiers and speaks cleanly, they are claiming authority before the idea is tested.\n• Ask one question that requires them to show their work: 'Walk me through your reasoning.'\n• If they hedge the answer, the room notices. Their certainty was a move, not a fact.\n• Hold your own position. Do not match their certainty with your own softeners.",
+      "insight": "Killing your hedges is fast. The harder part is staying direct when your point gets pushed back on — because that is when most people add the hedge back in."
+    },
+    {
+      "id": 5,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "Find Who Holds the Real Power Before You Open Your Mouth",
+      "hook": "The person running the meeting is not always the person running the room. <strong>Find the real one first.</strong>",
+      "truth": "Every room has a hidden hierarchy. Reading it before you speak decides where your words land.\n• The real decision maker often speaks late, briefly, and only once.\n• Whoever others glance at before responding holds the actual say.\n• Pitch your idea to the title and you might miss the person who matters.",
+      "principle": "Status Asymmetry",
+      "remember": "The real decision maker rarely talks the most.",
+      "theySee": "A person watching others' eyes and faces instead of talking, tracking who people look to before they answer.",
+      "signals": [
+        {
+          "l": "Quick glance",
+          "t": "Others flick their eyes to one person before answering your question.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Late speaker",
+          "t": "One person says almost nothing until a decision moment, then speaks once.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Body mirrors",
+          "t": "Others in the room shift their posture when one specific person shifts theirs.",
+          "icon": "🪞"
+        },
+        {
+          "l": "Nod follows",
+          "t": "Agreement in the room trails the nod of one specific person every time.",
+          "icon": "👍"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch eyes for five minutes before speaking",
+          "desc": "When someone asks a question or makes a point, watch where eyes go. The most-glanced-at person holds status."
+        },
+        {
+          "n": "2",
+          "title": "Map the loud versus the decisive",
+          "desc": "Write two columns on your notepad: 'loud' and 'decisive.' Match names to columns by the end of the first ten minutes."
+        },
+        {
+          "n": "3",
+          "title": "Direct your key point to the quiet one",
+          "desc": "When you make your most important contribution, make brief eye contact with the person who speaks least but is glanced at most."
+        }
+      ],
+      "script": "\"I'd be curious to hear [quiet person's name]'s take on this before we move forward.\"",
+      "counter": "If someone scans the room before speaking and directs their key line at one person, they have already mapped you.\n• Become less predictable — speak at unexpected moments, not only at decision points.\n• Vary who you address so your pattern is not easy to read.\n• If they are aiming at the quiet power holder, get to that person before the meeting next time.",
+      "insight": "Mapping the room takes five minutes to learn and a career to master. The harder problem is what you do when the real power holder is already against you before you speak."
+    },
+    {
+      "id": 6,
+      "cat": "moves",
+      "danger": "moderate",
+      "title": "Ask the One Question That Brings the Room Back on Track",
+      "hook": "A meeting runs off course. Everyone feels it. <strong>The person who resets it with one question just took the room.</strong>",
+      "truth": "Chaos in a room is a power gap. One well-aimed question fills it without a fight.\n• Clarity beats seniority when the room is lost. Nobody cares about your title if you fix the problem.\n• The reset question sounds like service and works like control.\n• After the question lands, you are the person who moved things forward. That status sticks.",
+      "principle": "Voss: Label",
+      "remember": "Whoever brings the room back when it drifts owns it.",
+      "theySee": "A person at the table who waits for the noise to peak, then asks one short question in a calm, level voice.",
+      "signals": [
+        {
+          "l": "Cross-talk peaks",
+          "t": "Three or more side conversations start at the same time.",
+          "icon": "📣"
+        },
+        {
+          "l": "Agenda dropped",
+          "t": "Nobody has mentioned the original topic for five minutes.",
+          "icon": "📋"
+        },
+        {
+          "l": "Eyes go blank",
+          "t": "People start checking phones or staring at the table.",
+          "icon": "😶"
+        },
+        {
+          "l": "Room goes quiet",
+          "t": "After your question, two seconds of silence before anyone responds.",
+          "icon": "⏸️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait for peak chaos",
+          "desc": "Do not jump in at the first sign of drift. Let the noise hit its ceiling. The reset lands harder when the room is most lost."
+        },
+        {
+          "n": "2",
+          "title": "Drop your volume before you speak",
+          "desc": "Lower your voice slightly below conversational level. People stop talking to hear you. This beats shouting every time."
+        },
+        {
+          "n": "3",
+          "title": "Ask one short question that names the goal",
+          "desc": "'What do we need to decide by the end of this hour?' — five seconds, no preamble, no apology. Then stop talking."
+        }
+      ],
+      "script": "\"What do we need to decide by the end of this meeting?\"",
+      "counter": "When someone uses a reset question, they have claimed the chair without sitting in it.\n• Notice if their question quietly shifts the agenda in their favor.\n• Accept the reset and redirect it: 'Good question — and I'd add we also need to land on X.'\n• Do not give up the full frame. Name your priority in the same breath.",
+      "insight": "The reset question works once per meeting. Use it twice and it reads as a control move, not a service. The real skill is choosing which chaos is worth fixing and which one you let run."
+    },
+    {
+      "id": 7,
+      "cat": "body",
+      "danger": "low",
+      "title": "Hold Eye Contact One Beat Longer Than Feels Natural",
+      "hook": "Most people break eye contact too soon. <strong>That one extra second is where conviction lives.</strong>",
+      "truth": "The moment you look away first, you give up the ground you were standing on.\n• Extended eye contact signals you believe what you are saying and expect them to as well.\n• Breaking early reads as uncertainty or fear — the room reads it even if nobody names it.\n• One extra second is not a stare. It is the difference between 'I think this' and 'I know this.'",
+      "principle": "Eye Contact Dominance",
+      "remember": "Look away first and you hand them the upper hand mid-sentence.",
+      "theySee": "A person making eye contact and holding it for a full beat after finishing their sentence before looking away.",
+      "signals": [
+        {
+          "l": "You look down",
+          "t": "You break eye contact before your sentence finishes.",
+          "icon": "⬇️"
+        },
+        {
+          "l": "They look away",
+          "t": "They drop eye contact first after you hold it through your point.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Attention sharpens",
+          "t": "When you hold their gaze, they stop typing and look up fully.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Nod delay",
+          "t": "They pause before nodding — a sign they felt the weight of the contact.",
+          "icon": "🕐"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Finish your sentence before you look away",
+          "desc": "When making a key point, hold eye contact through the last word. Then let your gaze move naturally. Not before."
+        },
+        {
+          "n": "2",
+          "title": "Rotate through three people in a group",
+          "desc": "Make eye contact with one person per sentence, rotating. Nobody gets ignored. Nobody gets stalked."
+        },
+        {
+          "n": "3",
+          "title": "Practice holding for three seconds today",
+          "desc": "In your next one-on-one conversation today, count to three before looking away after you finish a point. Notice what changes in their response."
+        }
+      ],
+      "script": "\"That's my position on it.\" (hold eye contact for two full seconds, then look away)",
+      "counter": "Extended eye contact is a deliberate move. Someone holding your gaze a beat too long may be reading you or challenging you.\n• Do not rush to look away — match the hold, then break it naturally.\n• If it feels like a contest, end the moment by asking a question. You have moved off their ground.\n• Never look down when breaking contact. Look sideways or toward the group.",
+      "insight": "Holding eye contact is easy with people who agree with you. The real test is holding it through the first word of a pushback — most people look down right there, and that is when they lose it."
+    },
+    {
+      "id": 8,
+      "cat": "read",
+      "danger": "low",
+      "title": "Be the Calmest Person When the Room Gets Loud",
+      "hook": "When the temperature rises, everyone watches who doesn't sweat. <strong>That person runs the room.</strong>",
+      "truth": "Emotional control is a status signal. The calmest person in a tense room is the one everyone orients toward.\n• Panic is contagious. So is calm. Whoever radiates it first sets the tone for everyone else.\n• You do not need a title to be the anchor. One steady voice after the noise is enough.\n• This is where the quiet power holder you mapped earlier shows themselves — they stay still.",
+      "principle": "Emotional Regulation as Status Signal",
+      "remember": "Whoever stays calm when others panic runs the room.",
+      "theySee": "A person sitting back slightly in their chair, breathing normally, while others around them raise their voices.",
+      "signals": [
+        {
+          "l": "Voices rise",
+          "t": "Two or more people are talking over each other or raising pitch.",
+          "icon": "📢"
+        },
+        {
+          "l": "Your body stays loose",
+          "t": "Your shoulders stay down and relaxed while others' posture tightens.",
+          "icon": "🧘"
+        },
+        {
+          "l": "Eyes find you",
+          "t": "When the argument peaks, one or two people glance your way.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Room drops volume",
+          "t": "After your calm sentence, the noise drops a level without you asking.",
+          "icon": "🔉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Take one slow breath before you speak",
+          "desc": "When the room heats up, inhale for four counts before opening your mouth. This slows your heart rate and visibly signals composure to anyone watching."
+        },
+        {
+          "n": "2",
+          "title": "Lower your volume, not raise it",
+          "desc": "When chaos peaks, speak at 70% of your normal volume. People stop talking to hear you. This is more effective than matching their noise."
+        },
+        {
+          "n": "3",
+          "title": "Name what is happening without picking a side",
+          "desc": "'It sounds like we have two different views on what the goal is. Let's get that clear.' One sentence. Neutral tone. No sides taken."
+        }
+      ],
+      "script": "\"It sounds like we have two different views on what the goal is. Let's get that clear.\"",
+      "counter": "When someone uses calm as a status move in a heated room, they are claiming authority without a title.\n• Do not let the calm read as agreement — ask them directly: 'What's your position on this?'\n• Their composure is a move. Make them show their hand.\n• If they are the only calm person in the room, find out why before you trust it.",
+      "insight": "Staying calm works well when you have no stake in the result. The harder problem is holding that calm when the fight is about something you actually care about — and the room can feel the difference."
+    },
+    {
+      "id": 9,
+      "cat": "moves",
+      "danger": "moderate",
+      "title": "Say Your Point and Then Stop Talking",
+      "hook": "Most people bury their best line under five more sentences. <strong>Stop talking right after the hit.</strong>",
+      "truth": "Every word you add after your point weakens the point. Most people talk past their own landing.\n• The first clean sentence carries the idea. Everything after it dilutes it.\n• Silence after a strong point feels dangerous to the speaker and powerful to the room.\n• The person who stops first makes everyone else fill the gap — and they often fill it in your favor.",
+      "principle": "Greene: Law 4 — Always Say Less Than Necessary",
+      "remember": "Stop talking right after your point. The next sentence usually hurts it.",
+      "theySee": "A person making one clear statement in a meeting and then going completely quiet while the room responds.",
+      "signals": [
+        {
+          "l": "You keep adding",
+          "t": "You say your point and immediately follow with 'but also' or 'and another thing.'",
+          "icon": "➕"
+        },
+        {
+          "l": "Room hesitates",
+          "t": "When you stop, the room pauses before responding — they are processing.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Others build on it",
+          "t": "After you stop, three people add to your point without you prompting them.",
+          "icon": "🧱"
+        },
+        {
+          "l": "Senior repeats it",
+          "t": "Later in the meeting, someone more senior repeats your line back.",
+          "icon": "💬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your point in one sentence before walking in",
+          "desc": "If you cannot say your contribution in under 20 words, it is not ready. Write the single sentence you will say and stop there."
+        },
+        {
+          "n": "2",
+          "title": "Say it and sit back physically",
+          "desc": "After your last word, lean back slightly and let your hands rest. This signals you are done. Do not open your mouth again for ten seconds."
+        },
+        {
+          "n": "3",
+          "title": "Count the pause silently",
+          "desc": "After your point lands, count to five in your head before saying anything else. If someone fills the gap, let them."
+        }
+      ],
+      "script": "\"My recommendation is [one sentence]. I'll stop there.\"",
+      "counter": "When someone makes a crisp point and goes quiet, they are pulling you into the gap.\n• Do not rush to respond. Their silence is an invitation to overexplain your own position.\n• Sit with it for three seconds before speaking. A short response beats a long one here.\n• Match their economy: one sentence back. You stay even.",
+      "insight": "Stopping after your point is easy to practice alone and hard to hold when the room stays silent. The real test is what you do with seven seconds of quiet — most people crack and add the sentence that buries their best work."
+    },
+    {
+      "id": 10,
+      "cat": "hold",
+      "danger": "moderate",
+      "title": "Don't Explain Yourself After You Make a Call",
+      "hook": "You made a decision. Then you spent four minutes defending it. <strong>You just told the room you're not sure.</strong>",
+      "truth": "Adding reasons after a decision signals you need the room's permission. You do not.\n• Each additional reason after the first invites a counter-argument. One reason is a statement. Three is a negotiation.\n• People who need approval after deciding read as weak, not thorough.\n• The stop-talking move you built earlier pays double here — one reason, then silence.",
+      "principle": "Greene: Law 9 — Win Through Actions, Never Through Argument",
+      "remember": "Adding reasons after you decide makes you look unsure.",
+      "theySee": "A person who states a decision, gets a challenge, and simply repeats the decision without adding new reasons.",
+      "signals": [
+        {
+          "l": "You keep adding",
+          "t": "After your first reason, you immediately give a second and third without being asked.",
+          "icon": "🔢"
+        },
+        {
+          "l": "They push back",
+          "t": "Someone challenges your call and you feel the pull to justify harder.",
+          "icon": "⬅️"
+        },
+        {
+          "l": "Heads stop nodding",
+          "t": "The more you explain, the fewer people are nodding.",
+          "icon": "📉"
+        },
+        {
+          "l": "Clean repeat works",
+          "t": "You say your decision once more without new reasons and the room moves forward.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State your call with one reason and stop",
+          "desc": "Make the decision. Give one supporting reason. Stop. If they ask for more, answer. Do not volunteer the second reason before they ask."
+        },
+        {
+          "n": "2",
+          "title": "Write your repeat line before the meeting",
+          "desc": "Write this down: 'I understand the concern. My call is still X.' That is the whole line. Memorize it. You will need it."
+        },
+        {
+          "n": "3",
+          "title": "Let the pushback land before you answer",
+          "desc": "When someone challenges your call, pause for three seconds. Breathe. Then say your repeat line. Do not add anything new after it."
+        }
+      ],
+      "script": "\"I understand the concern. My call is still [X].\"",
+      "counter": "When someone repeats their position without adding new reasons, they are using repetition as a power hold.\n• Ask: 'What would change your mind?' If the answer is nothing, now you know.\n• Bring in a third voice: 'Does anyone else have a take on this?'\n• Their refusal to justify may be a tactic or a conviction. You need more information before pushing harder.",
+      "insight": "Holding a call without defending it works when you are right. The real cost shows up when you are wrong — and the people who watched you not defend it have to decide whether to tell you."
+    },
+    {
+      "id": 11,
+      "cat": "moves",
+      "danger": "low",
+      "title": "Know One Thing Better Than Anyone Else in the Room",
+      "hook": "Broad knowledge gets you a seat. <strong>Deep knowledge on one specific thing gets you the floor.</strong>",
+      "truth": "The person who knows the most about one critical point controls that part of every conversation it comes up in.\n• Deep knowledge on one thing is more credible than general knowledge on ten.\n• You do not need to know everything. You need to know the one thing that matters most right now.\n• Rooms sort people by depth faster than by title — especially when the stakes are real.",
+      "principle": "Expert Halo Effect",
+      "remember": "Deep knowledge on one point beats shallow knowledge on ten every time.",
+      "theySee": "A person who stays quiet for most of the meeting but speaks precisely and with clear detail the moment their one area comes up.",
+      "signals": [
+        {
+          "l": "Others defer",
+          "t": "When your topic comes up, people look to you before anyone else speaks.",
+          "icon": "🎓"
+        },
+        {
+          "l": "Questions slow",
+          "t": "When you explain your area in detail, follow-up questions in the room drop off.",
+          "icon": "❓"
+        },
+        {
+          "l": "Named away",
+          "t": "Someone says 'we should check with [you]' when your topic comes up and you are not speaking.",
+          "icon": "📞"
+        },
+        {
+          "l": "One line lands",
+          "t": "You say almost nothing for twenty minutes, then speak once and everyone writes it down.",
+          "icon": "🤫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick your one area for this meeting",
+          "desc": "Before you walk in, name the one topic on the agenda where you can speak with more depth than anyone else. That is your zone. Stay in it."
+        },
+        {
+          "n": "2",
+          "title": "Find three specific details nobody else has",
+          "desc": "Locate three data points, examples, or observations about your topic that are not in the shared materials. These are your only ammunition."
+        },
+        {
+          "n": "3",
+          "title": "Stay quiet until your topic arrives",
+          "desc": "Do not speak on topics outside your zone today. Save your credibility for the moment your area lands on the table. Then go deep."
+        }
+      ],
+      "script": "\"On this specific point, here's what the data actually shows: [your three details].\"",
+      "counter": "When someone positions themselves as the expert on one critical point, they are claiming a monopoly on that conversation.\n• Test the depth: ask one granular follow-up question. Real knowledge handles it. Shallow knowledge deflects.\n• If they are genuinely the expert, bring them to your side before the meeting — not against you during it.\n• Do not challenge expert depth publicly without more. You will lose the room.",
+      "insight": "Owning one deep area builds over time — each room adds to the reputation. The real risk is being known for only one thing and having that thing become irrelevant."
+    },
+    {
+      "id": 12,
+      "cat": "hold",
+      "danger": "moderate",
+      "title": "Leave While the Room Still Wants More From You",
+      "hook": "Most people stay until the energy is gone. <strong>Leave before it is and you're the last thing they remember clearly.</strong>",
+      "truth": "What people remember about you is shaped by the last thing they saw you do. Most people stay too long.\n• The brain holds the most recent impression stronger than anything before it.\n• Leaving at peak attention plants a better version of you in the room's memory than staying until the end.\n• Every good speaker, negotiator, and room owner knows: the leaving is the last move, and most people blow it.",
+      "principle": "Recency Effect",
+      "remember": "The last thing they see is what they remember. Leave clean.",
+      "theySee": "A person who stands up after making a strong point, says one short closing line, and walks out before the post-meeting chatter starts.",
+      "signals": [
+        {
+          "l": "Energy drops",
+          "t": "The main topic has been decided and the room shifts to small talk.",
+          "icon": "📉"
+        },
+        {
+          "l": "Your peak passed",
+          "t": "You made your strongest contribution ten minutes ago and have said little since.",
+          "icon": "🏔️"
+        },
+        {
+          "l": "Phones appear",
+          "t": "Three or more people have looked at their phones in the last two minutes.",
+          "icon": "📱"
+        },
+        {
+          "l": "Natural pause",
+          "t": "A decision just landed and nobody has spoken for five seconds.",
+          "icon": "✂️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide when you will leave before you walk in",
+          "desc": "Before the meeting starts, name your moment: 'I will leave right after the main decision is made.' Commit to it before you sit down."
+        },
+        {
+          "n": "2",
+          "title": "Prepare one closing line",
+          "desc": "Write it in advance: 'Good — I'll follow up on [X] by [day].' Stand up when you say it. Do not linger after."
+        },
+        {
+          "n": "3",
+          "title": "Walk out without the loop",
+          "desc": "Once you have said your closing line, do not start a side conversation on your way out. Nod once, pick up your things, walk out. Clean."
+        }
+      ],
+      "script": "\"Good. I'll follow up on [X] by Thursday — let me know if anything changes.\"",
+      "counter": "When someone leaves right at their peak moment, they are shaping what you remember about them.\n• Notice the timing. If they always leave after a win, the leaving is deliberate.\n• Anchor your memory to the full meeting, not just the last thing they did.\n• Do not let a well-timed exit be the only point you evaluate someone on.",
+      "insight": "Leaving clean works best when you actually had a strong contribution. Leaving early after a weak meeting just looks like you are running. The move that comes before is always the harder one."
+    }
+  ]
+}
