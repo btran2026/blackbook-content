@@ -1,0 +1,700 @@
+{
+  "meta": {
+    "id": "srv-manufactured-emergency",
+    "version": "1.0",
+    "title": "Manufactured Emergency",
+    "subtitle": "12 cards for spotting fake urgency before it owns your calendar",
+    "description": "A private dossier on how fake emergencies are built, who builds them, what they cost you, and how to defuse or redirect them without ever naming the game. Each card assumes the one before it is already known.",
+    "author": "AI",
+    "createdAt": "2026-09-21T19:05:23.509Z",
+    "tags": [
+      "workplace",
+      "urgency",
+      "manipulation",
+      "power",
+      "decision-making",
+      "dark psychology"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🚨",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting a manufactured emergency at work",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "spot",
+      "label": "Spotting the Tell",
+      "color": "#C0392B"
+    },
+    {
+      "key": "anatomy",
+      "label": "How It's Built",
+      "color": "#8E44AD"
+    },
+    {
+      "key": "cost",
+      "label": "What It Costs You",
+      "color": "#E67E22"
+    },
+    {
+      "key": "response",
+      "label": "The Right Move",
+      "color": "#27AE60"
+    },
+    {
+      "key": "counter",
+      "label": "Defusing It",
+      "color": "#2980B9"
+    },
+    {
+      "key": "play",
+      "label": "Using It Back",
+      "color": "#2C3E50"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "spot",
+      "danger": "moderate",
+      "title": "Tell the Difference Between Real and Fake Urgency",
+      "hook": "Your boss needs this in an hour. But the customer won't see it for three days. <strong>That gap is your first clue.</strong>",
+      "truth": "Most people can't tell the difference in the moment — that's exactly what makes fake urgency work.\n• Real emergencies have an external cause: a competitor move, a customer deadline, a system down.\n• Fake ones come from someone's fear, ego, or need to look in control.\n• The tell is always timing — check when the output is actually used, not when it was demanded.",
+      "principle": "Elmore: Market Urgency vs. Manufactured Urgency",
+      "remember": "Real pressure comes from outside. Fake pressure comes from someone's feelings.",
+      "theySee": "A manager sending a message at 4 PM marked urgent, asking for a report by end of day, with no context given.",
+      "signals": [
+        {
+          "l": "Vague source",
+          "t": "They say 'we need this now' but cannot name who specifically needs it.",
+          "icon": "🔍"
+        },
+        {
+          "l": "No consequence named",
+          "t": "No one says what happens if this arrives tomorrow instead of today.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Pattern repeats",
+          "t": "The same person has called this kind of thing urgent before, and it always resolved quietly.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Work sits after delivery",
+          "t": "You rush to finish, and the output sits in their inbox for two days untouched.",
+          "icon": "📥"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the external cause",
+          "desc": "Write one sentence: who outside the company is demanding this, and by exactly when. If you cannot write it, the urgency is fake."
+        },
+        {
+          "n": "2",
+          "title": "Check the last three urgent requests from this person",
+          "desc": "Look at what you delivered and what happened after. Write one word next to each: real or fake."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the downstream deadline",
+          "desc": "Say: 'What time does it need to reach the customer?' The gap between that and the internal deadline tells you everything."
+        }
+      ],
+      "script": "\"What's the actual external deadline — when does the customer or the market need this?\"",
+      "counter": "If someone is using vague urgency to rush your decisions, slow their clock before you move.\n• Ask for the external deadline. They'll either name one or go quiet.\n• Say: 'What specifically breaks if this arrives tomorrow at 9 AM?'\n• Their answer — or their pause — tells you whether this is real or theater.",
+      "insight": "The harder part is what you do once you know it's fake — you still have to decide whether to play along, and that decision has its own cost."
+    },
+    {
+      "id": 2,
+      "cat": "anatomy",
+      "danger": "moderate",
+      "title": "The Person Who Always Has a Crisis",
+      "hook": "They've had three emergencies this month. <strong>That's not bad luck. That's a style.</strong>",
+      "truth": "Chronic crisis-makers are not unlucky — they are running a pattern that gives them status and control without accountability.\n• Each fake emergency puts them at the center, with everyone else reacting to them.\n• The people around them learn to treat their alarm as real, which rewards the behavior.\n• Once you spot the pattern, the individual crisis stops mattering — the type is what matters.",
+      "principle": "Greene: Law 6 — Court Attention at All Cost",
+      "remember": "Some people need chaos to feel important. Watch the pattern, not the crisis.",
+      "theySee": "A coworker rushing into a room with wide eyes, speaking fast, pulling others away from what they were doing.",
+      "signals": [
+        {
+          "l": "Always the source",
+          "t": "Emergencies always seem to start with them, or require them to be the one to tell you.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Calm lasts days, not weeks",
+          "t": "There is never more than five days between crises for this person.",
+          "icon": "📅"
+        },
+        {
+          "l": "Crisis needs an audience",
+          "t": "They announce the problem before they have touched it — they do not solve quietly.",
+          "icon": "📢"
+        },
+        {
+          "l": "Post-crisis energy",
+          "t": "After the emergency passes, they seem energized, not drained.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log three consecutive crises from the same person",
+          "desc": "Write the date, what they called urgent, and what actually happened after you delivered. Do this for three events."
+        },
+        {
+          "n": "2",
+          "title": "Measure the calm between crises",
+          "desc": "Count the days between their last two emergencies. People who need chaos do not stay calm long."
+        },
+        {
+          "n": "3",
+          "title": "Stop reacting first",
+          "desc": "Next time they announce a crisis, wait 60 seconds before you move. Watch who else stops what they were doing — that is the audience they are building."
+        }
+      ],
+      "script": "\"Let me check what I'm in the middle of and I'll get back to you in ten minutes.\"",
+      "counter": "If this person keeps targeting you specifically, the pattern needs to be named — but only after you have the record.\n• Track dates and topics across at least four events before any conversation.\n• Say: 'I've noticed the last four times this came up, it resolved without my input.'\n• Then stop being first to respond. Let someone else absorb the initial pressure.",
+      "insight": "The harder question is why the organization keeps rewarding this — because it usually does, and that is a different problem to solve."
+    },
+    {
+      "id": 3,
+      "cat": "spot",
+      "danger": "low",
+      "title": "Ask What Breaks If It Arrives Tomorrow",
+      "hook": "Anyone can say urgent. Almost nobody can say exactly what breaks if you deliver at 9 AM instead of 5 PM today.",
+      "truth": "Loss aversion makes people treat any discomfort as a crisis, but a real emergency has specific consequences, not just feelings.\n• Real urgency has a named consequence: a meeting, a client call, a system going down at a specific time.\n• Fake urgency uses vague consequences: someone is unhappy, or 'we need to stay on top of this.'\n• Ask for the consequence in one sentence. A pause longer than three seconds means it is fake.",
+      "principle": "Loss Aversion",
+      "remember": "Ask what breaks if this arrives tomorrow. Real emergencies have answers.",
+      "theySee": "A manager standing at your desk saying the client wants something and gesturing at your screen without naming a time.",
+      "signals": [
+        {
+          "l": "No specific hour",
+          "t": "They say 'as soon as possible' but never name an hour or a specific day.",
+          "icon": "🕐"
+        },
+        {
+          "l": "Topic switches when pressed",
+          "t": "When you ask what breaks if it is late, they move to a different reason.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Tone is anxious, not factual",
+          "t": "They sound worried but cannot describe a single concrete bad thing that happens if you are slow.",
+          "icon": "😰"
+        },
+        {
+          "l": "No one else is reacting",
+          "t": "Your peers have not shifted their work. Only this person is treating it as a fire.",
+          "icon": "👥"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the consequence question",
+          "desc": "Say: 'What specifically breaks or costs us if this arrives tomorrow morning?' Write the answer down word for word."
+        },
+        {
+          "n": "2",
+          "title": "Check the external trigger",
+          "desc": "Ask who outside the team is waiting. If the answer is internal — a manager, a review — it is not a market emergency."
+        },
+        {
+          "n": "3",
+          "title": "Rate it 1 to 3 each time",
+          "desc": "After the conversation, write 1 (fake), 2 (unclear), or 3 (real). After 10 instances with the same person, the pattern is clear."
+        }
+      ],
+      "script": "\"What specifically breaks — for a customer or the business — if this arrives tomorrow at 9 AM instead of today?\"",
+      "counter": "If someone is using vague urgency to rush your decisions, one question collapses it.\n• Ask for the consequence in writing: 'Can you send me the deadline from the client so I can reprioritize?'\n• Vague urgency cannot survive a specific question asked calmly.\n• Do not move until you have a specific answer. The pause costs you nothing.",
+      "insight": "People who cannot name the consequence in one sentence usually have not thought past their own anxiety — which means you are doing their thinking for them if you rush."
+    },
+    {
+      "id": 4,
+      "cat": "spot",
+      "danger": "moderate",
+      "title": "Check When They Actually Read Your Urgent Delivery",
+      "hook": "You burned your evening. They glanced at it Tuesday. <strong>The emergency was theirs, not the company's.</strong>",
+      "truth": "The clearest proof of a fake emergency shows up after the work lands — not before it is requested.\n• Unread output 24 hours after an urgent delivery means no one actually needed it fast.\n• The person who demanded speed rarely tracks when they first read your work.\n• Start tracking that gap yourself. It is the evidence you will need later.",
+      "principle": "Sunk-Cost Anchoring",
+      "remember": "Rushed work that sits for days was never really urgent.",
+      "theySee": "A coworker who stayed late to deliver something checking their email the next morning to find no response or acknowledgment.",
+      "signals": [
+        {
+          "l": "No acknowledgment",
+          "t": "You deliver urgently and get no reply, thank-you, or next step for hours or days.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Feedback is casual",
+          "t": "When they do respond, they are not in reaction mode — they sound like they just remembered to look.",
+          "icon": "🐢"
+        },
+        {
+          "l": "No follow-on action",
+          "t": "There is no meeting, no client call, no decision after your urgent work arrives.",
+          "icon": "⬛"
+        },
+        {
+          "l": "Pattern repeats",
+          "t": "The same person has done this to you or a colleague at least twice before.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log delivery and first response times",
+          "desc": "Write when you deliver urgent work and when you receive the first real reply. Do this for four consecutive requests from the same person."
+        },
+        {
+          "n": "2",
+          "title": "Note what happened after each delivery",
+          "desc": "Write one sentence about what action followed your delivery. No follow-on action equals no real emergency."
+        },
+        {
+          "n": "3",
+          "title": "Name the gap in the next conversation",
+          "desc": "Say: 'Last time I turned this around in two hours and it sat for three days. What is the actual downstream deadline this time?'"
+        }
+      ],
+      "script": "\"Last time I delivered urgently, there was no follow-up for three days. What's the hard deadline this round?\"",
+      "counter": "If you suspect someone is rushing you to cover their own anxiety or schedule, track the gap before you comply.\n• Check how they handled your last two urgent deliveries.\n• If work sat both times, you have enough to push back with a specific question.\n• Say: 'Help me understand the downstream action so I can prioritize correctly.'",
+      "insight": "The gap between your delivery time and their first read is the only honest measurement of how urgent anything actually was — and no one else is tracking it."
+    },
+    {
+      "id": 5,
+      "cat": "anatomy",
+      "danger": "moderate",
+      "title": "Recognize Anxiety Dressed as a Deadline",
+      "hook": "The deadline is not real. But their fear of looking slow is. <strong>You pay for it either way.</strong>",
+      "truth": "Manufactured urgency is usually a leader's unmanaged fear given a business name — and it travels fast because most people do not question the boss.\n• Leaders who cannot sit with uncertainty push it down as 'we need to act now.'\n• The team runs fire drills not because there is a fire, but because the leader cannot stay still.\n• The cost lands on the team: late nights, rushed work, errors from moving too fast.",
+      "principle": "Status Asymmetry",
+      "remember": "A scared leader makes everyone else scared. That is not urgency.",
+      "theySee": "A manager pacing during a meeting and saying 'we can't fall behind' without explaining what behind means or who set the measure.",
+      "signals": [
+        {
+          "l": "Goalposts move",
+          "t": "The urgent thing changes before the first one is finished — new urgency replaces old urgency.",
+          "icon": "🥅"
+        },
+        {
+          "l": "No calm week",
+          "t": "There is no week where things are normal — the pressure level never drops below high.",
+          "icon": "📊"
+        },
+        {
+          "l": "Triggered by an email or meeting",
+          "t": "The urgency appears right after they read something or came back from their own boss's meeting.",
+          "icon": "📧"
+        },
+        {
+          "l": "Questions make it worse",
+          "t": "When you ask clarifying questions, they become more anxious, not more specific.",
+          "icon": "🌀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the trigger for the last three urgency spikes",
+          "desc": "Write what happened in the hour before each urgency announcement. Was it an email, a meeting, a call with their boss?"
+        },
+        {
+          "n": "2",
+          "title": "Name the pattern privately",
+          "desc": "Write: 'This person announces urgency after [specific trigger] approximately [X] times per month.' Keep this document."
+        },
+        {
+          "n": "3",
+          "title": "Build your own priority list from external deadlines only",
+          "desc": "Write your top three current work items with their external deadlines. Update only when an external reason exists. Use that list, not the emotional broadcasts."
+        }
+      ],
+      "script": "\"Can you help me understand what changed externally — did a customer say something, or is this an internal concern?\"",
+      "counter": "If a leader's anxiety is pulling your team into unnecessary fire drills, name the pattern once in private with evidence.\n• Show them the last three urgent items and what happened after each one resolved.\n• Say: 'I want to make sure we protect time for things with real external deadlines.'\n• Never say 'you are anxious.' Say 'the pattern I am seeing' or 'what has been happening.'",
+      "insight": "Managing upward on this works once, maybe twice — after that you are either adapting to the culture or deciding to leave it, and there is rarely a third option."
+    },
+    {
+      "id": 6,
+      "cat": "spot",
+      "danger": "low",
+      "title": "Use the Questions That Expose Fake Pressure",
+      "hook": "You do not need to call out the lie. <strong>You just need to ask the question they have not prepared for.</strong>",
+      "truth": "Manufactured urgency depends on people not asking questions. One specific question collapses it immediately.\n• Fake emergencies have no external clock — one question exposes them immediately.\n• The pause, the vague answer, or the topic switch tells you everything you need.\n• Ask once, say nothing, wait. The silence is part of the test.",
+      "principle": "Voss: Calibrated Question",
+      "remember": "One good question kills more fake emergencies than any pushback.",
+      "theySee": "A manager who just announced a deadline and is waiting for people to start scrambling before anyone speaks.",
+      "signals": [
+        {
+          "l": "Pause after your question",
+          "t": "You ask who is waiting and there is a silence longer than three seconds before any answer.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Answer is internal",
+          "t": "The person they name as waiting is inside the company, not a customer, regulator, or partner.",
+          "icon": "🏢"
+        },
+        {
+          "l": "Question gets redirected",
+          "t": "They answer your question with a different topic or a general statement about speed.",
+          "icon": "↪️"
+        },
+        {
+          "l": "Answer shifts on the second ask",
+          "t": "If you rephrase the same question a moment later, the answer changes.",
+          "icon": "🔀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your two standard questions before any urgent request lands",
+          "desc": "'Who outside the company is waiting for this?' and 'What specifically breaks if this arrives tomorrow at 9 AM?' Have both ready."
+        },
+        {
+          "n": "2",
+          "title": "Ask the first question, then stop talking",
+          "desc": "Ask one question. Say nothing. Count to ten silently. The pause is part of the test — do not fill it for them."
+        },
+        {
+          "n": "3",
+          "title": "Write down their answer word for word",
+          "desc": "Note exactly what they said. People's unscripted answers are honest and they rarely match what they say later if challenged."
+        }
+      ],
+      "script": "\"Who outside the company is waiting for this, and what's their actual deadline?\"",
+      "counter": "If someone asks YOU this question to check your urgency, answer specifically.\n• Name the external party and the hard time. Do not approximate.\n• If you cannot, be honest: 'This is an internal deadline, but here is why it matters.'\n• Never bluff a specific answer — it will be checked and you will lose more than the argument.",
+      "insight": "The person who asks the right question holds the clock. Everyone else is running on someone else's schedule, usually without knowing it."
+    },
+    {
+      "id": 7,
+      "cat": "cost",
+      "danger": "high",
+      "title": "Name the Burnout Loop Before It Closes Around You",
+      "hook": "You are exhausted. Not from hard work — from hard work that did not matter. <strong>That is a different kind of tired.</strong>",
+      "truth": "Harvard research on false urgency shows it is not the workload that breaks teams — it is the constant switching into emergency mode for things that were not emergencies.\n• Each fake emergency uses real focus time that does not come back.\n• Teams that always rush learn to treat real and fake urgency the same way.\n• Burnout from fake urgency is harder to explain and easier to dismiss, which makes it more dangerous.",
+      "principle": "Ariely: Decision Fatigue",
+      "remember": "Playing along with fake emergencies burns you out for nothing.",
+      "theySee": "A coworker who used to move fast now moving slow and staring at the screen blankly at 4 PM.",
+      "signals": [
+        {
+          "l": "Slow on real deadlines",
+          "t": "The team takes longer to react to genuine urgency because they have been trained that nothing is actually urgent.",
+          "icon": "🐌"
+        },
+        {
+          "l": "Cynical before the ask",
+          "t": "People start saying 'another fire drill' before they even know what the request is.",
+          "icon": "💬"
+        },
+        {
+          "l": "Errors on rushed work",
+          "t": "Fast-turned deliverables have more mistakes because people are moving without understanding the actual priority.",
+          "icon": "❌"
+        },
+        {
+          "l": "Top performers go quiet",
+          "t": "The people who used to push hardest are now doing the minimum and leaving on time.",
+          "icon": "🔕"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Tally your fire drills this month",
+          "desc": "Write down every time this month you were asked to treat something as urgent. Mark which ones had a real external cause. Count both columns."
+        },
+        {
+          "n": "2",
+          "title": "Name the cost in hours",
+          "desc": "Estimate hours lost to fake urgency this month. Write the number. If you want the full picture, multiply by your hourly rate."
+        },
+        {
+          "n": "3",
+          "title": "Bring the tally to a one-on-one",
+          "desc": "Say: 'I want to talk about how we prioritize. I've been tracking requests and I want to make sure we protect time for things with real external deadlines.'"
+        }
+      ],
+      "script": "\"I've been tracking our urgent requests this month. Can we talk about which ones had real external deadlines so I can protect time for those?\"",
+      "counter": "If the loop is already running, you cannot fix it by working less — you fix it by naming it upward with evidence.\n• Show the count: urgent requests this month versus those with real external deadlines.\n• Ask: 'What is our threshold for calling something a priority?'\n• If there is no answer, write one as a proposal and send it. That document is your anchor.",
+      "insight": "The dangerous part is not the burnout itself — it is that the people who burn out first are usually the ones who were caring the most."
+    },
+    {
+      "id": 8,
+      "cat": "response",
+      "danger": "moderate",
+      "title": "Go Slow in a Fake Emergency",
+      "hook": "Everyone else is running. <strong>You walk. The emergency resolves. They remember who did not panic.</strong>",
+      "truth": "The manufactured emergency is designed to get you moving before you think. Slowing down is the disruption.\n• Rushing signals compliance and confirms the emergency as real to everyone in the room.\n• One question or one written note resets the pace without open refusal.\n• The person who stays calm in chaos looks right afterward.",
+      "principle": "Cialdini: Scarcity (Reversed)",
+      "remember": "Going slow in a fake emergency costs you nothing.",
+      "theySee": "A coworker sitting back in their chair and writing something down while everyone else is already typing fast.",
+      "signals": [
+        {
+          "l": "Others already rushing",
+          "t": "Most of the room has started reacting before anyone asked whether the emergency is real.",
+          "icon": "🏃"
+        },
+        {
+          "l": "No plan in the response",
+          "t": "People are moving fast but there is no clear owner, no deadline, and no plan — just speed.",
+          "icon": "📋"
+        },
+        {
+          "l": "Emotional temperature is high",
+          "t": "The room feels scattered. People are interrupting. No one is listening to anyone else.",
+          "icon": "🌡️"
+        },
+        {
+          "l": "You have not been given facts",
+          "t": "You are being asked to act but no one has told you the specific bad thing that happens if you do not.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop before you open a new tab",
+          "desc": "When someone calls a crisis, put your hands on the desk and say nothing for ten seconds. This is a diagnostic, not a stall."
+        },
+        {
+          "n": "2",
+          "title": "Ask one question before doing anything",
+          "desc": "Say: 'What's the actual deadline and who set it?' Write the answer on paper. Then decide whether to move."
+        },
+        {
+          "n": "3",
+          "title": "Name your own delivery time",
+          "desc": "Say 'I can have this to you by [specific time]' — not 'soon,' not 'as fast as I can.' A specific time moves the decision to them."
+        }
+      ],
+      "script": "\"Give me ten minutes to finish what I'm in the middle of, then I'll assess and give you a time.\"",
+      "counter": "If someone pressures you to move faster after you have slowed down, that is the clearest tell — real emergencies have facts, not pressure.\n• Ask again: 'What specifically breaks if I finish this in an hour instead of now?'\n• Stay with the question. Do not absorb their energy.\n• If they escalate without adding facts, you have your answer. The emergency is fake.",
+      "insight": "The person who slows down in a fake emergency does not look calm — they look like they know something everyone else does not, which is exactly what happened."
+    },
+    {
+      "id": 9,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Push Back on Fake Urgency Without Calling It Fake",
+      "hook": "You do not have to say 'this is not real.' <strong>You just have to not treat it like it is.</strong>",
+      "truth": "Naming the lie directly puts you in a fight you do not need. Ask questions and set timelines instead.\n• Calling it fake picks a fight. Asking for the external deadline is just information-gathering.\n• Setting your own timeline names the real urgency level without using the word.\n• Now they have to make the case — and most will not.",
+      "principle": "Voss: Tactical Silence",
+      "remember": "You can push back on fake urgency without ever calling it fake.",
+      "theySee": "A team member calmly stating when they will deliver while everyone else in the room is already scrambling.",
+      "signals": [
+        {
+          "l": "Pressure without facts",
+          "t": "The urgency lives in their tone and body language, not in any named deadline or consequence.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Others watch your reaction",
+          "t": "When you slow down, people in the room pause to see how it plays out before they move.",
+          "icon": "👀"
+        },
+        {
+          "l": "No escalation after your timeline",
+          "t": "You name a calm delivery time and no one pushes back hard — the urgency was soft.",
+          "icon": "✅"
+        },
+        {
+          "l": "Relief in the room",
+          "t": "When you set a pace, at least one person visibly relaxes — they were waiting for someone to do it.",
+          "icon": "😮‍💨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State a specific delivery time",
+          "desc": "Say exactly when you will deliver: '10 AM tomorrow.' Not 'soon.' Not 'as soon as I can.' A specific time moves the decision to them."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the external constraint",
+          "desc": "Say: 'If that does not work, tell me the hard external deadline and I will reprioritize.' Now they have to name one or accept yours."
+        },
+        {
+          "n": "3",
+          "title": "Do not apologize for the timeline",
+          "desc": "Say your time once, plainly, then stop talking. Any apology or softener undoes the move completely."
+        }
+      ],
+      "script": "\"I can have this to you by 10 AM tomorrow. If that doesn't work, give me the hard deadline and I'll reprioritize everything else.\"",
+      "counter": "If someone overrides your timeline with emotional pressure, do not escalate — repeat.\n• Say the same timeline again in the same tone.\n• If they push a third time, say: 'Help me understand what breaks if this arrives at 10 AM.'\n• The third ask almost always ends the pressure. They either produce facts or they stop.",
+      "insight": "The quieter the pushback, the harder it is to argue with. Loud resistance is a target. A calm timeline is a wall."
+    },
+    {
+      "id": 10,
+      "cat": "anatomy",
+      "danger": "high",
+      "title": "The Manager Who Uses Crises to Control Output",
+      "hook": "If everything is urgent, nothing gets planned. <strong>That is not incompetence. That is a choice.</strong>",
+      "truth": "Some managers manufacture urgency because it gives them control without accountability — no plan means no plan to be judged against.\n• Constant crises prevent the team from building systems, documenting work, or getting ahead of anything.\n• It keeps people dependent on the manager to interpret what is 'really' important that day.\n• Calm weeks feel just as vague as crisis weeks — because nothing was ever actually managed.",
+      "principle": "Greene: Law 17 — Keep Others in Suspended Terror",
+      "remember": "A boss who always has a crisis is not managing. They are controlling.",
+      "theySee": "A team that is always busy but cannot explain what they are building toward or why this week's priority is different from last week's.",
+      "signals": [
+        {
+          "l": "No roadmap exists",
+          "t": "There is no written plan for what the team is working toward — only the current fire.",
+          "icon": "🗺️"
+        },
+        {
+          "l": "Priorities reset weekly",
+          "t": "What was most important last week is no longer mentioned. A new urgent thing replaced it with no explanation.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Team asks the manager what matters",
+          "t": "People regularly ask their manager 'is this still a priority?' because there is no other way to know.",
+          "icon": "🎭"
+        },
+        {
+          "l": "Calm triggers new urgency",
+          "t": "When the team finishes something and has a quiet moment, a new crisis appears within 24 hours.",
+          "icon": "⏱️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your own priority list from external deadlines only",
+          "desc": "Document your top three work items with their external deadlines. Update only when an external reason exists. Do not use this manager's announcements as your source."
+        },
+        {
+          "n": "2",
+          "title": "Ask for priorities in writing",
+          "desc": "In your next one-on-one, say: 'Can we write down our top three priorities for the month? I want to protect time for the right things when something urgent comes in.'"
+        },
+        {
+          "n": "3",
+          "title": "Track the crisis-to-calm ratio for four weeks",
+          "desc": "Note each day whether you were pulled into urgency mode. At the end of four weeks, count crisis days versus calm days. Show no one. Know the number."
+        }
+      ],
+      "script": "\"Can we write down the top three priorities for this month so I know what to protect time for when something urgent comes in?\"",
+      "counter": "If this manager is yours and the pattern is already set, the fix is documentation, not confrontation.\n• Every time you are redirected to a new urgent thing, send one sentence by email: 'Shifting from X to Y per your direction today.'\n• This creates a record of who is generating the urgency and when.\n• When priorities conflict, you have paper. They have memory. Paper wins.",
+      "insight": "The move that follows is deciding whether to own your priority list openly — which is a small act of resistance with real consequences for how the relationship goes from there."
+    },
+    {
+      "id": 11,
+      "cat": "response",
+      "danger": "low",
+      "title": "Build Your Written Record Before You Need It",
+      "hook": "You think you will remember. <strong>You won't. Neither will they — but they will remember it differently.</strong>",
+      "truth": "In organizations that run on manufactured urgency, memory is selective — and it always favors whoever has the record.\n• When something fails, the question is always who called it urgent and when, not whether it was.\n• The person who documented the request, the timeline, and the result holds the high ground.\n• One email per direction given builds a file that protects you later.",
+      "principle": "Information Asymmetry",
+      "remember": "The person with written records wins every argument about what was urgent.",
+      "theySee": "A coworker who is quiet in the meeting but always has the email receipts when a conflict appears later.",
+      "signals": [
+        {
+          "l": "Verbal-only requests",
+          "t": "The person making urgent requests never puts them in writing — only in hallway talks or calls.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "No written confirmation",
+          "t": "After you agree to do something, no one sends a follow-up or recap of the conversation.",
+          "icon": "📧"
+        },
+        {
+          "l": "Blame shifts after failure",
+          "t": "When an urgent thing does not land well, people forget who called it urgent and only remember who delivered it.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Story changes in the retelling",
+          "t": "The details of the original request shift later — the deadline moves, the priority moves, the context changes.",
+          "icon": "📝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reply to every verbal urgent request in writing",
+          "desc": "After any hallway or verbal urgent ask, send one sentence by email: 'Following up on our conversation — I am prioritizing X and will deliver by Y.'"
+        },
+        {
+          "n": "2",
+          "title": "Log the delivery time",
+          "desc": "When you send the work, include the time in the email: 'Delivered at 4:47 PM as requested.' That is your timestamp."
+        },
+        {
+          "n": "3",
+          "title": "Note when urgent work sits unread",
+          "desc": "If you get no response within 24 hours after an urgent delivery, write it down privately: date, topic, delivery time, first response time."
+        }
+      ],
+      "script": "\"Following up on what we just talked about — I'll prioritize X and have it to you by [time]. Let me know if the deadline changes.\"",
+      "counter": "If someone tries to revise history about what was urgent and when, produce your record.\n• Never say 'I remember you saying.' Say 'here is the email from Tuesday.'\n• Let the document do the confrontation. You stay neutral and factual.\n• If you have no record, you are working from memory against someone motivated to remember differently. You will lose.",
+      "insight": "The record does not just protect you — it changes how people make requests once they know you confirm everything in writing, which is the real value."
+    },
+    {
+      "id": 12,
+      "cat": "play",
+      "danger": "extreme",
+      "title": "Use the Fake Emergency Against the Person Who Made It",
+      "hook": "They manufactured the pressure. <strong>You can manufacture the conditions under which you respond.</strong>",
+      "truth": "The person who makes a fake emergency gives up something important: they have revealed they need you to move, and they cannot force you.\n• If you know it is fake, name a reasonable timeline and they must accept it or expose themselves.\n• Redirect: 'Given this new priority, what should I drop?' This forces them to rank, which is exactly what they were trying to avoid.\n• Done quietly, this looks like good work management. Done twice, it trains the behavior.",
+      "principle": "Greene: Law 31 — Control the Options",
+      "remember": "Once you know it is fake, you control the clock, not them.",
+      "theySee": "A calm team member taking notes and asking good questions while everyone else is already in motion.",
+      "signals": [
+        {
+          "l": "They need your buy-in",
+          "t": "The emergency requires your participation to become real — without your scramble, it stays theoretical.",
+          "icon": "🤝"
+        },
+        {
+          "l": "No alternative named",
+          "t": "They have not suggested anyone else who could handle this — your compliance is the plan.",
+          "icon": "📌"
+        },
+        {
+          "l": "Timeline is theirs alone",
+          "t": "The deadline was set by them, not by any external party, which means it can move.",
+          "icon": "📅"
+        },
+        {
+          "l": "You hold the skill or relationship",
+          "t": "What is needed is yours specifically — which gives you room to name your own terms.",
+          "icon": "🔑"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what drops",
+          "desc": "Say: 'If I shift to this, what should I deprioritize?' They have to answer. Their answer tells you what they actually care about."
+        },
+        {
+          "n": "2",
+          "title": "Set your timeline as the default",
+          "desc": "Name a delivery time that works for you, state it plainly, and wait. If they accept, you moved the clock. If they push back, they have to name a real constraint."
+        },
+        {
+          "n": "3",
+          "title": "Deliver on your timeline at high quality",
+          "desc": "Do the work well and on the time you named. This proves the urgency was manageable — and you are the one who managed it."
+        }
+      ],
+      "script": "\"If I move to this now, what should I pull off my plate? I want to make sure I deliver both well.\"",
+      "counter": "If someone runs this move on you — staying calm and setting their own timeline while you have called urgency — do not escalate emotionally.\n• State the external deadline and the named consequence. Make the case with facts.\n• If you cannot produce facts, you have been exposed as the manufactured-urgency maker yourself.\n• Drop the pressure or add real information. Those are the only two moves left.",
+      "insight": "This works until the person realizes what you are doing — and when they do, the conversation that follows is the one where you find out how much room you actually have."
+    }
+  ]
+}

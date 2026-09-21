@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 77,
+  "manifestVersion": 78,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -663,7 +663,20 @@
       "url": "playbooks/playbook-srv-defending-your-budget-when-the-cuts-come.json",
       "addedAt": "2026-09-15T23:18:28.896Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-manufactured-emergency",
+      "title": "Manufactured Emergency",
+      "theme": "workplace",
+      "topic": "Spotting a manufactured emergency at work",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🚨",
+      "url": "playbooks/playbook-srv-manufactured-emergency.json",
+      "addedAt": "2026-09-21T19:05:23.509Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-15T23:18:28.896Z"
+  "generatedAt": "2026-09-21T19:05:23.509Z"
 }
