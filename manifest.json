@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 77,
+  "manifestVersion": 78,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -663,7 +663,20 @@
       "url": "playbooks/playbook-srv-defending-your-budget-when-the-cuts-come.json",
       "addedAt": "2026-09-15T23:18:28.896Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-the-difficult-boss",
+      "title": "Black Book: The Difficult Boss",
+      "theme": "negotiation",
+      "topic": "Negotiating with a difficult boss",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🗂️",
+      "url": "playbooks/playbook-srv-black-book-the-difficult-boss.json",
+      "addedAt": "2026-09-22T17:55:43.489Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-15T23:18:28.896Z"
+  "generatedAt": "2026-09-22T17:55:43.489Z"
 }
