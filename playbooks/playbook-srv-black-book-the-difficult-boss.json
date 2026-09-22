@@ -1,0 +1,593 @@
+{
+  "meta": {
+    "id": "srv-black-book-the-difficult-boss",
+    "version": "1.0",
+    "title": "Black Book: The Difficult Boss",
+    "subtitle": "10 moves for negotiating with a boss who makes the rules and changes them",
+    "description": "A closed-file dossier on managing up when your boss is the obstacle. From reading the type to building the exit, these cards give you the moves the other 95% never think to make.",
+    "author": "AI",
+    "createdAt": "2026-09-22T17:55:43.489Z",
+    "tags": [
+      "negotiation",
+      "workplace",
+      "managing up",
+      "difficult boss",
+      "office politics"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🗂️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Negotiating with a difficult boss",
+      "cardCount": 10,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "read",
+      "label": "Reading the Boss",
+      "color": "#1F4E79"
+    },
+    {
+      "key": "position",
+      "label": "Positioning",
+      "color": "#2E7D32"
+    },
+    {
+      "key": "comms",
+      "label": "Communication Moves",
+      "color": "#6A1E4A"
+    },
+    {
+      "key": "conflict",
+      "label": "Conflict & Pushback",
+      "color": "#C0392B"
+    },
+    {
+      "key": "protect",
+      "label": "Protecting Yourself",
+      "color": "#795548"
+    },
+    {
+      "key": "escalate",
+      "label": "Escalation & Exit",
+      "color": "#37474F"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "read",
+      "danger": "low",
+      "title": "Identify the Boss Type Before You Make a Move",
+      "hook": "Every difficult boss is difficult in a specific way. <strong>Get the type wrong and every move you make backfires.</strong>",
+      "truth": "Most people react to the behavior and miss the pattern under it.\n• Micromanagers need control — give them updates before they ask.\n• Volatile bosses have triggers — catch the pattern before you walk in.\n• Indecisives fear blame — give them two options, not one open problem.",
+      "principle": "Greene: Know Your Enemy",
+      "remember": "Name the type first. Every type needs a different move.",
+      "theySee": "A direct report asking quiet questions about schedule and format while watching how the boss reacts.",
+      "signals": [
+        {
+          "l": "Daily check-ins",
+          "t": "Asks for status updates multiple times a day without waiting for a reply.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Names others' failures",
+          "t": "Calls out other people's mistakes in team meetings by name.",
+          "icon": "👂"
+        },
+        {
+          "l": "Stalls timelines",
+          "t": "Pushes back deadlines without giving a clear reason.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Copies senior people",
+          "t": "Adds executives to emails that don't need them.",
+          "icon": "📧"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch for 3 days",
+          "desc": "Write down every time the boss reacts strongly — what triggered it and who was in the room."
+        },
+        {
+          "n": "2",
+          "title": "Match to a type",
+          "desc": "Pick the closest match: micromanager, volatile, indecisive, or hands-off. One type dominates."
+        },
+        {
+          "n": "3",
+          "title": "Choose one move for that type",
+          "desc": "Micromanager: send a Monday summary. Volatile: never surprise them in public. Indecisive: give two options, not one."
+        }
+      ],
+      "script": "\"I've noticed you prefer quick updates — want me to send you a short summary every Monday morning?\"",
+      "counter": "When someone maps your patterns, they ask small probing questions about your preferences and style.\n• They ask what bothers you in unrelated situations — just to watch the reaction.\n• They mirror your tone back at you faster than feels natural.\n• They stop pushing back — they're still building the file on you.",
+      "insight": "Naming the type gives you the move — but the harder part is when the boss plays a different type in front of their own boss."
+    },
+    {
+      "id": 2,
+      "cat": "read",
+      "danger": "low",
+      "title": "Map Their Triggers Before They Map Yours",
+      "hook": "Your boss has three things that set them off. <strong>Walk into one blind and you lose ground you can't get back.</strong>",
+      "truth": "The person who knows both sets of triggers controls the temperature of every meeting.\n• Bosses who hate surprises spike in public — never blindside them with bad news there.\n• Bosses who hate being corrected need to feel they arrived at your point themselves.\n• Knowing your own triggers stops your boss from using them against you.",
+      "principle": "Emotional Trigger Mapping",
+      "remember": "Find their hot buttons before they find yours.",
+      "theySee": "A direct report who always gives advance warning before bringing up anything sensitive.",
+      "signals": [
+        {
+          "l": "Face tightens",
+          "t": "Jaw or brow changes visibly when a specific topic comes up.",
+          "icon": "😬"
+        },
+        {
+          "l": "Pace speeds up",
+          "t": "Speech gets faster right before they shut the conversation down.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Room goes quiet",
+          "t": "Everyone else in the meeting stops talking when the boss's tone shifts.",
+          "icon": "🤫"
+        },
+        {
+          "l": "First names drop",
+          "t": "Switches from formal titles to first names when irritated.",
+          "icon": "👤"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List their three biggest reactions",
+          "desc": "Write down the three things your boss responded badly to in the last month — the topic, the setting, who was there."
+        },
+        {
+          "n": "2",
+          "title": "List your own three triggers",
+          "desc": "Write the comments, tones, or topics that make you react. Know your own before they do."
+        },
+        {
+          "n": "3",
+          "title": "Plan around both lists",
+          "desc": "Check both lists before any hard meeting. Avoid their triggers. Guard yours — don't show the reaction when they test it."
+        }
+      ],
+      "script": "\"Before I bring this up in the team meeting, I wanted to run it by you first so you're not hearing it cold.\"",
+      "counter": "Someone learning your triggers will test small things — a slightly dismissive comment, an offhand joke at your expense.\n• A minor provocation with no real stakes — just watching your face.\n• They back off immediately if you don't react, then try again a week later.\n• Name it once, flat: 'I noticed that comment. What's behind it?'",
+      "insight": "A boss who can't control their own triggers is predictable. The move that follows is using that predictability before they correct for it."
+    },
+    {
+      "id": 3,
+      "cat": "position",
+      "danger": "moderate",
+      "title": "Never Give Them a Reason to Blame You",
+      "hook": "A difficult boss looks for someone to pin things on. <strong>The employee with a messy record is the easiest target.</strong>",
+      "truth": "The best defense against a difficult boss is a work record they can't attack.\n• Show up prepared, on time, and reliable — turn the focus elsewhere.\n• Bosses who blame need a reason — give them none and they move on.\n• One sloppy week hands them an argument they'll use for months.",
+      "principle": "Greene: Law 26 — Keep Your Hands Clean",
+      "remember": "Be so clean they can't make anything stick.",
+      "theySee": "A direct report who delivers work a day early and sends a timestamped email noting it.",
+      "signals": [
+        {
+          "l": "Others get named",
+          "t": "Boss calls out other people's mistakes publicly in team meetings.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Standards shift",
+          "t": "The bar for acceptable work moves without warning or explanation.",
+          "icon": "📊"
+        },
+        {
+          "l": "Old mistakes resurface",
+          "t": "Missed deadlines from weeks ago get brought up in new conversations.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Public correction",
+          "t": "Boss corrects someone in front of the whole team rather than privately.",
+          "icon": "📢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Deliver three things early this week",
+          "desc": "Pick three tasks due this week. Finish each one a day before the deadline. Send each with a timestamp."
+        },
+        {
+          "n": "2",
+          "title": "Email what you completed",
+          "desc": "Send a short note to your boss listing what's done. Creates a time-stamped record they can't dispute later."
+        },
+        {
+          "n": "3",
+          "title": "Find the gap before they do",
+          "desc": "Identify one thing in your work record the boss could point to. Fix it before they bring it up."
+        }
+      ],
+      "script": "\"I finished the report — sending it now, a day early, so you have time to review before the Friday call.\"",
+      "counter": "A direct report who builds a spotless record right before a dispute is preparing to escalate.\n• Sudden shift to finishing things early and sending written confirmations.\n• More formal language in messages that used to be casual.\n• Requests for written sign-off on decisions that were always handled verbally.",
+      "insight": "A clean record stops blame in the short term — but it also makes you more visible in ways that cut both directions. The harder part is staying clean without looking like you're angling for something."
+    },
+    {
+      "id": 4,
+      "cat": "comms",
+      "danger": "low",
+      "title": "Match Their Communication Style Before You Ask for Anything",
+      "hook": "Ask in the wrong format and your boss hears noise. <strong>Ask in their format and they actually listen.</strong>",
+      "truth": "Most people communicate the way they prefer to receive information. Their boss's preference is different.\n• A hands-on boss wants a written report; a hands-off boss finds it annoying.\n• Asking in person vs. by email changes how much weight you carry into the room.\n• Match the format first, then the content — the format is the door opener.",
+      "principle": "Managing Up: Communication Style Match",
+      "remember": "Ask in their format, not yours. Format is the door opener.",
+      "theySee": "A direct report who asks the boss directly how they prefer updates — and then does it exactly that way.",
+      "signals": [
+        {
+          "l": "Skips long emails",
+          "t": "Boss calls instead of replying to detailed written messages.",
+          "icon": "📞"
+        },
+        {
+          "l": "Three-word replies",
+          "t": "Sends very short responses to memos that took you an hour to write.",
+          "icon": "✂️"
+        },
+        {
+          "l": "Prefers meetings",
+          "t": "Consistently steers decisions into face-to-face conversations.",
+          "icon": "🤝"
+        },
+        {
+          "l": "Calls after emails",
+          "t": "Responds to emails with a call rather than a written reply.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask them directly today",
+          "desc": "Say: 'Do you prefer a quick written update or a two-minute check-in?' Write down the answer word for word."
+        },
+        {
+          "n": "2",
+          "title": "Switch to their format this week",
+          "desc": "Whatever they named, use it for every request and update this week. No exceptions."
+        },
+        {
+          "n": "3",
+          "title": "Group your asks before you go in",
+          "desc": "Write down three things you need. Bring them all at once in their preferred format — don't drip them one by one."
+        }
+      ],
+      "script": "\"How often would you like me to check in, and do you prefer a quick email or a two-minute call?\"",
+      "counter": "When someone asks about your communication preferences early, they're positioning for a bigger ask later.\n• A preference question arrives with no specific request attached.\n• They follow up correctly once, then use it to justify something harder.\n• Name what you want specifically so 'I did it your way' is harder to claim.",
+      "insight": "Matching their format works until you realize their preferred format is designed to leave no written record. A boss who only takes verbal requests has thought about this too."
+    },
+    {
+      "id": 5,
+      "cat": "comms",
+      "danger": "moderate",
+      "title": "Say It Back Out Loud Right After You Agree",
+      "hook": "A difficult boss will remember the version that helps them. <strong>The one who says it back first controls the record.</strong>",
+      "truth": "Most people leave meetings trusting their memory. Their boss's memory is convenient, not accurate.\n• Saying it back forces a correction on the spot or locks in the agreement.\n• A boss who stays quiet when you summarize has agreed — and they know it.\n• A follow-up email within the hour becomes the document if anything goes wrong later.",
+      "principle": "Voss: Summary Confirmation",
+      "remember": "Say it back right away. Silence from them means they agreed.",
+      "theySee": "A direct report who, at the end of every meeting, says exactly what was decided out loud before leaving the room.",
+      "signals": [
+        {
+          "l": "Vague sign-off",
+          "t": "Boss says 'sounds good' or 'we'll sort it' with no specifics attached.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "No notes taken",
+          "t": "Nobody in the room is writing anything down.",
+          "icon": "📝"
+        },
+        {
+          "l": "No date attached",
+          "t": "A decision is made but no timeline lands with it.",
+          "icon": "📅"
+        },
+        {
+          "l": "Version drift",
+          "t": "Boss describes the plan differently than they did an hour earlier.",
+          "icon": "🔀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say it back before you leave the room",
+          "desc": "At the end of the meeting: 'To confirm — you want X delivered by Y, and I own Z.' Wait. Let them correct or agree."
+        },
+        {
+          "n": "2",
+          "title": "Send one email within the hour",
+          "desc": "Write: 'Following up — here's what I heard us agree to.' Three bullet points. No more."
+        },
+        {
+          "n": "3",
+          "title": "Note when they don't reply",
+          "desc": "No correction by end of day means the agreement is on record. Save the thread somewhere you control."
+        }
+      ],
+      "script": "\"To make sure we're lined up — you want the report by Friday with the sales breakdown included, right?\"",
+      "counter": "When someone summarizes your conversation immediately after it ends, they're locking you in. Correct it on the spot — not later.\n• A recap email lands within an hour of any verbal discussion.\n• A closing question at the end of every meeting: 'So we agreed to X, right?'\n• Correct it immediately: 'Close — the deadline is Thursday, not Friday.'",
+      "insight": "The confirmation protects you — but a boss who knows you do this will start going vague before the meeting ends. The next move is getting the commitment earlier, not waiting for the exit."
+    },
+    {
+      "id": 6,
+      "cat": "comms",
+      "danger": "moderate",
+      "title": "State What You Need with a Date, Not a Hope",
+      "hook": "'I'd love to get that approved soon' is not a request. <strong>It's a wish. And wishes go nowhere with a difficult boss.</strong>",
+      "truth": "Vague requests give a difficult boss room to stall, ignore, or redirect you forever.\n• Naming a date forces a yes, a no, or a counter — all three beat silence.\n• Soft language signals you'll accept whatever timeline they decide to give.\n• One specific ask is harder to dodge than a general complaint.",
+      "principle": "Assertive Communication: Specific Request Framing",
+      "remember": "Name the thing. Name the date. No date means no answer.",
+      "theySee": "A direct report who asked for something specific and is clearly waiting for an answer.",
+      "signals": [
+        {
+          "l": "Approval stuck",
+          "t": "A request has been sitting without a response for more than a week.",
+          "icon": "🔒"
+        },
+        {
+          "l": "Topic shifted",
+          "t": "Boss moves to something else whenever you bring up the pending item.",
+          "icon": "↩️"
+        },
+        {
+          "l": "No reply given",
+          "t": "Follow-up messages on the request go unanswered.",
+          "icon": "📭"
+        },
+        {
+          "l": "Deadline passed",
+          "t": "The original project date already passed and the block hasn't moved.",
+          "icon": "⌛"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the request in one sentence",
+          "desc": "Write: 'I need [specific thing] by [specific date] so that [one reason].' Read it out loud. Cut anything vague."
+        },
+        {
+          "n": "2",
+          "title": "Deliver it in their format",
+          "desc": "Use the channel that gets their attention — in person, a direct message, or a quick call. Not a buried email thread."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a yes or a counter",
+          "desc": "After delivering: 'Does that work, or do you need a different date?' Forces a real response."
+        }
+      ],
+      "script": "\"I need the budget approval by Tuesday to start the project on time — can you confirm by end of day Monday?\"",
+      "counter": "When someone names a specific deadline to you, they're narrowing your room to delay. Counter with a date — not 'soon.'\n• A specific request with a hard date lands before you've decided anything.\n• You feel the urge to say 'I'll look into it' — that's a dodge, and they know it.\n• Counter with a specific date: 'I can give you an answer by Wednesday.'",
+      "insight": "The specific request forces the issue. But if your boss misses their own stated dates repeatedly, the problem isn't the ask anymore — it's the pattern you now need in writing."
+    },
+    {
+      "id": 7,
+      "cat": "conflict",
+      "danger": "moderate",
+      "title": "Bring Problems with Two Options, Not One",
+      "hook": "Walking in with a problem and no solution makes you the problem. <strong>Walking in with two options makes your boss the decision-maker — and you the one who solved it.</strong>",
+      "truth": "Bosses who stall on decisions are usually afraid of picking wrong. Two options give them a safe path.\n• Two options narrow the choice — they decide between A and B, not from scratch.\n• Once they pick, they own the call. If it goes wrong, they made it.\n• An indecisive boss will almost always choose one — they rarely invent a third.",
+      "principle": "Cialdini: Choice Architecture",
+      "remember": "Two options get a decision. One option gets a debate.",
+      "theySee": "A direct report who walks in with two written options and asks the boss to pick one.",
+      "signals": [
+        {
+          "l": "Stalls on answers",
+          "t": "Boss says 'let me think about it' and nothing moves for days.",
+          "icon": "⏳"
+        },
+        {
+          "l": "Asks others first",
+          "t": "Goes to peers or other teams before responding to you.",
+          "icon": "👥"
+        },
+        {
+          "l": "Reframes endlessly",
+          "t": "Turns your question into a broader discussion with no conclusion.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Mentions past mistakes",
+          "t": "Brings up decisions that went wrong before answering your question.",
+          "icon": "📋"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the two options before you go in",
+          "desc": "One-sentence description and one-sentence risk for each. Two options, four sentences total. No more."
+        },
+        {
+          "n": "2",
+          "title": "Name the one you'd pick",
+          "desc": "Say: 'I'd lean toward Option A because it's faster — but you know the budget better than I do.' Tilts them toward A without forcing it."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the call explicitly",
+          "desc": "End with: 'Which do you want me to run with?' Makes the decision theirs to own."
+        }
+      ],
+      "script": "\"I see two ways to handle this — Option A gets us there faster, Option B costs less. Which do you want me to run with?\"",
+      "counter": "When someone presents you with exactly two options, they've already removed all the others. Ask yourself what the third option is before you pick.\n• Two perfectly packaged options appear right before a deadline.\n• One option is clearly harder, making the easier one look obvious.\n• Ask: 'What would happen if we did neither?' It opens the choice back up.",
+      "insight": "The two-option move works until your boss figures out you're steering them. The harder problem is the boss who picks neither just to remind you who holds the final call."
+    },
+    {
+      "id": 8,
+      "cat": "protect",
+      "danger": "moderate",
+      "title": "Document Everything Without Making It Look Like a Case",
+      "hook": "You won't need the record until you suddenly do. <strong>By then, it's too late to start building it.</strong>",
+      "truth": "The person with written evidence wins any dispute about what was said or agreed.\n• Date-stamped emails and short follow-up notes are records — and they look like good habits.\n• A boss who never writes things down assumes your memory is as fuzzy as theirs.\n• The file looks like normal professional communication until the moment you need it.",
+      "principle": "Documentation: Paper Trail Strategy",
+      "remember": "Keep the record now. You will not have time to build it later.",
+      "theySee": "A thorough direct report who sends short professional follow-up emails after every conversation.",
+      "signals": [
+        {
+          "l": "Verbal only",
+          "t": "Boss gives important instructions by word of mouth with nothing in writing.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Story changes",
+          "t": "What the boss said last week is different from what they say now.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Blame deflected",
+          "t": "Boss suggests in a group setting that a missed deadline was your fault.",
+          "icon": "👉"
+        },
+        {
+          "l": "One-on-one only",
+          "t": "Hard conversations happen alone with no one else in the room.",
+          "icon": "🚪"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send a follow-up email after every verbal direction",
+          "desc": "Within one hour: 'Following our conversation — you asked me to do X by Y. Confirming I'm on it.' Three sentences max."
+        },
+        {
+          "n": "2",
+          "title": "Save copies outside your work email",
+          "desc": "Forward important threads to a personal email or save PDFs. Work accounts can be locked overnight without notice."
+        },
+        {
+          "n": "3",
+          "title": "Keep a private log for anything that doesn't go to email",
+          "desc": "Date, what was said, who was there. A notes app works. Don't name the file anything obvious."
+        }
+      ],
+      "script": "\"Just confirming what we discussed — you want me to hold the report until after the client call Thursday, right?\"",
+      "counter": "A direct report who starts over-documenting is preparing for something. Notice the sudden formality.\n• They start CCing unexpected people on routine messages.\n• Follow-up emails appear after every conversation, even minor ones.\n• Their language gets precise — no abbreviations, no casual tone.",
+      "insight": "The record protects you in any dispute. But a boss who knows you document will go verbal on anything sensitive. The next move is getting a witness in the room before that conversation happens."
+    },
+    {
+      "id": 9,
+      "cat": "escalate",
+      "danger": "high",
+      "title": "Go to HR Only After You've Built the File",
+      "hook": "Going to HR with feelings is a career move that backfires. <strong>Going to HR with dates, quotes, and a pattern is a different meeting entirely.</strong>",
+      "truth": "Most HR complaints fail not because the complaint is wrong, but because the person has nothing in writing.\n• HR works for the company — your file needs to make the case for them, not just for you.\n• Pattern evidence — three incidents, dates, business impact — beats a single story every time.\n• Going too early signals you can't manage the situation — HR notes that too.",
+      "principle": "Strategic Escalation: Evidence Threshold",
+      "remember": "Build the file first. Walk in with evidence, not feelings.",
+      "theySee": "An HR rep receiving a complaint that comes with three documented incidents and a clear business impact attached.",
+      "signals": [
+        {
+          "l": "Pattern repeats",
+          "t": "The same behavior happens three or more times with no change.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Work affected",
+          "t": "Your output is measurably worse — missed targets, errors, lost time.",
+          "icon": "📉"
+        },
+        {
+          "l": "Witness exists",
+          "t": "At least one colleague saw the behavior and would say so if asked.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Own fixes failed",
+          "t": "You tried direct conversation and documentation and nothing changed.",
+          "icon": "❌"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write a one-page summary of the three worst incidents",
+          "desc": "Date, what happened, who was present, what the impact was on your work. No adjectives. Just what happened."
+        },
+        {
+          "n": "2",
+          "title": "Pull the written evidence for each incident",
+          "desc": "Attach the emails, meeting notes, or log entries that back up each one."
+        },
+        {
+          "n": "3",
+          "title": "Frame the HR meeting around business impact",
+          "desc": "Open with: 'My manager's behavior is affecting my output in these specific ways.' Numbers and dates, not emotions."
+        }
+      ],
+      "script": "\"I have three documented incidents I'd like to walk you through — each one had a direct, measurable impact on my work and deliverables.\"",
+      "counter": "If someone is building a case against you, you'll see the documentation pattern first — sudden formality, precise language, follow-up emails.\n• A direct report who starts writing down everything, even small conversations.\n• A peer quietly asking whether they witnessed specific incidents.\n• A request for a formal one-on-one with no agenda shared in advance.",
+      "insight": "Going to HR is a move that can't be undone. Even if you win, the relationship with the company changes. The real question is whether you're building toward a resolution — or toward the door."
+    },
+    {
+      "id": 10,
+      "cat": "escalate",
+      "danger": "high",
+      "title": "Have Your Next Option Ready Before You Need It",
+      "hook": "Every demand you make gets stronger when you have somewhere else to go. <strong>And weaker every day you don't.</strong>",
+      "truth": "The person with no other option has no real position in any negotiation with their boss.\n• A live job offer changes how you talk — your voice settles and your boss can feel it.\n• People with no other option signal it. A boss who senses it will push harder.\n• Having options doesn't mean using them — it means you stop negotiating from fear.",
+      "principle": "Fisher & Ury: BATNA",
+      "remember": "Line up the next option before you need to use it.",
+      "theySee": "A direct report who stopped needing the boss's approval to feel steady.",
+      "signals": [
+        {
+          "l": "Tolerance drops",
+          "t": "Things that felt manageable a month ago now feel unbearable.",
+          "icon": "🌡️"
+        },
+        {
+          "l": "Nothing changes",
+          "t": "You've tried three different approaches and the dynamic hasn't moved.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Good people quit",
+          "t": "More than one strong performer left under this boss in the past year.",
+          "icon": "🚪"
+        },
+        {
+          "l": "Body shows it",
+          "t": "Sleep or energy is noticeably worse on Sunday nights before work.",
+          "icon": "😴"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Update your resume today",
+          "desc": "Not when you decide to leave — now. Takes 30 minutes. Removes the panic version of the search."
+        },
+        {
+          "n": "2",
+          "title": "Send one message to your network",
+          "desc": "One message today: 'Keeping my options open — would love to catch up soon.' No drama, no details."
+        },
+        {
+          "n": "3",
+          "title": "Write down your floor",
+          "desc": "Name the minimum salary, role level, and working conditions you'd accept. Do not negotiate without knowing your floor first."
+        }
+      ],
+      "script": "\"I've been exploring what's out there — I wanted to be transparent that I've had a few conversations, and I'm still deciding what the right move is.\"",
+      "counter": "When a direct report comes in calmer and less reactive than usual, check whether they've been interviewing. The gap that kept them in line may have already closed.\n• They stop pushing back on small things — and also stop asking for things.\n• Their work stays solid but the extra effort disappears.\n• They ask about projects six months out less frequently.",
+      "insight": "Having the next option is the move. Using it is just the aftermath. The harder question is whether you stayed too long building the file instead of building the exit."
+    }
+  ]
+}
