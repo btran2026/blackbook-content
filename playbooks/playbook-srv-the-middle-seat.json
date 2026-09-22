@@ -1,0 +1,1214 @@
+{
+  "meta": {
+    "id": "srv-the-middle-seat",
+    "version": "1.0",
+    "title": "The Middle Seat",
+    "subtitle": "Putting Yourself Between Two People Who Need Each Other",
+    "description": "A field manual for the broker. Find the gap between two people who should be talking, set the terms before you say a name, hold the middle, get paid, and survive the day they try to cut you out.",
+    "author": "AI",
+    "createdAt": "2026-09-17T22:39:05.388Z",
+    "tags": [
+      "brokerage",
+      "networks",
+      "deal-making",
+      "power",
+      "introductions",
+      "negotiation"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#1F3A5F",
+    "coverIcon": "🔗",
+    "cards": [],
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "spot",
+      "label": "Spot The Gap Nobody Is Crossing",
+      "color": "#2E6F8E"
+    },
+    {
+      "key": "vet",
+      "label": "Check Both Sides First",
+      "color": "#4C6B3C"
+    },
+    {
+      "key": "terms",
+      "label": "Set The Terms Of The Introduction",
+      "color": "#8A6A1F"
+    },
+    {
+      "key": "connect",
+      "label": "Make The Connection",
+      "color": "#1F3A5F"
+    },
+    {
+      "key": "middle",
+      "label": "Stay In The Middle",
+      "color": "#6B3F6E"
+    },
+    {
+      "key": "collect",
+      "label": "Collect What You Are Owed",
+      "color": "#8C4A2F"
+    },
+    {
+      "key": "cutout",
+      "label": "When They Cut You Out",
+      "color": "#7A2E2E"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "spot",
+      "danger": "low",
+      "title": "Find Two People Who Complain About Opposite Halves Of The Same Problem",
+      "principle": "Burt: Structural Holes",
+      "remember": "Two people want each other and do not know it.",
+      "when": "Two people you know separately complain to you about problems that solve each other.",
+      "hook": "You heard both halves of a deal in one week. <strong>Nobody else heard both.</strong>",
+      "truth": "A gap between two groups pays better than a good seat inside one group.\n• You hold two problems that fit. Each of them holds one.\n• The money comes from your seat, not from your skill.\n• Say nothing for a week. A gap you announce stops being yours.",
+      "theySee": "A friend who listens closely and asks one more question about their problem.",
+      "signals": [
+        {
+          "icon": "🧩",
+          "l": "Matched pair",
+          "t": "One person needs exactly what the other wants to sell"
+        },
+        {
+          "icon": "🚪",
+          "l": "No shared door",
+          "t": "They have no friend, client, or employer in common"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat complaint",
+          "t": "They raise the same stuck problem with you twice in a month"
+        },
+        {
+          "icon": "🗺️",
+          "l": "Different worlds",
+          "t": "They work in industries that never meet at the same events"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write both complaints down",
+          "desc": "Open your notes. Write each person's problem in their own words, one line each."
+        },
+        {
+          "n": "2",
+          "title": "Check the overlap",
+          "desc": "Ask yourself if one person's problem is the other person's product. If yes, mark it."
+        },
+        {
+          "n": "3",
+          "title": "Ask one more question",
+          "desc": "Call the weaker side and ask who they already asked. Their answer tells you if the gap is still open."
+        }
+      ],
+      "script": "\"Say that problem again, slower. <strong>Who have you already asked about it?</strong>\"",
+      "watchFor": "They start listing the people who could not help them.",
+      "example": "Dev's gym friend complained he could not find a data engineer. Two days later a former coworker told Dev she hated her agency job. Dev wrote both names in his notes and stayed quiet for a week. He closed a 10% finder fee on her first-year salary.",
+      "ifItFails": "They already know each other and never mention it. Do not force the match. Ask the question that finds the next gap instead: <strong>\"Who else turned you down on this, and why?\"</strong> That list is a map of the doors still shut.",
+      "counter": "If someone keeps asking you what you cannot find, they are hunting a gap around you.\n• Notice the questions about your suppliers and your stuck projects.\n• Say: <strong>\"Why do you ask? Do you know someone?\"</strong>\n• Make them name the person before you describe your problem further.",
+      "insight": "The gap only pays while both sides stay blind to it. The harder part is deciding how long you can sit on it before someone else walks through."
+    },
+    {
+      "id": 2,
+      "cat": "spot",
+      "danger": "low",
+      "title": "List The People You Talk To Twice A Year",
+      "principle": "Granovetter: The Strength of Weak Ties",
+      "remember": "Your far-off contacts know things your close friends do not.",
+      "when": "You want new deals but your close circle keeps handing you the same three names.",
+      "hook": "Your best friends all know each other. <strong>That means they all know the same things.</strong>",
+      "truth": "Close circles run out of new information fast. Distant contacts carry the rest.\n• Everyone in your daily group already shares your news.\n• A contact you see twice a year lives in a different room.\n• Most people call their friends first. That is why they find nothing.",
+      "theySee": "An old contact who sends a short message after a long quiet time.",
+      "signals": [
+        {
+          "icon": "♻️",
+          "l": "Same names",
+          "t": "Your inner circle keeps recommending people you already know"
+        },
+        {
+          "icon": "📅",
+          "l": "Long gaps",
+          "t": "You have contacts you last spoke to eight months ago"
+        },
+        {
+          "icon": "🏢",
+          "l": "Other rooms",
+          "t": "Some contacts work in industries nobody in your circle touches"
+        },
+        {
+          "icon": "📥",
+          "l": "Cold inbound",
+          "t": "Strangers reach you through one of these distant contacts, not your friends"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write 20 names",
+          "desc": "List contacts you like but have not spoken to in six months. Phone contacts, old colleagues, past clients."
+        },
+        {
+          "n": "2",
+          "title": "Mark the far ones",
+          "desc": "Cross out anyone who knows your three closest contacts. Keep the rest."
+        },
+        {
+          "n": "3",
+          "title": "Send five messages today",
+          "desc": "One line each. Ask what they are working on now. Do not ask for anything."
+        }
+      ],
+      "script": "\"Been a while. <strong>What are you working on these days?</strong> I keep running into things that might be your world.\"",
+      "watchFor": "They reply with a problem instead of a pleasantry.",
+      "example": "Priya listed 40 contacts and crossed out everyone her business partner knew. Twelve names were left. She messaged five on a Tuesday. One ran procurement at a hospital group and needed a supplier Priya had met once at a conference.",
+      "ifItFails": "Nobody replies. Do not send a second chase message. Change the ask to something they can answer in four words: <strong>\"Quick one — are you still at Northlake?\"</strong> A factual question gets answered when a friendly one does not.",
+      "counter": "If a quiet contact suddenly warms up, they are mapping you.\n• Notice that the first message asks what you are working on.\n• Answer with one project, then ask them the same question.\n• Give detail only after they give detail. Trade, do not report.",
+      "insight": "Distant contacts are cheap to keep and expensive to rebuild. The next question is which five you can afford to make close again."
+    },
+    {
+      "id": 3,
+      "cat": "spot",
+      "danger": "low",
+      "title": "Count How Many Times People Ask You For The Same Kind Of Name",
+      "principle": "Repeat Demand as a Market Signal",
+      "remember": "The question you get asked three times is a business.",
+      "when": "Three different people ask you the same do-you-know-anyone question inside a month.",
+      "hook": "You keep answering the same question for free. <strong>That question has a price on it.</strong>",
+      "truth": "Repeat questions mark a shortage. A shortage is where a middleman gets paid.\n• Each asker thinks their need is rare. You see it is common.\n• Three asks in a month means dozens of asks in the market.\n• Stop answering fast. Start counting who asks and what they would pay.",
+      "theySee": "A well-connected person who always seems to know somebody.",
+      "signals": [
+        {
+          "icon": "📈",
+          "l": "Three asks",
+          "t": "Three separate people ask you for the same type of person"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Urgent tone",
+          "t": "They say they have been looking for weeks already"
+        },
+        {
+          "icon": "💸",
+          "l": "Money mentioned",
+          "t": "Someone tells you the budget before you ask for it"
+        },
+        {
+          "icon": "🤷",
+          "l": "No obvious source",
+          "t": "You cannot name a website or agency that solves it cleanly"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Keep a tally",
+          "desc": "Start a note called Asks. Every time someone asks for a name, write the date and what they wanted."
+        },
+        {
+          "n": "2",
+          "title": "Find the repeat",
+          "desc": "After 30 days, read the list. Circle any request that appears three or more times."
+        },
+        {
+          "n": "3",
+          "title": "Price it once",
+          "desc": "Call the next asker and ask what solving it is worth to them. Write the number down."
+        }
+      ],
+      "script": "\"You are the third person to ask me that this month. <strong>What is it worth to you if I find the right one?</strong>\"",
+      "watchFor": "They give you a number instead of laughing it off.",
+      "example": "Marcus tracked requests in his phone for a month. Four founders asked him for a fractional finance lead. He called the fourth one and asked what a good hire was worth. She said two months of the salary. He built a list of six candidates that weekend.",
+      "ifItFails": "They treat the question as a joke and ask for the name anyway. Do not give it. Trade instead: <strong>\"I will make the call if you introduce me to your head of ops.\"</strong> A name for a name keeps the price at zero and the debt on the table.",
+      "counter": "If someone starts asking what your search is worth, they have counted your asks.\n• Notice the pivot from friendly help to a price question.\n• Say: <strong>\"Tell me who you have in mind first.\"</strong>\n• Judge the name before you agree to any fee.",
+      "insight": "Counting takes a month and costs nothing. The trap is that once you price the favor, your friends start calling someone else for free ones."
+    },
+    {
+      "id": 4,
+      "cat": "vet",
+      "danger": "moderate",
+      "title": "Ask Each Side Who Burned Them Last",
+      "principle": "Borrowed Trust — Reputation Risk",
+      "remember": "Their last bad deal tells you how they will treat yours.",
+      "when": "You are about to connect two people and you only know one of them well.",
+      "hook": "You lend your name to both sides. <strong>If one of them cheats, your name pays the bill.</strong>",
+      "truth": "People repeat their last betrayal. They just change the target.\n• Ask about the deal that went wrong. They will tell you more than they mean to.\n• Listen to whether they blame everyone or name one thing they did wrong.\n• Full blame on others means you are the next person they blame.",
+      "theySee": "Someone who takes their side and wants to hear the whole story.",
+      "signals": [
+        {
+          "icon": "🎭",
+          "l": "All-victim story",
+          "t": "They blame every past partner and never themselves"
+        },
+        {
+          "icon": "⚖️",
+          "l": "Lawyer talk",
+          "t": "They mention two lawsuits inside the first conversation"
+        },
+        {
+          "icon": "🕳️",
+          "l": "Missing years",
+          "t": "They skip over a period of their history when you ask"
+        },
+        {
+          "icon": "📞",
+          "l": "No references",
+          "t": "They cannot name one past partner you could call"
+        },
+        {
+          "icon": "💰",
+          "l": "Fee dodging",
+          "t": "They tell you fees are usually waived for friends"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask about the last blowup",
+          "desc": "Say you want to avoid repeating it. Ask what went wrong on their last partnership."
+        },
+        {
+          "n": "2",
+          "title": "Ask for one reference each",
+          "desc": "Request the name and number of one past counterpart. Call the number the same day."
+        },
+        {
+          "n": "3",
+          "title": "Wait 48 hours",
+          "desc": "Do not make the introduction until the reference call is done. Tell both sides you are checking timing."
+        }
+      ],
+      "script": "\"Before I put you two in a room — <strong>who was the last partner who let you down, and what happened?</strong>\"",
+      "watchFor": "They pause, then name one thing they would do differently.",
+      "example": "Lena was about to introduce a supplier to a retail buyer. She asked the supplier about his last lost account. He blamed the client, the freight company, and the weather. She called the old client, heard about two missed shipments, and killed the introduction.",
+      "ifItFails": "They give a polished story with no names in it. Do not accept it. Ask for the paper instead: <strong>\"Send me the last contract you signed with a partner like this — redact the numbers.\"</strong> People who cheat do not send documents.",
+      "counter": "If someone asks you about your worst past deal before an introduction, you are being checked.\n• Notice the question comes before any name is offered.\n• Give one real failure and what you fixed. Vagueness reads as hiding.\n• Then ask them the same question. Silence there is your answer.",
+      "insight": "Do not skip this on a friend's referral — friends vouch for character, not for payment history. The next question is what you do when the reference is fine and your gut is not."
+    },
+    {
+      "id": 5,
+      "cat": "vet",
+      "danger": "low",
+      "title": "Get A Yes From Both Sides Before You Say Either Name",
+      "principle": "Double Opt-In — Consent Before Contact",
+      "remember": "Never hand out a name that has not agreed to be handed out.",
+      "when": "Someone asks you to introduce them to a person you know well.",
+      "hook": "A surprise introduction costs you one contact. <strong>Do it twice and you stop getting answers.</strong>",
+      "truth": "The person you introduce without asking pays a cost you never see.\n• You ask each side first. Both arrive expecting the call.\n• The busy side keeps trusting you because you never dump strangers on them.\n• Most people skip this because asking feels slow. It is how they burn their best contacts.",
+      "theySee": "A short message asking permission before anything reaches their inbox.",
+      "signals": [
+        {
+          "icon": "📨",
+          "l": "Blind copy",
+          "t": "People forward your name to strangers without asking you"
+        },
+        {
+          "icon": "😶",
+          "l": "Slow replies",
+          "t": "A strong contact takes longer to answer you than last year"
+        },
+        {
+          "icon": "🚫",
+          "l": "Polite decline",
+          "t": "They say they are heads-down when you send someone over"
+        },
+        {
+          "icon": "🔥",
+          "l": "Urgent push",
+          "t": "The asker wants the introduction sent tonight"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get a forwardable note",
+          "desc": "Ask the requester for three lines you can paste: who they are, the ask, why now."
+        },
+        {
+          "n": "2",
+          "title": "Ask the other side privately",
+          "desc": "Send the three lines alone. Ask a yes or no question. Do not copy the requester."
+        },
+        {
+          "n": "3",
+          "title": "Connect only on a yes",
+          "desc": "If the answer is no or silent for three days, tell the requester no and keep the relationship."
+        }
+      ],
+      "script": "\"Sam runs logistics at Harlow and wants 20 minutes about your warehouse system. <strong>Want me to connect you, or should I hold him off?</strong>\"",
+      "watchFor": "They reply with a time slot instead of a question.",
+      "example": "Omar asked a founder friend before forwarding a recruiter. The founder said no, he was mid-layoff. Two weeks later the same founder sent Omar a client worth 18 thousand, and said he did it because Omar always asks first.",
+      "ifItFails": "The busy side ignores the permission message. Do not send it twice and do not connect anyway. Give the requester a smaller door: <strong>\"She is buried this month. Here is her assistant — use my name and ask for October.\"</strong> You keep the contact and the asker still moves.",
+      "counter": "If someone copies you into a thread with a stranger, they skipped the ask.\n• Notice you were added, not asked.\n• Reply to the sender alone: <strong>\"Happy to help, but check with me first next time.\"</strong>\n• Answer the stranger short and late. Speed rewards the bad habit.",
+      "insight": "This move costs you one extra message and buys you every future answer. The harder call is the friend who keeps forwarding you anyway."
+    },
+    {
+      "id": 6,
+      "cat": "vet",
+      "danger": "moderate",
+      "title": "Only Pass On Someone You Have Watched Deliver",
+      "principle": "Your Name Is the Collateral",
+      "remember": "You can only recommend work you have seen finished.",
+      "when": "You want to introduce someone you like but have never worked with.",
+      "hook": "Liking someone is not evidence. <strong>Your name is the only thing on the table.</strong>",
+      "truth": "An introduction is a loan against your reputation, and you sign it alone.\n• Charm gets people introduced. Delivery is what gets you paid twice.\n• If they fail, the buyer does not blame them. They blame the person who sent them.\n• Say what you have seen, not what you believe. That line saves you later.",
+      "theySee": "Someone who speaks about them in specifics instead of praise.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Great talker",
+          "t": "They describe results but never show you one finished piece"
+        },
+        {
+          "icon": "📂",
+          "l": "No artifacts",
+          "t": "They cannot send a sample, a case, or a number"
+        },
+        {
+          "icon": "👥",
+          "l": "Team credit",
+          "t": "Every win they mention involved a team you cannot reach"
+        },
+        {
+          "icon": "⏳",
+          "l": "Always starting",
+          "t": "Their projects are always about to launch"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for proof",
+          "desc": "Request one finished piece of work and one client you may call."
+        },
+        {
+          "n": "2",
+          "title": "Run a small test",
+          "desc": "Give them a paid two-day job for yourself or a low-risk contact. Watch the deadline."
+        },
+        {
+          "n": "3",
+          "title": "Say only what you saw",
+          "desc": "In the introduction, name the exact thing you watched them do. Skip the adjectives."
+        }
+      ],
+      "script": "\"I have not worked with her yet. <strong>Give me one finished project and one client I can call, and I will make the call this week.</strong>\"",
+      "watchFor": "They send the file within a day without being chased.",
+      "example": "Ruth liked a designer she met at a meetup. She hired him for a two-day logo test at her own cost. He missed the second deadline by four days. She never sent him to her biggest client, who later spent 60 thousand with someone else.",
+      "ifItFails": "They deliver the test, then go quiet on the real job. Do not defend them. Tell the buyer first, before the buyer tells you: <strong>\"He has gone quiet on me too. Stop payment and I will find you a replacement by Friday.\"</strong> Speed here keeps your name clean.",
+      "counter": "If someone recommends a person with no story of finished work, they are guessing with your money.\n• Notice the praise is all about character, not delivery.\n• Ask: <strong>\"What did you watch them finish?\"</strong>\n• If the answer is soft, take the name but run your own test first.",
+      "insight": "Never vouch for someone you like in a room where you do not control the budget. The real trap is the friend who is good and slow — that failure is the one people remember longest."
+    },
+    {
+      "id": 7,
+      "cat": "terms",
+      "danger": "low",
+      "title": "Get The Ask In Writing Before You Forward It",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Make them write the ask. Writing makes people behave.",
+      "when": "Someone asks you for an introduction on a phone call or over a drink.",
+      "hook": "A spoken ask costs them nothing. <strong>A written one puts their name on it.</strong>",
+      "truth": "People soften a request in writing and stretch it in speech.\n• Ask for three lines. The vague requests never arrive.\n• The ones that arrive are clearer, smaller, and easier to place.\n• The note also becomes your record when the deal goes sideways.",
+      "theySee": "A helpful contact who wants to get their pitch right before sending it.",
+      "signals": [
+        {
+          "icon": "🍸",
+          "l": "Bar ask",
+          "t": "They ask for the introduction while drinking, not in writing"
+        },
+        {
+          "icon": "🌫️",
+          "l": "Fuzzy ask",
+          "t": "They cannot say in one line what they want from the other person"
+        },
+        {
+          "icon": "📝",
+          "l": "No note",
+          "t": "Three days pass and the promised paragraph never comes"
+        },
+        {
+          "icon": "🎯",
+          "l": "Sharp ask",
+          "t": "Their note names the meeting length and the decision they want"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say yes with a condition",
+          "desc": "Agree on the spot, then ask them to send three lines by tomorrow."
+        },
+        {
+          "n": "2",
+          "title": "Read it for the ask",
+          "desc": "Check that the note names one specific request. Send it back if it does not."
+        },
+        {
+          "n": "3",
+          "title": "Keep the note",
+          "desc": "Save the message in a folder with the date. It is your record of what was promised."
+        }
+      ],
+      "script": "\"Happy to do it. <strong>Send me three lines tonight: who you are, what you want from him, and why now.</strong> I will forward it in the morning.\"",
+      "watchFor": "The note lands in your inbox the same night.",
+      "example": "Tomas promised four introductions at a conference. He asked all four for three lines. One sent it that night. The other three never wrote. He made one introduction, and it turned into a two-year contract.",
+      "ifItFails": "They send a rambling page instead of three lines. Do not edit it for them twice. Send it back once with the structure: <strong>\"Cut it to three lines: who, the ask, the timing. I will send whatever you give me.\"</strong> Now the quality of the pitch is their problem, not your reputation.",
+      "counter": "If someone asks you to put your request in writing, they are filtering you.\n• Notice the delay is a test, not a formality.\n• Write it tight and send it inside an hour.\n• Speed and clarity move you up their list past people who never wrote back.",
+      "insight": "The note filters out most requests for free. What you cannot filter is the person who writes a brilliant note and cannot do the work."
+    },
+    {
+      "id": 8,
+      "cat": "terms",
+      "danger": "high",
+      "title": "Name Your Fee Before You Say The Name",
+      "principle": "Schelling: Commit Before the Move",
+      "remember": "Ask for your cut before the introduction, never after.",
+      "when": "You are about to connect two people and the deal between them is worth real money.",
+      "hook": "Before the introduction, you hold everything. <strong>After it, you hold a thank-you.</strong>",
+      "truth": "Your only moment of power is the second before they meet.\n• The name is the whole product. Once it is out, it cannot be taken back.\n• Ask first and the fee is a condition. Ask after and it is a favor.\n• Most people wait because asking feels greedy. They get paid in coffee.",
+      "theySee": "A person who treats the introduction as a piece of business, not a favor.",
+      "signals": [
+        {
+          "icon": "💼",
+          "l": "Real money",
+          "t": "The deal between them is worth more than a month of your pay"
+        },
+        {
+          "icon": "🔎",
+          "l": "Hard search",
+          "t": "They tell you they have hunted for this contact for months"
+        },
+        {
+          "icon": "🤝",
+          "l": "Friendly framing",
+          "t": "They keep calling it a simple favor between friends"
+        },
+        {
+          "icon": "⏩",
+          "l": "Rush push",
+          "t": "They want the name before any terms get discussed"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick your number",
+          "desc": "Decide on a percentage or a flat fee before the call. Write it down so you do not soften it."
+        },
+        {
+          "n": "2",
+          "title": "Say it plainly, then stop",
+          "desc": "State the fee in one sentence. Do not explain or apologize. Wait for them to speak."
+        },
+        {
+          "n": "3",
+          "title": "Send one short email",
+          "desc": "After they agree, email the terms in three lines and ask them to reply yes."
+        }
+      ],
+      "script": "\"I can open that door. <strong>My fee is 5% of the first year, paid when they pay you.</strong> If that works, I will send the note today.\"",
+      "watchFor": "They ask how you want it paid instead of whether you should be paid.",
+      "example": "Grace knew the one buyer a software founder needed. She named 5% of the first-year contract before saying the name. He agreed in one line by email. The contract closed at 400 thousand and she was paid 20.",
+      "ifItFails": "They say they do not pay for introductions. Do not drop the fee to keep the peace. Change what you sell: <strong>\"Then I will not make the introduction, but I will coach you on how to reach him yourself for a flat 2,000.\"</strong> Either they pay for access or they pay for the map.",
+      "counter": "If a connector names a fee before giving you a name, they are pricing access.\n• Notice you cannot judge the value because you cannot see the name.\n• Say: <strong>\"Tell me the company, not the person, and I will agree the fee.\"</strong>\n• Cap the fee at a number that still leaves the deal worth doing.",
+      "insight": "Do not run this on your own manager or anyone who writes your review — inside a company the same ask reads as a shakedown. The next problem is collecting from someone who agreed too easily."
+    },
+    {
+      "id": 9,
+      "cat": "terms",
+      "danger": "high",
+      "title": "Say Up Front What Happens If They Deal Direct",
+      "principle": "Schelling: Announce the Penalty Early",
+      "remember": "Tell them the cost of going around you before they think of it.",
+      "when": "You are introducing a buyer and a seller who could easily keep working without you.",
+      "hook": "Everybody plans to be fair. <strong>Say the penalty out loud while everybody still means it.</strong>",
+      "truth": "A rule stated before the money moves is a rule. Stated after, it is a complaint.\n• Name the term once, calmly, while both sides still need you.\n• They now know that cutting you out is a choice, not an accident.\n• Skip this and every later objection sounds like you got greedy.",
+      "theySee": "Someone stating a standard term in a flat voice, the way a lawyer reads a clause.",
+      "signals": [
+        {
+          "icon": "🔄",
+          "l": "Repeat business",
+          "t": "The two sides will clearly work together more than once"
+        },
+        {
+          "icon": "🧾",
+          "l": "No paper",
+          "t": "Nobody has mentioned a contract or a fee schedule yet"
+        },
+        {
+          "icon": "🤫",
+          "l": "Side channel",
+          "t": "One side asks for the other's direct number before the meeting"
+        },
+        {
+          "icon": "😬",
+          "l": "Term dodging",
+          "t": "They change the subject when you mention fees"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write one clause",
+          "desc": "Write a single sentence: any deal between these two in the next 12 months pays your fee."
+        },
+        {
+          "n": "2",
+          "title": "Say it to both sides",
+          "desc": "Tell each side the same sentence in the same words before the meeting happens."
+        },
+        {
+          "n": "3",
+          "title": "Put it in the calendar invite",
+          "desc": "Add the sentence to the invite description. Now it sits in both their calendars."
+        }
+      ],
+      "script": "\"Standard on my side: <strong>anything you two sign in the next 12 months carries my 5%.</strong> Nothing personal, it is how I keep doing this. Good with that?\"",
+      "watchFor": "One of them says fine and moves straight to scheduling.",
+      "example": "Karim introduced a factory to a retail chain and stated the 12-month clause in the calendar invite. Eight months later the chain placed a second order direct. Karim forwarded the invite text with one line and was paid inside a week.",
+      "ifItFails": "They agree verbally and then never sign anything. Do not chase a contract they will not sign. Make the record yourself: <strong>\"Confirming what we agreed on the call: 5% on anything signed before March. Reply OK and I will set the meeting.\"</strong> An email reply is enough paper for most fights.",
+      "counter": "If a connector announces a penalty clause before the meeting, they expect to be cut out.\n• Notice the clause covers all deals, not just the first one.\n• Say: <strong>\"Fine on the first deal. After that we renegotiate.\"</strong>\n• Put an end date on it in writing before the meeting happens.",
+      "insight": "Do not use this with anyone senior inside your own company — there the clause reads as distrust and costs you more than the fee. The next question is whether you would actually enforce it, because they are asking themselves the same thing."
+    },
+    {
+      "id": 10,
+      "cat": "connect",
+      "danger": "low",
+      "title": "Write Two Different Emails, Not One Group Thread",
+      "principle": "Burt: Brokerage — Translation Between Worlds",
+      "remember": "Each side hears why this is good for them, in their own words.",
+      "when": "You are ready to connect two people who come from different industries.",
+      "hook": "One email to both sides makes you a mail server. <strong>Two emails make you a translator.</strong>",
+      "truth": "The two sides want different things, so one message sells neither of them.\n• Write each side the reason that moves that side.\n• They both arrive wanting the meeting instead of tolerating it.\n• The group thread hides your work. Two private notes make it visible.",
+      "theySee": "A note that reads like it was written only for them, naming their exact problem.",
+      "signals": [
+        {
+          "icon": "🌐",
+          "l": "Different worlds",
+          "t": "The two sides use different words for the same thing"
+        },
+        {
+          "icon": "😐",
+          "l": "Flat replies",
+          "t": "Group introduction threads you sent before died after one message"
+        },
+        {
+          "icon": "🎯",
+          "l": "Different wants",
+          "t": "One side wants speed and the other wants price"
+        },
+        {
+          "icon": "✅",
+          "l": "Warm reply",
+          "t": "Each side replies with a time slot after the private note"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the seller's note",
+          "desc": "Tell the seller exactly what the buyer is trying to fix and what the budget looks like."
+        },
+        {
+          "n": "2",
+          "title": "Write the buyer's note",
+          "desc": "Tell the buyer the one result this person produced for someone like them."
+        },
+        {
+          "n": "3",
+          "title": "Send the joint note last",
+          "desc": "After both say yes, send a four-line thread with names, the purpose, and a proposed time."
+        }
+      ],
+      "script": "(To the buyer) \"<strong>She cut delivery times at a company your size from nine days to three.</strong> You said that was your worst number. Twenty minutes Thursday?\"",
+      "watchFor": "Both sides answer with a time before asking what this is about.",
+      "example": "Nadia introduced a factory owner to a fashion buyer. She told the owner the buyer had 200 thousand to place this quarter. She told the buyer the owner had free capacity in March. Both replied within an hour and the meeting produced an order.",
+      "ifItFails": "One side replies with a lukewarm maybe. Do not send the group thread yet. Go back alone and find the block: <strong>\"What would make this worth 20 minutes for you?\"</strong> Fix that one thing, then send the thread.",
+      "counter": "If a connector sends you a private note that reads perfectly, they prepared both sides.\n• Notice the note names your exact problem in your own words.\n• Ask: <strong>\"What did you tell the other side about me?\"</strong>\n• Compare the two stories before the meeting so nobody sets the terms for you.",
+      "insight": "Two notes take ten more minutes and double the reply rate. The harder part is that once you translate well, both sides start needing you in every conversation."
+    },
+    {
+      "id": 11,
+      "cat": "connect",
+      "danger": "moderate",
+      "title": "Introduce Them When One Side Is Winning",
+      "principle": "Status Asymmetry — Timing the Handoff",
+      "remember": "Connect people on a good week, never a desperate one.",
+      "when": "You hold a match and you are deciding when to send the introduction.",
+      "hook": "The same two people meeting in March and in June get different deals. <strong>Timing sets the price.</strong>",
+      "truth": "Need is visible, and the side that needs more pays more.\n• A fresh win makes your side look chosen, not available.\n• Desperation leaks through calendar speed and tone.\n• So park the match until one side has news worth mentioning.",
+      "theySee": "Someone who arrives right after a good announcement and treats it as the reason for the call.",
+      "signals": [
+        {
+          "icon": "📰",
+          "l": "Fresh news",
+          "t": "Your side just announced a raise, a hire, or a launch"
+        },
+        {
+          "icon": "🕰️",
+          "l": "Empty calendar",
+          "t": "Your side offers any time tomorrow, which signals a slow month"
+        },
+        {
+          "icon": "😰",
+          "l": "Panic tone",
+          "t": "They mention runway, layoffs, or a lost client in the first minute"
+        },
+        {
+          "icon": "📈",
+          "l": "Waitlist talk",
+          "t": "Your side mentions they are booked into next quarter"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait for the news",
+          "desc": "Hold the match until one side posts a win, a hire, or a launch. Check their feed weekly."
+        },
+        {
+          "n": "2",
+          "title": "Use the win as the reason",
+          "desc": "Open the introduction with the news, not with the need."
+        },
+        {
+          "n": "3",
+          "title": "Slow the calendar",
+          "desc": "Offer times next week, not today. Immediate availability reads as an empty desk."
+        }
+      ],
+      "script": "\"Saw you closed the Bristol contract. <strong>Timing is good — there is someone you should meet while you have the momentum.</strong> Tuesday next week?\"",
+      "watchFor": "The other side asks what else your side is working on.",
+      "example": "Chris sat on a match for six weeks. When his contact announced a new plant, Chris sent the introduction that afternoon using the plant as the reason. The buyer opened with a larger order than he had planned, because the seller looked busy.",
+      "ifItFails": "No win arrives and the need gets urgent. Do not sell weakness. Manufacture a reason that is true and small: <strong>\"He has one slot opening in March and I thought of you first.\"</strong> Scarcity beats news when there is no news.",
+      "counter": "If someone introduces you right after your good week, they timed it.\n• Notice the opening line uses your announcement as the hook.\n• Do not let the good mood raise your budget.\n• Say: <strong>\"Good week, same budget. Send me their numbers first.\"</strong>",
+      "insight": "Do not hold a match past the point where your side finds the door alone — you get nothing and look slow. The next question is how long a win stays fresh enough to trade on."
+    },
+    {
+      "id": 12,
+      "cat": "connect",
+      "danger": "moderate",
+      "title": "Host The First Meeting Yourself",
+      "principle": "Sun Tzu: Choose the Ground",
+      "remember": "Be in the room for the first meeting. Every time.",
+      "when": "Two people you connected want to meet and you are deciding whether to join.",
+      "hook": "If they meet without you, the deal has a memory that does not include you. <strong>Sit in the room.</strong>",
+      "truth": "The person who hosts the first meeting owns the story of how the deal started.\n• You open, you set the agenda, you name the next step.\n• Both sides watch the other treat you as the person in charge.\n• Step out of the first meeting and you become a name in an old email.",
+      "theySee": "The person who opens the meeting, says who everyone is, and hands over cleanly.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Direct scheduling",
+          "t": "They book a call with each other and leave you off the invite"
+        },
+        {
+          "icon": "🪑",
+          "l": "Empty chair",
+          "t": "Someone suggests you do not need to be there"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Opening slot",
+          "t": "Both of them wait for you to start the conversation"
+        },
+        {
+          "icon": "🔁",
+          "l": "Second meeting",
+          "t": "They ask you to set the follow-up as well"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send the invite from your calendar",
+          "desc": "You create the meeting. Put both names on it and write the agenda in three lines."
+        },
+        {
+          "n": "2",
+          "title": "Open and hand over",
+          "desc": "Take the first two minutes. Say who each person is and what the goal is. Then go quiet."
+        },
+        {
+          "n": "3",
+          "title": "Close with the next step",
+          "desc": "In the last two minutes, say what happens next and who does it. Send that in writing after."
+        }
+      ],
+      "script": "\"I will set it up and open with the context. <strong>Two minutes from me, then it is yours.</strong> I will send the recap after.\"",
+      "watchFor": "Both sides look at you when the meeting needs a decision.",
+      "example": "Ana hosted the first call between a contractor and a developer. She opened for 90 seconds, then listened. At the end she said the contractor would send a quote by Friday. Six months of work followed and both sides copied her on everything.",
+      "ifItFails": "They book a direct call and leave you off it. Do not complain about being excluded. Take back the process instead: <strong>\"Have your call — send me the notes and I will run the follow-up so nothing drops.\"</strong> Owning the recap keeps you in the thread they both read.",
+      "counter": "If a connector insists on sitting in your first meeting, they are protecting their claim.\n• Notice they own the invite and the recap email.\n• Let them open, then take the agenda: <strong>\"Before we start — here is what I need today.\"</strong>\n• Send your own summary after theirs. Two records beat one.",
+      "insight": "Hosting is cheap power and it fades after meeting three. The real trap is staying in the room so long that both sides start routing around the delay."
+    },
+    {
+      "id": 13,
+      "cat": "middle",
+      "danger": "high",
+      "title": "Keep One Fact Each Side Needs",
+      "principle": "Simmel: Tertius Gaudens — The Third Who Gains",
+      "remember": "Hand over everything and you have handed over yourself.",
+      "when": "Both sides start asking you for the full picture of the other one.",
+      "hook": "You get paid for the gap. <strong>Close it all in one afternoon and the gap is gone.</strong>",
+      "truth": "A middleman survives on information that only passes through them.\n• Give each side what they need to act, not everything you know.\n• They keep calling you because you finish the picture for them.\n• Dump it all at once and both sides can talk without you tomorrow.",
+      "theySee": "Someone who answers their question fully and never volunteers the next one.",
+      "signals": [
+        {
+          "icon": "🔍",
+          "l": "Deep digging",
+          "t": "One side asks about the other's budget, staff, and other suppliers"
+        },
+        {
+          "icon": "📄",
+          "l": "Document requests",
+          "t": "They ask you to forward the other side's full proposal"
+        },
+        {
+          "icon": "🤐",
+          "l": "Shrinking calls",
+          "t": "Your calls with each side get shorter every week"
+        },
+        {
+          "icon": "🔗",
+          "l": "Direct links",
+          "t": "They mention a call with the other side that you did not set"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your two lists",
+          "desc": "For each side, list what they must know to move. Everything else stays with you."
+        },
+        {
+          "n": "2",
+          "title": "Answer the question asked",
+          "desc": "Give the specific answer. Stop talking. Do not add the context they did not request."
+        },
+        {
+          "n": "3",
+          "title": "Trade, do not donate",
+          "desc": "When one side wants extra detail, ask for something back: their timeline, their ceiling, their alternative."
+        }
+      ],
+      "script": "\"I can tell you their timeline. <strong>Tell me your ceiling first and I will tell you whether it clears.</strong>\"",
+      "watchFor": "They give you their number in order to get yours.",
+      "example": "Felix brokered a warehouse lease. The tenant asked what the landlord would accept. Felix asked for the tenant's maximum first, got it, then gave a range instead of the number. Both sides called him before every move for four months.",
+      "ifItFails": "One side gets the missing fact from somewhere else and tells you so. Do not pretend you still hold it. Move to the next scarce thing you control: <strong>\"Good, then the only open question is whether he will sign before quarter end. I can find that out today.\"</strong> Timing is information too.",
+      "counter": "If your contact always answers one question and never two, they are rationing you.\n• Notice you never get the full picture from them in one call.\n• Ask both sides the same question and compare the answers.\n• Say: <strong>\"Let us get all three of us on one call.\"</strong> Rationing dies in a group room.",
+      "insight": "Do not ration facts that affect safety, money already owed, or a signed deadline — that is not brokerage, that is the thing they fire you for. The next question is how long you can hold the gap before one side pays someone else to close it."
+    },
+    {
+      "id": 14,
+      "cat": "middle",
+      "danger": "high",
+      "title": "Carry The Bad News Both Ways Yourself",
+      "principle": "Dependency Through the Hard Conversation",
+      "remember": "Deliver the bad news and you own the channel.",
+      "when": "One side is unhappy with the other and is about to say so directly.",
+      "hook": "Two people who fight without you learn they can live without you. <strong>Take the fight.</strong>",
+      "truth": "Direct conflict either destroys the deal or removes the middleman. Both are bad for you.\n• You carry the complaint, stripped of the insult and the tone.\n• Each side gets the message and keeps the relationship intact.\n• They start routing every hard thing through you, which is the point.",
+      "theySee": "Someone who takes the difficult message and says they will handle it today.",
+      "signals": [
+        {
+          "icon": "😤",
+          "l": "Angry text",
+          "t": "One side sends you a message meant for the other side"
+        },
+        {
+          "icon": "📉",
+          "l": "Missed delivery",
+          "t": "A deadline slipped and nobody has said it out loud yet"
+        },
+        {
+          "icon": "🧨",
+          "l": "Threat talk",
+          "t": "Someone says they will call the other side directly and sort it out"
+        },
+        {
+          "icon": "🧊",
+          "l": "Cold thread",
+          "t": "The shared email thread has gone quiet for a week"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Intercept the message",
+          "desc": "When one side vents, tell them to hold off and let you deliver it today."
+        },
+        {
+          "n": "2",
+          "title": "Strip and deliver",
+          "desc": "Remove the insults. Keep the fact, the cost, and the deadline. Say it in one sentence."
+        },
+        {
+          "n": "3",
+          "title": "Bring back a fix, not a feeling",
+          "desc": "Return with a concrete action and a date. Never return with what the other side said about them."
+        }
+      ],
+      "script": "\"Do not send that. <strong>Let me tell him — I can say it harder than you can and still keep the deal.</strong> Give me until 5pm.\"",
+      "watchFor": "They stop typing and ask you to call them after.",
+      "example": "Sonia's buyer wanted to fire a supplier over two late shipments. She intercepted the email, told the supplier alone, and came back with a new delivery schedule in writing. The buyer stayed, and both sides sent every complaint through Sonia after that.",
+      "ifItFails": "They send the angry message anyway and the two sides fight. Do not take a side. Call both within the hour and put one meeting on the calendar: <strong>\"Both of you, 30 minutes tomorrow at nine, I will run it. Nothing in writing until then.\"</strong> Whoever controls the repair meeting keeps the middle.",
+      "counter": "If a middleman always carries the hard messages, they are keeping you apart.\n• Notice you have never heard the other side's complaint in their own words.\n• Ask for the original message: <strong>\"Forward me what they actually wrote.\"</strong>\n• Put one direct call in the calendar. The middle cannot survive a direct line.",
+      "insight": "Do not take this role inside your own team when the complaint is about your manager — you will be the one remembered as the problem. The next question is what happens when the bad news is about you."
+    },
+    {
+      "id": 15,
+      "cat": "middle",
+      "danger": "low",
+      "title": "Set The Next Meeting Before This One Ends",
+      "principle": "Process Ownership — Control the Calendar",
+      "remember": "Whoever books the next meeting still runs the deal.",
+      "when": "A meeting between your two sides is ending and nobody has named a next step.",
+      "hook": "A deal dies in the gap between meetings. <strong>Close the gap and you stay the person who moves it.</strong>",
+      "truth": "The calendar is the cheapest form of control in any deal.\n• You name the next date while both sides are still in the room.\n• Every follow-up then arrives from your address with your agenda.\n• Leave it open and they book it themselves, without you on the invite.",
+      "theySee": "Someone who ends the call by naming a date and a task for each person.",
+      "signals": [
+        {
+          "icon": "⌛",
+          "l": "Vague ending",
+          "t": "Someone says they will circle back with no date attached"
+        },
+        {
+          "icon": "📤",
+          "l": "Their invite",
+          "t": "The next invite comes from one of them and you are a guest"
+        },
+        {
+          "icon": "🧭",
+          "l": "No owner",
+          "t": "Nobody says who sends the next document"
+        },
+        {
+          "icon": "📌",
+          "l": "Date agreed",
+          "t": "Both sides accept your proposed date before hanging up"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Take the last two minutes",
+          "desc": "Before anyone leaves, say the next step out loud and name who owns it."
+        },
+        {
+          "n": "2",
+          "title": "Book it live",
+          "desc": "Open your calendar on the call and send the invite before the call ends."
+        },
+        {
+          "n": "3",
+          "title": "Send the recap same day",
+          "desc": "Three lines: what was agreed, who does what, the date. Both of them copied."
+        }
+      ],
+      "script": "\"Before we drop — <strong>Marc sends the quote Thursday, Dana replies Monday, and we all meet here next Wednesday at ten.</strong> Invite is going out now.\"",
+      "watchFor": "They both accept the calendar invite before the call ends.",
+      "example": "Ben ran a first call between an agency and a client. In the last minute he named the two tasks and sent the invite while they were still on the line. The agency later said he was the only reason the project started that month.",
+      "ifItFails": "One side says they cannot commit to a date yet. Do not leave empty air. Book a shorter check-in instead: <strong>\"Then a 15-minute check-in Friday just to confirm timing. I will cancel it if you are ready sooner.\"</strong> A small booked slot beats an open promise.",
+      "counter": "If someone always books the next meeting, they own the pace of your deal.\n• Notice every invite comes from the same person.\n• Say: <strong>\"I will send the next one — my calendar is the tight one.\"</strong>\n• Take the recap email too. The writer of the recap sets the facts.",
+      "insight": "Owning the calendar costs nothing and buys you months. The harder part is that once you own the pace, every delay becomes your fault."
+    },
+    {
+      "id": 16,
+      "cat": "collect",
+      "danger": "high",
+      "title": "Ask For The Money At The Moment Of The Win",
+      "principle": "Cialdini: Reciprocity — Favors Fade Fast",
+      "remember": "Ask on the day they win. Gratitude has a short shelf life.",
+      "when": "The deal you set up just closed and both sides are celebrating.",
+      "hook": "Today you are the reason it happened. <strong>In three weeks they did it themselves.</strong>",
+      "truth": "People rewrite the story of a win to put themselves at the centre of it.\n• On day one your part is obvious to everyone.\n• By week three they remember the work, not the door.\n• So invoice while the champagne is still open, not when it is convenient.",
+      "theySee": "Someone congratulating them and attaching an invoice in the same message.",
+      "signals": [
+        {
+          "icon": "🍾",
+          "l": "Win posted",
+          "t": "They announce the deal publicly within 48 hours"
+        },
+        {
+          "icon": "🙏",
+          "l": "Warm thanks",
+          "t": "They tell you they owe you one"
+        },
+        {
+          "icon": "🕸️",
+          "l": "Story drift",
+          "t": "Two weeks later they describe how they found the partner themselves"
+        },
+        {
+          "icon": "📵",
+          "l": "Slow replies",
+          "t": "Replies to your messages take three days instead of three hours"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send the note within 24 hours",
+          "desc": "Congratulate them in one line, then state the fee and the payment date in the next."
+        },
+        {
+          "n": "2",
+          "title": "Attach the invoice",
+          "desc": "Do not promise to send it later. Attach it to the same message."
+        },
+        {
+          "n": "3",
+          "title": "Name a date",
+          "desc": "Write a due date 14 days out. A date with no number gets paid last."
+        }
+      ],
+      "script": "\"Great news on the Halcyon deal. <strong>Invoice attached for the 5% we agreed — due the 30th.</strong> Congratulations, that one was earned.\"",
+      "watchFor": "They reply confirming the invoice went to their finance team.",
+      "example": "Iris learned her introduction closed on a Tuesday morning. She sent congratulations and the invoice that afternoon. Paid in nine days. Her colleague waited a month on a similar deal, was told budgets had closed, and was paid nothing.",
+      "ifItFails": "They go quiet after the invoice. Do not send a polite reminder that can be ignored. Change who has to act: <strong>\"Sending this to your finance contact directly — can you confirm the name, or should I ask Dana for it?\"</strong> Involving a third person makes silence expensive.",
+      "counter": "If someone sends you an invoice inside a day of good news, they know gratitude fades.\n• Notice the congratulations and the number arrive together.\n• Pay if it was agreed. Fighting a fair fee costs you the next door.\n• If it was never agreed, say: <strong>\"We never set a fee. Tell me what you think is fair and why.\"</strong>",
+      "insight": "Do not run this on a boss or a client who controls next year's budget — there the invoice reads as a debt collection notice. The next question is what you do the second time they call for a favor after paying slowly."
+    },
+    {
+      "id": 17,
+      "cat": "collect",
+      "danger": "moderate",
+      "title": "Take A Small Cut Of The Flow, Not One Big Check",
+      "principle": "Recurring Claim Over Lump Sum",
+      "remember": "A small slice every month beats one big check once.",
+      "when": "You are setting a fee for an introduction that will produce repeat business.",
+      "hook": "A one-time fee ends the relationship the day it clears. <strong>A small slice keeps you on the invoice.</strong>",
+      "truth": "The big number feels good and ends your claim. The small number never stops arriving.\n• Ask for a low percentage that neither side wants to fight about.\n• Low enough to approve, high enough to matter over two years.\n• They keep paying because removing you costs more attention than it saves.",
+      "theySee": "Someone asking for a number so small it is easier to approve than to argue about.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeat orders",
+          "t": "The buyer will place orders every quarter, not once"
+        },
+        {
+          "icon": "📊",
+          "l": "Growing volume",
+          "t": "Their volume goes up every year in their own forecast"
+        },
+        {
+          "icon": "✂️",
+          "l": "Fee fight",
+          "t": "They push back hard on a large one-time number"
+        },
+        {
+          "icon": "🖊️",
+          "l": "Easy yes",
+          "t": "They approve a small percentage without sending it to legal"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Do the two-year math",
+          "desc": "Estimate the total business over 24 months. Compare a 2% slice to your one-time ask."
+        },
+        {
+          "n": "2",
+          "title": "Offer the choice",
+          "desc": "Give them both numbers. Most people pick the small recurring one because it feels safer."
+        },
+        {
+          "n": "3",
+          "title": "Put the reporting on them",
+          "desc": "Write that they send you a monthly volume figure. Make the report their job, not your chase."
+        }
+      ],
+      "script": "\"Two options: <strong>20 thousand now, or 2% of what flows between you for two years.</strong> I would take the 2%. Your call.\"",
+      "watchFor": "They pick the percentage and ask when the first report is due.",
+      "example": "Wes introduced a parts maker to a distributor. He offered 25 thousand up front or 2% for two years. They took the 2%. Volume tripled and he collected 71 thousand without another meeting.",
+      "ifItFails": "They stop sending the monthly figure. Do not accept estimates. Shift to a fixed floor: <strong>\"No report last month, so I am billing the minimum we agreed — 1,500. Send the numbers and I will correct it.\"</strong> A default number makes reporting cheaper than ignoring you.",
+      "counter": "If a broker offers you a small percentage instead of a flat fee, they expect growth.\n• Notice the percentage has no end date or ceiling.\n• Say: <strong>\"2% works with a 12-month end date and a cap.\"</strong>\n• Get both written before anyone signs.",
+      "insight": "Do not take the flow deal when you cannot see the volume numbers — you are then paid whatever they feel like reporting. The next question is what your claim is worth if the buyer sells the company."
+    },
+    {
+      "id": 18,
+      "cat": "collect",
+      "danger": "moderate",
+      "title": "Get Paid In Names When They Cannot Pay Cash",
+      "principle": "Gracián: Aphorism 5 — Create a Need for Yourself",
+      "remember": "No money? Take two introductions instead.",
+      "when": "Someone benefited from your introduction and genuinely has no budget to pay you.",
+      "hook": "Cash is spent once. <strong>A name can be used for years.</strong>",
+      "truth": "An unpaid favor is a loss. A traded favor is stock you hold.\n• Ask for two specific names, not general goodwill.\n• They pay from a budget nobody tracks, so they say yes fast.\n• Each name you collect widens the gap only you can cross.",
+      "theySee": "A person who waves off the invoice and asks for two introductions instead.",
+      "signals": [
+        {
+          "icon": "🪙",
+          "l": "No budget",
+          "t": "They say the money is real but the approval will take months"
+        },
+        {
+          "icon": "🤝",
+          "l": "Eager to help",
+          "t": "They offer to help any way they can, without naming how"
+        },
+        {
+          "icon": "🏛️",
+          "l": "Rich network",
+          "t": "Their contacts are more valuable to you than their cash"
+        },
+        {
+          "icon": "📇",
+          "l": "Named yes",
+          "t": "They name two people on the spot when you ask"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick two names before the call",
+          "desc": "Look at their contacts. Choose two specific people you want to meet and write the names down."
+        },
+        {
+          "n": "2",
+          "title": "Trade the invoice for the names",
+          "desc": "Say you will drop the fee in exchange for two introductions this month."
+        },
+        {
+          "n": "3",
+          "title": "Hold the date",
+          "desc": "Ask them to send both introductions by a named day. Put it in the same message."
+        }
+      ],
+      "script": "\"Forget the fee. <strong>Introduce me to Priya at Keller and Tom at Ridge — both by the end of the month — and we are square.</strong>\"",
+      "watchFor": "They open their phone and start typing the introduction while you talk.",
+      "example": "Ellie brokered a deal for a startup with no cash. She asked for two named introductions instead. One became a client worth 40 thousand a year. The startup felt they got the better end and kept sending her work.",
+      "ifItFails": "They agree and then never send the introductions. Do not settle for a follow-up chase. Write the note for them: <strong>\"Here is the paragraph — copy and paste it to Priya today and we are done.\"</strong> Removing the work removes the excuse.",
+      "counter": "If someone waives a fee in exchange for introductions, they are buying your network cheaply.\n• Notice they named the exact people they wanted before you spoke.\n• Give one name, not two. Say: <strong>\"One now, the second after the first meeting happens.\"</strong>\n• Keep your best contact out of the trade entirely.",
+      "insight": "Do not trade away a contact who is also your customer — you can only sell that relationship once. The harder question is which of your names you will never trade at any price."
+    },
+    {
+      "id": 19,
+      "cat": "cutout",
+      "danger": "high",
+      "title": "Read The Signs That They Are Working Around You",
+      "principle": "Greene: Law 14 — Pose as a Friend, Work as a Spy",
+      "remember": "Watch the calendar and the copy line, not their warm words.",
+      "when": "The two sides you connected have started to feel distant with you.",
+      "hook": "Nobody announces that you have been cut out. <strong>The signs show up in the copy line first.</strong>",
+      "truth": "Being cut out happens over weeks, in small steps, while everyone stays polite.\n• Watch who is on the email thread, not what the email says.\n• Watch who books meetings and who sends the documents.\n• The friendliest week is often the week they decide you are optional.",
+      "theySee": "A contact who keeps checking in and asking small, factual questions.",
+      "signals": [
+        {
+          "icon": "📧",
+          "l": "Dropped from copy",
+          "t": "A thread you started continues without your address on it"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Unknown meeting",
+          "t": "One side mentions a decision made in a meeting you did not know about"
+        },
+        {
+          "icon": "🧾",
+          "l": "New paperwork",
+          "t": "They mention a contract or a purchase order you never saw"
+        },
+        {
+          "icon": "💬",
+          "l": "First-name shift",
+          "t": "They talk about the other side using inside jokes and nicknames"
+        },
+        {
+          "icon": "⏳",
+          "l": "Slower answers",
+          "t": "Both sides take days to reply where they used to take hours"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the copy line",
+          "desc": "Open the last three threads. Note which ones continued without you."
+        },
+        {
+          "n": "2",
+          "title": "Ask a factual question",
+          "desc": "Ask each side separately what was agreed last week. Compare the two answers for gaps."
+        },
+        {
+          "n": "3",
+          "title": "Write the timeline",
+          "desc": "List every meeting, date, and document you produced. Keep it in one file with dates."
+        }
+      ],
+      "script": "\"Quick one — <strong>what did you two settle on last week?</strong> I want to keep my notes straight before the next round.\"",
+      "watchFor": "They pause, then describe a meeting you were never told about.",
+      "example": "Jonah noticed his name dropped off a thread in April. He asked each side what was agreed and got two different answers. He built a dated timeline of his work that week. When the fee fight came in June, he sent the file and got paid.",
+      "ifItFails": "Both sides deny anything changed while the meetings keep happening without you. Do not accuse. Force one shared room: <strong>\"Let us do a 20-minute three-way Thursday so nothing gets lost.\"</strong> How fast they dodge that meeting tells you where you stand.",
+      "counter": "If your middleman starts asking what you agreed last week, they suspect a cutout.\n• Notice the questions are factual and dated, not friendly.\n• Decide now whether you plan to pay them or fight them.\n• If you plan to pay, say: <strong>\"Nothing is signed. Your fee stands.\"</strong> Doubt costs more than money.",
+      "insight": "Do not confront on suspicion alone — an accusation with no dated record turns you into the difficult one. The next move is deciding whether you want back in or want to be bought out."
+    },
+    {
+      "id": 20,
+      "cat": "cutout",
+      "danger": "extreme",
+      "title": "Sell Them The Right To Deal Direct",
+      "principle": "Schelling: Turn a Losing Threat Into a Price",
+      "remember": "Do not fight to stay in. Charge them to get you out.",
+      "when": "Both sides clearly want to work without you and you cannot stop them.",
+      "hook": "You cannot keep a door open that both sides want closed. <strong>You can charge for the key.</strong>",
+      "truth": "A fight you cannot win still has a price attached to ending it.\n• They want certainty and a clean relationship more than they want your slice.\n• A buyout is cheap next to a fee dispute and a bad story.\n• Ask for one number, in writing, and end all future claims.",
+      "theySee": "Someone calm, offering a single number that makes the awkwardness stop.",
+      "signals": [
+        {
+          "icon": "🚪",
+          "l": "Direct deals",
+          "t": "They have signed something without you and admitted it"
+        },
+        {
+          "icon": "🧊",
+          "l": "Cold politeness",
+          "t": "Their messages are friendly, short, and never about new work"
+        },
+        {
+          "icon": "🧮",
+          "l": "Fee questions",
+          "t": "One side asks how long your fee arrangement actually runs"
+        },
+        {
+          "icon": "⚖️",
+          "l": "Legal hint",
+          "t": "Someone mentions checking what was agreed in writing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count what you can prove",
+          "desc": "Add up the deals you can evidence with dates and emails. That number is your floor."
+        },
+        {
+          "n": "2",
+          "title": "Name one number",
+          "desc": "Offer a single buyout figure that ends all future claims. Do not offer a range."
+        },
+        {
+          "n": "3",
+          "title": "Put the release in writing",
+          "desc": "Send three lines: payment amount, payment date, and that no future fee applies. Ask for a reply of yes."
+        }
+      ],
+      "script": "\"You two are working well and I am not needed on every call. <strong>Pay me 30 thousand by the 15th and my claim on all future work ends.</strong> Clean break, no hard feelings.\"",
+      "watchFor": "They counter with a lower number instead of arguing whether you are owed anything.",
+      "example": "Dimitri saw the buyer and factory sign twice without him. Instead of chasing each deal, he offered a single 30 thousand release. They countered at 22 and paid in a week. He used the cash to build two new matches in the same market.",
+      "ifItFails": "They refuse to pay anything and dare you to go to lawyers. Do not sue over a small claim. Take the last thing you control: the story and the supply. Say: <strong>\"Understood. I will tell the three other buyers I introduced you to that the arrangement ended.\"</strong> Then do it, and move your next match to their competitor.",
+      "counter": "If a broker offers a one-time buyout, they know they cannot hold the middle.\n• Notice the number is a single figure with a fast deadline.\n• Pay if they can prove the introductions. Proof beats goodwill in a dispute.\n• Say: <strong>\"I will pay it once, with a signed release naming every deal.\"</strong>",
+      "insight": "Do not run a buyout on anyone who can still hurt your name in a small market — the cash clears once and the story runs for years. The next question is whether you rebuild with these two or spend the money finding a market where nobody knows you yet."
+    }
+  ]
+}

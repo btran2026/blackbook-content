@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 78,
+  "manifestVersion": 79,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -676,7 +676,20 @@
       "url": "playbooks/playbook-srv-playing-an-outside-offer-without-getting-fired.json",
       "addedAt": "2026-09-22T23:32:14.708Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-middle-seat",
+      "title": "The Middle Seat",
+      "theme": "brokerage",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#1F3A5F",
+      "coverIcon": "🔗",
+      "url": "playbooks/playbook-srv-the-middle-seat.json",
+      "addedAt": "2026-09-22T23:32:27.069Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-22T23:32:14.708Z"
+  "generatedAt": "2026-09-22T23:32:27.069Z"
 }
