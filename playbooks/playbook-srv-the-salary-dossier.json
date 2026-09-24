@@ -1,0 +1,859 @@
+{
+  "meta": {
+    "id": "srv-the-salary-dossier",
+    "version": "1.0",
+    "title": "The Salary Dossier",
+    "subtitle": "15 moves for every side of a compensation conversation",
+    "description": "From pre-conversation research to closing the last gap — a closed-file reference for candidates, employees, and managers who know that money conversations are won before the room goes quiet.",
+    "author": "AI",
+    "createdAt": "2026-09-24T18:10:45.358Z",
+    "tags": [
+      "salary",
+      "negotiation",
+      "compensation",
+      "career",
+      "management",
+      "dark psychology"
+    ],
+    "totalCards": 15,
+    "isSeeded": true,
+    "coverColor": "#1a3a2a",
+    "coverIcon": "💼",
+    "fromServer": true,
+    "generation": {
+      "topic": "Handling salary discussions",
+      "cardCount": 15,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "preparation",
+      "label": "Intel & Prep",
+      "color": "#2d4a8a"
+    },
+    {
+      "key": "opening",
+      "label": "First Move",
+      "color": "#1a6b5c"
+    },
+    {
+      "key": "anchoring",
+      "label": "Numbers Game",
+      "color": "#7b3f6e"
+    },
+    {
+      "key": "defense",
+      "label": "Defense",
+      "color": "#8b3a3a"
+    },
+    {
+      "key": "manager",
+      "label": "Manager Side",
+      "color": "#4a6741"
+    },
+    {
+      "key": "closing",
+      "label": "Close & Lock",
+      "color": "#2e5a7b"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "preparation",
+      "danger": "low",
+      "title": "Know Your Market Number Before You Walk In",
+      "hook": "Walking in without a market number is walking in blind. <strong>They already know what the role pays.</strong>",
+      "truth": "The person across from you researched the number. You should too.\n• Pull pay data from at least three sources — Glassdoor, LinkedIn Salary, Levels.fyi.\n• Knowing the range shifts what number you say with confidence.\n• The trap: using one source. Ranges vary 20–40% by source and city.",
+      "principle": "Cialdini: Social Proof",
+      "remember": "Find out what the job pays before you ask for anything.",
+      "theySee": "A candidate sitting across the table who names a specific number with no hesitation.",
+      "signals": [
+        {
+          "l": "Fast agreement",
+          "t": "They agree quickly — your number landed inside their range.",
+          "icon": "✅"
+        },
+        {
+          "l": "Redirect to perks",
+          "t": "They pivot to benefits — your salary ask may have hit their ceiling.",
+          "icon": "🔀"
+        },
+        {
+          "l": "Long pause",
+          "t": "You named a number above what they expected — hold still.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Counter under yours",
+          "t": "They come back lower — that is the negotiation starting, not ending.",
+          "icon": "📉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull three data points",
+          "desc": "Check Glassdoor, LinkedIn Salary, and one industry report for the exact job title and city. Write down the midpoint."
+        },
+        {
+          "n": "2",
+          "title": "Adjust up for experience",
+          "desc": "If your experience exceeds the job description by three or more years, add 10–15% to the midpoint. Write that number."
+        },
+        {
+          "n": "3",
+          "title": "Pick one target number",
+          "desc": "Write down one specific dollar figure — not a range. You will open higher than this in the room."
+        }
+      ],
+      "script": "\"Based on market data for this role in [city], I'm targeting [X].\"",
+      "counter": "When someone uses your ignorance of market rates to lowball you, you will see it this way.\n• They offer a number fast with no range given — that is a lowball in disguise.\n• Ask: \"What's the full pay band for this level?\"\n• Check their offer against three public sources before responding.",
+      "insight": "Market data gets you into the room with confidence — the harder part is knowing whether to name your number first or wait for them to go."
+    },
+    {
+      "id": 2,
+      "cat": "preparation",
+      "danger": "low",
+      "title": "Decide Your Walk-Away Number Before the Conversation",
+      "hook": "<strong>Most people decide what is enough mid-conversation.</strong> That is where they get talked into less.",
+      "truth": "Without a hard floor set in advance, the pressure of the room moves it.\n• A walk-away number, set cold, resists in-room pressure and flattery.\n• Once you name it silently to yourself, leaving gets easier than caving.\n• The trap: setting the floor too low because you are grateful to be there.",
+      "principle": "Fisher & Ury: BATNA",
+      "remember": "Set the lowest number you will accept before you sit down.",
+      "theySee": "A person who pauses before answering, then gives a firm answer instead of folding.",
+      "signals": [
+        {
+          "l": "Flattery opener",
+          "t": "They compliment your skills before naming a number — expect a lower offer to follow.",
+          "icon": "🎭"
+        },
+        {
+          "l": "Slow reveal",
+          "t": "They delay giving a number — buying time to read your reaction first.",
+          "icon": "🐢"
+        },
+        {
+          "l": "Incremental steps",
+          "t": "They move up in small amounts — testing how little they can give before you stop pushing.",
+          "icon": "📊"
+        },
+        {
+          "l": "Urgency push",
+          "t": "They say they need an answer today — pressure designed to skip your floor check.",
+          "icon": "⏰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write down your floor",
+          "desc": "Before any conversation, write the lowest number you will accept and still feel okay about in six months."
+        },
+        {
+          "n": "2",
+          "title": "Name your best option if this fails",
+          "desc": "Write down the specific job, rate, or offer you would take if this one falls through. Be honest about what it actually is."
+        },
+        {
+          "n": "3",
+          "title": "Say no out loud once",
+          "desc": "Say out loud before the meeting: 'That doesn't work for me. I need [X].' Practice it so it comes out flat, not apologetic."
+        }
+      ],
+      "script": "\"I need to be at [X] to make this work. Is there room to get there?\"",
+      "counter": "When someone tries to move your floor during the conversation, you will feel it.\n• They reference your current pay or your financial need — ignore it, return to your number.\n• Say: \"That's not where I need to land. My number is [X].\"\n• If they cannot reach your floor, leave. The floor is set. Don't renegotiate it.",
+      "insight": "The walk-away number only works if you actually walk — most people discover mid-conversation that they set it as a bluff, and that is when it costs them."
+    },
+    {
+      "id": 3,
+      "cat": "opening",
+      "danger": "moderate",
+      "title": "Don't Volunteer Your Current Salary",
+      "hook": "Your current salary anchors their offer before you say anything else. <strong>Give it up and the negotiation starts from there.</strong>",
+      "truth": "What you make now has nothing to do with what this role is worth. They know that — do you?\n• Your current pay caps their offer before the conversation starts.\n• Once you say it, you cannot unsay it — the number sits in the room.\n• The trap: thinking transparency builds goodwill. It doesn't. It hands them a ceiling.",
+      "principle": "Information Asymmetry",
+      "remember": "Your current salary is their tool, not yours. Keep it.",
+      "theySee": "A candidate who says 'I'd rather focus on what this role is worth in the market' instead of answering the direct question.",
+      "signals": [
+        {
+          "l": "Direct ask",
+          "t": "They ask for your current salary early — they want to anchor low before you anchor high.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Form field",
+          "t": "The application has a salary history field — leave it blank or write 'open to discussion'.",
+          "icon": "📝"
+        },
+        {
+          "l": "Peer comparison",
+          "t": "They mention what others in the role make — trying to anchor you to that number.",
+          "icon": "👥"
+        },
+        {
+          "l": "Surprised look",
+          "t": "They look surprised at your target number — either it is above budget or above what they expected you to say.",
+          "icon": "😲"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Prepare the deflection line",
+          "desc": "Write and say this today: 'I'd prefer to focus on the scope of the role and what it's worth in the market.' Say it flat, no apology."
+        },
+        {
+          "n": "2",
+          "title": "Check your state's law",
+          "desc": "Many US states ban employers from asking about salary history. Look up your state before the meeting so you know your rights."
+        },
+        {
+          "n": "3",
+          "title": "Redirect to market rate",
+          "desc": "If they push hard, name your target number — not your current one. 'I'm targeting [X] based on market data for this role.'"
+        }
+      ],
+      "script": "\"I'd rather not anchor to what I've made in the past — I'm focused on what this role is worth in the market.\"",
+      "counter": "When someone uses your current salary to cap your ask, redirect immediately.\n• They repeat your current salary back to you as a reference point — don't accept that frame.\n• Say: \"Past pay isn't the benchmark. What's the band for this role?\"\n• Refuse to let past pay define what this job is worth. They are two separate conversations.",
+      "insight": "In states where salary history questions are still legal, refusing to answer is an option — but silence has its own cost, and the next card covers how to manage going first without giving ground."
+    },
+    {
+      "id": 4,
+      "cat": "opening",
+      "danger": "moderate",
+      "title": "Let Them Name a Number First When You Can",
+      "hook": "The first number in the room becomes the center of gravity for everything that follows. <strong>Make sure it is not a bad one.</strong>",
+      "truth": "Whoever names a number first sets the range that everything else gets measured against.\n• If they go first and it is high, you win. If low, you counter from their number.\n• Either way, you start from their position — not from nothing.\n• The trap: silence feels awkward, so most people name their number first to fill it.",
+      "principle": "Anchoring Effect (Tversky & Kahneman)",
+      "remember": "Let them say a number first. Either way, you learn something.",
+      "theySee": "A candidate who shrugs slightly and asks 'What does this role pay?' instead of naming a figure.",
+      "signals": [
+        {
+          "l": "High first offer",
+          "t": "They name a number above your target — don't say yes immediately, negotiate upward.",
+          "icon": "📈"
+        },
+        {
+          "l": "Low first offer",
+          "t": "They name a number below your floor — counter immediately, don't deliberate out loud.",
+          "icon": "📉"
+        },
+        {
+          "l": "Range given",
+          "t": "They give a range — your number should land at or above the top of it.",
+          "icon": "↔️"
+        },
+        {
+          "l": "Deflect back",
+          "t": "They push the question back to you — they may not have authority or they want you to anchor yourself.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the direct question",
+          "desc": "Say: 'What's the salary range budgeted for this role?' Most hiring managers will answer if you ask plainly."
+        },
+        {
+          "n": "2",
+          "title": "Hold the silence after asking",
+          "desc": "After asking, stop talking. Count to five in your head. Let them fill the quiet. Do not rescue them."
+        },
+        {
+          "n": "3",
+          "title": "React to what you hear",
+          "desc": "If their number is high, negotiate up from it. If it is low, counter immediately. Never accept the first number given."
+        }
+      ],
+      "script": "\"What's the salary range you have budgeted for this position?\"",
+      "counter": "When someone waits for you to name a number first so they can use it as an anchor against you.\n• They ask 'What are you looking for?' before giving any context — deflect it.\n• Say: \"I'd love to hear the range first. Can you share it?\"\n• If they won't share a range, open 15–20% above your target to give yourself room.",
+      "insight": "Sometimes they genuinely don't know the range yet — which means the number you name first becomes the budget. That is its own kind of upper hand, and the next card shows how to use it."
+    },
+    {
+      "id": 5,
+      "cat": "opening",
+      "danger": "low",
+      "title": "Read the Silence After You Name Your Number",
+      "hook": "The second after you say your number, they react — even if they say nothing. <strong>That pause is data.</strong>",
+      "truth": "Silence after a number is not discomfort — it is calculation. Read it, don't fill it.\n• A long pause means your number surprised them — up or down, you will know which direction fast.\n• Filling the silence yourself undercuts your number before they have responded.\n• The trap: talking yourself down in real time because quiet feels like rejection.",
+      "principle": "Voss: Tactical Silence",
+      "remember": "After you name your number, stop talking and watch what happens.",
+      "theySee": "A candidate sitting quietly with a small nod after naming a salary figure, making no sound and no explanation.",
+      "signals": [
+        {
+          "l": "Pen picked up",
+          "t": "They pick up a pen or look at notes — they are recording, which means they are considering.",
+          "icon": "✏️"
+        },
+        {
+          "l": "Brief glance away",
+          "t": "They look away for a moment — they are running the math in their head.",
+          "icon": "👀"
+        },
+        {
+          "l": "Filler phrase",
+          "t": "They say 'interesting' or 'let me check on that' — your number is in range or above it.",
+          "icon": "💬"
+        },
+        {
+          "l": "Immediate counter",
+          "t": "They counter without pausing — they have a hard ceiling and your number hit it.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your number cleanly",
+          "desc": "Say the number once with nothing after it. 'I'm targeting [X].' Full stop. No explanation, no softener."
+        },
+        {
+          "n": "2",
+          "title": "Count to seven silently",
+          "desc": "After you speak, hold the silence for at least seven seconds. Count in your head. Don't explain, don't fill it."
+        },
+        {
+          "n": "3",
+          "title": "Note their first reaction",
+          "desc": "Write down what they did in the silence — looked away, reached for paper, frowned, nodded. That is your read for the next move."
+        }
+      ],
+      "script": "\"I'm targeting [X].\"",
+      "counter": "When someone uses silence after your number to pressure you into explaining yourself.\n• Your instinct is to soften the number — that is the trap. Don't.\n• Say nothing extra. If five seconds pass, say: \"Does that work with the range?\"\n• Silence from them is not a no. Wait for actual words before adjusting anything.",
+      "insight": "The instinct to fill silence is almost universal — which means the person who holds it longest usually gets the better number, and most people never once practice sitting in it."
+    },
+    {
+      "id": 6,
+      "cat": "anchoring",
+      "danger": "moderate",
+      "title": "Anchor High, Then Give Ground on Purpose",
+      "hook": "The number you name first doesn't have to be your final number. <strong>It just has to be high enough that your real number looks reasonable by comparison.</strong>",
+      "truth": "People don't judge offers against reality — they judge them against the first number they heard.\n• Name 15–25% above your target. Let them negotiate down to where you wanted.\n• They feel like they won. You get what you planned.\n• The trap: anchoring so high it breaks credibility. Stay within the defensible range.",
+      "principle": "Anchoring Effect: First Number Wins",
+      "remember": "Open high so your real number looks like a fair deal.",
+      "theySee": "A hiring manager who nods and then proposes a counter that lands right at the candidate's actual target number.",
+      "signals": [
+        {
+          "l": "Counter at target",
+          "t": "Their counter is exactly where you wanted — the anchor worked.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Irritated look",
+          "t": "They seem annoyed — your anchor was too high. Adjust down to something defensible.",
+          "icon": "😠"
+        },
+        {
+          "l": "Asks for basis",
+          "t": "They ask how you landed on that number — have a market data source ready to name.",
+          "icon": "❓"
+        },
+        {
+          "l": "No counter given",
+          "t": "They accept or say they'll 'check' — you may have left money in the room. Note it.",
+          "icon": "⏳"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set your anchor number",
+          "desc": "Add 15–25% to your real target. Write this number before the meeting. This is your opening figure."
+        },
+        {
+          "n": "2",
+          "title": "Back it with one data point",
+          "desc": "Have one sentence ready: 'Market data for this title in [city] puts the range at [X] to [Y].' Say it once."
+        },
+        {
+          "n": "3",
+          "title": "Give ground deliberately",
+          "desc": "When they counter below your anchor, move toward your real target — not lower. Stop there and hold."
+        }
+      ],
+      "script": "\"Based on the scope of the role and market data, I'm targeting [anchor number].\"",
+      "counter": "When someone anchors high to pull your counter away from what they would actually accept.\n• Notice they named a very specific high number fast — that is a planned anchor.\n• Don't counter their anchor. Name your own number instead.\n• Say: \"I appreciate that. My number is [X]. Can we work from there?\"",
+      "insight": "Anchoring high works until your anchor is so far from market that they stop taking you seriously — the real skill is knowing exactly where that ceiling sits, and most people only find it by going too far once."
+    },
+    {
+      "id": 7,
+      "cat": "anchoring",
+      "danger": "low",
+      "title": "Give a Range Where Your Floor Is Their Ceiling",
+      "hook": "When asked for a range, most people put their target in the middle. <strong>That is how they end up with the bottom half.</strong>",
+      "truth": "They hear the bottom of your range as your real number — so make the bottom your actual target.\n• Name a range: low end is your floor, high end is your anchor.\n• They negotiate toward the bottom — which is exactly where you wanted to land.\n• The trap: real target in the middle means you take the lower end when they push.",
+      "principle": "Range Anchoring (Galinsky & Mussweiler)",
+      "remember": "Set your floor as the bottom of any range you state.",
+      "theySee": "A recruiter who offers the bottom of the candidate's stated range, feeling like they made a fair deal.",
+      "signals": [
+        {
+          "l": "Offer at bottom",
+          "t": "They offer the low end of your range — that was your target, so you are exactly where you wanted.",
+          "icon": "✅"
+        },
+        {
+          "l": "Midpoint offer",
+          "t": "They offer the midpoint of your range — you got more than your floor.",
+          "icon": "↗️"
+        },
+        {
+          "l": "Above-range offer",
+          "t": "Rare: they come in above your high end — accept or anchor higher next round.",
+          "icon": "🚀"
+        },
+        {
+          "l": "Top rejected",
+          "t": "They say the top is too high — come down to the midpoint, still above your floor.",
+          "icon": "🔽"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set your floor as range bottom",
+          "desc": "Decide your actual target number today. That becomes the bottom of the range you state out loud."
+        },
+        {
+          "n": "2",
+          "title": "Set the anchor at the top",
+          "desc": "Add 15–20% to your floor. That is the top of your stated range. You are fine landing anywhere inside it."
+        },
+        {
+          "n": "3",
+          "title": "State the range cleanly",
+          "desc": "Say: 'I'm looking at [floor] to [top].' No explanation needed after that. Let them respond."
+        }
+      ],
+      "script": "\"I'm looking at [floor] to [top], depending on the full scope of the role.\"",
+      "counter": "When someone gives you a range and you assume the midpoint is their target — it probably isn't.\n• Assume the low end of their range is where they plan to land.\n• Counter above their midpoint, not at it.\n• Say: \"Given the scope, I expect to land at the top of that range.\"",
+      "insight": "The range trick works once — after the first offer lands at your floor, the next negotiation starts from that number, so you need a new anchor each time the conversation reopens."
+    },
+    {
+      "id": 8,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "When They Say That's Not in the Budget",
+      "hook": "<strong>'That's not in the budget' is a position, not a fact.</strong> Treat it as the opening move it is.",
+      "truth": "Budget limits are almost always softer than they sound. The word 'budget' is cover for 'we don't want to go there yet.'\n• Naming the constraint back to them turns it into a conversation instead of a wall.\n• They feel heard, lower their guard, and often reveal the real ceiling.\n• The trap: accepting 'budget' as final. It is almost always a test of how hard you will push.",
+      "principle": "Voss: Label",
+      "remember": "Say the budget problem back to them before pushing forward.",
+      "theySee": "A hiring manager who expected pushback but instead hears their concern reflected back at them, then visibly relaxes.",
+      "signals": [
+        {
+          "l": "Soft no",
+          "t": "They say 'budget' but don't give a hard number — there is room to move.",
+          "icon": "🚧"
+        },
+        {
+          "l": "Pause after label",
+          "t": "You reflect the constraint back and they pause — they are reconsidering or about to reveal more.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Perk pivot",
+          "t": "They pivot to benefits instead of money — the base is close to its real ceiling.",
+          "icon": "🎁"
+        },
+        {
+          "l": "Manager escalation",
+          "t": "They say 'let me check with my manager' — the ceiling is higher than they showed you.",
+          "icon": "⬆️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Label the constraint",
+          "desc": "Say: 'It sounds like the budget is tighter than you'd like here.' Then stop. Let them respond. Don't fill the pause."
+        },
+        {
+          "n": "2",
+          "title": "Ask what's possible",
+          "desc": "Say: 'What's the most the role can get to?' Don't assume they have shown you the actual ceiling yet."
+        },
+        {
+          "n": "3",
+          "title": "Counter with one specific ask",
+          "desc": "If the base is genuinely frozen, ask for one thing in writing: a sign-on bonus, an earlier review date, or extra days off."
+        }
+      ],
+      "script": "\"It sounds like the budget is tighter than you'd like on this. What's the most you can get the role to?\"",
+      "counter": "When someone uses your sympathy for their budget problem to stop you from pushing further.\n• They name the budget limit before you have made your full ask — that is early pressure.\n• Don't lower your number. Say: \"What flexibility is there if the right person walks in?\"\n• Treat every 'no budget' as 'not yet' until you see a hard ceiling in writing.",
+      "insight": "The label works because people want to feel understood more than they want to hold a line — but if they have genuinely hit the ceiling, the label will reveal it fast, and then the conversation shifts to what else is on the table."
+    },
+    {
+      "id": 9,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "When They Offer Perks Instead of Base Pay",
+      "hook": "Flexible hours and extra vacation days are nice. <strong>They don't show up on your W-2.</strong>",
+      "truth": "They offer perks when the base is near its ceiling — it is a trade designed to feel like a win.\n• Perks feel good in the moment but don't raise your starting point for the next negotiation.\n• Your base pay sets the floor for every future raise, bonus, and counteroffer you will ever get.\n• The trap: taking perks and calling it a win. Your future base starts where you accept today.",
+      "principle": "Loss Aversion (Kahneman & Tversky)",
+      "remember": "Base pay raises every future number. Perks do not.",
+      "theySee": "A candidate nodding at the perk offer, then pivoting directly back to a specific base number.",
+      "signals": [
+        {
+          "l": "Perk pivot",
+          "t": "They move from money to perks mid-conversation — the base is near its ceiling.",
+          "icon": "🔀"
+        },
+        {
+          "l": "Enthusiastic sell",
+          "t": "They spend more time on perks than pay — hoping you trade the number for the lifestyle.",
+          "icon": "📣"
+        },
+        {
+          "l": "Remote offer",
+          "t": "They add remote flexibility when you push on base — it is a sweetener, not a raise.",
+          "icon": "🏠"
+        },
+        {
+          "l": "Title upgrade",
+          "t": "They offer a better title with no money attached — titles don't pay bills.",
+          "icon": "🏷️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name what you heard",
+          "desc": "Say: 'I appreciate the flexibility. I want to make sure we also close the gap on base.' Keep both in play at once."
+        },
+        {
+          "n": "2",
+          "title": "Put a dollar figure on each perk",
+          "desc": "Extra week of vacation at your daily rate equals [X]. Remote work saves [Y] in commute per month. Write it down."
+        },
+        {
+          "n": "3",
+          "title": "Make a specific trade if the math works",
+          "desc": "If the perk is worth enough, offer the trade explicitly. 'If I give up the extra week, can we get to [X] on base?'"
+        }
+      ],
+      "script": "\"I value that — and I want to close the base closer to [X]. Is there room to move there?\"",
+      "counter": "If someone uses perks to pull your attention away from a low base offer, notice the pattern.\n• They brighten when you react positively to a perk — stay flat, return to base.\n• Say: \"I appreciate the flexibility. The base still needs to get to [X].\"\n• Don't let the perk conversation close before the base conversation does.",
+      "insight": "The harder move is valuing perks accurately and trading them deliberately — most people either reject perks entirely or take them without knowing what they gave up in base."
+    },
+    {
+      "id": 10,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "When They Say They'll Circle Back on the Number",
+      "hook": "'We'll revisit this in six months' means six months of working at the wrong number. <strong>Get the commitment now or put a date on it.</strong>",
+      "truth": "Vague promises about future pay reviews disappear unless you tie them to something hard.\n• A review date without a written benchmark is a verbal promise that resets every quarter.\n• Naming a specific number and a specific date creates a real commitment, not an intention.\n• The trap: accepting 'we'll revisit' and starting from zero six months later.",
+      "principle": "Cialdini: Scarcity & Deadline",
+      "remember": "A pay review without a written benchmark is not a commitment.",
+      "theySee": "A manager who just said 'we'll circle back' and now faces a direct question about what that actually means in writing.",
+      "signals": [
+        {
+          "l": "Vague timeline",
+          "t": "They say 'soon' or 'next cycle' with no date — that is not a plan, it is a delay.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "Performance qualifier",
+          "t": "They tie the future review to performance with no named metric — that is a movable target.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Quick agreement",
+          "t": "They agree to a date fast — they know they owe you a real conversation.",
+          "icon": "✅"
+        },
+        {
+          "l": "Resists writing",
+          "t": "They resist putting the review date in writing — the promise was not serious.",
+          "icon": "✋"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the date out loud",
+          "desc": "Say: 'Can we set the review for [specific date] — 90 days from today?' A date forces a real commitment instead of an intention."
+        },
+        {
+          "n": "2",
+          "title": "Name the number tied to the date",
+          "desc": "Say: 'At that review, I'm expecting we'll get to [X]. Does that align with what you're planning?'"
+        },
+        {
+          "n": "3",
+          "title": "Send a follow-up email that day",
+          "desc": "Same day, email: 'Per our conversation, we agreed to revisit my base on [date] with a target of [X].' That email is the record."
+        }
+      ],
+      "script": "\"Let's set a firm date for that — can we put [90 days from today] on the calendar now, with a target of [X]?\"",
+      "counter": "When someone uses 'circle back' to close the conversation without giving you anything real.\n• They say 'circle back' right after you push — that closes the push, not honors it.\n• Say: \"Can we put a specific date and number on that now?\"\n• If they won't commit to a date, the promise was never real.",
+      "insight": "The follow-up email you send that same day is worth more than the conversation itself — it is the only version of the promise that has a chance of surviving the next quarter."
+    },
+    {
+      "id": 11,
+      "cat": "manager",
+      "danger": "high",
+      "title": "When a High Performer Can't Get a Raise Right Now",
+      "hook": "Telling your best person 'not right now' without a plan is how you hand them to a competitor. <strong>Give them a path or they will make their own.</strong>",
+      "truth": "High performers weigh 'not now' against what they can get somewhere else — and they have options.\n• Name the specific reason: budget cap, pay band ceiling, or timeline. Vague reasons read as excuses.\n• Offer something concrete: a project, a title, a written review date with a target number.\n• The trap: warm sympathy with no specifics. They will decide to quit easily.",
+      "principle": "Expectancy Theory (Vroom)",
+      "remember": "Say exactly why. Then give them one concrete thing to reach.",
+      "theySee": "A manager who explains the specific pay band ceiling and then hands over a written review date with a target number attached to it.",
+      "signals": [
+        {
+          "l": "Flat expression",
+          "t": "They show no reaction — they are already processing their options, not your words.",
+          "icon": "😐"
+        },
+        {
+          "l": "Few questions",
+          "t": "They ask almost nothing — they have thought this through and your answer confirmed something.",
+          "icon": "🤐"
+        },
+        {
+          "l": "Asks about timeline",
+          "t": "They ask 'how long?' specifically — they are deciding whether to wait or leave.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Mentions other offers",
+          "t": "They reference the market or another offer — this conversation just became urgent.",
+          "icon": "🚨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the real reason",
+          "desc": "Say the specific reason: 'Your pay is at the top of the band for this level. The band doesn't move until your role moves up.'"
+        },
+        {
+          "n": "2",
+          "title": "Offer a written date and number",
+          "desc": "Say: 'I want to put [date] on the calendar as the review date, with [X] as the target we are working toward.'"
+        },
+        {
+          "n": "3",
+          "title": "Follow up in 30 days",
+          "desc": "Send a note 30 days later referencing the conversation. Shows the plan is real. Most managers never do this — and that is exactly why people leave."
+        }
+      ],
+      "script": "\"Your pay is at the top of the band right now. Here's what has to change for that to move — and I want to set a date to revisit it.\"",
+      "counter": "If you are on the receiving end of this conversation, here is how to read it.\n• Vague reasons with no date — the plan isn't real. Press for specifics.\n• Ask: \"What would I need to hit to get to [X] by [date]?\"\n• If they can't answer, the raise is not coming. Update your resume.",
+      "insight": "The manager who follows up 30 days later is the one who keeps the person — and almost no managers remember to do it, which is why high performers keep leaving for someone who will."
+    },
+    {
+      "id": 12,
+      "cat": "manager",
+      "danger": "high",
+      "title": "When the Employee Brings Up a Coworker's Pay",
+      "hook": "The second you explain or compare, you lose. <strong>Defending another person's salary is a fight you cannot win.</strong>",
+      "truth": "Comparing pays is a trap with no good exit — every answer gives them more to push back on.\n• You cannot discuss another employee's pay. Say that once, clearly, then move on.\n• Redirect to their specific situation: their pay band, their performance, their path forward.\n• The trap: justifying someone else's pay. That is not your job.",
+      "principle": "Greene: Law 4 — Say Less Than Necessary",
+      "remember": "Don't explain another person's pay. Redirect to theirs.",
+      "theySee": "A manager who says 'I can't speak to that' once and immediately pivots to the employee's specific numbers and next steps.",
+      "signals": [
+        {
+          "l": "Coworker named",
+          "t": "They name a specific colleague — they have information and are testing what you will confirm.",
+          "icon": "👤"
+        },
+        {
+          "l": "Fairness framing",
+          "t": "They use the word 'fair' — they feel undervalued and want acknowledgment, not a comparison.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Specific figure mentioned",
+          "t": "They give a number for the coworker — may be secondhand. Don't confirm or deny it.",
+          "icon": "💰"
+        },
+        {
+          "l": "Rising voice",
+          "t": "Their tone rises or they lean forward — this is about recognition, not just money.",
+          "icon": "📢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the one thing you can say",
+          "desc": "Say: 'I can't discuss anyone else's compensation — that's confidential.' Say it once, then move forward immediately."
+        },
+        {
+          "n": "2",
+          "title": "Redirect to their numbers",
+          "desc": "Say: 'What I can tell you is where you sit in your own pay band and how that compares to market for your role.'"
+        },
+        {
+          "n": "3",
+          "title": "Name one path forward",
+          "desc": "Give them one concrete next step: a review date, a project to lead, or the specific skill that opens the next pay band."
+        }
+      ],
+      "script": "\"I can't speak to anyone else's pay — that's confidential. Here's where you sit and what the path looks like from here.\"",
+      "counter": "If your manager uses this deflection to avoid a real conversation about your specific pay.\n• They say 'I can't discuss that' and pivot to vague generalities — ask for specifics.\n• Say: \"I'm not asking about them. Where do I sit in my own band?\"\n• If they won't share your own band, escalate to HR.",
+      "insight": "Most employees raise a coworker's pay when they actually want to hear that they are valued — answering that real question matters more than the comparison, and most managers miss it entirely."
+    },
+    {
+      "id": 13,
+      "cat": "manager",
+      "danger": "high",
+      "title": "When You're the Manager Delivering a Pay Freeze",
+      "hook": "A pay freeze with no explanation is a resignation letter handed back to you. <strong>How you deliver it determines whether they stay.</strong>",
+      "truth": "People can accept bad news when you describe it as a shared situation with a named path out.\n• Name the business reason specifically: a revenue drop, a budget cut, a company-wide policy.\n• Tie their future pay to a specific milestone — not 'when things improve.'\n• The trap: softening the news so much they leave unclear on whether this is permanent.",
+      "principle": "Cialdini: Commitment & Consistency",
+      "remember": "Say the bad news clearly. Then say exactly when it can change.",
+      "theySee": "A manager who states the freeze plainly, names the specific reason, and then gives a specific review date — not a vague promise.",
+      "signals": [
+        {
+          "l": "Shock expression",
+          "t": "Their expression drops — they were not expecting this. Give them a moment before continuing.",
+          "icon": "😳"
+        },
+        {
+          "l": "Questions stop",
+          "t": "They go quiet and ask nothing — processing, not agreement. Check in directly.",
+          "icon": "🤫"
+        },
+        {
+          "l": "Asks about others",
+          "t": "They ask if others are affected — they are checking whether this is targeted at them specifically.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Asks what changed",
+          "t": "They want the real reason. Have it ready and say it plainly in one sentence.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the news first",
+          "desc": "Open with the fact: 'Effective [date], your base is frozen at [X].' Don't bury it after three minutes of preamble."
+        },
+        {
+          "n": "2",
+          "title": "Name the reason in one sentence",
+          "desc": "Say exactly why: revenue, budget, company-wide policy. One sentence. Do not over-explain or hedge."
+        },
+        {
+          "n": "3",
+          "title": "Name the recovery milestone",
+          "desc": "Say: 'When [specific thing] happens, this gets reviewed. I'll put a date on the calendar right now.'"
+        }
+      ],
+      "script": "\"Starting [date], your base is being frozen at [X]. Here's why, and here's the specific point where we review it.\"",
+      "counter": "If your manager is delivering bad pay news, read the delivery carefully.\n• If they don't name a specific reason, ask: \"What specifically triggered this?\"\n• If there's no recovery milestone, ask: \"When can we set a review date?\"\n• If only you are affected with no reason given, document the conversation.",
+      "insight": "People forgive bad news faster than they forgive being misled — the manager who delivers it plainly is the one who keeps the team, and that gap in behavior is wider than most managers realize."
+    },
+    {
+      "id": 14,
+      "cat": "closing",
+      "danger": "moderate",
+      "title": "Get the Offer in Writing Before You Say Yes",
+      "hook": "Verbal offers disappear. Job titles change. Start dates slip. <strong>The offer isn't real until it's in a document.</strong>",
+      "truth": "Accepting verbally before the written offer creates the worst possible situation — you quit your last role and the new one changed.\n• Verbal agreements are worth the air they are spoken into — get everything in writing.\n• Review the written offer against what you negotiated: base, title, start date, bonus terms.\n• The trap: feeling rude asking for it in writing. You're not rude. You're careful.",
+      "principle": "Pre-Commitment (Ariely: Predictably Irrational)",
+      "remember": "Don't say yes to anything until you see it written down.",
+      "theySee": "A recruiter who expected a yes right now but instead hears 'I'd love to review the written offer today.'",
+      "signals": [
+        {
+          "l": "Verbal only",
+          "t": "They give numbers verbally but no written offer follows within 24 hours — ask for it.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Start date pressure",
+          "t": "They push you to commit to a start date before the offer letter is sent — hold the date.",
+          "icon": "📅"
+        },
+        {
+          "l": "Terms differ",
+          "t": "The written offer is lower than what was said verbally — they are testing whether you will catch it.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Same-day sign ask",
+          "t": "They ask you to sign by end of day — read every line, don't rush.",
+          "icon": "⏰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the written offer today",
+          "desc": "Say: 'Can you send the offer letter today so I can review everything?' This is normal. Do it every single time."
+        },
+        {
+          "n": "2",
+          "title": "Check against the verbal deal",
+          "desc": "Line up every number and term that was discussed against what the offer letter says. Mark anything that changed."
+        },
+        {
+          "n": "3",
+          "title": "Flag discrepancies before signing",
+          "desc": "If anything changed, say: 'The base here shows [X] — we discussed [Y]. Can you confirm which is correct?'"
+        }
+      ],
+      "script": "\"Can you send the written offer today? I want to make sure everything we discussed is captured before I sign.\"",
+      "counter": "When someone uses urgency to get you to accept before you can review the full document.\n• They pressure you to decide before a written document exists — that is a red flag.\n• Say: \"I need the written offer in hand before I accept. Send it today.\"\n• If they say the offer can't wait, the problem is them, not your timeline.",
+      "insight": "The gap between the verbal offer and the written one is where the negotiation actually ends — and most people never check it, which is why it keeps happening to the same people twice."
+    },
+    {
+      "id": 15,
+      "cat": "closing",
+      "danger": "moderate",
+      "title": "When the Number Is Close but Not Quite Right",
+      "hook": "They are at [X] and you need [Y]. The gap is small. <strong>One more push at the finish line is worth more than it feels right now.</strong>",
+      "truth": "A small gap at the end of a long negotiation feels harder to close than it actually is — everyone is tired.\n• One calibrated question at the finish line can move 3–5% with almost no friction.\n• You have already done the hard work of getting here. The final ask costs almost nothing.\n• The trap: accepting 'close enough' when the gap is still real money over years.",
+      "principle": "Voss: Calibrated Question",
+      "remember": "Ask one more question at the finish line. Most people don't.",
+      "theySee": "A recruiter who thought the deal was done, now facing one more direct question about the final gap before anyone signs anything.",
+      "signals": [
+        {
+          "l": "Near-close offer",
+          "t": "They offer something close to your target — they want to close, which means you have one move left.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Relieved tone",
+          "t": "They sound relieved — they expected more pushback and didn't get it. Use that.",
+          "icon": "😮‍💨"
+        },
+        {
+          "l": "Time pressure",
+          "t": "They mention needing to wrap today — urgency works both ways.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Thin gap",
+          "t": "The difference is less than 5% — a single question can close it.",
+          "icon": "📏"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the gap precisely",
+          "desc": "Say: 'We're [exact dollar amount] apart. I want to close that.' Name the number, not a percentage."
+        },
+        {
+          "n": "2",
+          "title": "Ask the calibrated question",
+          "desc": "Say: 'What would it take to get there?' Then stop talking. Let them answer. Don't fill the silence."
+        },
+        {
+          "n": "3",
+          "title": "Accept or hold your floor",
+          "desc": "If they close the gap, say yes. If they can't, check whether the full package clears your walk-away number from Card 2. If yes, take it."
+        }
+      ],
+      "script": "\"We're [gap] apart — is there any way to close that before we finish?\"",
+      "counter": "When someone uses the 'almost there' moment to get you to stop pushing.\n• They sigh and say 'we're so close' — that means they can still move.\n• Hold your number. Say: \"I know. Let's close the gap and then we're done.\"\n• If they genuinely can't move, you will know fast. If they can, the question gets it.",
+      "insight": "The difference between [X] and [Y] over three years is larger than it sounds in the room — and the person who asks one more question last usually gets closer to what they wanted, simply because everyone else stopped asking."
+    }
+  ]
+}

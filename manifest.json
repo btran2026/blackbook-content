@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 79,
+  "manifestVersion": 80,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -689,7 +689,20 @@
       "url": "playbooks/playbook-srv-the-middle-seat.json",
       "addedAt": "2026-09-22T23:32:27.069Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-salary-dossier",
+      "title": "The Salary Dossier",
+      "theme": "salary",
+      "topic": "Handling salary discussions",
+      "cardCount": 15,
+      "contentVersion": 1,
+      "coverColor": "#1a3a2a",
+      "coverIcon": "💼",
+      "url": "playbooks/playbook-srv-the-salary-dossier.json",
+      "addedAt": "2026-09-24T18:10:45.358Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-22T23:32:27.069Z"
+  "generatedAt": "2026-09-24T18:10:45.358Z"
 }
