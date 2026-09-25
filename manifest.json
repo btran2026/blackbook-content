@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 79,
+  "manifestVersion": 80,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -689,7 +689,20 @@
       "url": "playbooks/playbook-srv-the-middle-seat.json",
       "addedAt": "2026-09-22T23:32:27.069Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-what-so-what-now-what",
+      "title": "What / So What / Now What",
+      "theme": "communication",
+      "topic": "",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#1F6F5C",
+      "coverIcon": "📡",
+      "url": "playbooks/playbook-srv-what-so-what-now-what.json",
+      "addedAt": "2026-09-25T16:51:30.681Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-22T23:32:27.069Z"
+  "generatedAt": "2026-09-25T16:51:30.681Z"
 }

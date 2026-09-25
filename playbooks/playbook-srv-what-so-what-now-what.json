@@ -1,0 +1,639 @@
+{
+  "meta": {
+    "id": "srv-what-so-what-now-what",
+    "version": "1.0",
+    "title": "What / So What / Now What",
+    "subtitle": "Three sentences that move a decision",
+    "description": "A field manual for the update that lands. What happened, why it matters, what you need — said in the order that makes busy people act. Ten cards on structure, timing, bad news, and the politics hidden inside every status report.",
+    "author": "AI",
+    "createdAt": "2026-09-24T23:07:54.915Z",
+    "tags": [
+      "communication",
+      "status updates",
+      "executive",
+      "influence",
+      "clarity",
+      "work"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#1F6F5C",
+    "coverIcon": "📡",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "structure",
+      "label": "The Three Sentences",
+      "color": "#1F6F5C"
+    },
+    {
+      "key": "badnews",
+      "label": "Bad News",
+      "color": "#A63D40"
+    },
+    {
+      "key": "ask",
+      "label": "The Ask",
+      "color": "#C77B2B"
+    },
+    {
+      "key": "timing",
+      "label": "Timing & Channel",
+      "color": "#3F6C9E"
+    },
+    {
+      "key": "politics",
+      "label": "Room Politics",
+      "color": "#6B4E8C"
+    },
+    {
+      "key": "defense",
+      "label": "Reading It Back",
+      "color": "#4A5A63"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "structure",
+      "danger": "low",
+      "title": "Put the Result in the First Sentence",
+      "principle": "Inverted Pyramid — Bottom Line Up Front",
+      "remember": "Say what happened first. Story second, if they ask.",
+      "when": "Your boss asks how the project is going and you start with background.",
+      "hook": "Most people build up to the point. <strong>Busy people decide before you get there.</strong>",
+      "truth": "A reader decides how much attention to give you in about six seconds.\n• Lead with the result. The background becomes optional detail.\n• They stop hunting for your point and start thinking about theirs.\n• Build-up feels polite. It reads as someone hiding the number.",
+      "theySee": "A person who answers the question in the first breath and stops talking.",
+      "signals": [
+        {
+          "icon": "📱",
+          "l": "Phone check",
+          "t": "They pick up their phone while you set up the background"
+        },
+        {
+          "icon": "✂️",
+          "l": "Interrupt",
+          "t": "They cut in with 'So what's the status?' before you finish"
+        },
+        {
+          "icon": "📜",
+          "l": "Scroll jump",
+          "t": "They reply only to the last line of your long email"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat ask",
+          "t": "They ask you the same question a day after you answered it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the last line first",
+          "desc": "Draft your update, then move the final sentence to the top. That sentence is usually the real news."
+        },
+        {
+          "n": "2",
+          "title": "Cut everything before it",
+          "desc": "Delete the setup paragraph. If they need it, they will ask one question."
+        },
+        {
+          "n": "3",
+          "title": "Read it out loud",
+          "desc": "If the first sentence has no verb about what happened, rewrite it."
+        }
+      ],
+      "script": "\"<strong>The launch slips to November 4.</strong> The payment vendor failed our security check. I need you to approve a second vendor by Friday.\"",
+      "example": "Priya used to open her weekly note with three paragraphs of context. Her VP never replied. She switched to one line: 'We hit 80% of target; churn is the gap; I need two support hires.' The VP replied in nine minutes with 'Approved, send me the reqs.'",
+      "watchFor": "They put their phone down and ask a question about the detail, not the summary.",
+      "ifItFails": "They skip your first line and ask for the story anyway. Do not re-tell the whole history. Give them the two facts that produced the result, then stop. Say: <strong>\"Two things caused it: the vendor failed the check, and we found out Tuesday. What else do you need?\"</strong>",
+      "counter": "If someone opens with long background, they are burying something.\n• Notice the delay before any number appears.\n• Say: <strong>\"Give me the headline first, then the history.\"</strong>\n• Write the headline down. Compare it to what they said later.",
+      "insight": "Leading with the result gets you read. It also removes your cover — there is no warm-up to soften a bad number. The harder part is whether you can say a bad headline first and still hold the room."
+    },
+    {
+      "id": 2,
+      "cat": "structure",
+      "danger": "low",
+      "title": "Name Why It Matters in Their Currency",
+      "principle": "Cialdini: Self-Interest — Audience-Relevant Stakes",
+      "remember": "Say what it costs them, not what it cost you.",
+      "when": "You report a delay and your boss nods but does nothing about it.",
+      "hook": "The 'so what' is not your effort. <strong>It is their money, their deadline, or their exposure.</strong>",
+      "truth": "People act on consequences they own, not consequences you describe.\n• Convert the fact into the thing they are measured on.\n• Your update stops being news and becomes their problem.\n• Most people describe the work instead. The work is invisible to them.",
+      "theySee": "A person who names the number their own boss will ask about next week.",
+      "signals": [
+        {
+          "icon": "😐",
+          "l": "Flat nod",
+          "t": "They nod at your update and change the subject"
+        },
+        {
+          "icon": "🗓️",
+          "l": "No action",
+          "t": "They never put your item on an agenda"
+        },
+        {
+          "icon": "❓",
+          "l": "So-what ask",
+          "t": "They ask 'And this affects what?' after you finish"
+        },
+        {
+          "icon": "📊",
+          "l": "Metric swap",
+          "t": "They restate your point using a number you never mentioned"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find their scoreboard",
+          "desc": "Check the last deck they presented. Whatever number is on slide two is what they are paid on."
+        },
+        {
+          "n": "2",
+          "title": "Translate your fact into that number",
+          "desc": "Write one sentence: this delay costs X of that number, by this date."
+        },
+        {
+          "n": "3",
+          "title": "Say the number out loud once",
+          "desc": "Do not repeat it. One mention lands harder than three."
+        }
+      ],
+      "script": "\"The vendor delay is two weeks. <strong>That pushes 400 signups out of Q4, which is the number you present on the 12th.</strong> I need a decision on the backup vendor.\"",
+      "example": "Dev kept reporting 'the migration is behind.' Nothing moved. He rewrote it as 'the migration is behind, so we pay the old license for two more months — $38,000.' His director called the vendor himself that afternoon.",
+      "watchFor": "They repeat your number back to someone else in the same meeting.",
+      "ifItFails": "They accept the number and still do nothing. Do not raise the number — that reads as pressure. Put a date on the decision instead and hand the clock to them. Say: <strong>\"If I do not hear by Thursday, I will assume we accept the two weeks and I will tell the team that.\"</strong>",
+      "counter": "If someone frames their problem as your deadline, check the math.\n• Ask where the number came from and who produced it.\n• Say: <strong>\"Walk me through how you got to 400.\"</strong>\n• If the math is soft, the urgency is manufactured. Slow down.",
+      "insight": "Their currency makes them act. It also tells them exactly how much your problem is worth — and that number is now the ceiling on what they will spend to fix it."
+    },
+    {
+      "id": 3,
+      "cat": "ask",
+      "danger": "low",
+      "title": "Ask for One Thing, With a Date",
+      "principle": "Schelling: Commitment — Single-Option Close",
+      "remember": "One ask, one name, one date. Nothing else.",
+      "when": "You end an update with 'let me know your thoughts' and hear nothing back.",
+      "hook": "A vague ask is a free pass to ignore you. <strong>Name the person, the thing, and the day.</strong>",
+      "truth": "An open request has no owner, so nobody owns it.\n• Name one action, one person, one deadline.\n• They can no longer say yes without doing something.\n• Two asks means they pick the easy one and drop yours.",
+      "theySee": "A person who asks for one specific thing and gives them a date to answer by.",
+      "signals": [
+        {
+          "icon": "🤷",
+          "l": "Thoughts line",
+          "t": "You end messages with 'let me know your thoughts'"
+        },
+        {
+          "icon": "👍",
+          "l": "Emoji reply",
+          "t": "They react with a thumbs up and never act"
+        },
+        {
+          "icon": "🔄",
+          "l": "Ask again",
+          "t": "You have sent the same request three times"
+        },
+        {
+          "icon": "🪑",
+          "l": "Meeting drift",
+          "t": "Your item gets pushed to next week's agenda every week"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Cut your asks down to one",
+          "desc": "List everything you want. Circle the one that unblocks the rest. Delete the others from this message."
+        },
+        {
+          "n": "2",
+          "title": "Put a name on it",
+          "desc": "Write 'I need you to' — not 'we should' or 'someone needs to'."
+        },
+        {
+          "n": "3",
+          "title": "Add the date and the cost of missing it",
+          "desc": "Write the day, then one short clause on what happens if it slips."
+        }
+      ],
+      "script": "\"<strong>I need you to approve the backup vendor by Friday.</strong> If it slips past Friday, we lose the November slot and start again in January.\"",
+      "example": "Claire's budget request sat for six weeks while she asked for 'support.' She rewrote it: 'I need your signature on the $40k req by Tuesday or we lose the contractor.' She had the signature Monday night.",
+      "watchFor": "They open their calendar or write the date down while you are still talking.",
+      "ifItFails": "They agree in the room and the date passes. Do not send a reminder with a question mark. Send a short note that puts the next move on them and copies the record. Say: <strong>\"Friday passed with no approval, so I have told the team we are on the January slot. Tell me if you want that changed.\"</strong>",
+      "counter": "If someone hands you a single ask with a hard date, check who set the date.\n• Ask what breaks on that exact day.\n• Say: <strong>\"What happens on Friday that does not happen Monday?\"</strong>\n• If they cannot answer, the deadline is a lever, not a fact.",
+      "insight": "One ask gets answered. It also means you only get one shot per update — the trick is picking which unlock actually opens the other doors."
+    },
+    {
+      "id": 4,
+      "cat": "badnews",
+      "danger": "moderate",
+      "title": "Report the Miss Before Someone Else Does",
+      "principle": "Voss: Accusation Audit × First-Mover Disclosure",
+      "remember": "Tell them the bad number yourself, early, with a plan.",
+      "when": "You know the deadline will slip and nobody has noticed yet.",
+      "hook": "Bad news you report is a status update. <strong>Bad news they find is a cover-up.</strong>",
+      "truth": "The damage comes from who said it, not what it said.\n• Say the miss first and you keep the job of fixing it.\n• They spend their energy on the plan, not on your honesty.\n• Most people wait for a fix. The fix arrives after the leak.",
+      "theySee": "A person who walks in with a bad number and a written plan on the same page.",
+      "signals": [
+        {
+          "icon": "⏳",
+          "l": "Quiet slip",
+          "t": "You have known about the slip for more than three days"
+        },
+        {
+          "icon": "🙈",
+          "l": "Avoid talk",
+          "t": "You skip the topic in your one-on-one"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Side channel",
+          "t": "Another team already asks about your timeline"
+        },
+        {
+          "icon": "📝",
+          "l": "Soft words",
+          "t": "You write 'slight delay' when the delay is three weeks"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the number plainly",
+          "desc": "Not 'some slippage'. Write 'three weeks late, new date November 4'."
+        },
+        {
+          "n": "2",
+          "title": "Bring one fix and one tradeoff",
+          "desc": "Give them a choice: cut scope and hold the date, or hold scope and take the delay."
+        },
+        {
+          "n": "3",
+          "title": "Say it out loud first, then send it",
+          "desc": "Tell them in person or on a call, then follow with the written version the same hour."
+        }
+      ],
+      "script": "\"<strong>We will miss November 4 by three weeks.</strong> The vendor failed our security check on Tuesday. Two options: drop the export feature and hold the date, or take the delay. I recommend dropping export.\"",
+      "example": "Tomas found a data bug that made Q3 revenue look 6% high. He told his director before the board deck was built, with a corrected file attached. The director presented the fix as 'our team caught it.' Tomas ran the next audit.",
+      "watchFor": "They ask which option you recommend instead of asking how this happened.",
+      "ifItFails": "They turn it into blame and ask who is responsible. Do not defend and do not name a teammate. Take the ownership line and push the talk back to the choice. Say: <strong>\"It is mine. The useful question now is scope or date — which do you want to protect?\"</strong>",
+      "counter": "If someone brings you bad news with two neat options, check for a third.\n• Notice that both options cost you and neither costs them.\n• Say: <strong>\"What is the option you left off this list?\"</strong>\n• Do not pick until you have seen the one they hid.",
+      "insight": "Early disclosure buys you control of the fix. Do not run this on a boss who has already put your date in front of their own boss without warning them privately first — you are correcting their record in public, and they will remember that instead of your honesty."
+    },
+    {
+      "id": 5,
+      "cat": "badnews",
+      "danger": "moderate",
+      "title": "Separate the Fact From the Fear",
+      "principle": "Clinical Reporting — Fact, Inference, Emotion",
+      "remember": "Say what happened. Then say what you think. Never mix them.",
+      "when": "You have to report a problem and your draft reads as panic.",
+      "hook": "Mixed facts and worries read as drama. <strong>Split them and you sound like the person who should handle it.</strong>",
+      "truth": "Readers discount your facts if your worry is glued to them.\n• Put the fact in one sentence with a number in it.\n• Your guess goes in a second sentence, labeled as a guess.\n• People who mix the two get managed instead of trusted.",
+      "theySee": "A person who states a number, then says plainly which part is a guess.",
+      "signals": [
+        {
+          "icon": "🌡️",
+          "l": "Hot words",
+          "t": "Your draft uses 'disaster', 'nightmare', or 'blown up'"
+        },
+        {
+          "icon": "🔮",
+          "l": "Guess as fact",
+          "t": "You write 'this will cost us the quarter' with no data behind it"
+        },
+        {
+          "icon": "🫱",
+          "l": "Handled for you",
+          "t": "Your boss takes the problem off your plate after you report it"
+        },
+        {
+          "icon": "📉",
+          "l": "Overcorrect",
+          "t": "You then downplay the next real problem to seem calm"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Underline every number in your draft",
+          "desc": "Those sentences are facts. Everything else is your read."
+        },
+        {
+          "n": "2",
+          "title": "Label the read",
+          "desc": "Start the second sentence with 'My read is' or 'I think'. Say it once."
+        },
+        {
+          "n": "3",
+          "title": "Delete the emotion words",
+          "desc": "Cut 'disaster', 'huge', 'terrifying'. The number carries the weight."
+        }
+      ],
+      "step_note": "",
+      "script": "\"<strong>Fact: 12% of orders failed to sync between Monday and Wednesday — 340 orders.</strong> My read is the cause is the new API timeout, but I have not proven it yet. I will know by 3pm.\"",
+      "example": "Anna's first draft said the outage had 'destroyed customer trust.' She rewrote it: '340 orders failed; my read is the API timeout; unconfirmed.' Her director forwarded it to the CTO unchanged and left Anna running the fix.",
+      "watchFor": "They ask 'what would prove your read?' instead of taking over the problem.",
+      "ifItFails": "They latch onto your guess and treat it as settled. Pull it back before it travels. Correct it in the same channel it spread in, in one line. Say: <strong>\"To be clear, the timeout is still unproven. I will confirm or kill it by 3pm.\"</strong>",
+      "counter": "If someone hands you a worry dressed as a finding, ask for the number.\n• Notice a strong claim with no measurement attached.\n• Say: <strong>\"Which part of that is measured, and which part is your read?\"</strong>\n• Act on the measured part only, and set a time to check the rest.",
+      "insight": "Labeling your guess protects your credit when the guess is wrong. It also invites people to argue with the guess in public — and you need to be able to drop it without looking beaten."
+    },
+    {
+      "id": 6,
+      "cat": "timing",
+      "danger": "low",
+      "title": "Send the Update Before They Ask For It",
+      "principle": "Cialdini: Reciprocity × Information Control",
+      "remember": "Report on your clock. Answering theirs looks like catching up.",
+      "when": "Your boss messages 'any update on this?' more than once a week.",
+      "hook": "An update you send is a report. <strong>An update they chase is an excuse.</strong>",
+      "truth": "Who starts the conversation decides who looks in control.\n• Pick a fixed day and send before anyone asks.\n• They stop checking on you and start reading you.\n• A chased update is judged on lateness before content.",
+      "theySee": "A person whose note arrives the same morning every week, before any question.",
+      "signals": [
+        {
+          "icon": "📩",
+          "l": "Chase message",
+          "t": "They message you asking for status"
+        },
+        {
+          "icon": "🕵️",
+          "l": "Third party",
+          "t": "They ask your teammate about your work instead of you"
+        },
+        {
+          "icon": "⏰",
+          "l": "Random timing",
+          "t": "Your updates land on different days with no pattern"
+        },
+        {
+          "icon": "🔍",
+          "l": "Detail drilling",
+          "t": "They start asking about tasks they never asked about before"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the day and hour",
+          "desc": "Choose the morning before their busiest meeting. Tuesday 8am beats Friday 5pm."
+        },
+        {
+          "n": "2",
+          "title": "Write the same three lines every time",
+          "desc": "What happened, why it matters, what you need. Same order, every week."
+        },
+        {
+          "n": "3",
+          "title": "Send it even when nothing moved",
+          "desc": "Write 'no change, still blocked on the vendor, decision needed Friday'. Silence reads worse than a flat week."
+        }
+      ],
+      "script": "\"<strong>Weekly, Tuesday 8am:</strong> Vendor check failed, launch now November 4. That pushes 400 signups out of Q4. I need your approval on the backup vendor by Friday.\"",
+      "example": "Sam's manager pinged him for status three times a week. He started sending a five-line note every Tuesday at 8am. The pings stopped in two weeks, and his manager began forwarding the note to the leadership channel.",
+      "watchFor": "They stop asking for status and start replying to your note with decisions.",
+      "ifItFails": "They ignore the weekly note and still chase you mid-week. Do not write more. Point at the note and make the chase cost them a click. Say: <strong>\"It is in Tuesday's note — line three. Tell me if you want a different format and I will switch.\"</strong>",
+      "counter": "If someone sends you a perfect weekly note, read what is missing.\n• Notice the same three green items every week with no problems named.\n• Say: <strong>\"What went wrong this week? I only see progress.\"</strong>\n• A report with no bad news is a report you cannot use.",
+      "insight": "Owning the clock stops the chasing. It also means every bad week is now on the record in your own words — the next question is whether you can write 'no change' three weeks running and still hold the room."
+    },
+    {
+      "id": 7,
+      "cat": "timing",
+      "danger": "moderate",
+      "title": "Match the Channel to the Size of the News",
+      "principle": "Media Richness — Channel Selection",
+      "remember": "Big news gets a voice. Small news gets a line of text.",
+      "when": "You are about to send bad news in a message and you feel relieved.",
+      "hook": "Hard news in writing gets read in the worst possible tone. <strong>Your reader supplies the voice, and it is never a friendly one.</strong>",
+      "truth": "Text strips tone, so the reader fills it in from their mood.\n• Say the hard part out loud, then write the record.\n• They hear intent instead of inventing it.\n• Text also forwards. A call does not.",
+      "theySee": "A person who calls to say the hard part, then sends a short written summary.",
+      "signals": [
+        {
+          "icon": "😮‍💨",
+          "l": "Relief tell",
+          "t": "You feel relieved when you decide to send it as a message"
+        },
+        {
+          "icon": "📚",
+          "l": "Long draft",
+          "t": "Your message runs over 200 words and keeps growing"
+        },
+        {
+          "icon": "↩️",
+          "l": "Cold reply",
+          "t": "They reply with one word, or not at all"
+        },
+        {
+          "icon": "📤",
+          "l": "Forward risk",
+          "t": "The message names a person or a mistake by name"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the forward test",
+          "desc": "Ask if this message would hurt you in a screenshot. If yes, call instead."
+        },
+        {
+          "n": "2",
+          "title": "Call first, keep it under four minutes",
+          "desc": "Say the news, the cause, and the choice. Do not narrate the whole week."
+        },
+        {
+          "n": "3",
+          "title": "Send the written record within the hour",
+          "desc": "Three lines: what happened, why it matters, what you need. No new information."
+        }
+      ],
+      "script": "(On the call) \"<strong>Two minutes — the launch moves to November 4 and I want you to hear it from me before the note.</strong> The vendor failed the check. I will send the written version right after this.\"",
+      "example": "Ben typed a 400-word message about a budget overrun, then deleted it and called his director instead. The call took three minutes. His follow-up note was four lines, and the director forwarded only the note — not the mess Ben nearly wrote.",
+      "watchFor": "They say 'thanks for calling' before they ask a single question about the problem.",
+      "ifItFails": "They do not pick up and the news cannot wait. Do not dump it in a message. Send a short line that sets the call and names the size, so nothing leaks first. Say: <strong>\"Need four minutes today on the launch date — it moved. Free at 2 or 4?\"</strong>",
+      "counter": "If someone insists on discussing bad news by phone only, note what is missing.\n• They avoid writing the number down.\n• Say: <strong>\"Good call — I will send a short recap so we both have it.\"</strong>\n• Write the recap yourself within the hour. The first written version wins.",
+      "insight": "A call controls the tone. It also leaves no record, so whoever writes the summary owns the history — do not run the call-only version on someone who has rewritten your words before."
+    },
+    {
+      "id": 8,
+      "cat": "politics",
+      "danger": "high",
+      "title": "Write the Update So It Can Be Forwarded",
+      "principle": "Gracián: Know How to Show Your Cards",
+      "remember": "Assume your boss forwards it. Write for the person above them.",
+      "when": "Your manager pastes your update into their own note to leadership.",
+      "hook": "Your update rarely stops with the person you sent it to. <strong>Write the version their boss will read.</strong>",
+      "truth": "Every update travels up, and it loses your name at each hop.\n• Write three lines clean enough to paste without edits.\n• Your manager forwards it whole instead of rewriting it.\n• A rewrite strips your name. A paste keeps it.",
+      "theySee": "A manager who can copy your three lines straight into a leadership note.",
+      "signals": [
+        {
+          "icon": "✂️",
+          "l": "Rewrite tell",
+          "t": "Your manager summarizes your update in their own words upward"
+        },
+        {
+          "icon": "👤",
+          "l": "Name drop",
+          "t": "Your work appears in a deck with no mention of you"
+        },
+        {
+          "icon": "🧩",
+          "l": "Jargon block",
+          "t": "Your update uses team-only shorthand nobody outside knows"
+        },
+        {
+          "icon": "📏",
+          "l": "Length",
+          "t": "Your note needs scrolling before the first result appears"
+        },
+        {
+          "icon": "🔗",
+          "l": "Clean quote",
+          "t": "They quote one of your sentences back word for word"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Strip the inside language",
+          "desc": "Replace ticket numbers and team nicknames with plain words a stranger understands."
+        },
+        {
+          "n": "2",
+          "title": "Put your name in the middle line",
+          "desc": "Write 'my team shipped X' once, in the fact sentence, not as a signature."
+        },
+        {
+          "n": "3",
+          "title": "Keep it under 60 words",
+          "desc": "Short enough to paste. Long notes get rewritten, and rewrites lose you."
+        }
+      ],
+      "script": "\"<strong>My team cut checkout failures from 12% to 3% this week.</strong> That returns about 400 orders a month. To hold it, I need the second engineer through December.\"",
+      "example": "Rosa wrote her weekly note so it needed no edits. Her director pasted it straight into the VP channel, name intact. Two months later the VP asked for Rosa by name on a new project she had never pitched for.",
+      "watchFor": "Your exact sentence comes back to you from someone two levels up.",
+      "ifItFails": "Your manager rewrites it anyway and your name drops out. Do not complain about credit. Make the paste easier next time by handing them a ready-made line. Say: <strong>\"Here is a one-liner for your leadership note if it helps: 'Rosa's team cut checkout failures 12% to 3%.'\"</strong>",
+      "counter": "If someone sends you updates that read like press releases, check what is absent.\n• Notice every line is a win with a number and no cost.\n• Say: <strong>\"Send me the version with the risks in it too.\"</strong>\n• Do not forward the polished one until you have seen the other.",
+      "insight": "A forwardable update spreads your name without you pushing it. It also spreads your claims — do not run this on a manager who is fighting for the same promotion, because a quotable line is just as easy to quote against you."
+    },
+    {
+      "id": 9,
+      "cat": "politics",
+      "danger": "high",
+      "title": "Say No Change Without Sounding Stuck",
+      "principle": "Status Asymmetry — Owning the Blocker",
+      "remember": "Name the person who is blocking you and the date they got it.",
+      "when": "Nothing moved this week because you are waiting on someone else.",
+      "hook": "'No update' makes you look slow. <strong>'Waiting on Legal since the 8th' makes Legal look slow.</strong>",
+      "truth": "Silence attaches the delay to whoever reports it last.\n• Name the person, the thing, and the date you handed it over.\n• The clock moves off you and onto them.\n• Most people write 'still in progress' and eat the blame.",
+      "theySee": "A person who names who is holding the work and how many days it has sat.",
+      "signals": [
+        {
+          "icon": "🌀",
+          "l": "In progress",
+          "t": "Your update says 'still in progress' two weeks running"
+        },
+        {
+          "icon": "📆",
+          "l": "No date",
+          "t": "You cannot say what day you handed the work over"
+        },
+        {
+          "icon": "🙋",
+          "l": "Blame drift",
+          "t": "Your boss asks why your item is slow, not why Legal is slow"
+        },
+        {
+          "icon": "🔇",
+          "l": "Vague party",
+          "t": "You write 'waiting on another team' with no name in it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the handoff date",
+          "desc": "Check your sent messages. Note the exact day you gave the work to them."
+        },
+        {
+          "n": "2",
+          "title": "Write the name and the day count",
+          "desc": "'With Legal since September 8 — 14 days.' No adjectives."
+        },
+        {
+          "n": "3",
+          "title": "Say what you will do if it stays stuck",
+          "desc": "Give one date and one action you will take without further permission."
+        }
+      ],
+      "script": "\"<strong>No movement: the contract has been with Legal since September 8, 14 days.</strong> I have pinged twice. If I hear nothing by Friday, I will raise it with Legal's director.\"",
+      "example": "Kofi's item sat red for a month and his boss started asking hard questions. He changed one line to 'with Procurement since August 4, 31 days, two follow-ups sent.' His boss called Procurement's head the next morning and the contract cleared in two days.",
+      "watchFor": "Your boss asks for the blocking person's name and contact instead of asking about your timeline.",
+      "ifItFails": "They read it as you blaming another team. Drop the count and hand them a choice about the escalation instead. Make them decide who pushes. Say: <strong>\"Not blame — I need a decision on who pushes Legal, me or you. I am fine either way.\"</strong>",
+      "counter": "If someone names you as their blocker in a written update, move fast.\n• Notice the date and the day count they attached to your name.\n• Say: <strong>\"You have my answer by Thursday — here is what I needed that I never got.\"</strong>\n• Reply in the same thread. An unanswered line becomes the record.",
+      "insight": "Naming the blocker moves the clock off you. It also starts a fight you now have to be right about — do not name a team whose director outranks your boss unless you have the dates in writing."
+    },
+    {
+      "id": 10,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Ask for the Missing Third Sentence",
+      "principle": "Schopenhauer: Demand the Proposition — Complete the Frame",
+      "remember": "If they skip the ask, they want you to guess and own it.",
+      "when": "Someone sends you a long update that never says what they need from you.",
+      "hook": "An update with no ask is not information. <strong>It is a handoff dressed as a report.</strong>",
+      "truth": "An unstated ask transfers the decision to you without your agreement.\n• The sender keeps the facts and leaves you the choice.\n• If it goes wrong, the record shows they told you.\n• Ask for the missing sentence and the choice goes back.",
+      "theySee": "A person who reads the update and asks one question before acting on it.",
+      "signals": [
+        {
+          "icon": "📃",
+          "l": "No ask",
+          "t": "The message ends with 'just keeping you posted'"
+        },
+        {
+          "icon": "🧾",
+          "l": "Detail flood",
+          "t": "They send six paragraphs of facts and no request"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Late timing",
+          "t": "The update arrives after the decision window is nearly closed"
+        },
+        {
+          "icon": "🪤",
+          "l": "Record building",
+          "t": "They copy three people who cannot act on any of it"
+        },
+        {
+          "icon": "🫥",
+          "l": "Soft verbs",
+          "t": "They write 'we may need to consider' instead of naming an action"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Do not decide in the reply",
+          "desc": "Hold the decision. Answer with a question, not an approval."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the ask in one line",
+          "desc": "Request the action, the owner, and the date. Nothing else."
+        },
+        {
+          "n": "3",
+          "title": "Write the answer back in the thread",
+          "desc": "Once they name it, restate it in one sentence so the record is yours."
+        }
+      ],
+      "script": "\"<strong>Got it. What do you need from me, by when?</strong> If the answer is nothing, say that and I will read it as your call.\"",
+      "example": "Ines got a 700-word note about a failing vendor with no request in it. She replied with one line asking what was needed and by when. The sender admitted he wanted her to cancel the contract — a call he did not want on his name. She sent it back to him in writing.",
+      "watchFor": "They go quiet for a day, then come back with a specific request they had been avoiding.",
+      "ifItFails": "They answer 'just FYI' and keep the decision floating. Close the loop yourself so silence cannot be used later. State what you will do and put the burden on them to object. Say: <strong>\"Reading this as no action needed from me. Tell me today if that is wrong.\"</strong>",
+      "counter": "If you catch yourself sending updates with no ask, you are doing this too.\n• Notice you end messages with 'keeping you posted'.\n• Write the one sentence: I need X from you by Y.\n• If you truly need nothing, say 'no action needed' out loud.",
+      "insight": "Forcing the ask hands the decision back. It also makes you the person who cannot be quietly enlisted — useful with peers, dangerous with the person who writes your review, because they may hear it as refusing to help."
+    }
+  ]
+}
