@@ -1,0 +1,1327 @@
+{
+  "meta": {
+    "id": "srv-no-fingerprints",
+    "version": "1.0",
+    "title": "No Fingerprints",
+    "subtitle": "Getting a Bad Manager Removed Without Being Seen",
+    "description": "A closed file on how bad managers actually get removed: read whether he is already falling, find who above him pays for his mistakes, build a record without complaining, line up the others quietly, and deliver it through someone else. Plus the two chapters nobody writes — what to do the week he goes, and how to survive if he stays.",
+    "author": "AI",
+    "createdAt": "2026-09-16T22:38:17.132Z",
+    "tags": [
+      "office politics",
+      "power",
+      "managers",
+      "careers",
+      "evidence",
+      "coalitions"
+    ],
+    "totalCards": 22,
+    "isSeeded": true,
+    "coverColor": "#243039",
+    "coverIcon": "🧤",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "dying",
+      "label": "Read Whether He Is Already Dying",
+      "color": "#4C6A7A"
+    },
+    {
+      "key": "above",
+      "label": "Find Who Above Him Pays The Cost",
+      "color": "#7A5C3E"
+    },
+    {
+      "key": "record",
+      "label": "Build The Record Without Complaining",
+      "color": "#3E6B57"
+    },
+    {
+      "key": "others",
+      "label": "Line Up The Others Quietly",
+      "color": "#6B4A6B"
+    },
+    {
+      "key": "proxy",
+      "label": "Deliver It Through Someone Else",
+      "color": "#8A4B3C"
+    },
+    {
+      "key": "after",
+      "label": "After He Goes",
+      "color": "#5B6B3E"
+    },
+    {
+      "key": "stays",
+      "label": "If It Fails And He Stays",
+      "color": "#7A3B45"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "dying",
+      "danger": "low",
+      "title": "Check Whether He Is Already On His Way Out",
+      "principle": "Sun Tzu: Know the Ground Before You Move",
+      "remember": "Find out if he is already falling before you push.",
+      "when": "You just decided your manager has to go, and you have not moved yet.",
+      "hook": "Most bad managers are already on somebody's list. <strong>Push a man who is already falling and you are the only one with a hand out.</strong>",
+      "truth": "Companies remove managers on their own clock, not yours.\n• Read his scope first: his teams, his meetings, his budget.\n• If he is already shrinking, you only have to stay clean and wait.\n• The trap is spending your one move on a man who was already gone.",
+      "theySee": "A quiet employee who asks a normal question about next year's plan.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Scope shrink",
+          "t": "They moved one of his teams to another manager"
+        },
+        {
+          "icon": "🚪",
+          "l": "Meeting drop",
+          "t": "He is no longer in the meeting where the budget gets decided"
+        },
+        {
+          "icon": "📞",
+          "l": "New skip",
+          "t": "His boss now asks you for updates directly"
+        },
+        {
+          "icon": "❄️",
+          "l": "Hire freeze",
+          "t": "He asks for a new headcount and gets told to wait"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map his meetings",
+          "desc": "Check his calendar for the three meetings that decide money. See if he is still in them."
+        },
+        {
+          "n": "2",
+          "title": "Ask about next year",
+          "desc": "Ask someone in another team who owns your area in next year's plan."
+        },
+        {
+          "n": "3",
+          "title": "Wait two weeks",
+          "desc": "Do nothing else for two weeks. Write down what changes."
+        }
+      ],
+      "script": "\"Out of curiosity — for next year's planning, is our team still under Dave, or is that moving?\"",
+      "example": "Priya was ready to file a complaint about Dave. She checked his calendar first and saw he had been dropped from the quarterly budget review. She waited. Dave was gone in eleven weeks and her name was nowhere near it.",
+      "watchFor": "His boss starts asking you for status directly and stops copying him.",
+      "ifItFails": "You find nothing — his scope is intact and his boss still shields him. Then he is not dying, and you need a reason someone above him cares. Start with the last person who left his team: <strong>\"What did you actually tell HR on your way out?\"</strong>",
+      "counter": "If a quiet colleague suddenly asks about next year's plan, they are reading someone's position.\n• Notice people who ask about the plan and never about the work.\n• Say: \"Nothing is decided. Why do you ask?\"\n• Then check who they spoke to before they came to you.",
+      "insight": "Waiting costs you months you may not have. The real question is whether you can survive the time it takes him to fall on his own."
+    },
+    {
+      "id": 2,
+      "cat": "dying",
+      "danger": "moderate",
+      "title": "Find Out Who Protects Him",
+      "principle": "Greene: Law 19 — Know Who You Are Dealing With",
+      "remember": "Every manager who survives has one person keeping him alive.",
+      "when": "You are sure he is bad, but nothing ever happens to him.",
+      "hook": "Bad managers do not survive on results. <strong>They survive on one relationship, and until you know whose it is, every move you make hits a wall.</strong>",
+      "truth": "Nobody keeps a broken manager for free.\n• Someone above him gets something: loyalty, cover, or an old favour.\n• Find that person and you know which door is closed.\n• The trap is telling your story to his protector.",
+      "theySee": "An employee asking harmless history questions about who joined when.",
+      "signals": [
+        {
+          "icon": "🔗",
+          "l": "Old ties",
+          "t": "They worked together at his last company"
+        },
+        {
+          "icon": "🛡️",
+          "l": "Fast defence",
+          "t": "His boss answers for him before he speaks"
+        },
+        {
+          "icon": "🪂",
+          "l": "Odd rescue",
+          "t": "He kept his job after a failure that cost real money"
+        },
+        {
+          "icon": "🚪",
+          "l": "Private channel",
+          "t": "He walks into his boss's office without a meeting"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask about history",
+          "desc": "Ask a long-serving colleague who hired him and who he came in with."
+        },
+        {
+          "n": "2",
+          "title": "Watch one meeting",
+          "desc": "In his boss's next meeting, note who answers when someone questions his team."
+        },
+        {
+          "n": "3",
+          "title": "Mark the closed door",
+          "desc": "Write the protector's name down. Never carry your case to that person."
+        }
+      ],
+      "script": "\"How long has Dave been here? Did he come in with Karen, or before her?\"",
+      "example": "Tom spent four months building a case and took it to the VP. The VP had hired Dave twice, at two companies. Tom got a poor review that cycle. He started again with Finance, who had been eating Dave's overruns all year.",
+      "watchFor": "The name you wrote down steps in to answer for him in the next meeting.",
+      "ifItFails": "You find no protector and he still survives. Then his shield is his numbers, not a person. Stop hunting allies above him and find the number he hides. Ask the finance analyst: <strong>\"Can you send me how our team tracked against budget the last two quarters? I want to plan better.\"</strong>",
+      "counter": "If someone asks who hired you and who you arrived with, they are mapping your protection.\n• Notice history questions that have nothing to do with the work.\n• Say: \"Why — are you writing a book?\" and stop there.\n• Never name your own patron. Naming him makes him a target.",
+      "insight": "Knowing the protector tells you where not to go, which is worth more than a list of friends. The map expires the day the org chart changes, so do not build a year's plan on it."
+    },
+    {
+      "id": 3,
+      "cat": "dying",
+      "danger": "low",
+      "title": "Count How Many People Left His Team",
+      "principle": "Base Rates — The Attrition Number",
+      "remember": "Numbers travel upstairs. Stories do not.",
+      "when": "You want proof that is not your word against his.",
+      "hook": "Nobody upstairs will act on how he made you feel. <strong>Six people in fourteen months gets a meeting.</strong>",
+      "truth": "Turnover is the one complaint that reads as a business problem.\n• Count every person who left or transferred under him, with dates.\n• A number is not an accusation, so nobody has to defend him against it.\n• The trap is adding your opinion. That turns the fact back into a complaint.",
+      "theySee": "A careful employee putting team history into a plain list of names and dates.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "Quick turns",
+          "t": "Three people left within a year of joining his team"
+        },
+        {
+          "icon": "↔️",
+          "l": "Quiet moves",
+          "t": "People transfer sideways instead of quitting"
+        },
+        {
+          "icon": "📋",
+          "l": "Backfill hush",
+          "t": "Their jobs get reposted with a different title"
+        },
+        {
+          "icon": "🤐",
+          "l": "Handover gap",
+          "t": "Nobody is told why the last person left"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the leavers",
+          "desc": "Write every name that left or transferred under him in two years, with the month."
+        },
+        {
+          "n": "2",
+          "title": "Get the company average",
+          "desc": "Ask a friendly recruiter what normal turnover is for a unit your size."
+        },
+        {
+          "n": "3",
+          "title": "Hold the list",
+          "desc": "Do not send it yet. It is your one clean card and you can only play it once."
+        }
+      ],
+      "script": "\"Quick question for planning — what's normal yearly turnover for teams our size here? I want to know if we're out of line.\"",
+      "example": "Ana listed nine names over two years, with dates and job titles, on one page. She never wrote a sentence about Dave. When Finance asked why hiring costs had risen, she sent the page. The VP opened an investigation within a week.",
+      "watchFor": "The person you show it to asks for the list as a file instead of a glance.",
+      "ifItFails": "They shrug and say the job market is hot. Turn the list into money: ask the recruiter what one hire costs, then multiply. Send: <strong>\"Nine hires at 40K each is 360K on this team in two years. Is that the plan?\"</strong>",
+      "counter": "If a colleague collects who left and when, they are building a number on someone.\n• Notice a list of names and dates with no opinions on it.\n• Say: \"Useful list. Who asked you for it?\"\n• Find out where the list is going before it arrives.",
+      "insight": "The number gets you the meeting. It does not get you the removal — the harder part is finding who will carry it up."
+    },
+    {
+      "id": 4,
+      "cat": "above",
+      "danger": "moderate",
+      "title": "Find The Team That Pays For His Mistakes",
+      "principle": "Machiavelli: Ally With Those Whose Interest Matches Yours",
+      "remember": "Find who loses money because of him. That person moves.",
+      "when": "Your complaints go nowhere because it all looks like a personality problem.",
+      "hook": "Your suffering is not a business case. <strong>Somebody else's missed number is.</strong>",
+      "truth": "Senior people remove managers who cost them, not managers who upset staff.\n• Find the team that misses its dates because of his delays.\n• Their pain is measured. Yours is not.\n• The trap is asking them to help you. Ask them about their problem instead.",
+      "theySee": "A helpful colleague from another team asking why a handover keeps slipping.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeat slip",
+          "t": "The same team chases your team every month for the same thing"
+        },
+        {
+          "icon": "📨",
+          "l": "Loud emails",
+          "t": "Another manager writes 'as discussed again' in a thread"
+        },
+        {
+          "icon": "📱",
+          "l": "Bypass",
+          "t": "People from that team call you directly instead of him"
+        },
+        {
+          "icon": "⬆️",
+          "l": "Escalation",
+          "t": "That manager copies his own boss on a routine request"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the team that bleeds",
+          "desc": "List the teams that wait on yours. Pick the one that complains in writing."
+        },
+        {
+          "n": "2",
+          "title": "Ask one question",
+          "desc": "Ask their manager what your team's delays cost them this quarter."
+        },
+        {
+          "n": "3",
+          "title": "Give the dates only",
+          "desc": "Tell them the day the request arrived and the day it went out. Nothing else."
+        }
+      ],
+      "script": "\"You've chased this three times now. What does the delay actually cost you — is it a missed client date?\"",
+      "example": "Marcus stopped talking about Dave's temper. He asked the sales director what two-week spec delays cost her. She said 600K in slipped deals. She raised it herself at the next ops review. By June, Dave managed nobody.",
+      "watchFor": "That manager starts putting the delay in writing to his own boss.",
+      "ifItFails": "They agree it hurts but will not raise it. Make it cheap for them and stop pushing: <strong>\"If it helps, here are the exact request and delivery dates for the last six. Use them however you want.\"</strong> Do not run this on a manager who drinks with your boss.",
+      "counter": "If someone from another team keeps asking what your delays cost, they are building a case with your mouth.\n• Notice money questions from people who never discuss money.\n• Say: \"Costs us time. Why — what are you putting together?\"\n• Answer in ranges, not numbers, until you know where it goes.",
+      "insight": "Anger travels badly. A missed revenue number travels by itself. The next question is whether the team that bleeds outranks the person who protects him."
+    },
+    {
+      "id": 5,
+      "cat": "above",
+      "danger": "moderate",
+      "title": "Learn The One Number His Boss Is Judged On",
+      "principle": "Metric Ownership — What Gets Measured Gets Defended",
+      "remember": "Tie him to the number his boss must protect.",
+      "when": "You get one meeting with someone two levels up and one shot at it.",
+      "hook": "His boss does not care that he is unpleasant. <strong>His boss cares about the one number that decides his own bonus.</strong>",
+      "truth": "Every senior manager defends one or two numbers and ignores the rest.\n• Learn which one: delivery dates, churn, cost, safety, audit findings.\n• Then describe your manager only as a risk to that number.\n• The trap is listing five problems. Pick the one that touches the number.",
+      "theySee": "An employee who talks about the department's targets instead of his own manager.",
+      "signals": [
+        {
+          "icon": "🔂",
+          "l": "Repeat phrase",
+          "t": "His boss names the same metric in every all-hands"
+        },
+        {
+          "icon": "📊",
+          "l": "Slide one",
+          "t": "The first slide of every quarterly deck is the same chart"
+        },
+        {
+          "icon": "🚨",
+          "l": "Panic trigger",
+          "t": "People move fast only when that number is at risk"
+        },
+        {
+          "icon": "💰",
+          "l": "Bonus talk",
+          "t": "Managers mention that target when they talk about pay"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Read the deck",
+          "desc": "Open the last quarterly deck. Write down the first number on it."
+        },
+        {
+          "n": "2",
+          "title": "Write the link",
+          "desc": "Write one sentence that joins his behaviour to that number."
+        },
+        {
+          "n": "3",
+          "title": "Say it once",
+          "desc": "Use that sentence in the skip-level meeting, then stop talking."
+        }
+      ],
+      "script": "\"On-time delivery is what we're graded on, right? Then you should know four of the six people who knew that system have left this team since January.\"",
+      "example": "Leah learned her VP was judged on audit findings and nothing else. She never mentioned Dave's shouting. She said his team had skipped three control checks in a row. The VP had an auditor in the room within a month.",
+      "watchFor": "He repeats your sentence back with his number inside it.",
+      "ifItFails": "He hears it and nothing visible happens. Do not repeat it out loud — put it where it gets read again. Ask: <strong>\"Do you want the skipped checks in the monthly report, or kept verbal?\"</strong> Now he has to choose on paper.",
+      "counter": "If a junior person links your team to your boss's favourite metric, they are aiming past you.\n• Notice someone quoting the department target back at you.\n• Say: \"What made you look at that number?\"\n• Get your own version of the number to your boss first.",
+      "insight": "One sentence about the number beats ten about the man. Do not run this if his boss owns the same problem — you are telling a man his own house is on fire."
+    },
+    {
+      "id": 6,
+      "cat": "above",
+      "danger": "high",
+      "title": "Treat HR As The Company's Lawyer",
+      "principle": "Principal–Agent Problem — HR Serves the Payer",
+      "remember": "HR protects the company from claims, not you from him.",
+      "when": "Someone tells you to take it to HR.",
+      "hook": "HR is not a court. <strong>It is the department that measures how much your manager could cost in a lawsuit.</strong>",
+      "truth": "HR acts when the company's risk rises, not when your week goes badly.\n• Rudeness is not risk. Pay errors, safety and protected-class conduct are risk.\n• Use the words that name real risk, or the file gets closed.\n• The trap is the friendly first chat. It is fact-finding, and he will hear about it.",
+      "theySee": "An employee who sounds organised and knows what a formal complaint means.",
+      "signals": [
+        {
+          "icon": "🤝",
+          "l": "Informal push",
+          "t": "They say let's keep this informal for now"
+        },
+        {
+          "icon": "✍️",
+          "l": "No notes",
+          "t": "They write nothing while you talk"
+        },
+        {
+          "icon": "↩️",
+          "l": "Manager loop",
+          "t": "They ask whether you have raised it with him first"
+        },
+        {
+          "icon": "📅",
+          "l": "Timeline question",
+          "t": "They ask for dates and who else saw it"
+        },
+        {
+          "icon": "🗄️",
+          "l": "File language",
+          "t": "They say they will look into it and give no date"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the category",
+          "desc": "Choose the one part of your case that is a legal risk, not a style problem."
+        },
+        {
+          "n": "2",
+          "title": "Ask about the process first",
+          "desc": "Before the story, ask what happens to it and who gets told."
+        },
+        {
+          "n": "3",
+          "title": "Confirm in writing",
+          "desc": "Email your own summary of the meeting the same day."
+        }
+      ],
+      "script": "\"Before I go into detail — is this a formal complaint or an informal chat? And does Dave get told who raised it?\"",
+      "example": "Sam booked the meeting and asked those two questions first. HR said informal meant Dave would be told. Sam kept it informal, said nothing about himself, and asked about the overtime records instead. HR opened a pay audit, which Dave failed on his own.",
+      "watchFor": "The HR person stops the small talk and picks up a pen.",
+      "ifItFails": "They write nothing and three weeks pass. Move it from a chat to a record: send one email with dates only and ask for a case number. <strong>\"Please confirm this is logged and send me the case reference.\"</strong> Do not run this move inside your probation period.",
+      "counter": "If HR asks who else saw it and how you felt before asking what happened, they are sizing a claim.\n• Notice witness questions arriving before fact questions.\n• Say: \"Happy to answer once I know if this is formal.\"\n• Put your own summary in email the same day.",
+      "insight": "HR moves fast on pay, money and safety, and slowly on everything else. The harder question is whether your case can be told in the company's risk words without becoming a lie."
+    },
+    {
+      "id": 7,
+      "cat": "record",
+      "danger": "low",
+      "title": "Send A Recap After Every Verbal Order",
+      "principle": "Paper Trail — Contemporaneous Notes",
+      "remember": "Write back what he said. Do it the same hour.",
+      "when": "He gives you instructions in person and denies them later.",
+      "hook": "Bad managers work by voice on purpose. <strong>A recap email turns his memory into your record.</strong>",
+      "truth": "Nothing he says out loud exists unless you write it down.\n• Send a short, flat recap within an hour, every time.\n• He must correct it or accept it. Both help you.\n• The trap is a recap that reads like a trap. Keep it boring and useful.",
+      "theySee": "A tidy employee who sends short confirmation emails so nothing gets lost.",
+      "signals": [
+        {
+          "icon": "🚶",
+          "l": "Corridor orders",
+          "t": "He gives the important instructions while walking"
+        },
+        {
+          "icon": "🔀",
+          "l": "Memory shift",
+          "t": "He says he never told you to drop the other task"
+        },
+        {
+          "icon": "🚫",
+          "l": "No written brief",
+          "t": "He refuses to put the deadline in a message"
+        },
+        {
+          "icon": "☎️",
+          "l": "Call instead",
+          "t": "He phones you after you email a question"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three lines",
+          "desc": "Within an hour, email what he asked, the date, and what you dropped for it."
+        },
+        {
+          "n": "2",
+          "title": "Close with one question",
+          "desc": "End with 'shout if I've got that wrong' so his silence counts as yes."
+        },
+        {
+          "n": "3",
+          "title": "File the thread",
+          "desc": "Keep every recap in one folder named after the project, never after him."
+        }
+      ],
+      "script": "\"Quick recap so nothing gets lost: you asked me to move the audit work to next week and take the client deck first. Deadline Thursday. Shout if I've got that wrong.\"",
+      "example": "Nadia sent a three-line recap after every corridor order for six weeks. When Dave told the director she had ignored the audit, she forwarded the thread where he had moved it. The director asked Dave to explain, in front of two people.",
+      "watchFor": "He starts putting instructions in writing without being asked.",
+      "ifItFails": "He phones instead of replying and confirms nothing. Make the silence the record: keep the recaps going and add one line — <strong>\"I'll proceed on this basis unless I hear otherwise by 5pm.\"</strong> Then proceed. Now he has to write to stop you.",
+      "counter": "If someone recaps every conversation in email, they are building a file.\n• Notice recaps that list what they dropped and who told them to.\n• Say: \"Thanks — one correction\" and fix the record every time.\n• Never leave a recap unanswered. Silence is how you lose the argument.",
+      "insight": "The recap protects you long before it accuses him. The harder part comes when the file is thick and still nobody above has a reason to open it."
+    },
+    {
+      "id": 8,
+      "cat": "record",
+      "danger": "low",
+      "title": "Write Dates And Numbers, Never Feelings",
+      "principle": "Evidence Standard — Facts Beat Adjectives",
+      "remember": "Write what a camera would see. Nothing else.",
+      "when": "You start keeping notes about how he treats you.",
+      "hook": "Nobody upstairs can act on 'he was hostile'. <strong>They can act on 'he refused the training request on 4 March and cancelled three one-to-ones in six weeks'.</strong>",
+      "truth": "Adjectives make you the subject. Facts make him the subject.\n• Record date, time, who was there, what was said, what it cost.\n• A file with no emotion in it reads as credible, not bitter.\n• The trap is writing while angry. Write it the next morning.",
+      "theySee": "A calm employee who can name exact dates when asked, with no drama in the voice.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Pattern time",
+          "t": "The same thing happens on the same day of the month"
+        },
+        {
+          "icon": "👥",
+          "l": "Witness present",
+          "t": "Somebody else is in the room when it happens"
+        },
+        {
+          "icon": "💸",
+          "l": "Cost attached",
+          "t": "The behaviour causes a missed date or a lost person"
+        },
+        {
+          "icon": "📎",
+          "l": "Written proof",
+          "t": "There is a message that matches what you remember"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Use four columns",
+          "desc": "Date, what happened, who saw it, what it cost. There is no fifth column."
+        },
+        {
+          "n": "2",
+          "title": "Cut every adjective",
+          "desc": "Delete unfair, hostile, toxic. Replace each one with an action and a date."
+        },
+        {
+          "n": "3",
+          "title": "Attach one proof",
+          "desc": "For each line, save the email, the calendar entry, or the ticket number."
+        }
+      ],
+      "script": "\"On 4 March at 9:15, in the team room, he told me to take Priya's name off the report. Jake was there. The report went out at 11:00 without her name.\"",
+      "example": "Erik kept two years of angry notes that read like a diary. In one evening he rewrote the whole thing as four columns and cut it to nineteen lines. HR read nineteen lines and opened a case that afternoon.",
+      "watchFor": "The person reading it asks about one specific date instead of asking how you feel.",
+      "ifItFails": "They read it and call it management style. Pull only the three lines where the company lost a person or a client date, and send those. <strong>\"These three cost us a person and a delivery date. The rest I'll leave.\"</strong>",
+      "counter": "If a colleague quotes exact dates and times at you, they keep a file.\n• Notice precision where other people are vague.\n• Say: \"You've clearly kept notes. What's the ask?\"\n• Start your own record the same day, in the same four columns.",
+      "insight": "A short factual file beats a long honest one. The next problem is that a good file tempts you to use it early, and early is how most cases die."
+    },
+    {
+      "id": 9,
+      "cat": "record",
+      "danger": "high",
+      "title": "Keep A Copy He Cannot Delete",
+      "principle": "Sun Tzu: Hold Ground You Can Retreat To",
+      "remember": "If it only lives on his systems, it is already gone.",
+      "when": "You realise he can lock your account on any morning he likes.",
+      "hook": "The day they walk you out, your laptop closes. <strong>Everything you built the case on is on the other side of that door.</strong>",
+      "truth": "Access is the quietest weapon a manager has.\n• Keep your own dated notes off company systems, in your own words.\n• Never copy client data, source code, or anything marked confidential.\n• The trap is a bulk download. That is the one thing that turns you into the case.",
+      "theySee": "An employee who quietly stops depending on the shared drive.",
+      "signals": [
+        {
+          "icon": "🔒",
+          "l": "Access games",
+          "t": "He removes you from a shared folder with no explanation"
+        },
+        {
+          "icon": "🗑️",
+          "l": "Thread deleted",
+          "t": "A message you remember is gone from the channel"
+        },
+        {
+          "icon": "📅",
+          "l": "Calendar edit",
+          "t": "A meeting invite changes after the meeting happened"
+        },
+        {
+          "icon": "🕵️",
+          "l": "Sudden audit",
+          "t": "IT asks you about your file activity"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your own notes",
+          "desc": "Type the four-column record in your own document, off company systems."
+        },
+        {
+          "n": "2",
+          "title": "Take single copies only",
+          "desc": "Save only emails you were on, one at a time. Nothing in bulk, ever."
+        },
+        {
+          "n": "3",
+          "title": "Read the data clause once",
+          "desc": "Open your contract and find the line about company information, so you know where it is."
+        }
+      ],
+      "script": "(To yourself, before every save) \"Was I on this message, and does it name me? If not, it stays where it is.\"",
+      "example": "Jonah kept one document at home with dates, names and his own words. They suspended his account on a Tuesday morning and he still had everything that mattered. Two colleagues who had saved it all on the shared drive had nothing by Wednesday.",
+      "watchFor": "He removes you from a folder and your record is unaffected.",
+      "ifItFails": "He cuts your access before you are ready. Stop collecting and ask in writing for what you are owed: <strong>\"Please send me copies of my performance reviews and one-to-one notes for the last two years.\"</strong> Do not run this move if you handle regulated client data — the download log ends your career, not his.",
+      "counter": "If someone keeps private copies of everything, they expect to be cut off.\n• Notice a colleague who stops relying on shared systems.\n• Say nothing. Asking tells them you noticed.\n• Assume any thread you are in gets read by a stranger one day.",
+      "insight": "Holding the record is the price of playing at all. The harder question is what you will never touch even when it would win — that line is what keeps you employable afterwards."
+    },
+    {
+      "id": 10,
+      "cat": "others",
+      "danger": "moderate",
+      "title": "Ask The Question That Makes Others Talk First",
+      "principle": "Voss: Calibrated Question",
+      "remember": "Never say he is bad. Ask how their year went.",
+      "when": "You need to know who else on the team would back you.",
+      "hook": "The first person to say 'he's a nightmare' owns the risk. <strong>Make sure it is not you.</strong>",
+      "truth": "People tell you everything as long as you make no claim.\n• Ask one open question about their work, then stop talking.\n• If they are suffering, they fill the silence themselves.\n• The trap is agreeing too fast. Nod, do not add.",
+      "theySee": "A colleague who asks how their year went and then actually listens.",
+      "signals": [
+        {
+          "icon": "⏸️",
+          "l": "Long pause",
+          "t": "They pause before answering a simple question about their manager"
+        },
+        {
+          "icon": "🫥",
+          "l": "Careful words",
+          "t": "They say it has been a tough quarter and look away"
+        },
+        {
+          "icon": "🚶",
+          "l": "Private venue",
+          "t": "They ask to talk outside the building"
+        },
+        {
+          "icon": "🎈",
+          "l": "Test balloon",
+          "t": "They make a small joke about him and watch your face"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the right person",
+          "desc": "Choose someone who lost something under him: a promotion, a project, a teammate."
+        },
+        {
+          "n": "2",
+          "title": "Ask one open question",
+          "desc": "Ask how the last six months went for them. Then stay silent for ten seconds."
+        },
+        {
+          "n": "3",
+          "title": "Write nothing in front of them",
+          "desc": "Keep your hands still. Write it up later, alone."
+        }
+      ],
+      "script": "\"How have the last six months been for you here, honestly?\"",
+      "example": "Dana asked four people that one question over two weeks. Three of them told her about Dave without her ever saying his name. The fourth told Dave she had been asking — and all she had said was 'how have the last six months been'.",
+      "watchFor": "They keep talking after they have already answered your question.",
+      "ifItFails": "They give you a flat, loyal answer and change the subject. Treat them as his. Close it with a harmless line and never return: <strong>\"Good — glad it's steadier than mine looked from outside.\"</strong> Do not run this on anyone he has promoted.",
+      "counter": "If someone asks how your last six months went and then goes silent, they are fishing.\n• Notice an open question with no claim attached to it.\n• Say: \"Busy. Why — what have you heard?\"\n• Make them go first, or say nothing at all.",
+      "insight": "Asking costs nothing and reveals everything. The harder part is that every person you ask is now a person who can name you."
+    },
+    {
+      "id": 11,
+      "cat": "others",
+      "danger": "high",
+      "title": "Never Be The First Name On A Group Complaint",
+      "principle": "Greene: Law 26 — Keep Your Hands Clean",
+      "remember": "Groups win. The first signature gets fired.",
+      "when": "Colleagues want you to sign a joint letter about him.",
+      "hook": "Joint letters work. <strong>The company answers the group and removes the author.</strong>",
+      "truth": "Investigators look for the organiser before they look at the facts.\n• A group complaint reads as a movement, and movements have leaders.\n• Whoever drafted it, sent it, or booked the room becomes the leader.\n• The trap is doing the admin. Doing the work is how they find you.",
+      "theySee": "A supportive colleague who agrees with everyone and volunteers for nothing.",
+      "signals": [
+        {
+          "icon": "✍️",
+          "l": "Draft passing",
+          "t": "Someone asks you to write the first version"
+        },
+        {
+          "icon": "📍",
+          "l": "Room booking",
+          "t": "Someone asks you to set up the meeting"
+        },
+        {
+          "icon": "🔢",
+          "l": "Name order",
+          "t": "Names are listed by who was keenest, not alphabetically"
+        },
+        {
+          "icon": "❓",
+          "l": "Early asks",
+          "t": "HR asks who brought this together before asking what happened"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Refuse the pen",
+          "desc": "Do not write, edit, or send the letter. Let someone senior hold it."
+        },
+        {
+          "n": "2",
+          "title": "Give facts, not structure",
+          "desc": "Offer your own dates when asked. Do not organise anybody else."
+        },
+        {
+          "n": "3",
+          "title": "Sign late or not at all",
+          "desc": "If you sign, be in the middle of the list, never the top."
+        }
+      ],
+      "script": "\"I'll confirm everything I saw if I'm asked. I'm not the right person to write it — Mark's been here eight years, it carries more weight from him.\"",
+      "example": "Six people signed. Chloe made sure she was fourth and never touched the document. HR asked each of them who started it, and three named the first signature. He was managed out within four months. Chloe was promoted the next year.",
+      "watchFor": "Somebody else volunteers to write it while you stay quiet.",
+      "ifItFails": "The group folds and one person goes alone and gets crushed. Do not join late — that is two dead instead of one. Back them where it is cheap and unlogged: <strong>\"If they call me, I'll confirm the dates. I won't add anything else.\"</strong> Do not take part at all if you are the most senior person in the group; the role lands on you anyway.",
+      "counter": "If someone urges you to write the first draft, they are picking who falls.\n• Notice the person who supplies energy and never paper.\n• Say: \"I'll sign what someone else writes.\"\n• Watch who ends up holding the document at the end.",
+      "insight": "The group gets the result and one person pays for it. The next question is whether you can live with who that turns out to be."
+    },
+    {
+      "id": 12,
+      "cat": "others",
+      "danger": "moderate",
+      "title": "Find The One Person He Cannot Punish",
+      "principle": "Protected Messenger — Status Beats Argument",
+      "remember": "Some people are too valuable to punish. Use one.",
+      "when": "Everyone agrees he is a problem and everyone is afraid.",
+      "hook": "Fear is rational when he writes your review. <strong>So find the one person whose review he does not write.</strong>",
+      "truth": "Every team has somebody he cannot touch.\n• The person leaving next month. The contractor. The star nobody can replace.\n• Their words cost them nothing and cost him everything.\n• The trap is asking them to fight for you. Give them a fact and walk away.",
+      "theySee": "A colleague sharing one piece of information and asking for nothing.",
+      "signals": [
+        {
+          "icon": "🙃",
+          "l": "No fear tell",
+          "t": "They interrupt him in meetings and nothing happens to them"
+        },
+        {
+          "icon": "⏳",
+          "l": "Short runway",
+          "t": "They have already handed in their notice"
+        },
+        {
+          "icon": "🧭",
+          "l": "Outside line",
+          "t": "Their real boss sits in another department"
+        },
+        {
+          "icon": "🧩",
+          "l": "Scarce skill",
+          "t": "The project stops the day they stop"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the untouchables",
+          "desc": "Write the names of people he cannot review, fire, or block."
+        },
+        {
+          "n": "2",
+          "title": "Give one clean fact",
+          "desc": "Tell one of them a dated fact. Ask them for nothing."
+        },
+        {
+          "n": "3",
+          "title": "Stay out of the delivery",
+          "desc": "Do not ask what they did with it. Do not follow up."
+        }
+      ],
+      "script": "\"Before you go — the reason Priya left was the third time he took her name off a report. Do what you want with that.\"",
+      "example": "Owen told a contractor who was leaving in two weeks about the missing overtime records. The contractor mentioned it to the programme director on his last day. Owen's name never appeared anywhere in it.",
+      "watchFor": "The fact comes back to you from a third person who has no idea where it started.",
+      "ifItFails": "They nod and do nothing. Do not hand them a second fact — that makes you the source twice. Go to the next untouchable name and give them a different fact: <strong>\"You'll hear this from someone eventually. Easier you hear it right.\"</strong> Do not use anyone who reports to him, even loosely.",
+      "counter": "If someone hands you damaging information and asks for nothing, you are the messenger.\n• Notice the gift with no request attached.\n• Say: \"Why tell me instead of saying it yourself?\"\n• If you pass it on, pass it on as theirs, not yours.",
+      "insight": "The best messenger is the one with nothing left to lose. This fails when your untouchable turns out to owe him something you never knew about."
+    },
+    {
+      "id": 13,
+      "cat": "proxy",
+      "danger": "low",
+      "title": "Let The People Who Quit Say It",
+      "principle": "Greene: Law 7 — Get Others to Do the Work",
+      "remember": "People in their last week can say anything. You cannot.",
+      "when": "A good colleague hands in their notice.",
+      "hook": "The last week is the only week in a career with no consequences. <strong>Most people waste it being polite.</strong>",
+      "truth": "HR takes notes when someone leaves, and those notes go upstairs as a trend.\n• A leaver can name the manager. A staying employee cannot.\n• Three leavers naming one man becomes a pattern, not a grudge.\n• The trap is coaching them. Ask one question and let them decide.",
+      "theySee": "A colleague wishing them well and asking what they plan to say on the way out.",
+      "signals": [
+        {
+          "icon": "📢",
+          "l": "Notice given",
+          "t": "They just told the team they are leaving"
+        },
+        {
+          "icon": "🔥",
+          "l": "Bitter goodbye",
+          "t": "They say they are done with this place, not just this job"
+        },
+        {
+          "icon": "🙂",
+          "l": "Polite plan",
+          "t": "They say they will keep it positive to protect the reference"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same reason",
+          "t": "Two leavers give the same reason in different words"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what they will say",
+          "desc": "Ask whether HR has booked their leaving interview and what they plan to say."
+        },
+        {
+          "n": "2",
+          "title": "Give them the rule",
+          "desc": "Tell them facts travel upstairs and feelings do not. Say nothing more."
+        },
+        {
+          "n": "3",
+          "title": "Never write it for them",
+          "desc": "Do not send them notes, bullet points, or a draft. Not one line."
+        }
+      ],
+      "script": "\"Are you going to be honest in the HR interview, or keep it nice? If you're honest, give them dates. Dates are the only thing they act on.\"",
+      "example": "Rachel asked three leavers that question over one year. Two of them named Dave with dates. On the third, HR flagged a pattern to the director. Rachel never sat in a single one of those meetings.",
+      "watchFor": "They tell you afterwards that HR asked follow-up questions about him.",
+      "ifItFails": "They keep it nice to protect the reference. Take the cheaper thing instead: <strong>\"Fine — then just fill in the last survey before they switch your account off. It takes four minutes.\"</strong>",
+      "counter": "If a colleague asks what you will say on your way out, they want their case in your mouth.\n• Notice the question arriving the day after you resign.\n• Say: \"Haven't decided. What would you want me to say?\"\n• Whatever you say in that room, expect your manager to hear a version.",
+      "insight": "Leavers are the cheapest weapon in the building and almost nobody uses them. The harder part is that you get one leaver at a time, and a pattern needs three."
+    },
+    {
+      "id": 14,
+      "cat": "proxy",
+      "danger": "moderate",
+      "title": "Answer The Survey Like It Is Not Anonymous",
+      "principle": "Aggregation Effect — Small Samples Expose You",
+      "remember": "Anonymous stops being anonymous under eight people.",
+      "when": "The yearly engagement survey lands in your inbox.",
+      "hook": "A human who knows your team of five reads those comment boxes. <strong>Write the comment that still works if he reads it in your voice.</strong>",
+      "truth": "Surveys move managers because they make a score his boss must explain.\n• Score the manager questions low and honestly. Scores are safe.\n• In the comment box, write only what anyone on the team could have written.\n• The trap is the one detail only you know. That detail is your signature.",
+      "theySee": "A team score that falls on the manager questions with no obvious author.",
+      "signals": [
+        {
+          "icon": "👥",
+          "l": "Small team",
+          "t": "Fewer than eight people answer for your unit"
+        },
+        {
+          "icon": "⚠️",
+          "l": "Slice warning",
+          "t": "The tool says results show only with five or more responses"
+        },
+        {
+          "icon": "🔦",
+          "l": "Hunting",
+          "t": "He asks the team who wrote what after results come out"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Pre-brief",
+          "t": "He tells the team to score fairly before the survey opens"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Score low where it counts",
+          "desc": "Mark the manager and trust questions honestly. Leave the rest high."
+        },
+        {
+          "n": "2",
+          "title": "Strip your fingerprints",
+          "desc": "Remove any event from the comment that only you were present for."
+        },
+        {
+          "n": "3",
+          "title": "Write the business line",
+          "desc": "Name turnover, deadlines or hiring. Never name your own treatment."
+        }
+      ],
+      "script": "\"Turnover on this team has been high for two years and the reasons are not addressed. Several people have left after conflicts with the same manager.\"",
+      "example": "Five people on Kieran's team wrote nearly the same sentence about turnover. Dave demanded to know who wrote it. HR would not say, and the VP had already read five matching comments. The pattern did the work.",
+      "watchFor": "He asks the team who wrote the comments instead of what they meant.",
+      "ifItFails": "The score drops and nothing happens. Scores die without a person attached. Wait a month, then give the team that bleeds one matching fact: <strong>\"You saw the survey. Here's the number behind it — six leavers in two years.\"</strong> Do not write a comment at all if your team has fewer than four people.",
+      "counter": "If a manager hunts for who wrote a comment, he is turning a score into a person.\n• Notice the hunt starting within a day of results.\n• Say: \"No idea. It read like something a few people would write.\"\n• Never confirm a comment, even to a friend.",
+      "insight": "Scores are safe and slow. Names are fast and fatal. The next move is deciding who turns the score into a decision."
+    },
+    {
+      "id": 15,
+      "cat": "proxy",
+      "danger": "high",
+      "title": "Let A Client Say It",
+      "principle": "Cialdini: Authority — The Outside Voice",
+      "remember": "One customer complaint outranks ten staff complaints.",
+      "when": "A client tells you they are unhappy with how your team handles them.",
+      "hook": "Internal complaints are politics. <strong>A client complaint is revenue, and revenue gets a meeting the same day.</strong>",
+      "truth": "Companies protect managers from staff and never from customers.\n• A client can say what you cannot and pays no price for it.\n• You never ask them to complain. You tell them where feedback goes.\n• The trap is being seen to arrange it. Then it is your complaint in a client's clothes.",
+      "theySee": "An employee giving a client the normal route for feedback.",
+      "signals": [
+        {
+          "icon": "😤",
+          "l": "Client venting",
+          "t": "The client complains to you about your own team"
+        },
+        {
+          "icon": "📩",
+          "l": "Direct route",
+          "t": "The client emails you instead of him"
+        },
+        {
+          "icon": "📅",
+          "l": "Missed date",
+          "t": "The client names a date your team missed"
+        },
+        {
+          "icon": "⚠️",
+          "l": "Account risk",
+          "t": "The client asks who else could handle their account"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Do not agree out loud",
+          "desc": "When they complain, stay neutral. Confirm nothing."
+        },
+        {
+          "n": "2",
+          "title": "Give the route",
+          "desc": "Point them at the account director, not at your manager."
+        },
+        {
+          "n": "3",
+          "title": "Step back completely",
+          "desc": "Do not follow up. Do not ask what they sent."
+        }
+      ],
+      "script": "\"I can't comment on that. If you want it dealt with properly, send it to Karen — she owns the account and she'll act on it.\"",
+      "example": "A client told Ben the team had missed three delivery dates. Ben said nothing about Dave and pointed her at the account director. Her email arrived Monday. By Friday the account had a new team lead and Dave had a meeting he could not talk his way out of.",
+      "watchFor": "The account director calls a meeting about the account and your manager is not invited.",
+      "ifItFails": "The client cools off and sends nothing. Never chase them — a chased client says your name. Put the missed dates in the routine report instead: <strong>\"Delivery dates missed on this account: 12 May, 3 June, 27 June.\"</strong> Do not run this if you own the client relationship — the complaint lands on you first.",
+      "counter": "If a colleague points your unhappy client at a senior name, they may be routing a bullet.\n• Notice a helpful referral to someone above your head.\n• Say: \"Send it to me first and I'll pass it up with my side.\"\n• Get your version to that senior name before the client's arrives.",
+      "insight": "Outside voices move companies that ignore inside ones. The risk is real: a complaint big enough to kill him can kill the account, and the account may be your job."
+    },
+    {
+      "id": 16,
+      "cat": "proxy",
+      "danger": "high",
+      "title": "Bring The Skip-Level A Problem, Not A Complaint",
+      "principle": "Greene: Law 13 — Appeal to Their Self-Interest",
+      "remember": "Never ask him to fix a man. Ask him to fix a number.",
+      "when": "You finally get a one-to-one with your manager's boss.",
+      "hook": "Walk in as a victim and you become a problem. <strong>Walk in with his problem and you become useful.</strong>",
+      "truth": "A skip-level boss hears a complaint as work he now has to do.\n• Bring a business problem he already owns, with the cause attached.\n• Let him say the manager's name first. He will.\n• The trap is asking for something. Ask for nothing and you stay clean.",
+      "theySee": "A serious employee briefing him on a delivery risk inside his own area.",
+      "signals": [
+        {
+          "icon": "🚪",
+          "l": "Open door",
+          "t": "He offers skip-levels and almost nobody takes them"
+        },
+        {
+          "icon": "❔",
+          "l": "Known issue",
+          "t": "He has already asked twice why the dates keep slipping"
+        },
+        {
+          "icon": "🙊",
+          "l": "Name avoidance",
+          "t": "He talks about the team's problems and never the manager"
+        },
+        {
+          "icon": "🎣",
+          "l": "Fishing",
+          "t": "He asks how things are going twice in one meeting"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one problem",
+          "desc": "Choose the single problem that costs him money or time. Drop the rest."
+        },
+        {
+          "n": "2",
+          "title": "Give the cause, not the verdict",
+          "desc": "Lay out the facts that lead to your manager. Let him draw the line himself."
+        },
+        {
+          "n": "3",
+          "title": "Ask for nothing",
+          "desc": "End with what you will do next, not what you want him to do."
+        }
+      ],
+      "script": "\"I'm not here to complain. Delivery slipped four times this quarter. Every one waited on a sign-off that took over a week. I wanted you to have the dates.\"",
+      "example": "Ines took the skip-level meeting with one page of sign-off dates. She never said Dave was the problem. The director read the page and said his name himself. She said nothing, and that was the meeting that ended him.",
+      "watchFor": "He says your manager's name before you do.",
+      "ifItFails": "He defends him, or repeats it to him within a day. Assume it lands back on your desk and get ahead of it the same afternoon: <strong>\"I shared the sign-off dates with Karen in my skip-level. Happy to walk you through them.\"</strong> Do not take this meeting if the skip-level is the person who hired him.",
+      "counter": "If someone briefs you with facts that all point one way, they are handing you a verdict.\n• Notice a problem report with one person's fingerprints on every line.\n• Say: \"What do you want me to do with this?\"\n• Check the same dates from a second source before you move.",
+      "insight": "The cleanest kill is the one the senior man believes he found himself. The harder part is holding your face when he says the name."
+    },
+    {
+      "id": 17,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Say Nothing The Week He Goes",
+      "principle": "Survivor Suspicion — The Room Watches the Winner",
+      "remember": "The week he leaves, be the most boring person in the room.",
+      "when": "The announcement lands and people start talking.",
+      "hook": "Everyone knows somebody did this. <strong>Whoever looks pleased gets the credit, and the credit is the wound.</strong>",
+      "truth": "A removal is always followed by a quiet search for who caused it.\n• His allies are still in the building and they have long memories.\n• Silence keeps you out of every version of the story.\n• The trap is one joke. One joke in one kitchen and you are named for years.",
+      "theySee": "A colleague who says something flat about the news and goes back to work.",
+      "signals": [
+        {
+          "icon": "☕",
+          "l": "Kitchen talk",
+          "t": "People start guessing who triggered it"
+        },
+        {
+          "icon": "👁️",
+          "l": "Eye check",
+          "t": "Somebody looks at you when the news is announced"
+        },
+        {
+          "icon": "🧐",
+          "l": "Loyalist probe",
+          "t": "His friend asks you what you know"
+        },
+        {
+          "icon": "🍻",
+          "l": "Celebration bait",
+          "t": "Someone suggests drinks to mark it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say one flat line",
+          "desc": "Use the same neutral sentence with everyone who asks you."
+        },
+        {
+          "n": "2",
+          "title": "Skip the drinks",
+          "desc": "Do not attend anything that could look like a celebration."
+        },
+        {
+          "n": "3",
+          "title": "Talk about next quarter",
+          "desc": "Turn every conversation to the work ahead, and nothing else."
+        }
+      ],
+      "script": "\"I don't know any more than you do. He was here a long time — I hope he lands somewhere good.\"",
+      "example": "Two weeks after Dave left, his old friend in Finance asked Priya what she thought. She gave the same flat line she had given nine times, and he moved on. The colleague who made a joke at drinks was blocked from a transfer a year later, by that same Finance friend.",
+      "watchFor": "People stop asking you about it within a week.",
+      "ifItFails": "Somebody names you directly and says everyone knows it was you. Do not deny hard — a hard denial confirms it. Make it small and dull: <strong>\"If HR had asked me I'd have answered honestly. They didn't.\"</strong> Then change the subject to work and never return to it.",
+      "counter": "If someone is oddly calm when a manager falls, they may have had a hand in it.\n• Notice the person with no opinion at all.\n• Say nothing and watch who they thank privately.\n• Never make the joke in a room you cannot see all of.",
+      "insight": "Winning quietly is a skill most people get to use once. The next problem is that his replacement hears the rumour before they meet you."
+    },
+    {
+      "id": 18,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Take The Work He Was Sitting On",
+      "principle": "Power Vacuum — Occupy the Empty Ground",
+      "remember": "Grab the stalled work in the first two weeks or someone else will.",
+      "when": "His seat is empty and nobody has been named to replace him.",
+      "hook": "For about three weeks nobody owns anything. <strong>Whoever picks up the stuck work is treated as the owner when the music stops.</strong>",
+      "truth": "An interim period hands out authority with no process attached.\n• Find the decisions that have been waiting on him for weeks.\n• Move two of them, then tell the acting boss what you did.\n• The trap is grabbing his title. Take the work, never the chair.",
+      "theySee": "A reliable person unblocking things while everyone else waits for an announcement.",
+      "signals": [
+        {
+          "icon": "📥",
+          "l": "Stuck queue",
+          "t": "Three approvals have been waiting since before he left"
+        },
+        {
+          "icon": "❓",
+          "l": "No name",
+          "t": "Nobody has been announced as the replacement"
+        },
+        {
+          "icon": "🙋",
+          "l": "Asking around",
+          "t": "People ask who signs this now"
+        },
+        {
+          "icon": "🏃",
+          "l": "Acting boss",
+          "t": "A senior manager covers two teams and has no time"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the stuck items",
+          "desc": "Write out every decision that has waited more than two weeks."
+        },
+        {
+          "n": "2",
+          "title": "Clear two of them",
+          "desc": "Pick the two lowest-risk ones, make the call, and tell the acting boss after."
+        },
+        {
+          "n": "3",
+          "title": "Report in one line",
+          "desc": "Send a short Friday note on what moved. Facts only, no opinions."
+        }
+      ],
+      "script": "\"Three things were stuck waiting on sign-off. I moved the two low-risk ones and left the budget item for you. Here's where they stand.\"",
+      "example": "Two days after Dave's seat emptied, Yusuf cleared four stalled approvals and sent the acting director five lines every Friday. When the role was posted six weeks later, the director told him to apply. He got it.",
+      "watchFor": "The acting boss starts sending you the questions he used to send your manager.",
+      "ifItFails": "Someone senior tells you to stay in your lane. Drop the decisions and keep the information: <strong>\"Understood — here's the list of what's waiting, so it's in one place for whoever picks it up.\"</strong> Do not do this at all if a peer has already been named acting lead.",
+      "counter": "If a colleague starts clearing stuck decisions during a gap, they are taking the ground.\n• Notice who answers the questions nobody was assigned.\n• Say: \"Good — let's split the list so it's covered.\"\n• Take your half in writing, the same day.",
+      "insight": "Authority in a gap goes to whoever acts, not whoever asks. This works until the new boss arrives and finds someone already sitting in half the job."
+    },
+    {
+      "id": 19,
+      "cat": "after",
+      "danger": "low",
+      "title": "Set The Terms In The New Boss's First Week",
+      "principle": "Anchoring (Tversky & Kahneman)",
+      "remember": "Whatever you agree in week one becomes normal for a year.",
+      "when": "A new manager starts and asks how things work here.",
+      "hook": "New managers copy whatever they find. <strong>Week one is the only week you get to decide what they find.</strong>",
+      "truth": "A new boss builds a picture of the team in ten days and keeps it for a year.\n• Be early, be useful, and hand them your version of how the work runs.\n• Give facts about the work, never history about the last man.\n• The trap is telling the old story. It makes you sound like trouble on day three.",
+      "theySee": "An organised person handing them a clear picture of the work in week one.",
+      "signals": [
+        {
+          "icon": "🗨️",
+          "l": "Open questions",
+          "t": "They ask everyone what is working and what is not"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Blank calendar",
+          "t": "Their first week has free slots in it"
+        },
+        {
+          "icon": "📚",
+          "l": "Copying",
+          "t": "They ask who did what before they arrived"
+        },
+        {
+          "icon": "🧪",
+          "l": "Loyalty test",
+          "t": "They ask what they should change first"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Book the first meeting",
+          "desc": "Ask for 30 minutes inside their first three days."
+        },
+        {
+          "n": "2",
+          "title": "Bring one page",
+          "desc": "List what you own, what is at risk, and what you need decided this month."
+        },
+        {
+          "n": "3",
+          "title": "Keep him out of it",
+          "desc": "If they ask about the last manager, give one flat sentence and move on."
+        }
+      ],
+      "script": "\"Here's what I own and the three decisions I need from you this month. On the last manager — it was a hard couple of years and people are tired. That's all worth saying.\"",
+      "example": "Hannah booked 30 minutes on the new director's second day with a single page. He used her page in his own first-month plan. A year later she had two of the three decisions and a bigger team.",
+      "watchFor": "They use your words in their own summary to their boss.",
+      "ifItFails": "They cancel, or keep it social and decide nothing. Turn it into paper they cannot avoid: <strong>\"No rush on meeting — but these three need a decision by the 30th, so here they are in writing.\"</strong>",
+      "counter": "If someone books your first days and hands you a page, they are setting your picture of the team.\n• Notice who reaches you before anybody else does.\n• Say: \"Useful. I'll get the same from everyone before I decide.\"\n• Talk to the quietest person on the team before you form a view.",
+      "insight": "The first week buys you a year of assumptions. The harder part is that the last man's file reaches your new boss before you do, and you never get to read it."
+    },
+    {
+      "id": 20,
+      "cat": "stays",
+      "danger": "extreme",
+      "title": "Go Quiet The Day The Complaint Dies",
+      "principle": "Retaliation Window — Sun Tzu: Retreat Is a Move",
+      "remember": "The day he is cleared, stop everything and be useful.",
+      "when": "HR closes the case, he keeps his job, and he knows who raised it.",
+      "hook": "A cleared manager is more dangerous than an uninvestigated one. <strong>He now has proof he is untouchable and a list of names.</strong>",
+      "truth": "The months after a failed complaint are when people get managed out.\n• He will not shout. He will build paper: notes, targets, dates.\n• Your only move is to be boring to attack and expensive to lose.\n• The trap is one more attempt. A second failed complaint is the evidence he needs.",
+      "theySee": "An employee back at work, delivering everything on time, complaining about nothing.",
+      "signals": [
+        {
+          "icon": "📝",
+          "l": "Sudden process",
+          "t": "He starts putting feedback in writing for the first time"
+        },
+        {
+          "icon": "🎯",
+          "l": "New targets",
+          "t": "Your objectives change mid-cycle and get harder"
+        },
+        {
+          "icon": "👔",
+          "l": "Meeting shift",
+          "t": "He moves your one-to-ones to a room with an HR person in it"
+        },
+        {
+          "icon": "🧊",
+          "l": "Isolation",
+          "t": "You are dropped from meetings you used to run"
+        },
+        {
+          "icon": "🚪",
+          "l": "Reference bait",
+          "t": "He asks whether you have looked at jobs elsewhere"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop every move",
+          "desc": "End the collecting, the asking, and the quiet alliances. Today."
+        },
+        {
+          "n": "2",
+          "title": "Deliver visibly",
+          "desc": "Finish and log every task on time. Give him nothing to write down."
+        },
+        {
+          "n": "3",
+          "title": "Keep the record running",
+          "desc": "Keep sending recaps and keeping notes. Send them nowhere."
+        }
+      ],
+      "script": "\"That's behind me. Tell me what you need from me this quarter and I'll get it done.\"",
+      "example": "After the case closed, Gabriel stopped everything and hit every date for five months. Dave's written case against him had nothing in it. When the reorg came, Gabriel moved teams with a clean record and Dave could not block it.",
+      "watchFor": "He takes notes in your one-to-ones and has nothing worth writing down.",
+      "ifItFails": "He builds the case anyway and puts you on a performance plan. Answer it in writing, point by point, with dates — never in a meeting. Send: <strong>\"I'd like to respond to each point in writing, with the delivery date for each item.\"</strong> A written response he must file is the only thing that slows this down. Do not take this back to HR; they have already closed you once.",
+      "counter": "If a cleared manager suddenly gets formal with you, the removal has begun.\n• Notice written feedback where there was only talk before.\n• Say: \"Send that to me in an email so I can act on it.\"\n• Answer every written note in writing, the same day.",
+      "insight": "Surviving a failed attempt is a different game from winning one. The next question is how many months you can hold before the job costs more than it pays."
+    },
+    {
+      "id": 21,
+      "cat": "stays",
+      "danger": "high",
+      "title": "Get Moved Sideways Before Review Season",
+      "principle": "Greene: Law 22 — Use the Surrender Tactic",
+      "remember": "Leave his team before he writes about you.",
+      "when": "He survived, and he writes your review in three months.",
+      "hook": "You cannot win a review he writes. <strong>The only winning move is to be somewhere else when he writes it.</strong>",
+      "truth": "A transfer beats a fight and costs him more than it costs you.\n• Ask for the move on growth grounds, never on his behaviour.\n• Get the receiving manager to want you before anyone else hears it.\n• The trap is telling him early. He blocks it before it is agreed.",
+      "theySee": "An employee asking another manager about their team's work and their plans.",
+      "signals": [
+        {
+          "icon": "⏰",
+          "l": "Review clock",
+          "t": "The review cycle opens in under twelve weeks"
+        },
+        {
+          "icon": "📌",
+          "l": "Open roles",
+          "t": "Another team is hiring for something you can already do"
+        },
+        {
+          "icon": "⛔",
+          "l": "Block history",
+          "t": "He has stopped people from transferring before"
+        },
+        {
+          "icon": "👍",
+          "l": "Friendly pull",
+          "t": "Another manager has praised your work in the last year"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the receiving manager",
+          "desc": "Pick a team that needs your skill and ask for a coffee this week."
+        },
+        {
+          "n": "2",
+          "title": "Get their yes first",
+          "desc": "Say nothing to your manager until the other one wants you."
+        },
+        {
+          "n": "3",
+          "title": "Give a growth reason",
+          "desc": "When you tell him, name the work you want. Never name him."
+        }
+      ],
+      "script": "\"I want to build more of the client-facing side, and your team is where that sits. If you'd take me, I'd like to make the case with you.\"",
+      "example": "Freya lined up a receiving manager in three weeks and only then told Dave. He tried to block it, but the other director had already told HR she wanted her. Freya moved eight days before review season opened.",
+      "watchFor": "The receiving manager raises it with HR before you raise it with your manager.",
+      "ifItFails": "He blocks it and says you are needed where you are. Make the block visible and expensive: <strong>\"Can you confirm in writing that you're declining the transfer, and the business reason? I'll keep it with my development notes.\"</strong> Most blockers fold when asked to write it down. Do not try this inside a performance plan — transfers freeze and the ask becomes evidence.",
+      "counter": "If a strong performer starts exploring other teams, they are leaving your grip.\n• Notice new meetings with managers outside your line.\n• Say: \"Tell me what you want and I'll try to build it here.\"\n• Understand that blocking them in writing is what turns it into a case.",
+      "insight": "A sideways move looks like giving up and is usually the only clean win on the table. The harder part is that the new team hears his version of you first."
+    },
+    {
+      "id": 22,
+      "cat": "stays",
+      "danger": "moderate",
+      "title": "Pick Your Leave Date And Work Backwards",
+      "principle": "Schelling: The Deadline as Commitment",
+      "remember": "Name the date you leave. Then buy options every week.",
+      "when": "Nothing worked, he is staying, and you cannot move teams.",
+      "hook": "Staying without a date is how people lose three years. <strong>A date turns a bad job into a countdown you control.</strong>",
+      "truth": "With no date, every single month looks survivable, and they add up.\n• Pick a real month and write it where only you can see it.\n• Work backwards: money, references, skills, applications, week by week.\n• The trap is telling anyone. A known leaving date makes you cheap to mistreat.",
+      "theySee": "A calm employee doing solid work, with no complaints and no visible plans.",
+      "signals": [
+        {
+          "icon": "➖",
+          "l": "Flat line",
+          "t": "Nothing has changed in six months and nobody has promised it will"
+        },
+        {
+          "icon": "🌙",
+          "l": "Sunday tell",
+          "t": "You sleep badly the night before every work week"
+        },
+        {
+          "icon": "🚧",
+          "l": "Blocked routes",
+          "t": "The transfer and the complaint have both failed"
+        },
+        {
+          "icon": "📞",
+          "l": "Reference risk",
+          "t": "He is the only manager who can speak for your recent work"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the date",
+          "desc": "Choose a month. Write it on paper. Count the weeks left."
+        },
+        {
+          "n": "2",
+          "title": "Collect references now",
+          "desc": "Ask two people who are not your manager for a written reference this month."
+        },
+        {
+          "n": "3",
+          "title": "Apply on a schedule",
+          "desc": "Send two applications every week until the date, good week or bad."
+        }
+      ],
+      "script": "(To a former colleague) \"Can I use you as a reference? I'm planning to move in the next few months and I'd rather ask now than in a hurry.\"",
+      "example": "Marcus wrote 'March' on a card in his desk drawer in September. He got two references in October and applied twice a week all winter. He left in February with a better title and never had to explain Dave to anybody.",
+      "watchFor": "He pushes for a reaction in a meeting, gets a flat answer, and drops it.",
+      "ifItFails": "The date arrives and you have no offer. Move it once, by three months, and change one input: the salary you ask for, the sector, or the story you tell. Then tell one recruiter the truth: <strong>\"I need to move this quarter. What's realistic at my level right now?\"</strong> Never move the date twice.",
+      "counter": "If a steady employee goes calm and stops complaining, they have already decided to leave.\n• Notice complaints stopping while nothing has been fixed.\n• Say: \"What would make you stay another year?\"\n• Ask before the offer exists. After it exists, you are bidding.",
+      "insight": "A date makes every other move cheap, because you stop fearing what he can do to a job you are already leaving. The last question is whether you take the record with you or hand it to the people staying behind."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 84,
+  "manifestVersion": 85,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -754,7 +754,20 @@
       "url": "playbooks/playbook-srv-writing-what-happened-before-anyone-else-does.json",
       "addedAt": "2026-09-25T17:49:32.215Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-no-fingerprints",
+      "title": "No Fingerprints",
+      "theme": "office politics",
+      "topic": "",
+      "cardCount": 22,
+      "contentVersion": 1,
+      "coverColor": "#243039",
+      "coverIcon": "🧤",
+      "url": "playbooks/playbook-srv-no-fingerprints.json",
+      "addedAt": "2026-09-25T17:50:19.981Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-25T17:49:32.215Z"
+  "generatedAt": "2026-09-25T17:50:19.981Z"
 }
