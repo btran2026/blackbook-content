@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 81,
+  "manifestVersion": 82,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -715,7 +715,20 @@
       "url": "playbooks/playbook-srv-bluf.json",
       "addedAt": "2026-09-25T16:52:12.682Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-borrowed-hands",
+      "title": "Borrowed Hands",
+      "theme": "cross-team",
+      "topic": "",
+      "cardCount": 22,
+      "contentVersion": 1,
+      "coverColor": "#2F6F63",
+      "coverIcon": "🤝",
+      "url": "playbooks/playbook-srv-borrowed-hands.json",
+      "addedAt": "2026-09-25T17:48:51.514Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-25T16:52:12.682Z"
+  "generatedAt": "2026-09-25T17:48:51.514Z"
 }

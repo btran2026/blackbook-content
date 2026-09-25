@@ -1,0 +1,1317 @@
+{
+  "meta": {
+    "id": "srv-borrowed-hands",
+    "version": "1.0",
+    "title": "Borrowed Hands",
+    "subtitle": "Getting another team to do work they don't owe you",
+    "description": "Field manual for moving work through people who do not report to you and have no reason to help. Find what they are paid for, pick the door, size the ask, survive the no capacity wall, trade before you escalate, and keep the channel warm for next quarter.",
+    "author": "AI",
+    "createdAt": "2026-09-21T22:59:12.006Z",
+    "tags": [
+      "cross-team",
+      "influence",
+      "negotiation",
+      "workplace",
+      "politics",
+      "escalation"
+    ],
+    "totalCards": 22,
+    "isSeeded": true,
+    "coverColor": "#2F6F63",
+    "coverIcon": "🤝",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "find-paid-for",
+      "label": "Find Out What They Are Paid For",
+      "color": "#2F6F63"
+    },
+    {
+      "key": "entry-point",
+      "label": "Pick Your Entry Point",
+      "color": "#3D6EA8"
+    },
+    {
+      "key": "small-named-ask",
+      "label": "Make The Ask Small And Named",
+      "color": "#8A6A2F"
+    },
+    {
+      "key": "no-capacity",
+      "label": "When They Say No Capacity",
+      "color": "#A2452F"
+    },
+    {
+      "key": "trade-escalate",
+      "label": "Trade, Then Escalate",
+      "color": "#7A3B6E"
+    },
+    {
+      "key": "their-win",
+      "label": "Make Delivery Their Win",
+      "color": "#45794A"
+    },
+    {
+      "key": "keep-channel",
+      "label": "Keep The Channel Open For Next Time",
+      "color": "#4A4F6B"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "find-paid-for",
+      "danger": "low",
+      "title": "Read Their Goals Before You Ask For Anything",
+      "principle": "Pfeffer: Rule 5 — Understand What Others Want",
+      "remember": "Find out what they get graded on. Ask inside that.",
+      "when": "You need work from a team that does not report to your boss.",
+      "hook": "Nobody helps you hit your number. <strong>They help themselves hit theirs.</strong>",
+      "truth": "Every team has three or four goals written down somewhere, and they defend them.\n• Your ask lands only if it moves one of those goals.\n• Inside their goals, your request stops being a favour.\n• Most people pitch their own urgency. That is why they get ignored.",
+      "theySee": "A person from another team who already knows what their team promised this quarter.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "Goal doc",
+          "t": "You find their team goals on the wiki or a shared deck."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeated phrase",
+          "t": "Their lead says the same three words in every all-hands."
+        },
+        {
+          "icon": "📊",
+          "l": "One metric",
+          "t": "They point at the same number in every status meeting."
+        },
+        {
+          "icon": "💰",
+          "l": "Budget line",
+          "t": "Their headcount request names one specific program."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull their goal doc",
+          "desc": "Search the wiki for their team name plus goals or OKR. Read the top three."
+        },
+        {
+          "n": "2",
+          "title": "Rewrite your ask in their words",
+          "desc": "Write one sentence that uses their metric, not yours."
+        },
+        {
+          "n": "3",
+          "title": "Test it on one person",
+          "desc": "Send that sentence to someone friendly on their team. Ask if it sounds right."
+        }
+      ],
+      "script": "\"Before I ask you for anything — is <strong>checkout latency</strong> still your top number this quarter, or did that change?\"",
+      "example": "Dev needed API work from the platform team. He read their goals page first and saw cut support tickets 30 percent. He pitched his request as a ticket-killer. It was on their board in a week.",
+      "watchFor": "They correct your version of their goal and keep talking about it.",
+      "ifItFails": "They answer vaguely and no goal doc exists. Stop guessing and ask their manager for the list directly. Say: <strong>\"Send me your top three for the quarter. I want my ask to fit them, not add noise.\"</strong>",
+      "counter": "If someone opens by quoting your team's metrics, they are running this on you.\n• Notice they name your number before they name their ask.\n• Say: \"That is our goal. What is yours here?\"\n• Make them state the trade before you agree to anything.",
+      "insight": "Knowing their goal gets you a hearing, not a yes. The harder part is proving your work moves their number faster than their own backlog does."
+    },
+    {
+      "id": 2,
+      "cat": "find-paid-for",
+      "danger": "moderate",
+      "title": "Find Out Who Grades Their Work",
+      "principle": "Principal–Agent Problem",
+      "remember": "Aim at the person who writes their review, not at them.",
+      "when": "A team keeps agreeing in meetings and then nothing moves.",
+      "hook": "The person you are asking is not the person who decides. <strong>Find the one who signs their review.</strong>",
+      "truth": "People do the work that shows up in their performance review.\n• Your request has no owner in that review, so it slides.\n• Get their director to name it and it becomes real work.\n• Most people re-ask the same person who has no reason to move.",
+      "theySee": "A colleague who knows which director their team reports to and what that director cares about.",
+      "signals": [
+        {
+          "icon": "⏸️",
+          "l": "Deferred decision",
+          "t": "They say they need to check with someone before committing."
+        },
+        {
+          "icon": "🗂️",
+          "l": "Missing from plan",
+          "t": "Your work never appears on their sprint board or roadmap."
+        },
+        {
+          "icon": "🙂",
+          "l": "Polite warmth",
+          "t": "They are friendly in every meeting and deliver nothing."
+        },
+        {
+          "icon": "🧊",
+          "l": "Review freeze",
+          "t": "They go quiet for two weeks near review deadlines."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map the chain",
+          "desc": "Open the org chart. Write down their manager and their manager's manager."
+        },
+        {
+          "n": "2",
+          "title": "Find the grader's priority",
+          "desc": "Read the director's last team email or all-hands notes. Note one theme."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a named sponsor",
+          "desc": "Ask your contact who on their side would own this if it went ahead."
+        }
+      ],
+      "script": "\"Who on your side would own this if it happened? <strong>I would rather have their name on it now than surprise them later.</strong>\"",
+      "example": "Priya's request sat for six weeks. She learned the engineer's director was judged on migration speed. She renamed the ask as migration cleanup and emailed the director. The engineer was assigned in two days.",
+      "watchFor": "They give you a name and offer to loop that person in.",
+      "ifItFails": "They refuse to name anyone and say the team decides together. Treat that as a polite no. Go sideways: ask your own manager to raise it at the next leads meeting, and send your manager three lines to paste.",
+      "counter": "If someone routes around you to your boss, they are running this on you.\n• Notice your name disappears from the thread.\n• Say: \"I own this queue. Bring it to me first.\"\n• Ask your boss to forward these requests straight back to you.",
+      "insight": "Do not go over the head of someone who can block you every day. The move buys one attempt and spends goodwill you will want in March."
+    },
+    {
+      "id": 3,
+      "cat": "find-paid-for",
+      "danger": "low",
+      "title": "Ask Them What Their Worst Week Looks Like",
+      "principle": "Voss: Calibrated Question",
+      "remember": "Ask what wrecks their week. Then offer to fix it.",
+      "when": "You want work from a team you have never worked with before.",
+      "hook": "Everyone has a job they hate doing. <strong>Find it and you are holding currency.</strong>",
+      "truth": "Teams have one weekly chore that eats their time and earns them no praise.\n• Ask about the chore and they talk freely.\n• Their answer tells you what a favour is worth here.\n• Most people open with their own ask and learn nothing.",
+      "theySee": "A person from another team asking about their workload before asking for anything.",
+      "signals": [
+        {
+          "icon": "😮‍💨",
+          "l": "Sigh tell",
+          "t": "They sigh when one specific system name comes up."
+        },
+        {
+          "icon": "🔂",
+          "l": "Same complaint",
+          "t": "They mention the same manual task twice in one call."
+        },
+        {
+          "icon": "🌙",
+          "l": "Late messages",
+          "t": "Their messages land after 9pm on the same day each week."
+        },
+        {
+          "icon": "📥",
+          "l": "Handoff mess",
+          "t": "They complain that requests arrive with missing information."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Book fifteen minutes",
+          "desc": "Ask for a short call with no agenda except learning their workload."
+        },
+        {
+          "n": "2",
+          "title": "Ask the worst-week question",
+          "desc": "Ask what eats their time that nobody outside their team sees."
+        },
+        {
+          "n": "3",
+          "title": "Write the chore down",
+          "desc": "Note the exact task and who sends it. Keep it for your trade later."
+        }
+      ],
+      "script": "\"What lands on your desk every week that <strong>nobody outside your team even knows you do?</strong>\"",
+      "example": "Tomas ran a fifteen-minute call with the data team. They told him quarterly access reviews ate two days. He wrote them a script, then asked for his report. They shipped it the same sprint.",
+      "watchFor": "They keep talking past your question and hand you a second complaint.",
+      "ifItFails": "They answer in one word and say they are fine. Give them a wrong guess to correct: <strong>\"I hear your team gets stuck cleaning other people's tickets. Is that wrong?\"</strong> People fix a wrong statement faster than they answer an open question.",
+      "counter": "If someone asks about your workload before asking for anything, they are pricing you.\n• Notice the friendly interest with no ask attached.\n• Say: \"Sounds like you need something. What is it?\"\n• Name your price first, before they name the favour.",
+      "insight": "The chore they name is the cheapest thing you will ever buy them with. The trap is fixing it once and then asking three times."
+    },
+    {
+      "id": 4,
+      "cat": "entry-point",
+      "danger": "moderate",
+      "title": "Ask The Person Who Does The Work First",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Get the doer curious. Then let them sell their boss.",
+      "when": "You need a small piece of work and their manager guards the queue.",
+      "hook": "Managers say no for a living. <strong>The person who would do the work says yes for fun.</strong>",
+      "truth": "Managers protect capacity. Doers protect their own interest in a good problem.\n• A curious engineer will size your ask for free.\n• Once they size it, they argue your case inside their team.\n• Most people go to the manager first and get a queue number.",
+      "theySee": "A colleague asking a technical question they enjoy answering.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Fast reply",
+          "t": "The doer answers your message within an hour."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Scope talk",
+          "t": "They start guessing how long the work would take."
+        },
+        {
+          "icon": "🔇",
+          "l": "Manager silence",
+          "t": "The manager has not answered your last two emails."
+        },
+        {
+          "icon": "🎯",
+          "l": "Side interest",
+          "t": "They mention they wanted to fix this anyway."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the doer",
+          "desc": "Check the code owners file, the ticket history, or ask who last touched it."
+        },
+        {
+          "n": "2",
+          "title": "Send a question, not a request",
+          "desc": "Ask how hard the thing would be. Do not ask them to do it."
+        },
+        {
+          "n": "3",
+          "title": "Let them take it up",
+          "desc": "When they give a number, ask what their manager would need to approve it."
+        }
+      ],
+      "script": "\"Quick one — if someone wanted this endpoint to return the store ID, <strong>how big a job is that?</strong> Not asking you to do it. Just sizing.\"",
+      "example": "Ana messaged the engineer who owned the service and asked how hard a field addition would be. He said twenty minutes and pulled it into his own sprint. His manager approved it without ever hearing Ana's name.",
+      "watchFor": "They put a number on the work without being asked to.",
+      "ifItFails": "The doer says they would love to but their manager controls the sprint. Use his words, not yours: ask him to reply with the estimate in writing, then forward that to the manager. Say: <strong>\"Sam says twenty minutes. Can it ride this sprint?\"</strong>",
+      "counter": "If someone pings your team members directly to size work, they are running this on you.\n• Notice estimates appear in threads you were not on.\n• Say: \"Send sizing requests to me, not the team.\"\n• Publish a simple intake link so the side door closes.",
+      "insight": "Some managers treat a message to their team as theft. Learn which ones before you knock. The next question is whether the doer can protect you when his boss finds out."
+    },
+    {
+      "id": 5,
+      "cat": "entry-point",
+      "danger": "low",
+      "title": "Catch Them Before Their Planning Meeting",
+      "principle": "Schelling: Commitment Timing",
+      "remember": "Ask three days before they plan, not the day after.",
+      "when": "You need another team to put your work in their next sprint or quarter.",
+      "hook": "A full plan is a closed door. <strong>Arrive while the plan is still blank.</strong>",
+      "truth": "Every team locks its work in one meeting, then defends the lock.\n• Before that meeting your ask is a candidate. After it, an interruption.\n• Three days early gives the doer time to pre-sell it.\n• Most people ask when they feel the pain, which is always too late.",
+      "theySee": "A colleague who arrives with a clean one-paragraph ask while the plan is still open.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Planning cadence",
+          "t": "Their calendar shows a recurring planning meeting."
+        },
+        {
+          "icon": "🔒",
+          "l": "Freeze language",
+          "t": "They say the sprint is locked when you ask."
+        },
+        {
+          "icon": "🧹",
+          "l": "Grooming day",
+          "t": "They groom their backlog on a fixed weekday."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Quarter edge",
+          "t": "Their roadmap doc changes in the last two weeks of the quarter."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the meeting",
+          "desc": "Ask your contact what day they plan and how far ahead they plan."
+        },
+        {
+          "n": "2",
+          "title": "Set your own reminder",
+          "desc": "Put a reminder three days before each of their planning meetings."
+        },
+        {
+          "n": "3",
+          "title": "Send one paragraph",
+          "desc": "Send the ask, the size, and the date you need it. Nothing else."
+        }
+      ],
+      "script": "\"I know you plan Thursday. One item for the list: <strong>add store ID to the orders endpoint, half a day, needed by the 14th.</strong> Drop it if it does not fit.\"",
+      "example": "Marcus learned the platform team planned every second Tuesday. He sent his ask the Friday before, with a size on it. It went into the sprint. His old habit of asking on Wednesdays had failed four times.",
+      "watchFor": "They reply that they will put it on the list for Thursday.",
+      "ifItFails": "The meeting passes and your item is not on the board. Do not resend the same note. Ask for the smallest version that still fits: <strong>\"Missed the cut, understood. Is there a two-hour version that could go in as spillover?\"</strong>",
+      "counter": "If requests always land right before your planning meeting, someone is timing you.\n• Notice the pattern of Friday afternoon asks.\n• Say: \"Requests close Wednesday noon. Send it then.\"\n• Publish the cutoff so a late ask costs them a cycle.",
+      "insight": "Timing beats persuasion most weeks. This works until their plan is set by someone above them, and then you need a different door."
+    },
+    {
+      "id": 6,
+      "cat": "entry-point",
+      "danger": "low",
+      "title": "Get Introduced By Someone They Already Owe",
+      "principle": "Cialdini: Reciprocity — Borrowed",
+      "remember": "A warm intro from their debtor beats your best email.",
+      "when": "You need work from a team that has no reason to know your name.",
+      "hook": "Your email is spam to them. <strong>Their friend's email is a debt.</strong>",
+      "truth": "Teams pay back people who helped them, not strangers with good arguments.\n• Find who on your side already did them a favour.\n• Their intro moves a slice of that debt to you.\n• Most people cold-ask and read the silence as rudeness.",
+      "theySee": "A message from someone they trust, with your name inside it.",
+      "signals": [
+        {
+          "icon": "🤝",
+          "l": "Shared history",
+          "t": "Someone on your team shipped something with them last year."
+        },
+        {
+          "icon": "📧",
+          "l": "Thank-you thread",
+          "t": "You find an old email where they thanked a colleague."
+        },
+        {
+          "icon": "🎓",
+          "l": "Same origin",
+          "t": "They came from the same previous team or company."
+        },
+        {
+          "icon": "🕳️",
+          "l": "Dead cold ask",
+          "t": "Your direct message sat unread for four days."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the debt",
+          "desc": "Ask your team who has helped that team in the last year."
+        },
+        {
+          "n": "2",
+          "title": "Write the intro for them",
+          "desc": "Send your colleague three lines they can forward without editing."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a vouch, not a pitch",
+          "desc": "Ask them to say you are worth the time, then leave the thread."
+        }
+      ],
+      "script": "\"Can you forward this to Nadia? Three lines: <strong>'Ben helped us with the audit last spring. He needs twenty minutes on the orders API. Worth the time.'</strong>\"",
+      "example": "Leah could not get a reply from the security team. Her colleague Raj had fixed their pipeline in March. Raj sent two sentences. Leah had a call the next morning and the work in the sprint by Friday.",
+      "watchFor": "They reply on the intro thread instead of ignoring it.",
+      "ifItFails": "Your colleague forwards it and nobody answers. The debt is spent or was never real. Find a second connector and shrink the ask: fifteen minutes of advice, not build time. Say: <strong>\"Not asking for hands. Fifteen minutes to tell me if this is even your team.\"</strong>",
+      "counter": "If a stranger arrives wrapped in a friend's name, someone is spending a debt on them.\n• Notice the intro says nothing about the actual work.\n• Say: \"Happy to talk. Send me the ask in writing first.\"\n• Answer the connector about capacity, not the stranger.",
+      "insight": "You can spend someone else's goodwill once. The harder question is what you will owe the connector when they need a door opened."
+    },
+    {
+      "id": 7,
+      "cat": "small-named-ask",
+      "danger": "low",
+      "title": "Ask For Two Hours, Not A Project",
+      "principle": "Freedman & Fraser: Foot-in-the-Door",
+      "remember": "Ask for two hours. The project comes later.",
+      "when": "You need a month of another team's work and you know they will refuse.",
+      "hook": "A project needs approval. <strong>Two hours needs a favour.</strong>",
+      "truth": "Big asks go to a committee. Small asks go to one person's afternoon.\n• Two hours fits in the gap between their real tasks.\n• Once they touch your problem it becomes partly theirs.\n• Most people ask for everything and get a review board.",
+      "theySee": "A colleague asking for one small slot of time with a clear end.",
+      "signals": [
+        {
+          "icon": "📝",
+          "l": "Intake language",
+          "t": "They say your request has to go through intake."
+        },
+        {
+          "icon": "😬",
+          "l": "Size shock",
+          "t": "They wince when you say how long the work takes."
+        },
+        {
+          "icon": "🕳️",
+          "l": "Calendar gaps",
+          "t": "Their calendar shows open afternoons on certain days."
+        },
+        {
+          "icon": "🔬",
+          "l": "Pilot appetite",
+          "t": "They ask whether a smaller version exists."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Cut the ask to one slice",
+          "desc": "Pick the smallest piece that still proves the thing works."
+        },
+        {
+          "n": "2",
+          "title": "Put hours on it",
+          "desc": "Say how many hours it takes. Be honest and be low."
+        },
+        {
+          "n": "3",
+          "title": "Ask for that slice only",
+          "desc": "Do not mention the full project in the first ask."
+        }
+      ],
+      "script": "\"I am not asking for the migration. I am asking for <strong>two hours to test one table.</strong> If it fails we drop it and you never hear about it again.\"",
+      "example": "Owen needed a six-week data build. He asked for two hours on one table instead. The engineer found the join easy, got interested, and pitched the full build to his own lead the next week.",
+      "watchFor": "They ask which two hours instead of whether they can help at all.",
+      "ifItFails": "They still route you to intake. File the two-hour version, not the project, and put the end date in the ticket title. Then message your contact: <strong>\"Filed the small one. Two hours. Ticket 4471.\"</strong>",
+      "counter": "If someone asks for a tiny slice, ask what the whole thing is.\n• Notice the ask has no stated end state.\n• Say: \"What does this become if it works?\"\n• Agree to the slice in writing, with no follow-on promise.",
+      "insight": "The small ask is a door, not honesty. The trap is that you must truly let them stop after two hours, or nobody opens that door twice."
+    },
+    {
+      "id": 8,
+      "cat": "small-named-ask",
+      "danger": "low",
+      "title": "Name One Person, Not The Team",
+      "principle": "Darley & Latané: Diffusion of Responsibility",
+      "remember": "A request sent to everyone is a request sent to nobody.",
+      "when": "You posted your request in their team channel and nobody answered.",
+      "hook": "Five people read your message. <strong>Five people are waiting for one of the others.</strong>",
+      "truth": "A group request has no owner, so everyone assumes someone else will take it.\n• Name one person and that excuse disappears.\n• The named person answers, even if only to say no.\n• Most people post to the channel because it feels polite.",
+      "theySee": "A message with their own name in the first line and a small, clear ask.",
+      "signals": [
+        {
+          "icon": "🔕",
+          "l": "Channel silence",
+          "t": "Your channel post got two emoji and no reply."
+        },
+        {
+          "icon": "🔄",
+          "l": "Round robin",
+          "t": "Each person suggests a different teammate."
+        },
+        {
+          "icon": "📟",
+          "l": "Ignored rota",
+          "t": "Their team runs an on-call rota nobody watches."
+        },
+        {
+          "icon": "👁️",
+          "l": "Read, not answered",
+          "t": "Several people opened your message and nobody replied."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one name",
+          "desc": "Choose the person closest to the work, not the most senior one."
+        },
+        {
+          "n": "2",
+          "title": "Send a direct message",
+          "desc": "Write their name, the ask, the size, and the date. Four lines maximum."
+        },
+        {
+          "n": "3",
+          "title": "Give them a way out",
+          "desc": "Ask them to point you to the right person if it is not them."
+        }
+      ],
+      "script": "\"Nadia — is this yours? <strong>Add store ID to the orders endpoint, half a day, needed the 14th.</strong> If it is not yours, who?\"",
+      "example": "Katya's channel post sat dead for a week. She messaged one engineer by name with the same words. He replied in nine minutes, said it was not his, and named the person who took it.",
+      "watchFor": "They reply within a day, even if only to send you elsewhere.",
+      "ifItFails": "The named person goes quiet for two days. Do not repeat the message. Move it somewhere with witnesses: reply in the team channel and tag them once. Say: <strong>\"Nadia, following up on the store ID ask — yes, no, or someone else?\"</strong>",
+      "counter": "If someone names you in public to force a reply, they are running this on you.\n• Notice your name appears in a channel you rarely read.\n• Say: \"Not mine. Ravi owns that area.\"\n• Redirect once, in public, then stop replying.",
+      "insight": "A named ask gets an answer, which is not a yes. The next problem is what you do with a fast, polite no."
+    },
+    {
+      "id": 9,
+      "cat": "small-named-ask",
+      "danger": "low",
+      "title": "Bring The Work Half Finished",
+      "principle": "Nunes & Drèze: Endowed Progress Effect",
+      "remember": "Do the boring 70 percent. Hand them the last piece.",
+      "when": "You need work from a team with no free time and no interest in your problem.",
+      "hook": "An empty ticket is a chore. <strong>A ticket that is almost done is an itch.</strong>",
+      "truth": "People finish things far more readily than they start them.\n• Do the setup: the data pull, the draft, the failing test.\n• What is left looks like ten minutes, and it usually is.\n• Most people hand over a problem and call it a request.",
+      "theySee": "A ticket with the research done, the branch open, and one clear step left.",
+      "signals": [
+        {
+          "icon": "🌀",
+          "l": "Scoping stall",
+          "t": "They say they need to look into it and never come back."
+        },
+        {
+          "icon": "❓",
+          "l": "Missing context",
+          "t": "They ask three questions you could have answered upfront."
+        },
+        {
+          "icon": "✏️",
+          "l": "Editor, not author",
+          "t": "They edit documents fast but never write the first version."
+        },
+        {
+          "icon": "✅",
+          "l": "Quick merges",
+          "t": "They approve small pull requests within a day."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Do the part you can",
+          "desc": "Write the draft, open the branch, pull the data. Everything that needs no access you lack."
+        },
+        {
+          "n": "2",
+          "title": "Leave one clear step",
+          "desc": "Mark exactly where they take over with a comment or a TODO line."
+        },
+        {
+          "n": "3",
+          "title": "Send it with the size",
+          "desc": "Tell them what is left and how long it takes."
+        }
+      ],
+      "script": "\"Branch is up, tests written, everything passes except the permission check I cannot see. <strong>That is the only line left.</strong> Ten minutes of your eyes?\"",
+      "example": "Gita needed a config change from the infra team. She wrote the pull request herself and left one line for them. The reviewer merged it that afternoon. Her earlier ticket for the same change had sat a month.",
+      "watchFor": "They open your draft and start editing instead of replying.",
+      "ifItFails": "They ignore the draft because they distrust outside changes. Ask for a verdict, not a fix. Say: <strong>\"Do not merge it. Just tell me the one thing that would make you reject this.\"</strong>",
+      "counter": "If nearly finished work lands on you, the finish is the hook.\n• Notice the work arrived without a ticket or a plan.\n• Say: \"Nice start. File it and I will size it properly.\"\n• Put it in your queue at its real cost, not the ten-minute story.",
+      "insight": "Half-finished work buys speed and gives away control of the design. The harder call is when to hand over a draft you do not want changed."
+    },
+    {
+      "id": 10,
+      "cat": "small-named-ask",
+      "danger": "low",
+      "title": "Put An End Date On The Ask",
+      "principle": "Schelling: Commitment Device",
+      "remember": "Say when it ends. Open-ended work scares people off.",
+      "when": "Another team stalls because they fear your request never stops.",
+      "hook": "They are not scared of the work. <strong>They are scared it becomes permanent.</strong>",
+      "truth": "Teams refuse work because every past yes became years of support tickets.\n• An end date turns a commitment into a loan.\n• Write what happens on that date: you own it, or it dies.\n• Most people promise it will be quick, which sounds like a lie.",
+      "theySee": "A written request with a start date, an end date, and a named owner after that.",
+      "signals": [
+        {
+          "icon": "🛟",
+          "l": "Support fear",
+          "t": "They ask who answers questions about this in six months."
+        },
+        {
+          "icon": "🩹",
+          "l": "Old scars",
+          "t": "They mention a past project that never ended."
+        },
+        {
+          "icon": "🏠",
+          "l": "Ownership question",
+          "t": "They ask whose team the code will live in."
+        },
+        {
+          "icon": "🪤",
+          "l": "Hedged yes",
+          "t": "They agree, then add a new condition every week."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the end date",
+          "desc": "Pick a real date when their part stops. Two to six weeks works."
+        },
+        {
+          "n": "2",
+          "title": "Say who owns it after",
+          "desc": "Write that your team takes support from that date onward."
+        },
+        {
+          "n": "3",
+          "title": "Put it in the ticket",
+          "desc": "Add both lines to the ticket description, not just the conversation."
+        }
+      ],
+      "script": "\"Your part ends <strong>March 14.</strong> After that my team owns support, bugs and questions. If it is not working by then, we kill it.\"",
+      "example": "Sunil kept getting soft refusals. He added one line: platform involvement ends April 2, then we own it. The lead approved it the same day and said that was exactly the part he had been worried about.",
+      "watchFor": "They ask you to write the handover date into the ticket.",
+      "ifItFails": "They still hesitate because they do not believe the date. Make it cost you something: take their questions for the first month, in writing. Say: <strong>\"Route any question about this to me for thirty days. I answer, not you.\"</strong>",
+      "counter": "If someone offers a neat end date, ask what happens the day after.\n• Notice the plan stops at delivery and says nothing about support.\n• Say: \"Who answers the pager in month three?\"\n• Get the support owner named in the same ticket.",
+      "insight": "The end date is the cheapest thing you can give away. The trap is that you must honour it, even when keeping them one more week would be easy."
+    },
+    {
+      "id": 11,
+      "cat": "no-capacity",
+      "danger": "moderate",
+      "title": "Ask Them What They Would Have To Drop",
+      "principle": "Opportunity-Cost Framing",
+      "remember": "No capacity is not a fact. Ask what it would push out.",
+      "when": "They tell you they have no capacity this quarter.",
+      "hook": "No capacity is a wall made of words. <strong>Ask for the list behind it.</strong>",
+      "truth": "No capacity means your work ranks below their current list, nothing more.\n• Asking what would drop turns a refusal into a ranking.\n• Your boss can argue with a ranking. Nobody can argue with a wall.\n• Most people accept the wall and go away quietly.",
+      "theySee": "A colleague who takes the no calmly and asks one practical question.",
+      "signals": [
+        {
+          "icon": "🚫",
+          "l": "Blanket no",
+          "t": "They say the team is full without naming a single project."
+        },
+        {
+          "icon": "📆",
+          "l": "No dates",
+          "t": "They will not say when capacity opens up."
+        },
+        {
+          "icon": "🔀",
+          "l": "Shifting reason",
+          "t": "The reason moves from capacity to priority to approval."
+        },
+        {
+          "icon": "🧾",
+          "l": "Board mismatch",
+          "t": "Their sprint board holds fewer items than they claim."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Accept the no out loud",
+          "desc": "Say you understand before you ask anything else."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the trade",
+          "desc": "Ask what would have to move if this became a must-do."
+        },
+        {
+          "n": "3",
+          "title": "Get the decider's name",
+          "desc": "Ask who would make that call. Write the name down."
+        }
+      ],
+      "script": "\"Fair enough. If this did become a must-do, <strong>what drops to make room, and who decides that?</strong>\"",
+      "example": "Rachel got a flat no from the reporting team. She asked what would drop. The lead named the vendor migration, already three weeks late. Her director raised that trade in the ops meeting and the work got scheduled.",
+      "watchFor": "They name a specific project instead of repeating that they are full.",
+      "ifItFails": "They name nothing and repeat that the team is full. Put the refusal in writing so it becomes a record. Email: <strong>\"Confirming: no capacity this quarter and no trade available. I will tell my director that. Correct me if I have it wrong.\"</strong>",
+      "counter": "If someone asks what you would drop, they are turning your no into a ranking.\n• Notice the question aims past you at your boss.\n• Say: \"File the request and I will rank it with the rest.\"\n• Never name a droppable project out loud to an outsider.",
+      "insight": "Said fast, this reads as a threat to a peer who already feels squeezed. Say it flat and slow, and never to someone who signs off on your releases."
+    },
+    {
+      "id": 12,
+      "cat": "no-capacity",
+      "danger": "low",
+      "title": "Treat No As A Date, Not A Verdict",
+      "principle": "Schelling: Future Commitment",
+      "remember": "Do not argue with the no. Book the next window.",
+      "when": "They say no, and their reason is timing rather than the work itself.",
+      "hook": "Most refusals have an expiry date. <strong>Ask for the date and put it in the calendar.</strong>",
+      "truth": "A no about timing dies on its own, if you are still there when the clock runs out.\n• Ask when the block ends, then book time in that week.\n• A booked meeting survives six weeks. Your email will not.\n• Most people take the no home and start from zero later.",
+      "theySee": "A colleague who accepts the no and sends a calendar invite for next quarter.",
+      "signals": [
+        {
+          "icon": "⏳",
+          "l": "Time words",
+          "t": "They say not this quarter rather than not ever."
+        },
+        {
+          "icon": "🧱",
+          "l": "Named blocker",
+          "t": "They point to one big project as the reason."
+        },
+        {
+          "icon": "🙏",
+          "l": "Soft tone",
+          "t": "They apologise while they refuse."
+        },
+        {
+          "icon": "🚪",
+          "l": "Vague later",
+          "t": "They tell you to come back later without giving a date."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask when it clears",
+          "desc": "Ask which week their current blocker finishes."
+        },
+        {
+          "n": "2",
+          "title": "Send the invite now",
+          "desc": "Book thirty minutes in that week while you are still on the call."
+        },
+        {
+          "n": "3",
+          "title": "Resend the ask before it",
+          "desc": "Two days ahead, send the same one-paragraph ask, unchanged."
+        }
+      ],
+      "script": "\"Understood, not this quarter. <strong>Does the migration land in week three of July?</strong> I will put thirty minutes in your calendar for that week.\"",
+      "example": "Dan took a no from the mobile team in April. He booked a July slot before he left the call. In July the lead opened the meeting by saying the migration was done and asked what Dan needed.",
+      "watchFor": "They accept a calendar invite for a date months away.",
+      "ifItFails": "They decline the future invite too. That is a no about the work, not the timing. Change the ask so the channel survives: request advice instead of hands. Say: <strong>\"Then tell me how you would build it and I will find the hands elsewhere.\"</strong>",
+      "counter": "If someone books a future slot right after your no, they are holding the door open.\n• Notice the invite arrives before you finish refusing.\n• Say: \"Declining for now. Ping me in July if it is still live.\"\n• Do not accept a placeholder you will not honour.",
+      "insight": "Patience looks weak and beats argument most of the time. This works until you learn the calendar was never the real reason."
+    },
+    {
+      "id": 13,
+      "cat": "no-capacity",
+      "danger": "low",
+      "title": "Offer To Do The Ugly Part Yourself",
+      "principle": "Cialdini: Reciprocity — Labour Given First",
+      "remember": "Take the boring half. They will take the rest.",
+      "when": "They say yes in principle but have no hours to spare.",
+      "hook": "They do not lack interest. <strong>They lack the twelve boring hours in the middle.</strong>",
+      "truth": "Most of any task is dull setup that needs no special skill.\n• Offer to do the dull part and their cost drops by half.\n• What is left is the part they actually enjoy.\n• Most people offer thanks instead of hands.",
+      "theySee": "A person from another team offering to do the tedious work themselves.",
+      "signals": [
+        {
+          "icon": "🪙",
+          "l": "Yes but",
+          "t": "They agree the work matters and then mention hours."
+        },
+        {
+          "icon": "🧽",
+          "l": "Data grind",
+          "t": "The task needs a lot of copying, cleaning, or checking."
+        },
+        {
+          "icon": "👓",
+          "l": "Review only",
+          "t": "They say they can review but not build."
+        },
+        {
+          "icon": "🔑",
+          "l": "Access gap",
+          "t": "They say only they hold the credentials for one step."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Split the task in two",
+          "desc": "Write two lists: work that needs their access, and work that does not."
+        },
+        {
+          "n": "2",
+          "title": "Claim the second list",
+          "desc": "Tell them you will do everything that does not need their access."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the narrow part",
+          "desc": "Ask only for the steps on the first list, with a time estimate."
+        }
+      ],
+      "script": "\"I will do the data cleanup and write the test cases myself. <strong>I need you for the deploy step only — about an hour.</strong>\"",
+      "example": "Hannah wanted a report from a swamped analytics team. She pulled and cleaned the raw data herself over two evenings. The analyst only had to run the model. He did it in ninety minutes and offered to help again.",
+      "watchFor": "They start listing which steps they still have to do themselves.",
+      "ifItFails": "They refuse to let an outsider touch any part of it. Ask to sit beside them instead. Say: <strong>\"Give me an hour on a call. You drive, I read out the steps, and you approve every one.\"</strong>",
+      "counter": "If someone offers to do your boring half, check what access it buys them.\n• Notice the free help comes with a request for credentials.\n• Say: \"I will run the steps. Send me the input file.\"\n• Keep the access, hand over the labour.",
+      "insight": "Doing their chores buys the work and teaches them your team is cheap. The next question is when you stop paying that price."
+    },
+    {
+      "id": 14,
+      "cat": "trade-escalate",
+      "danger": "low",
+      "title": "Pay First With Something They Need",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Give them something real before you ask for anything.",
+      "when": "You will need repeated work from a team that owes you nothing.",
+      "hook": "A favour asked is a debt. <strong>A favour given is a claim.</strong>",
+      "truth": "People repay a concrete gift far more reliably than they honour a good argument.\n• Give something they would have paid for: hours, data, a script, a fix.\n• Give it before you ask, not as a trade in the same breath.\n• Most people promise to help back some day and buy nothing.",
+      "theySee": "A colleague who fixed something on their board without being asked.",
+      "signals": [
+        {
+          "icon": "🧹",
+          "l": "Open chore",
+          "t": "They named a weekly chore in your earlier call."
+        },
+        {
+          "icon": "⛔",
+          "l": "Blocked ticket",
+          "t": "A ticket on their board waits on your team's answer."
+        },
+        {
+          "icon": "⚙️",
+          "l": "Tool gap",
+          "t": "They do something by hand that you can script."
+        },
+        {
+          "icon": "🙏",
+          "l": "Thin thanks",
+          "t": "They thanked you once and you never cashed it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a real gift",
+          "desc": "Choose one thing on their list that you can finish this week."
+        },
+        {
+          "n": "2",
+          "title": "Deliver it with no bill",
+          "desc": "Send it done. Do not mention your request in that message."
+        },
+        {
+          "n": "3",
+          "title": "Ask three days later",
+          "desc": "Come back with your ask in a separate message, on another day."
+        }
+      ],
+      "script": "\"Ran your access review as a script — attached. It cuts the job to ten minutes. No strings.\" Three days later: \"Now, the thing I need…\"",
+      "example": "Felix wrote a small script that killed the platform team's weekly export by hand. He sent it with no ask attached. Four days later he asked for an API change. It was in their sprint by Monday.",
+      "watchFor": "They thank you and ask what you are working on.",
+      "ifItFails": "They take the gift and still refuse the ask. Name the trade once, plainly, then stop giving. Say: <strong>\"I took the export off your plate. I need half a day back. Fair or not?\"</strong> If the answer is no, take both facts to their manager.",
+      "counter": "If help arrives unasked from a team with an agenda, price it now.\n• Notice the gift lands right before their planning cycle.\n• Say: \"Thanks. What do you need from us?\"\n• Settle the trade while the number is still small.",
+      "insight": "A debt works while it stays unspoken. Say it out loud too early and you turn a claim into an argument."
+    },
+    {
+      "id": 15,
+      "cat": "trade-escalate",
+      "danger": "moderate",
+      "title": "Put The Trade In Writing Before You Escalate",
+      "principle": "Schelling: Commitment in Writing",
+      "remember": "Write the deal down. Memory always favours the other team.",
+      "when": "Another team agreed to help in a meeting and now denies it.",
+      "hook": "A verbal yes is weather. <strong>A written yes is ground.</strong>",
+      "truth": "Teams forget commitments in exactly the direction that suits them.\n• A four-line recap freezes what was agreed and who agreed it.\n• Sent to both sides, it becomes a record instead of an opinion.\n• Most people trust meeting notes that nobody reads.",
+      "theySee": "A short email listing what each side does, with dates and names.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Scope drift",
+          "t": "The work they describe shrinks a little every week."
+        },
+        {
+          "icon": "👤",
+          "l": "Missing owner",
+          "t": "Nobody on their side is named on the ticket."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Meeting-only yes",
+          "t": "The agreement exists in a call and nowhere else."
+        },
+        {
+          "icon": "🆕",
+          "l": "New faces",
+          "t": "A different person joins from their team and knows nothing."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the recap same day",
+          "desc": "Four lines: what they do, what you do, the dates, who owns support."
+        },
+        {
+          "n": "2",
+          "title": "Send it to both sides",
+          "desc": "Copy your manager and theirs. Keep the tone flat and short."
+        },
+        {
+          "n": "3",
+          "title": "Ask for one word back",
+          "desc": "Ask them to reply confirmed, or correct any line they disagree with."
+        }
+      ],
+      "script": "\"Recap so we share one version: <strong>your team adds the field by the 14th; my team runs the tests and owns support after that.</strong> Reply confirmed, or fix anything I got wrong.\"",
+      "example": "Ines got a verbal yes and sent a four-line recap. Three weeks later their engineer said it was never agreed. Ines forwarded the email with no comment. The work shipped that week.",
+      "watchFor": "They reply with a correction instead of silence.",
+      "ifItFails": "They never reply, which is how they keep it deniable. Treat silence as agreement and say so: <strong>\"No corrections received, so I am building to this. Tell me now if it is wrong.\"</strong> Then plan in public on that basis.",
+      "counter": "If someone recaps a conversation in writing, they are building a record.\n• Notice the recap adds a date nobody said out loud.\n• Say: \"Two corrections before this goes anywhere.\"\n• Reply the same day or the recap becomes the truth.",
+      "insight": "Do not copy their manager on the first recap with a team you need for years. Keep it peer to peer until you actually need the record."
+    },
+    {
+      "id": 16,
+      "cat": "trade-escalate",
+      "danger": "high",
+      "title": "Escalate As A Question, Not A Complaint",
+      "principle": "Greene: Law 9 — Win Through Actions, Never Argument",
+      "remember": "Ask the boss to choose. Never ask them to punish.",
+      "when": "The other team has stalled and you must involve the shared boss.",
+      "hook": "A complaint gives your boss two problems. <strong>A question gives them one decision.</strong>",
+      "truth": "Bosses punish the person who brings drama, not the person who caused it.\n• Frame it as a priority question with two dated options.\n• They pick one, and their pick becomes the other team's instruction.\n• Most people escalate with a story about how hard they tried.",
+      "theySee": "A manager reading five lines that ask them to choose between two dated options.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Third slip",
+          "t": "The date has moved three times with no new date."
+        },
+        {
+          "icon": "🔇",
+          "l": "Silence",
+          "t": "Your last two messages got no reply in a week."
+        },
+        {
+          "icon": "↩️",
+          "l": "Blame drift",
+          "t": "They start explaining why your request was unclear."
+        },
+        {
+          "icon": "💥",
+          "l": "Date collision",
+          "t": "Your delivery date now depends on their missing piece."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Strip the story",
+          "desc": "Delete every sentence about effort, fairness, or how long you waited."
+        },
+        {
+          "n": "2",
+          "title": "Write two options",
+          "desc": "A: they deliver by a date. B: your scope shrinks. Put dates on both."
+        },
+        {
+          "n": "3",
+          "title": "Send it to the shared boss",
+          "desc": "Copy the other lead. Ask for a decision, not a judgement."
+        }
+      ],
+      "script": "\"Need a call on priority. <strong>Option A: platform adds the field by the 14th and we ship on time. Option B: we ship without it and drop the store report.</strong> Either works. Which do you want?\"",
+      "example": "Owen's project stalled five weeks. He sent his VP two dated options and no complaint. The VP replied 'A' in four minutes and copied the platform lead. Work started the next morning.",
+      "watchFor": "The boss replies with a one-word choice and copies the other team.",
+      "ifItFails": "The boss ducks it and tells you both to work it out. Take Option B loudly: announce the reduced scope and its cost in the same thread. Say: <strong>\"Going with B then. The store report drops from this release. Shout if that is wrong.\"</strong>",
+      "counter": "If someone hands your boss two options, they are choosing your work for you.\n• Notice both options cost your team and neither costs theirs.\n• Say: \"There is a third option. Here it is.\"\n• Reply before the boss does, with your own dated choice.",
+      "insight": "Do not run this when their manager outranks yours — you will be the one who looks difficult. The clean version needs one boss above both teams, and you get one shot per quarter."
+    },
+    {
+      "id": 17,
+      "cat": "their-win",
+      "danger": "low",
+      "title": "Let Them Present The Result",
+      "principle": "Credit Transfer — Give The Stage, Keep The Product",
+      "remember": "Give them the microphone. You keep the working thing.",
+      "when": "The other team finished your work and it goes to a leadership review.",
+      "hook": "You want the feature. <strong>They want the slide.</strong> Those are not the same thing.",
+      "truth": "Credit costs you nothing and buys your next three requests.\n• Put their engineer on the demo and their lead sees the value.\n• A team praised for helping you will help you again.\n• Most people guard the credit, then wonder why round two is harder.",
+      "theySee": "Their own engineer on stage, showing the work to your leadership.",
+      "signals": [
+        {
+          "icon": "🎤",
+          "l": "Review booked",
+          "t": "A leadership review is scheduled where the work will be shown."
+        },
+        {
+          "icon": "👔",
+          "l": "Their lead watching",
+          "t": "Their manager asks you how it went."
+        },
+        {
+          "icon": "🫥",
+          "l": "Invisible piece",
+          "t": "Their work is hidden inside the final product."
+        },
+        {
+          "icon": "🖥️",
+          "l": "You own the deck",
+          "t": "You control the slides and the speaking order."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask them to demo",
+          "desc": "Invite the engineer who built it to run the demo section."
+        },
+        {
+          "n": "2",
+          "title": "Put their team on the slide",
+          "desc": "Write their team name next to the piece they built."
+        },
+        {
+          "n": "3",
+          "title": "Say it first, out loud",
+          "desc": "Open by naming their team, before you mention yours."
+        }
+      ],
+      "script": "\"Nadia's team built the hard part. <strong>Nadia, take the demo — it is your work.</strong>\"",
+      "example": "Sam let the platform engineer run the demo at the quarterly review. Her director saw it and repeated it in his own update. Sam's next three requests to that team were approved without a meeting.",
+      "watchFor": "Their manager forwards the demo recording to their own leadership.",
+      "ifItFails": "They decline to present or cannot attend. Put the credit in writing and send it up their chain instead. Email their director: <strong>\"Wanted you to know: Nadia built this and it shipped on time.\"</strong>",
+      "counter": "If someone hands you the stage for work you barely did, check the bill.\n• Notice the praise arrives just before a new request.\n• Say: \"Happy to present. What is the next ask?\"\n• Take the credit and set the next scope yourself.",
+      "insight": "Credit is the cheapest currency in the building and almost everyone hoards it. The trap is giving it away so often that your own boss cannot see your hand in anything."
+    },
+    {
+      "id": 18,
+      "cat": "their-win",
+      "danger": "low",
+      "title": "Send The Praise Up Their Chain, Not Yours",
+      "principle": "Cialdini: Social Proof × Status Routing",
+      "remember": "Thank them where their boss will read it.",
+      "when": "Another team delivered for you and nobody on their side noticed.",
+      "hook": "A thank-you to them is nice. <strong>A thank-you to their boss is payment.</strong>",
+      "truth": "Praise only counts where the performance review happens.\n• Email their manager, not the person, with one concrete number.\n• The engineer gets a review line and knows who put it there.\n• Most people say thanks in a chat message that vanishes by Friday.",
+      "theySee": "Their manager forwarding an email that names them and a number.",
+      "signals": [
+        {
+          "icon": "🫥",
+          "l": "Invisible work",
+          "t": "Their contribution appears in no status report."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Review timing",
+          "t": "Their review cycle falls within the next eight weeks."
+        },
+        {
+          "icon": "🌍",
+          "l": "Manager distance",
+          "t": "Their manager sits in another office or time zone."
+        },
+        {
+          "icon": "🔇",
+          "l": "No praise habit",
+          "t": "Their team has no public channel for recognition."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get one number",
+          "desc": "Find a measurable result: hours saved, tickets cut, seconds dropped."
+        },
+        {
+          "n": "2",
+          "title": "Email their manager",
+          "desc": "Three sentences: who did it, what changed, the number."
+        },
+        {
+          "n": "3",
+          "title": "Copy the person",
+          "desc": "Put the engineer on the copy line so they see it happened."
+        }
+      ],
+      "script": "\"Nadia shipped the store ID change last week. <strong>It cut our manual reconciliation from six hours to twenty minutes.</strong> Wanted you to have that for her review.\"",
+      "example": "Priya emailed the infra director with one number after a small fix. He read it out in his team meeting. The engineer messaged Priya the same day and asked what else she needed.",
+      "watchFor": "The engineer messages you privately to say thanks for the email.",
+      "ifItFails": "The manager never replies and nothing changes. Move the praise somewhere public their leadership reads, with the number in the first line. Post: <strong>\"Credit where it is due — platform's fix cut six hours a week.\"</strong>",
+      "counter": "If a partner team praises you to your boss, they are buying your next yes.\n• Notice the praise carries a number and a team name.\n• Say: \"Glad it worked. What do you need next?\"\n• Bank the goodwill and keep your queue order unchanged.",
+      "insight": "A number in a review beats a compliment in a chat window. The harder part is having a number at all, which means measuring before they start."
+    },
+    {
+      "id": 19,
+      "cat": "their-win",
+      "danger": "low",
+      "title": "Put Their Name In The Release Notes",
+      "principle": "Public Commitment — Ownership by Record",
+      "remember": "Write their name into the record. Records outlive memories.",
+      "when": "The work shipped and the write-up is yours to author.",
+      "hook": "In six months nobody remembers who helped. <strong>The document does.</strong>",
+      "truth": "Written records decide credit long after the meeting ends.\n• Name their team in the release note, the retro and the quarterly slide.\n• Their leadership finds the name without you in the room.\n• Most people write 'thanks to our partners' and buy nothing at all.",
+      "theySee": "Their team name printed in a document that goes to the whole company.",
+      "signals": [
+        {
+          "icon": "✍️",
+          "l": "You hold the pen",
+          "t": "You write the release note or the project summary."
+        },
+        {
+          "icon": "📢",
+          "l": "Wide list",
+          "t": "The note goes to a list that leadership reads."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Vague credit habit",
+          "t": "Past notes say thanks to everyone involved."
+        },
+        {
+          "icon": "📈",
+          "l": "Roadmap slide",
+          "t": "A quarterly slide lists contributing teams."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the team and the person",
+          "desc": "Write both names. Not partners, not the platform team alone."
+        },
+        {
+          "n": "2",
+          "title": "Say what they built",
+          "desc": "One clause naming the specific piece they delivered."
+        },
+        {
+          "n": "3",
+          "title": "Send them the link",
+          "desc": "Message them the published note so they can forward it."
+        }
+      ],
+      "script": "\"Shipped today. <strong>Store ID support built by Nadia Okafor on platform.</strong> Link is in the note — forward it wherever it helps.\"",
+      "example": "Marcus named two infra engineers in a release note that went company-wide. Their director printed it for his wall. When Marcus needed an urgent fix in November, he got it in a day.",
+      "watchFor": "They forward your note into their own team channel.",
+      "ifItFails": "Your note has no real distribution and nobody sees it. Attach the credit to a document that travels: the quarterly deck and the retro. Message them: <strong>\"Put your team on slide four of the QBR. Check I described it right.\"</strong>",
+      "counter": "If your team keeps appearing in another team's documents, look at what it costs.\n• Notice the credit arrives with a growing support burden.\n• Say: \"Happy with the mention. Support still ends on the 14th.\"\n• Keep the end date in the same document as the praise.",
+      "insight": "Written credit is durable and cheap, which is why so few people bother. The next question is whether your own record shows what you did."
+    },
+    {
+      "id": 20,
+      "cat": "keep-channel",
+      "danger": "low",
+      "title": "Close The Loop With Numbers Two Weeks Later",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Come back with the result. Almost nobody ever does.",
+      "when": "The other team delivered and you moved on to the next thing.",
+      "hook": "Everyone asks. Almost nobody comes back and says what happened. <strong>That gap is your opening.</strong>",
+      "truth": "Teams help a stranger once, then help the people who proved it mattered.\n• A two-week follow-up with one number makes their help look smart.\n• It also proves you will not waste their time again.\n• Most people vanish after delivery and start cold next quarter.",
+      "theySee": "A short message two weeks after delivery with a real number in it.",
+      "signals": [
+        {
+          "icon": "🔕",
+          "l": "Silence after ship",
+          "t": "Nobody has mentioned the work since it launched."
+        },
+        {
+          "icon": "📉",
+          "l": "No metric",
+          "t": "Nobody measured what the change actually did."
+        },
+        {
+          "icon": "🔮",
+          "l": "Next ask forming",
+          "t": "You already know you will need them again."
+        },
+        {
+          "icon": "🧊",
+          "l": "Cold restart risk",
+          "t": "Your last contact with them was the delivery ticket."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Measure one thing",
+          "desc": "Pick the single number that changed. Read it two weeks after launch."
+        },
+        {
+          "n": "2",
+          "title": "Send four lines",
+          "desc": "What they built, the number before, the number after, thank you."
+        },
+        {
+          "n": "3",
+          "title": "Ask for nothing",
+          "desc": "Do not attach a new request to this message. Not one line."
+        }
+      ],
+      "script": "\"Two weeks in: your field change took reconciliation from <strong>six hours a week to twenty minutes.</strong> That is it — no ask attached. Thanks.\"",
+      "example": "Lena sent the data team a number fourteen days after launch and asked for nothing. Three months later she needed an urgent pull. The lead answered in an hour and said she was the only person who ever reported back.",
+      "watchFor": "They reply asking what else you are working on.",
+      "ifItFails": "The number is bad and the work did not help. Send it anyway, plainly, with what you learned. Say: <strong>\"Honest update: it saved about an hour a week, not six. Here is why, so we do not repeat it.\"</strong>",
+      "counter": "If someone reports results with no ask attached, they are opening a line of credit.\n• Notice the message is warm, specific, and requests nothing.\n• Say: \"Good to hear. Keep sending those.\"\n• Expect the real ask within a month and set your price early.",
+      "insight": "The follow-up costs ten minutes and outperforms every escalation you will ever send. The harder part is having measured anything at all."
+    },
+    {
+      "id": 21,
+      "cat": "keep-channel",
+      "danger": "low",
+      "title": "Pay Them Back Before You Need Them Again",
+      "principle": "Reciprocity Ledger",
+      "remember": "Settle the debt while you want nothing. That is the trick.",
+      "when": "You owe another team a favour and you will need them again next quarter.",
+      "hook": "Paying a debt when you need something is a trade. <strong>Paying it when you need nothing is a relationship.</strong>",
+      "truth": "A favour repaid at the moment of your next ask reads as a purchase.\n• Repay in the quiet weeks, when you clearly want nothing.\n• They read it as character, not as a transaction.\n• Most people wait until they need something, and it shows.",
+      "theySee": "Help arriving from your team in a month where you asked for nothing.",
+      "signals": [
+        {
+          "icon": "📒",
+          "l": "Open debt",
+          "t": "They did you a real favour in the last quarter."
+        },
+        {
+          "icon": "🔥",
+          "l": "Their crunch",
+          "t": "Their team faces a deadline or an incident."
+        },
+        {
+          "icon": "🤫",
+          "l": "Quiet period",
+          "t": "You have no live request with them right now."
+        },
+        {
+          "icon": "🪑",
+          "l": "Empty seat",
+          "t": "They lost someone and the work stayed."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Track what you owe",
+          "desc": "Keep one list of teams that helped you and what it cost them."
+        },
+        {
+          "n": "2",
+          "title": "Watch for their crunch",
+          "desc": "Note their deadlines. Offer help the week before, not after."
+        },
+        {
+          "n": "3",
+          "title": "Send something bounded",
+          "desc": "Offer one person for two days, or one specific task. Not open help."
+        }
+      ],
+      "script": "\"You have the audit next week and you are a person down. <strong>Take Dev for two days.</strong> We owe you from the store ID work.\"",
+      "example": "Aisha lent an engineer to the security team for two days during their audit crunch. She wanted nothing that quarter. In January they built her integration in a week with no ticket.",
+      "watchFor": "They accept the help and mention the favour from months ago.",
+      "ifItFails": "They decline because taking help feels awkward. Make it smaller and specific, so refusing costs more than accepting. Say: <strong>\"Then send me the ten worst tickets in your queue. I will triage them tonight.\"</strong>",
+      "counter": "If a team pays you back in a quiet month, they are building a claim.\n• Notice the help arrives with no request attached.\n• Say: \"Taking it. What will you need in Q3?\"\n• Name the future trade now, while you still hold the upper hand.",
+      "insight": "A debt paid early costs the same and buys twice as much. The trap is a team that keeps paying you back, because they are saving up for something big."
+    },
+    {
+      "id": 22,
+      "cat": "keep-channel",
+      "danger": "low",
+      "title": "Stop Asking Before They Start Dodging",
+      "principle": "Gracián: Know How to Withdraw",
+      "remember": "Leave one ask on the table. Never drain the well.",
+      "when": "You have asked the same team for three things in one quarter.",
+      "hook": "The fourth ask turns you into a problem. <strong>Skip it.</strong>",
+      "truth": "Every channel has a limit, and it closes quietly before anyone warns you.\n• Count your asks per team per quarter. Two is safe, four is a reputation.\n• Stop one early and they remember you as easy to work with.\n• Most people keep asking until replies slow, which is already too late.",
+      "theySee": "A team that went quiet for a quarter and came back with results instead of requests.",
+      "signals": [
+        {
+          "icon": "🐌",
+          "l": "Slower replies",
+          "t": "Their answers take two days instead of two hours."
+        },
+        {
+          "icon": "📋",
+          "l": "More process",
+          "t": "They ask you to file tickets you used to skip."
+        },
+        {
+          "icon": "👤",
+          "l": "Fewer people",
+          "t": "Only one person from their team joins the calls now."
+        },
+        {
+          "icon": "🤷",
+          "l": "Hedged yes",
+          "t": "They agree but never give you a date."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count your asks",
+          "desc": "List every request you sent that team this quarter. Include the small ones."
+        },
+        {
+          "n": "2",
+          "title": "Kill the weakest one",
+          "desc": "Withdraw your least important request and tell them you withdrew it."
+        },
+        {
+          "n": "3",
+          "title": "Solve the next one elsewhere",
+          "desc": "Take your next request to your own team or a different team."
+        }
+      ],
+      "script": "\"Pulling the second request back — we can do that one ourselves. <strong>You have done enough for us this quarter.</strong>\"",
+      "example": "Jon had three open requests with the platform team and replies were slowing. He withdrew one and said so in writing. The lead thanked him and fast-tracked the other two the following week.",
+      "watchFor": "They reply faster on the requests you kept.",
+      "ifItFails": "The channel has already cooled and pulling one back does not warm it. Go quiet for a full quarter, then send them something useful with no ask. Come back with one small request: <strong>\"First thing I have asked you for since March. Half a day.\"</strong>",
+      "counter": "If a team suddenly withdraws a request, they are managing your goodwill.\n• Notice the withdrawal lands right before their bigger ask.\n• Say: \"Noted. Which one is the real priority?\"\n• Rank their remaining requests yourself and tell them the order.",
+      "insight": "Knowing when to stop asking is what separates a partner from a nuisance. The harder question is what you build so that you need fewer asks next year."
+    }
+  ]
+}
