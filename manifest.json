@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 83,
+  "manifestVersion": 84,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -741,7 +741,20 @@
       "url": "playbooks/playbook-srv-cut-the-bill.json",
       "addedAt": "2026-09-25T17:49:21.298Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-writing-what-happened-before-anyone-else-does",
+      "title": "Writing What Happened Before Anyone Else Does",
+      "theme": "power",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#1B2A41",
+      "coverIcon": "🖊️",
+      "url": "playbooks/playbook-srv-writing-what-happened-before-anyone-else-does.json",
+      "addedAt": "2026-09-25T17:49:32.215Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-25T17:49:21.298Z"
+  "generatedAt": "2026-09-25T17:49:32.215Z"
 }

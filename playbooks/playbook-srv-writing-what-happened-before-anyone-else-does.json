@@ -1,0 +1,1115 @@
+{
+  "meta": {
+    "id": "srv-writing-what-happened-before-anyone-else-does",
+    "version": "1.0",
+    "title": "Writing What Happened Before Anyone Else Does",
+    "subtitle": "The record is written by whoever types first",
+    "description": "Twenty moves on owning the written account of any meeting, argument, or deal. Who types the recap owns what happened. Everyone else is left arguing with a document. Direct, usable, no moralizing.",
+    "author": "AI",
+    "createdAt": "2026-09-19T22:56:47.064Z",
+    "tags": [
+      "power",
+      "office politics",
+      "records",
+      "influence",
+      "email",
+      "meetings",
+      "negotiation"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#1B2A41",
+    "coverIcon": "🖊️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "pen",
+      "label": "Claim The Pen",
+      "color": "#1B2A41"
+    },
+    {
+      "key": "before",
+      "label": "Shape It Before The Room Meets",
+      "color": "#3A5A78"
+    },
+    {
+      "key": "live",
+      "label": "What You Write Down Live",
+      "color": "#4C7A7A"
+    },
+    {
+      "key": "followup",
+      "label": "The Follow-Up Email",
+      "color": "#7A6A3A"
+    },
+    {
+      "key": "corrections",
+      "label": "Handling Their Corrections",
+      "color": "#8A4B3A"
+    },
+    {
+      "key": "cashing",
+      "label": "Cashing The Record Later",
+      "color": "#5B3A6B"
+    },
+    {
+      "key": "theirpen",
+      "label": "When Someone Else Holds The Pen",
+      "color": "#6B2F2F"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "pen",
+      "danger": "low",
+      "title": "Volunteer To Take The Notes",
+      "principle": "Greene: Law 7 — Get Others to Do the Work, Inverted",
+      "remember": "The person who types the notes decides what happened.",
+      "when": "A meeting starts and nobody has said who will write the recap.",
+      "hook": "Everyone thinks notes are grunt work. <strong>Notes are the only version of the meeting that survives past Friday.</strong>",
+      "truth": "Memory fades in about three days. The document does not.\n• You choose which sentences get written and which vanish.\n• Their words become your summary of their words.\n• The trap: if you look eager, someone senior takes the job back.",
+      "theySee": "A helpful colleague offering to do the boring job nobody wants.",
+      "principleNote": "",
+      "signals": [
+        {
+          "icon": "🤫",
+          "l": "Nobody volunteers",
+          "t": "Nobody offers to take notes in the first minute"
+        },
+        {
+          "icon": "📱",
+          "l": "Phones out",
+          "t": "People look at their phones while the meeting starts"
+        },
+        {
+          "icon": "🗣️",
+          "l": "No agenda",
+          "t": "The meeting starts with no written agenda"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat topic",
+          "t": "The same topic came up last month with no record"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Offer in the first minute",
+          "desc": "Say you will take the notes before anyone else thinks about it."
+        },
+        {
+          "n": "2",
+          "title": "Type visible headings",
+          "desc": "Write three headings live: Decisions, Owners, Open items."
+        },
+        {
+          "n": "3",
+          "title": "Send within two hours",
+          "desc": "Send the recap the same day, before anyone writes their own version."
+        }
+      ],
+      "script": "\"I'll take notes and send a recap by end of day — <strong>so we're all working off the same page.</strong>\"",
+      "example": "Priya offered to take notes in a budget meeting where nobody wanted to. She sent the recap at 4pm with the three decisions written in her wording. Six weeks later the finance lead quoted her document back in a board deck. Nobody remembered the meeting; everyone remembered her file.",
+      "watchFor": "People start replying to your recap instead of restating their own version.",
+      "ifItFails": "A senior person says their assistant will send the notes. Do not fight for the job. Send a short personal note to the two people who matter instead: \"<strong>Quick note for my own tracking — here's what I took away. Correct me if I'm off.</strong>\" You now have a second record with your wording in it.",
+      "counter": "If someone always volunteers to take notes, they are doing this to you.\n• Notice whose words survive in the recap and whose disappear.\n• Reply in the thread: \"Adding one line I said that's missing.\"\n• Keep your own short note with dates. Never rely on theirs.",
+      "insight": "The job looks like service and works like ownership. This holds until someone reads your recap line by line — then you need the next card."
+    },
+    {
+      "id": 2,
+      "cat": "pen",
+      "danger": "low",
+      "title": "Send The Agenda The Night Before",
+      "principle": "Anchoring — First Frame Wins",
+      "remember": "Whoever writes the agenda picks what gets argued about.",
+      "when": "A meeting is on the calendar tomorrow and nobody sent an agenda.",
+      "hook": "An agenda looks like housekeeping. <strong>It is the list of questions the room is allowed to ask.</strong>",
+      "truth": "People arrive with no plan and grab the first structure they see.\n• Your three bullets become the shape of the whole hour.\n• Anything you left out needs someone brave to raise it.\n• The trap: too many bullets and people rewrite your list.",
+      "theySee": "A colleague who came prepared and saved everyone time.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Empty invite",
+          "t": "The calendar invite has no description or attachment"
+        },
+        {
+          "icon": "❓",
+          "l": "Unclear purpose",
+          "t": "Two people asked what the meeting is about"
+        },
+        {
+          "icon": "⏰",
+          "l": "Late booking",
+          "t": "The organizer booked the meeting less than a day ahead"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three bullets",
+          "desc": "Write three items only. Put the one you care about second."
+        },
+        {
+          "n": "2",
+          "title": "Send by 6pm",
+          "desc": "Send it the evening before so it is the first thing they read."
+        },
+        {
+          "n": "3",
+          "title": "Name the decision",
+          "desc": "Write the exact decision you want made, in one sentence."
+        }
+      ],
+      "script": "\"Sending a short agenda so we can keep this to 30 minutes: 1) status, 2) <strong>sign-off on the vendor choice</strong>, 3) open risks. Anything to add?\"",
+      "example": "Dan's team kept relitigating the same vendor debate. He sent a three-line agenda at 6pm with \"sign off on vendor\" as item two. The meeting closed the topic in eleven minutes. His framing of the choice was never questioned.",
+      "watchFor": "People open the meeting by reading your bullet one out loud.",
+      "ifItFails": "Someone replies with their own longer agenda. Do not argue about the list. Reply once and merge: \"<strong>Good — folding yours in, order below.</strong>\" Then reorder so your item still sits second, where attention is highest.",
+      "counter": "If someone sends an agenda late at night, check what is missing.\n• Look for the topic that would cost them if raised.\n• Reply before the meeting: \"Adding X to the list.\"\n• Put it in writing, not verbally in the room.",
+      "insight": "An agenda is cheap to send and expensive to fight. The harder question is what you leave off without anyone noticing."
+    },
+    {
+      "id": 3,
+      "cat": "before",
+      "danger": "moderate",
+      "title": "Get Your Version Agreed In A One-On-One First",
+      "principle": "Sun Tzu: Win First, Then Go to Battle",
+      "remember": "Settle it in private, then let the room rubber-stamp it.",
+      "when": "A decision goes to a group meeting and one person there can kill it.",
+      "hook": "Meetings do not decide things. <strong>They confirm things that were already decided in hallways.</strong>",
+      "truth": "People defend positions in public that they would trade in private.\n• A private yes makes a public no feel like a lie.\n• The blocker becomes a co-author instead of a critic.\n• The trap: two private yeses that contradict each other blow up live.",
+      "theySee": "A colleague checking in before the meeting so they are not blindsided.",
+      "signals": [
+        {
+          "icon": "🚧",
+          "l": "Known blocker",
+          "t": "One person killed a similar proposal last quarter"
+        },
+        {
+          "icon": "👥",
+          "l": "Side talk",
+          "t": "Two attendees message each other during meetings"
+        },
+        {
+          "icon": "🔇",
+          "l": "Silent room",
+          "t": "People stay quiet in the meeting, then complain after"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the one blocker",
+          "desc": "Name the single person who can stop this. Ignore the rest."
+        },
+        {
+          "n": "2",
+          "title": "Ask them to shape it",
+          "desc": "Show a draft and ask what they would change. Change one thing."
+        },
+        {
+          "n": "3",
+          "title": "Write their change in",
+          "desc": "Send the updated draft with their edit visible before the meeting."
+        }
+      ],
+      "script": "\"Before I take this to the group — <strong>you'd see the holes in it faster than anyone.</strong> What would you change?\"",
+      "example": "Ellen knew the ops director would object to her rollout plan. She showed him a draft two days early and took his change on the timeline. In the meeting he defended the plan himself. Nobody else pushed back once he spoke.",
+      "watchFor": "They say \"we\" about your proposal instead of \"your\".",
+      "ifItFails": "They give you a vague yes and then attack it in the room. Do not accuse them live. Quote the draft instead: \"<strong>The timeline here is the one you suggested Tuesday — want to adjust it?</strong>\" That forces them to either own the change or drop the attack. Do not run this on someone who signs your review unless you can stomach them knowing you work them.",
+      "counter": "If someone shows you a draft alone before a meeting, they are buying your silence.\n• Notice you are being asked to co-sign, not advise.\n• Say: \"I'll give notes, but I'll raise my open question in the room.\"\n• Keep one objection back and use it publicly.",
+      "insight": "The meeting stops being a fight and becomes a formality. The real trap is running this on three people who each think they shaped it."
+    },
+    {
+      "id": 4,
+      "cat": "before",
+      "danger": "moderate",
+      "title": "Write The Decision Doc Before The Decision",
+      "principle": "Schelling: Commitment Through Prior Position",
+      "remember": "Show up with the answer already typed and dated.",
+      "when": "A group has to choose between options and nobody has written them down.",
+      "hook": "A blank page invites debate. <strong>A written option list invites editing.</strong>",
+      "truth": "People argue with ideas and edit documents.\n• Your three options set the whole range of the choice.\n• Option four never gets invented in the room.\n• The trap: obviously weak filler options make people distrust the list.",
+      "theySee": "Someone who did the homework and laid out the real choices.",
+      "signals": [
+        {
+          "icon": "🌀",
+          "l": "Circular talk",
+          "t": "The team has discussed this twice with no decision"
+        },
+        {
+          "icon": "🗃️",
+          "l": "No paper",
+          "t": "Nobody has written down the options anywhere"
+        },
+        {
+          "icon": "⏳",
+          "l": "Deadline near",
+          "t": "A deadline makes a decision unavoidable this week"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three real options",
+          "desc": "Write three options that could each work. No fake ones."
+        },
+        {
+          "n": "2",
+          "title": "Add a recommendation line",
+          "desc": "Write one line: what you recommend and why, in plain words."
+        },
+        {
+          "n": "3",
+          "title": "Send it 24 hours ahead",
+          "desc": "Send the doc a day early so silence reads as agreement."
+        }
+      ],
+      "script": "\"Wrote up the three options with a recommendation so we don't burn the meeting on framing. <strong>If you disagree with the recommendation, say so in the doc before Thursday.</strong>\"",
+      "example": "Marcus wrote a one-page doc with three vendor options and a recommendation, sent Tuesday for a Thursday call. Two people commented on wording. Nobody proposed a fourth option. The call took twelve minutes and his pick went through.",
+      "watchFor": "Comments land on your wording, not on your list of options.",
+      "ifItFails": "Someone shows up and says the real option is not on your list. Do not defend the doc. Hand them the pen with a cost: \"<strong>Write it up as option four and send it tonight — we'll compare side by side.</strong>\" Most people will not do the work. If they do, you still control the comparison.",
+      "counter": "If a doc arrives with three options and a recommendation, look for the missing one.\n• Ask yourself which option would cost the author something.\n• Say: \"What about doing nothing for a quarter?\"\n• Put your option in writing before the meeting, not during it.",
+      "insight": "Writing the options is more powerful than winning the argument. This works until someone senior asks who approved the list."
+    },
+    {
+      "id": 5,
+      "cat": "before",
+      "danger": "low",
+      "title": "Ask For The Outcome In Writing Beforehand",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Get them to type what they want before the room gets loud.",
+      "when": "You suspect someone will change their position once other people are watching.",
+      "hook": "People move in rooms. <strong>People stay put next to their own emails.</strong>",
+      "truth": "A typed position is harder to abandon than a spoken one.\n• Asking a simple question gets them on the record cheaply.\n• Their email becomes the thing they have to argue against.\n• The trap: if you quote it smugly, they dig in out of pride.",
+      "theySee": "A colleague checking what they want before a meeting, out of respect.",
+      "signals": [
+        {
+          "icon": "🔀",
+          "l": "Position flip",
+          "t": "They said one thing to you and another in the last meeting"
+        },
+        {
+          "icon": "👂",
+          "l": "Room reader",
+          "t": "They wait to hear the senior person before speaking"
+        },
+        {
+          "icon": "💬",
+          "l": "Verbal only",
+          "t": "They give answers by phone and avoid writing anything down"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask one closed question",
+          "desc": "Send one question that can be answered in a sentence."
+        },
+        {
+          "n": "2",
+          "title": "Make it easy to answer",
+          "desc": "Give two choices so they can reply with one word."
+        },
+        {
+          "n": "3",
+          "title": "Save the reply",
+          "desc": "Keep the email. Do not forward it yet."
+        }
+      ],
+      "script": "\"Quick one before Thursday — <strong>are we going with the March date or April?</strong> Just need one word so I can plan.\"",
+      "example": "Tomas asked his director by email which launch date she preferred. She typed \"March\" on Monday. In Thursday's meeting she started to drift toward April. He said the March plan was already in motion and she stayed with March.",
+      "watchFor": "They answer your email in writing instead of calling you about it.",
+      "ifItFails": "They reply \"let's discuss live\" — that is a refusal to commit. Take the meeting and send the summary yourself the same hour: \"<strong>From our call: you're leaning March, decision Thursday. Shout if that's wrong.</strong>\" Silence is now your record.",
+      "counter": "If someone asks you for a written answer before a meeting, they plan to hold you to it.\n• Notice the question is narrow and easy to answer.\n• Reply with a condition: \"March, if the vendor confirms.\"\n• Never give an unconditioned yes in writing before a room meets.",
+      "insight": "A one-word email is worth more than an hour of argument. The next question is how long a written yes stays good before it goes stale."
+    },
+    {
+      "id": 6,
+      "cat": "live",
+      "danger": "low",
+      "title": "Read The Decision Back Out Loud Before Anyone Leaves",
+      "principle": "Voss: Summary and 'That's Right'",
+      "remember": "Say the decision out loud and wait for the nods.",
+      "when": "A meeting is ending and people are already closing laptops.",
+      "hook": "Everyone leaves sure they agreed. <strong>Half of them agreed to a different thing.</strong>",
+      "truth": "Spoken agreement is loose until someone forces it into one sentence.\n• Reading it back makes disagreement happen now, not in three weeks.\n• People who nod on the record cannot quietly reverse later.\n• The trap: read back too much and the meeting reopens.",
+      "theySee": "A colleague making sure everyone leaves with the same understanding.",
+      "signals": [
+        {
+          "icon": "💻",
+          "l": "Laptops close",
+          "t": "People start packing up before anything is confirmed"
+        },
+        {
+          "icon": "🤷",
+          "l": "Vague close",
+          "t": "The organizer ends with \"great, let's move forward\""
+        },
+        {
+          "icon": "🙋",
+          "l": "No owner",
+          "t": "No name was attached to any action item"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Interrupt at minute 55",
+          "desc": "Break in before the meeting ends. Do not wait to be invited."
+        },
+        {
+          "n": "2",
+          "title": "State one decision and one owner",
+          "desc": "Say the decision, then say who owns it, then stop talking."
+        },
+        {
+          "n": "3",
+          "title": "Wait for the nod",
+          "desc": "Stay quiet until someone says yes or corrects you."
+        }
+      ],
+      "script": "\"Before we drop — <strong>decision is we go with the March date, Ravi owns the vendor call by Friday.</strong> Anyone hearing it differently?\"",
+      "example": "Nadia stopped a call at 55 minutes and read back one decision and one owner. Two people said it back differently, and the room spent four minutes fixing it. The project did not stall in week three like the last one did.",
+      "watchFor": "Someone says \"that's right\" or immediately corrects one word.",
+      "ifItFails": "Silence, and people keep packing. Silence is not agreement you can use. Put the burden on them in writing within the hour: \"<strong>Recap below. If nobody objects by noon tomorrow, we proceed as written.</strong>\" Now doing nothing means agreeing with you.",
+      "counter": "If someone reads back a decision as you leave, listen for the edit.\n• They may change one word: \"pilot\" becomes \"rollout\".\n• Say: \"Close — it's a pilot, not a rollout.\"\n• Correct it out loud, in the room, before you leave.",
+      "insight": "Thirty seconds at the end beats three weeks of cleanup. The harder part is doing it when the most senior person already stood up."
+    },
+    {
+      "id": 7,
+      "cat": "live",
+      "danger": "moderate",
+      "title": "Write Down Who Said No",
+      "principle": "Machiavelli: Keep an Account of Debts and Refusals",
+      "remember": "Write the objection and the name next to it.",
+      "when": "Someone pushes back on a plan in a meeting and the group moves on.",
+      "hook": "Objections get forgotten by everyone except the person who wrote them down. <strong>Later, that note decides who gets blamed.</strong>",
+      "truth": "People who block in the room deny blocking when the bill comes.\n• A named objection in a recap locks the person to the position.\n• They either defend it later or quietly help you.\n• The trap: this reads as a threat if you write it with heat.",
+      "theySee": "A neutral note listing who raised which concern.",
+      "signals": [
+        {
+          "icon": "🛑",
+          "l": "Public pushback",
+          "t": "They objected out loud and nobody wrote it down"
+        },
+        {
+          "icon": "🫥",
+          "l": "Quiet retreat",
+          "t": "They dropped the objection when the boss agreed with you"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat blocker",
+          "t": "They objected to the same kind of plan before"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Quote them plainly",
+          "desc": "Write their exact words, not your version of their words."
+        },
+        {
+          "n": "2",
+          "title": "Put the name first",
+          "desc": "Write \"Sam flagged the cost risk\" — name, then concern."
+        },
+        {
+          "n": "3",
+          "title": "Add the resolution line",
+          "desc": "Write what the group decided to do about the concern."
+        }
+      ],
+      "script": "\"Noting it: <strong>Sam flagged the cost risk; group decided to proceed and review at 60 days.</strong> Sam, is that your concern stated fairly?\"",
+      "example": "Grace wrote \"Owen raised the staffing risk; group proceeded anyway\" in her recap. Four months later the project ran short-staffed. Leadership asked who missed it. The recap showed Owen raised it and the group overrode him — and showed Grace documented both.",
+      "watchFor": "They email you to reword their objection instead of ignoring the recap.",
+      "ifItFails": "They say your note makes them look negative. Do not delete it. Offer them the pen: \"<strong>Send me your wording and I'll use it exactly.</strong>\" They now write their own objection into the record, which is better for you than your version. Do not run this on a peer who outranks your access to the boss.",
+      "counter": "If your objection shows up in someone's recap with your name on it, you are being filed.\n• Notice the note keeps your concern but drops your proposed fix.\n• Reply: \"Add the fix I suggested: delay two weeks.\"\n• Never let your name sit next to a problem with no solution.",
+      "insight": "Accurate notes are a weapon precisely because they are accurate. The real trap is writing them with a grudge — that shows, and it kills your credibility."
+    },
+    {
+      "id": 8,
+      "cat": "live",
+      "danger": "low",
+      "title": "Capture The Exact Number And The Exact Date",
+      "principle": "Specificity Beats Recollection",
+      "remember": "Write the number and the day. Vague notes protect nobody.",
+      "when": "Someone in a meeting says \"soon\" or \"about a hundred\" and nobody pins it down.",
+      "hook": "Vague words are escape hatches. <strong>A number and a date close them.</strong>",
+      "truth": "People speak in soft words on purpose so nothing binds them.\n• Asking for the exact number forces a real commitment.\n• Once written, \"soon\" cannot become next quarter.\n• The trap: pin down too many items and you sound like an auditor.",
+      "theySee": "Someone asking a simple clarifying question so the notes are right.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Soft words",
+          "t": "They say soon, roughly, or a few instead of a number"
+        },
+        {
+          "icon": "📉",
+          "l": "No baseline",
+          "t": "Nobody can say what the current number is"
+        },
+        {
+          "icon": "🔄",
+          "l": "Moving date",
+          "t": "The date has shifted twice with no announcement"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the number",
+          "desc": "Say: \"What number should I write down?\" Then wait."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the calendar day",
+          "desc": "Ask for a date, not a month. Write the day."
+        },
+        {
+          "n": "3",
+          "title": "Repeat it back once",
+          "desc": "Say the number and date back so it is on the record."
+        }
+      ],
+      "script": "\"Sorry — <strong>for the notes, what number and what date should I write?</strong> I don't want to guess.\"",
+      "example": "Ken asked a supplier rep \"what date should I write\" when she said shipping would be soon. She said October 14. It slipped, and Ken's recap with October 14 got him a discount instead of an argument.",
+      "watchFor": "They pause, then give a real number instead of repeating the vague word.",
+      "ifItFails": "They refuse to give a number: \"I can't commit to that yet.\" Write the refusal instead — it is just as useful. Say: \"<strong>I'll note that no date is available yet and we'll revisit Friday.</strong>\" Now the missing date is visible to everyone, including their boss.",
+      "counter": "If someone keeps asking you for exact numbers, they are building a file.\n• Notice they ask for dates but never offer their own.\n• Say: \"I'll give you a date when you give me the headcount.\"\n• Trade commitments. Never give one for free.",
+      "insight": "Vague language is a defense, and asking one question strips it. The next question is whether you want them defenseless this early."
+    },
+    {
+      "id": 9,
+      "cat": "followup",
+      "danger": "low",
+      "title": "Send The Recap Within Two Hours",
+      "principle": "Primacy — First Account Becomes Default",
+      "remember": "The first recap sent becomes the true one.",
+      "when": "A meeting just ended and nobody has sent anything yet.",
+      "hook": "Two hours later, memory is still soft. <strong>The first document to land sets it hard.</strong>",
+      "truth": "The brain replaces the meeting with the last account it read.\n• Your recap arrives before anyone builds a competing memory.\n• Anyone objecting later has to argue with a written page.\n• The trap: send it tomorrow and you are just adding a comment.",
+      "theySee": "A fast, organized colleague who sends clean summaries.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "No recap yet",
+          "t": "Nobody has sent a summary an hour after the meeting"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Hallway versions",
+          "t": "Two people describe the meeting differently in the hall"
+        },
+        {
+          "icon": "📌",
+          "l": "High stakes",
+          "t": "The decision affects budget, headcount, or blame"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write it in ten minutes",
+          "desc": "Write decisions, owners, and dates. Nothing else."
+        },
+        {
+          "n": "2",
+          "title": "Use their words for their parts",
+          "desc": "Quote people directly where they committed to something."
+        },
+        {
+          "n": "3",
+          "title": "Send to everyone who was there",
+          "desc": "Copy every attendee plus the one person who missed it."
+        }
+      ],
+      "script": "\"Recap from today. <strong>Decisions: 1) March date, 2) Ravi owns vendor call by Friday.</strong> Corrections welcome — otherwise this is the record.\"",
+      "example": "Anya sent her recap 40 minutes after a project call. Her manager sent a competing summary the next morning. Three people had already replied to Anya's version with \"agreed\". Her manager's note read like an edit to hers.",
+      "watchFor": "Someone replies \"thanks\" or \"agreed\" in the thread within the hour.",
+      "ifItFails": "Someone sends their own competing recap. Do not send a third. Reply inside their thread with one merge line: \"<strong>Same as mine except item 3 — mine says pilot, yours says rollout. Which is it?</strong>\" That turns two documents into one question they must answer.",
+      "counter": "If a recap lands fast after every meeting, read it against your own memory.\n• Look at what got dropped, not only what got added.\n• Reply in the thread within the hour, not the next day.\n• Write: \"One addition\" — and add your line.",
+      "insight": "Speed beats accuracy in setting the record, which is why accuracy plus speed is unbeatable. This works until someone starts reading your recaps line by line."
+    },
+    {
+      "id": 10,
+      "cat": "followup",
+      "danger": "moderate",
+      "title": "Use The Silence Clause",
+      "principle": "Schelling: Default Rule Shifts the Burden",
+      "remember": "Set a deadline. Silence then means yes.",
+      "when": "You need agreement from people who never reply to anything.",
+      "hook": "You cannot make busy people answer. <strong>You can make not answering count as yes.</strong>",
+      "truth": "Most people will not read carefully enough to object in time.\n• A stated deadline makes doing nothing into agreement.\n• The work of objecting moves to them, not you.\n• The trap: use it on a decision they will later call sneaky.",
+      "theySee": "A practical note giving everyone a chance to correct the record.",
+      "signals": [
+        {
+          "icon": "📭",
+          "l": "No replies",
+          "t": "Your last three emails got no response"
+        },
+        {
+          "icon": "🐌",
+          "l": "Slow approvals",
+          "t": "Approvals take two weeks and block your work"
+        },
+        {
+          "icon": "🙈",
+          "l": "Avoidance",
+          "t": "They avoid giving a clear yes or no"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State the decision in one line",
+          "desc": "Write exactly what will happen if nobody replies."
+        },
+        {
+          "n": "2",
+          "title": "Give a short real deadline",
+          "desc": "Give 24 or 48 hours, with a date and a time."
+        },
+        {
+          "n": "3",
+          "title": "Proceed on time",
+          "desc": "When the deadline passes, act and say you acted."
+        }
+      ],
+      "script": "\"Plan below. <strong>If I don't hear objections by Thursday noon, I'll proceed as written.</strong>\"",
+      "example": "Julian sent a migration plan with a Thursday noon cutoff. Nobody replied. He migrated Friday. When a manager complained two weeks later, Julian forwarded the email with the deadline and the complaint stopped.",
+      "watchFor": "Someone replies just before your deadline with a small edit.",
+      "ifItFails": "Someone replies after the deadline claiming they never agreed. Do not argue about the email. Move the fight to the cost: \"<strong>Happy to change it — reversing now costs two weeks. Do you want to own that call?</strong>\" Most people drop it rather than own a delay. Do not run this on a legal, safety, or compliance decision.",
+      "counter": "If an email says silence means agreement, you have been put on a clock.\n• Notice the deadline is short and lands on a busy day.\n• Reply: \"Not agreed yet — hold until we talk Monday.\"\n• One sentence kills the clause. Send it the same day.",
+      "insight": "Shifting who must act is stronger than winning the argument. The real trap is using it on a decision big enough that people go looking for how it happened."
+    },
+    {
+      "id": 11,
+      "cat": "followup",
+      "danger": "moderate",
+      "title": "Copy One Person Higher Than Necessary",
+      "principle": "Greene: Law 5 — Guard Your Reputation With Witnesses",
+      "remember": "Add one senior name and the email stops being deniable.",
+      "when": "Someone keeps ignoring your written summaries of what they agreed to.",
+      "hook": "A private email can be ignored. <strong>An email a director can see cannot.</strong>",
+      "truth": "Behavior changes when an audience exists, even a silent one.\n• The extra name makes ignoring you a visible act.\n• They answer faster and in more careful words.\n• The trap: do it too often and you look like you cannot handle people.",
+      "theySee": "A routine update that happens to include their boss's boss.",
+      "signals": [
+        {
+          "icon": "👻",
+          "l": "Ghosted twice",
+          "t": "They ignored two direct emails from you"
+        },
+        {
+          "icon": "📞",
+          "l": "Phone dodging",
+          "t": "They answer in person but never in writing"
+        },
+        {
+          "icon": "🔁",
+          "l": "Broken promise",
+          "t": "They missed a commitment they made out loud"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a neutral senior name",
+          "desc": "Choose someone with standing who has no stake in the fight."
+        },
+        {
+          "n": "2",
+          "title": "Give a reason for the copy",
+          "desc": "Write one line: why this person needs visibility."
+        },
+        {
+          "n": "3",
+          "title": "Keep the tone flat",
+          "desc": "No complaint, no hint. Facts, dates, and a question."
+        }
+      ],
+      "script": "\"Copying Dana for visibility on timing. <strong>Ravi — still expecting the vendor call by Friday?</strong> Let me know if that's moved.\"",
+      "example": "Sofia's counterpart missed two deadlines and never replied by email. She copied his director on a plain three-line status note. He replied in nine minutes with a date and hit it.",
+      "watchFor": "They reply within the hour when they ignored you for a week.",
+      "ifItFails": "They reply angrily about the copy. Do not apologize for it. Name the cause in one line: \"<strong>I copied Dana because I'd asked twice with no reply. Answer directly and I won't need to.</strong>\" You have now set the price of ignoring you. Do not do this to someone who writes your review.",
+      "counter": "If someone suddenly copies your boss on a routine note, you are being pressured.\n• Notice the email is polite, factual, and newly public.\n• Reply to all with a date, not a defense.\n• Then message them privately: \"Come to me first next time.\"",
+      "insight": "Witnesses cost nothing and change behavior instantly. This works twice with the same person, maybe three times, then it becomes your reputation instead of theirs."
+    },
+    {
+      "id": 12,
+      "cat": "followup",
+      "danger": "low",
+      "title": "Write The Recap So Your Boss Can Forward It",
+      "principle": "Gracián: Make Your Help Easy to Take",
+      "remember": "Write it so your boss can send it up without editing.",
+      "when": "Your boss has to report your project to someone above them.",
+      "hook": "Bosses forward what needs no work. <strong>Write the email they would have to write anyway.</strong>",
+      "truth": "Senior people pass along the cleanest text they have.\n• A forwardable note travels upward with your words intact.\n• Your framing reaches people you never meet.\n• The trap: too long and they rewrite it, and your wording dies.",
+      "theySee": "A tidy update that makes them look organized to their own boss.",
+      "signals": [
+        {
+          "icon": "⬆️",
+          "l": "Upward reporting",
+          "t": "Your boss presents your work in a leadership meeting"
+        },
+        {
+          "icon": "✂️",
+          "l": "They rewrite",
+          "t": "Your boss rewrites your updates before sending them"
+        },
+        {
+          "icon": "📊",
+          "l": "Status season",
+          "t": "Quarterly reviews or board updates are due soon"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Keep it under 120 words",
+          "desc": "Write five lines at most. Cut every detail they would delete."
+        },
+        {
+          "n": "2",
+          "title": "Lead with the result",
+          "desc": "Put the number or the win in the first sentence."
+        },
+        {
+          "n": "3",
+          "title": "Name the people",
+          "desc": "Name who did what, including yourself, once each."
+        }
+      ],
+      "script": "\"Short version if useful upward: <strong>Migration finished Friday, two days early, zero downtime. Ravi ran the vendor side; I ran the cutover.</strong> Risks: none open.\"",
+      "example": "Ben wrote a five-line status note his director forwarded untouched to the VP. The VP replied to the whole chain praising the cutover and used Ben's phrase \"zero downtime\". Ben's name was in the sentence the VP quoted.",
+      "watchFor": "Your boss forwards your note without changing a word.",
+      "ifItFails": "Your boss rewrites it and drops your name. Do not complain. Attach the detail they need next time and make your name structural: \"<strong>Full detail attached — happy to join the VP call to answer the cutover questions.</strong>\" Now removing you removes the answers too.",
+      "counter": "If a teammate sends you notes that are suspiciously easy to forward, check whose name is in them.\n• Notice the wins are specific and the credit is pre-assigned.\n• Add one line before forwarding: \"Also Priya covered testing.\"\n• Forward it, but never forward it unedited.",
+      "insight": "Writing for the reader above your reader is how words travel. The harder part is staying in the sentence once it moves up two levels."
+    },
+    {
+      "id": 13,
+      "cat": "corrections",
+      "danger": "low",
+      "title": "Accept Small Edits Fast And Loudly",
+      "principle": "Cialdini: Reciprocity via Visible Concession",
+      "remember": "Take the small edits quickly and the big line survives.",
+      "when": "Someone replies to your recap asking to change a word or two.",
+      "hook": "Fighting every edit makes every line look negotiable. <strong>Give the small ones away and the big one stops being discussed.</strong>",
+      "truth": "People who get one edit accepted stop reading for more.\n• A fast yes on a small point buys quiet on the main point.\n• They feel heard, and the document stays yours.\n• The trap: concede on the decision line and you lose the whole record.",
+      "theySee": "An easy colleague who updates the notes without argument.",
+      "signals": [
+        {
+          "icon": "✏️",
+          "l": "Small edit",
+          "t": "They asked to change a single word or title"
+        },
+        {
+          "icon": "🧐",
+          "l": "Close reader",
+          "t": "They replied within an hour of your recap"
+        },
+        {
+          "icon": "🎯",
+          "l": "Wrong target",
+          "t": "Their edit avoids the decision line entirely"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say yes in one line",
+          "desc": "Reply within minutes: \"Done, updated.\" Nothing else."
+        },
+        {
+          "n": "2",
+          "title": "Resend the full recap",
+          "desc": "Send the whole document again, not only the changed line."
+        },
+        {
+          "n": "3",
+          "title": "Leave the decision line untouched",
+          "desc": "Change only what they asked. Never touch the main sentence."
+        }
+      ],
+      "script": "\"Good catch — <strong>updated to 'pilot' and resent. Everything else stands as written.</strong>\"",
+      "example": "Rosa's colleague asked to change \"delayed\" to \"rescheduled\" in her recap. She changed it in four minutes and resent the full note. He never mentioned the budget line, which was the part that mattered.",
+      "watchFor": "They reply \"thanks\" and stop reading the rest of the document.",
+      "ifItFails": "They come back with a second and third edit, each bigger. Stop trading. Move it off email: \"<strong>Let's do five minutes live — I'll update once after, not three times.</strong>\" One conversation you control beats a thread they nibble.",
+      "counter": "If someone accepts your small edit instantly, check what they left alone.\n• Notice your edit changed wording, not the decision.\n• Reply again: \"Also, the decision line should say pilot, not rollout.\"\n• Always aim your second edit at the sentence with the money in it.",
+      "insight": "Small edits are cheap currency and most people spend their attention on them. The next question is which line in your recap you would never trade."
+    },
+    {
+      "id": 14,
+      "cat": "corrections",
+      "danger": "moderate",
+      "title": "Make Them Send Their Correction In Writing",
+      "principle": "Voss: Get It in Their Words",
+      "remember": "If they dispute the record, make them type the fix.",
+      "when": "Someone tells you verbally that your recap is wrong.",
+      "hook": "Verbal complaints cost nothing. <strong>Typed corrections cost them a position they have to keep.</strong>",
+      "truth": "People complain loosely and commit carefully.\n• Asking for their wording turns a gripe into a statement.\n• Half of them never send it, and your version stands.\n• The trap: sounding defensive makes them send it out of spite.",
+      "theySee": "A colleague who wants to get the record right and is asking for help.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Hallway gripe",
+          "t": "They complained about your recap in person, not by email"
+        },
+        {
+          "icon": "🚪",
+          "l": "Door closed",
+          "t": "They pulled you aside instead of replying to all"
+        },
+        {
+          "icon": "🌫️",
+          "l": "Vague complaint",
+          "t": "They said the tone was off but named no line"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Agree to fix it",
+          "desc": "Say yes immediately. Do not defend a single word."
+        },
+        {
+          "n": "2",
+          "title": "Ask for their exact sentence",
+          "desc": "Ask them to send the wording they want, not a description."
+        },
+        {
+          "n": "3",
+          "title": "Use it word for word",
+          "desc": "Paste their sentence in and mark it as theirs."
+        }
+      ],
+      "script": "\"Happy to fix it — <strong>send me the exact sentence you want and I'll drop it in as written.</strong>\"",
+      "example": "Dmitri told Hana her notes made him look slow. She asked him to send the sentence he wanted. He never sent it. Her original recap stayed the record and he never raised it again.",
+      "watchFor": "They go quiet instead of sending you the sentence they promised.",
+      "ifItFails": "They send a rewritten sentence that changes the decision, not their part. Accept their words but keep both versions visible: \"<strong>Added your wording. Noting the original line too so the thread shows both.</strong>\" Now the group sees the change happened and who asked for it. Do not do this to someone two levels above you.",
+      "counter": "If someone asks you to send your correction in writing, they are testing your commitment.\n• Notice they agreed fast but did not change anything yet.\n• Send the sentence the same day. Keep it short and flat.\n• If you do not send it, their version becomes the truth.",
+      "insight": "Most complaints die when they require typing. The harder problem is the one person who always sends the sentence."
+    },
+    {
+      "id": 15,
+      "cat": "corrections",
+      "danger": "moderate",
+      "title": "Keep Both Versions Visible",
+      "principle": "Transparency as Defense",
+      "remember": "Never quietly replace a line. Show the old one too.",
+      "when": "Someone pressures you to change what your recap says about a decision.",
+      "hook": "A quiet edit looks like a cover-up when it surfaces. <strong>A visible edit looks like honesty and does the same work.</strong>",
+      "truth": "Changed records get read later by people looking for a reason.\n• Showing both versions proves you did not bury anything.\n• The person who asked for the change now owns it publicly.\n• The trap: doing this with a sarcastic note makes you the villain.",
+      "theySee": "A careful note keeping a clean history of what changed and why.",
+      "signals": [
+        {
+          "icon": "🔏",
+          "l": "Quiet ask",
+          "t": "They asked you privately to change a public document"
+        },
+        {
+          "icon": "⏮️",
+          "l": "Backdating",
+          "t": "They want the change to look like the original wording"
+        },
+        {
+          "icon": "⚠️",
+          "l": "Risk topic",
+          "t": "The line involves money, safety, or a missed date"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Make the change they asked for",
+          "desc": "Update the line exactly as they requested. No resistance."
+        },
+        {
+          "n": "2",
+          "title": "Add a one-line change note",
+          "desc": "Write: updated on this date at whose request."
+        },
+        {
+          "n": "3",
+          "title": "Send to the same list",
+          "desc": "Send the update to everyone who got the first version."
+        }
+      ],
+      "script": "\"Updated per Ravi's note today: <strong>line 3 now reads 'pilot' (was 'rollout'). Original thread below for reference.</strong>\"",
+      "example": "Clara was asked to soften a line about a missed deadline. She changed it and added \"updated 14 Oct at Mark's request\". Two months later an audit asked about the date. The change note answered the question and nobody looked at Clara.",
+      "watchFor": "They stop asking for edits to your documents after the first change note.",
+      "ifItFails": "They tell you the change note is unnecessary and to remove it. Hold the line by making it routine, not personal: \"<strong>I date every edit on every doc — it's how I keep my files straight.</strong>\" A rule applied to everyone is hard to argue with. Do not skip the note on anything involving money or safety.",
+      "counter": "If someone edits a shared record with no note, screenshot the original.\n• Notice a line reads differently than you remember.\n• Reply: \"I have the earlier version — worth noting what changed.\"\n• Keep your own copy before you raise it, not after.",
+      "insight": "Visible edits protect you more than accurate ones. The real trap is the person who asks for quiet changes twice — that is information about them, not about the document."
+    },
+    {
+      "id": 16,
+      "cat": "cashing",
+      "danger": "moderate",
+      "title": "Quote The Record Without Saying I Told You So",
+      "principle": "Gracián: Win Without Humiliating",
+      "remember": "Paste the old line. Add no commentary at all.",
+      "when": "Something went wrong and your recap already predicted it.",
+      "hook": "The document does the accusing. <strong>You only have to paste it.</strong>",
+      "truth": "Being right is cheap. Being right without gloating is what gets used.\n• The quote lands harder with no adjective attached.\n• The reader draws the conclusion and owns it as their own.\n• The trap: one smug word and the room defends the other person.",
+      "theySee": "A colleague pulling up an old note to help solve the problem now.",
+      "signals": [
+        {
+          "icon": "🔥",
+          "l": "Problem lands",
+          "t": "The risk you wrote down has now happened"
+        },
+        {
+          "icon": "🔍",
+          "l": "Blame hunt",
+          "t": "Leadership asks who knew about this and when"
+        },
+        {
+          "icon": "🤐",
+          "l": "Sudden silence",
+          "t": "The person who overrode you stops replying to the thread"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the exact line",
+          "desc": "Pull the original sentence and its date. Change nothing."
+        },
+        {
+          "n": "2",
+          "title": "Paste with no adjectives",
+          "desc": "Send the quote and the date. Add no opinion."
+        },
+        {
+          "n": "3",
+          "title": "Offer the next step",
+          "desc": "End with one sentence about what to do now."
+        }
+      ],
+      "script": "\"From the 14 Oct recap: <strong>'Cost risk flagged; group proceeded, review at 60 days.'</strong> Suggest we do that review this week.\"",
+      "example": "When the staffing shortfall hit, Grace pasted one line from her October recap with the date and one sentence about next steps. She said nothing about being right. Her director replied \"good record\" and asked her to lead the fix.",
+      "watchFor": "Someone else in the thread says out loud that you flagged it.",
+      "ifItFails": "They attack the record instead of the problem: \"that note was misleading.\" Do not defend it line by line. Widen the audience with a question: \"<strong>Happy to be wrong — what's the version you have from that week?</strong>\" They must produce a document or stop. Do not use this on your own boss in a group thread.",
+      "counter": "If someone quotes an old email at you, check the date and what got left out.\n• Notice they quoted one line, not the whole thread.\n• Reply: \"That's one line — the next paragraph said we agreed to proceed.\"\n• Post the full text, not a summary of it.",
+      "insight": "The flat quote is stronger than the argument around it. The harder part is holding your tongue in the meeting after, when everyone knows."
+    },
+    {
+      "id": 17,
+      "cat": "cashing",
+      "danger": "moderate",
+      "title": "Build The Timeline Before You Need It",
+      "principle": "Sun Tzu: Prepare the Ground Before the Battle",
+      "remember": "Keep a dated list. Build it before the trouble starts.",
+      "when": "A project is going badly and blame will land on someone within a month.",
+      "hook": "When blame arrives, nobody has time to reconstruct six months. <strong>Whoever already has the timeline wins the meeting.</strong>",
+      "truth": "Arguments about the past are decided by whoever has dates.\n• A prepared timeline makes your account the only complete one.\n• Others answer your dates instead of telling their story.\n• The trap: a timeline built in anger reads like an attack file.",
+      "theySee": "A colleague with an organized project history everyone finds useful.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Slipping project",
+          "t": "The project has missed two dates in a row"
+        },
+        {
+          "icon": "🕵️",
+          "l": "Questions start",
+          "t": "Someone senior asks how this got so far behind"
+        },
+        {
+          "icon": "🧯",
+          "l": "Blame talk",
+          "t": "People start saying whose call it was"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open one file today",
+          "desc": "Make one document. Write date, event, and source link."
+        },
+        {
+          "n": "2",
+          "title": "Add a line each week",
+          "desc": "Add one line every Friday. Keep it factual and short."
+        },
+        {
+          "n": "3",
+          "title": "Keep it off shared drives",
+          "desc": "Store it where only you can see it until you need it."
+        }
+      ],
+      "script": "\"I keep a running project log — <strong>here are the dates and the source emails for each one.</strong> Happy to walk through it.\"",
+      "example": "Victor kept a weekly one-line log for four months. When the launch failed, leadership held a review. He walked through eleven dated lines with links in eight minutes. The review moved from who failed to what to fix.",
+      "watchFor": "People start asking you for dates instead of arguing about them.",
+      "ifItFails": "Someone calls your timeline one-sided. Do not shrink it. Hand it over completely: \"<strong>Here's the whole file with sources — add anything missing and send it back.</strong>\" Few people will do it, and the offer makes you look open rather than armed. Do not share a timeline that only tracks one person's failures.",
+      "counter": "If a colleague produces a perfect dated timeline in a crisis meeting, they prepared for this.\n• Notice their entries start before anything visibly went wrong.\n• Ask: \"What's in the log for the weeks you owned?\"\n• Build your own from your sent folder the same day.",
+      "insight": "Preparation beats memory in every blame meeting ever held. The next question is whether your log includes your own misses — the one that does is far harder to attack."
+    },
+    {
+      "id": 18,
+      "cat": "cashing",
+      "danger": "high",
+      "title": "Turn Your Record Into The Promotion Case",
+      "principle": "Pfeffer: Self-Promotion Requires Evidence",
+      "remember": "Your recaps are the evidence file for your raise.",
+      "when": "Your review or a promotion conversation is coming in the next month.",
+      "hook": "Nobody remembers your year. <strong>You have twelve months of dated emails that do.</strong>",
+      "truth": "Decisions about people are made from stories, not from memory.\n• Your old recaps supply dates, names, and results nobody disputes.\n• The reader sees a track record instead of a claim.\n• The trap: listing tasks instead of results reads as busywork.",
+      "theySee": "A person handing their manager a ready-made case with dates attached.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Review season",
+          "t": "Your review is scheduled in the next four weeks"
+        },
+        {
+          "icon": "🙃",
+          "l": "Boss forgets",
+          "t": "Your manager forgot a project you finished in March"
+        },
+        {
+          "icon": "🏁",
+          "l": "Wins exist",
+          "t": "You delivered at least three things with numbers attached"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Search your sent folder",
+          "desc": "Search for the word 'recap' and pull the last twelve months."
+        },
+        {
+          "n": "2",
+          "title": "Pick five with numbers",
+          "desc": "Choose five where you can state a result and a date."
+        },
+        {
+          "n": "3",
+          "title": "Write one page",
+          "desc": "Write five lines: what, when, result, and who else says so."
+        }
+      ],
+      "script": "\"Before the review, here's a one-pager with dates. <strong>Migration two days early, zero downtime, October 14. Vendor costs down 12 percent, January.</strong> Full emails linked.\"",
+      "example": "Leah pulled twelve recap emails and wrote a five-line page with numbers. Her director used three of those lines verbatim in the promotion committee. She got the level; her peer with better work and no records did not.",
+      "watchFor": "Your manager copies your lines into their own document.",
+      "ifItFails": "Your manager says the case is thin or says it is not the right cycle. Do not plead. Ask what the bar is, in writing: \"<strong>What specifically would make this a yes next cycle? I'll send you a plan against it Friday.</strong>\" Now they have to define the bar or admit there is none. Do not run this on a manager who has already told you the budget is frozen — wait for the cycle.",
+      "counter": "If a peer arrives at review season with a dated one-pager, they have been keeping records all year.\n• Notice they cite numbers you cannot check quickly.\n• Ask: \"Who else was on that? I want to thank them.\"\n• Start your own file today, not next quarter.",
+      "insight": "The written record is worth more at review time than the work it describes. The harder question is whether you will keep the file in a quiet year, when nothing feels worth writing down."
+    },
+    {
+      "id": 19,
+      "cat": "theirpen",
+      "danger": "high",
+      "title": "Reply In Their Thread Within The Hour",
+      "principle": "Primacy Defense — Correct Before the Record Sets",
+      "remember": "Their wrong recap becomes true if you wait a day.",
+      "when": "Someone sends a recap that leaves out what you said or changes it.",
+      "hook": "A wrong recap is not a mistake you can fix later. <strong>It hardens by tomorrow morning.</strong>",
+      "truth": "Later corrections read as complaints. Same-hour corrections read as facts.\n• Replying fast keeps your version inside the original thread.\n• Everyone who reads their note reads your line underneath.\n• The trap: a long rebuttal turns a fact into a fight.",
+      "theySee": "A colleague adding a short missing detail to a good summary.",
+      "signals": [
+        {
+          "icon": "✂️",
+          "l": "Missing line",
+          "t": "Your point is absent from their recap"
+        },
+        {
+          "icon": "🔄",
+          "l": "Changed word",
+          "t": "Their recap says approved where the room said pilot"
+        },
+        {
+          "icon": "🙅",
+          "l": "No credit",
+          "t": "Your work appears with no name attached"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reply to all, not to them",
+          "desc": "Use reply-all so your line sits under theirs."
+        },
+        {
+          "n": "2",
+          "title": "Compliment then correct",
+          "desc": "Write: good summary, one addition, then the fact."
+        },
+        {
+          "n": "3",
+          "title": "Keep it to two lines",
+          "desc": "Two sentences maximum. No explanation of why it matters."
+        }
+      ],
+      "script": "\"Good summary — <strong>one addition: we agreed it's a 60-day pilot, not a full rollout. Ravi confirmed the review date.</strong>\"",
+      "example": "Omar's manager sent a recap that turned his pilot into a rollout. Omar replied to all 35 minutes later with two lines naming the pilot and the confirming person. The project ran as a pilot. Nobody discussed the discrepancy again.",
+      "watchFor": "The next document from them uses your wording, not theirs.",
+      "ifItFails": "They reply that your memory is wrong. Do not argue memory against memory. Bring a third source into it: \"<strong>Ravi, you were in that part — pilot or rollout?</strong>\" A named witness ends it in one reply. Do not do this in a thread with their boss unless you are sure Ravi backs you.",
+      "counter": "If someone corrects your recap within the hour, they are protecting the record, not attacking you.\n• Notice the correction is short and names a witness.\n• Reply: \"Right — updated, thanks.\" Do not defend the original.\n• Fighting a fast correction makes it look deliberate.",
+      "insight": "An hour of delay costs more than any wording you could choose. The real trap is the person whose recaps are wrong in small ways every single time."
+    },
+    {
+      "id": 20,
+      "cat": "theirpen",
+      "danger": "extreme",
+      "title": "When They Own The Record, Change Who Reads It",
+      "principle": "Greene: Law 22 — Turn Weakness Into Power by Changing the Field",
+      "remember": "If you cannot win the document, change the audience.",
+      "when": "Someone senior controls the official record and it is consistently wrong about you.",
+      "hook": "You will not beat their document in their room. <strong>So stop fighting the document and change who sees the facts.</strong>",
+      "truth": "A record only has power over the people who read it.\n• New readers with your facts break their monopoly on the story.\n• Your work becomes visible without attacking anyone.\n• The trap: this looks like going around your boss, because it is.",
+      "theySee": "Someone building normal working relationships across teams.",
+      "signals": [
+        {
+          "icon": "🧱",
+          "l": "Blocked corrections",
+          "t": "Your corrections never make it into their final version"
+        },
+        {
+          "icon": "🪞",
+          "l": "Credit drift",
+          "t": "Your work appears under their name three times running"
+        },
+        {
+          "icon": "🚫",
+          "l": "Excluded",
+          "t": "You stopped being invited to the meetings you support"
+        },
+        {
+          "icon": "📉",
+          "l": "Flat reviews",
+          "t": "Your review says average while your results say otherwise"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find two readers outside their line",
+          "desc": "Pick a peer manager and a skip-level who use your work."
+        },
+        {
+          "n": "2",
+          "title": "Send them something useful",
+          "desc": "Send a short useful summary directly, with data they need."
+        },
+        {
+          "n": "3",
+          "title": "Make it monthly",
+          "desc": "Repeat it monthly until they ask you questions directly."
+        }
+      ],
+      "script": "\"You use this data monthly — <strong>here's the short version with the numbers and what changed. I'll send it each month.</strong> Ask me anything directly.\"",
+      "example": "Renata's director kept rewriting her reports and removing her name. She started sending a monthly one-page data note to two peer managers who used the numbers. Within four months, one of them requested her by name for a cross-team role. She moved.",
+      "watchFor": "Someone outside your chain emails you a question directly instead of asking your boss.",
+      "ifItFails": "Your boss notices and asks why you are sending things out. Do not deny it and do not apologize. Make it about service, and offer them the credit: \"<strong>They asked for the numbers monthly. Want me to copy you on it going forward?</strong>\" That either buys their cover or reveals they want you invisible. Do not run this while you are on a formal performance plan — it will be used as the reason.",
+      "counter": "If someone on your team starts sending reports outside your chain, they are building their own audience.\n• Notice people outside your team quote them, not you.\n• Say: \"Copy me on those so I can back you up.\"\n• Either bring them closer or accept they have other options now.",
+      "insight": "You cannot win a record you do not control, but you can make it less important. The next question is whether you are building your way out of this job or back into it."
+    }
+  ]
+}
