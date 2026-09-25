@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 82,
+  "manifestVersion": 83,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -728,7 +728,20 @@
       "url": "playbooks/playbook-srv-borrowed-hands.json",
       "addedAt": "2026-09-25T17:48:51.514Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-cut-the-bill",
+      "title": "Cut The Bill",
+      "theme": "medical bills",
+      "topic": "",
+      "cardCount": 18,
+      "contentVersion": 1,
+      "coverColor": "#0F766E",
+      "coverIcon": "🩺",
+      "url": "playbooks/playbook-srv-cut-the-bill.json",
+      "addedAt": "2026-09-25T17:49:21.298Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-25T17:48:51.514Z"
+  "generatedAt": "2026-09-25T17:49:21.298Z"
 }

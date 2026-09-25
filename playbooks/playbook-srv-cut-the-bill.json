@@ -1,0 +1,1090 @@
+{
+  "meta": {
+    "id": "srv-cut-the-bill",
+    "version": "1.0",
+    "title": "Cut The Bill",
+    "subtitle": "How to negotiate a medical bill down without begging",
+    "description": "The hospital billing office runs this call hundreds of times a day. You run it once, scared, with a number you can't pay. This dossier hands you their script, their discount ladder, and the exact lines that move a bill down. Eighteen cards, in the order the fight actually happens.",
+    "author": "AI",
+    "createdAt": "2026-09-07T21:51:33.744Z",
+    "tags": [
+      "medical bills",
+      "negotiation",
+      "money",
+      "healthcare",
+      "debt",
+      "scripts"
+    ],
+    "totalCards": 18,
+    "isSeeded": true,
+    "coverColor": "#0F766E",
+    "coverIcon": "🩺",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "before",
+      "label": "Before You Pay Anything",
+      "color": "#0F766E"
+    },
+    {
+      "key": "itemized",
+      "label": "Getting The Real, Itemized Bill",
+      "color": "#0891B2"
+    },
+    {
+      "key": "firstcall",
+      "label": "The First Call To Billing",
+      "color": "#2563EB"
+    },
+    {
+      "key": "nodiscount",
+      "label": "When They Say There's No Discount",
+      "color": "#7C3AED"
+    },
+    {
+      "key": "escalate",
+      "label": "Escalating Past The Rep",
+      "color": "#DC2626"
+    },
+    {
+      "key": "settle",
+      "label": "Settling And Getting It In Writing",
+      "color": "#B45309"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "before",
+      "danger": "low",
+      "title": "Never Pay The First Bill You Receive",
+      "principle": "Anchoring Bias — First Number Sets The Range",
+      "remember": "The first bill is an opening offer, not a price.",
+      "hook": "That number was typed by a machine that has never lost an argument. <strong>It is the highest number they are allowed to print.</strong>",
+      "when": "A hospital bill lands in your mailbox with a number that makes your stomach drop.",
+      "truth": "Hospital chargemaster prices are made up. They exist to be cut.\n• The printed price is a starting number for insurers, not you.\n• Insurers pay 20-40% of it. Cash payers who ask pay less.\n• Pay it fast and every discount program closes behind you.",
+      "theySee": "A patient who has not called, has not paid, and has not panicked.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "Summary only",
+          "t": "The bill shows one lump sum with no line items"
+        },
+        {
+          "icon": "⏰",
+          "l": "Fake urgency",
+          "t": "The letter says pay within 21 days but no law requires that"
+        },
+        {
+          "icon": "🔢",
+          "l": "Round number",
+          "t": "The balance is a suspiciously round figure like $4,800"
+        },
+        {
+          "icon": "🚫",
+          "l": "No options listed",
+          "t": "The bill never mentions financial aid or a cash discount"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Put the bill in a folder",
+          "desc": "Do not pay, do not call yet. Write the date you received it on the envelope."
+        },
+        {
+          "n": "2",
+          "title": "Check if insurance processed it",
+          "desc": "Find the EOB from your insurer. If none exists, the claim was never filed."
+        },
+        {
+          "n": "3",
+          "title": "Set a 30-day timer",
+          "desc": "Nothing goes to collections in 30 days. Use that time to get the itemized bill."
+        }
+      ],
+      "script": "(On the first call, if they push for payment) <strong>\"I'm not paying anything until I have the itemized bill and the insurance explanation of benefits in front of me. Please note on the account that I've requested both.\"</strong>",
+      "example": "Dana got a $6,200 bill for an ER visit and almost put it on a credit card that night. She waited instead and requested the itemized version. Two charges were for a procedure she never had. The corrected bill came to $3,100 before she negotiated a dollar of it.",
+      "watchFor": "The rep stops asking for a card number and starts asking for your mailing address.",
+      "ifItFails": "They say the account is already past due and threaten collections on the call. Ask for the exact date the account was opened and the exact date it goes to an agency — they must tell you. Then say: <strong>\"Send me that in writing with the itemized bill, and I'll respond within ten days of receiving it.\"</strong>",
+      "counter": "If someone pushes you to pay a number today, they are protecting the number.\n• Notice the deadline they name has no law behind it.\n• Say: \"Put the deadline and the amount in writing.\"\n• Wait for the mail. Urgency dies on paper.",
+      "insight": "Every discount program you qualify for gets harder to use after payment posts. The harder part is holding your nerve for three weeks while the envelopes keep coming."
+    },
+    {
+      "id": 2,
+      "cat": "before",
+      "danger": "low",
+      "title": "Find Out Who Actually Owns The Bill",
+      "principle": "Sun Tzu: Know The Ground Before The Battle",
+      "remember": "One hospital visit can send you four separate bills.",
+      "hook": "You think you owe the hospital. <strong>You might owe four companies who have never spoken to each other.</strong>",
+      "when": "You got multiple bills from one hospital visit and you cannot tell them apart.",
+      "truth": "One ER visit generates bills from the hospital, the doctor group, the lab, and the radiologist.\n• Each biller has its own discount rules and its own hardship program.\n• The hospital's charity care often does not cover the doctor group.\n• Negotiate them one at a time. Mixing them loses you money.",
+      "theySee": "A caller who names the exact tax ID and account number instead of saying \"the hospital bill\".",
+      "signals": [
+        {
+          "icon": "🏥",
+          "l": "Different names",
+          "t": "The return addresses on your bills show different company names"
+        },
+        {
+          "icon": "🔖",
+          "l": "Different formats",
+          "t": "Each bill uses a different account number format"
+        },
+        {
+          "icon": "📞",
+          "l": "Different phones",
+          "t": "The billing phone numbers on the bills do not match"
+        },
+        {
+          "icon": "💵",
+          "l": "Different totals",
+          "t": "The amounts are small and odd, like $340 and $88"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Lay every bill on a table",
+          "desc": "Write the company name, phone number, account number, and amount for each one."
+        },
+        {
+          "n": "2",
+          "title": "Ask each one who they are",
+          "desc": "Call and ask: are you the hospital, a doctor group, or an outside billing vendor?"
+        },
+        {
+          "n": "3",
+          "title": "Rank by size",
+          "desc": "Start your negotiation with the biggest bill. It has the deepest discount ladder."
+        }
+      ],
+      "script": "<strong>\"Before we talk about the balance — are you the hospital's own billing office, or a contracted vendor? And does this account include the physician charges or just the facility charges?\"</strong>",
+      "example": "Marcus had four bills totaling $9,400 from one appendectomy. He called each and learned the anesthesiologist was an outside group. That group's own hardship form cut $2,100 the hospital's charity office could not have touched. He would never have found it in a single call.",
+      "watchFor": "The rep tells you which charges are not theirs and gives you the other company's number.",
+      "ifItFails": "The rep says they cannot discuss other accounts and cannot tell you who else billed you. Go around them: call the hospital medical records line and request the full billing summary for the date of service. Say: <strong>\"I need a list of every entity that billed for my visit on [date], including outside groups.\"</strong>",
+      "counter": "If a collector says they handle \"the whole hospital balance\", check it.\n• Notice they cannot name the doctor group or the lab.\n• Say: \"Give me the itemized breakdown by provider.\"\n• Pay only what their account actually covers.",
+      "insight": "Splitting the bill into four fights feels like more work, but four small settlements beat one big refusal. The next question is which one you settle first, because the first settlement sets your ceiling."
+    },
+    {
+      "id": 3,
+      "cat": "before",
+      "danger": "low",
+      "title": "Check Whether The Insurer Was Even Billed",
+      "principle": "Process Error Over Price Fight",
+      "remember": "A denied claim is a paperwork problem, not a bill.",
+      "hook": "Half the scary balances are not price problems. <strong>They are a code typed wrong by a clerk.</strong>",
+      "when": "The bill says \"patient responsibility\" for an amount your insurance should have covered.",
+      "truth": "Claim denials often come from a wrong code, a missing prior authorization, or a stale insurance card.\n• Fixing the code costs you nothing and moves the whole balance.\n• The billing rep will not check this unless you ask by name.\n• Never negotiate a balance that insurance still owes. You give up money.",
+      "theySee": "A caller who says the words \"denial code\" and \"EOB\" in the first minute.",
+      "signals": [
+        {
+          "icon": "❌",
+          "l": "No EOB",
+          "t": "You never received an explanation of benefits from your insurer"
+        },
+        {
+          "icon": "🔤",
+          "l": "Denial code",
+          "t": "The bill shows a denial reason code you do not understand"
+        },
+        {
+          "icon": "📅",
+          "l": "Old card",
+          "t": "The insurance ID on the bill is from a plan you left"
+        },
+        {
+          "icon": "🧾",
+          "l": "Full charge",
+          "t": "The patient responsibility equals the full billed amount"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull the EOB",
+          "desc": "Log into your insurer's portal. Find the claim for that date of service."
+        },
+        {
+          "n": "2",
+          "title": "Compare the two numbers",
+          "desc": "Match the EOB's \"you owe\" line to the bill. If they differ, the biller is wrong."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a rebill",
+          "desc": "Call billing and request the claim be resubmitted with the correct insurance and codes."
+        }
+      ],
+      "script": "<strong>\"The EOB says my responsibility is $340. Your bill says $2,800. Please tell me the denial code on the claim, and resubmit it with my correct member ID while we're on the phone.\"</strong>",
+      "example": "Priya's $2,800 MRI bill listed her old employer's plan. She called with the EOB open and read the member ID out loud. Billing resubmitted the claim that afternoon. Her real balance came back at $310.",
+      "watchFor": "The rep goes quiet, then says they will send it back to the claims department.",
+      "ifItFails": "They rebill and the insurer denies it again for prior authorization. Call the insurer, not the hospital, and request a retro-authorization review. Say: <strong>\"I want to file a formal appeal on claim [number]. Please send me the appeal form and the deadline in writing.\"</strong>",
+      "counter": "If a biller insists the balance is yours with no EOB in hand, they are guessing.\n• Notice they never name the denial code.\n• Say: \"Read me the denial code from the claim.\"\n• If they cannot, the claim was never properly worked.",
+      "insight": "Most people fight the price when the real problem is a typo. The trap is spending your goodwill negotiating a number insurance was always going to pay."
+    },
+    {
+      "id": 4,
+      "cat": "itemized",
+      "danger": "low",
+      "title": "Demand The Itemized Bill With Every Code",
+      "principle": "Transparency Forces Accountability",
+      "remember": "Ask for every line and every code. Errors hide in summaries.",
+      "hook": "They send you a total because a total cannot be argued with. <strong>A line item can.</strong>",
+      "when": "Your bill shows one big number and a vague label like \"Emergency Services\".",
+      "truth": "You have a right to a fully itemized statement with CPT and HCPCS codes.\n• Line items expose duplicate charges, wrong quantities, and services you never got.\n• Billing knows a summary is safer for them. They send it by default.\n• Ask by the exact name — \"itemized statement with CPT codes\" — or you get another summary.",
+      "theySee": "A patient who uses the phrase \"CPT codes\" and asks for it in writing.",
+      "signals": [
+        {
+          "icon": "📦",
+          "l": "Bundled label",
+          "t": "One line says Room and Board with no daily breakdown"
+        },
+        {
+          "icon": "🔍",
+          "l": "No codes",
+          "t": "The statement shows dollar amounts but no procedure codes"
+        },
+        {
+          "icon": "↩️",
+          "l": "Deflection",
+          "t": "The rep offers to read the total to you instead of mailing the detail"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Stalling",
+          "t": "They say the itemized bill takes four to six weeks"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Call and use the exact phrase",
+          "desc": "Ask for the itemized statement with CPT and HCPCS codes and quantities."
+        },
+        {
+          "n": "2",
+          "title": "Get it in email if possible",
+          "desc": "Ask them to send it to your email or patient portal, not just by mail."
+        },
+        {
+          "n": "3",
+          "title": "Note the request on the account",
+          "desc": "Ask the rep to put a note on the account that you requested it and the date."
+        }
+      ],
+      "script": "<strong>\"I need the fully itemized statement with CPT and HCPCS codes, units, and dates of service for each line. Please note on my account that I requested it today, and hold collection activity until I receive it.\"</strong>",
+      "example": "Tom asked for the summary first and got a $14,000 total. He called back and used the words \"CPT codes and units\". The detailed version showed six days of room charges for a four-day stay. That one line was $3,900.",
+      "watchFor": "The rep asks for your email address so they can send the detail file.",
+      "ifItFails": "Weeks pass and nothing arrives. Send a written request by certified mail and copy the hospital's patient advocate. Say: <strong>\"This is my second written request for the itemized statement. Under your own billing policy, collection activity should pause during a documented billing dispute.\"</strong>",
+      "counter": "If a biller only ever quotes you totals, they are keeping the detail from you.\n• Notice they read numbers aloud but never mail them.\n• Say: \"Send it in writing with the codes.\"\n• Do not discuss payment until the paper arrives.",
+      "insight": "The itemized bill is not proof you will win. It is the only surface you can attack. The harder part is knowing which of the forty lines is actually wrong."
+    },
+    {
+      "id": 5,
+      "cat": "itemized",
+      "danger": "low",
+      "title": "Hunt For Duplicate And Phantom Charges",
+      "principle": "Audit Pressure — Errors Are Cheaper To Erase Than Defend",
+      "remember": "Find one fake charge and the whole bill loses its authority.",
+      "hook": "Billing departments do not defend errors. <strong>They delete them and hope you stop looking.</strong>",
+      "when": "You have the itemized bill in front of you and forty lines you do not understand.",
+      "truth": "Coding errors run through a large share of hospital bills. You only need to find one.\n• Duplicate lines, wrong units, and unbundled charges are the common three.\n• Every error you name lowers their confidence in the rest of the bill.\n• Do not accuse anyone of fraud. Call each line a question, not a crime.",
+      "theySee": "A patient reading line numbers and dates back to them, calmly, one at a time.",
+      "signals": [
+        {
+          "icon": "👯",
+          "l": "Same code twice",
+          "t": "The same CPT code appears twice on the same date"
+        },
+        {
+          "icon": "🔢",
+          "l": "Wrong units",
+          "t": "A drug shows a quantity far larger than one dose"
+        },
+        {
+          "icon": "🛏️",
+          "l": "Extra day",
+          "t": "Room charges cover more days than you were admitted"
+        },
+        {
+          "icon": "🧪",
+          "l": "Unknown test",
+          "t": "You see a lab or scan you do not remember having"
+        },
+        {
+          "icon": "✂️",
+          "l": "Unbundled",
+          "t": "A single procedure is split into several separately priced parts"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Circle every line you do not recognize",
+          "desc": "Do not judge the price. Just mark what you cannot remember happening."
+        },
+        {
+          "n": "2",
+          "title": "Count the days and the doses",
+          "desc": "Match room-and-board days to your admission dates. Match drug units to doses you got."
+        },
+        {
+          "n": "3",
+          "title": "Call with your list and go one by one",
+          "desc": "Read the line number and date. Ask what it was and who ordered it."
+        }
+      ],
+      "script": "<strong>\"Line 14, dated the 3rd — I was discharged on the 2nd. Can you tell me what that charge is for and who ordered it? I'd like it reviewed and removed if it can't be documented.\"</strong>",
+      "example": "Elena found the same chest X-ray code billed twice, two hours apart, on her father's bill. She read both line numbers to the rep and asked which one was the duplicate. The rep removed $840 on the call and flagged the account for a full coding review.",
+      "watchFor": "The rep says \"let me pull the chart\" and puts you on hold instead of defending the line.",
+      "ifItFails": "They insist every line is documented and refuse to remove anything. Request a formal itemized audit in writing and name the specific lines. Say: <strong>\"I'm formally disputing lines 14, 22, and 31. Please open a billing review and send me the coder's findings in writing.\"</strong>",
+      "counter": "If a biller waves off your questions as \"standard charges\", they are stalling.\n• Notice they explain the category, never the specific line.\n• Say: \"I'm asking about line 22, not the category.\"\n• Put the disputed lines in an email so there's a record.",
+      "insight": "One removed charge is worth more than the dollars. It turns the bill from a fact into a draft. The move that follows is asking what a fair price would have been for the lines that survive."
+    },
+    {
+      "id": 6,
+      "cat": "itemized",
+      "danger": "low",
+      "title": "Compare Their Price To What Medicare Pays",
+      "principle": "Reference Pricing — Anchor Against An Outside Number",
+      "remember": "Name a real outside price and their number looks silly.",
+      "hook": "\"That's our price\" dies the second you have a different price with a source. <strong>Bring the number.</strong>",
+      "when": "Billing tells you the charge is standard and cannot be changed.",
+      "truth": "Medicare publishes what it pays for nearly every procedure code. So does your insurer.\n• Cash settlements often land between 100% and 200% of the Medicare rate.\n• Naming that rate proves you know the floor exists.\n• Never say \"that's too expensive\". Say \"Medicare pays $412 for this code\".",
+      "theySee": "A patient quoting a specific dollar figure for a specific code, from a public source.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "No benchmark",
+          "t": "They cannot tell you what insurers pay for the same code"
+        },
+        {
+          "icon": "💬",
+          "l": "Vague defense",
+          "t": "They say the price reflects the cost of running the hospital"
+        },
+        {
+          "icon": "🏷️",
+          "l": "Price file exists",
+          "t": "Their website has a machine-readable price file they never mention"
+        },
+        {
+          "icon": "🤐",
+          "l": "Topic change",
+          "t": "They shift to payment plans as soon as you name a rate"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Look up each big code",
+          "desc": "Search the CPT code on the Medicare fee schedule or a price transparency site."
+        },
+        {
+          "n": "2",
+          "title": "Write the three biggest gaps",
+          "desc": "List the code, their price, and the Medicare price side by side."
+        },
+        {
+          "n": "3",
+          "title": "Open the call with the comparison",
+          "desc": "State the code and both numbers before you ask for anything."
+        }
+      ],
+      "script": "<strong>\"For code 74177, you billed $3,400. Medicare pays about $340 and your published cash rate is $890. I'm ready to settle this account today at the cash rate.\"</strong>",
+      "example": "Ravi pulled the hospital's own published price file before calling. His CT scan was billed at $3,400; their listed cash price was $890. He read the file name and the number to the rep. The account was adjusted to $890 within a week.",
+      "watchFor": "The rep stops arguing the price and starts asking how much you can pay today.",
+      "ifItFails": "They say Medicare rates do not apply to you. Do not argue the point — switch to their own published number. Say: <strong>\"Then let's use your own price file. Your posted cash-pay rate for this code is $890. I'd like that rate applied.\"</strong>",
+      "counter": "If a provider quotes \"the going rate\", make them source it.\n• Notice they never name a database or a code.\n• Say: \"Which price file is that from?\"\n• Bring your own number to every call after that.",
+      "insight": "An outside number turns the fight from your feelings against their policy into their number against another number. This works until you hit a rep with no authority to change a price — and then you need a different person, not a better argument."
+    },
+    {
+      "id": 7,
+      "cat": "firstcall",
+      "danger": "low",
+      "title": "Ask For Charity Care Before You Ask For A Discount",
+      "principle": "Regulatory Obligation Beats Goodwill",
+      "remember": "Nonprofit hospitals must offer aid. Ask for it by name.",
+      "hook": "There is a program that wipes bills entirely. <strong>They are required to have it and not required to mention it.</strong>",
+      "when": "You are about to call billing and your instinct is to ask them to \"work with you\".",
+      "truth": "Nonprofit hospitals must run a financial assistance policy to keep their tax status.\n• Income limits are higher than most people assume. Many miss by not applying.\n• A discount is a favor. Charity care is an obligation with a written policy.\n• Ask for the policy document, not for mercy. Documents have rules you can use.",
+      "theySee": "A caller who says \"financial assistance policy\" instead of \"can you help me out\".",
+      "signals": [
+        {
+          "icon": "📃",
+          "l": "Buried policy",
+          "t": "The application is on their website but not on any bill"
+        },
+        {
+          "icon": "🙊",
+          "l": "Never offered",
+          "t": "The rep offers a payment plan but never mentions financial aid"
+        },
+        {
+          "icon": "⏳",
+          "l": "Window closing",
+          "t": "The policy has a deadline measured from your service date"
+        },
+        {
+          "icon": "🏛️",
+          "l": "Nonprofit status",
+          "t": "The hospital's name includes a health system or a charity"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the policy online first",
+          "desc": "Search the hospital name plus financial assistance policy. Download the PDF."
+        },
+        {
+          "n": "2",
+          "title": "Check the income table",
+          "desc": "Find the percent-of-poverty-level table. Note which band your household lands in."
+        },
+        {
+          "n": "3",
+          "title": "Request the application by name",
+          "desc": "Call and ask them to mail and email the financial assistance application today."
+        }
+      ],
+      "script": "<strong>\"I'd like to apply under your financial assistance policy. Please send me the application and tell me the deadline from my date of service. Also, please place the account on hold while the application is pending.\"</strong>",
+      "example": "Sam earned $58,000 and assumed he made too much to qualify. He downloaded the hospital's policy PDF anyway and found the band went to 400% of the poverty line. He applied with two pay stubs. The hospital wrote off $11,000 of a $13,400 bill.",
+      "watchFor": "The rep puts the account on hold and gives you a reference number for the application.",
+      "ifItFails": "They deny the application over an income line. Ask for the denial in writing and for the appeal process, then apply again with hardship documentation — medical debt, dependents, other bills. Say: <strong>\"Please send the written denial and the appeal form. I'm submitting additional hardship documentation.\"</strong>",
+      "counter": "If a hospital pushes a payment plan before mentioning aid, they chose the option that pays them more.\n• Notice the plan arrives before the application does.\n• Say: \"Send the financial assistance application first.\"\n• Do not sign a plan while an application is pending.",
+      "insight": "Charity care can erase what negotiation can only shave. The real trap is timing — many policies close 240 days after the first bill, and nobody reminds you."
+    },
+    {
+      "id": 8,
+      "cat": "firstcall",
+      "danger": "low",
+      "title": "Make Them Say A Number First",
+      "principle": "Voss: Never Be The First To Name A Price",
+      "remember": "Ask what discounts exist. Do not offer an amount.",
+      "hook": "Whoever says a number first has already lost room. <strong>Let them open.</strong>",
+      "when": "The rep asks how much you can afford to pay today.",
+      "truth": "Reps are trained to get your number early because it caps the discount they need to offer.\n• If you say $2,000, you will never be offered $1,200.\n• Answer the question with a question about their programs.\n• They have a discount ladder. Make them start at the top rung.",
+      "theySee": "A calm caller who asks about programs and never names an amount.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Early ask",
+          "t": "They ask what you can afford in the first two minutes"
+        },
+        {
+          "icon": "💳",
+          "l": "Card ready",
+          "t": "They ask if you have a card available before discussing options"
+        },
+        {
+          "icon": "🪜",
+          "l": "Ladder hint",
+          "t": "They mention a prompt-pay discount only after you push"
+        },
+        {
+          "icon": "🔇",
+          "l": "Silence test",
+          "t": "They go quiet after asking, waiting for you to fill it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide your real ceiling before you dial",
+          "desc": "Write the maximum you would pay. Keep it on paper, off the call."
+        },
+        {
+          "n": "2",
+          "title": "Answer with a question",
+          "desc": "When they ask your number, ask what discount programs exist on this account."
+        },
+        {
+          "n": "3",
+          "title": "Wait through the pause",
+          "desc": "After they answer, say nothing for five seconds. Reps fill silence with more."
+        }
+      ],
+      "script": "<strong>\"Before I name a number — what discounts are available on this account? Prompt-pay, self-pay, financial assistance, or a settlement? I'd like to hear all of them.\"</strong>",
+      "example": "Jenna was ready to offer $3,000 on a $7,500 bill. Instead she asked what programs existed. The rep listed a 40% self-pay discount, then added a further prompt-pay cut. The account closed at $2,700 — less than she was about to volunteer.",
+      "watchFor": "The rep starts listing programs out loud instead of waiting for your number.",
+      "ifItFails": "They refuse to move until you name a figure. Give a range anchored low and tied to a reason, not a feeling. Say: <strong>\"Based on the Medicare rate for these codes, I can settle today between $900 and $1,100.\"</strong>",
+      "counter": "If someone asks your budget before quoting a price, they are anchoring on you.\n• Notice the question comes before any number of theirs.\n• Say: \"What's the lowest this account can be settled for?\"\n• Hold your number until theirs is on the table.",
+      "insight": "The discount ladder exists whether you know about it or not. The next question is how far down the ladder this particular rep is allowed to climb."
+    },
+    {
+      "id": 9,
+      "cat": "firstcall",
+      "danger": "low",
+      "title": "Ask For The Cash-Pay Rate As If It Is Routine",
+      "principle": "Cialdini: Social Proof — Everybody Gets This Rate",
+      "remember": "Ask for the cash price like everyone already gets it.",
+      "hook": "There are two prices. <strong>One for people who ask, one for people who don't.</strong>",
+      "when": "You are uninsured, or your deductible means you pay the whole thing yourself.",
+      "truth": "Hospitals keep a self-pay or cash rate far below the billed charge.\n• It exists because collecting something beats collecting nothing.\n• Reps apply it when asked, not when they see you need it.\n• Say it flat and assumed. Doubt in your voice invites a no.",
+      "theySee": "A caller who asks for the cash rate the way you'd ask for a receipt.",
+      "signals": [
+        {
+          "icon": "💵",
+          "l": "Two-tier pricing",
+          "t": "Their website lists a cash price different from the billed charge"
+        },
+        {
+          "icon": "🤝",
+          "l": "Quick yes",
+          "t": "The rep applies a discount without asking for any documents"
+        },
+        {
+          "icon": "📉",
+          "l": "Percent talk",
+          "t": "They use phrases like a standard 30 or 40 percent reduction"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Time limit",
+          "t": "They say the rate applies only if you pay within a set window"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Confirm no insurance is pending",
+          "desc": "The cash rate usually cannot apply while a claim is open. Check first."
+        },
+        {
+          "n": "2",
+          "title": "Ask flatly for the self-pay rate",
+          "desc": "Use the words self-pay discount. Do not explain your situation first."
+        },
+        {
+          "n": "3",
+          "title": "Ask what else stacks on it",
+          "desc": "After they apply it, ask whether prompt-pay or settlement discounts stack."
+        }
+      ],
+      "script": "<strong>\"Please apply the self-pay discount to this account. What does the balance come to after that, and does the prompt-pay discount stack on top?\"</strong>",
+      "example": "Andre owed $4,100 after his deductible reset. He asked for the self-pay rate in the first sentence, without explaining anything about his finances. The rep applied 45% instantly. He then asked what stacked and got another 10% for paying in five days.",
+      "watchFor": "The rep recalculates the balance out loud without asking you to justify anything.",
+      "ifItFails": "They say the self-pay rate does not apply because insurance paid part of the claim. Pivot to the remaining balance as a settlement, not a discount. Say: <strong>\"Then treat the remaining $900 as a settlement offer. I can close it today at $600.\"</strong>",
+      "counter": "If a provider quotes one price to you and a lower one online, they are sorting by who asks.\n• Notice the website price differs from your bill.\n• Say: \"Apply the posted cash rate to my account.\"\n• Screenshot the posted price before you call.",
+      "insight": "Asking casually gets more than asking desperately, because desperation signals you will pay anyway. This works until they ask for income documents, and then you are in a different program with different rules."
+    },
+    {
+      "id": 10,
+      "cat": "firstcall",
+      "danger": "moderate",
+      "title": "Get The Rep's Name And Build A Paper Trail",
+      "principle": "Schelling: Commitment Requires A Record",
+      "remember": "Write down every name, date, and reference number.",
+      "hook": "Verbal promises evaporate at shift change. <strong>A reference number does not.</strong>",
+      "when": "A billing rep verbally agrees to something and you have no proof.",
+      "truth": "Billing systems have millions of accounts and one memory: the account notes.\n• A named rep and a reference number make a promise findable later.\n• Reps behave differently once they know you are writing their name down.\n• Notes beat memory in every dispute that follows.",
+      "theySee": "A caller who asks for their name and reference number before the call ends.",
+      "signals": [
+        {
+          "icon": "🕵️",
+          "l": "First name only",
+          "t": "The rep gives a first name and refuses an employee ID"
+        },
+        {
+          "icon": "🔁",
+          "l": "Contradiction",
+          "t": "The next rep says something different from the last one"
+        },
+        {
+          "icon": "📝",
+          "l": "No notes",
+          "t": "They cannot see any record of your previous call"
+        },
+        {
+          "icon": "🎙️",
+          "l": "Recording line",
+          "t": "The call opens with a notice that calls are recorded"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open every call with the ask",
+          "desc": "Get the rep's name, employee ID or extension, and the date and time."
+        },
+        {
+          "n": "2",
+          "title": "Ask them to note the account",
+          "desc": "Say what you want written and ask for the reference number of that note."
+        },
+        {
+          "n": "3",
+          "title": "Send a same-day recap email",
+          "desc": "Email billing a short summary of what was agreed and who agreed to it."
+        }
+      ],
+      "script": "<strong>\"Before we finish — can I get your full name, your extension, and a reference number for the note you just put on my account? I'm going to email a recap today.\"</strong>",
+      "example": "Carla was promised a hold on collections and then got a collections letter a month later. She had the rep's name, the date, and a note reference. She quoted all three to a supervisor. The account was pulled back from the agency the same day.",
+      "watchFor": "The rep slows down and repeats the agreement more carefully as you write it.",
+      "ifItFails": "They refuse to give a name or ID. Do not fight it — get the timestamp instead and use the recording. Say: <strong>\"Understood. This call is recorded on your end at 2:14 on the 9th. I'll reference that recording if we disagree later,\"</strong> then email the recap immediately.",
+      "counter": "If a collector makes verbal promises and avoids writing, the promise is not real.\n• Notice they say \"I'll take care of it\" with no reference number.\n• Say: \"Email me confirmation before we hang up.\"\n• No email, no agreement. Do not pay on a verbal.",
+      "insight": "Paper is the cheapest power in this whole fight. Do not use a hard tone about recording with a small doctor's office you plan to keep seeing — there you want the note, not the pressure."
+    },
+    {
+      "id": 11,
+      "cat": "nodiscount",
+      "danger": "moderate",
+      "title": "Turn A No Into A Question About Their Authority",
+      "principle": "Greene: Law 22 — Use The Surrender Tactic",
+      "remember": "Do not argue with a no. Ask who can say yes.",
+      "hook": "The rep is not lying when they say no. <strong>They are telling you their limit, not the hospital's.</strong>",
+      "when": "The rep says there is nothing more they can do on your account.",
+      "truth": "Front-line reps have a hard cap in the system, usually a fixed percent.\n• Arguing past their cap wastes the call. They physically cannot enter it.\n• Naming the cap out loud moves the conversation to the person above.\n• Stay friendly. You want them to route you, not to defend themselves.",
+      "theySee": "A caller who accepts their answer and immediately asks about the next level.",
+      "signals": [
+        {
+          "icon": "🔒",
+          "l": "Hard cap",
+          "t": "They keep repeating the same percentage no matter what you say"
+        },
+        {
+          "icon": "🖥️",
+          "l": "System language",
+          "t": "They say the system will not let them go lower"
+        },
+        {
+          "icon": "😬",
+          "l": "Apology loop",
+          "t": "They apologize repeatedly instead of offering anything new"
+        },
+        {
+          "icon": "🚪",
+          "l": "Wrap-up cue",
+          "t": "They ask if there is anything else they can help with"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Accept the no out loud",
+          "desc": "Say you understand it is their limit. Do not repeat your argument."
+        },
+        {
+          "n": "2",
+          "title": "Ask about the cap directly",
+          "desc": "Ask what the maximum adjustment is at their level and who approves more."
+        },
+        {
+          "n": "3",
+          "title": "Request the transfer or the callback",
+          "desc": "Ask for a supervisor now, or the name and direct number of the person who approves."
+        }
+      ],
+      "script": "<strong>\"I believe you — that sounds like your limit, not the hospital's. What's the maximum adjustment someone at your level can approve, and who signs off on anything above that?\"</strong>",
+      "example": "Nate hit a wall at 30% off a $9,000 bill. Instead of pushing, he asked what the rep's approval limit was. She said 30% and named her supervisor. The supervisor approved 55% two days later on a callback.",
+      "watchFor": "The rep tells you the exact percentage they are capped at.",
+      "ifItFails": "They refuse to name a supervisor or say none is available. Ask for the department name and the patient advocate instead, and set a deadline. Say: <strong>\"Then please note that I requested supervisor review today. If I don't hear back in five business days, I'll contact the patient advocate directly.\"</strong>",
+      "counter": "If someone hides behind \"the system won't let me\", they are using their cap as a shield.\n• Notice the excuse names software, never a person.\n• Say: \"Who has the authority the system gives you not?\"\n• Get that person's name before the call ends.",
+      "insight": "The rep's no is real and useless at the same time. Do not burn a rep who has been helping you — you may need them to route your file, and a name on your side inside the building is worth more than one won argument."
+    },
+    {
+      "id": 12,
+      "cat": "nodiscount",
+      "danger": "moderate",
+      "title": "Offer Cash Today For A Lump-Sum Discount",
+      "principle": "Loss Aversion — Certain Money Now Beats Uncertain Money Later",
+      "remember": "Money on the table today beats a payment plan they may never collect.",
+      "hook": "They do not want your balance. <strong>They want to close the account.</strong>",
+      "when": "You have some cash available and the hospital keeps pushing a monthly plan.",
+      "truth": "Hospitals sell unpaid accounts to collectors for a fraction of face value.\n• Anything above that fraction beats selling your debt.\n• A payment plan is a promise. Cash today is a closed file.\n• Say the exact number and the exact day. Vague offers get vague answers.",
+      "theySee": "A caller with a specific dollar amount and a specific date, ready to pay.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Plan push",
+          "t": "They offer 24 monthly payments before any discount"
+        },
+        {
+          "icon": "💰",
+          "l": "Interest in timing",
+          "t": "They ask how soon you could pay if a discount applied"
+        },
+        {
+          "icon": "📉",
+          "l": "Quarter-end",
+          "t": "They mention closing the account before the month ends"
+        },
+        {
+          "icon": "🔁",
+          "l": "Counter comes fast",
+          "t": "They counter your number within seconds instead of checking"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide your real cash number",
+          "desc": "Pick an amount you can actually send within five business days."
+        },
+        {
+          "n": "2",
+          "title": "Open low with a reason",
+          "desc": "Offer 25 to 35 percent of the balance and tie it to the Medicare rate."
+        },
+        {
+          "n": "3",
+          "title": "Name the deadline",
+          "desc": "Say the offer is good for a set number of days and stop talking."
+        }
+      ],
+      "script": "<strong>\"I can send $1,200 by wire on Friday to close this account in full. That's what I have. If Friday works, I'll pay it that day — after I get the settlement letter.\"</strong>",
+      "example": "Bianca owed $8,600 and had $2,000 saved. She offered $1,800 as a same-week wire, tied to the Medicare rate she had looked up. Billing countered at $2,400, she held at $2,000, and they took it. The letter said paid in full.",
+      "watchFor": "The rep asks how quickly you could send the money.",
+      "ifItFails": "They reject the lump sum and insist on the full balance over time. Withdraw the offer with a date instead of arguing. Say: <strong>\"Then I'll leave the $1,200 offer open until the 30th. After that I'll only be able to do a small monthly plan,\"</strong> and put it in an email.",
+      "counter": "If a collector pushes a long payment plan hard, the plan is worth more to them than your cash.\n• Notice they never quote a lump-sum settlement number.\n• Say: \"What's the one-time payoff amount?\"\n• Never give bank access for a plan you can settle instead.",
+      "insight": "A lump sum is your strongest card and you only get to play it once. The trap is playing it before you have run charity care, because paid accounts rarely qualify."
+    },
+    {
+      "id": 13,
+      "cat": "nodiscount",
+      "danger": "moderate",
+      "title": "Dispute The Bill In Writing To Freeze The Clock",
+      "principle": "Procedural Delay As Pressure",
+      "remember": "A written dispute pauses collection and starts a clock on them.",
+      "hook": "A phone call disappears. <strong>A written dispute creates a file somebody has to close.</strong>",
+      "when": "Billing will not move and the account is drifting toward collections.",
+      "truth": "A documented billing dispute forces a review process most reps want to avoid.\n• Collection activity usually pauses while a dispute is open.\n• Once it is with a collector, written disputes trigger legal verification duties.\n• Keep it short and factual. Long emotional letters get filed and ignored.",
+      "theySee": "A certified letter with specific line numbers and a response deadline.",
+      "signals": [
+        {
+          "icon": "📮",
+          "l": "Ignored calls",
+          "t": "Your last two calls produced no change to the account"
+        },
+        {
+          "icon": "⚠️",
+          "l": "Pre-collection notice",
+          "t": "The letter says the account may be referred to an agency"
+        },
+        {
+          "icon": "🧊",
+          "l": "Scripted answers",
+          "t": "Every rep gives the identical sentence about the balance"
+        },
+        {
+          "icon": "📬",
+          "l": "New sender",
+          "t": "A different company's name appears on the newest letter"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write one page",
+          "desc": "List the account number, the disputed line numbers, and what you want done."
+        },
+        {
+          "n": "2",
+          "title": "Send it certified",
+          "desc": "Mail it certified with return receipt. Email a copy to billing the same day."
+        },
+        {
+          "n": "3",
+          "title": "Set a response deadline",
+          "desc": "Give them 30 days in writing and note what you do if they miss it."
+        }
+      ],
+      "script": "<strong>\"I am formally disputing lines 14, 22, and 31 on account 88421 as unsupported by my medical record. Please pause collection activity, complete a billing review, and respond in writing within 30 days.\"</strong>",
+      "example": "Owen's calls went nowhere for two months. He sent one page certified, listing three line numbers and a 30-day deadline. Eleven days later a supervisor called him directly. Two lines came off and the rest was cut by half.",
+      "watchFor": "A supervisor or patient advocate calls you instead of a front-line rep.",
+      "ifItFails": "They respond with a form letter that restates the balance and answers nothing. Escalate outside the building: file with your state attorney general's consumer division and the hospital's licensing body, and copy the hospital. Say: <strong>\"I've filed a complaint with the state consumer protection office referencing this account. Please direct further contact to that file.\"</strong>",
+      "counter": "If a collector demands payment and dodges your written questions, they may lack the documents.\n• Notice they answer by phone, never by mail.\n• Say: \"Send written validation of this debt.\"\n• Do not make a payment — it can restart the clock on old debt.",
+      "insight": "Delay costs them money and costs you nothing but nerve. Do not run this on a small practice you still need as your doctor — a certified letter ends that relationship."
+    },
+    {
+      "id": 14,
+      "cat": "escalate",
+      "danger": "moderate",
+      "title": "Go To The Patient Advocate, Not The Billing Manager",
+      "principle": "Coalition Warfare — Find The Internal Ally",
+      "remember": "Every hospital has someone paid to be on your side.",
+      "hook": "Billing's job is to collect. <strong>The advocate's job is to make complaints go away.</strong>",
+      "when": "You have hit the rep's cap and the supervisor gave you the same answer.",
+      "riskaligned": "",
+      "truth": "The patient advocate or ombudsman sits outside the billing chain of command.\n• Their measure of success is closed complaints, not collected dollars.\n• They can approve exceptions billing cannot even see.\n• Bring facts and a specific ask. Vague anger gets routed back to billing.",
+      "theySee": "A patient with a short written history, three specific line items, and one clear request.",
+      "signals": [
+        {
+          "icon": "🧭",
+          "l": "Separate office",
+          "t": "The hospital website lists a patient advocate or ombudsman"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same script",
+          "t": "Billing and the supervisor give you the same sentence"
+        },
+        {
+          "icon": "📈",
+          "l": "Complaint tracking",
+          "t": "They ask if you want to file a formal complaint"
+        },
+        {
+          "icon": "🕊️",
+          "l": "Different tone",
+          "t": "The advocate asks about your experience, not your balance"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the office by name",
+          "desc": "Search the hospital site for patient advocate, ombudsman, or patient relations."
+        },
+        {
+          "n": "2",
+          "title": "Write a five-line history",
+          "desc": "Dates, rep names, what was promised, what happened, and what you want."
+        },
+        {
+          "n": "3",
+          "title": "Make one specific ask",
+          "desc": "Ask for a named outcome, like a full financial assistance review or a set settlement."
+        }
+      ],
+      "script": "<strong>\"I've called billing three times since August 12 and been given three different answers. I'm asking your office for one thing: a full financial assistance review and a written settlement offer on account 88421.\"</strong>",
+      "example": "Grace got nowhere with two supervisors. She emailed patient relations a five-line timeline with the reps' names and dates. The advocate called back in two days, found her charity application had never been entered, and had $7,900 written off.",
+      "watchFor": "The advocate gives you a case number and their direct line.",
+      "ifItFails": "The advocate sends you back to billing with no change. Move up to the board or the state: email the hospital's chief financial officer and copy the state hospital association. Say: <strong>\"I'm escalating this to your CFO's office and the state consumer division. Case number 4471, unresolved since August.\"</strong>",
+      "counter": "If an internal advocate promises to look into it and goes quiet, you have been parked.\n• Notice there is no case number and no date.\n• Say: \"What's the case number and when will you call back?\"\n• Calendar the date. Follow up in writing the day it passes.",
+      "insight": "An internal ally beats an external threat because they can move money without anyone losing face. This works until the advocate is just billing under a friendlier name — check whether they report to finance."
+    },
+    {
+      "id": 15,
+      "cat": "escalate",
+      "danger": "high",
+      "title": "Name The Surprise Billing Rules When They Apply",
+      "principle": "Regulatory Threat — No Surprises Act",
+      "remember": "Out-of-network care at an in-network hospital has legal limits.",
+      "hook": "Some of these bills are not just high. <strong>They are not allowed.</strong>",
+      "when": "You got a bill from a doctor you never chose at a hospital your insurance covers.",
+      "truth": "Federal rules limit balance billing for emergency care and for out-of-network doctors at in-network facilities.\n• The anesthesiologist, radiologist, and ER doctor are the usual cases.\n• Naming the rule moves your file from billing to compliance.\n• Say it flat and factual. Threats get you a lawyer's letter, not a discount.",
+      "theySee": "A patient who names the specific federal protection and asks for compliance review.",
+      "signals": [
+        {
+          "icon": "🎭",
+          "l": "Unknown doctor",
+          "t": "The bill comes from a doctor you never met or chose"
+        },
+        {
+          "icon": "🏥",
+          "l": "In-network facility",
+          "t": "The hospital was in-network but the doctor was not"
+        },
+        {
+          "icon": "🚑",
+          "l": "Emergency visit",
+          "t": "The care happened in an emergency room"
+        },
+        {
+          "icon": "📝",
+          "l": "No consent form",
+          "t": "You never signed a written waiver accepting out-of-network charges"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the facility's network status",
+          "desc": "Confirm the hospital was in-network on your insurer's site for that date."
+        },
+        {
+          "n": "2",
+          "title": "Look for a signed waiver",
+          "desc": "Request any consent form you signed accepting out-of-network billing."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a compliance review",
+          "desc": "Call and request the account be reviewed under the federal surprise billing rules."
+        }
+      ],
+      "script": "<strong>\"This was emergency care at an in-network facility and I signed no out-of-network consent. Please route this account for review under the federal surprise billing protections and confirm in writing.\"</strong>",
+      "example": "Devon got a $3,900 bill from an out-of-network ER doctor at his in-network hospital. He asked billing to produce the consent form he supposedly signed. There wasn't one. The charge was zeroed out and reprocessed at his in-network rate.",
+      "watchFor": "The rep stops quoting the balance and says they will send it for review.",
+      "ifItFails": "They insist the protection does not apply and keep billing you. File the federal No Surprises complaint and tell them you did, with the case number. Say: <strong>\"I've filed complaint number [x] with the federal No Surprises Help Desk. Please pause collection while it's open.\"</strong>",
+      "counter": "If a biller asks you to sign a consent form after the fact, they are curing their own problem.\n• Notice the form arrives with the bill, not before care.\n• Say: \"I won't sign a retroactive consent.\"\n• Keep the unsigned form. It proves the timeline.",
+      "insight": "Do not bluff a rule you have not checked — a wrong citation hands them the moral high ground and they will use it on every later call. The next question is whether your state adds protections the federal rule leaves out."
+    },
+    {
+      "id": 16,
+      "cat": "escalate",
+      "danger": "high",
+      "title": "Use The Collection Deadline As Your Leverage Point",
+      "principle": "Schelling: The Deadline As A Commitment Device",
+      "remember": "Their best offer comes right before they sell your debt.",
+      "hook": "The month before your account goes to an agency is the month they get generous. <strong>Know that date.</strong>",
+      "when": "Your account is 90 to 150 days old and the letters are getting sharper.",
+      "truth": "Hospitals sell aged accounts to collectors for pennies on the dollar.\n• Right before that sale, almost any real payment beats what the collector pays.\n• Ask for the referral date. Most reps will tell you.\n• Make your best offer inside that window, not after.",
+      "theySee": "A patient who knows the referral date and offers a real number before it.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Referral date",
+          "t": "The rep names a date the account goes to an agency"
+        },
+        {
+          "icon": "🔴",
+          "l": "Final notice",
+          "t": "The letter uses the words final notice or pre-collection"
+        },
+        {
+          "icon": "☎️",
+          "l": "Call frequency rises",
+          "t": "They start calling more often than they mail"
+        },
+        {
+          "icon": "🎁",
+          "l": "Sudden offer",
+          "t": "They volunteer a discount you did not ask for"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the referral date outright",
+          "desc": "Call and ask what date this account is scheduled to go to collections."
+        },
+        {
+          "n": "2",
+          "title": "Put your offer in before it",
+          "desc": "Make your lump-sum offer at least a week before that date."
+        },
+        {
+          "n": "3",
+          "title": "Get the hold in writing",
+          "desc": "Ask them to email confirmation that the referral is paused while you negotiate."
+        }
+      ],
+      "script": "<strong>\"What date is this account scheduled to be referred to an outside agency? I want to settle before that happens, and I'd like the referral held while we finalize the number.\"</strong>",
+      "example": "Leo asked when his $5,400 account went to an agency and was told the 14th. On the 6th he offered $1,500 cash. Billing came back at $1,900 and took it on the 11th. The same offer a month later would have gone to a collector who paid less than $300 for the file.",
+      "watchFor": "The rep offers to hold the referral while you finalize an amount.",
+      "ifItFails": "They will not name a date or say it already went to an agency. Ask who owns the debt now and start over there with a written validation request. Say: <strong>\"Who owns this account now, and what's their name and address? I'm sending a written validation request today.\"</strong>",
+      "counter": "If a collector says an offer expires today, test the deadline.\n• Notice the pressure spikes as the date nears.\n• Say: \"Send it in writing and I'll respond in a week.\"\n• Real settlement offers survive a week. Fake ones don't.",
+      "insight": "Their deadline can become your timer if you know it first. Do not run this game if the debt could already be sold — once it moves, verbal promises from the hospital mean nothing."
+    },
+    {
+      "id": 17,
+      "cat": "settle",
+      "danger": "high",
+      "title": "Get The Settlement Letter Before You Send A Dollar",
+      "principle": "Machiavelli: Never Perform Before The Contract",
+      "remember": "No letter, no payment. Say it once and mean it.",
+      "hook": "A verbal settlement is a story. <strong>The letter is the only thing that exists next year.</strong>",
+      "when": "Billing agrees to a reduced payoff and asks for your card right now.",
+      "truth": "Paying first strips your only power. After payment, they owe you nothing.\n• Without a letter, the remaining balance can be sold and billed again.\n• The letter must say \"paid in full\" and \"account closed\", not \"payment received\".\n• Reps ask for the card first because most people say yes.",
+      "theySee": "A patient who says the money is ready and then asks for the letter first.",
+      "signals": [
+        {
+          "icon": "💳",
+          "l": "Card first",
+          "t": "They ask for your card before sending anything in writing"
+        },
+        {
+          "icon": "📃",
+          "l": "Wrong words",
+          "t": "The letter says settled for less instead of paid in full"
+        },
+        {
+          "icon": "⌛",
+          "l": "Later promise",
+          "t": "They say the letter comes after payment posts"
+        },
+        {
+          "icon": "🌀",
+          "l": "Balance survives",
+          "t": "They mention a remaining balance after the settlement"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the money is ready",
+          "desc": "Tell them you can pay the day the letter arrives. Keep the tone easy."
+        },
+        {
+          "n": "2",
+          "title": "Name the exact wording",
+          "desc": "Ask for a letter stating the amount, paid in full, account closed, no further balance."
+        },
+        {
+          "n": "3",
+          "title": "Pay traceably",
+          "desc": "Use a check, wire, or one-time card. Never give access to your bank account."
+        }
+      ],
+      "script": "<strong>\"The money is ready today. Email me a letter on your letterhead stating that $1,900 settles account 88421 in full, closes it, and leaves no remaining balance. I'll pay the same hour it arrives.\"</strong>",
+      "example": "Nina agreed to $1,900 on a $5,400 bill and asked for the letter first. The emailed draft said \"partial payment received\". She had it rewritten to \"paid in full, account closed\". Eight months later a collector called about the old balance and the letter ended it in one email.",
+      "watchFor": "The rep says they will email the letter within the hour.",
+      "ifItFails": "They say they cannot issue letters before payment. Do not cave — offer a middle path that still creates the record. Say: <strong>\"Then email me a written confirmation of the agreed terms now, and I'll pay on receipt of that. If your system can't produce either, I'll wait for the mailed statement showing the adjusted balance.\"</strong>",
+      "counter": "If someone insists on payment before paperwork, they want the option to bill you again.\n• Notice they promise the letter afterward, never before.\n• Say: \"Written terms first, payment same day.\"\n• Never hand over bank routing details for a settlement.",
+      "insight": "The letter is worth more than the discount, because the discount only holds if the letter exists. The harder part is the next twelve months — keep it where you can find it in thirty seconds."
+    },
+    {
+      "id": 18,
+      "cat": "settle",
+      "danger": "moderate",
+      "title": "Check Your Credit And Close The File Properly",
+      "principle": "Aftermath Control — Close The Loop Or It Reopens",
+      "remember": "Confirm the account shows zero everywhere, then keep the proof.",
+      "hook": "You won. <strong>Now make sure the system knows it.</strong>",
+      "when": "You paid the settlement and the account should be closed.",
+      "truth": "Settled medical accounts get resold, misreported, and re-billed by mistake.\n• Systems update slowly and collectors buy stale files.\n• Paid medical debt under a threshold generally should not appear on your credit report.\n• Check at 30 and 90 days. A quiet mailbox is not proof.",
+      "theySee": "A former patient who calls once, confirms zero balance, and never has to call again.",
+      "signals": [
+        {
+          "icon": "📬",
+          "l": "Letters continue",
+          "t": "You receive another statement after the settlement posted"
+        },
+        {
+          "icon": "🏷️",
+          "l": "New collector",
+          "t": "An agency you never heard of contacts you about the same visit"
+        },
+        {
+          "icon": "📊",
+          "l": "Credit entry",
+          "t": "A medical collection appears on your credit report"
+        },
+        {
+          "icon": "🔢",
+          "l": "Small balance",
+          "t": "The account shows a leftover balance of a few dollars"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Call at 30 days to confirm zero",
+          "desc": "Ask the rep to read the current balance out loud and note the date."
+        },
+        {
+          "n": "2",
+          "title": "Pull your three credit reports",
+          "desc": "Check all three bureaus for any collection tied to that date of service."
+        },
+        {
+          "n": "3",
+          "title": "File the folder",
+          "desc": "Save the settlement letter, the payment receipt, and the zero-balance note together."
+        }
+      ],
+      "script": "<strong>\"I settled account 88421 on the 12th. Please confirm the current balance is zero and the account is closed. If any collection was reported, I need a deletion letter sent to all three bureaus.\"</strong>",
+      "example": "Hassan settled a $6,000 bill for $1,700 and moved on. Four months later a collector reported $4,300 to the bureaus. He emailed the settlement letter and the payment receipt to the collector and the bureaus. The entry was deleted in eighteen days.",
+      "watchFor": "The rep reads a zero balance aloud and gives you the date it closed.",
+      "ifItFails": "A collector keeps reporting the old balance after you send proof. Dispute directly with all three bureaus and attach the settlement letter, then notify the collector in writing. Say: <strong>\"I've disputed this with all three bureaus and attached the paid-in-full letter dated the 12th. Continued reporting after notice is your risk, not mine.\"</strong>",
+      "counter": "If a collector calls about a debt you already settled, they bought a stale file.\n• Notice they cannot name your settlement date.\n• Say: \"Send written validation. This account was settled in full.\"\n• Never make a small payment — it can revive an old debt.",
+      "insight": "The win is not the discount, it is the closed file that stays closed. The next question is what you do differently before the next procedure, because the best negotiation happens before anyone touches you."
+    }
+  ]
+}
