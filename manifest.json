@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 80,
+  "manifestVersion": 81,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -702,7 +702,20 @@
       "url": "playbooks/playbook-srv-what-so-what-now-what.json",
       "addedAt": "2026-09-25T16:51:30.681Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-bluf",
+      "title": "BLUF",
+      "theme": "communication",
+      "topic": "",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#C2410C",
+      "coverIcon": "🎯",
+      "url": "playbooks/playbook-srv-bluf.json",
+      "addedAt": "2026-09-25T16:52:12.682Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-25T16:51:30.681Z"
+  "generatedAt": "2026-09-25T16:52:12.682Z"
 }

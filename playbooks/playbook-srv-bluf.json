@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "id": "srv-bluf",
+    "version": "1.0",
+    "title": "BLUF",
+    "subtitle": "Conclusion First, Proof Second",
+    "description": "Ten moves for putting your answer in the first sentence. Written for people who brief bosses, clients, and rooms that will not wait for the build-up. Covers the opening line, the bad-news version, the ask, the written variant, and what to do when someone cuts you off anyway.",
+    "author": "AI",
+    "createdAt": "2026-09-23T23:06:56.717Z",
+    "tags": [
+      "communication",
+      "executive",
+      "briefing",
+      "writing",
+      "status",
+      "influence"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#C2410C",
+    "coverIcon": "🎯",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "opening",
+      "label": "The First Sentence",
+      "color": "#C2410C"
+    },
+    {
+      "key": "badnews",
+      "label": "Bad News",
+      "color": "#991B1B"
+    },
+    {
+      "key": "theask",
+      "label": "The Ask",
+      "color": "#B45309"
+    },
+    {
+      "key": "written",
+      "label": "On The Page",
+      "color": "#3F6212"
+    },
+    {
+      "key": "pressure",
+      "label": "Under Pressure",
+      "color": "#1E3A8A"
+    },
+    {
+      "key": "defense",
+      "label": "When It's Used On You",
+      "color": "#4C1D95"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "opening",
+      "danger": "low",
+      "title": "Say The Answer In The First Sentence",
+      "principle": "Primacy Effect × Military BLUF (Bottom Line Up Front)",
+      "remember": "Answer first. Then explain how you got there.",
+      "when": "Your boss asks how the project is going and you start with what happened Monday.",
+      "hook": "Most people tell the story and hope the point arrives. <strong>The listener decides what you are worth in eight seconds.</strong>",
+      "truth": "Busy people stop listening long before your build-up ends.\n• You give the answer while they still have full attention.\n• They stop hunting for your point and start judging it.\n• The trap: you feel rude. That feeling is not the room's.",
+      "theySee": "A person who opens with a straight answer and then stops talking.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "Clock check",
+          "t": "They look at their phone while you set up the background"
+        },
+        {
+          "icon": "✂️",
+          "l": "Interrupt",
+          "t": "They cut in with 'So what's the answer?'"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat ask",
+          "t": "They ask the same question again at the end"
+        },
+        {
+          "icon": "😐",
+          "l": "Flat face",
+          "t": "Their face stays blank through your whole setup"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the one-line answer",
+          "desc": "Before the meeting, write your answer in one sentence. No background in it."
+        },
+        {
+          "n": "2",
+          "title": "Put it first",
+          "desc": "Open with that sentence. Do not warm up. Do not thank anyone for the time."
+        },
+        {
+          "n": "3",
+          "title": "Stop and wait",
+          "desc": "Say nothing for three seconds. Let them ask for the reason. Then give it."
+        }
+      ],
+      "script": "\"<strong>We will miss the October date by two weeks.</strong> Here is why, and here is what I need from you.\"",
+      "example": "Dana used to open status updates with a timeline recap. Her VP kept checking email. One week she opened with \"We ship on time, one feature cut.\" The VP put the phone down and asked which feature — first real conversation they had in a month.",
+      "watchFor": "They put the phone down and ask a follow-up question about your first sentence.",
+      "ifItFails": "They say \"Back up, start from the beginning.\" That is not rejection — they want the path, not the headline. Give them three steps, in order, and return to the same conclusion. Say: <strong>\"Three things happened. I'll walk them in order, then land back on the same number.\"</strong>",
+      "counter": "When someone opens with a hard conclusion, they hope you will accept it whole.\n• Notice you got the verdict before any facts.\n• Ask: <strong>\"What would have to be false for that to change?\"</strong>\n• Judge the reason, not the confidence in the voice.",
+      "insight": "A straight first sentence buys attention but spends your cover. You cannot hide a weak case behind a story anymore. The next question is whether your reason survives being heard."
+    },
+    {
+      "id": 2,
+      "cat": "opening",
+      "danger": "low",
+      "title": "Cut The Warm-Up Line",
+      "principle": "Gracián: Maxim 105 — Do Not Weary",
+      "remember": "Delete the first sentence. It is almost always throat-clearing.",
+      "when": "You open a meeting with 'So, just wanted to give a quick update on where we landed.'",
+      "hook": "Your first sentence is usually a sound, not a message. <strong>Everyone waits through it.</strong>",
+      "truth": "People start talking before they know their own point.\n• Cut the warm-up and your real answer lands in position one.\n• They hear a person who knew the answer before the meeting.\n• The trap: silence feels abrupt. Take the three seconds anyway.",
+      "theySee": "A person who opens their mouth and a fact comes out.",
+      "signals": [
+        {
+          "icon": "🫧",
+          "l": "Filler open",
+          "t": "You start with 'So' or 'Just wanted to'"
+        },
+        {
+          "icon": "🙇",
+          "l": "Permission ask",
+          "t": "You ask if now is a good time when the meeting is already booked"
+        },
+        {
+          "icon": "📜",
+          "l": "Long recap",
+          "t": "You recap what everyone already sat through"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Record yourself once",
+          "desc": "Say your update to your phone. Play it back. Mark where the real point starts."
+        },
+        {
+          "n": "2",
+          "title": "Delete everything before that",
+          "desc": "Cut every word ahead of the point. Do not rewrite it. Just delete it."
+        },
+        {
+          "n": "3",
+          "title": "Practice the cold open twice",
+          "desc": "Say the new first line out loud two times before you walk in."
+        }
+      ],
+      "script": "\"<strong>The vendor missed the deadline.</strong> We have two options and I want your call on one of them.\"",
+      "example": "Marcus timed his own standup update: 40 seconds of setup, 11 seconds of content. He deleted the setup. His director started calling on him first each week, because he was the one who finished fast.",
+      "watchFor": "Someone writes a note within your first ten seconds of talking.",
+      "ifItFails": "You cut the warm-up and the room goes quiet, unsure you are finished. Do not refill the space with background. Hand them the next move instead: <strong>\"That's the headline. Do you want the reason or the plan first?\"</strong>",
+      "counter": "A cold open can push you into agreeing before you are ready.\n• Notice you have no facts yet, only a verdict.\n• Say: <strong>\"Hold that. Where did the number come from?\"</strong>\n• Make them spend time on the part they skipped.",
+      "insight": "Cutting the warm-up is easy alone and hard in a room, because warm-up is where nerves go. This works until you have to deliver bad news cold — that one needs a different shape."
+    },
+    {
+      "id": 3,
+      "cat": "badnews",
+      "danger": "moderate",
+      "title": "Lead With The Bad Number, Not The Story",
+      "principle": "Voss: Accusation Audit × Loss Aversion",
+      "remember": "Say the bad number first. Delay makes it look like hiding.",
+      "when": "You have to tell your boss the budget is blown and you want to explain the causes first.",
+      "hook": "Every second you spend on background reads as a cover-up. <strong>The number is coming out anyway.</strong>",
+      "truth": "People forgive a bad number. They do not forgive a slow one.\n• Saying it first makes you the source, not the suspect.\n• Their anger lands on the problem instead of on you.\n• The trap: do not attach the excuse to the same sentence.",
+      "theySee": "A person who names their own bad number before anyone asks.",
+      "signals": [
+        {
+          "icon": "🌀",
+          "l": "Long preamble",
+          "t": "You keep adding context before the number"
+        },
+        {
+          "icon": "🕐",
+          "l": "Delay",
+          "t": "You have pushed this conversation twice already"
+        },
+        {
+          "icon": "🧾",
+          "l": "Buried line",
+          "t": "The real number sits on slide nine of your deck"
+        },
+        {
+          "icon": "😬",
+          "l": "Hedge words",
+          "t": "You rehearse phrases like 'slightly over' for a 30% miss"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the number alone",
+          "desc": "Write one sentence: the number and the date. No cause, no excuse in it."
+        },
+        {
+          "n": "2",
+          "title": "Say it in the first ten seconds",
+          "desc": "Open the meeting with that sentence. Then stop and let it land."
+        },
+        {
+          "n": "3",
+          "title": "Bring one fix, not three",
+          "desc": "Offer one recommended fix and the cost. Three options reads as no opinion."
+        }
+      ],
+      "script": "\"<strong>We are 40% over budget — $210K, not $150K.</strong> I found it Tuesday. Here is the one fix I recommend.\"",
+      "example": "Priya's build ran $60K over. She opened the Monday review with the number and the date she found it. Her CFO skipped the blame round entirely and spent the hour on the fix. She kept the project.",
+      "watchFor": "They ask what you need instead of asking what happened.",
+      "ifItFails": "They go cold and say they will 'take it from here.' You are being cut out. Do not apologize again — repeating sorry reads as guilt. Put yourself back in the room with work: <strong>\"I'll have the recovery plan and the weekly number in your inbox by Thursday. Tell me who else should see it.\"</strong> Do not run this card on someone who has already told you the number is unacceptable — that conversation needs a witness in the room.",
+      "counter": "Someone leading with a bad number may be pricing your reaction.\n• Notice if the number arrives with a fix already attached.\n• Ask: <strong>\"When did you first know?\"</strong>\n• The date tells you more than the number does.",
+      "insight": "Leading with the bad number buys trust once. Do it twice on the same project and the honesty stops counting. The harder part is the third conversation, when they start asking what else you have not said yet."
+    },
+    {
+      "id": 4,
+      "cat": "theask",
+      "danger": "low",
+      "title": "Name What You Want In The First Line",
+      "principle": "Cialdini: Commitment × Decision Framing",
+      "remember": "Say what you want before you say why you want it.",
+      "when": "You need headcount approval and you plan to build the case before you ask.",
+      "hook": "People cannot judge your reasons until they know what the reasons are for. <strong>State the ask, then arm it.</strong>",
+      "truth": "A reason with no request is just noise in their inbox.\n• The ask gives their brain a folder to file your facts in.\n• They listen for yes-or-no instead of drifting.\n• The trap: a vague ask gets a vague answer. Name a number and a date.",
+      "theySee": "A person who says exactly what they want and how much it costs.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "Ask confusion",
+          "t": "They ask 'What do you need from me?' at the end"
+        },
+        {
+          "icon": "📆",
+          "l": "Stall",
+          "t": "They say they will think about it and never return"
+        },
+        {
+          "icon": "🌫️",
+          "l": "Soft ask",
+          "t": "You said 'some more support' instead of a number"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the ask as a number and a date",
+          "desc": "'Two engineers, starting November 1.' Not 'more capacity next quarter.'"
+        },
+        {
+          "n": "2",
+          "title": "Put it in sentence one",
+          "desc": "Open with the ask. Then give the three reasons behind it."
+        },
+        {
+          "n": "3",
+          "title": "Name the cost of no",
+          "desc": "Say in one line what slips if they say no. Keep it factual, not dramatic."
+        }
+      ],
+      "script": "\"<strong>I need two engineers starting November 1.</strong> Without them the January launch moves to March. Here are the three reasons.\"",
+      "example": "Tom asked for 'more help' for two quarters and got nods. Then he opened with \"Two engineers, November 1, or January slips to March.\" His director approved one on the spot and named a date for the second.",
+      "watchFor": "They start negotiating the number instead of asking what you mean.",
+      "ifItFails": "They say the budget is closed. Do not shrink the ask on the spot — that teaches them the first number was soft. Convert it into a scheduled decision: <strong>\"Understood. Then I need a date when it reopens, and I'll bring the same two names.\"</strong>",
+      "counter": "When someone opens with a number, they want you anchored to it.\n• Notice you are now debating their size, not the need.\n• Ask: <strong>\"What happens if you get half?\"</strong>\n• Their answer shows you the real floor.",
+      "insight": "A sharp ask gets a real answer, including a real no. The tradeoff is that you can no longer claim they misunderstood you. The next question is what you do with a clean no."
+    },
+    {
+      "id": 5,
+      "cat": "written",
+      "danger": "low",
+      "title": "Put The Conclusion In The Subject Line",
+      "principle": "Pyramid Principle (Minto): Answer First",
+      "remember": "The subject line carries the answer, not the topic.",
+      "when": "You write an email titled 'Q3 Update' and bury the decision in paragraph four.",
+      "hook": "Half your readers will only ever read the subject line. <strong>Make it the whole message.</strong>",
+      "truth": "Topic subject lines make the reader open the mail to learn nothing.\n• A subject line that carries the answer gets read by people who skip.\n• They forward it without opening it, and your point travels.\n• The trap: keep it under nine words or it truncates on a phone.",
+      "theySee": "A person whose email you can act on from the preview pane.",
+      "signals": [
+        {
+          "icon": "📭",
+          "l": "No replies",
+          "t": "Your long updates get no responses at all"
+        },
+        {
+          "icon": "🔍",
+          "l": "Re-ask",
+          "t": "People ask you questions you already answered in the email"
+        },
+        {
+          "icon": "🏷️",
+          "l": "Topic titles",
+          "t": "Your subject lines name a topic, not a result"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the body first",
+          "desc": "Write the mail, then find the sentence that matters most."
+        },
+        {
+          "n": "2",
+          "title": "Move it to the subject",
+          "desc": "Paste that sentence into the subject line. Cut it to nine words."
+        },
+        {
+          "n": "3",
+          "title": "Repeat it as line one",
+          "desc": "Open the body with the same sentence. Then give the detail below it."
+        }
+      ],
+      "script": "Subject: <strong>\"Launch moves to Nov 12 — need your sign-off Friday\"</strong>",
+      "example": "Rachel changed her weekly mail subject from \"Project Atlas Update\" to \"Atlas green, one blocker: legal review.\" Her skip-level replied for the first time in four months, and cleared the blocker that day.",
+      "watchFor": "Someone replies with a decision without asking for more detail.",
+      "ifItFails": "They reply to the wrong part or ignore the ask. The subject landed; the body buried it. Resend with the ask as the only line above the fold: <strong>\"One thing: I need your sign-off by Friday 5pm. Detail below unchanged.\"</strong>",
+      "counter": "A loaded subject line can commit you before you read the case.\n• Notice you already formed an opinion from nine words.\n• Reply: <strong>\"Before I sign, show me the two options you rejected.\"</strong>\n• Read the bottom of the mail first. That is where the weak part hides.",
+      "insight": "A subject line that carries the answer gets read, but it also gets quoted out of context in threads you never see. The harder part is writing one that survives being forwarded alone."
+    },
+    {
+      "id": 6,
+      "cat": "written",
+      "danger": "low",
+      "title": "Make Slide One The Whole Story",
+      "principle": "Minto Pyramid × Recency-Proofing",
+      "remember": "If they leave after slide one, they still got the answer.",
+      "when": "Your deck builds to a recommendation on slide 14 and the exec leaves at minute six.",
+      "hook": "Executives leave early. <strong>Build the deck so the first slide survives alone.</strong>",
+      "truth": "A build-up deck assumes the room stays. Most rooms do not.\n• Slide one carries the answer, the number, and the ask.\n• Everything after it becomes proof they can skip.\n• The trap: do not call slide one an 'agenda'. It is the verdict.",
+      "theySee": "A person whose first slide answers the question they came in with.",
+      "signals": [
+        {
+          "icon": "🚪",
+          "l": "Early exit",
+          "t": "The decision-maker leaves before slide ten"
+        },
+        {
+          "icon": "⏭️",
+          "l": "Skip ahead",
+          "t": "They say 'jump to the recommendation'"
+        },
+        {
+          "icon": "📚",
+          "l": "Deep deck",
+          "t": "Your recommendation sits past slide eight"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write slide one last",
+          "desc": "Build the deck, then write one slide with the answer, the number, and the ask."
+        },
+        {
+          "n": "2",
+          "title": "Move it to the front",
+          "desc": "Make it slide one. Delete the agenda slide. Nobody has ever needed it."
+        },
+        {
+          "n": "3",
+          "title": "Read it out loud in 30 seconds",
+          "desc": "Time yourself. If slide one takes over 30 seconds to present, cut it down."
+        }
+      ],
+      "script": "\"<strong>Slide one is the whole answer: we buy, not build, at $400K over three years.</strong> The rest is the math. Stop me wherever you want.\"",
+      "example": "Ken's team built a 22-slide build-and-buy analysis. He moved the recommendation to slide one. The CTO approved at minute four and used the remaining 26 minutes to ask about hiring — a conversation Ken had wanted for a month.",
+      "watchFor": "They say 'Agreed' before slide three and start asking about next steps.",
+      "ifItFails": "They reject slide one immediately and you have 20 slides of proof for a dead answer. Do not walk the deck anyway. Ask for the objection and go straight to that slide: <strong>\"Which part is wrong — the cost or the timeline? I have a slide on each.\"</strong>",
+      "counter": "A strong slide one is built to end the discussion early.\n• Notice you are agreeing before you have seen any numbers.\n• Say: <strong>\"Show me the slide behind that number.\"</strong>\n• Make them defend the page they hoped you would skip.",
+      "insight": "Front-loading a deck gets fast yeses and fast noes. The fast no is the expensive one. The next question is whether you can hold the room long enough to get one objection on the record."
+    },
+    {
+      "id": 7,
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "Answer The Question They Asked, Then Stop",
+      "principle": "Sun Tzu: Do Not Fight On Ground You Did Not Choose",
+      "remember": "Answer in one sentence. Silence is not your job to fill.",
+      "when": "An exec asks a yes-or-no question and you start a three-minute answer.",
+      "hook": "Long answers to short questions sound like you are hiding something. <strong>Say yes or no, then stop.</strong>",
+      "truth": "Over-explaining hands the other side every hook they need.\n• A one-sentence answer keeps the topic where you put it.\n• They must ask the next question, which tells you what they care about.\n• The trap: silence pulls words out of you. Count to three instead.",
+      "theySee": "A person who gives a short answer and then waits, calm.",
+      "signals": [
+        {
+          "icon": "🎣",
+          "l": "Follow-on hook",
+          "t": "They pick one word from your long answer and chase it"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Self-interrupt",
+          "t": "You add 'but also' three times in one answer"
+        },
+        {
+          "icon": "📉",
+          "l": "Lost thread",
+          "t": "You cannot remember the original question halfway through"
+        },
+        {
+          "icon": "🤐",
+          "l": "Silence pull",
+          "t": "You keep talking because nobody responded"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer in one sentence",
+          "desc": "Say yes, no, or the number. Nothing else in that sentence."
+        },
+        {
+          "n": "2",
+          "title": "Count three silently",
+          "desc": "Do not speak for three seconds. Let them take the next turn."
+        },
+        {
+          "n": "3",
+          "title": "Offer the detail as a choice",
+          "desc": "If they stay quiet, say 'I can give you the reason or the plan.' Let them pick."
+        }
+      ],
+      "script": "\"<strong>No — we will not make the 15th.</strong>\" (Then stop. Count three.)",
+      "example": "Alex was asked in a board meeting if the audit was clean. He said \"Yes, two minor findings, both closed.\" Then stopped. The chair moved on. His predecessor had spent nine minutes on the same question and got three follow-ups.",
+      "watchFor": "They move to the next agenda item instead of digging into your answer.",
+      "ifItFails": "They wait you out in silence to make you keep talking. That is a trained move, not an accident. Do not fill it. Hand the turn back with a question: <strong>\"That's the answer. What's the part you want me to go deeper on?\"</strong> Do not run the silence game on someone who writes your review unless you have already given the full answer.",
+      "counter": "When someone gives a short answer and stops, they are protecting the topic.\n• Notice they answered narrowly and left the rest untouched.\n• Ask: <strong>\"And what else should I know about it?\"</strong>\n• Open questions cost them more than yes-or-no ones.",
+      "insight": "Short answers read as confidence until they read as evasion. The line between the two is whether you offered the detail. The harder part is knowing which question was actually the real one."
+    },
+    {
+      "id": 8,
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "Give The Conclusion When They Cut You Off",
+      "principle": "Schelling: Commitment Under Interruption",
+      "remember": "If they cut in, give the answer in one breath.",
+      "when": "Two sentences into your update your boss says 'Get to the point.'",
+      "hook": "The interruption is not an attack. <strong>It is your last chance to be heard.</strong>",
+      "truth": "An interruption means their patience is spent, not their interest.\n• One clean sentence turns a cut-off into the actual briefing.\n• They shift from annoyed to deciding.\n• The trap: never restart the story. You get one sentence, not two.",
+      "theySee": "A person who takes the interruption and lands a full answer in one line.",
+      "signals": [
+        {
+          "icon": "✋",
+          "l": "Hand up",
+          "t": "They raise a hand while you are mid-sentence"
+        },
+        {
+          "icon": "⚡",
+          "l": "Speed-up",
+          "t": "They start talking faster than you"
+        },
+        {
+          "icon": "📱",
+          "l": "Device pickup",
+          "t": "They pick up the phone as you begin"
+        },
+        {
+          "icon": "🎯",
+          "l": "Point demand",
+          "t": "They say 'bottom line' or 'so what'"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop mid-sentence",
+          "desc": "Cut yourself off. Do not finish the thought you were on."
+        },
+        {
+          "n": "2",
+          "title": "Deliver the one-line answer",
+          "desc": "Give the result, the number, and the ask in one sentence."
+        },
+        {
+          "n": "3",
+          "title": "Offer the rest on their terms",
+          "desc": "Ask which part they want. Do not volunteer the story again."
+        }
+      ],
+      "script": "\"<strong>Fair. Bottom line: we slip two weeks, cost is flat, and I need one decision from you today.</strong> Which part do you want?\"",
+      "example": "When his CEO said \"Get to it,\" Sam stopped mid-word and said \"We lose the contract unless we discount 8% by Friday.\" The CEO sat back down. The meeting ran 20 minutes instead of ending in two.",
+      "watchFor": "They stop what they are doing and turn their body back toward you.",
+      "ifItFails": "They cut you off again on the one-liner. The room is not yours today. Take it to a channel they control instead: <strong>\"I'll put it in three lines in your inbox in ten minutes. If you want me back in the room, tell me when.\"</strong> Do not push a third time in front of an audience.",
+      "counter": "An interruption is also a tool for taking control of a meeting.\n• Notice you were cut off before the facts arrived, not after.\n• Say: <strong>\"I'll get there in one sentence — here it is.\"</strong>\n• Then actually deliver in one sentence or you lose the room for good.",
+      "insight": "Recovering from an interruption raises you above the person who freezes. This works until the interruption is a message rather than impatience. The next question is whether you were cut off, or cut out."
+    },
+    {
+      "id": 9,
+      "cat": "defense",
+      "danger": "high",
+      "title": "Spot The Confident Answer With No Proof Behind It",
+      "principle": "Authority Bias × Confidence Heuristic",
+      "remember": "A fast confident answer is not the same as a right one.",
+      "when": "A peer opens the meeting with a firm number and the room nods before anyone checks it.",
+      "hook": "A clean first sentence makes people stop checking. <strong>That is exactly why some people use it.</strong>",
+      "truth": "Rooms treat speed and certainty as evidence. They are not.\n• The confident opener sets the anchor everyone argues around.\n• Doubters now have to prove a negative, which is expensive.\n• The trap: challenge the source of the number, not the person.",
+      "theySee": "A colleague who asks one specific question about where a number came from.",
+      "signals": [
+        {
+          "icon": "🚀",
+          "l": "Fast certainty",
+          "t": "They give a precise number with no source named"
+        },
+        {
+          "icon": "🧱",
+          "l": "No caveats",
+          "t": "Their answer has no conditions and no unknowns in it"
+        },
+        {
+          "icon": "🙅",
+          "l": "Detail dodge",
+          "t": "They call your follow-up a rabbit hole"
+        },
+        {
+          "icon": "👥",
+          "l": "Room nod",
+          "t": "Everyone agrees within ten seconds and nobody takes notes"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask where the number came from",
+          "desc": "Ask one question: which system, which date, who pulled it."
+        },
+        {
+          "n": "2",
+          "title": "Ask what would change it",
+          "desc": "Ask what fact would make the answer wrong. Weak cases have no answer here."
+        },
+        {
+          "n": "3",
+          "title": "Put your doubt in writing after",
+          "desc": "Send one short note naming the open question. Now it exists on the record."
+        }
+      ],
+      "script": "\"<strong>Before we lock that — where did the 12% come from, and what would have to be true for it to be wrong?</strong>\"",
+      "example": "Nina's peer opened with \"Churn is 12%, we cut the plan.\" She asked which report and which month. It was a three-week-old dashboard with a broken filter. Real churn was 6%. The plan survived and so did her standing.",
+      "watchFor": "They pause and say they will check the source instead of answering.",
+      "ifItFails": "They brush you off and the room moves on. Do not argue it twice in the meeting — you will look like the obstacle. Move it to writing where it costs them a reply: <strong>\"Noting the open item: the 12% source is unconfirmed. I'll pull it myself and send the number by Thursday.\"</strong> Do not run this on your own boss in front of their boss.",
+      "counter": "If someone asks you for your source in public, they may be testing your footing.\n• Notice the question is about where, not about what.\n• Say: <strong>\"Pulled Monday from the billing export. I'll share the file.\"</strong>\n• Have the file ready before the meeting or do not use the number.",
+      "insight": "Asking for the source once makes you careful. Asking every time makes you the brake. The real trap is becoming the person the room routes around to avoid the question."
+    },
+    {
+      "id": 10,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Refuse To Give A Conclusion You Do Not Have Yet",
+      "principle": "Machiavelli: The Prince, Ch. 23 — On Avoiding Flatterers",
+      "remember": "Say what you know and when you will know the rest.",
+      "when": "Your boss demands a straight answer and you genuinely do not have one yet.",
+      "hook": "Inventing a conclusion to sound decisive is the fastest way to get held to it. <strong>Give a date instead.</strong>",
+      "truth": "Pressure for a straight answer is often just pressure for a date.\n• Naming what you know and when you will know more still sounds decisive.\n• They get something to plan around, which is what they wanted.\n• The trap: never say 'I don't know' alone. Always attach the date.",
+      "theySee": "A person who says what is confirmed, what is not, and names a date.",
+      "signals": [
+        {
+          "icon": "⏳",
+          "l": "Answer demand",
+          "t": "They ask for a yes or no on something still in progress"
+        },
+        {
+          "icon": "🎲",
+          "l": "Guess pull",
+          "t": "They say 'just give me your gut'"
+        },
+        {
+          "icon": "📌",
+          "l": "Quote risk",
+          "t": "You know your number will be repeated upstairs today"
+        },
+        {
+          "icon": "🧩",
+          "l": "Missing input",
+          "t": "A key result does not land until next week"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Split known from unknown",
+          "desc": "Write two lines: what is confirmed, and what is still open."
+        },
+        {
+          "n": "2",
+          "title": "Name the date",
+          "desc": "Say the exact day you will have the answer. Not 'soon', not 'next sprint'."
+        },
+        {
+          "n": "3",
+          "title": "Deliver early on that date",
+          "desc": "Send the answer the morning of the date you named, even if it is partial."
+        }
+      ],
+      "script": "\"<strong>Confirmed: the build works. Open: the load test runs Thursday. I'll have a yes or no by Thursday 4pm.</strong>\"",
+      "example": "Jordan's VP pushed for a launch commitment before the load test. Jordan gave the two confirmed items and a Thursday 4pm date. He sent the answer Thursday at 9am. The VP now asks him for dates instead of guesses.",
+      "watchFor": "They write down your date instead of pushing for a number.",
+      "ifItFails": "They push again and demand a guess anyway. Give the guess with its price attached so it cannot be quoted clean: <strong>\"If you need a number today it's 60% — and I'll be wrong often enough that I don't want it in a board deck. Thursday I'll be right.\"</strong> Do not use this line twice with the same person; the second time reads as stalling.",
+      "counter": "Someone who demands your gut wants a number they can quote and you cannot retract.\n• Notice they ask for a feeling, not for evidence.\n• Say: <strong>\"You can have a guess or an answer. Which one goes in the deck?\"</strong>\n• Then send the confirmed facts in writing the same hour.",
+      "insight": "Giving a date instead of an answer works while you hit the dates. Miss two and the date becomes the thing they stop believing. The harder question is what you do when the answer arrives and it is the one nobody wanted."
+    }
+  ]
+}
