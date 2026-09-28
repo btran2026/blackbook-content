@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 85,
+  "manifestVersion": 86,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -767,7 +767,20 @@
       "url": "playbooks/playbook-srv-no-fingerprints.json",
       "addedAt": "2026-09-25T17:50:19.981Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-star-without-the-slop",
+      "title": "STAR Without the Slop",
+      "theme": "star",
+      "topic": "",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#1A2B4C",
+      "coverIcon": "⭐",
+      "url": "playbooks/playbook-srv-star-without-the-slop.json",
+      "addedAt": "2026-09-28T06:28:17.993Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-25T17:50:19.981Z"
+  "generatedAt": "2026-09-28T06:28:17.993Z"
 }

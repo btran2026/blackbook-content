@@ -1,0 +1,618 @@
+{
+  "meta": {
+    "id": "srv-star-without-the-slop",
+    "version": "1.0",
+    "title": "STAR Without the Slop",
+    "subtitle": "Situation, Task, Action, Result — told so it moves the room",
+    "description": "Ten moves for describing your own work in reviews, interviews and retros. How the other side scores you, what they tick, and how to fill the boxes before they dig.",
+    "author": "AI",
+    "createdAt": "2026-09-25T23:08:01.958Z",
+    "tags": [
+      "star",
+      "interviews",
+      "performance review",
+      "retro",
+      "credit",
+      "career"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#1A2B4C",
+    "coverIcon": "⭐",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "build",
+      "label": "Build the Story",
+      "color": "#C9A227"
+    },
+    {
+      "key": "proof",
+      "label": "Numbers and Receipts",
+      "color": "#3FA796"
+    },
+    {
+      "key": "interview",
+      "label": "The Interview Room",
+      "color": "#4A6FA5"
+    },
+    {
+      "key": "review",
+      "label": "Review Season",
+      "color": "#7A5AA6"
+    },
+    {
+      "key": "retro",
+      "label": "Retro Room",
+      "color": "#6E6E6E"
+    },
+    {
+      "key": "pressure",
+      "label": "Under Pressure",
+      "color": "#B8452F"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "build",
+      "danger": "low",
+      "title": "Lead With the Result First",
+      "principle": "Primacy Effect × Anchoring (Tversky & Kahneman)",
+      "remember": "Say what happened first. Then say how you got there.",
+      "when": "The interviewer says \"tell me about a time you fixed something.\"",
+      "hook": "Most people save the good part for the end. <strong>By then the listener stopped listening.</strong>",
+      "truth": "People decide if a story is worth hearing in the first ten seconds.\n• You name the result first, so every detail after it lands as proof.\n• They stop grading the story and start asking how you did it.\n• The trap: leading with a number you cannot back up.",
+      "theySee": "A person who answers the question in one line, then backs it up.",
+      "signals": [
+        {
+          "icon": "👀",
+          "l": "Eyes drop",
+          "t": "They look at their notes while you set up the background."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Clock check",
+          "t": "They check the time before you reach the action part."
+        },
+        {
+          "icon": "✂️",
+          "l": "Cut-in",
+          "t": "They interrupt you with \"so what happened?\""
+        },
+        {
+          "icon": "📝",
+          "l": "Flat notes",
+          "t": "They write nothing down until your last sentence."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the result line",
+          "desc": "Write one sentence with the number in it. Say it out loud twice."
+        },
+        {
+          "n": "2",
+          "title": "Put it first",
+          "desc": "Open with that line, then say \"here is how that happened.\""
+        },
+        {
+          "n": "3",
+          "title": "Cut the rest to 90 seconds",
+          "desc": "Time yourself. Keep setup, action and proof under a minute and a half."
+        }
+      ],
+      "script": "\"We cut checkout errors by 40% in six weeks. <strong>Here is how that happened.</strong>\"",
+      "example": "Priya used to open with three minutes about her team. In her fourth interview she opened with \"I cut our release time from nine days to two.\" The interviewer put his pen down and asked how. She had the offer that week.",
+      "watchFor": "They lean in and ask \"how did you do that?\" before you finish.",
+      "ifItFails": "They shrug and say \"okay, but what was your part?\" That means the number sounded like the team's, not yours. Answer with one line that puts your hands on it: <strong>\"I wrote the rollback script and ran the migration myself. That is where the seven days went.\"</strong>",
+      "counter": "If someone opens with a big number, they are anchoring you.\n• Notice you already graded their story as good.\n• Ask: <strong>\"What was it before, and who measured it?\"</strong>\n• Make them walk the middle of the story. The truth sits there.",
+      "insight": "The result-first opening buys attention you have not earned yet. The harder part is the next sixty seconds, when you have to pay for it."
+    },
+    {
+      "id": 2,
+      "cat": "build",
+      "danger": "low",
+      "title": "Cut the Setup to Two Sentences",
+      "principle": "Grice: Maxim of Quantity",
+      "remember": "Two sentences of background. Then say what you did.",
+      "when": "You catch yourself three minutes into explaining what your company does.",
+      "hook": "Background feels necessary to you. <strong>It sounds like stalling to them.</strong>",
+      "truth": "The setup is the only part of your story nobody asked for.\n• Two sentences give the listener just enough to follow the action.\n• They stop waiting for the point and start hearing your work.\n• The trap: the detail you cut is the one you find interesting.",
+      "theySee": "A person who gives two lines of background, then says what they did.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Hand roll",
+          "t": "They roll a hand to speed you up."
+        },
+        {
+          "icon": "💬",
+          "l": "Summary offer",
+          "t": "They say \"so basically the system was broken.\""
+        },
+        {
+          "icon": "⤴️",
+          "l": "Question stack",
+          "t": "They interrupt with the question you were about to answer."
+        },
+        {
+          "icon": "📉",
+          "l": "Note gap",
+          "t": "They stop writing during your background."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the two lines",
+          "desc": "Write the problem in one sentence and the stakes in the next."
+        },
+        {
+          "n": "2",
+          "title": "Delete the org chart",
+          "desc": "Cut team names, tool names and history nobody asked for."
+        },
+        {
+          "n": "3",
+          "title": "Time the setup",
+          "desc": "Record yourself. If the setup runs past 20 seconds, cut a sentence."
+        }
+      ],
+      "script": "\"Our billing job failed every Monday and blocked 200 invoices. <strong>Nobody owned it.</strong> So I took it.\"",
+      "example": "Marcus opened every retro with a five-minute history of the service. His manager started scheduling him last. He cut it to two sentences — the job failed weekly, 200 invoices stuck — and the same manager asked him to present to the director.",
+      "watchFor": "They stop summarizing for you and let you keep talking.",
+      "ifItFails": "They ask for more background anyway — \"wait, who owns that service?\" Good. Answer in one line and hand the choice back: <strong>\"Platform owns it, I am on payments. Want the full map, or the fix?\"</strong> Now they pick the detour, not you.",
+      "counter": "If someone buries you in setup, the work underneath may be thin.\n• Notice you still cannot name what they personally did.\n• Say: <strong>\"Skip ahead — what did you do?\"</strong>\n• If the action is shorter than the setup, the work was small.",
+      "insight": "A short setup makes you sound senior, until someone asks for a detail you cut. The real question is which two sentences you keep."
+    },
+    {
+      "id": 3,
+      "cat": "build",
+      "danger": "moderate",
+      "title": "Say I, Not We, When You Name the Action",
+      "principle": "Greene: Law 7 — Always Take the Credit × Credit Attribution",
+      "remember": "Say we for the setup. Say I for the work.",
+      "when": "You describe a project you led and every sentence starts with \"we\".",
+      "hook": "\"We\" is polite and it erases you. <strong>Nobody can promote a we.</strong>",
+      "truth": "Panels and review committees score one person, not a crowd.\n• You say I only in the action part, so your hands show.\n• They hear someone who decided something, not a group photo.\n• The trap: saying I in the result too. That reads as a grab.",
+      "theySee": "A person who says the team shipped it, then names the one piece they built.",
+      "signals": [
+        {
+          "icon": "🧱",
+          "l": "We wall",
+          "t": "You said we four times before you said I."
+        },
+        {
+          "icon": "❓",
+          "l": "Role probe",
+          "t": "They ask \"and what was your role?\" for the second time."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Name blur",
+          "t": "They cannot repeat back what you personally did."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Mark the real decisions",
+          "desc": "Read your story. Underline every sentence with a decision in it."
+        },
+        {
+          "n": "2",
+          "title": "Switch those to I",
+          "desc": "Change we to I in those sentences only. Leave the rest alone."
+        },
+        {
+          "n": "3",
+          "title": "Give one name away",
+          "desc": "Credit one teammate out loud by name. It buys you the rest."
+        }
+      ],
+      "script": "\"The team shipped it. <strong>I owned the data migration</strong> — I wrote the plan, ran it at 2am, and Dana covered the rollback.\"",
+      "example": "Tom said \"we\" for forty minutes in a promotion panel and got held a cycle. Next round he said \"I built the pricing service, Nina ran QA.\" The same panel wrote \"clear ownership\" in his packet and promoted him.",
+      "watchFor": "They write your name next to one specific piece of the work.",
+      "ifItFails": "Someone pushes back — \"that sounds like Dana's project.\" Do not argue about who owned it. Split it out loud instead: <strong>\"Dana owned QA. I owned the migration. Ask her, she will tell you the same.\"</strong> A checkable witness ends the argument.",
+      "counter": "If someone says I for every part, check the seams.\n• Notice there are no other names anywhere in the story.\n• Ask: <strong>\"Who else was on it, and what did they do?\"</strong>\n• A real owner names three people fast. A taker stalls.",
+      "insight": "Saying I costs nothing with the panel and something with your team. Do not run this in a room where the teammate who did the work is sitting. The next question is who hears the recording."
+    },
+    {
+      "id": 4,
+      "cat": "proof",
+      "danger": "low",
+      "title": "Put a Number on Every Result",
+      "principle": "Concreteness Effect (Paivio) × Availability Heuristic",
+      "remember": "A number sticks. A good adjective disappears.",
+      "when": "You end a story with \"and it went really well.\"",
+      "hook": "\"It went well\" dies in the room. <strong>\"Errors dropped 40%\" walks out with them.</strong>",
+      "truth": "People forget adjectives in minutes and repeat numbers for weeks.\n• A number turns your claim into something they can quote upward.\n• They stop judging your confidence and start checking your math.\n• The trap: an after number with no before number.",
+      "theySee": "A person who ends with a before number and an after number.",
+      "signals": [
+        {
+          "icon": "🫧",
+          "l": "Adjective ending",
+          "t": "You finished with successful, smooth, or impactful."
+        },
+        {
+          "icon": "🔇",
+          "l": "No repeat",
+          "t": "Nobody repeats your result back to you."
+        },
+        {
+          "icon": "➡️",
+          "l": "Fast move-on",
+          "t": "They go to the next question with no questions about yours."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the before number",
+          "desc": "Dig up what the number was before you touched it. Check old tickets or dashboards."
+        },
+        {
+          "n": "2",
+          "title": "Write both numbers in one line",
+          "desc": "From X to Y, in Z weeks. Three numbers, one sentence."
+        },
+        {
+          "n": "3",
+          "title": "Convert it once",
+          "desc": "Add dollars saved, hours returned, or customers kept. Pick one."
+        }
+      ],
+      "script": "\"Support tickets went from <strong>310 a week to 190</strong> in two months. That gave the team back about ten hours a week.\"",
+      "example": "Elena told her review \"the dashboard was a big success.\" Her manager wrote \"meets expectations.\" Six months later she said \"19 teams use it daily and it replaced four spreadsheets.\" She got the raise, and her manager reused her line in his own review.",
+      "watchFor": "They repeat your number back to you, or write it down.",
+      "ifItFails": "You have no number because nobody measured it. Do not invent one. Count something you can prove and say where it came from: <strong>\"We never tracked it, so I counted the tickets myself — 310 before, 190 after. I can send the export.\"</strong>",
+      "counter": "If someone hands you a shiny number, ask what it replaced.\n• Notice they gave an after number and no before number.\n• Ask: <strong>\"What was it before, and who measured it?\"</strong>\n• A percentage with no base number usually hides a tiny base.",
+      "insight": "A number gets you believed. It also gets you audited. The harder part is having the export ready the day they ask."
+    },
+    {
+      "id": 5,
+      "cat": "proof",
+      "danger": "low",
+      "title": "Keep a Wins File From Day One",
+      "principle": "Recency Bias × Availability Heuristic",
+      "remember": "Write the win down the week it happens. Memory lies later.",
+      "when": "Your review is in two weeks and you cannot remember what you did in March.",
+      "hook": "Nobody remembers March. <strong>The person holding the file writes March for everyone.</strong>",
+      "truth": "Your boss remembers the last six weeks and almost nothing before that.\n• You keep dated lines with numbers, so you hold the record.\n• They read your file and their memory fills in around it.\n• The trap: writing it up at review time. The numbers are gone.",
+      "theySee": "A coworker who pastes six dated lines with numbers into the review thread.",
+      "signals": [
+        {
+          "icon": "🕳️",
+          "l": "Blank March",
+          "t": "You cannot name one thing you shipped six months ago."
+        },
+        {
+          "icon": "🙋",
+          "l": "Borrowed memory",
+          "t": "You ask a teammate what you worked on in the spring."
+        },
+        {
+          "icon": "📱",
+          "l": "Screenshot hunt",
+          "t": "You scroll old chats the night before your review."
+        },
+        {
+          "icon": "📆",
+          "l": "Boss recency",
+          "t": "Your manager only mentions last month's work."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Make the file today",
+          "desc": "One note. One line per win: date, what you did, the number."
+        },
+        {
+          "n": "2",
+          "title": "Set a Friday reminder",
+          "desc": "Every Friday, add one line. Five minutes, not an essay."
+        },
+        {
+          "n": "3",
+          "title": "Save the proof link",
+          "desc": "Paste the ticket, dashboard or thank-you message next to each line."
+        }
+      ],
+      "script": "(to your manager, mid-cycle) <strong>\"I keep a running list of what I shipped, with the numbers. Want it before we write reviews?\"</strong>",
+      "example": "Ray kept a note called \"receipts\" and added one line every Friday. At review time he sent 22 dated lines with links. His manager copied half of them into the official form word for word, numbers included.",
+      "watchFor": "Your manager asks you to send the list before they write anything.",
+      "ifItFails": "You start the file late and the old numbers are gone. Rebuild from systems that keep dates for you: merged pull requests, closed tickets, your calendar, sent mail. Do it in one sitting, then send: <strong>\"Here is the full list with dates, so we work from the same record.\"</strong>",
+      "counter": "If a peer always has dated receipts, they set the record first.\n• Notice the review talk keeps using their words and their numbers.\n• Say: <strong>\"Here is my list for the same period.\"</strong>\n• Bring dates and links. Memory loses to paper every time.",
+      "insight": "The file wins reviews because everyone else is guessing. The harder part is that it also shows your quiet months in writing."
+    },
+    {
+      "id": 6,
+      "cat": "interview",
+      "danger": "low",
+      "title": "They Score You on a Checklist — Fill Every Box",
+      "principle": "Structured Behavioral Interview — Rubric Scoring",
+      "remember": "They tick boxes. Say the words that fill each box.",
+      "when": "The interviewer reads a question off a screen and types while you answer.",
+      "hook": "They are not listening for a good story. <strong>They are hunting for four things to tick.</strong>",
+      "truth": "The interviewer has a form with four rows and a score box.\n• You name each part out loud, so they tick it without guessing.\n• They stop digging. Digging is how candidates lose points.\n• The trap: a great story that never says what you were asked to do.",
+      "theySee": "An interviewer who types one line after each part of your answer.",
+      "signals": [
+        {
+          "icon": "🖥️",
+          "l": "Screen read",
+          "t": "They read the question word for word off a screen."
+        },
+        {
+          "icon": "⌨️",
+          "l": "Typing bursts",
+          "t": "They type in short bursts while you talk, then stop."
+        },
+        {
+          "icon": "🔍",
+          "l": "Same probes",
+          "t": "They ask \"what was your role?\" and \"how did you measure that?\""
+        },
+        {
+          "icon": "📋",
+          "l": "Fixed order",
+          "t": "Every interviewer in the loop asks the questions in the same order."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the four parts out loud",
+          "desc": "Use plain words: here was the problem, my job was, I did, the result was."
+        },
+        {
+          "n": "2",
+          "title": "Pause after the action",
+          "desc": "Give them two seconds to finish typing before you say the result."
+        },
+        {
+          "n": "3",
+          "title": "End on the measure",
+          "desc": "Close with how you knew it worked. That row is scored hardest."
+        }
+      ],
+      "script": "\"Short version: the problem was weekly outages. <strong>My job was to stop them.</strong> I rewrote the retry logic and added alerts. Outages went from four a month to zero for six months.\"",
+      "example": "Sofia noticed her interviewer only typed when she said \"my job was\" and \"the result was.\" She said those exact words in every answer for the rest of the loop. The recruiter told her the panel scored her highest on clear ownership.",
+      "watchFor": "They stop asking follow-up questions and move to the next topic early.",
+      "ifItFails": "They keep probing the same row, usually the action. That means they cannot tell what you personally decided. Give them one decision with a fork in it: <strong>\"The call was mine: patch it that night or wait for the release. I patched it and took the risk.\"</strong>",
+      "counter": "If someone answers in four neat labeled chunks, they have practiced this.\n• Notice the answer is smooth and has no dead ends.\n• Ask: <strong>\"What went wrong in the middle of that?\"</strong>\n• A real story has a bad week in it. A rehearsed one does not.",
+      "insight": "Feeding the form gets you a good score from an average interviewer. A good one breaks the form on purpose, and then only real work survives."
+    },
+    {
+      "id": 7,
+      "cat": "interview",
+      "danger": "low",
+      "title": "Bring Six Stories, Not Sixty",
+      "principle": "Chunking (Miller: 7±2)",
+      "remember": "Six strong stories cover forty questions. Prepare six.",
+      "when": "You have a panel tomorrow and a list of thirty questions to prepare.",
+      "hook": "You cannot prepare thirty answers. <strong>You can prepare six stories and bend each one three ways.</strong>",
+      "truth": "Most behavioral questions ask about the same six things in different words.\n• You build six stories, each with three endings you can pick.\n• They hear a specific answer every time, not a recital.\n• The trap: spending the same story twice in one panel.",
+      "theySee": "A candidate who meets a new question with a story they clearly know cold.",
+      "signals": [
+        {
+          "icon": "♻️",
+          "l": "Repeat theme",
+          "t": "Three of your prepared questions are about conflict."
+        },
+        {
+          "icon": "🥶",
+          "l": "Blank draw",
+          "t": "You freeze on a question you did not write out."
+        },
+        {
+          "icon": "🔂",
+          "l": "Story reuse",
+          "t": "You told the same migration story to two interviewers."
+        },
+        {
+          "icon": "🕳️",
+          "l": "Thin middle",
+          "t": "You know the start and the end of a story but not the middle."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick six",
+          "desc": "Choose a win, a failure, a conflict, a deadline, a leadership call, a change of mind."
+        },
+        {
+          "n": "2",
+          "title": "Write the spine",
+          "desc": "For each, write four lines: problem, my job, what I did, the number."
+        },
+        {
+          "n": "3",
+          "title": "Practice the swap",
+          "desc": "Say each story twice. Once end on the team, once end on the number."
+        }
+      ],
+      "script": "(when a question does not match) <strong>\"The closest thing I have is a deadline call last spring. Does that work?\"</strong> Then tell it.",
+      "example": "Deno prepared six stories for a five-person loop and tracked on a sticky note which one he spent on whom. When the fourth interviewer asked about conflict, he still had a fresh one. The hiring manager said the panel notes read like five people had met the same solid engineer.",
+      "watchFor": "You answer a question you never prepared without pausing to think.",
+      "ifItFails": "A question lands and no story fits. Do not force a bad one in. Name the gap and trade: <strong>\"I have not hit that exact situation. The closest is the billing outage, or I can tell you what I would do here. Which helps more?\"</strong> Most interviewers take the trade.",
+      "counter": "If a candidate has six polished stories, test the edges.\n• Notice every answer arrives at the same speed and shape.\n• Ask: <strong>\"Same project — tell me the part you handled badly.\"</strong>\n• Prepared people have a weak second layer. Go straight there.",
+      "insight": "Six stories make you fast, and fast can sound rehearsed. The harder part is leaving the rough edges in on purpose."
+    },
+    {
+      "id": 8,
+      "cat": "review",
+      "danger": "moderate",
+      "title": "Write Your Review Before Your Boss Writes Theirs",
+      "principle": "Anchoring (Tversky & Kahneman) × First-Draft Advantage",
+      "remember": "Whoever writes the first draft sets the story.",
+      "when": "Review season opens and your manager has not started writing yet.",
+      "hook": "Your manager has eight reviews to write and no time. <strong>The first draft they read is the draft they keep.</strong>",
+      "truth": "Managers write reviews from memory, under a deadline, late at night.\n• You send short quotable lines before they start, so they copy them.\n• Their blank page fills with your words and your numbers.\n• The trap: sending an essay. Nobody copies from an essay.",
+      "theySee": "A team member who sends six dated bullets with numbers, unasked.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Deadline posted",
+          "t": "A review deadline appears on the team calendar."
+        },
+        {
+          "icon": "🤲",
+          "l": "Vague ask",
+          "t": "Your manager says \"send me anything you want included.\""
+        },
+        {
+          "icon": "🌙",
+          "l": "Late submits",
+          "t": "Your manager files reviews the night they are due."
+        },
+        {
+          "icon": "🔁",
+          "l": "Copy history",
+          "t": "Last year's review used a phrase you wrote."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write six bullets",
+          "desc": "One line each: what you did, the number, the date. No adjectives."
+        },
+        {
+          "n": "2",
+          "title": "Send it early",
+          "desc": "Send a week before the deadline, not the day of."
+        },
+        {
+          "n": "3",
+          "title": "Add one growth line",
+          "desc": "Name one thing you want to get better at. It makes the rest believable."
+        }
+      ],
+      "script": "\"Before you write mine — six things with numbers, so you do not have to dig. <strong>Copy anything useful straight in.</strong>\"",
+      "example": "Hana sent her manager six bullets ten days early, each with a number. Her final review carried four of them word for word, including \"cut onboarding from 3 weeks to 4 days.\" Her peer sent nothing and got a review built from the last sprint.",
+      "watchFor": "Your manager says your exact phrase back at you in the review meeting.",
+      "ifItFails": "They ignore it and write something soft like \"solid contributor.\" Do not fight the rating in the room. Ask for the gap in writing: <strong>\"What would have had to be in those six lines for this to read as exceeds? Put it in writing and I will go get it.\"</strong>",
+      "counter": "If a teammate keeps getting quoted in summaries, they wrote the draft first.\n• Notice the wording does not sound like your manager.\n• Send your own six lines before the next cycle opens.\n• Do not complain about theirs. Add yours to the same pile.",
+      "insight": "The first draft wins because the reader is tired, not because you are right. Do not send this to a manager who already told you the rating is locked. The next question is who reads the draft above them."
+    },
+    {
+      "id": 9,
+      "cat": "retro",
+      "danger": "high",
+      "title": "Tell the Failure Story Before Someone Else Does",
+      "principle": "Voss: Accusation Audit × Blameless Postmortem (Allspaw)",
+      "remember": "Say the miss first. Then say the fix you already shipped.",
+      "when": "The project slipped and tomorrow's retro timeline has your name on it.",
+      "hook": "Someone in that room will name your miss. <strong>It should be you, with the fix attached.</strong>",
+      "truth": "The first person to name the failure decides what it means.\n• You name your miss plainly, then name the fix already running.\n• They stop hunting and start working on the fix with you.\n• The trap: naming the miss with no fix. That is just a confession.",
+      "theySee": "A person who says the miss out loud in the first minute and shows the change.",
+      "signals": [
+        {
+          "icon": "🧾",
+          "l": "Timeline build",
+          "t": "Someone starts writing a dated timeline on the board."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Pronoun shift",
+          "t": "People switch from we to the team that owns it."
+        },
+        {
+          "icon": "🤐",
+          "l": "Silence pocket",
+          "t": "Nobody speaks when your part of the timeline comes up."
+        },
+        {
+          "icon": "📩",
+          "l": "Private warning",
+          "t": "A teammate messages you before the meeting to warn you."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the miss in one line",
+          "desc": "Say what you missed and when. No reasons yet."
+        },
+        {
+          "n": "2",
+          "title": "Attach the fix",
+          "desc": "Say what already changed so the same miss cannot repeat."
+        },
+        {
+          "n": "3",
+          "title": "Hand the room a question",
+          "desc": "Ask what else needs the same guard. Move them onto work."
+        }
+      ],
+      "script": "\"I missed the load test. That one is mine and it cost us four days. <strong>The test now runs in the pipeline and blocks the merge.</strong> What else are we shipping without one?\"",
+      "example": "Kwame opened the retro by naming his own missed load test before the timeline reached it. The room spent the next twenty minutes on pipeline gaps instead of his week. His director later cited him as the reason the team added merge gates.",
+      "watchFor": "The room moves to the fix and nobody comes back to your name.",
+      "ifItFails": "Someone keeps circling back to blame you, usually the person who needs a story for their own boss. Do not defend. Push it to the record and the calendar: <strong>\"Agreed, it was mine, and it is written down. What do you want changed by Friday?\"</strong> A blame hunter has no answer to a deadline.",
+      "counter": "If someone opens with their own failure and a tidy fix, check the size.\n• Notice they named a small miss and skipped a bigger one.\n• Ask: <strong>\"What else slipped that week?\"</strong>\n• Confession is cheap when the confessor picks which sin to name.",
+      "insight": "Owning the miss buys you the room, once. Do not run this if a manager is already building a case to fire you — written ownership becomes evidence. The next question is whether the fix you named actually holds."
+    },
+    {
+      "id": 10,
+      "cat": "pressure",
+      "danger": "moderate",
+      "title": "When They Say \"That Sounds Like a Team Effort\"",
+      "principle": "Status Test × Voss: Label",
+      "remember": "Split the work out loud. Name your piece and one teammate.",
+      "when": "You finish a strong story and the interviewer says \"so the team did that.\"",
+      "hook": "That line is a test, not a compliment. <strong>They want to see if you shrink or grab.</strong>",
+      "truth": "They use that line to find out whose hands were really on the work.\n• You split the project into named parts, so your piece is checkable.\n• They hear someone precise under pressure, not someone defensive.\n• The trap: \"well, actually I did most of it.\" That scores worst.",
+      "theySee": "A candidate who calmly breaks the project into three named pieces.",
+      "signals": [
+        {
+          "icon": "😐",
+          "l": "Flat tone",
+          "t": "They say the line without warmth and then wait."
+        },
+        {
+          "icon": "✋",
+          "l": "Pen down",
+          "t": "They stop writing and look straight at you."
+        },
+        {
+          "icon": "🔁",
+          "l": "Second probe",
+          "t": "They asked about your role earlier and you were vague."
+        },
+        {
+          "icon": "⏸️",
+          "l": "Long pause",
+          "t": "They leave silence after the line instead of moving on."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Agree in three words",
+          "desc": "Say \"it was\" and stop. Do not defend anything yet."
+        },
+        {
+          "n": "2",
+          "title": "Split the parts",
+          "desc": "Name three pieces and who owned each one, including you."
+        },
+        {
+          "n": "3",
+          "title": "Offer the check",
+          "desc": "Name someone they could ask. That ends the doubt fast."
+        }
+      ],
+      "script": "\"It was. <strong>Dana ran QA, Luis owned the front end, and I owned the migration and the rollback plan.</strong> Ask Dana — she will tell you the same.\"",
+      "example": "When the VP said \"sounds like your team carried that,\" Amir agreed in three words, split the work three ways, and named who to call. The VP wrote \"precise, not defensive\" in his notes. The offer came two days later.",
+      "watchFor": "They nod and move to the next question without probing your role again.",
+      "ifItFails": "They push harder — \"anyone could have run that migration.\" Do not argue about difficulty. Make them picture the failure: <strong>\"Maybe. It ran at 2am against live billing data, and if it broke, invoices stopped. That is why I wrote the rollback first.\"</strong>",
+      "counter": "If someone drops that line on you, they are testing, not dismissing.\n• Notice they went quiet and stopped taking notes.\n• Agree first, then split the work into named pieces.\n• Never say \"I did most of it.\" That is the answer they fish for.",
+      "insight": "Precision reads as honesty and vagueness reads as a grab. Do not offer a teammate as a witness if they would tell a different story. The harder part is when your piece really was small — then you need a different story, not a better answer."
+    }
+  ]
+}
