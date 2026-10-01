@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 86,
+  "manifestVersion": 87,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -780,7 +780,20 @@
       "url": "playbooks/playbook-srv-star-without-the-slop.json",
       "addedAt": "2026-09-28T06:28:17.993Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-pitching-controversial-ideas",
+      "title": "Pitching Controversial Ideas",
+      "theme": "pitching",
+      "topic": "Pitching a controversial idea",
+      "cardCount": 15,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🗡️",
+      "url": "playbooks/playbook-srv-pitching-controversial-ideas.json",
+      "addedAt": "2026-10-01T19:17:33.575Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-28T06:28:17.993Z"
+  "generatedAt": "2026-10-01T19:17:33.575Z"
 }
