@@ -1,0 +1,858 @@
+{
+  "meta": {
+    "id": "srv-the-offer-dossier",
+    "version": "1.0",
+    "title": "The Offer Dossier",
+    "subtitle": "Compensation Negotiation After the Offer Arrives",
+    "description": "15 moves for the window between offer and signature. Most candidates leave money on the table before they open their mouth. This dossier closes that gap.",
+    "author": "AI",
+    "createdAt": "2026-10-02T18:53:03.172Z",
+    "tags": [
+      "salary",
+      "negotiation",
+      "compensation",
+      "job offer",
+      "career"
+    ],
+    "totalCards": 15,
+    "isSeeded": true,
+    "coverColor": "#1D3557",
+    "coverIcon": "💼",
+    "fromServer": true,
+    "generation": {
+      "topic": "Negotiating compensation after the offer arrives",
+      "cardCount": 15,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "timing",
+      "label": "When to Move",
+      "color": "#4A4E69"
+    },
+    {
+      "key": "prep",
+      "label": "Research & Prep",
+      "color": "#2D6A4F"
+    },
+    {
+      "key": "anchoring",
+      "label": "Numbers & Anchors",
+      "color": "#9B2226"
+    },
+    {
+      "key": "moves",
+      "label": "Live Tactics",
+      "color": "#1D3557"
+    },
+    {
+      "key": "assets",
+      "label": "Your Cards",
+      "color": "#6B3FA0"
+    },
+    {
+      "key": "aftermath",
+      "label": "After You Counter",
+      "color": "#2C3E50"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "timing",
+      "danger": "moderate",
+      "title": "Wait for the Written Offer Before You Counter",
+      "hook": "The phone offer is the teaser. The written offer is the weapon. <strong>Don't pull the trigger until you have it in hand.</strong>",
+      "truth": "Most candidates counter too early — before they know what they are actually fighting for.\n• A written offer freezes the terms. You can point to exact numbers.\n• The employer cannot quietly change what they put in writing.\n• Countering a verbal offer lets them shift the story later.",
+      "principle": "Information Asymmetry",
+      "remember": "Get it in writing. Then negotiate. Not before.",
+      "theySee": "A hiring manager who has just named a verbal salary and is waiting to hear your reaction.",
+      "signals": [
+        {
+          "l": "No paperwork yet",
+          "t": "They named a number on the phone but no written document has followed.",
+          "icon": "📄"
+        },
+        {
+          "l": "Deadline before letter",
+          "t": "They ask for your decision before the formal offer letter has been sent.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Recruiter rushing",
+          "t": "The recruiter keeps calling to ask if you're ready to accept yet.",
+          "icon": "📞"
+        },
+        {
+          "l": "Numbers don't match",
+          "t": "The letter arrives and the salary is different from what was said on the call.",
+          "icon": "⚠️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the written offer",
+          "desc": "When they give you a verbal number, say you're excited and ask them to send the formal letter before you respond."
+        },
+        {
+          "n": "2",
+          "title": "Compare letter to verbal",
+          "desc": "Read every line of the written offer against what was said. Flag any number, title, or benefit that doesn't match."
+        },
+        {
+          "n": "3",
+          "title": "Counter from the document",
+          "desc": "Build your counter from what is written, not from memory of the call. Reference specific line items."
+        }
+      ],
+      "script": "\"I'm excited about this — can you send the formal written offer so I can review the full package before we discuss next steps?\"",
+      "counter": "Employers sometimes use verbal offers to get a fast yes before you see the full picture.\n• Watch for 'we need an answer today' before anything is in writing.\n• Say 'I want to review the full written offer first.'\n• Don't say yes to a number you haven't seen on paper.",
+      "insight": "The written offer protects both sides — but only if you read every line before you respond, not after."
+    },
+    {
+      "id": 2,
+      "cat": "prep",
+      "danger": "low",
+      "title": "Know the Market Number Before You Name One",
+      "hook": "You can't win a numbers fight with no numbers. <strong>Walking in without data is bringing a feeling to a spreadsheet match.</strong>",
+      "truth": "Candidates who cite feelings get less. Candidates who cite data get more.\n• Market data turns 'I want more' into 'the market pays more.'\n• Employers already know the range. Now you can too.\n• Without a number, you will accept whatever they justify to you.",
+      "principle": "Objective Criteria (Fisher & Ury: Getting to Yes)",
+      "remember": "Find the market rate first. Then you have something to point at.",
+      "theySee": "A hiring manager hearing a candidate quote specific salary figures from named sources with confidence.",
+      "signals": [
+        {
+          "l": "Job posts a range",
+          "t": "The posting lists a salary band — that band is their anchor, and it's not their ceiling.",
+          "icon": "📊"
+        },
+        {
+          "l": "Glassdoor gap",
+          "t": "Glassdoor shows the same role paying 15% more at comparable companies in your market.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Peer tells you",
+          "t": "Someone in the same role at a similar company tells you what they actually make.",
+          "icon": "👥"
+        },
+        {
+          "l": "LinkedIn median",
+          "t": "LinkedIn Salary shows the median for your exact title and city is above what they offered.",
+          "icon": "💻"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull salary data from three sources",
+          "desc": "Open Glassdoor, LinkedIn Salary, and the Bureau of Labor Statistics. Write the number from each one for your exact role and location."
+        },
+        {
+          "n": "2",
+          "title": "Write the median and the 75th percentile",
+          "desc": "The median is your floor. The 75th percentile is your target. Write both on paper before the call."
+        },
+        {
+          "n": "3",
+          "title": "Name your sources when you make the ask",
+          "desc": "When you state your number, say where the data came from. 'Glassdoor and LinkedIn Salary both put this role at...' carries more weight than 'I feel like.'"
+        }
+      ],
+      "script": "\"Based on what I found on Glassdoor and LinkedIn Salary for this role in this market, the range is $X to $Y. My ask fits that.\"",
+      "counter": "Employers cite internal salary bands to hold you down. Those bands are not public information.\n• Ask them to share their internal band. They may or may not.\n• Cross-reference their band with external data you brought.\n• Don't accept their internal number as the only truth.",
+      "insight": "The harder problem is knowing whether your data matches their actual band — and what to do when it doesn't."
+    },
+    {
+      "id": 3,
+      "cat": "prep",
+      "danger": "low",
+      "title": "Write Three Specific Reasons You're Worth More Before the Call",
+      "hook": "'I feel I deserve more' loses every time. <strong>Three specific reasons win more often than you think.</strong>",
+      "truth": "Vague confidence sounds like entitlement. Specific evidence sounds like a negotiation.\n• Each reason makes it easier for the hiring manager to say yes to their boss.\n• Specificity shifts the conversation from 'what you want' to 'what you bring.'\n• Two weak reasons are worse than one strong one — cut to your best.",
+      "principle": "Justification Effect (Kurtzberg & Naquin: Essentials of Job Negotiations)",
+      "remember": "Three specific reasons are stronger than ten vague ones.",
+      "theySee": "A hiring manager hearing a candidate list three concrete accomplishments with numbers and names attached.",
+      "signals": [
+        {
+          "l": "Led a bigger team",
+          "t": "You managed a team larger than the role requires — name the number.",
+          "icon": "👤"
+        },
+        {
+          "l": "Rare certification",
+          "t": "You hold a cert or credential that competitors in the pool likely lack.",
+          "icon": "🎓"
+        },
+        {
+          "l": "Dollar result ready",
+          "t": "You can name a specific financial result from a past project.",
+          "icon": "💰"
+        },
+        {
+          "l": "Adjacent skill match",
+          "t": "The job posting mentions a specific area you have direct experience in.",
+          "icon": "🎯"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull five things from the job posting",
+          "desc": "List every skill the posting marks as 'preferred' or 'required' that you actually have."
+        },
+        {
+          "n": "2",
+          "title": "Cut to the top three",
+          "desc": "Keep only the ones that have a number, a client name, or a measurable result attached. Drop the rest."
+        },
+        {
+          "n": "3",
+          "title": "Write one sentence for each",
+          "desc": "Format: 'I did X, which resulted in Y.' Practice saying all three out loud before the call."
+        }
+      ],
+      "script": "\"I want to make the case for $X. Three things stand out: I've managed teams of 12, I brought in two enterprise clients in my last role, and I hold the certification the posting specifically mentions.\"",
+      "counter": "When someone makes a case for why you should pay them more, listen for specifics versus feelings.\n• No numbers attached means it's a personal wish list. Hold your position.\n• Real evidence with results means it's worth adjusting for.\n• Ask: 'Can you walk me through how you got to that number?'",
+      "insight": "The trap is prepping three reasons and then leading with all three at once — most people stop listening after the first one."
+    },
+    {
+      "id": 4,
+      "cat": "moves",
+      "danger": "low",
+      "title": "Don't Ask If It's Negotiable — Just Negotiate",
+      "hook": "Asking 'is this negotiable?' hands them the exit. <strong>Skip the question. Make the counter.</strong>",
+      "truth": "The question 'is this negotiable?' invites a no. Skipping it keeps everything open.\n• Hiring managers often expect candidates to counter — initial offers are set below the ceiling.\n• Asking permission signals you're not sure you deserve more.\n• The counter itself is the move. The question is not.",
+      "principle": "Kurtzberg & Naquin: Don't Ask, Just Negotiate",
+      "remember": "Skip the permission question. Name your number and explain it.",
+      "theySee": "A hiring manager receiving a specific counter-offer number with a reason attached and no hedging before it.",
+      "signals": [
+        {
+          "l": "No-room language",
+          "t": "They present the offer with 'this is our standard package' — proceed anyway.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Letter deadline",
+          "t": "The offer has a response deadline — don't let it push you into silence instead of a counter.",
+          "icon": "📅"
+        },
+        {
+          "l": "'Most people accept'",
+          "t": "The recruiter says most candidates take the offer at this level — that's pressure, not a fact.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "You pause to ask",
+          "t": "You feel the urge to ask 'is there room to negotiate?' — that urge is the trap.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Receive the offer without reacting to the number",
+          "desc": "Hear the full offer. Thank them. Do not comment on whether the number is enough."
+        },
+        {
+          "n": "2",
+          "title": "Ask for 24 hours",
+          "desc": "Say you're excited and want to give it the thought it deserves. Name a specific time you'll respond."
+        },
+        {
+          "n": "3",
+          "title": "Come back with your counter directly",
+          "desc": "Open with 'I'd like to propose $X' and your best reason. No preamble, no apology."
+        }
+      ],
+      "script": "\"Thank you for the offer. I'd like to propose $X for the base — here's why I think that's fair given what I bring.\"",
+      "counter": "If someone counters your offer without asking permission, they know the move and they're serious.\n• Don't treat it as rude — treat it as a real negotiation.\n• You don't have to match. But you do have to respond.\n• Come back with data, not emotion.",
+      "insight": "This move works until they have already made a true final-offer call — knowing the difference before you counter is the harder skill."
+    },
+    {
+      "id": 5,
+      "cat": "timing",
+      "danger": "low",
+      "title": "Ask for 24 to 48 Hours Before You Respond",
+      "hook": "The first thing you say after hearing a number becomes your anchor. <strong>Take the time to pick it carefully.</strong>",
+      "truth": "Reacting on the spot locks you into the first number that comes out of your mouth.\n• Time to think lets you research, calculate, and rehearse your counter.\n• Silence after an offer often pressures candidates to fill the gap — don't fill it.\n• 48 hours is the standard. Most employers expect it.",
+      "principle": "Temporal Distancing / Decision Delay",
+      "remember": "Never answer a salary offer in the same phone call it arrives.",
+      "theySee": "A hiring manager hearing a candidate thank them warmly and ask for one business day to review the full package.",
+      "signals": [
+        {
+          "l": "'What do you think?'",
+          "t": "The offer arrives on a call and they ask your reaction before you've had time to think.",
+          "icon": "🤔"
+        },
+        {
+          "l": "Start-date urgency",
+          "t": "The recruiter mentions they'd love to have you start soon — that's pressure, not a real constraint.",
+          "icon": "📆"
+        },
+        {
+          "l": "Short deadline given",
+          "t": "They give you less than 48 hours to respond — push back politely for one full business day.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Number forming",
+          "t": "You feel a counter-offer number forming in your head mid-call — stop and write it down later.",
+          "icon": "🛑"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for one business day when the offer arrives",
+          "desc": "Say you're excited and want to give the full package the time it deserves. Name a specific time you'll respond."
+        },
+        {
+          "n": "2",
+          "title": "Use that day to check your market data",
+          "desc": "Pull your research. Compare the offer to the 75th percentile for your role. Write your counter."
+        },
+        {
+          "n": "3",
+          "title": "Call back within the window you named",
+          "desc": "Don't go past your stated time. Reliability here signals the kind of professional they're hiring."
+        }
+      ],
+      "script": "\"I'm really excited about this opportunity. Can I take until tomorrow afternoon to review the full package and get back to you?\"",
+      "counter": "Employers sometimes push for a fast answer to stop you from getting other offers.\n• 'We need an answer today' is a pressure move. One business day is a reasonable request.\n• Say 'I want to give this the thought it deserves — I'll have an answer by tomorrow.'\n• If they won't give you a day, that tells you something about how they operate.",
+      "insight": "The 48-hour window is also when a competing offer from another company can change the entire game — use the time."
+    },
+    {
+      "id": 6,
+      "cat": "anchoring",
+      "danger": "moderate",
+      "title": "Set Your First Number High — But Inside the Range of Believable",
+      "hook": "The number you say first pulls the final number toward it. <strong>Set it too low and you've already lost.</strong>",
+      "truth": "The first number named in any negotiation sets the center of what follows.\n• High anchors make middle-ground offers feel like wins for both sides.\n• An absurd anchor damages your credibility and sometimes your offer.\n• Aim for the 75th percentile of market data, not the top 10%.",
+      "principle": "Anchoring Effect (Tversky & Kahneman)",
+      "remember": "Name a high number first. The final number will follow it down.",
+      "theySee": "A hiring manager hearing a candidate name a specific, confident number with one short justification and then go quiet.",
+      "signals": [
+        {
+          "l": "They ask first",
+          "t": "They ask 'what are you looking for?' before making an offer — they want your anchor, not theirs.",
+          "icon": "🎣"
+        },
+        {
+          "l": "Offer below research",
+          "t": "They open with a number well below your market data — their anchor is already working on you.",
+          "icon": "📉"
+        },
+        {
+          "l": "They offer a range",
+          "t": "Their offer is a range — the high end of their range is your floor, not your goal.",
+          "icon": "📊"
+        },
+        {
+          "l": "Silence after your number",
+          "t": "They go quiet after you name your ask — they are calculating, not rejecting.",
+          "icon": "🤫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the 75th percentile for your role and market",
+          "desc": "Use Glassdoor, LinkedIn Salary, and BLS. Write the 75th percentile number down before you call."
+        },
+        {
+          "n": "2",
+          "title": "Add 10-15% to that number",
+          "desc": "This is your opening ask. It gives room to move while staying inside the range of credible."
+        },
+        {
+          "n": "3",
+          "title": "Name it once, with one line of justification",
+          "desc": "Say the number, say why, then stop talking. Don't justify further until they respond."
+        }
+      ],
+      "script": "\"Based on my experience and what I've seen in the market, I'm looking at $X. I think that's fair given what I bring to this role.\"",
+      "counter": "When someone anchors high on you, don't let their number set your mental center for the negotiation.\n• Write your own number on paper before the call. That is your anchor.\n• After they name theirs, pause. Say 'let me think about that.'\n• Counter from your number, not from theirs.",
+      "insight": "The gap between their anchor and yours determines the entire range — whoever moves first toward the middle usually gives up more."
+    },
+    {
+      "id": 7,
+      "cat": "moves",
+      "danger": "moderate",
+      "title": "Negotiate on the Phone or in Person, Not by Email",
+      "hook": "Email lets them say no cleanly. <strong>A live conversation makes no awkward to hold.</strong>",
+      "truth": "Text-based negotiations strip away tone — and tone is where deals are made.\n• On the phone, you can hear hesitation. You can push past it.\n• Email gives the other side time to craft a clean rejection.\n• A live conversation forces them to respond in real time — that's where movement happens.",
+      "principle": "Channel Selection Effect (Media Richness Theory)",
+      "remember": "Get them on the phone. Deals get done faster when voices are involved.",
+      "theySee": "A hiring manager receiving a short email from a candidate asking for a 20-minute call to talk through the offer.",
+      "signals": [
+        {
+          "l": "Form reply by email",
+          "t": "Your counter email gets a short, polished response with no movement — shift to the phone.",
+          "icon": "📧"
+        },
+        {
+          "l": "Fast but short emails",
+          "t": "They reply quickly but briefly — they want this resolved without a real conversation.",
+          "icon": "⚡"
+        },
+        {
+          "l": "They suggest a call",
+          "t": "They ask if you'd like to talk through the offer — that is an opening, not a formality.",
+          "icon": "📞"
+        },
+        {
+          "l": "Email silence",
+          "t": "Your counter email goes unanswered for more than a day — the conversation has stalled.",
+          "icon": "🔇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your counter and reasons on paper first",
+          "desc": "Know your number, your three reasons, and your floor before you pick up the phone."
+        },
+        {
+          "n": "2",
+          "title": "Request a short call by email",
+          "desc": "Send a one-line email asking for 20 minutes to talk through the offer details."
+        },
+        {
+          "n": "3",
+          "title": "State your number, your reason, then stop talking",
+          "desc": "On the call, name your ask and the strongest reason. Then wait. The first person to fill the silence usually moves."
+        }
+      ],
+      "script": "\"Can we get on a quick call to talk through the package? I have a few things I'd like to discuss before I sign.\"",
+      "counter": "When a candidate requests a call after receiving your offer, they want to negotiate — not chat.\n• Don't push them back to email. Take the call.\n• Have your final number and your walk-away point ready before it starts.\n• Silence on the call means they are thinking. Wait it out.",
+      "insight": "The real risk in email negotiation is that both sides dig in — and then nobody moves without losing face first."
+    },
+    {
+      "id": 8,
+      "cat": "moves",
+      "danger": "low",
+      "title": "Make Your Case With Market Data, Not Personal Need",
+      "hook": "'I need more because my rent is high' loses. <strong>'The market pays $X for this role' wins.</strong>",
+      "truth": "Personal need invites sympathy. Market data invites agreement.\n• Objective data gives the hiring manager a reason to sell your number to their boss.\n• Personal need puts the employer in a counselor's role — they did not sign up for that.\n• Market facts make it easier for both sides to say yes without one side feeling beaten.",
+      "principle": "Objective Criteria (Fisher & Ury: Getting to Yes)",
+      "remember": "Point to the market number. Not your bills.",
+      "theySee": "A hiring manager hearing a candidate cite specific salary figures from named sources instead of a personal story.",
+      "signals": [
+        {
+          "l": "Personal story forming",
+          "t": "You feel the urge to mention rent, loans, or family costs — stop and pivot to data.",
+          "icon": "🚨"
+        },
+        {
+          "l": "'Why that number?'",
+          "t": "They ask why you think you're worth the ask — this is your moment to cite external data.",
+          "icon": "❓"
+        },
+        {
+          "l": "Internal band mentioned",
+          "t": "They reference their internal salary band to hold the number down — ask where yours falls.",
+          "icon": "📋"
+        },
+        {
+          "l": "'We've never paid that'",
+          "t": "They say no one at the company makes that much — market data is your direct response.",
+          "icon": "🏢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open three salary sources before the call",
+          "desc": "Have Glassdoor, LinkedIn Salary, and one more source visible and ready to reference by name."
+        },
+        {
+          "n": "2",
+          "title": "Name the sources when you make your ask",
+          "desc": "Say the site names out loud. 'Glassdoor and LinkedIn Salary both show...' carries more weight than a feeling."
+        },
+        {
+          "n": "3",
+          "title": "If they push back, ask for their internal range",
+          "desc": "Request the salary band for the role. Compare it to your external data. Use the gap as your next point."
+        }
+      ],
+      "script": "\"Glassdoor and LinkedIn Salary both put this role at $X to $Y in this market. I'm asking for the middle of that range.\"",
+      "counter": "Someone citing market data to justify a high ask may be cherry-picking the sources that favor them.\n• Ask which specific sources they used and when they pulled the data.\n• Pull your own numbers and compare them.\n• If the data is real, respond to it. If it looks thin, say so.",
+      "insight": "The harder case is when their internal band is genuinely below market — and you have to decide if the role is worth that gap."
+    },
+    {
+      "id": 9,
+      "cat": "assets",
+      "danger": "high",
+      "title": "Use a Competing Offer as Real Power — Only If It's Real",
+      "hook": "A second offer is the most powerful card in the game. <strong>A fake one ends the game.</strong>",
+      "truth": "A real competing offer turns you from a candidate into a choice they can lose.\n• Naming a real competing offer forces the employer to match, beat, or accept you leaving.\n• A fabricated offer will be checked — and will cost you the job and your name.\n• The move works best when you actually have one. Start other applications before you expect an offer.",
+      "principle": "BATNA (Fisher & Ury: Best Alternative to a Negotiated Agreement)",
+      "remember": "A real competing offer is your strongest card. Never fake one.",
+      "theySee": "A hiring manager hearing a candidate say they have another offer in hand with a specific number attached.",
+      "signals": [
+        {
+          "l": "Slow response",
+          "t": "They're dragging their feet — you mention another offer timeline and watch them speed up.",
+          "icon": "🐢"
+        },
+        {
+          "l": "'Are you interviewing?'",
+          "t": "They ask if you're talking to other companies — your honest yes is a card, not a confession.",
+          "icon": "🃏"
+        },
+        {
+          "l": "Second offer arrives",
+          "t": "A real competing offer lands in your inbox while you're in talks here — use it.",
+          "icon": "📬"
+        },
+        {
+          "l": "Final offer on the table",
+          "t": "They make what sounds like a final offer — compare it to the real alternative before signing.",
+          "icon": "⚖️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Keep other applications open until you have a signed offer",
+          "desc": "Don't stop talking to other companies the moment this one shows interest. The second offer is a real card — you need it to actually exist."
+        },
+        {
+          "n": "2",
+          "title": "Tell the first employer honestly when a second offer arrives",
+          "desc": "Say you have another offer. Name the number. Don't exaggerate and don't hide it."
+        },
+        {
+          "n": "3",
+          "title": "Ask if they can match or beat it",
+          "desc": "Give them a specific number to hit. Give them a timeline to respond."
+        }
+      ],
+      "script": "\"I have another offer at $X. This is my preferred role, but I need the numbers to be closer. Can you get to $Y?\"",
+      "counter": "Candidates sometimes claim a competing offer that doesn't exist. Verify before reacting.\n• Ask to see a copy of the other offer letter — most serious candidates will share it.\n• If they hedge or stall, the offer may not exist.\n• Make your decision on your actual budget, not their story.",
+      "insight": "The competing offer is strongest when the other company is a name they respect — the same number from an unknown employer carries less weight."
+    },
+    {
+      "id": 10,
+      "cat": "assets",
+      "danger": "low",
+      "title": "Name Your Specialized Skills Specifically — Don't Let Them Guess",
+      "hook": "'I have a lot of experience' means nothing. <strong>'I hold X and have done Y for Z years' means something.</strong>",
+      "truth": "Vague credentials get vague pay. Named credentials get targeted pay.\n• Specific skills remove search cost for the employer — that has a dollar value.\n• Advanced credentials in short supply can justify an ask above their stated band.\n• The employer already knows what rare skills are worth. You just need to name them first.",
+      "principle": "Scarcity Effect (Cialdini: Influence)",
+      "remember": "Name your specific skills. Don't let them guess what you bring.",
+      "theySee": "A hiring manager hearing a candidate list certifications, tools, and past results that map directly to the job posting line by line.",
+      "signals": [
+        {
+          "l": "Rare tool listed",
+          "t": "The posting lists a tool or platform that only a small part of the market actually knows.",
+          "icon": "🔧"
+        },
+        {
+          "l": "Migration mentioned",
+          "t": "They've been trying to move to a new system — and you've run it for years.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Cert in description",
+          "t": "Your degree or certification is specifically named in the job requirements section.",
+          "icon": "📜"
+        },
+        {
+          "l": "Follow-up questions",
+          "t": "They ask detailed follow-up questions about one skill — that's the one they're short on.",
+          "icon": "🔍"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull the job posting and highlight every skill",
+          "desc": "Mark every tool, certification, and experience listed as 'preferred' or 'required' that you have."
+        },
+        {
+          "n": "2",
+          "title": "Write a result for each one",
+          "desc": "For each highlighted skill, write the number of years and one specific result: team size, deal size, system name."
+        },
+        {
+          "n": "3",
+          "title": "List these before you name your number",
+          "desc": "On the call, run through the list before you say the dollar figure. The list earns the number."
+        }
+      ],
+      "script": "\"Before I name my ask — I've run this exact stack for four years, I hold the certification the posting requires, and I closed a deal of this scope last year.\"",
+      "counter": "Candidates sometimes claim specialized skills they only touched briefly in a course.\n• Ask: 'Walk me through how you've used X in a real project.'\n• A real expert names the project, the team, and what happened. A padded resume pauses.\n• Adjust your offer based on depth of use, not length of claim.",
+      "insight": "Naming your skills does the work — but the bigger win is figuring out which skill they are most desperate for right now, which they may not have listed."
+    },
+    {
+      "id": 11,
+      "cat": "moves",
+      "danger": "high",
+      "title": "Counter the Offer No More Than Twice",
+      "hook": "The third counter is where deals die and offers get reconsidered. <strong>Know when to stop.</strong>",
+      "truth": "Employers read repeated counters as bad faith or endless demands.\n• Two rounds of back and forth is the professional norm. Three reads as difficult.\n• Each counter should move toward a close, not restart the fight.\n• Know before your second counter that it is your last — and mean it.",
+      "principle": "Counteroffer Threshold Rule (Harvard PON: Salary Negotiation)",
+      "remember": "Two counters is a negotiation. Three counters is a problem.",
+      "theySee": "A hiring manager who has moved once from their opening number and is now waiting to see if the candidate will close.",
+      "signals": [
+        {
+          "l": "They already moved",
+          "t": "They've come up from their first number — they've shown what movement looks like.",
+          "icon": "📈"
+        },
+        {
+          "l": "Tone shift",
+          "t": "Their answers get shorter and less warm — they are done moving.",
+          "icon": "🌡️"
+        },
+        {
+          "l": "'Final offer' said",
+          "t": "They use the phrase 'this is our final offer' — believe them.",
+          "icon": "🔒"
+        },
+        {
+          "l": "HR loops in",
+          "t": "HR joins the conversation mid-negotiation — the decision is going up the chain.",
+          "icon": "👔"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Use your first counter to name your ideal number with full justification",
+          "desc": "First counter = your full case. Market data, three reasons, specific number. Make it count."
+        },
+        {
+          "n": "2",
+          "title": "Use your second counter only if they're still far from your floor",
+          "desc": "If they move but not enough, counter once more. State the new number and say it's your final ask."
+        },
+        {
+          "n": "3",
+          "title": "On the second counter, hold the line",
+          "desc": "State your number and stop negotiating. If they can't meet it, the gap is real and the decision is clear."
+        }
+      ],
+      "script": "\"I understand the constraints. My last ask is $X — if that works, I'm ready to sign today.\"",
+      "counter": "A candidate pushing a third or fourth round may be testing whether you'll cave under pressure.\n• Name your final number once, clearly. Then stop responding to further counters.\n• If they push past your final number, the deal is off. Accept that.\n• A loop with no end means one side isn't serious.",
+      "insight": "The real discipline is knowing your floor before the first counter — so you're not calculating under pressure when it matters most."
+    },
+    {
+      "id": 12,
+      "cat": "timing",
+      "danger": "moderate",
+      "title": "Never Accept or Reject an Offer the Moment It Arrives",
+      "hook": "The gut reaction that feels like clarity is usually just surprise. <strong>Don't sign with your adrenaline.</strong>",
+      "truth": "Immediate acceptance or rejection leaves information and money on the table.\n• Accepting too fast signals you had no floor — they wonder if they over-offered.\n• Saying no too fast ends deals that were closer to movable than you knew.\n• 24 to 48 hours is enough to think, research, and counter if needed.",
+      "principle": "Loss Aversion (Kahneman & Tversky: Prospect Theory)",
+      "remember": "Take a day. Every offer looks different in the morning.",
+      "theySee": "A hiring manager hearing a candidate thank them and ask for 24 hours before giving any answer.",
+      "signals": [
+        {
+          "l": "Excitement spike",
+          "t": "The offer is exciting and you feel the urge to say yes right now — slow down.",
+          "icon": "🎉"
+        },
+        {
+          "l": "Insult reaction",
+          "t": "The offer feels low and you want to say no immediately — slow down.",
+          "icon": "😤"
+        },
+        {
+          "l": "'I need to know now'",
+          "t": "The recruiter says they need an answer today — that's pressure, not company policy.",
+          "icon": "🔔"
+        },
+        {
+          "l": "Mental math starting",
+          "t": "You're doing math in your head on the call — stop and write it down later instead.",
+          "icon": "🧮"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say you're excited and ask for 24 hours",
+          "desc": "The moment they make the offer, thank them and ask for one business day. Name the time you'll call back."
+        },
+        {
+          "n": "2",
+          "title": "Write down every number and benefit",
+          "desc": "Get the full offer on paper: base salary, bonus, equity, vacation, start date. Compare it to your research."
+        },
+        {
+          "n": "3",
+          "title": "Come back at the exact time you said you would",
+          "desc": "Reliability here matters. Show up when you said you would. That signals they hired someone who follows through."
+        }
+      ],
+      "script": "\"I really appreciate this — can I have until tomorrow to review everything and come back to you?\"",
+      "counter": "Fast acceptance from a candidate usually means they didn't research or they were being underpaid.\n• If they accept immediately, ask yourself whether you offered too much.\n• Fast rejection is usually personal, not calculated — leave the door open.\n• Send a follow-up: 'If anything changes on your end, I'd like to hear from you.'",
+      "insight": "The offer that feels too low on the call is sometimes the one that moves the most — if you call back with data instead of emotion."
+    },
+    {
+      "id": 13,
+      "cat": "anchoring",
+      "danger": "high",
+      "title": "Don't Tell Them the Lowest Number You'll Accept",
+      "hook": "The second you name your floor, the ceiling drops to meet it. <strong>Your floor is private information.</strong>",
+      "truth": "Your floor is not a starting point for them — it is a target they will hit exactly.\n• Any number you name becomes the new anchor. Name a floor and they'll offer exactly that.\n• 'What's your minimum?' is a trap dressed as a friendly question.\n• Give a range instead — with your actual floor well below the bottom number you share.",
+      "principle": "Reservation Price Concealment (Raiffa: The Art and Science of Negotiation)",
+      "remember": "Never name your floor. Give a range you can live above entirely.",
+      "theySee": "A hiring manager hearing a candidate respond to 'what's the minimum you'd accept?' with a full range and a question back.",
+      "signals": [
+        {
+          "l": "'What's your minimum?'",
+          "t": "They ask directly what the lowest number is that would make you sign — floor-hunting.",
+          "icon": "🎯"
+        },
+        {
+          "l": "'What would it take?'",
+          "t": "They ask what it would take to get you to sign today — same move, different words.",
+          "icon": "🔑"
+        },
+        {
+          "l": "Early salary question",
+          "t": "The recruiter asks in the first call what you're looking for — give a wide range, not a floor.",
+          "icon": "📋"
+        },
+        {
+          "l": "Below-range offer",
+          "t": "They offer a number below your stated range and wait to see if you flinch.",
+          "icon": "⬇️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your actual floor on paper before any conversation",
+          "desc": "Know your real number privately. It doesn't leave your notebook."
+        },
+        {
+          "n": "2",
+          "title": "When asked for a number, give a range with your floor 10% higher than your real one",
+          "desc": "Your shared bottom should be above what you'd actually accept. Give them room to move toward you."
+        },
+        {
+          "n": "3",
+          "title": "Turn the question back on them",
+          "desc": "After giving your range, ask: 'Where does this role sit in your band?' You want their number on the table too."
+        }
+      ],
+      "script": "\"I'm looking at a range of $X to $Y depending on the full package. Where does this role sit in that range?\"",
+      "counter": "When someone gives you a range, the bottom of that range is not their real floor.\n• Their real floor is below the bottom they shared with you.\n• Don't offer the bottom of their range as your counter — they'll take it.\n• Come in above their stated bottom by 10 to 15%.",
+      "insight": "The floor you keep private is the floor you keep — but only if you decided it before they asked, not while they're watching."
+    },
+    {
+      "id": 14,
+      "cat": "aftermath",
+      "danger": "extreme",
+      "title": "Get the Final Offer in Writing Before You Quit Your Current Job",
+      "hook": "A verbal deal is a story they can change. <strong>A written offer is the one you can hold.</strong>",
+      "truth": "Verbal offers are real until they are not — and the change always costs you.\n• Written offers freeze every term: salary, title, start date, benefits.\n• A changed verbal offer after you've already quit leaves you with nothing to stand on.\n• The written letter is what you sign. Make sure every number matches what was said.",
+      "principle": "Written Agreement Principle (Contract Law)",
+      "remember": "Nothing is real until it is written down and signed.",
+      "theySee": "An employer watching a candidate ask for the written offer letter before doing anything else.",
+      "signals": [
+        {
+          "l": "Letter delayed",
+          "t": "They give verbal approval but the written offer takes days to follow — follow up in writing.",
+          "icon": "📬"
+        },
+        {
+          "l": "Numbers don't match",
+          "t": "The written salary is different from the verbal number — flag it immediately before signing.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Missing benefits",
+          "t": "Bonuses or benefits mentioned verbally don't appear in the written offer — ask for them to be added.",
+          "icon": "❌"
+        },
+        {
+          "l": "Quit before letter",
+          "t": "They ask you to give notice at your current job before the offer letter arrives — don't.",
+          "icon": "🛑"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send a confirming email after verbal agreement",
+          "desc": "Write: 'Just to confirm, we've agreed to $X salary, title Y, starting date Z.' Send it before they send the letter."
+        },
+        {
+          "n": "2",
+          "title": "Wait for the written letter before giving notice anywhere",
+          "desc": "Do not resign from your current job until the formal written offer is in your hands."
+        },
+        {
+          "n": "3",
+          "title": "Read every line and compare it to your confirming email",
+          "desc": "Any discrepancy between your email and the letter is a conversation you need to have before you sign."
+        }
+      ],
+      "script": "\"Before I give notice, can you send the formal offer letter? I want to make sure everything we agreed to is captured there.\"",
+      "counter": "Employers sometimes slow-walk the written offer to see if you'll quit first and lock yourself in.\n• Don't quit on a verbal. Don't give notice on a verbal.\n• A company that won't put the deal in writing is telling you something about how they operate.\n• If they pressure you to quit first, that is your clearest signal to slow down.",
+      "insight": "The verbal deal and the written offer are two separate agreements — both can exist at the same time, and both can say something different."
+    },
+    {
+      "id": 15,
+      "cat": "aftermath",
+      "danger": "moderate",
+      "title": "How You Negotiate Now Sets Every Future Raise at This Job",
+      "hook": "Your starting salary is the base for every raise you'll ever get here. <strong>The gap you leave today gets bigger every year.</strong>",
+      "truth": "Salary increases are percentages of your base. A low base works against you harder each year.\n• A $5,000 gap at hire becomes a $15,000 gap in five years at 3% annual raises.\n• The way you negotiate now signals what kind of player you are — employers remember.\n• Employers who see you negotiate professionally at offer stage respect you more, not less.",
+      "principle": "Long-Term Relationship Framing (Harvard PON: Negotiation Project)",
+      "remember": "Fight for your starting number. Every future raise starts from it.",
+      "theySee": "A hiring manager watching a candidate negotiate calmly, with specific numbers and a clear reason, before they sign.",
+      "signals": [
+        {
+          "l": "'Just a little more'",
+          "t": "You're close to the number and want to avoid friction — negotiate anyway. The yearly math matters.",
+          "icon": "💭"
+        },
+        {
+          "l": "Clear promotion path",
+          "t": "The role has a defined path upward — base salary matters even more when title increases add percentages.",
+          "icon": "📈"
+        },
+        {
+          "l": "Signing bonus offered",
+          "t": "They offer a one-time bonus instead of higher base — that bonus doesn't affect your raise multiplier.",
+          "icon": "🎁"
+        },
+        {
+          "l": "Hesitation to push",
+          "t": "You feel like you're being difficult by asking for more — that feeling is costing you money.",
+          "icon": "🧠"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Calculate the five-year value of a $5,000 higher starting salary",
+          "desc": "At 3% annual raises, a $5,000 difference at hire is roughly $15,000 over five years. Write that number down. Use it to motivate yourself."
+        },
+        {
+          "n": "2",
+          "title": "Use that number if you feel hesitation",
+          "desc": "When the friction of asking feels too high, look at the five-year number. The discomfort of asking once is worth it."
+        },
+        {
+          "n": "3",
+          "title": "Set a 12-month reminder to check your market value again",
+          "desc": "After signing, put a reminder in your calendar for one year out. The negotiation you're about to have at review starts with the data you gather now."
+        }
+      ],
+      "script": "\"I want to make sure we start in the right place. I'd like to land at $X — I'm committed to this role and want to start strong.\"",
+      "counter": "Employers sometimes offer a signing bonus instead of higher base to hold the raise multiplier down.\n• A signing bonus solves today and nothing after today.\n• Ask for both if you can. Prioritize base if you have to choose one.\n• Every future raise the company gives you will be a percentage of base — not of the bonus.",
+      "insight": "The negotiation you have at offer is the only one where you hold all the cards — every future raise happens on their turf, on their schedule."
+    }
+  ]
+}

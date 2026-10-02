@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 87,
+  "manifestVersion": 88,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -793,7 +793,20 @@
       "url": "playbooks/playbook-srv-turn-his-best-ally.json",
       "addedAt": "2026-10-02T17:22:22.091Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-offer-dossier",
+      "title": "The Offer Dossier",
+      "theme": "salary",
+      "topic": "Negotiating compensation after the offer arrives",
+      "cardCount": 15,
+      "contentVersion": 1,
+      "coverColor": "#1D3557",
+      "coverIcon": "💼",
+      "url": "playbooks/playbook-srv-the-offer-dossier.json",
+      "addedAt": "2026-10-02T18:53:03.172Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-02T17:22:22.091Z"
+  "generatedAt": "2026-10-02T18:53:03.172Z"
 }
