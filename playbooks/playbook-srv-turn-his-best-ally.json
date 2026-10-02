@@ -1,0 +1,1202 @@
+{
+  "meta": {
+    "id": "srv-turn-his-best-ally",
+    "version": "1.0",
+    "title": "Turn His Best Ally",
+    "subtitle": "Flip the one man your rival can't afford to lose",
+    "description": "A field file on finding, approaching, and turning a rival's most trusted ally — from the first quiet meeting to holding him after the break, and surviving if he talks.",
+    "author": "AI",
+    "createdAt": "2026-09-30T23:07:49.251Z",
+    "tags": [
+      "negotiation",
+      "power",
+      "alliances",
+      "manipulation",
+      "rivalry"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#7f1d1d",
+    "coverIcon": "🗝️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "picking",
+      "label": "Picking the One Who Will Flip",
+      "color": "#7c3aed"
+    },
+    {
+      "key": "grievance",
+      "label": "Finding the Grievance",
+      "color": "#b91c1c"
+    },
+    {
+      "key": "first-meeting",
+      "label": "The First Innocent Meeting",
+      "color": "#0369a1"
+    },
+    {
+      "key": "small-favors",
+      "label": "Small Favors, Small Tests",
+      "color": "#15803d"
+    },
+    {
+      "key": "break",
+      "label": "The Break",
+      "color": "#9f1239"
+    },
+    {
+      "key": "holding",
+      "label": "Holding Him Afterwards",
+      "color": "#92400e"
+    },
+    {
+      "key": "reports",
+      "label": "If He Reports You",
+      "color": "#1e293b"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "picking",
+      "danger": "moderate",
+      "title": "Target the Ally Who Does the Real Work",
+      "principle": "Sun Tzu: Attack Alliances",
+      "remember": "Find the one who makes your rival look good, not the one who talks the most.",
+      "hook": "Every rival has a mouthpiece and an engine. <strong>Take the engine and the mouthpiece runs on empty.</strong>",
+      "when": "You're studying your rival's camp and picking which ally is worth the effort to turn.",
+      "truth": "Rivals protect their loudest ally and expose their quietest one.\n• The real worker gets no public praise, only private thanks.\n• That worker knows exactly how much they prop up your rival.\n• Most people chase the visible ally and miss the real target.",
+      "theySee": "A new contact who seems genuinely curious about the parts of the job nobody else asks about.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Credit skew",
+          "t": "Your rival takes the stage while this person hands over the notes."
+        },
+        {
+          "icon": "🕐",
+          "l": "Late nights",
+          "t": "They stay late fixing problems your rival's name gets attached to."
+        },
+        {
+          "icon": "🤐",
+          "l": "No byline",
+          "t": "Nobody outside the room knows their name, but everyone inside relies on it."
+        },
+        {
+          "icon": "👂",
+          "l": "First call",
+          "t": "Your rival calls them first, not the person with the bigger title."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch the room",
+          "desc": "Sit in on one shared meeting and note who your rival turns to when stuck."
+        },
+        {
+          "n": "2",
+          "title": "Ask a neutral source",
+          "desc": "Ask a mutual contact who actually keeps that team running day to day."
+        },
+        {
+          "n": "3",
+          "title": "Check the paper trail",
+          "desc": "Look at who wrote the last three reports your rival presented as their own."
+        }
+      ],
+      "script": "\"Off the record — who actually keeps that whole thing running? Because it's clearly not just him.\"",
+      "watchFor": "Your source names the same person twice without you prompting them.",
+      "ifItFails": "Your source protects the real worker's name or claims not to know. Don't push twice in one sitting — a second ask reads as digging. Wait a week, then ask a second, unrelated source the same question a different way: \"Who'd be missed most if they quit tomorrow?\"",
+      "counter": "If someone starts asking around about who really runs your team, you're the one being mapped.\n• Notice interest in your work that never once mentions your boss.\n• Say little: \"We're a team, nobody carries it alone.\"\n• Tell your leader what was asked, in plain terms, the same day.",
+      "insight": "The mouthpiece is a decoy most rivals don't even know they're offering. The harder part is confirming the real engine without your rival noticing you're looking at the wrong person on purpose.",
+      "example": "Dana needed to break up a rival's grip on a client account. Everyone assumed the loud account lead was the key player. She spent two weeks asking around and found the quiet analyst who actually wrote every proposal. She turned him instead, and the account followed him within a month."
+    },
+    {
+      "id": 2,
+      "cat": "picking",
+      "danger": "moderate",
+      "title": "Pick the One Ranked Below Their Ego",
+      "principle": "Status Asymmetry",
+      "remember": "Look for someone who thinks they deserve more than they got.",
+      "hook": "Talent isn't the tell. <strong>The gap between what someone thinks they earned and what they got is the tell.</strong>",
+      "when": "You're deciding between two or three people in your rival's circle worth approaching.",
+      "truth": "People don't defect over money first. They defect over rank.\n• A skipped promotion sits longer in memory than a missed bonus.\n• The gap between self-image and actual standing never heals on its own.\n• Most people miss this because the person still smiles in meetings.",
+      "theySee": "Someone who finally seems to notice them and treat them like they matter.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Passed over",
+          "t": "They got skipped for a title or project that went to someone junior."
+        },
+        {
+          "icon": "🎭",
+          "l": "Forced smile",
+          "t": "They clap along in meetings but leave the room fast afterward."
+        },
+        {
+          "icon": "🗂️",
+          "l": "Old title",
+          "t": "Their job title hasn't changed in years despite growing responsibility."
+        },
+        {
+          "icon": "💬",
+          "l": "Dry humor",
+          "t": "Their jokes about the team have a harder edge than they used to."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the passed-over",
+          "desc": "Write down anyone in the rival's camp who was skipped for a role or raise."
+        },
+        {
+          "n": "2",
+          "title": "Compare titles to work",
+          "desc": "Check whose actual workload outgrew their title over the last year."
+        },
+        {
+          "n": "3",
+          "title": "Watch how they talk about rank",
+          "desc": "Listen for how often they mention seniority, fairness, or who 'should' have gotten what."
+        }
+      ],
+      "script": "\"Honestly, I always thought you'd have that role by now.\"",
+      "watchFor": "They pause before answering, then agree a beat too fast.",
+      "ifItFails": "They laugh it off and defend your rival's decision. That's loyalty still intact, not a dead end — drop the subject completely and come back in a month with the small-favor move instead of another direct comment. Don't repeat the line; a second version sounds like you're working an angle.",
+      "counter": "If someone starts naming a gap between your rank and your worth, check their motive first.\n• Notice praise that targets your title, not your actual work.\n• Say: \"I'm exactly where I want to be right now.\"\n• Report the comment to someone you trust before it repeats.",
+      "insight": "Status hunger is quiet and it's patient — the person rarely says it out loud, which is exactly why it's safe to name for them. The next question is whether the gap is real or just your read of it.",
+      "example": "Marcus noticed his rival's operations lead had run the department solo for two years on a title that hadn't moved since an intern held it. He said one line about it over coffee. She started returning his calls the same week."
+    },
+    {
+      "id": 3,
+      "cat": "picking",
+      "danger": "low",
+      "title": "Pick the One Already Standing With One Foot Out",
+      "principle": "Machiavelli: Discourses — Divide et Impera",
+      "remember": "Find someone already halfway out the door before you even knock.",
+      "hook": "Some allies are loyal. Some are just <strong>still waiting for a better offer.</strong> Find the second kind first.",
+      "when": "You're scanning your rival's team for the easiest person to approach first.",
+      "truth": "A camp with more than one leader always has a weakest link.\n• Someone already split between two masters carries less guilt about a third.\n• Divided loyalty is easier to bend than loyalty with one clear owner.\n• Most people waste time on the most loyal ally instead of the softest one.",
+      "theySee": "Someone who offers an option instead of pressure, at a moment they were already unsure.",
+      "signals": [
+        {
+          "icon": "🔀",
+          "l": "Two camps",
+          "t": "They answer to your rival and to someone else with competing priorities."
+        },
+        {
+          "icon": "🚪",
+          "l": "Job search",
+          "t": "Their profile picture or resume changed recently, even quietly."
+        },
+        {
+          "icon": "🙄",
+          "l": "Eye roll",
+          "t": "They roll their eyes at your rival's decisions when they think no one sees."
+        },
+        {
+          "icon": "📵",
+          "l": "Skipped events",
+          "t": "They've started skipping optional team events your rival organizes."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map the reporting lines",
+          "desc": "Write out who in the camp answers to more than one boss or priority."
+        },
+        {
+          "n": "2",
+          "title": "Note the tell signs",
+          "desc": "Track any sign of job searching, disengagement, or missed optional events."
+        },
+        {
+          "n": "3",
+          "title": "Rank by ease",
+          "desc": "Put the most divided person at the top of your list to approach first."
+        }
+      ],
+      "script": "\"You seem stretched between two priorities lately — how's that actually working for you?\"",
+      "watchFor": "They answer the question honestly instead of giving the loyal company line.",
+      "ifItFails": "They deny any split loyalty and defend the arrangement. Move to your second choice on the list without comment — don't argue them out of their denial, that just alerts them. Circle back to this person only after you've turned someone else and they see it worked out.",
+      "counter": "If someone points out your divided loyalties first, they're sizing you up as an easy target.\n• Notice questions about which boss you actually answer to.\n• Say: \"It works fine, I know exactly where I stand.\"\n• Tighten up which events and meetings you skip going forward.",
+      "insight": "Divided loyalty isn't a flaw you created, it's one your rival already left open. The harder part comes after you pick — proving the divided one is worth the effort over someone more loyal but easier to read.",
+      "example": "Priya's rival ran a team that also reported dotted-line to finance. She picked the one analyst stuck answering to both and asked one honest question about the tension. Three weeks later, that analyst was feeding her the finance team's real numbers before her rival ever saw them."
+    },
+    {
+      "id": 4,
+      "cat": "grievance",
+      "danger": "moderate",
+      "title": "Find the Wound Before You Find the Man",
+      "principle": "Greene: Law 33 — Discover Each Man's Thumbscrew",
+      "remember": "Every loyal person still replays one bad moment alone.",
+      "hook": "Loyalty looks solid from outside. <strong>Inside, there's almost always one moment he never got over.</strong>",
+      "when": "You've picked your target and now need the one detail that makes him movable.",
+      "truth": "Everyone carries one unresolved moment that still stings on replay.\n• The wound explains loyalty that otherwise makes no sense from outside.\n• Once you name it, he feels seen instead of studied.\n• Most people never find it because they never ask the right question.",
+      "theySee": "Someone who listens closely and seems to actually understand what happened to him.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeated story",
+          "t": "He tells the same old work story more than once, unprompted."
+        },
+        {
+          "icon": "😤",
+          "l": "Flash of anger",
+          "t": "His tone sharpens for one second when a specific name comes up."
+        },
+        {
+          "icon": "🙅",
+          "l": "Quick defense",
+          "t": "He defends your rival fastest on the exact topic that bothers him most."
+        },
+        {
+          "icon": "🍺",
+          "l": "Loosens up",
+          "t": "He says more about it after a drink than he ever does sober."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask about the past",
+          "desc": "Ask him to tell you how he ended up on your rival's team."
+        },
+        {
+          "n": "2",
+          "title": "Listen for the snag",
+          "desc": "Note the one part of the story he tells fastest or slowest."
+        },
+        {
+          "n": "3",
+          "title": "Test the name",
+          "desc": "Bring up a specific project or person and watch his face before his words."
+        }
+      ],
+      "script": "\"What actually happened with that promotion round last year?\"",
+      "watchFor": "He drops the polished version and tells you the real one instead.",
+      "ifItFails": "He sticks to the polished company version and changes the subject fast. Don't dig further that day — note the deflection itself as data and try a different angle next time, like asking a mutual friend instead of him directly. Say: \"Fair enough, forget I asked,\" and drop it cleanly.",
+      "counter": "If someone keeps circling back to your one bad memory, they're hunting your thumbscrew.\n• Notice questions that always land on the same old sore spot.\n• Give the short version once, then change the subject yourself.\n• Save your real grievances for people who already have your back.",
+      "insight": "The wound is never about the money, it's about the moment he felt small in front of people who mattered to him. The harder part is timing — naming it too early reads as a trap, not sympathy.",
+      "example": "Tom spent a month on small talk with his rival's regional manager before asking about an old restructuring. The manager finally admitted he'd trained his own replacement without knowing it. Tom said one sentence back — 'that's a rotten thing to do to someone' — and the manager started taking his calls."
+    },
+    {
+      "id": 5,
+      "cat": "grievance",
+      "danger": "moderate",
+      "title": "Look for What He Thinks He Lost",
+      "principle": "Loss Aversion",
+      "remember": "People remember what got taken more than what they never had.",
+      "hook": "A missed bonus fades fast. <strong>A stolen promotion never does.</strong> Work the loss, not the lack.",
+      "when": "You're deciding which grievance to work with once you've found more than one option.",
+      "truth": "A loss sits heavier in memory than an equal-size gain ever would.\n• 'This was taken from me' burns longer than 'I never had it.'\n• The story of what he lost is already written — you just read it back.\n• Most people chase what he wants next instead of what he lost already.",
+      "theySee": "Someone who finally puts words to the thing he's been quietly angry about.",
+      "signals": [
+        {
+          "icon": "📦",
+          "l": "Old title box",
+          "t": "He still keeps something from the role or project he was moved off of."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Anniversary mood",
+          "t": "He goes quiet around the date something got taken from him."
+        },
+        {
+          "icon": "👤",
+          "l": "Replacement talk",
+          "t": "He brings up whoever got the thing instead of him, unprompted."
+        },
+        {
+          "icon": "🔒",
+          "l": "Guarded answer",
+          "t": "He gives a short, careful answer when you ask what happened to that project."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List his losses",
+          "desc": "Write down any role, project, or credit he had and then lost to someone else."
+        },
+        {
+          "n": "2",
+          "title": "Rank by size",
+          "desc": "Put the loss with the most public visibility at the top of the list."
+        },
+        {
+          "n": "3",
+          "title": "Name it plainly",
+          "desc": "Say what was taken in one sentence, without asking him to confirm it."
+        }
+      ],
+      "script": "\"That project should still have your name on it.\"",
+      "watchFor": "He stops deflecting and starts explaining exactly how it happened.",
+      "ifItFails": "He insists he's fine with how it went and shuts the topic down. Don't argue the point — a defended loss is still a real one, just not ready to move. Let a small favor do the work instead: help him get visible credit on something small and let the comparison make your point for you.",
+      "counter": "If someone keeps reminding you what you lost, they're using it to move you.\n• Notice anyone re-opening an old loss you'd already let go.\n• Say: \"That's in the past, I've made peace with it.\"\n• Mention it to someone on your own side, not to them.\nDo not run this move on someone who could still get you fired over it.",
+      "insight": "A named loss becomes a debt someone else owes him, and debts get collected. The next question is who he decides collects it — you, or the person who took it from him in the first place.",
+      "example": "Sarah's rival had moved a senior engineer off the flagship project after a reorg. She didn't ask how he felt about it. She just said, 'that should still be yours,' once, at the right moment. He forwarded her the project's internal roadmap two days later."
+    },
+    {
+      "id": 6,
+      "cat": "grievance",
+      "danger": "low",
+      "title": "Watch Who He Compares Himself To",
+      "principle": "Comparison Resentment",
+      "remember": "Jealousy points straight at the wound you're looking for.",
+      "hook": "He won't tell you who he envies. <strong>He'll tell you who he keeps mentioning.</strong>",
+      "when": "You can't tell which grievance is real, so you watch who he measures himself against.",
+      "truth": "Nobody names their envy out loud, but they repeat the name constantly.\n• The person he brings up unprompted is the person he measures against.\n• That comparison tells you exactly what he thinks he's owed.\n• Most people listen to what he says about himself and miss who he means.",
+      "theySee": "A curious listener who never pushes, just lets him talk about work.",
+      "signals": [
+        {
+          "icon": "🔂",
+          "l": "One name repeats",
+          "t": "The same colleague's name comes up in three different conversations."
+        },
+        {
+          "icon": "🆚",
+          "l": "Unprompted compare",
+          "t": "He compares his own results to that person without being asked."
+        },
+        {
+          "icon": "😐",
+          "l": "Flat praise",
+          "t": "His compliments about that person sound rehearsed, not warm."
+        },
+        {
+          "icon": "📊",
+          "l": "Score-keeping",
+          "t": "He remembers exact numbers — raises, titles, headcount — tied to that name."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Track the repeats",
+          "desc": "Note any name that comes up more than twice across separate conversations."
+        },
+        {
+          "n": "2",
+          "title": "Ask an open question",
+          "desc": "Ask who on the team he thinks is most underrated, and watch who he skips."
+        },
+        {
+          "n": "3",
+          "title": "Confirm with a second source",
+          "desc": "Check with someone else whether that rivalry is known or just his private read."
+        }
+      ],
+      "script": "\"Who do you think actually deserves more credit than they get around there?\"",
+      "watchFor": "He answers with a name that isn't your rival, fast and without hesitation.",
+      "ifItFails": "He gives a diplomatic non-answer like 'everyone works hard.' That's a guarded response, not a dead end — ask a sharper version later: \"Okay, but who would you want to switch results with for a year?\" People answer that one honestly.",
+      "counter": "If someone keeps asking who you'd want to switch places with, they're mapping your envy.\n• Notice questions aimed at who you compare yourself to.\n• Give a flat, boring answer: \"I focus on my own lane.\"\n• Keep score-keeping comments about coworkers out of casual talk.",
+      "insight": "Envy is the most honest emotion people have, because it's the one they work hardest to hide. The harder part is using it without him ever hearing the word said about him.",
+      "example": "James noticed his target kept bringing up a peer two levels below him who'd gotten a bigger bonus. He asked one open question about who deserved more credit. The target named that same peer instantly — and James knew exactly which story to tell him next."
+    },
+    {
+      "id": 7,
+      "cat": "first-meeting",
+      "danger": "moderate",
+      "title": "Meet Him Somewhere Your Rival Isn't",
+      "principle": "Voss: Tactical Empathy — Label",
+      "remember": "The first talk happens far from anyone who reports back.",
+      "hook": "The first meeting only works if <strong>nobody who matters ever hears about it.</strong>",
+      "when": "You're ready for the first real conversation with your target.",
+      "truth": "A meeting on your rival's turf gets reported before you even leave.\n• Neutral ground removes the audience that would force him to perform loyalty.\n• Away from watchers, he can be honest without a story to defend later.\n• Most people rush this and meet somewhere convenient instead of somewhere safe.",
+      "theySee": "A relaxed, low-stakes conversation that doesn't feel like it's about work at all.",
+      "signals": [
+        {
+          "icon": "📍",
+          "l": "Neutral venue",
+          "t": "You pick a place neither of you has history with your rival at."
+        },
+        {
+          "icon": "🕶️",
+          "l": "No overlap",
+          "t": "No one from either camp is likely to walk in or hear about it."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Casual pretext",
+          "t": "You have an easy, believable reason to be there that isn't about him."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Short window",
+          "t": "You keep the first meeting under an hour so nothing feels planned."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick neutral ground",
+          "desc": "Choose a place with no connection to your rival or his usual circle."
+        },
+        {
+          "n": "2",
+          "title": "Build a light reason",
+          "desc": "Find an easy, believable excuse to be there that has nothing to do with him."
+        },
+        {
+          "n": "3",
+          "title": "Keep it short",
+          "desc": "Cap the meeting under an hour so it reads as casual, not arranged."
+        }
+      ],
+      "script": "\"I was already going to be near there — want to grab a coffee before it gets crazy this week?\"",
+      "watchFor": "He suggests the next meeting location himself instead of waiting for you to pick.",
+      "ifItFails": "He hesitates or asks why you want to meet outside work. Don't explain further — over-explaining is what makes it suspicious. Downgrade the ask to something smaller and public: \"No worries, let's just grab five minutes at the thing Thursday instead.\"",
+      "counter": "If someone suggests meeting you somewhere unconnected to your usual circle, notice the pattern.\n• Ask yourself why this meeting avoids anyone who'd report it.\n• Suggest a location connected to your own team instead.\n• Mention the invitation to your side before you go, not after.",
+      "insight": "Distance from the usual audience is what makes honesty possible in the first place. The harder part is doing this more than once without the pattern itself becoming the tell.",
+      "example": "Alicia wanted to talk to her rival's regional director without anyone noticing. She ran into him at an industry conference neither company usually sent people to. Their first real conversation happened at a hotel bar three states from either office, and nobody back home ever heard about it."
+    },
+    {
+      "id": 8,
+      "cat": "first-meeting",
+      "danger": "low",
+      "title": "Lead With a Shared Complaint, Not a Shared Plan",
+      "principle": "Cialdini: Liking — Similarity",
+      "remember": "Bond over a gripe first. Never mention your real goal.",
+      "hook": "Nobody bonds over a plan. <strong>Everybody bonds over a complaint.</strong>",
+      "when": "You're in the first meeting and need an opening that doesn't sound like a pitch.",
+      "truth": "Shared frustration builds trust faster than shared goals ever do.\n• A complaint makes you sound like a peer, not someone with an angle.\n• He relaxes because griping together needs no commitment from either side.\n• Most people skip this and go straight to pitching, which reads as recruiting.",
+      "theySee": "Someone who gets it — who's dealt with the same annoying thing he has.",
+      "signals": [
+        {
+          "icon": "😮‍💨",
+          "l": "Shared sigh",
+          "t": "He exhales and says 'exactly' before you even finish the sentence."
+        },
+        {
+          "icon": "🗯️",
+          "l": "Piles on",
+          "t": "He adds his own example on top of the complaint you raised."
+        },
+        {
+          "icon": "😅",
+          "l": "Relaxed laugh",
+          "t": "His laugh loosens up, less careful than at the start of the talk."
+        },
+        {
+          "icon": "🤝",
+          "l": "Leans in",
+          "t": "His posture shifts toward you instead of staying angled at the door."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a safe gripe",
+          "desc": "Choose a complaint general enough that agreeing with it costs him nothing."
+        },
+        {
+          "n": "2",
+          "title": "Say it first, own it",
+          "desc": "Complain about it yourself before asking what he thinks."
+        },
+        {
+          "n": "3",
+          "title": "Let him add to it",
+          "desc": "Stay quiet after he responds and let him build on the complaint himself."
+        }
+      ],
+      "script": "\"God, don't get me started on how slow the approval process is over there too.\"",
+      "watchFor": "He volunteers a specific story of his own without you asking for one.",
+      "ifItFails": "He agrees politely but adds nothing personal — he's being careful, not cold. Don't push for more detail in the same sitting. End the meeting warmly and let the next small favor do the real work of opening him up.",
+      "counter": "If someone leads with a complaint that mirrors yours suspiciously well, slow down.\n• Notice a gripe that lines up too neatly with your own frustration.\n• Agree in general terms only, skip the specific story.\n• Keep your real complaints for people inside your own camp.",
+      "insight": "A shared complaint costs nothing and reveals everything — how guarded he is, how much he trusts easily, how close the real grievance sits under the surface. The harder part is not rushing from the complaint straight into the ask.",
+      "example": "Ben met his rival's finance lead at a conference and complained about how slow their own approval chain was. The finance lead laughed and matched it with a worse story about his own team. By the end of the dinner, they'd agreed to grab drinks again next month."
+    },
+    {
+      "id": 9,
+      "cat": "first-meeting",
+      "danger": "moderate",
+      "title": "Talk About His Future, Not Your Rival's Past",
+      "principle": "Greene: Law 13 — Appeal to Self-Interest, Never to Mercy or Gratitude",
+      "remember": "Sell him his own better future, not a story about someone else's past.",
+      "hook": "Revenge talk feels good for a minute. <strong>A better future keeps him coming back.</strong>",
+      "when": "The first meeting is going well and you need to point it somewhere useful.",
+      "truth": "Nobody switches sides for someone else's grudge, only for their own upside.\n• Talk of payback makes you sound bitter, not useful to him.\n• A picture of his own better outcome does the recruiting for you.\n• Most people make this about the rival instead of about him.",
+      "theySee": "Someone who seems to actually care what happens to his career next, not just settle scores.",
+      "signals": [
+        {
+          "icon": "👀",
+          "l": "Leans forward",
+          "t": "He leans in when you describe where this could go for him."
+        },
+        {
+          "icon": "🤔",
+          "l": "Asks specifics",
+          "t": "He starts asking practical questions about how it would actually work."
+        },
+        {
+          "icon": "🙊",
+          "l": "Drops the complaint",
+          "t": "He stops bringing up his rival and starts talking about himself instead."
+        },
+        {
+          "icon": "📅",
+          "l": "Future tense",
+          "t": "His language shifts from what happened to what could happen next."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Skip the grudge talk",
+          "desc": "Avoid bad-mouthing your rival directly, even if he brings it up first."
+        },
+        {
+          "n": "2",
+          "title": "Describe his upside",
+          "desc": "Paint one concrete picture of where this puts him in a year."
+        },
+        {
+          "n": "3",
+          "title": "Let him fill in the rest",
+          "desc": "Ask what that would mean for him and let him build the picture himself."
+        }
+      ],
+      "script": "\"Forget him for a second — where do you actually want to be in a year?\"",
+      "watchFor": "He starts describing a future that includes working with you, unprompted.",
+      "ifItFails": "He stays stuck on complaining about your rival instead of looking forward. Don't correct him directly — redirect with a question instead: \"Sure, but what would fixing that actually get you?\" Force the conversation back to his own outcome.",
+      "counter": "If someone keeps steering talk toward your own future instead of the situation, notice it.\n• Watch for questions about your goals that skip the current problem.\n• Answer in general terms: \"I'm focused on doing good work here.\"\n• Bring the conversation back to the actual issue at hand.",
+      "insight": "Self-interest moves people that loyalty and gratitude never touch. The harder part is making the future sound real without promising something you can't actually deliver yet.",
+      "example": "Nina's target kept venting about being passed over. She let him vent once, then asked flatly where he wanted to be in a year. He described a role that didn't exist at his current company. Six months later, she'd built that exact role for him at hers."
+    },
+    {
+      "id": 10,
+      "cat": "small-favors",
+      "danger": "low",
+      "title": "Give Him Something Before You Ask for Anything",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Hand him a free win. He'll owe you before he notices.",
+      "hook": "The best hook has no barb yet. <strong>Give first. The debt does the pulling later.</strong>",
+      "when": "You've had a couple of good conversations and want to move things forward.",
+      "truth": "An unasked-for favor creates an unspoken debt that sits in the back of the mind.\n• He can't repay a gift he didn't request, so the discomfort lingers.\n• The debt makes the next ask feel fair instead of one-sided.\n• Most people ask too soon and skip building the debt first.",
+      "theySee": "Someone being generous for no clear reason, which reads as either kindness or confidence.",
+      "signals": [
+        {
+          "icon": "🎁",
+          "l": "Unprompted help",
+          "t": "You offer something useful before he's asked for anything at all."
+        },
+        {
+          "icon": "🙏",
+          "l": "Awkward thanks",
+          "t": "He thanks you more than the favor seems to call for."
+        },
+        {
+          "icon": "🔄",
+          "l": "Offers back",
+          "t": "He immediately offers to return the favor, even a small one."
+        },
+        {
+          "icon": "📞",
+          "l": "Reaches out first",
+          "t": "He starts contacting you between meetings instead of waiting for you."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find a real need",
+          "desc": "Notice one actual problem of his you could solve with little cost to you."
+        },
+        {
+          "n": "2",
+          "title": "Solve it quietly",
+          "desc": "Fix it without announcing it as a favor or mentioning you did it."
+        },
+        {
+          "n": "3",
+          "title": "Let him notice",
+          "desc": "Wait for him to notice and thank you instead of pointing it out yourself."
+        }
+      ],
+      "script": "\"Don't worry about it, I had the contact anyway — happy to make the intro.\"",
+      "watchFor": "He brings up the favor again later, unprompted, like it's still on his mind.",
+      "ifItFails": "He accepts the favor but treats it as no big deal and moves on. That's fine — the debt still registers even when it's not acknowledged out loud. Let it sit a few weeks, then make the next favor slightly bigger and harder to wave off.",
+      "counter": "If someone does you an unasked-for favor with no clear reason, notice the setup.\n• Ask yourself what this person gets from helping you right now.\n• Thank them plainly and match the favor's size, nothing more.\n• Avoid owing a bigger debt than the original favor earned.",
+      "insight": "The debt works because it's never named out loud — naming it turns a gift into a transaction and kills the pull. The harder part is picking a favor big enough to matter but small enough to look like nothing.",
+      "example": "Carlos noticed his target needed a vendor contact for a side project. He made the introduction without mentioning it again. Two weeks later, the target called him first, asking if there was anything he could help with in return."
+    },
+    {
+      "id": 11,
+      "cat": "small-favors",
+      "danger": "moderate",
+      "title": "Get a Small Yes Before You Need a Big One",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Small favors today write the story he tells himself tomorrow.",
+      "hook": "Nobody agrees to a big ask cold. <strong>They agree to ten small ones first.</strong>",
+      "when": "You want him comfortable saying yes before you ever ask for something real.",
+      "truth": "Each small yes becomes part of the story he tells about himself.\n• A string of small favors makes 'I help this person' feel true to him.\n• The next ask only needs to match a pattern he's already set.\n• Most people jump to the big ask before the pattern is built.",
+      "theySee": "A string of small, easy requests that each feel too minor to refuse.",
+      "signals": [
+        {
+          "icon": "✅",
+          "l": "Quick yeses",
+          "t": "He agrees to small requests faster each time you ask."
+        },
+        {
+          "icon": "🗂️",
+          "l": "Self-justifies",
+          "t": "He explains to others why he's been helping you, unprompted."
+        },
+        {
+          "icon": "📈",
+          "l": "Bigger asks land",
+          "t": "He accepts a slightly bigger favor without hesitating the way he first did."
+        },
+        {
+          "icon": "🙋",
+          "l": "Volunteers first",
+          "t": "He offers to help before you've finished describing the problem."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Start tiny",
+          "desc": "Ask for something that takes him two minutes and costs him nothing real."
+        },
+        {
+          "n": "2",
+          "title": "Space them out",
+          "desc": "Wait a week or two between each small ask so it never feels like a pattern."
+        },
+        {
+          "n": "3",
+          "title": "Scale slowly",
+          "desc": "Increase each ask only slightly past the size of the last one he agreed to."
+        }
+      ],
+      "script": "\"Quick one — could you just forward me that doc when you get a sec?\"",
+      "watchFor": "He stops waiting for you to ask and starts offering the help unprompted.",
+      "ifItFails": "He agrees to the small stuff but stalls hard on anything slightly bigger. Don't jump the gap — go back down to small favors for a while and rebuild the pattern before trying again. Say: \"No rush at all, whenever's easy.\"",
+      "counter": "If your small yeses keep turning into slightly bigger asks, someone is working a ladder.\n• Track whether requests from one person keep growing in size.\n• Say no to one small ask just to test the reaction.\n• Notice if they push back harder than a tiny favor should warrant.",
+      "insight": "The ladder works because each step alone looks harmless — it's only the sequence that adds up to something. The next question is how many rungs you need before the real ask is safe to make.",
+      "example": "Dev asked his target for five small favors over two months — a file here, an intro there. By the sixth ask, a real one about internal pricing, the target didn't even pause before saying yes."
+    },
+    {
+      "id": 12,
+      "cat": "small-favors",
+      "danger": "high",
+      "title": "Let Him Solve a Problem You Created",
+      "principle": "Greene: Law 7 — Get Others to Do the Work",
+      "remember": "Let him feel useful to you before he feels loyal to you.",
+      "hook": "People don't bond over your help to them. <strong>They bond over the help they gave you.</strong>",
+      "when": "You want him invested in your success, not just friendly toward you.",
+      "truth": "Helping someone builds more loyalty in the helper than being helped ever does.\n• Solving your problem makes your success feel partly like his own.\n• A manufactured problem still produces a real sense of investment in him.\n• Most people only give help and never let him give it back.",
+      "theySee": "Someone slightly stuck on a real-looking problem who values his specific skill or knowledge.",
+      "signals": [
+        {
+          "icon": "🛠️",
+          "l": "Takes ownership",
+          "t": "He starts treating your problem as something he's personally responsible for."
+        },
+        {
+          "icon": "📬",
+          "l": "Follows up",
+          "t": "He checks back later to see how his fix actually worked out."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Tells others",
+          "t": "He mentions to people on his side that he helped you with something."
+        },
+        {
+          "icon": "💡",
+          "l": "Offers more",
+          "t": "He starts offering extra ideas beyond what you originally asked for."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a believable gap",
+          "desc": "Find a real problem near his skill set that you could plausibly struggle with."
+        },
+        {
+          "n": "2",
+          "title": "Ask him directly",
+          "desc": "Ask for his help by name, framed as needing his specific expertise."
+        },
+        {
+          "n": "3",
+          "title": "Credit him visibly",
+          "desc": "Tell someone else that his help mattered, where there's a decent chance it gets back to him."
+        }
+      ],
+      "script": "\"Honestly, you're the only person I know who'd actually get this right — got ten minutes?\"",
+      "watchFor": "He starts checking in on the problem without being asked to.",
+      "ifItFails": "He helps once but treats it as a one-off favor, not a pattern. Don't force a second manufactured problem right away — that risks looking staged. Let a real, smaller need come up naturally and ask again then, further apart in time. Do not run this on someone paranoid enough to already suspect you — it reads as a setup fast.",
+      "counter": "If someone keeps landing exactly on problems only you can solve, question the coincidence.\n• Notice requests that conveniently need your specific, narrow skill.\n• Help once, plainly, without extra follow-up conversation.\n• Watch whether your help gets credited back to your own side, not just theirs.",
+      "insight": "Making someone useful to you is stronger than being useful to them, because it rewires whose success he's rooting for. The harder part is manufacturing the problem without him ever sensing it wasn't real.",
+      "example": "Renee faked being stuck on a spreadsheet model that she knew her target specialized in. He spent an afternoon fixing it and mentioned the fix to his own boss with pride. Within weeks, he was checking in on her projects on his own."
+    },
+    {
+      "id": 13,
+      "cat": "break",
+      "danger": "extreme",
+      "title": "Make His Last Favor Impossible to Take Back",
+      "principle": "Schelling: Commitment Devices — Burned Bridges",
+      "remember": "The break only sticks once he can't explain it away.",
+      "when": "You've built enough trust and now need the moment that actually separates him from your rival.",
+      "hook": "A private doubt can be unsaid. <strong>A visible act cannot.</strong> Get him to do one.",
+      "truth": "Private disloyalty can always be explained away the next morning.\n• A visible act, once done, cannot be quietly walked back later.\n• He now needs you to make the act worth what it cost him.\n• Most people stop at private trust and never force the visible act.",
+      "theySee": "A moment that felt small at the time but now can't be unsaid or undone.",
+      "signals": [
+        {
+          "icon": "📧",
+          "l": "Written record",
+          "t": "He sends something in writing that clearly favors you over your rival."
+        },
+        {
+          "icon": "👥",
+          "l": "Seen by others",
+          "t": "Someone from his own camp saw or heard him take your side."
+        },
+        {
+          "icon": "😬",
+          "l": "Visible regret",
+          "t": "He looks uneasy right after doing it, checking who noticed."
+        },
+        {
+          "icon": "🔒",
+          "l": "No easy denial",
+          "t": "There's no simple story that explains the act as innocent."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for something visible",
+          "desc": "Request help that necessarily happens where someone from his side could see it."
+        },
+        {
+          "n": "2",
+          "title": "Avoid private-only favors",
+          "desc": "Skip asks that could later be denied as a misunderstanding or accident."
+        },
+        {
+          "n": "3",
+          "title": "Move fast after",
+          "desc": "Act on what he gave you quickly, so it's already used before he can reconsider."
+        }
+      ],
+      "script": "\"Could you just say that in the meeting instead of over email? It'll land better coming from you.\"",
+      "watchFor": "He does it anyway, in public, even though you can see him hesitate first.",
+      "ifItFails": "He backs out at the last second and keeps the favor private and deniable. Don't force it that day — pushing a reluctant person into a public act can blow up the whole relationship. Bank the private trust instead and try again later with something smaller and less exposed. Do not run this on someone who could lose their job for it — a cornered ally turns on you fast.",
+      "counter": "If someone keeps nudging your private help into something visible, notice the shift.\n• Ask why a private favor suddenly needs to happen where others see it.\n• Keep your help low-key and reversible, in writing to no one.\n• Refuse the public version even if the private one already happened.",
+      "insight": "A visible break costs him something real, which is exactly why it works — it removes his easy way back. The harder part comes right after: he's now exposed, and exposed people need you to be worth it fast.",
+      "example": "Elena's target had quietly fed her information for months, always deniable. She finally asked him to correct a false claim about her project in a meeting his own boss attended. He did it, visibly uneasy — and from that day, there was no quiet way back to his old side."
+    },
+    {
+      "id": 14,
+      "cat": "break",
+      "danger": "high",
+      "title": "Force Your Rival to Choose Between Him and Someone Else",
+      "principle": "Machiavelli: Discourses — Divide et Impera",
+      "remember": "Make your rival pick a favorite. The loser becomes yours.",
+      "when": "Your rival manages more than one strong ally and you need a wedge between them.",
+      "hook": "Your rival can't reward everyone equally. <strong>Make that fact impossible to ignore.</strong>",
+      "truth": "Every camp has scarce credit, and scarce credit forces a ranking.\n• Surfacing the ranking makes the runner-up feel it for the first time.\n• Your rival now has to publicly favor one person over another.\n• Most people never expose the ranking, so nobody feels the sting.",
+      "theySee": "A situation where your rival visibly favors someone else over him, at a cost that's hard to miss.",
+      "signals": [
+        {
+          "icon": "🏆",
+          "l": "Visible pick",
+          "t": "Your rival gives a prize, project, or praise to one person over another."
+        },
+        {
+          "icon": "😶",
+          "l": "Silent reaction",
+          "t": "The passed-over ally goes quiet instead of congratulating the winner."
+        },
+        {
+          "icon": "🚶",
+          "l": "Physical distance",
+          "t": "He starts sitting or standing further from your rival in shared spaces."
+        },
+        {
+          "icon": "📉",
+          "l": "Drop in effort",
+          "t": "His work output or enthusiasm visibly dips right after the decision."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the competing pair",
+          "desc": "Identify two allies in the camp who are quietly competing for the same thing."
+        },
+        {
+          "n": "2",
+          "title": "Surface the scarcity",
+          "desc": "Create or highlight a situation where your rival must choose between them."
+        },
+        {
+          "n": "3",
+          "title": "Console the loser",
+          "desc": "Be there for the passed-over one right after the decision lands."
+        }
+      ],
+      "script": "\"That must've stung — especially after everything you put into it.\"",
+      "watchFor": "He doesn't defend your rival's choice, even when you give him the opening to.",
+      "ifItFails": "He defends the decision as fair and shuts down the sympathy. Don't push the sympathy angle twice — it reads as gloating. Switch to a small favor that quietly outperforms what he lost, and let time do the comparing for you. Do not run this if the rivalry between them could turn violent or get someone fired unfairly — that risk is not yours to create.",
+      "counter": "If someone shows up right after you lose out to console you, check their timing.\n• Notice comfort that arrives suspiciously fast after a public loss.\n• Accept it politely, but keep the details to yourself.\n• Stay visibly loyal to your side until the sting actually fades.",
+      "insight": "Scarcity does the dividing for you — you just have to make sure someone's watching when it happens. The harder part is not gloating, because gloating turns your sympathy back into an obvious setup.",
+      "example": "Victor knew his rival had two rising leads competing for one big account. He made sure the decision happened in a room full of people. The one who lost stopped attending team socials within a week — and started attending Victor's instead."
+    },
+    {
+      "id": 15,
+      "cat": "break",
+      "danger": "extreme",
+      "title": "Make Him Defend You in Public Once",
+      "principle": "Cialdini: Public Commitment",
+      "remember": "One public defense burns the bridge back better than any private talk.",
+      "when": "You need the break to be real, not just something he feels privately.",
+      "hook": "Private sympathy costs nothing. <strong>A public defense costs him standing with his own side.</strong>",
+      "truth": "What someone says in front of others becomes who they believe they are.\n• A public defense forces him to act consistent with it going forward.\n• His own camp now watches him differently after the moment.\n• Most people settle for private support and never get this moment.",
+      "theySee": "A moment where speaking up for you felt like the honest, fair thing to do.",
+      "signals": [
+        {
+          "icon": "🎤",
+          "l": "Speaks up",
+          "t": "He corrects someone or defends you in a meeting with others present."
+        },
+        {
+          "icon": "👁️",
+          "l": "Gets noticed",
+          "t": "Someone from his own camp visibly clocks what he just did."
+        },
+        {
+          "icon": "🧍",
+          "l": "Stiff after",
+          "t": "His posture stiffens right after, aware of what he just signaled."
+        },
+        {
+          "icon": "💬",
+          "l": "Owns it later",
+          "t": "When asked about it afterward, he doesn't walk it back."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set up the moment",
+          "desc": "Create or wait for a public situation where an unfair claim about you surfaces."
+        },
+        {
+          "n": "2",
+          "title": "Give him the opening",
+          "desc": "Make sure he's present and has a natural reason to respond to it."
+        },
+        {
+          "n": "3",
+          "title": "Back him afterward",
+          "desc": "Support him quietly once his camp reacts, so he isn't left exposed alone."
+        }
+      ],
+      "script": "\"You don't have to say anything, but if you disagree, now's the moment.\"",
+      "watchFor": "He speaks up without being asked twice, and doesn't soften it afterward when questioned.",
+      "ifItFails": "He stays silent in the moment and defends you privately afterward instead. That's still useful, but it's not the break yet — don't call him out for the silence. Wait for a second, lower-stakes public moment and try again, smaller this time. Do not run this on someone whose job or standing could be ended over one moment — that's his call to make, not yours to force.",
+      "counter": "If someone sets you up to defend them in front of your own side, see the trap.\n• Notice a conveniently timed unfair claim right when you're present.\n• Give a measured answer that doesn't take a clear side.\n• Decide separately, later, whether that person earned your defense.",
+      "insight": "A public act is worth ten private ones because it can't be unsaid to the people who matter to him. The harder part is what happens right after — he's now exposed to his own camp, and exposure without support turns loyalty into regret fast.",
+      "example": "Grace waited until a company meeting where someone repeated an unfair rumor about her work. Her target, sitting three seats away, corrected it out loud without being asked. His own boss noticed. He never fully returned to his old camp after that."
+    },
+    {
+      "id": 16,
+      "cat": "holding",
+      "danger": "moderate",
+      "title": "Remind Him What He'd Have to Explain to Go Back",
+      "principle": "Sunk-Cost Anchoring",
+      "remember": "Make going back cost more than staying ever will.",
+      "when": "The break happened and now you need him to stay turned, not drift back.",
+      "hook": "He won't leave because he loves you. <strong>He'll stay because going back means explaining everything.</strong>",
+      "truth": "People avoid the path that forces them to explain a change of heart.\n• Going back would mean admitting the break was a mistake, out loud.\n• That admission costs him more socially than staying with you does.\n• Most people try to win him over again instead of using this.",
+      "theySee": "Someone who casually mentions how far things have already come, not a threat.",
+      "signals": [
+        {
+          "icon": "🧮",
+          "l": "Counts the cost",
+          "t": "He mentions how awkward it would be to go back now."
+        },
+        {
+          "icon": "🙈",
+          "l": "Avoids old contacts",
+          "t": "He avoids people from his old camp instead of reconnecting."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Tells his version",
+          "t": "He explains the break to others in a way that commits him further."
+        },
+        {
+          "icon": "📅",
+          "l": "Plans ahead",
+          "t": "He starts making plans with you that assume a longer future together."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Note what he's already said",
+          "desc": "Track every public or semi-public statement he's made that commits him."
+        },
+        {
+          "n": "2",
+          "title": "Reference it lightly",
+          "desc": "Mention it in passing, not as a warning, just as a shared fact."
+        },
+        {
+          "n": "3",
+          "title": "Give him a next step",
+          "desc": "Keep giving him something new to do so the path forward stays active."
+        }
+      ],
+      "script": "\"Can you imagine trying to explain your way back after everything you've said?\"",
+      "watchFor": "He laughs it off but doesn't argue with the premise.",
+      "ifItFails": "He says he could always patch things up if he wanted to. Don't argue the point — insisting he's trapped makes him want to prove he isn't. Shift to giving him a reason to stay that isn't about the cost of leaving: a new win, a new project, something forward-looking.",
+      "counter": "If someone keeps reminding you how hard it'd be to leave, that's a leash, not comfort.\n• Notice reminders about how committed you already look to others.\n• Say: \"I go where it makes sense, nothing's permanent.\"\n• Keep a real, quiet option open on the other side.",
+      "insight": "The cost of explaining a reversal is often heavier than the cost of the original break. The next question is whether you're holding him with real value or just with the fear of an awkward conversation.",
+      "example": "Oscar's new ally had burned a bridge publicly to help him. Months later, when a headhunter from the old camp called, Oscar reminded him lightly how strange it would look to go back now. The ally laughed, turned down the call, and stayed."
+    },
+    {
+      "id": 17,
+      "cat": "holding",
+      "danger": "low",
+      "title": "Give Him a New Story About Himself",
+      "principle": "Cialdini: Consistency — Identity Anchoring",
+      "remember": "People stay loyal to the story, not the person who wrote it.",
+      "when": "You want him loyal long-term, not just loyal to the last favor you did.",
+      "hook": "He's not loyal to you. <strong>He's loyal to the version of himself you gave him.</strong>",
+      "truth": "People act to stay consistent with the story they believe about themselves.\n• A new identity — the sharp one, the one who sees clearly — sticks.\n• He now defends that story more than he defends any one person.\n• Most people keep selling themselves instead of selling him his own story.",
+      "theySee": "Someone who sees him the way he's always wanted to be seen.",
+      "signals": [
+        {
+          "icon": "🪞",
+          "l": "Repeats the label",
+          "t": "He starts describing himself using the exact words you gave him."
+        },
+        {
+          "icon": "🎯",
+          "l": "Acts the part",
+          "t": "He makes decisions that match the new identity, even without you present."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Tells others",
+          "t": "He introduces himself to others using that same framing."
+        },
+        {
+          "icon": "🛡️",
+          "l": "Defends it",
+          "t": "He gets defensive if someone challenges that version of him."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the story",
+          "desc": "Pick one flattering, specific identity that fits something true about him."
+        },
+        {
+          "n": "2",
+          "title": "Say it as fact",
+          "desc": "State it like an observation, not a compliment: 'you're the one who actually sees it.'"
+        },
+        {
+          "n": "3",
+          "title": "Reinforce it often",
+          "desc": "Repeat the framing naturally whenever he acts in a way that matches it."
+        }
+      ],
+      "script": "\"You're the only one over there who actually calls it straight — that's rare.\"",
+      "watchFor": "He starts using your exact phrase to describe himself to someone else.",
+      "ifItFails": "He brushes off the label and doesn't take to the framing. Don't force the same label twice — if it didn't land, it wasn't the right one. Watch him for a few weeks and find the identity he already leans toward, then hand that one back to him instead.",
+      "counter": "If someone keeps handing you a flattering label about yourself, notice what it's doing.\n• Ask why this specific compliment keeps repeating in every conversation.\n• Accept it lightly without building decisions around it.\n• Judge yourself by your own read, not someone else's framing.",
+      "insight": "A story about who you are is stickier than any favor, because people defend their identity harder than they defend a friendship. The harder part is keeping the story true enough that he never catches you writing it.",
+      "example": "Liu told his new ally, 'you're the only honest voice in that whole building,' after one blunt comment in a meeting. The ally started repeating that exact line about himself to others. A year later, he still acted like the honest one — because he'd started believing it."
+    },
+    {
+      "id": 18,
+      "cat": "holding",
+      "danger": "low",
+      "title": "Keep the Wins Coming So Leaving Feels Like Losing",
+      "principle": "Loss Aversion",
+      "remember": "Never let the last good thing you did for him be old news.",
+      "when": "Things have settled and you're worried the relationship is going stale.",
+      "hook": "People don't leave what's working. <strong>They leave what stopped feeling like it's working.</strong>",
+      "truth": "A steady drip of wins keeps the relationship feeling alive and worth keeping.\n• Once the wins stop, leaving no longer feels like losing anything.\n• The most recent win, not the biggest one, is what he remembers.\n• Most people coast on old trust instead of adding new proof.",
+      "theySee": "Someone who keeps delivering, which makes the relationship feel worth protecting.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Win drought",
+          "t": "It's been a while since he got a real, visible benefit from you."
+        },
+        {
+          "icon": "🔎",
+          "l": "Looking around",
+          "t": "He starts mentioning other options or people more than before."
+        },
+        {
+          "icon": "🥱",
+          "l": "Flat energy",
+          "t": "His enthusiasm for check-ins has cooled compared to a few months ago."
+        },
+        {
+          "icon": "💬",
+          "l": "Fewer updates",
+          "t": "He stops volunteering updates the way he used to early on."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Audit the last win",
+          "desc": "Check how long it's been since he got something real and visible from you."
+        },
+        {
+          "n": "2",
+          "title": "Plan the next one",
+          "desc": "Line up a new, concrete benefit before the gap gets too long."
+        },
+        {
+          "n": "3",
+          "title": "Deliver it without being asked",
+          "desc": "Give it to him before he has to bring up that things feel quiet."
+        }
+      ],
+      "script": "\"Got something for you — figured you'd want this before anyone else did.\"",
+      "watchFor": "His energy and response time pick back up right after the new win lands.",
+      "ifItFails": "The new win lands flat and doesn't seem to move him like it used to. That's a sign the relationship has shifted, not a failed tactic — ask directly what he actually needs right now instead of guessing again. Say: \"What would actually be useful to you these days?\"",
+      "counter": "If someone's favors keep arriving right when you seem to be drifting, notice the timing.\n• Watch for wins that show up exactly when your interest looks low.\n• Accept the win, but don't let it reset your own judgment.\n• Keep evaluating the relationship on its full pattern, not the latest gift.",
+      "insight": "Momentum, not history, is what keeps someone in place — old trust fades faster than people expect. The harder part is knowing when the wins have to keep growing versus when just showing up is enough.",
+      "example": "Priya noticed her ally's replies had gotten shorter after four quiet months. She got him early access to a report he'd wanted for weeks. His replies got long again within a day, and he mentioned the favor to her twice more that month."
+    },
+    {
+      "id": 19,
+      "cat": "reports",
+      "danger": "high",
+      "title": "Leave Nothing in Writing That Names the Plan",
+      "principle": "Greene: Law 3 — Conceal Your Intentions",
+      "remember": "If you never wrote the plan down, there is no plan to show.",
+      "when": "You're deep into turning him and need to make sure there's no proof if he turns on you instead.",
+      "hook": "The safest plan is one that <strong>only ever existed out loud.</strong>",
+      "truth": "Written words survive long after the conversation that produced them.\n• A screenshot or forwarded message outlives any explanation you could give.\n• Spoken words leave no copy for him to hand to your rival.\n• Most people get caught by their own message history, not his.",
+      "theySee": "Someone who prefers calls and coffee to email, which just looks efficient.",
+      "signals": [
+        {
+          "icon": "📵",
+          "l": "No digital trail",
+          "t": "Nothing about the real plan exists in text, email, or chat."
+        },
+        {
+          "icon": "☎️",
+          "l": "Calls over texts",
+          "t": "You default to calls or in-person talks for anything sensitive."
+        },
+        {
+          "icon": "🗑️",
+          "l": "Clean channels",
+          "t": "Any messages that do exist stay vague, generic, and easily explained."
+        },
+        {
+          "icon": "🤐",
+          "l": "Vague wording",
+          "t": "Even voice messages avoid naming names or specific plans directly."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set the channel rule",
+          "desc": "Decide upfront that anything sensitive happens by call or in person only."
+        },
+        {
+          "n": "2",
+          "title": "Keep messages boring",
+          "desc": "Make any written contact between you look routine and unremarkable."
+        },
+        {
+          "n": "3",
+          "title": "Check his habits too",
+          "desc": "Confirm he isn't screenshotting or forwarding your calls and messages himself."
+        }
+      ],
+      "script": "\"Let's just hop on a call for this one — easier than typing it all out.\"",
+      "watchFor": "He naturally shifts to calls himself without you having to ask twice.",
+      "ifItFails": "You find out something did get written down and might be exposed. Don't panic or apologize by text — that just adds another written record. Call him directly and address it live: \"Saw that message got sent — we good?\" Handle it voice-to-voice, always.",
+      "counter": "If someone insists everything sensitive happens by phone or in person, notice the pattern.\n• Ask why written proof of this specific topic makes them uncomfortable.\n• Keep your own paper trail even if they won't keep theirs.\n• Decide if the secrecy itself tells you something about the risk.",
+      "insight": "No written plan means no written confession, which is the entire point. The harder part is staying disciplined about it for months, not just during the one risky conversation.",
+      "example": "Hector ran his entire approach to a rival's ally over six months of calls and one coffee meeting a month. When the ally later hinted about it to a mutual friend, there was no message, no email, nothing to forward. The rumor died for lack of proof."
+    },
+    {
+      "id": 20,
+      "cat": "reports",
+      "danger": "extreme",
+      "title": "Get to Your Rival First With Your Own Version",
+      "principle": "Preemptive Framing",
+      "remember": "Whoever tells the story first owns what it means.",
+      "when": "You think he's about to report your conversations to your rival, or already has.",
+      "hook": "The first version of the story wins. <strong>Make sure it's yours.</strong>",
+      "truth": "The first account of an event becomes the lens everyone else uses on it.\n• Getting there first lets you set the innocent frame before he sets the guilty one.\n• A late denial always sounds weaker than an early, casual mention.\n• Most people wait and react instead of speaking first and shaping it.",
+      "theySee": "Someone who mentions the relationship casually, like it was never a secret at all.",
+      "signals": [
+        {
+          "icon": "🤝",
+          "l": "Casual mention",
+          "t": "You bring up knowing him before anyone asks you about it."
+        },
+        {
+          "icon": "😐",
+          "l": "Flat tone",
+          "t": "You describe the contact as ordinary, not defensive or rehearsed."
+        },
+        {
+          "icon": "🕵️",
+          "l": "Rival's reaction",
+          "t": "Your rival reacts with less surprise than you expected, a good sign."
+        },
+        {
+          "icon": "📞",
+          "l": "He backs your version",
+          "t": "He doesn't contradict the framing when your rival brings it up to him."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Move before he does",
+          "desc": "Mention the contact to someone who'd reach your rival before he gets there first."
+        },
+        {
+          "n": "2",
+          "title": "Frame it as small",
+          "desc": "Describe it as a normal, minor professional contact, nothing more."
+        },
+        {
+          "n": "3",
+          "title": "Stay consistent after",
+          "desc": "Repeat the exact same framing every time it comes up later."
+        }
+      ],
+      "script": "\"Oh, yeah, I ran into him at that thing — small world, we talked shop for a bit.\"",
+      "watchFor": "Your rival brings it up to you casually, already holding your version of it.",
+      "ifItFails": "Your rival confronts you directly, already suspicious, and your version doesn't land. Don't escalate the denial — a calm, boring repeat of the same frame beats a defensive one. Say: \"Like I said, ran into him once, nothing more to it,\" and stop talking. Silence after that line works better than any added explanation. Do not run this move if getting caught costs you your job or your standing — have your exit ready first.",
+      "counter": "If someone casually mentions contact with your ally before you've heard about it elsewhere, notice the timing.\n• Ask what actually happened in more detail than the casual version gives.\n• Check their story against your own ally's version separately.\n• Treat a too-smooth explanation as a signal, not a relief.",
+      "insight": "Whoever speaks first gets to define what the event means, and nobody wants to be the one arguing against the established version. The next question is whether your framing holds up if he ever tells his own side of it.",
+      "example": "Yusuf knew his target might mention their calls if questioned. Before that could happen, he told his rival offhand that he'd run into the guy at a conference and caught up briefly. When his rival later heard a rumor about deeper contact, it already sounded like old, boring news."
+    }
+  ]
+}

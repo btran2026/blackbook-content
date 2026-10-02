@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 86,
+  "manifestVersion": 87,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -780,7 +780,20 @@
       "url": "playbooks/playbook-srv-star-without-the-slop.json",
       "addedAt": "2026-09-28T06:28:17.993Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-turn-his-best-ally",
+      "title": "Turn His Best Ally",
+      "theme": "negotiation",
+      "topic": "",
+      "cardCount": 20,
+      "contentVersion": 1,
+      "coverColor": "#7f1d1d",
+      "coverIcon": "🗝️",
+      "url": "playbooks/playbook-srv-turn-his-best-ally.json",
+      "addedAt": "2026-10-02T17:22:22.091Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-09-28T06:28:17.993Z"
+  "generatedAt": "2026-10-02T17:22:22.091Z"
 }
