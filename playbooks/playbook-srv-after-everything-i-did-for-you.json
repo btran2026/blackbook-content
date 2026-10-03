@@ -1,0 +1,986 @@
+{
+  "meta": {
+    "id": "srv-after-everything-i-did-for-you",
+    "version": "1.0",
+    "title": "After Everything I Did For You",
+    "subtitle": "How favors become debts, and how to close the account",
+    "description": "A field manual for the oldest hold in the book: the favor that was never a gift. Spot the setup, read the guilt speech before it lands, refuse without a fight, pay the debt once and close it for good — and run the same play yourself when you need pull.",
+    "author": "AI",
+    "createdAt": "2026-10-02T23:32:48.265Z",
+    "tags": [
+      "guilt",
+      "obligation",
+      "reciprocity",
+      "family",
+      "manipulation",
+      "boundaries",
+      "power"
+    ],
+    "totalCards": 16,
+    "isSeeded": true,
+    "coverColor": "#7F1D1D",
+    "coverIcon": "🧾",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "setup",
+      "label": "The Setup",
+      "color": "#C2410C"
+    },
+    {
+      "key": "ledger",
+      "label": "Building the Debt",
+      "color": "#A16207"
+    },
+    {
+      "key": "refuse",
+      "label": "Saying No in the Moment",
+      "color": "#B91C1C"
+    },
+    {
+      "key": "settle",
+      "label": "Closing the Account",
+      "color": "#047857"
+    },
+    {
+      "key": "blood",
+      "label": "Family Debt",
+      "color": "#7E22CE"
+    },
+    {
+      "key": "collect",
+      "label": "Running It Yourself",
+      "color": "#1D4ED8"
+    },
+    {
+      "key": "after",
+      "label": "After You Refuse",
+      "color": "#475569"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "setup",
+      "danger": "low",
+      "title": "Know When a Favor Is Really a Loan",
+      "principle": "Cialdini: Reciprocity — The Uninvited Gift",
+      "remember": "Help you never asked for always comes with a bill.",
+      "when": "Someone does you a big favor you never asked for.",
+      "hook": "Most debts start as kindness. <strong>The bill arrives the first time you say no.</strong>",
+      "truth": "A real gift is given once and forgotten by the giver.\n• They help big, help loudly, and refuse your repayment.\n• You feel grateful, so you stop counting what it costs.\n• The charge lands later, when you want something they dislike.",
+      "theySee": "A person who takes the help, says thank you, and owes them now.",
+      "signals": [
+        {
+          "icon": "🎁",
+          "l": "Unasked help",
+          "t": "They help with something you never asked them for."
+        },
+        {
+          "icon": "👥",
+          "l": "Audience",
+          "t": "They do the favor where other people can see it."
+        },
+        {
+          "icon": "🚫",
+          "l": "Refused payback",
+          "t": "They wave off your money or your return favor."
+        },
+        {
+          "icon": "💰",
+          "l": "Cost talk",
+          "t": "They tell you what the favor cost them in time or cash."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write it down",
+          "desc": "Note the date, what they did, and whether you asked for it."
+        },
+        {
+          "n": "2",
+          "title": "Pay it back fast",
+          "desc": "Return something of similar size inside two weeks."
+        },
+        {
+          "n": "3",
+          "title": "Thank them once",
+          "desc": "Say thank you one time. Repeat thanks sounds like an unpaid bill."
+        }
+      ],
+      "script": "\"That was good of you. Let me get the next one — I don't like owing people.\"",
+      "example": "Dani came home to a repainted fence from her neighbor Rob. She sent a $120 gift card that same week with a short note. Four months later Rob asked her to co-sign his lease. She said no, and he had no fence left to point at.",
+      "watchFor": "They push your repayment away and say you can get them back some other time.",
+      "ifItFails": "They refuse every repayment and keep the account open. Stop paying in kind. Pay in public instead: name the favor once in front of their friends. Say: <strong>\"Marcus drove four hours to help me move. Everyone here should know that.\"</strong> A debt paid in front of witnesses is hard to bill twice.",
+      "counter": "If someone keeps refusing your repayment, they want the debt alive.\n• Notice the refusal. That is the tell, not the help.\n• Say: \"I'd rather settle up now than owe you.\"\n• If they still refuse, write the favor down and plan your no.",
+      "insight": "A favor you cannot repay is a leash with a long lead. The harder part is that the best lenders pick people who hate owing anyone."
+    },
+    {
+      "id": 2,
+      "cat": "setup",
+      "danger": "low",
+      "title": "Name the Four Steps of the Guilt Speech",
+      "principle": "Forward: Emotional Blackmail — Fear, Obligation, Guilt",
+      "remember": "The speech has four parts. Count them as they come.",
+      "when": "Someone starts a sentence with after everything I did for you.",
+      "hook": "The speech is not improvised. <strong>They have run it before, on other people.</strong>",
+      "truth": "The guilt speech always runs in the same order.\n• One: they list the favor, bigger than it was.\n• Two: they name what it cost them, in hours or money.\n• Three: they call you ungrateful, then make the real ask.",
+      "theySee": "A person who goes quiet and lets them finish the whole speech.",
+      "signals": [
+        {
+          "icon": "📜",
+          "l": "Old favor",
+          "t": "They open with something they did months or years ago."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Cost count",
+          "t": "They tell you the hours, the miles, or the dollars."
+        },
+        {
+          "icon": "🪞",
+          "l": "Character turn",
+          "t": "They move from the favor to what kind of person you are."
+        },
+        {
+          "icon": "❓",
+          "l": "Late ask",
+          "t": "The real request comes last, after you already feel bad."
+        },
+        {
+          "icon": "🔁",
+          "l": "Same words",
+          "t": "They use the same phrases every time they run it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count the beats",
+          "desc": "Listen for favor, cost, character, ask. Mark each one silently."
+        },
+        {
+          "n": "2",
+          "title": "Wait for the ask",
+          "desc": "Do not answer until the real request shows up. It always does."
+        },
+        {
+          "n": "3",
+          "title": "Answer only the ask",
+          "desc": "Reply to the request. Leave the first three parts alone."
+        }
+      ],
+      "script": "\"Let's get to it — what do you want me to do?\"",
+      "example": "Priya's uncle started with the tuition he paid in 2019, then the shifts he worked for it, then her short memory. She said nothing and waited. He asked for a $4,000 loan. She answered only the loan, and the tuition never came up again.",
+      "watchFor": "They stop mid-speech and jump straight to the request.",
+      "ifItFails": "They never make a clear ask and leave the guilt hanging. Do not fill it. Put the ask back on them in writing. Text: <strong>\"I'm not sure what you're asking for. Tell me the specific thing and I'll give you a yes or a no.\"</strong> Now they have to write the price down.",
+      "counter": "If you can hear the script, you can also hear it in your own mouth.\n• Notice when you open with what you did for someone.\n• Cut the first three parts and ask straight.\n• People say yes more often to a clean ask than a speech.",
+      "insight": "Fear lives in surprise. Once you can count the beats, the speech turns into a man reading out loud. The next question is what you do in the pause after it ends."
+    },
+    {
+      "id": 3,
+      "cat": "ledger",
+      "danger": "moderate",
+      "title": "Catch the Ask That Grows Each Time",
+      "principle": "Freedman & Fraser: Foot-in-the-Door",
+      "remember": "Small yes, bigger yes, then the one you cannot take back.",
+      "when": "Someone who helped you once asks for a slightly bigger favor every month.",
+      "hook": "Nobody opens with the big ask. <strong>They open with the one you cannot refuse.</strong>",
+      "truth": "Each yes makes the next yes feel normal.\n• The first ask is tiny on purpose. It costs you nothing.\n• Every yes makes you the person who says yes.\n• The real ask comes fourth, when a no looks like betrayal.",
+      "theySee": "A person who already said yes three times and sees no reason to stop.",
+      "signals": [
+        {
+          "icon": "📈",
+          "l": "Growing size",
+          "t": "Each ask costs more time or money than the last one."
+        },
+        {
+          "icon": "⌛",
+          "l": "Short gap",
+          "t": "The next ask comes before you finish the last one."
+        },
+        {
+          "icon": "🧾",
+          "l": "Yes list",
+          "t": "They remind you that you already said yes before."
+        },
+        {
+          "icon": "🙃",
+          "l": "Nothing back",
+          "t": "They never offer you anything between the asks."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the last four asks",
+          "desc": "Write each one with its real cost in hours or dollars."
+        },
+        {
+          "n": "2",
+          "title": "Find the growth",
+          "desc": "Compare ask one to ask four. The gap is the plan."
+        },
+        {
+          "n": "3",
+          "title": "Break the run",
+          "desc": "Say no to the next ask, even a small one. Breaking the run matters more than the size."
+        }
+      ],
+      "script": "\"I've said yes to the last three. This one's a no — I'm out of room this month.\"",
+      "example": "Tomas's neighbor asked for a jump start, then a ride, then a weekend of drywall help, then $900. Tomas said no to a 20-minute airport run, the smallest ask yet. The $900 never came up again.",
+      "watchFor": "They bring up the earlier favors you already agreed to.",
+      "ifItFails": "They call you unreliable and go quiet for a week. Do not chase the silence. Send one line that sets the new rate and nothing else: <strong>\"I can do one thing a month. Tell me which one you want and I'll put it in the calendar.\"</strong> Now they must choose, and choosing costs them the other asks.",
+      "counter": "If you want a big yes, you never ask for it first.\n• Watch for a person who always starts small with you.\n• Say: \"Tell me the whole thing you need, not the first piece.\"\n• Price the full job before you agree to any part of it.",
+      "insight": "The trap is not the big ask. It is the three small ones that made you a person who says yes. Do not break the run on someone who signs your reviews — settle that debt in writing instead."
+    },
+    {
+      "id": 4,
+      "cat": "ledger",
+      "danger": "moderate",
+      "title": "Set the Price Before You Take the Help",
+      "principle": "Schelling: Commitment — Terms Fixed in Advance",
+      "remember": "Agree what you owe before you accept anything big.",
+      "when": "Someone offers you big help and waves off your question about the cost.",
+      "hook": "The cheapest moment to argue about price is before the work starts. <strong>After, you are arguing with a man holding a receipt.</strong>",
+      "truth": "An open account is worth more to the lender than cash.\n• They refuse a price so the debt has no size.\n• A debt with no size can be charged at any amount.\n• Name a number first and the charge has a ceiling.",
+      "theySee": "A person who takes the help and treats it like a deal, not a rescue.",
+      "signals": [
+        {
+          "icon": "🤷",
+          "l": "No number",
+          "t": "They say do not worry about it when you ask the cost."
+        },
+        {
+          "icon": "🕰️",
+          "l": "Later talk",
+          "t": "They say you can sort it out some other time."
+        },
+        {
+          "icon": "🎚️",
+          "l": "Growing job",
+          "t": "The help gets bigger than the thing you asked for."
+        },
+        {
+          "icon": "👀",
+          "l": "Face check",
+          "t": "They watch whether you look grateful enough."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the cost out loud",
+          "desc": "Ask what the help costs them in money and in hours."
+        },
+        {
+          "n": "2",
+          "title": "Name your repayment",
+          "desc": "Say what you will give back and by what date."
+        },
+        {
+          "n": "3",
+          "title": "Put it in a text",
+          "desc": "Send the terms in one message the same day."
+        }
+      ],
+      "script": "\"Before you start — what does this cost you? I'll pay that back by the 15th. If that doesn't work, I'll hire someone instead.\"",
+      "example": "Lena's brother-in-law offered to redo her bathroom for free. She asked what the materials cost, then sent him $1,400 before he bought a single tile. When he hinted about a job referral six months later, there was nothing left to hint with.",
+      "watchFor": "They name a number, or they back out of the favor entirely.",
+      "ifItFails": "They refuse to name any number and start the work anyway. Set your own price and pay it without asking. Send the money or the equal favor, then write: <strong>\"Sent you $300 for the weekend. We're square — and I'll call you first next time I need a hand.\"</strong> You decided the size, so they cannot set it later.",
+      "counter": "If you want someone in your debt, you never price the favor.\n• Watch for the helper who refuses money and refuses a trade.\n• Say: \"Then I'll pick the number, and we're done.\"\n• Pay it and say the word square out loud, in front of someone.",
+      "insight": "A priced favor is a transaction and dies on payment. An unpriced favor is an account that stays open for years. Do not try to price a gift from someone who outranks you at work — pay that one in public credit instead."
+    },
+    {
+      "id": 5,
+      "cat": "refuse",
+      "danger": "moderate",
+      "title": "Thank the Favor and Still Say No",
+      "principle": "Voss: Label × Separation of Gift and Demand",
+      "remember": "Two things are true. Thank the help. Refuse the ask.",
+      "when": "They list everything they did for you, then ask for something you do not want to give.",
+      "hook": "They glued the favor to the ask on purpose. <strong>Your job is to pull them apart out loud.</strong>",
+      "truth": "The speech works because it makes gratitude and obedience the same thing.\n• They stack the old favor on top of the new request.\n• Refusing the ask now feels like denying the favor.\n• Say the favor was real, then answer the ask alone.",
+      "theySee": "A person who agrees with every word about the past and still says no.",
+      "signals": [
+        {
+          "icon": "🔗",
+          "l": "Glued together",
+          "t": "They mention the favor in the same sentence as the ask."
+        },
+        {
+          "icon": "😢",
+          "l": "Hurt face",
+          "t": "They look wounded when you pause before answering."
+        },
+        {
+          "icon": "🧮",
+          "l": "Gratitude test",
+          "t": "They ask whether you even remember what they did."
+        },
+        {
+          "icon": "⏩",
+          "l": "Fast close",
+          "t": "They want an answer right now, in this conversation."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the favor was real",
+          "desc": "Name it in one sentence. Do not add the word but."
+        },
+        {
+          "n": "2",
+          "title": "Stop and breathe",
+          "desc": "Let that sentence sit for two seconds before you go on."
+        },
+        {
+          "n": "3",
+          "title": "Answer the ask alone",
+          "desc": "Give a clean no to the request with no reason attached."
+        }
+      ],
+      "script": "\"You did help me when I had nothing, and I won't forget it. I'm still not lending you the car.\"",
+      "example": "Ben's old roommate reminded him about the three months of free rent in 2021, then asked for the spare bedroom. Ben said the free rent was real and that he still would not do it. The roommate asked twice more, then stopped.",
+      "watchFor": "They repeat the favor louder because the first pass did not move you.",
+      "ifItFails": "They say your thanks mean nothing without action. Do not defend your gratitude — that is the argument they want. Hand them a different payment instead: <strong>\"I'll pay you back in something else. Pick one thing that isn't the car and I'll do it this week.\"</strong> Now they must take real payment or admit they only wanted the car.",
+      "counter": "If someone thanks you warmly and still refuses you, they just ran this.\n• Notice the split: warm about the past, cold about the ask.\n• Do not re-list the favor. It will not work twice.\n• Make a smaller, different request they can say yes to.",
+      "insight": "Most people fight the facts of the favor and lose. Agreeing fully costs nothing and takes their only weapon. Do not run this on someone who signs your pay — pay a boss in public credit instead. The next question is what they charge you for the no."
+    },
+    {
+      "id": 6,
+      "cat": "refuse",
+      "danger": "moderate",
+      "title": "Make Them Say the Ask Out Loud",
+      "principle": "Voss: Calibrated Question — Force the Specific Demand",
+      "remember": "Guilt stays vague. Make them name the exact thing.",
+      "when": "Someone makes you feel you owe them but never says what they want.",
+      "hook": "An unnamed debt can be charged forever. <strong>A named one can be paid and closed.</strong>",
+      "truth": "Vague guilt is a standing claim on everything you have.\n• They keep the ask fuzzy so it can grow later.\n• A named ask has a size, a date, and an end.\n• Ask for it in writing, where the fuzz does not survive.",
+      "theySee": "A person who looks ready to help and only wants the details.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "No specifics",
+          "t": "They say they just hoped you would understand."
+        },
+        {
+          "icon": "🔄",
+          "l": "Moving target",
+          "t": "The thing they want changes between conversations."
+        },
+        {
+          "icon": "🙂",
+          "l": "Hint only",
+          "t": "They hint at a need and wait for you to offer."
+        },
+        {
+          "icon": "📵",
+          "l": "Avoids writing",
+          "t": "They will not put the request in a text or an email."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the direct question",
+          "desc": "Ask what exactly they want you to do."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the size",
+          "desc": "Ask how much, by when, and how often."
+        },
+        {
+          "n": "3",
+          "title": "Put it in writing",
+          "desc": "Repeat their answer in a text and ask them to confirm it."
+        }
+      ],
+      "script": "\"What exactly do you want me to do, and by when? Send it in a text and I'll give you an answer tomorrow.\"",
+      "example": "Eli's manager kept sighing about weekend coverage without ever asking for it. Eli asked her to send the request with hours and dates. It came back as four hours on Saturday morning, not the whole weekend.",
+      "watchFor": "They shrink the ask the moment they have to say it in plain words.",
+      "ifItFails": "They refuse to name it and say you should know. Do not guess — guessing hands them the pen. Name the smallest version yourself and close it: <strong>\"Then I'll assume it's the Saturday help. I'll be there 9 to 1, and that's what I've got.\"</strong> You set the size and the end time.",
+      "counter": "If someone pushes you to name your ask, they plan to cap it.\n• Notice the request for a number, a date, or a text.\n• Give the number anyway. A vague ask reads as a trap.\n• Ask for a decision by a date, not an open yes.",
+      "insight": "People inflate a favor in the retelling and shrink it when they must write it down. Do not do this to someone in a real crisis — a drowning person's vague ask is just panic. The harder case is the one who names a small thing now and bills you for the big thing later."
+    },
+    {
+      "id": 7,
+      "cat": "refuse",
+      "danger": "high",
+      "title": "Do Not Argue About What Really Happened",
+      "principle": "Schopenhauer: The Art of Controversy — Refuse the Chosen Ground",
+      "remember": "Never fight about the old favor. You will lose that fight.",
+      "when": "They exaggerate what they did for you and you want to correct the record.",
+      "hook": "They have rehearsed that story for years. <strong>You are remembering it for the first time in the room.</strong>",
+      "truth": "Correcting the story is the fight they practice for.\n• They hold dates, numbers, and lines you forgot.\n• Every correction keeps the conversation on the favor.\n• Give them the whole story and answer only the request.",
+      "theySee": "A person who will not take the bait and keeps returning to today.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Exact dates",
+          "t": "They quote the day, the year, and the amount."
+        },
+        {
+          "icon": "📣",
+          "l": "Louder retelling",
+          "t": "The story gets bigger each time they tell it."
+        },
+        {
+          "icon": "🎣",
+          "l": "Bait question",
+          "t": "They ask whether you deny what they did for you."
+        },
+        {
+          "icon": "🧊",
+          "l": "Back to history",
+          "t": "Every time you mention today, they return to the past."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Give them the facts",
+          "desc": "Say they are right about the past. Do not check the details."
+        },
+        {
+          "n": "2",
+          "title": "Say today's date out loud",
+          "desc": "Name today and the one thing you are deciding right now."
+        },
+        {
+          "n": "3",
+          "title": "Repeat one line",
+          "desc": "Use the same sentence every time they go back. Add no new words."
+        }
+      ],
+      "script": "\"You remember it better than I do. I'm talking about today, and today the answer is no.\"",
+      "example": "Kurt's father-in-law recited the 2018 loan down to the interest. Kurt said he remembered it worse than that and repeated one line about today. After twenty minutes the father-in-law asked for a ride to the airport instead of the $5,000.",
+      "watchFor": "They run out of history and finally say what they want from you now.",
+      "ifItFails": "They escalate and bring in a third person who heard their version. Do not argue in front of the audience — you will look like the one keeping score. Move it to a channel they cannot edit: <strong>\"I'll put my answer in an email to both of you tonight.\"</strong> Writing kills a rehearsed speech.",
+      "counter": "If someone agrees with every fact and still refuses you, they just ran this.\n• Notice that you won the history and lost the decision.\n• Drop the past and ask about today instead.\n• Do not use this on a partner mid-fight — full agreement reads as contempt.",
+      "insight": "The fight about what happened is unwinnable because only one of you kept the file. Refusing that fight costs you nothing but pride. The harder question is whether you can hold one sentence for twenty minutes."
+    },
+    {
+      "id": 8,
+      "cat": "settle",
+      "danger": "moderate",
+      "title": "Pay the Debt Once, in Front of Other People",
+      "principle": "Cialdini: Social Proof × Public Commitment",
+      "remember": "Pay it where people can see. Witnesses close the account.",
+      "when": "One person keeps bringing up the same favor and you want it finished.",
+      "hook": "A private payment can be forgotten. <strong>A public one cannot be billed twice.</strong>",
+      "truth": "A debt dies when other people watch it get paid.\n• You name the favor first, and bigger than they would.\n• The room now holds the record instead of them.\n• Next time they bill you, the room remembers it was paid.",
+      "theySee": "A person who gives them full credit, loudly, in front of their friends.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeat billing",
+          "t": "They bring up the same favor in every hard conversation."
+        },
+        {
+          "icon": "🧍",
+          "l": "Private only",
+          "t": "They only mention it when nobody else is around."
+        },
+        {
+          "icon": "🏅",
+          "l": "Wants credit",
+          "t": "They care more about being named than about being repaid."
+        },
+        {
+          "icon": "😐",
+          "l": "Money refused",
+          "t": "They turn down your cash but keep telling the story."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the room",
+          "desc": "Choose a time when their people are there — a dinner, a group chat."
+        },
+        {
+          "n": "2",
+          "title": "Say it bigger than they do",
+          "desc": "Name the favor, the cost, and their name in one short toast."
+        },
+        {
+          "n": "3",
+          "title": "Close it",
+          "desc": "Say the word square or paid, out loud, one time."
+        }
+      ],
+      "script": "\"Before we eat — when I lost the job, Ray paid my rent for two months and never asked for a cent. I paid him back last week. I don't think I'd be here without him.\"",
+      "example": "Ray had reminded Wes about the rent money at every family event for two years. Wes stood up at a March dinner, told the whole story, and said he had paid it back. Ray has not mentioned it in front of anyone since.",
+      "watchFor": "They accept the credit in front of the group and smile.",
+      "ifItFails": "They bill you again a month later anyway. Do not repeat the toast — once is payment, twice is begging. Point at the record in writing: <strong>\"We settled this at Mara's dinner in March. If there's something new you need, ask me for that instead.\"</strong> Now the next bill has to be a fresh ask.",
+      "counter": "If someone praises you loudly for an old favor, they are closing the account.\n• Notice the audience and the past tense.\n• Take the credit warmly. Fighting it looks small.\n• Ask for what you want as a new thing, not an old debt.",
+      "insight": "Public credit is often worth more to them than money, and it costs you less. Do not do this with someone who hates attention — the toast will read as a trap. The harder part is holding the line the first time they test the closed account."
+    },
+    {
+      "id": 9,
+      "cat": "settle",
+      "danger": "high",
+      "title": "Repay the Boss Who Took a Chance on You",
+      "principle": "Machiavelli: The Prince, Ch. 17 — Gratitude Decays, Obligation Does Not",
+      "remember": "Pay your boss back early, in public, before they ask.",
+      "when": "Your boss reminds you that nobody else would hire you back then.",
+      "hook": "That line is not nostalgia. <strong>It is a bill, and the amount is whatever they need today.</strong>",
+      "truth": "A boss who hired you when you were weak holds the longest account at work.\n• The reminder lands just before an unpaid ask.\n• You cannot refuse it out loud without looking disloyal.\n• Pay it in visible credit, early, on your own schedule.",
+      "theySee": "A person who tells other people that this boss made their career.",
+      "signals": [
+        {
+          "icon": "🧓",
+          "l": "Origin story",
+          "t": "They retell your hiring story in front of new people."
+        },
+        {
+          "icon": "🪤",
+          "l": "Warm before ask",
+          "t": "The story shows up right before an unpaid weekend."
+        },
+        {
+          "icon": "🏷️",
+          "l": "Loyalty words",
+          "t": "They call you loyal more often than they call you good."
+        },
+        {
+          "icon": "📉",
+          "l": "No pay talk",
+          "t": "They avoid your salary while telling the story."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pay it first",
+          "desc": "Credit them in front of their own boss before they ever ask."
+        },
+        {
+          "n": "2",
+          "title": "Give a real thing",
+          "desc": "Hand them one win they can take upstairs this quarter."
+        },
+        {
+          "n": "3",
+          "title": "Move the topic to now",
+          "desc": "Ask in writing what success looks like this year."
+        }
+      ],
+      "script": "(with their boss in the room) <strong>\"Dana took a chance on me in 2022 when my résumé was a mess. I've tried to make that look like a smart call ever since.\"</strong> Then in your next one-on-one: \"What's the one thing I can deliver this quarter that makes you look right?\"",
+      "example": "Dana reminded Omar every six months that she hired him with no degree. In a quarterly review, Omar told her VP that Dana's call was the best hire bet he had seen. Dana stopped telling the story and started pushing his promotion instead.",
+      "watchFor": "They repeat your line upstairs as their own judgment call.",
+      "ifItFails": "They keep using the hiring story to get unpaid work. Stop arguing and change the record to numbers. Email before the next ask: <strong>\"Here's what I shipped this year and the hours it took. I want to talk about scope on the next one.\"</strong> Now the conversation is about work, not rescue.",
+      "counter": "If someone keeps crediting you for their start, watch what they refuse you.\n• Notice warm words paired with no money and no time.\n• Say: \"Thanks — now send me what you need in writing.\"\n• Never run the hiring story on a person who has other offers.",
+      "insight": "Gratitude at work has a two-year shelf life and both sides know it. Pay it loudly before it expires and you keep the credit. Do not refuse this debt out loud — a boss who feels denied writes your review."
+    },
+    {
+      "id": 10,
+      "cat": "settle",
+      "danger": "moderate",
+      "title": "Settle a Coworker's Favor in Writing",
+      "principle": "Cialdini: Reciprocity — Debt Inflation",
+      "remember": "One shift covered is not twelve. Put the count in writing.",
+      "when": "A coworker covered for you once and now treats you as always on call.",
+      "hook": "One favor, billed monthly, becomes a second job. <strong>Write the number down before it grows again.</strong>",
+      "truth": "An unwritten favor grows every time it is retold.\n• They keep the count in their head, where it only goes up.\n• You keep no count at all, so you cannot argue.\n• A written trade kills the growth in one message.",
+      "theySee": "A coworker who pays them back happily and names the exact date.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "Rising count",
+          "t": "They say they covered for you several times when it was once."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Short notice",
+          "t": "They ask for cover the night before, every time."
+        },
+        {
+          "icon": "👔",
+          "l": "Manager mention",
+          "t": "They hint that the boss noticed them helping you."
+        },
+        {
+          "icon": "🤐",
+          "l": "Never in writing",
+          "t": "They ask by phone or in the hallway, never by message."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the real count",
+          "desc": "Check the schedule or the chat log. Get the exact number."
+        },
+        {
+          "n": "2",
+          "title": "Offer one clean trade",
+          "desc": "Offer to cover one named shift on one named date."
+        },
+        {
+          "n": "3",
+          "title": "Post it in the work channel",
+          "desc": "Put the trade where the team and the manager can see it."
+        }
+      ],
+      "script": "\"You took my Thursday on March 6. I've got your Saturday the 22nd — posting it in the team channel now so it's on the schedule.\"",
+      "example": "Ana's coworker told the team she had covered a bunch of Ana's shifts. Ana checked the schedule, found exactly one, and posted a swap for a named Saturday in the team channel. The count stopped growing that day.",
+      "watchFor": "They accept the named date and stop using the word several.",
+      "ifItFails": "They say the trade does not cover it and keep asking. Make them produce the list, in the channel rather than in person: <strong>\"Send me the dates you covered and I'll match every one. I don't want to owe anyone here.\"</strong> An inflated count does not survive a date list.",
+      "counter": "If someone pays you back with a written date, they are closing you out.\n• Notice the exact date and the public channel.\n• Take the trade. Refusing in writing looks bad to the manager.\n• Ask for anything more as a new thing with its own reason.",
+      "insight": "Memory inflates and documents do not, which is why the person with receipts sets the price. Do not run this on a teammate who has real complaints about you — their date list will come back long. The next problem is the coworker who wants the credit, not the hours."
+    },
+    {
+      "id": 11,
+      "cat": "blood",
+      "danger": "high",
+      "title": "Answer Your Parent's Sacrifice Speech",
+      "principle": "Forward: Emotional Blackmail — Obligation in Families",
+      "remember": "Thank the sacrifice fully. Still keep the decision.",
+      "when": "Your mother or father lists what they gave up for you, then tells you what to do.",
+      "hook": "The debt is real, and that is what makes it work. <strong>A real debt still has a size.</strong>",
+      "truth": "Parents trade a real sacrifice for a say in your life.\n• The payment they want is obedience, not money or time.\n• Denying the sacrifice loses you the room and the family.\n• Accept the whole debt, then pay it in something that is not control.",
+      "theySee": "A son or daughter who says the sacrifice was real and means it.",
+      "signals": [
+        {
+          "icon": "🍚",
+          "l": "Cost list",
+          "t": "They name the jobs, the years, and what they went without."
+        },
+        {
+          "icon": "🧭",
+          "l": "Life direction",
+          "t": "The speech ends with a decision about your job, money, or partner."
+        },
+        {
+          "icon": "👵",
+          "l": "Ancestor backup",
+          "t": "They bring in a grandparent who sacrificed even more."
+        },
+        {
+          "icon": "🕯️",
+          "l": "Health card",
+          "t": "They mention their age or their health near the ask."
+        },
+        {
+          "icon": "📞",
+          "l": "Call count",
+          "t": "They say you never call, right before the real request."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the debt is real",
+          "desc": "Name one specific thing they gave up. Use their own words."
+        },
+        {
+          "n": "2",
+          "title": "Offer a real payment",
+          "desc": "Give money, visits, or time — something you can measure."
+        },
+        {
+          "n": "3",
+          "title": "Keep the decision",
+          "desc": "Say the decision is yours in one short sentence, then stop talking."
+        }
+      ],
+      "script": "\"You worked two jobs so I could finish school. I know what that cost you. I'm sending $400 a month starting now, and I'm still taking the job in Denver.\"",
+      "example": "Hana's mother listed every double shift she worked, then told Hana to turn down a move to Berlin. Hana said the shifts were real, set up a monthly transfer that day, and booked the flight. Her mother cashed the first transfer and visited in the spring.",
+      "watchFor": "They start talking about the money or the visits instead of the decision.",
+      "ifItFails": "They refuse the payment and go quiet for weeks. Do not chase it with more explaining. Keep paying and keep the contact short and regular — send the money, call the same day each week, say nothing about the fight. <strong>\"Sent the usual. I'll call Sunday.\"</strong> A debt you keep paying stops working as a weapon.",
+      "counter": "If an adult child thanks you and still says no, the speech is spent.\n• Notice that they took the debt instead of fighting it.\n• Asking again makes the price look like control.\n• Name a payment you actually want — money, visits, or time.",
+      "insight": "The sacrifice is usually true, which is why arguing about it destroys you. Paying it in a currency you choose keeps you solvent and keeps the family. Do not try this during a health crisis — the price goes up and so does the audience."
+    },
+    {
+      "id": 12,
+      "cat": "blood",
+      "danger": "high",
+      "title": "Refuse a Big Ask Made in Front of the Family",
+      "principle": "Greene: 33 Strategies of War — Deny Them the Chosen Battlefield",
+      "remember": "Never answer a big family ask at the table. Move it.",
+      "when": "A relative asks you for money or a favor in front of the whole family at dinner.",
+      "hook": "They picked the table on purpose. <strong>Every person there is a witness they chose.</strong>",
+      "truth": "The audience is the weapon, not the words.\n• They ask in public so a no looks cold to everyone.\n• The family pressure lands before you can think.\n• Do not answer in the room. Move the answer somewhere private.",
+      "theySee": "A relative who looks calm, takes it seriously, and will answer tomorrow.",
+      "signals": [
+        {
+          "icon": "🍽️",
+          "l": "Public timing",
+          "t": "The ask comes at a dinner, a wedding, or a funeral."
+        },
+        {
+          "icon": "👨‍👩‍👧",
+          "l": "Pre-briefed room",
+          "t": "Two relatives already know and nod along."
+        },
+        {
+          "icon": "⏳",
+          "l": "Tonight deadline",
+          "t": "They say they need an answer tonight."
+        },
+        {
+          "icon": "😶",
+          "l": "Silent table",
+          "t": "The room goes quiet and everyone waits for you."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Do not answer",
+          "desc": "Say you will answer tomorrow. Say it once and stop."
+        },
+        {
+          "n": "2",
+          "title": "Leave the topic",
+          "desc": "Ask someone else about something else. Change the room."
+        },
+        {
+          "n": "3",
+          "title": "Answer in private",
+          "desc": "Call or text your answer the next day, with no audience."
+        }
+      ],
+      "script": "(at the table) <strong>\"Not a conversation for dinner. I'll call you tomorrow at noon.\"</strong> Then by phone the next day: \"I thought about it. It's a no.\"",
+      "example": "Marco's cousin asked him for $8,000 in front of fourteen people at Easter. Marco said it was not a dinner conversation and called the next day with a no. The cousin complained to two aunts, and nobody else heard a word.",
+      "watchFor": "They push once for an answer tonight, then drop it when the table moves on.",
+      "ifItFails": "They keep pressing and someone says you are being difficult. Do not defend yourself to the room — stand up. Carry your plate to the kitchen or step outside, then send one text that night: <strong>\"I don't do money at the table. My answer tomorrow, by phone.\"</strong> Leaving ends the public part without a fight.",
+      "counter": "If someone refuses to answer you in public, they just took your audience away.\n• Notice the delay and the promise to call.\n• Do not re-ask at the table. It reads as pressure to everyone.\n• Ask again in private, smaller, with a reason they can repeat.",
+      "insight": "A public ask is cheap to make and expensive to refuse, which is why it is made in public. Moving the answer costs you one night of being called difficult. Do not walk out at a funeral — people remember that for years."
+    },
+    {
+      "id": 13,
+      "cat": "collect",
+      "danger": "high",
+      "title": "Give the Favor They Cannot Pay Back",
+      "principle": "Greene: Law 12 — Use Selective Honesty and Generosity to Disarm",
+      "remember": "Give one big thing they can never return. They stay close.",
+      "when": "You want long-term pull with someone who has more power than you.",
+      "hook": "People repay small favors and avoid big ones. <strong>The unpaid one keeps them in the room.</strong>",
+      "truth": "A debt nobody can repay turns into a relationship.\n• Give something they need and cannot buy quickly.\n• Refuse payment once, warmly, and the debt stays open.\n• Never name the debt out loud. Naming it turns a gift into a sale.",
+      "theySee": "A person who fixed their problem, named no price, and asked for nothing after.",
+      "signals": [
+        {
+          "icon": "🔍",
+          "l": "Known need",
+          "t": "You know a problem they have not solved for months."
+        },
+        {
+          "icon": "🧰",
+          "l": "Cheap for you",
+          "t": "The fix costs you little and would cost them a lot."
+        },
+        {
+          "icon": "🤫",
+          "l": "Quiet delivery",
+          "t": "You can give it without a crowd watching."
+        },
+        {
+          "icon": "🙏",
+          "l": "They raise it again",
+          "t": "They bring the favor up on their own, weeks later."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the stuck problem",
+          "desc": "Pick one thing they have complained about twice."
+        },
+        {
+          "n": "2",
+          "title": "Fix it without asking",
+          "desc": "Solve it first and tell them after it is done."
+        },
+        {
+          "n": "3",
+          "title": "Refuse payment once",
+          "desc": "Say no to money or a trade. Say it warmly and change the subject."
+        }
+      ],
+      "script": "\"I knew a guy, so I made the call. It's handled — don't send me anything for it. Buy me a coffee sometime.\"",
+      "example": "Sofia heard a VP complain twice about a broken vendor contract. She called a former colleague, got it fixed in a week, and turned down the lunch he offered to buy. Eight months later he put her name forward for a director role she had not applied for.",
+      "watchFor": "They bring the favor up again, with nobody prompting them, weeks later.",
+      "ifItFails": "They pay you back fast and close the account. That is a disciplined person — do not force a second gift, which reads as a purchase. Switch to information instead: send something useful with no ask attached. <strong>\"Saw this and thought of your Q3 problem. No reply needed.\"</strong> Small useful things build a habit the big gift could not.",
+      "counter": "If someone solves a big problem for you and refuses payment, price it yourself.\n• Notice the refusal of money. That is the move, not the help.\n• Say: \"I pay my debts. Pick a number or pick a favor.\"\n• Pay inside two weeks, before they decide the amount.",
+      "insight": "An unpaid favor buys attention, not obedience, and the two look alike for about a year. Do not run this on someone who already dislikes you — generosity from a rival reads as a trap. The harder question is when to call it in, because the day you do, the pull is gone."
+    },
+    {
+      "id": 14,
+      "cat": "collect",
+      "danger": "moderate",
+      "title": "Call In the Favor Before They Forget It",
+      "principle": "Machiavelli: The Prince — Gratitude Fades Once the Danger Passes",
+      "remember": "Collect while they still feel saved. Gratitude has a short life.",
+      "when": "You helped someone through a crisis and the crisis is now over.",
+      "hook": "The thank-you is loudest in week one and gone by week twelve. <strong>Ask inside the window.</strong>",
+      "truth": "People repay fear, and fear fades fast.\n• In the first weeks they still remember how bad it was.\n• By month three they remember solving it themselves.\n• Ask early, ask small, and never mention the favor.",
+      "theySee": "A friend who asks for a normal thing at a normal time.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Fresh crisis",
+          "t": "The bad thing ended less than six weeks ago."
+        },
+        {
+          "icon": "🗣️",
+          "l": "They retell it",
+          "t": "They still tell other people what you did for them."
+        },
+        {
+          "icon": "🔄",
+          "l": "Open offer",
+          "t": "They say to tell them if you ever need anything."
+        },
+        {
+          "icon": "🧊",
+          "l": "Cooling off",
+          "t": "The calls get shorter and the thanks stop."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Mark the date",
+          "desc": "Count six weeks from the day the crisis ended."
+        },
+        {
+          "n": "2",
+          "title": "Ask inside the window",
+          "desc": "Make one clear request before that date passes."
+        },
+        {
+          "n": "3",
+          "title": "Leave the favor out",
+          "desc": "Do not mention what you did for them. Just ask."
+        }
+      ],
+      "script": "\"I need a favor — an intro to your head of sales, this week if you can. Twenty minutes, that's it.\"",
+      "example": "Noor covered her friend's rent during his layoff in March. In April she asked him for an introduction to his old boss and never mentioned the rent. He made the call that afternoon, and she had the job by June.",
+      "watchFor": "They answer the same day and offer more than you asked for.",
+      "ifItFails": "You missed the window and they stall. Do not remind them what you did — that turns a friend into a debtor and ends the friendship. Open a new account instead: give one small useful thing, then ask again thirty days later. <strong>\"Sent you two names for the hiring thing. Separately — can I borrow twenty minutes next week?\"</strong>",
+      "counter": "If someone asks you for something soon after helping you, that is the window.\n• Notice the timing — weeks, not months, after your crisis.\n• Pay it if the ask is fair. Old debts get expensive.\n• Do not collect from someone still inside the crisis — they will call it a toll.",
+      "insight": "Gratitude is an emotion with a half-life and everyone overestimates their own. Collect early and you look normal; collect late and you look like a creditor. The harder question is what you ask for, because one ask closes the account."
+    },
+    {
+      "id": 15,
+      "cat": "after",
+      "danger": "high",
+      "title": "Outlast the Cold Shoulder After You Say No",
+      "principle": "Schelling: Commitment — The Costly Silence",
+      "remember": "The silence is a bill. Do not pay it with a yes.",
+      "when": "You refused them, and now they have stopped talking to you.",
+      "hook": "The silence is not hurt feelings. <strong>It is a price, and it is being charged to you.</strong>",
+      "truth": "Going quiet works because most people break first.\n• They withdraw so you feel the loss and reopen the ask.\n• Any apology you send reads as a yes on the way.\n• Stay warm, stay in contact, and never revisit the no.",
+      "theySee": "A person who still texts about ordinary things and never mentions the fight.",
+      "signals": [
+        {
+          "icon": "📵",
+          "l": "Short replies",
+          "t": "They answer in one word or not at all."
+        },
+        {
+          "icon": "👥",
+          "l": "Third-party news",
+          "t": "You hear about their life from other people now."
+        },
+        {
+          "icon": "🎭",
+          "l": "Public warmth",
+          "t": "They are friendly in groups and cold one-on-one."
+        },
+        {
+          "icon": "⏰",
+          "l": "Timed thaw",
+          "t": "They warm up right before they need something."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Keep the contact small",
+          "desc": "Send one ordinary message a week. No apology, no explaining."
+        },
+        {
+          "n": "2",
+          "title": "Do not reopen the no",
+          "desc": "Never mention the refusal. Mentioning it starts a new round."
+        },
+        {
+          "n": "3",
+          "title": "Hold for six weeks",
+          "desc": "Most cold shoulders end inside six weeks if you stay normal."
+        }
+      ],
+      "script": "\"Saw this and thought of you. Hope the knee's better.\"",
+      "example": "After Jules refused to lend his sister money, she stopped replying for seven weeks. He sent one light text a week and never mentioned the loan. In week eight she called about something else, and the money never came up again.",
+      "watchFor": "They reply with a full sentence instead of one word.",
+      "ifItFails": "They stay cold past two months and start telling other people. Stop the weekly messages — more contact now looks like begging. Send one clear close and leave the door open: <strong>\"I'm not going to keep pushing. My answer hasn't changed and I'd still like you in my life. Call me whenever.\"</strong> Then stop. The next move has to cost them something.",
+      "counter": "If you go quiet to punish someone, you are spending a relationship for one yes.\n• Notice when your silence is a demand, not a need for space.\n• Say the real thing: \"I'm angry, and I still want the help.\"\n• A silence that works once teaches them to wait you out next time.",
+      "insight": "Withdrawal only works on someone who fears the loss more than the cost of the yes. Staying warm without moving is the most expensive thing you can do to a person running it. Do not use this on a partner who is genuinely hurt — warmth with no repair reads as cold."
+    },
+    {
+      "id": 16,
+      "cat": "after",
+      "danger": "high",
+      "title": "Answer the Story They Tell About You",
+      "principle": "Greene: Law 5 — So Much Depends on Reputation, Guard It With Your Life",
+      "remember": "Do not defend yourself. Let one friend carry the facts.",
+      "when": "After you refused them, you hear they are telling people you used them.",
+      "hook": "You cannot out-argue a story told behind your back. <strong>You can hand the room a better one.</strong>",
+      "truth": "A defense from you confirms the charge. A fact from someone else kills it.\n• They told it first, so their version is what people heard.\n• Arguing makes you the person keeping score about a favor.\n• Give one trusted person the dates and let them repeat it.",
+      "theySee": "A person who looks untroubled and never brings the fight up.",
+      "signals": [
+        {
+          "icon": "🗞️",
+          "l": "Advance warning",
+          "t": "A friend tells you what was said about you."
+        },
+        {
+          "icon": "🙃",
+          "l": "Cooler room",
+          "t": "Two people who used to text you have gone quiet."
+        },
+        {
+          "icon": "🎤",
+          "l": "They went first",
+          "t": "They reached the group before you heard anything."
+        },
+        {
+          "icon": "🧩",
+          "l": "Partly true",
+          "t": "The story has one real fact wrapped in three wrong ones."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the dates",
+          "desc": "List what happened with dates and amounts. Keep it to five lines."
+        },
+        {
+          "n": "2",
+          "title": "Give it to one person",
+          "desc": "Hand the list to the most talkative friend you trust. One time."
+        },
+        {
+          "n": "3",
+          "title": "Say nothing else",
+          "desc": "Do not post, do not explain to the group, do not call the teller."
+        }
+      ],
+      "script": "(in private, to one trusted friend) <strong>\"I'm not going around about this, so I'll say it once to you: I paid him back in March, and here are the dates. Do what you want with it.\"</strong>",
+      "example": "After Dev refused to co-sign a loan, his cousin told the family Dev had never repaid a 2019 debt. Dev sent one aunt the three transfer screenshots and said nothing to anyone else. Within a month two relatives were quoting the dates back to the cousin.",
+      "watchFor": "Someone repeats your dates back to you who never heard them from you.",
+      "ifItFails": "The story reaches someone who can cost you — a boss, a landlord, a partner's family. Now you answer once, to that person only, in writing, with the record attached. <strong>\"You may hear a version of this. Here are the receipts and the dates. I won't bring it up again.\"</strong> One written answer to the person who counts beats ten spoken ones to the crowd.",
+      "counter": "If someone attacks your name instead of your argument, the ask is dead.\n• Notice that the story started after your refusal, not before.\n• Do not answer the crowd. Answer only people who can cost you something.\n• Keep every receipt for a year. Paper outlives a story.",
+      "insight": "A smear burns hot and short unless you feed it with a defense. Silence plus one friend holding the dates puts it out faster than any explanation. Do not stay silent when the story reaches your employer — that one needs a written answer the same week."
+    }
+  ]
+}

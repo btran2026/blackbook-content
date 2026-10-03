@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 89,
+  "manifestVersion": 90,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -819,7 +819,20 @@
       "url": "playbooks/playbook-srv-why-you-keep-going-back.json",
       "addedAt": "2026-10-03T00:04:21.233Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-after-everything-i-did-for-you",
+      "title": "After Everything I Did For You",
+      "theme": "guilt",
+      "topic": "",
+      "cardCount": 16,
+      "contentVersion": 1,
+      "coverColor": "#7F1D1D",
+      "coverIcon": "🧾",
+      "url": "playbooks/playbook-srv-after-everything-i-did-for-you.json",
+      "addedAt": "2026-10-03T00:04:32.872Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-03T00:04:21.233Z"
+  "generatedAt": "2026-10-03T00:04:32.872Z"
 }
