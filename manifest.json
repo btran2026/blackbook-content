@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 88,
+  "manifestVersion": 89,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -806,7 +806,20 @@
       "url": "playbooks/playbook-srv-training-the-person-hired-to-replace-you.json",
       "addedAt": "2026-10-03T00:03:59.750Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-why-you-keep-going-back",
+      "title": "Why You Keep Going Back",
+      "theme": "breakups",
+      "topic": "",
+      "cardCount": 18,
+      "contentVersion": 1,
+      "coverColor": "#3f0d12",
+      "coverIcon": "🪤",
+      "url": "playbooks/playbook-srv-why-you-keep-going-back.json",
+      "addedAt": "2026-10-03T00:04:21.233Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-03T00:03:59.750Z"
+  "generatedAt": "2026-10-03T00:04:21.233Z"
 }
