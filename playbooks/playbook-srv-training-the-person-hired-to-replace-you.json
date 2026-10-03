@@ -1,0 +1,1190 @@
+{
+  "meta": {
+    "id": "srv-training-the-person-hired-to-replace-you",
+    "version": "1.0",
+    "title": "Training the Person Hired to Replace You",
+    "subtitle": "A field file for the handover nobody warned you about",
+    "description": "You are being replaced. Someone decided this before you did. This is the closed-file playbook for spotting it early, pricing your cooperation, pacing what you hand over, and controlling what happens after you walk out the door.",
+    "author": "AI",
+    "createdAt": "2026-09-30T22:59:30.175Z",
+    "tags": [
+      "career",
+      "negotiation",
+      "workplace power",
+      "exit strategy",
+      "severance",
+      "job security"
+    ],
+    "totalCards": 22,
+    "isSeeded": true,
+    "coverColor": "#1e1b4b",
+    "coverIcon": "🗝️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "spotting",
+      "label": "Spotting The Handover Before They Name It",
+      "color": "#7c2d12"
+    },
+    {
+      "key": "confirming",
+      "label": "Confirming What They Will Not Say",
+      "color": "#9a3412"
+    },
+    {
+      "key": "pacing",
+      "label": "Pacing What You Transfer",
+      "color": "#a16207"
+    },
+    {
+      "key": "outside_option",
+      "label": "Building The Outside Option",
+      "color": "#166534"
+    },
+    {
+      "key": "price",
+      "label": "Setting The Price Of Your Cooperation",
+      "color": "#0e7490"
+    },
+    {
+      "key": "leaving",
+      "label": "Leaving On Your Own Date",
+      "color": "#4338ca"
+    },
+    {
+      "key": "aftercall",
+      "label": "What They Call You About Later",
+      "color": "#6d28d9"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "spotting",
+      "danger": "low",
+      "title": "The Sudden Shadow Is Not an Accident",
+      "principle": "Greene: Law 14 — Know Your Enemy's Mind",
+      "remember": "A stranger sitting in your meetings means change is already coming.",
+      "hook": "Nobody announces a replacement. <strong>They just add a new name to your calendar invites.</strong>",
+      "when": "A new hire starts joining your meetings with no clear reason given.",
+      "truth": "Companies avoid the awkward conversation as long as they can.\n• They test the water with proximity before they say a word.\n• Your access and information both stay the same, for now.\n• The trap is waiting for them to confirm it. They won't.",
+      "theySee": "A cooperative senior person showing the new hire around, no questions asked.",
+      "signals": [
+        {
+          "icon": "🆕",
+          "l": "new attendee",
+          "t": "They add someone new to your recurring meetings without an explanation."
+        },
+        {
+          "icon": "📧",
+          "l": "calendar CC",
+          "t": "Your manager starts CC'ing a name you don't recognize on your threads."
+        },
+        {
+          "icon": "🏷️",
+          "l": "vague title",
+          "t": "HR posts a role with your exact job description under a different title."
+        },
+        {
+          "icon": "👏",
+          "l": "sudden praise",
+          "t": "Your boss starts praising your documentation out of nowhere."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log it",
+          "desc": "Write down every new name, meeting, and comp question the day it happens."
+        },
+        {
+          "n": "2",
+          "title": "Ask lightly",
+          "desc": "Ask your manager, 'Is [name] joining the team full time?' and watch the pause."
+        },
+        {
+          "n": "3",
+          "title": "Start the outside search",
+          "desc": "Update your resume and message two contacts the same week you see the pattern."
+        }
+      ],
+      "script": "\"Hey, good to have [name] in the room — are they joining the team, or just visiting for now?\"",
+      "watchFor": "Your manager answers with a title change or a vague 'we'll see' instead of a name.",
+      "ifItFails": "Your manager brushes off the question with 'just cross-training.' Don't push twice — that tips them off that you noticed. Instead, start asking the new hire direct questions about their reporting line over coffee, where the answer is harder to script.",
+      "counter": "If you are the one adding a shadow to someone's meetings, know they will clock it fast.\n• Don't assume they missed the pattern — assume they're already testing you.\n• Give the real reason within two weeks or the guessing gets worse.\n• A vague answer here costs you their cooperation later, when you need it most.",
+      "insight": "The first sign is never a memo. It's a name on a calendar. The harder part is not reacting — a calm reaction buys you the two or three weeks you need to plan."
+    },
+    {
+      "id": 2,
+      "cat": "spotting",
+      "danger": "low",
+      "title": "Read the 'Document Everything' Request",
+      "principle": "Information Asymmetry — Extraction Signals",
+      "remember": "When they ask you to write everything down, they're planning without you.",
+      "hook": "\"Document your process\" sounds like good hygiene. <strong>It's also how they copy your job into someone else's hands.</strong>",
+      "when": "Your manager suddenly asks you to write detailed process docs for tasks you've done for years.",
+      "truth": "A sudden push for documentation rarely comes from nowhere.\n• Companies ask for it right before they plan to move the role.\n• Your knowledge stops living only in your head, which was your safety net.\n• The mistake is finishing the docs too fast, before you know what you're owed.",
+      "theySee": "A diligent employee finally getting around to good documentation, right on schedule.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "new urgency",
+          "t": "They ask for documentation on tasks nobody cared about documenting before."
+        },
+        {
+          "icon": "📋",
+          "l": "specific format",
+          "t": "They request a template built for someone unfamiliar with the work."
+        },
+        {
+          "icon": "📅",
+          "l": "deadline pressure",
+          "t": "They set a hard deadline on the docs with no stated reason."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Slow the format",
+          "desc": "Write the docs in your own format, not the one they hand you."
+        },
+        {
+          "n": "2",
+          "title": "Withhold judgment calls",
+          "desc": "Document the steps, not the reasons you make each exception."
+        },
+        {
+          "n": "3",
+          "title": "Ask why",
+          "desc": "Ask directly, 'Is this for an audit, a backup, or a transition?'"
+        }
+      ],
+      "script": "\"Happy to write this up — just so I scope it right, is this for backup coverage or is someone taking over the role?\"",
+      "watchFor": "They give a vague answer like 'just best practice' instead of naming a person.",
+      "ifItFails": "They dodge the question and repeat the deadline. Stop guessing and start building leverage instead — this is your confirmation. Message a recruiter that day and say: \"Something's shifting at my company. Are you still hiring for that role we talked about?\"",
+      "counter": "If you are asking someone to document their role, they may read this exactly right.\n• Don't send the vague request. It reads as an alarm bell instantly.\n• Name the real reason and the timeline so they stay cooperative.\n• A cornered employee slows the docs down on purpose — plan the schedule for that.",
+      "insight": "Documentation requests are the softest version of the tell. The next question is whether you write down everything you know, or only the parts that keep you useful."
+    },
+    {
+      "id": 3,
+      "cat": "spotting",
+      "danger": "low",
+      "title": "The Org Chart Question Is the Tell",
+      "principle": "Schelling: Signaling Through Small Moves",
+      "remember": "An org chart question is really a question about your job.",
+      "hook": "Nobody asks about the org chart for fun. <strong>They're mapping where you fit after you're gone.</strong>",
+      "when": "A skip-level manager or HR asks casual questions about your team's reporting structure.",
+      "truth": "Org chart questions test whether the structure can survive without you in it.\n• They're modeling a version of the team that doesn't include your seat.\n• Your team starts fielding questions that used to go straight to you.\n• The trap is answering only the question asked, instead of asking why.",
+      "theySee": "A team player giving an honest, unguarded picture of how the team runs.",
+      "signals": [
+        {
+          "icon": "🔝",
+          "l": "skip-level ask",
+          "t": "A manager two levels up asks who really owns which task."
+        },
+        {
+          "icon": "🗣️",
+          "l": "peer probing",
+          "t": "A peer starts asking your direct reports questions instead of you."
+        },
+        {
+          "icon": "🧩",
+          "l": "backup naming",
+          "t": "HR asks who could step in if you were out for a month."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer straight, no fear",
+          "desc": "Give the true structure. Hiding it looks worse than the truth does."
+        },
+        {
+          "n": "2",
+          "title": "Name your own value",
+          "desc": "Add one line: 'This only works fast because I make the exception calls.'"
+        },
+        {
+          "n": "3",
+          "title": "Check the timeline",
+          "desc": "Ask HR directly if this ties to a role change or reorg."
+        }
+      ],
+      "script": "\"Sure — here's how it runs day to day. Is this for a reorg, or just an org-chart cleanup?\"",
+      "watchFor": "HR answers with 'just routine' but keeps asking follow-up questions for weeks.",
+      "ifItFails": "They give a flat non-answer and change the subject fast. Take that as your answer. Start the outside search that week and quietly move your key files to a personal, legal record of your own work.",
+      "counter": "If you're the one mapping a team before a change, assume a sharp employee reads it fast.\n• Don't ask piecemeal questions over weeks — it reads as a slow interrogation.\n• Ask once, plainly, with the real reason attached.\n• Employees who sense this start protecting information instead of sharing it.",
+      "insight": "Every org chart question is a small confession. The next move is figuring out what you're worth to them once they think you already know."
+    },
+    {
+      "id": 4,
+      "cat": "confirming",
+      "danger": "moderate",
+      "title": "Ask for the Timeline, Not the Truth",
+      "principle": "Voss: Calibrated Questions",
+      "remember": "Asking when things change works better than asking if it will.",
+      "hook": "They won't tell you you're being replaced. <strong>They'll tell you a date, if you ask the right way.</strong>",
+      "when": "You suspect a handover is coming but nobody has said the word out loud.",
+      "truth": "People lie about facts far more easily than they lie about dates.\n• A 'how' or 'when' question forces a real answer, a yes or no invites a dodge.\n• They start planning out loud instead of denying anything happened.\n• The mistake is asking 'am I being replaced' — that question they can refuse.",
+      "theySee": "Someone being proactive and organized about a transition, not someone accusing them of anything.",
+      "signals": [
+        {
+          "icon": "🤷",
+          "l": "date hedge",
+          "t": "They answer with 'not sure yet' instead of 'there's nothing planned.'"
+        },
+        {
+          "icon": "📆",
+          "l": "detail leak",
+          "t": "They mention a training schedule before they mention a name."
+        },
+        {
+          "icon": "🕰️",
+          "l": "scope shift",
+          "t": "They start describing your role in the past tense."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the how question",
+          "desc": "Ask 'how would a handover work' instead of 'is there a handover.'"
+        },
+        {
+          "n": "2",
+          "title": "Ask for the calendar",
+          "desc": "Request the actual dates in writing, even a draft one."
+        },
+        {
+          "n": "3",
+          "title": "Write down their exact words",
+          "desc": "Save the answer. You'll need it when you negotiate terms."
+        }
+      ],
+      "script": "\"If this does turn into a transition at some point, how would you want to sequence the handover?\"",
+      "watchFor": "They answer with specifics — a name, a quarter, a training plan — instead of denying the premise.",
+      "ifItFails": "They say 'there's no transition happening' and shut the conversation down flat. Don't argue the point — you've already lost the information war for today. Wait two weeks, then ask a narrower version: \"Who's my backup if I'm out sick for two weeks?\" That question is harder to dodge.",
+      "counter": "If someone asks you a 'how would it work' question, they already suspect the truth.\n• Don't answer with real details unless you're ready to have this conversation now.\n• Say 'nothing is decided' and mean it, or say the truth outright.\n• A half-answer here just buys you a harder conversation in a month.",
+      "insight": "The direct question gets you a denial; the planning question gets you a date. Don't run this on a manager who already suspects you're plotting an exit — it reads as confrontation. The next problem is knowing what to do with the date once you have it."
+    },
+    {
+      "id": 5,
+      "cat": "confirming",
+      "danger": "high",
+      "title": "Float Your Own Resignation to Watch the Reaction",
+      "principle": "Machiavelli: Test Loyalty by Small Risk",
+      "remember": "Float a resignation only with a real offer already in hand.",
+      "hook": "Say you're thinking about leaving. <strong>Watch whether they beg you to stay or quietly agree.</strong>",
+      "when": "You want to know if you're already replaceable before you make a real move.",
+      "truth": "A company that's already planning your exit won't fight to keep you.\n• Their real plan shows in the speed and size of the counteroffer, or the lack of one.\n• They stop hiding the transition once they think you're leaving anyway.\n• The trap is doing this without a real outside option first. Bluffs get called.",
+      "theySee": "A valued employee testing the market, possibly worth a counteroffer to retain.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "fast counter",
+          "t": "They come back within days with a raise or new title."
+        },
+        {
+          "icon": "😐",
+          "l": "calm agreement",
+          "t": "They say 'we understand' with no attempt to change your mind."
+        },
+        {
+          "icon": "🔄",
+          "l": "transition talk",
+          "t": "They immediately ask about your timeline for handover, not your reasons for leaving."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Have a real offer first",
+          "desc": "Only float this once you hold an actual outside offer, not a bluff."
+        },
+        {
+          "n": "2",
+          "title": "Mention it to the right person",
+          "desc": "Tell your direct manager, not HR, so the reaction is unfiltered."
+        },
+        {
+          "n": "3",
+          "title": "Note the speed",
+          "desc": "Time how long it takes them to respond. Under 48 hours means you matter."
+        }
+      ],
+      "script": "\"I've got an offer on the table and I'm weighing it seriously — wanted you to hear it from me first.\"",
+      "watchFor": "They ask about the handover plan before they ask what it would take to keep you.",
+      "ifItFails": "They call your bluff and start the transition immediately, faster than you're ready for. Don't backpedal — that reads as weak and costs you the negotiation. Take the outside offer, or if it wasn't real, say: \"Understood — let's talk timeline and terms for a clean handover.\"",
+      "counter": "If an employee floats a resignation, they're testing you, not always quitting.\n• Don't panic-counter before you know if their offer is real.\n• Ask directly: 'What would it take, and by when do you need an answer?'\n• If you were already planning their exit, this is your moment to speed it up.",
+      "insight": "Do not float this without a real offer already in hand — a bluff gets called and remembered for years. The next question is whether you're ready to walk if they call it, because the second time you try this, nobody believes you."
+    },
+    {
+      "id": 6,
+      "cat": "confirming",
+      "danger": "moderate",
+      "title": "Request the Comp Review That Forces Their Hand",
+      "principle": "Schelling: Forcing a Move",
+      "remember": "Asking for a raise reveals whether they still plan to keep you.",
+      "hook": "A raise request is a cheap test. <strong>A company already replacing you won't spend money on you.</strong>",
+      "when": "You suspect a handover is coming and want proof without asking directly.",
+      "truth": "Money reveals intent faster than words do.\n• Approving a raise for someone they're phasing out makes no financial sense to them.\n• A flat no, with no negotiation, tells you the decision is already made.\n• The trap is accepting a small raise as reassurance — check the timeline too.",
+      "theySee": "A confident employee advocating for their own value, a normal ask in any healthy year.",
+      "signals": [
+        {
+          "icon": "🚫",
+          "l": "instant no",
+          "t": "They decline the raise same-day with no counter or discussion."
+        },
+        {
+          "icon": "💸",
+          "l": "budget excuse",
+          "t": "They cite a frozen budget that somehow funded the new hire."
+        },
+        {
+          "icon": "🗓️",
+          "l": "deflect to review",
+          "t": "They push the conversation to 'next review cycle' with no set date."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask with a number",
+          "desc": "Name a specific percentage, not a vague 'I'd like more.'"
+        },
+        {
+          "n": "2",
+          "title": "Ask about the timeline too",
+          "desc": "In the same meeting, ask what your next twelve months look like."
+        },
+        {
+          "n": "3",
+          "title": "Watch the two answers together",
+          "desc": "A no on money plus a vague future is your confirmation."
+        }
+      ],
+      "script": "\"I'd like to talk about a 15% adjustment, and while we're at it, what does my role look like a year from now?\"",
+      "watchFor": "They answer the money question fast and the future question slowly, or not at all.",
+      "ifItFails": "They approve the raise to keep you calm while the plan continues underneath. Don't take the raise as proof of safety. Keep the outside search running anyway, and ask again in 90 days: \"Has anything changed on the longer-term plan we talked about?\"",
+      "counter": "If an employee asks for a raise and a future-role question in one breath, they're testing you.\n• Don't answer the money question and skip the future one — they'll notice.\n• Give a real timeline, even if it's not the one they want to hear.\n• Stringing them along here costs you their full effort for the months you need them.",
+      "insight": "Money answers fast, plans answer slow — the gap between the two is the truth. Don't run this in the same meeting as a real performance issue; the two signals blur together. The harder part is deciding how long you stay once you've seen the gap."
+    },
+    {
+      "id": 7,
+      "cat": "pacing",
+      "danger": "moderate",
+      "title": "Teach the Steps, Not the Judgment",
+      "principle": "Information Asymmetry — Tacit Knowledge Retention",
+      "remember": "Teach the steps, but keep your judgment calls to yourself.",
+      "hook": "Anyone can copy a checklist. <strong>Nobody can copy ten years of knowing which client is lying.</strong>",
+      "when": "You've been told to start training your replacement.",
+      "truth": "A checklist transfers the job. Judgment transfers only with time you don't have to give.\n• They can now do the task, but not know when to break the rule.\n• You stay the person they call when the checklist doesn't cover it.\n• Over-explaining out of pride gives away a future call you won't get.",
+      "theySee": "A generous mentor handing over clear, well-organized instructions.",
+      "signals": [
+        {
+          "icon": "⏩",
+          "l": "asks for shortcuts",
+          "t": "They ask 'is there a faster way' before they've learned the slow way."
+        },
+        {
+          "icon": "➖",
+          "l": "skips exceptions",
+          "t": "They only ask about the standard case, never the edge case."
+        },
+        {
+          "icon": "🗣️",
+          "l": "copies your language",
+          "t": "They start repeating your exact phrases back to clients, without the timing."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the what, not the why",
+          "desc": "Hand over step-by-step instructions with no reasoning attached."
+        },
+        {
+          "n": "2",
+          "title": "Let them hit the edge case",
+          "desc": "Don't warn them about the tricky client in advance. Let them ask you after."
+        },
+        {
+          "n": "3",
+          "title": "Answer questions live, not in writing",
+          "desc": "Take judgment questions by call or in person, never by email you can't retract."
+        }
+      ],
+      "script": "\"Here's the process end to end — if you hit something that doesn't fit the steps, just call me, that's usually the interesting part.\"",
+      "watchFor": "They start scheduling calls with you for 'quick questions' that aren't quick.",
+      "ifItFails": "They figure out the judgment fast without you, maybe by asking a coworker who shadowed you longer than planned. If that happens, your leverage just dropped — move up your ask for terms instead of waiting. Say: \"Since the transition's going faster than planned, let's lock the handover date and my final terms now.\"",
+      "counter": "If you're the one being handed a checklist with no reasoning, notice the gap.\n• Don't assume the written steps cover everything you'll face.\n• Ask directly for the three weirdest situations they've hit in this role.\n• Get the answer in writing or on a recording, not just a hallway comment.",
+      "insight": "The checklist is the easy 80%. The last 20% makes you irreplaceable. Don't hoard judgment from a replacement who reports every gap straight to your boss — pair this with real helpfulness elsewhere. The next problem is pacing that 20% to outlast your notice period."
+    },
+    {
+      "id": 8,
+      "cat": "pacing",
+      "danger": "moderate",
+      "title": "Sequence the Handover So You're Needed Last",
+      "principle": "Critical Path Control",
+      "remember": "Save the hardest, most important task for your very last week.",
+      "hook": "Order is leverage. <strong>Teach the easy stuff first, the crucial stuff last.</strong>",
+      "when": "You're building the training schedule for your replacement.",
+      "truth": "Whoever controls the order of the handover controls how replaceable you feel each week.\n• Early wins make the company confident too soon, and confidence lowers your price.\n• Holding the critical task for last keeps every week of your notice necessary.\n• The trap is letting them, not you, write the schedule.",
+      "theySee": "A methodical trainer moving logically from simple tasks to complex ones.",
+      "signals": [
+        {
+          "icon": "📤",
+          "l": "schedule request",
+          "t": "They ask you to send over 'the training plan' early."
+        },
+        {
+          "icon": "⏳",
+          "l": "pressure to compress",
+          "t": "They ask if the timeline can be cut shorter than planned."
+        },
+        {
+          "icon": "⏭️",
+          "l": "skip-ahead ask",
+          "t": "They ask the new hire to sit in on the hardest client call too soon."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Draft the order yourself",
+          "desc": "Write the training schedule before anyone asks you to, and control the pace."
+        },
+        {
+          "n": "2",
+          "title": "Front-load low-stakes tasks",
+          "desc": "Teach admin and routine work in week one, nothing that matters."
+        },
+        {
+          "n": "3",
+          "title": "Place the critical piece at the end",
+          "desc": "Schedule the highest-stakes client or system for the final week only."
+        }
+      ],
+      "script": "\"Here's the training plan — I've sequenced it by complexity so nothing gets rushed or dropped.\"",
+      "watchFor": "They accept your schedule without trying to reorder it themselves.",
+      "ifItFails": "They or their manager reorders the schedule and demand the critical piece move earlier. Don't refuse outright — that looks like sabotage. Agree, but name the cost: \"I can move that up, but I'll need the final terms settled first since the timeline's compressing.\"",
+      "counter": "If your outgoing employee hands you a training schedule, check who it protects.\n• Don't accept the order at face value — check what's scheduled last.\n• Ask why the highest-value task sits at the end instead of the start.\n• Reorder it yourself and watch how hard they push back.",
+      "insight": "The schedule looks neutral. It never is. Don't run this in a regulated or safety-critical role, where a slow handover becomes a compliance problem traced back to you. The next question is what you do in week one while they think they're safe."
+    },
+    {
+      "id": 9,
+      "cat": "pacing",
+      "danger": "high",
+      "title": "Keep One System Undocumented",
+      "principle": "Sole-Source Dependency",
+      "remember": "Leave one important thing undocumented so they still need you.",
+      "hook": "Total transparency gets you nothing. <strong>One locked door keeps them calling you after you're gone.</strong>",
+      "when": "You're asked to hand over full documentation of everything you own.",
+      "truth": "A company with 100% of your knowledge has zero reason to keep negotiating with you.\n• One undocumented process becomes your only card after your last day.\n• They stop being able to call it 'fully transferred' in any report.\n• Picking a process too small to matter wastes the whole move.",
+      "theySee": "A thorough employee who seems to have handed over everything, on schedule and in full.",
+      "signals": [
+        {
+          "icon": "✍️",
+          "l": "sign-off request",
+          "t": "They ask you to confirm in writing that the handover is complete."
+        },
+        {
+          "icon": "🔍",
+          "l": "spot audit",
+          "t": "A manager tests the new hire on a task you didn't fully explain."
+        },
+        {
+          "icon": "💥",
+          "l": "post-exit outage",
+          "t": "Something breaks in the first month that nobody else knows how to fix."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the right process",
+          "desc": "Choose one system that's genuinely load-bearing, not a minor task nobody needs."
+        },
+        {
+          "n": "2",
+          "title": "Leave it verbal only",
+          "desc": "Walk your replacement through it once, out loud, with no notes taken."
+        },
+        {
+          "n": "3",
+          "title": "Never confirm 100%",
+          "desc": "When asked to sign off on 'full transfer,' say 'about there' and stop."
+        }
+      ],
+      "script": "\"We're close — there are one or two things I still want to walk through live before I'd call it fully documented.\"",
+      "watchFor": "They stop pushing for full sign-off once you say 'about there' enough times.",
+      "ifItFails": "They call your bluff and declare the handover complete without your sign-off, leaving the risk on their books. Let it break. Don't offer to fix it for free — that's the moment your price gets set. Say: \"I can walk him through it, my consulting rate is X per hour.\"",
+      "counter": "If your outgoing employee keeps saying a handover is 'about there,' assume something is held back.\n• Don't accept 'about there' as done — ask what specifically remains.\n• Assign a second person to shadow the same process independently.\n• Get a written account from someone else before their last day.",
+      "insight": "A perfectly documented exit is a favor you give away for free. Do not hold back knowledge in a regulated or safety-critical system — a gap that causes real harm gets traced straight back to you. The next problem is knowing how long you can hold the door before it looks like sabotage."
+    },
+    {
+      "id": 10,
+      "cat": "pacing",
+      "danger": "high",
+      "title": "Never Finish the Manual Before You Have a Deal",
+      "principle": "Leverage Timing — Don't Cash the Chip Early",
+      "remember": "Don't finish the paperwork until the deal is fully signed.",
+      "hook": "The finished manual is your only real bargaining chip. <strong>Once it's done, so is your leverage.</strong>",
+      "when": "You're negotiating severance or terms while still in the middle of training your replacement.",
+      "truth": "Companies pay for unfinished risk, not finished comfort.\n• An incomplete handover is a live cost on their books every single day.\n• Once the manual reads 'done,' the urgency to deal with you disappears.\n• Finishing early out of habit gives up the leverage for free.",
+      "theySee": "A hardworking employee steadily working through a long, detailed handover document.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "progress check",
+          "t": "A manager asks 'how much is left' more than once a week."
+        },
+        {
+          "icon": "🏁",
+          "l": "rush request",
+          "t": "They push a hard deadline for 'wrapping up' the documentation."
+        },
+        {
+          "icon": "🤐",
+          "l": "terms silence",
+          "t": "They avoid discussing severance or terms until the docs are finished."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pace it to your deal",
+          "desc": "Match your documentation speed to how close the terms are to signed."
+        },
+        {
+          "n": "2",
+          "title": "Name the link out loud once",
+          "desc": "Tell your manager the handover finishes once terms are settled, plainly."
+        },
+        {
+          "n": "3",
+          "title": "Get it in writing first",
+          "desc": "Get the severance or consulting terms signed before the last chapter is done."
+        }
+      ],
+      "script": "\"I want this handover airtight for both of us — let's get the terms locked first, then I'll finish it out fast.\"",
+      "watchFor": "The pace of the terms conversation picks up right after you say this.",
+      "ifItFails": "They tell you the documentation is a condition of your current pay, not a bargaining chip. If that's true, don't fight a battle you can't win on their payroll. Shift the ask: \"Understood — then let's talk about a paid consulting period for anything that comes up after I leave.\"",
+      "counter": "If an employee's handover keeps slow-rolling near the finish line, name it directly.\n• Don't assume it's an accident — check if terms are still open.\n• Ask them outright: 'Is something tying the pace of this to our other talks?'\n• Settle the terms fast if you want the finish line to move.",
+      "insight": "Unfinished work is the only thing keeping the conversation alive. Do not try this once you've already signed a severance deal tied to full documentation — that's breach, not leverage. The next question is whether you can hold the pace without it reading as obvious stalling."
+    },
+    {
+      "id": 11,
+      "cat": "outside_option",
+      "danger": "moderate",
+      "title": "Interview While Employed, Say Nothing",
+      "principle": "BATNA — Fisher & Ury",
+      "remember": "Look for a new job quietly, and never mention it at work.",
+      "hook": "Your best leverage is a door nobody at work knows about. <strong>The moment they know, it stops being a door.</strong>",
+      "when": "You sense a handover coming and need real options before you negotiate anything.",
+      "truth": "A negotiation without an alternative is just a request for mercy.\n• A real outside offer changes every number in the conversation that follows.\n• Your calm in front of your manager comes from options they can't see.\n• Leaking the search through a careless calendar invite ends the option early.",
+      "theySee": "A focused employee, business as usual, with no sign of looking elsewhere.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "calendar leak",
+          "t": "An interview slips onto a shared calendar by mistake."
+        },
+        {
+          "icon": "☎️",
+          "l": "reference check",
+          "t": "A former colleague mentions someone called asking about you."
+        },
+        {
+          "icon": "🔔",
+          "l": "linkedin activity",
+          "t": "Your profile updates trigger a notification to a connected coworker."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Use personal channels only",
+          "desc": "Search, apply, and interview using a personal email and phone, never work devices."
+        },
+        {
+          "n": "2",
+          "title": "Schedule outside work hours",
+          "desc": "Book interviews before 9am, at lunch off-site, or after hours."
+        },
+        {
+          "n": "3",
+          "title": "Warn your references",
+          "desc": "Tell references to keep it discreet and confirm they won't post about it."
+        }
+      ],
+      "script": "\"Could we do this call at 8am or after 6pm? I'd like to keep it off my work calendar for now.\"",
+      "watchFor": "You land an offer or a serious second interview with no one at work aware it happened.",
+      "ifItFails": "Someone at work finds out anyway — a mutual connection, a slipped calendar invite. Don't deny it if asked directly; a caught lie costs more than the leak. Say: \"I've been exploring options, like most people do — nothing's decided yet,\" and let the ambiguity buy you time.",
+      "counter": "If you manage someone you suspect is interviewing elsewhere, don't corner them on a guess.\n• Don't ask directly — a denial just teaches them to hide it better.\n• Watch behavior instead: calendar gaps, sudden formality, less long-term volunteering.\n• Make the retention case before they have an offer, not after.",
+      "insight": "An option you never use is still worth everything. Do not run any part of this search on company devices or company time — a moonlighting clause turns a smart move into a firing offense. The next problem is knowing which offer is real enough to walk on."
+    },
+    {
+      "id": 12,
+      "cat": "outside_option",
+      "danger": "low",
+      "title": "Keep Recruiters Warm Without Committing",
+      "principle": "Optionality — Never Close a Door You Can Prop Open",
+      "remember": "Stay friendly with recruiters, but never commit too fast.",
+      "hook": "A recruiter you ignore today won't call back in three months. <strong>Keep the door propped, not opened.</strong>",
+      "when": "A recruiter reaches out while you're mid-handover and not ready to move yet.",
+      "truth": "Recruiters remember who wasted their time and who stayed easy to work with.\n• A warm 'not now, but stay in touch' costs nothing and keeps the option alive.\n• You get first-call status the moment your situation changes.\n• Going silent gets you crossed off their contact list for good.",
+      "theySee": "A polite, professional candidate who isn't ready to move but is worth keeping on file.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "recheck timing",
+          "t": "A recruiter follows up every few months with new roles."
+        },
+        {
+          "icon": "⚡",
+          "l": "quick reply",
+          "t": "They respond fast when you finally do reach out."
+        },
+        {
+          "icon": "🤝",
+          "l": "warm intro",
+          "t": "They offer to introduce you to other recruiters in their network."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reply within a day",
+          "desc": "Even a short 'not now, but keep me posted' beats silence every time."
+        },
+        {
+          "n": "2",
+          "title": "Give a real reason",
+          "desc": "Tell them honestly you're mid-transition and not shopping yet."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to check back",
+          "desc": "Name a rough month to reconnect so the follow-up isn't random."
+        }
+      ],
+      "script": "\"Appreciate you reaching out — not the right time, but check back with me in about two months.\"",
+      "watchFor": "They actually follow up on the date you gave instead of dropping you.",
+      "ifItFails": "They stop reaching out because your reply was too vague or too slow. Don't wait for them to come back — reach out yourself once your situation is clearer. Say: \"Following up from a few months back — is that role, or something similar, still open?\"",
+      "counter": "If a recruiter goes quiet on you, they're not being rude, they're managing a pipeline.\n• Don't take silence personally — recruiters juggle dozens of candidates at once.\n• Send one clean update on your timeline instead of several vague check-ins.\n• A specific ask gets answered faster than 'just checking in.'",
+      "insight": "Every warm recruiter is a door you didn't have to build from scratch. The next question is timing the ask so it lands when you actually need it, not before."
+    },
+    {
+      "id": 13,
+      "cat": "outside_option",
+      "danger": "moderate",
+      "title": "Don't Burn the Internal Bridge While You Build the Outside One",
+      "principle": "Dual-Track Positioning",
+      "remember": "Stay professional at work while you quietly look elsewhere too.",
+      "hook": "You need this job's reference more than you need to vent about it. <strong>Play both sides clean.</strong>",
+      "when": "You're actively job hunting but still need this employer for months of pay and a reference.",
+      "truth": "Burning a bridge feels good for a day and costs you for years.\n• A bad reference or a soured relationship follows you into your next background check.\n• Staying professional here keeps your severance and reference leverage both alive.\n• Coasting because you feel 'basically gone' gets noticed fast.",
+      "theySee": "A consistent professional, giving full effort with no sign of checked-out behavior.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "effort drop",
+          "t": "Coworkers notice your output slip and start mentioning it to your manager."
+        },
+        {
+          "icon": "🗨️",
+          "l": "gossip leak",
+          "t": "A complaint you made in private gets repeated back to you by someone else."
+        },
+        {
+          "icon": "📞",
+          "l": "reference request",
+          "t": "A future employer's background check reaches your current manager directly."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Keep output steady",
+          "desc": "Match your effort to your normal baseline, not your enthusiasm for the exit."
+        },
+        {
+          "n": "2",
+          "title": "Vent outside the building",
+          "desc": "Save complaints for people with zero connection to your workplace."
+        },
+        {
+          "n": "3",
+          "title": "Protect the reference early",
+          "desc": "Ask your manager directly, before you leave, if they'd give you a strong reference."
+        }
+      ],
+      "script": "\"Before anything else happens, I want to ask — would you be comfortable being a reference for me down the line?\"",
+      "watchFor": "They say yes without hesitation, which tells you the relationship is still solid.",
+      "ifItFails": "They hesitate or give a lukewarm answer, meaning the reference isn't safe to rely on. Don't push for a better answer — it won't get more honest. Line up two other references instead, and quietly route around this manager going forward.",
+      "counter": "If an employee asks you point-blank for a reference before giving notice, take it seriously.\n• Don't give an automatic yes just to keep things comfortable.\n• Answer honestly — a fake yes now becomes an awkward call later.\n• If you can't say yes, say what would change that, plainly.",
+      "insight": "The outside track and the inside track run at the same time, and one leaks into the other fast. Do not vent to anyone still connected to your company, even loosely — small industries make this backfire. The next problem is timing your resignation before either side runs out of patience."
+    },
+    {
+      "id": 14,
+      "cat": "price",
+      "danger": "moderate",
+      "title": "Name the Number Before They Name the Date",
+      "principle": "Voss: Anchoring — First Number Sets the Range",
+      "remember": "Naming your price first sets the whole range of the deal.",
+      "hook": "Whoever names the number first sets the frame. <strong>Don't let them offer before you ask.</strong>",
+      "when": "Your manager tells you they want you to train your replacement before you leave.",
+      "truth": "The first number anchors everything that follows in a negotiation.\n• Whoever speaks first sets the range the other side has to argue inside of.\n• Waiting for their offer means negotiating downward from their number, not yours.\n• A number too high reads as a bluff, one too low costs them nothing.",
+      "theySee": "A cooperative employee raising a fair, practical question about compensation for extra work.",
+      "signals": [
+        {
+          "icon": "📈",
+          "l": "scope creep",
+          "t": "They ask you to train someone with no mention of extra pay."
+        },
+        {
+          "icon": "🙏",
+          "l": "vague thanks",
+          "t": "They thank you for your flexibility instead of naming any terms."
+        },
+        {
+          "icon": "⏰",
+          "l": "timeline pressure",
+          "t": "They set a hard end date before any compensation talk happens."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Research your number",
+          "desc": "Check what a consulting day or a severance bump is worth in your field."
+        },
+        {
+          "n": "2",
+          "title": "Say it plainly and first",
+          "desc": "Name a specific number before they get to propose their own."
+        },
+        {
+          "n": "3",
+          "title": "Tie it to the ask",
+          "desc": "Connect the number directly to the training work, not to your general value."
+        }
+      ],
+      "script": "\"I'm glad to run the handover properly — for the extra scope, I'd want a $X bonus or Y weeks of extended pay.\"",
+      "watchFor": "They counter your number instead of rejecting the idea of paying anything at all.",
+      "ifItFails": "They say there's no budget for anything extra. Don't drop the number to zero — offer a smaller, defined trade instead: \"Then let's scope the training to exactly 10 hours over two weeks, nothing beyond that.\" That protects your time even without the money.",
+      "counter": "If an employee names their price first, know the range is now theirs to set.\n• Don't let a strong opening number rattle you into an instant no.\n• Counter with a number of your own, don't just react to theirs.\n• Silence after their number reads as agreement — respond in the same conversation.",
+      "insight": "Whoever talks price first controls the conversation. Do not anchor a large number if your contract has a strict no-extra-pay clause — check it before you speak. The next question is what you do when they simply refuse to negotiate at all."
+    },
+    {
+      "id": 15,
+      "cat": "price",
+      "danger": "moderate",
+      "title": "Trade the Handover for a Severance Bump",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Offer a clean handover, then ask for money or extra time.",
+      "hook": "A clean handover is worth real money to them. <strong>Sell it instead of giving it away.</strong>",
+      "when": "You've been asked to leave sooner than planned, or your severance offer feels thin.",
+      "truth": "A company facing a messy exit will pay to make it a clean one.\n• Reciprocity works both ways — offering something first makes your ask feel fair.\n• Framing the handover as a service, not a favor, shifts the conversation.\n• Offering it free first, then asking for payment, loses the entire trade.",
+      "theySee": "A professional making a reasonable, business-like proposal instead of a demand.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "low first offer",
+          "t": "Their initial severance number sits below the standard for your tenure."
+        },
+        {
+          "icon": "🏃",
+          "l": "rushed exit",
+          "t": "They want you out fast but still need the transfer done well."
+        },
+        {
+          "icon": "🗨️",
+          "l": "informal ask",
+          "t": "They ask for 'a little help after you leave' with no terms attached."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Frame it as a trade",
+          "desc": "Say the extra severance buys a documented, tested, complete handover."
+        },
+        {
+          "n": "2",
+          "title": "Set the scope in writing",
+          "desc": "List exactly what's included: hours, documents, and a call limit."
+        },
+        {
+          "n": "3",
+          "title": "Ask for it before you start",
+          "desc": "Get the number agreed before you do a single extra hour of work."
+        }
+      ],
+      "script": "\"I can make sure this handover is airtight — documented, tested, no loose ends — for two extra weeks of severance.\"",
+      "watchFor": "They come back with a counteroffer instead of a flat no.",
+      "ifItFails": "They refuse to move on severance at all. Scale the handover down to exactly what's contractually required, nothing more. Say: \"Understood — I'll complete the standard handover as outlined in my role, nothing beyond that.\"",
+      "counter": "If an outgoing employee offers to trade a good handover for more money, take it seriously.\n• Don't assume they'll do a full handover anyway out of professionalism.\n• Compare the cost of paying against the cost of a broken transition.\n• If you decline, expect the handover to shrink to exactly what's required.",
+      "insight": "The handover was never free, it just wasn't priced until now. Do not offer this trade after you've already signed a severance agreement — you'd be negotiating against a document you accepted. The next problem is enforcing the scope once you're gone and can't check the work."
+    },
+    {
+      "id": 16,
+      "cat": "price",
+      "danger": "low",
+      "title": "Get the Reference in Writing Before You Train Anyone",
+      "principle": "Schelling: Commitment Device",
+      "remember": "Get your reference promise written down before you help at all.",
+      "hook": "A verbal promise disappears the day you leave. <strong>Get the reference locked before you lift a finger.</strong>",
+      "when": "You've agreed to train your replacement and want the reference protected first.",
+      "truth": "A promise made before the work starts is worth far more than one made after.\n• A written commitment survives a change in manager or a bad final week.\n• Once the handover is done, your leverage to demand anything disappears.\n• Trusting a verbal 'of course' means trusting a memory that will shift.",
+      "theySee": "A careful professional protecting their own interests, which reads as smart, not distrustful.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "verbal only",
+          "t": "They promise a good reference but resist putting it in an email."
+        },
+        {
+          "icon": "🔄",
+          "l": "manager change risk",
+          "t": "You hear your manager might leave or move before your reference is ever needed."
+        },
+        {
+          "icon": "📄",
+          "l": "reluctant hr",
+          "t": "HR insists on a 'dates only' policy with no exceptions offered."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask before, not after",
+          "desc": "Request the written reference agreement before you begin any handover work."
+        },
+        {
+          "n": "2",
+          "title": "Get specifics in the email",
+          "desc": "Ask for a sentence confirming they'll speak positively, not just confirm dates."
+        },
+        {
+          "n": "3",
+          "title": "Save it outside work",
+          "desc": "Forward the confirmation to a personal email the same day you get it."
+        }
+      ],
+      "script": "\"Before I start the handover, could you send a quick note confirming you're happy to be a reference — just for my own records?\"",
+      "watchFor": "They send the confirmation without pushing back or asking why you need it.",
+      "ifItFails": "They refuse to put anything in writing, citing HR policy. Take that as real information, not just process. Line up a peer or client reference instead, and say to your manager: \"No problem — I'll use [colleague] as my reference then.\"",
+      "counter": "If an outgoing employee asks for a written reference before doing any work, honor it or say why not.\n• Don't dodge the written ask if you're actually willing to give the reference.\n• A refusal reads as a warning sign to anyone who later checks references.\n• If policy blocks you, say so honestly and suggest who else can speak for them.",
+      "insight": "Paper outlasts memory and outlasts goodwill. The next question is whether you actually need this reference, or whether you're collecting it just in case."
+    },
+    {
+      "id": 17,
+      "cat": "leaving",
+      "danger": "moderate",
+      "title": "Set Your Own Last Day, Not Theirs",
+      "principle": "Anchoring — Control the Reference Date",
+      "remember": "Pick your own last day instead of letting them pick it.",
+      "hook": "The person who names the date controls the whole timeline. <strong>Say your last day before they do.</strong>",
+      "when": "You're ready to resign and the handover terms are mostly settled.",
+      "truth": "Whoever names the date first sets the anchor everyone negotiates around.\n• A date you set feels final; a date they set feels open to change.\n• Naming it first gives you room to plan the outside move around it.\n• Announcing before terms are locked hands away your last piece of leverage.",
+      "theySee": "A decisive employee giving clear, professional notice with a clean timeline attached.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "counter date",
+          "t": "They propose an earlier or later date and wait for your reaction."
+        },
+        {
+          "icon": "⚡",
+          "l": "urgency spike",
+          "t": "They suddenly want the handover finished faster than agreed."
+        },
+        {
+          "icon": "🤐",
+          "l": "silence on terms",
+          "t": "They avoid confirming severance or reference details once the date is set."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Lock terms first",
+          "desc": "Finish severance and reference agreements before you name a single date."
+        },
+        {
+          "n": "2",
+          "title": "Pick a date with margin",
+          "desc": "Choose a date that gives you two weeks of buffer before your next start date."
+        },
+        {
+          "n": "3",
+          "title": "State it once, in writing",
+          "desc": "Send the date in an email so it can't quietly shift later."
+        }
+      ],
+      "script": "\"I wanted to give clear notice — my last day will be [date], which gives us three full weeks for the handover.\"",
+      "watchFor": "They accept the date in writing instead of countering with their own.",
+      "ifItFails": "They insist on an earlier date than you can accept. Don't just agree — name what that costs them: \"I can do that, but the handover won't be complete, and I won't be available after for questions.\" Make them choose the tradeoff out loud.",
+      "counter": "If an employee sets their own last day, check what's actually locked before you push back.\n• Don't assume the date is flexible just because you'd prefer a different one.\n• Ask what happens to scope if you move the date earlier.\n• Moving the date without adjusting scope guarantees a rushed, worse handover.",
+      "insight": "The date is the last real card you get to play as an employee. Do not announce it before severance and reference terms are actually signed — once said, they've lost their reason to finish the deal. The next problem is holding the date once the counter-pressure starts."
+    },
+    {
+      "id": 18,
+      "cat": "leaving",
+      "danger": "moderate",
+      "title": "Control the Exit Interview Narrative",
+      "principle": "Impression Management",
+      "remember": "Stay calm and professional in every exit interview you give.",
+      "hook": "The exit interview isn't therapy. <strong>It's the last data point in your permanent file.</strong>",
+      "when": "HR schedules your exit interview during your final two weeks.",
+      "truth": "Exit interviews get read by future managers doing reference checks more often than people expect.\n• Venting there gets recorded as a permanent note, not a private release.\n• A calm, constructive answer keeps every door behind you open.\n• Treating it as a safe space means nothing said there is truly off the record.",
+      "theySee": "A gracious, professional departure with useful, constructive feedback.",
+      "signals": [
+        {
+          "icon": "❓",
+          "l": "leading question",
+          "t": "HR asks 'was there anything specific that pushed you to leave?'"
+        },
+        {
+          "icon": "🔎",
+          "l": "probing follow-up",
+          "t": "They ask you to name specific people or incidents."
+        },
+        {
+          "icon": "📝",
+          "l": "written record",
+          "t": "They take detailed notes or record the exit interview conversation."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Prepare two points",
+          "desc": "Walk in with one positive and one constructive point, nothing more."
+        },
+        {
+          "n": "2",
+          "title": "Decline the trap questions",
+          "desc": "Answer 'was it a person' with 'it was more about timing and fit for me.'"
+        },
+        {
+          "n": "3",
+          "title": "Keep the real feedback private",
+          "desc": "Save the honest, detailed version for a trusted contact outside the company."
+        }
+      ],
+      "script": "\"Overall it was a good experience — if I had one suggestion, it'd be clearer role expectations going forward.\"",
+      "watchFor": "The interviewer stops probing once you give a calm, general answer.",
+      "ifItFails": "They push harder, naming a specific person or asking pointed follow-ups. Don't get pulled into specifics under pressure. Say: \"I'd rather keep this constructive and forward-looking than get into individual names,\" and hold that line for the rest of the meeting.",
+      "counter": "If you're running someone's exit interview, know that a guarded answer is the norm, not a red flag.\n• Don't read vague answers as evasive — most people protect their references here.\n• Ask specific, low-stakes questions if you actually want useful feedback.\n• Promise real confidentiality if you want anything beyond the polished version.",
+      "insight": "The exit interview writes the last line of your story there. Do not trust a friendly HR interviewer with detail just because the room feels informal — it gets shared with future managers more than people expect. The next problem is whether that story survives you when someone calls to check it."
+    },
+    {
+      "id": 19,
+      "cat": "leaving",
+      "danger": "low",
+      "title": "Leave the Door Cracked, Not Open",
+      "principle": "Machiavelli: Ambiguity as Protection",
+      "remember": "Stay friendly but vague about ever coming back to work.",
+      "hook": "Never fully close the door and never fully open it. <strong>Both cost you something later.</strong>",
+      "when": "You're finishing your last week and people ask if you'd ever come back.",
+      "truth": "A flat 'never' burns a bridge you might need in five years.\n• Staying vague keeps you eligible for rehire, referrals, and future favors.\n• A closed door also blocks people who might send business or clients your way.\n• Over-promising a return you won't make reads as dishonest later.",
+      "theySee": "A warm, gracious colleague leaving on good terms, open to future contact.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "rehire question",
+          "t": "A manager asks 'would you ever consider coming back?'"
+        },
+        {
+          "icon": "👋",
+          "l": "team goodbye",
+          "t": "Coworkers ask to stay in touch or connect on LinkedIn."
+        },
+        {
+          "icon": "🏢",
+          "l": "boomerang policy",
+          "t": "HR mentions a formal alumni or rehire program at the exit interview."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer with warmth, not a promise",
+          "desc": "Say you'd always take the call, without committing to anything."
+        },
+        {
+          "n": "2",
+          "title": "Accept the alumni connections",
+          "desc": "Join any alumni network or LinkedIn group the company offers."
+        },
+        {
+          "n": "3",
+          "title": "Leave one real contact warm",
+          "desc": "Keep in touch with one person who could vouch for you years later."
+        }
+      ],
+      "script": "\"Never say never — I've loved parts of this, and I'd always take a call if the right thing came up.\"",
+      "watchFor": "People keep reaching out months later with opportunities, referrals, or updates.",
+      "ifItFails": "Someone takes your vague answer as a firm yes and follows up with an actual offer to return before you're ready. Don't ghost them — that undoes the goodwill you just built. Say: \"Really flattering, and not a no forever — just not the right time for me right now.\"",
+      "counter": "If a departing employee keeps their answer vague about coming back, don't push for a firm yes or no.\n• Don't force a commitment out of politeness — it won't hold anyway.\n• Keep the relationship warm regardless of their answer.\n• A vague door left open costs you nothing to maintain.",
+      "insight": "Ambiguity is cheap to keep and expensive to rebuild once burned. The next question is what happens when they actually call, months or years later, and mean it."
+    },
+    {
+      "id": 20,
+      "cat": "aftercall",
+      "danger": "low",
+      "title": "The 'Quick Question' Call Three Months Later",
+      "principle": "Greene: Law 13 — Appeal to Self-Interest, Never Mercy or Gratitude",
+      "remember": "A quick favor call later is never really free.",
+      "hook": "\"Hey, quick question\" is never quick. <strong>It's your old job asking for free labor.</strong>",
+      "when": "Someone from your old company calls or messages months after you left, asking for help.",
+      "truth": "Gratitude fades fast; the habit of calling you does not.\n• They call because it's easier than reading the documentation you left them.\n• Answering for free trains them to call again at no cost to them.\n• Answering out of guilt to old coworkers, not the company, is the trap.",
+      "theySee": "A generous former colleague still willing to help out of goodwill.",
+      "signals": [
+        {
+          "icon": "🕐",
+          "l": "casual framing",
+          "t": "They call it a 'super quick' question that takes twenty minutes to answer."
+        },
+        {
+          "icon": "🔁",
+          "l": "repeat contact",
+          "t": "This is the second or third time they've reached out since you left."
+        },
+        {
+          "icon": "💰",
+          "l": "no offer of pay",
+          "t": "They ask for your time with no mention of compensation."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer the call, not the question",
+          "desc": "Pick up, but don't solve the problem on the spot."
+        },
+        {
+          "n": "2",
+          "title": "Name your rate",
+          "desc": "Say you're happy to help as paid consulting, and give a number."
+        },
+        {
+          "n": "3",
+          "title": "Put it in writing",
+          "desc": "Send a short follow-up confirming the rate before doing any actual work."
+        }
+      ],
+      "script": "\"Happy to help with this — I do consulting now, it's $150 for the hour, want me to send an invoice first?\"",
+      "watchFor": "They either agree to pay or admit it wasn't actually urgent.",
+      "ifItFails": "They act surprised or offended that you'd charge a former colleague. Don't apologize for the rate — hold it flat. Say: \"Totally understand if it's not worth it at that price — happy to help if it comes up again later,\" and end the call there.",
+      "counter": "If you're the one calling a former employee for free help, expect this exact response.\n• Don't assume goodwill covers real work months after they've left.\n• Offer to pay before they have to ask for it.\n• A quick paid call now is cheaper than doing without their knowledge.",
+      "insight": "The free favor economy runs entirely on guilt, and guilt has an expiration date you control. The next question is whether you want any future calls at all, paid or not."
+    },
+    {
+      "id": 21,
+      "cat": "aftercall",
+      "danger": "low",
+      "title": "Price Every Post-Exit Favor",
+      "principle": "Cialdini: Reciprocity — Reset the Ledger",
+      "remember": "Set one clear price for every favor, then always use it.",
+      "hook": "One favor becomes a habit fast. <strong>A flat rate stops that before it starts.</strong>",
+      "when": "You've said yes to one post-exit favor and worry it's becoming a pattern.",
+      "truth": "The first free favor sets the price for every one after it, at zero.\n• A consistent rate, stated calmly, reads as professional, not petty.\n• Skipping the rate once for a 'special case' erases the boundary for good.\n• Charging some people and not others reads as personal, not a policy.",
+      "theySee": "A former employee who has simply turned their expertise into a small, ongoing service.",
+      "signals": [
+        {
+          "icon": "👥",
+          "l": "repeat callers",
+          "t": "More than one person from your old team starts reaching out."
+        },
+        {
+          "icon": "📈",
+          "l": "scope creep",
+          "t": "Questions get bigger and take longer each time they call."
+        },
+        {
+          "icon": "🛒",
+          "l": "comparison shopping",
+          "t": "They mention 'we usually just ask you' when you name a rate."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set one number",
+          "desc": "Decide your hourly rate once, and use it for every request without exception."
+        },
+        {
+          "n": "2",
+          "title": "State it the same way every time",
+          "desc": "Use identical wording so it reads as policy, not a personal judgment call."
+        },
+        {
+          "n": "3",
+          "title": "Track what you actually do for free",
+          "desc": "Keep a short list so you notice if 'just this once' keeps happening."
+        }
+      ],
+      "script": "\"My rate for this kind of thing is $X an hour — want me to send a quick invoice before we start?\"",
+      "watchFor": "The calls slow down once a real price is attached to your time.",
+      "ifItFails": "They keep calling anyway and try to reframe it as a 'favor between friends' to dodge the rate. Hold the line without debating the relationship. Say: \"I get that, and the rate's the same for everyone — happy to help once that's settled.\"",
+      "counter": "If a former colleague sets a flat rate for helping you, respect it or stop asking.\n• Don't try to talk them down as a special favor — it rarely works twice.\n• Decide if the question is worth paying for before you call.\n• If it's not worth paying for, it's probably not worth asking.",
+      "insight": "A rate is really a filter — it sorts real problems from lazy ones. The next question is whether you want to be in the consulting business at all, or just protecting your weekends."
+    },
+    {
+      "id": 22,
+      "cat": "aftercall",
+      "danger": "moderate",
+      "title": "The Reference Check Call You Don't Control",
+      "principle": "Status Asymmetry After Departure",
+      "remember": "Someone else tells your story now, and you cannot hear it.",
+      "hook": "You don't get to sit in on your own reference check. <strong>Someone else is telling your story, right now, without you.</strong>",
+      "when": "You're deep into a new job search and a background check firm contacts your old employer.",
+      "truth": "The reference call happens without you in the room, on their terms and their memory.\n• Whatever relationship you built in your last months gets repeated on that call.\n• A 'dates only' policy protects you, but can also read as a red flag.\n• A good exit interview does not guarantee a good reference call.",
+      "theySee": "A background checker hearing a former manager's honest, unscripted impression of you.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "policy-only answer",
+          "t": "The reference confirms only your title and dates, nothing else."
+        },
+        {
+          "icon": "⏳",
+          "l": "delayed callback",
+          "t": "The reference takes unusually long to return the checker's call."
+        },
+        {
+          "icon": "🚦",
+          "l": "offer stalls",
+          "t": "Your new employer's offer goes quiet right after the reference check window."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Warn your references",
+          "desc": "Tell your chosen references a check is coming and when to expect it."
+        },
+        {
+          "n": "2",
+          "title": "Give them your framing",
+          "desc": "Send a short note reminding them of one or two wins from your time there."
+        },
+        {
+          "n": "3",
+          "title": "Pick references who choose you",
+          "desc": "Use people you asked directly and who said yes, not just your last manager by default."
+        }
+      ],
+      "script": "\"Heads up, a background check may call you this week for my [company] reference — thanks again for agreeing to do this.\"",
+      "watchFor": "Your new offer moves forward on schedule with no unexplained delay.",
+      "ifItFails": "Your offer stalls right after the reference window and nobody tells you why. Don't wait passively — ask your recruiter directly if the reference check raised anything. Say: \"I noticed things slowed down after the reference check — was there anything that came up I should know about?\"",
+      "counter": "If you're the one giving a reference check on a former employee, know it carries real weight.\n• Don't give a flat 'policy only' answer if you actually have something positive to add.\n• A vague or cold answer can end an offer without the candidate ever knowing why.\n• If you can't say anything good, say nothing extra, but don't pretend it's neutral.",
+      "insight": "This is the one call in the whole handover you never get to hear yourself. Do not skip warning your references — a caught-off-guard reference gives a worse answer than a prepared one. The next question, for the next job, is whether your reputation is loud enough that this call barely matters."
+    }
+  ]
+}

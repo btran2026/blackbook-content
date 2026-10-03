@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 87,
+  "manifestVersion": 88,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -793,7 +793,20 @@
       "url": "playbooks/playbook-srv-turn-his-best-ally.json",
       "addedAt": "2026-10-02T17:22:22.091Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-training-the-person-hired-to-replace-you",
+      "title": "Training the Person Hired to Replace You",
+      "theme": "career",
+      "topic": "",
+      "cardCount": 22,
+      "contentVersion": 1,
+      "coverColor": "#1e1b4b",
+      "coverIcon": "🗝️",
+      "url": "playbooks/playbook-srv-training-the-person-hired-to-replace-you.json",
+      "addedAt": "2026-10-03T00:03:59.750Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-02T17:22:22.091Z"
+  "generatedAt": "2026-10-03T00:03:59.750Z"
 }
