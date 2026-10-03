@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 90,
+  "manifestVersion": 91,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -832,7 +832,20 @@
       "url": "playbooks/playbook-srv-after-everything-i-did-for-you.json",
       "addedAt": "2026-10-03T00:04:32.872Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-no-budget",
+      "title": "No Budget",
+      "theme": "negotiation",
+      "topic": "Negotiating when they claim \"no budget\"",
+      "cardCount": 15,
+      "contentVersion": 1,
+      "coverColor": "#1B2A4A",
+      "coverIcon": "💼",
+      "url": "playbooks/playbook-srv-no-budget.json",
+      "addedAt": "2026-10-03T17:50:44.751Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-03T00:04:32.872Z"
+  "generatedAt": "2026-10-03T17:50:44.751Z"
 }

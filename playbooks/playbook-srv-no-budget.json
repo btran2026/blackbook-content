@@ -1,0 +1,854 @@
+{
+  "meta": {
+    "id": "srv-no-budget",
+    "version": "1.0",
+    "title": "No Budget",
+    "subtitle": "The Underground Playbook for Negotiating When They Claim They Can't Pay",
+    "description": "15 moves for the negotiation that starts after they say no. Read the signal, shift the frame, make the case, and know when to walk.",
+    "author": "AI",
+    "createdAt": "2026-10-03T17:50:44.751Z",
+    "tags": [
+      "negotiation",
+      "sales",
+      "salary",
+      "budget",
+      "persuasion",
+      "dark psychology"
+    ],
+    "totalCards": 15,
+    "isSeeded": true,
+    "coverColor": "#1B2A4A",
+    "coverIcon": "💼",
+    "fromServer": true,
+    "generation": {
+      "topic": "Negotiating when they claim \"no budget\"",
+      "cardCount": 15,
+      "categories": [],
+      "tone": "narrative"
+    }
+  },
+  "categories": [
+    {
+      "key": "decode",
+      "label": "Read the Signal",
+      "color": "#1B2A4A"
+    },
+    {
+      "key": "reframe",
+      "label": "Shift the Frame",
+      "color": "#7B2D8B"
+    },
+    {
+      "key": "proof",
+      "label": "Make the Case",
+      "color": "#C0392B"
+    },
+    {
+      "key": "structure",
+      "label": "Deal Architecture",
+      "color": "#1A7A4A"
+    },
+    {
+      "key": "power",
+      "label": "Play Your Hand",
+      "color": "#B7800A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "decode",
+      "danger": "low",
+      "title": "\"No Budget\" Means \"Not Yet\" or \"Not You\"",
+      "hook": "They said 'no budget.' That's not a wall. <strong>It's a question in disguise.</strong>",
+      "truth": "Most people fold when they hear 'no budget.' That's exactly what the other side wants.\n• 'No budget' hides three different problems — timing, priority, or missing authority.\n• Once you know which one, the next move becomes obvious.\n• Treating all three the same kills deals that aren't actually dead.",
+      "principle": "Forbes: Can't vs. Won't Reframe",
+      "remember": "Find out which kind of no you're hearing before you do anything else.",
+      "theySee": "A vendor who stops pushing and nods politely after hearing the word 'budget.'",
+      "signals": [
+        {
+          "l": "Future date",
+          "t": "They say 'maybe next quarter' — the money exists but isn't available right now.",
+          "icon": "📅"
+        },
+        {
+          "l": "Name dropped",
+          "t": "They mention the CFO or a committee — they're telling you they don't decide.",
+          "icon": "👤"
+        },
+        {
+          "l": "Vague language",
+          "t": "They say 'it's just not in the cards' — they're deflecting, not explaining.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "Quick topic shift",
+          "t": "They move to something else right after saying no — they don't want to be questioned.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the three types",
+          "desc": "Write down: timing, priority, authority. These are the only three real reasons behind any 'no budget.'"
+        },
+        {
+          "n": "2",
+          "title": "Ask which one it is",
+          "desc": "Say: 'When you say no budget — do you mean not now, or not this project?' Watch the answer closely."
+        },
+        {
+          "n": "3",
+          "title": "Route to the right move",
+          "desc": "Timing means ask when. Priority means make the urgency case. Authority means find who can actually say yes."
+        }
+      ],
+      "script": "\"When you say no budget — do you mean not this quarter, or not this project?\"",
+      "counter": "Someone testing if you'll fold without a fight.\n• Notice if they say 'no budget' with no date, no number, and no name attached.\n• Say: 'When you say no budget — do you mean not now, or not this?'\n• Wait for the answer. Their next sentence is your real information.",
+      "insight": "The harder part is staying quiet long enough to hear which no they meant — most people fill the silence with a price drop they didn't need to give."
+    },
+    {
+      "id": 2,
+      "cat": "decode",
+      "danger": "moderate",
+      "title": "The Person Saying 'No Budget' May Not Control the Money",
+      "hook": "You're being rejected by someone who can't approve anything. <strong>That's not a rejection — it's a detour.</strong>",
+      "truth": "Gatekeepers pass the objection their boss owns. It looks like a no, but it isn't theirs to give.\n• They like your offer but still say no — the block isn't your pitch, it's their authority.\n• Every minute you spend convincing them is time the real decision-maker doesn't know your name.\n• Your move is to find the person who can actually move money — not the one who can't.",
+      "principle": "Status Asymmetry",
+      "remember": "Stop selling to people who can't buy. Find the person who can.",
+      "theySee": "A salesperson still talking to the person who said no instead of asking who actually decides.",
+      "signals": [
+        {
+          "l": "Passive language",
+          "t": "They say 'it's out of my hands' — they're telling you they don't decide.",
+          "icon": "🙌"
+        },
+        {
+          "l": "No value pushback",
+          "t": "They like what you're offering but still say no — the block isn't your case.",
+          "icon": "✅"
+        },
+        {
+          "l": "Same name twice",
+          "t": "One specific name keeps coming up — that person holds the money.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Long approval chain",
+          "t": "They describe multiple steps before anything gets approved — you're far from the top.",
+          "icon": "🔗"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Confirm their authority",
+          "desc": "Ask: 'Who else is part of this decision?' before you go any deeper into your pitch."
+        },
+        {
+          "n": "2",
+          "title": "Get the name",
+          "desc": "Ask: 'Who would need to be in the room for this to actually move?' Write the name down."
+        },
+        {
+          "n": "3",
+          "title": "Request the introduction",
+          "desc": "Say: 'Would you be willing to bring me into that conversation?' Don't make them the messenger."
+        }
+      ],
+      "script": "\"Who else would need to be involved for this to actually move forward?\"",
+      "counter": "Someone redirecting you to a lower-level contact instead of the decision-maker.\n• Notice if you've had two or more meetings without speaking to whoever approves spending.\n• Say: 'I'd like to speak directly with whoever owns this decision.'\n• If they refuse, treat the deal as not real until proven otherwise.",
+      "insight": "A gatekeeper can't say yes — but they can absolutely say no. The move that follows is making sure you're not building a case for someone who can only block."
+    },
+    {
+      "id": 3,
+      "cat": "decode",
+      "danger": "low",
+      "title": "Map the Real Budget Before You Name Your Price",
+      "hook": "They haven't told you what they can spend. <strong>That doesn't mean they don't know.</strong>",
+      "truth": "Clients hide their budget to keep room to negotiate. Most people name a price before knowing where the floor is.\n• Ask about the project's financial goal — they'll answer that when they won't answer 'what's your budget.'\n• 'What does a successful result need to pay back?' gets you a real number to work from.\n• Once you know their expected return, your price becomes a fraction of it.",
+      "principle": "Anchoring — Reference Price Effect",
+      "remember": "Ask about their goal first. Name your price second.",
+      "theySee": "A consultant asking detailed questions about the business before ever mentioning a number.",
+      "signals": [
+        {
+          "l": "Revenue goal named",
+          "t": "They mention a growth target before you ask — they know their success number.",
+          "icon": "📈"
+        },
+        {
+          "l": "Competitor mentioned",
+          "t": "They say what a competitor charges — they've already researched the range.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Rush for a quote",
+          "t": "They push you for a number before answering your questions — they want to anchor you first.",
+          "icon": "⏩"
+        },
+        {
+          "l": "Vague scope",
+          "t": "They can't describe the project clearly — they're testing whether you'll anchor low.",
+          "icon": "📝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask about the goal",
+          "desc": "Say: 'What does a successful version of this need to pay back for your business in the next 12 months?' Write the number."
+        },
+        {
+          "n": "2",
+          "title": "Do the math",
+          "desc": "Your price should be a clear fraction of their stated goal. Calculate it before you speak."
+        },
+        {
+          "n": "3",
+          "title": "Name your number second",
+          "desc": "Let them describe what success looks like, then anchor your price inside that context — not outside it."
+        }
+      ],
+      "script": "\"What does a successful version of this need to pay back for your business in the next 12 months?\"",
+      "counter": "They're trying to anchor your price before you know their ceiling.\n• Notice if they ask for a number before you've discussed scope or goals.\n• Say: 'Help me understand what you're trying to achieve first.'\n• Don't answer the price question until you know their success number.",
+      "insight": "The real trap is naming your price before you know their number — now they negotiate down from yours instead of up from theirs."
+    },
+    {
+      "id": 4,
+      "cat": "reframe",
+      "danger": "moderate",
+      "title": "\"Can't Pay\" Is a Choice, Not a Fact",
+      "hook": "'We can't afford it' is not the same as 'there is no money.' <strong>One is a constraint. The other is a priority call.</strong>",
+      "truth": "Money exists in almost every organization. The question is what it's currently going toward.\n• 'Can't' means the money is already spent on something else — which means it can move.\n• Find what they're paying for now. That's where your real budget conversation is.\n• The move: turn 'do we have money' into 'is this the best use of what we have.'",
+      "principle": "Forbes: Can't vs. Won't Reframe",
+      "remember": "There is no 'can't pay.' There is only 'we chose to spend it somewhere else.'",
+      "theySee": "A person calmly questioning the word 'can't' instead of accepting the rejection and preparing to leave.",
+      "signals": [
+        {
+          "l": "Other spend named",
+          "t": "They mention a tool or vendor they currently pay — the budget exists, it's just elsewhere.",
+          "icon": "💳"
+        },
+        {
+          "l": "Defensive tone",
+          "t": "They get slightly prickly when you push on 'can't' — they know it's a choice.",
+          "icon": "🛡️"
+        },
+        {
+          "l": "Long pause",
+          "t": "They go quiet after you question the word — they're recalibrating their position.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Recent purchase",
+          "t": "They bought something else recently — the money was there and it moved somewhere.",
+          "icon": "🧾"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Question the word 'can't'",
+          "desc": "Say: 'When you say can't — do you mean the money doesn't exist, or it's already going somewhere else?'"
+        },
+        {
+          "n": "2",
+          "title": "Find where the money went",
+          "desc": "Ask: 'What are you spending on right now that this would replace or reduce?' Listen for real numbers."
+        },
+        {
+          "n": "3",
+          "title": "Reframe it as a trade",
+          "desc": "Show them that buying you means stopping or reducing something else — not adding a brand new cost."
+        }
+      ],
+      "script": "\"When you say can't — do you mean the money doesn't exist, or that it's already going somewhere else?\"",
+      "counter": "Someone testing how much pressure it takes before you drop your price.\n• Notice if the word 'can't' appears with no specific explanation attached to it.\n• Say: 'I understand — tell me what you're working with and we'll see what's possible.'\n• Don't drop your number before they've explained what 'can't' actually means.",
+      "insight": "The harder part is that once they admit it's a choice, they own the decision — and some people would rather keep the excuse than make the call."
+    },
+    {
+      "id": 5,
+      "cat": "reframe",
+      "danger": "moderate",
+      "title": "Label the Fear Hidden Behind 'No Budget'",
+      "hook": "'No budget' is almost never about money. <strong>It's about not wanting to be wrong in front of their team.</strong>",
+      "truth": "The objection on the surface is price. The objection underneath is fear of making a bad call.\n• Labeling the real fear disarms it faster than answering the price question.\n• Say what they're likely feeling out loud — they'll confirm or correct you. Either way, you get closer.\n• Once the fear is named, money becomes a logistics problem, not an emotional wall.",
+      "principle": "Voss: Label",
+      "remember": "Say the fear out loud. That moves them faster than dropping your price.",
+      "theySee": "Someone sitting quietly and listening instead of jumping in to defend a price or offer a discount.",
+      "signals": [
+        {
+          "l": "Risk language",
+          "t": "They say 'we've been burned before' — past failure is making them hesitate right now.",
+          "icon": "🔥"
+        },
+        {
+          "l": "Proof requests",
+          "t": "They ask for case studies or references before moving — they need to feel safe first.",
+          "icon": "📋"
+        },
+        {
+          "l": "Pulled back after interest",
+          "t": "They seemed ready, then stalled — something shifted in how they're thinking about risk.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Group pronouns",
+          "t": "They keep saying 'we' instead of 'I' — they're afraid of being blamed by their team.",
+          "icon": "👥"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Listen for the fear word",
+          "desc": "Write down the exact phrases they used. Look for risk language, mentions of past problems, or group blame."
+        },
+        {
+          "n": "2",
+          "title": "Name it back",
+          "desc": "Say: 'It sounds like you're worried this won't pay off and you'll have a hard time defending it internally.'"
+        },
+        {
+          "n": "3",
+          "title": "Wait five seconds",
+          "desc": "Don't follow the label with more words. Sit in silence. Let them respond and correct or confirm you."
+        }
+      ],
+      "script": "\"It sounds like you're worried this won't pay off and you'll have a hard time defending it to your team.\"",
+      "counter": "Someone labeling your hesitation to pressure you into moving faster.\n• Notice if they name a fear you haven't stated out loud yet.\n• Correct it calmly: 'That's not quite it — the real issue is...' and name it yourself.\n• Don't let them define your concern for you. Own the label or change it.",
+      "insight": "The move that follows is showing them what a bad decision looks like if they do nothing — so the fear of staying stuck gets bigger than the fear of spending."
+    },
+    {
+      "id": 6,
+      "cat": "reframe",
+      "danger": "moderate",
+      "title": "Get Them to Say No to the Worse Option",
+      "hook": "Stop pushing for yes. <strong>Get them to say no to the version they'd hate most.</strong>",
+      "truth": "A calibrated no is easier to get than a yes — and it moves the deal forward just as well.\n• Ask: 'Would it be a problem if nothing changed and things stayed exactly as they are?'\n• They say no. That no is a quiet yes to doing something about the problem.\n• Now the question isn't 'do you want to spend?' — it's 'what's the smallest version that avoids the bad result?'",
+      "principle": "Voss: Calibrated No",
+      "remember": "A 'no' to the bad option is a yes to moving forward. Use it.",
+      "theySee": "A person asking an unexpected question instead of defending a price or pushing hard for a decision.",
+      "signals": [
+        {
+          "l": "Pain admitted",
+          "t": "They've described a clear problem or gap — they know what staying stuck looks like.",
+          "icon": "😬"
+        },
+        {
+          "l": "Stalling without reason",
+          "t": "They keep delaying with no clear explanation — they're avoiding, not deciding.",
+          "icon": "⏳"
+        },
+        {
+          "l": "Status quo defended",
+          "t": "They say 'we've managed this far' — they're telling you their bar is lower than they'll admit.",
+          "icon": "🛑"
+        },
+        {
+          "l": "Energy drops",
+          "t": "The mood in the room drops when the current situation gets named — they don't like it.",
+          "icon": "📉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the bad outcome",
+          "desc": "Ask: 'If this doesn't get solved, what does the next six months look like?' Let them describe it in full."
+        },
+        {
+          "n": "2",
+          "title": "Ask the calibrated no question",
+          "desc": "Say: 'Would it be a problem if nothing changed here and things stayed exactly as they are now?'"
+        },
+        {
+          "n": "3",
+          "title": "Move to the minimum version",
+          "desc": "Once they say no to staying stuck, ask: 'What's the smallest version of this that avoids that result?'"
+        }
+      ],
+      "script": "\"Would it be a problem if nothing changed here and things stayed exactly as they are now?\"",
+      "counter": "Someone using this to make inaction feel scarier than their price.\n• Notice if they describe a cost-of-inaction number without showing how they calculated it.\n• Ask: 'What are the actual costs of the alternative you're describing? Walk me through that.'\n• Make them show their math before you accept the framing.",
+      "insight": "This works until they realize you're running the move — so use their words to name the bad outcome, not yours."
+    },
+    {
+      "id": 7,
+      "cat": "proof",
+      "danger": "moderate",
+      "title": "Show the Cost of the Problem Before You Show Your Price",
+      "hook": "Your price looks big when it's the only number in the room. <strong>Put a bigger number next to it first.</strong>",
+      "truth": "People work harder to avoid a loss than to gain something equal in size. Documented and almost always ignored.\n• Calculate what the problem is costing them monthly. Use their numbers, not yours.\n• Put that cost on the table before you name your price.\n• Now your price is the smaller number — and that's the only comparison that matters.",
+      "principle": "Loss Aversion — Kahneman",
+      "remember": "Show the cost of the problem before you show the cost of fixing it.",
+      "theySee": "Someone writing out the cost of the problem on a page before showing a price — doing math, not pitching.",
+      "signals": [
+        {
+          "l": "Number already given",
+          "t": "They've told you a revenue loss or time cost — they've already done part of the math for you.",
+          "icon": "🔢"
+        },
+        {
+          "l": "No urgency",
+          "t": "They're relaxed about the problem — they haven't priced the pain yet.",
+          "icon": "😌"
+        },
+        {
+          "l": "Price comparison",
+          "t": "They name a cheaper option — they're comparing price to price, not cost to cost.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Delay language",
+          "t": "They say 'we'll get to it eventually' — they haven't calculated what waiting actually costs.",
+          "icon": "📆"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for their loss number",
+          "desc": "Say: 'What is this problem costing you per month right now, roughly?' Wait for a number. Don't fill the silence."
+        },
+        {
+          "n": "2",
+          "title": "Do the math out loud",
+          "desc": "Say: 'So over six months, that's [X]. My price is [Y].' Then stop talking completely."
+        },
+        {
+          "n": "3",
+          "title": "Let silence work",
+          "desc": "Don't explain further after the comparison. Silence is where the decision forms. Hold it for as long as it takes."
+        }
+      ],
+      "script": "\"What is this problem costing you per month right now — roughly?\"",
+      "counter": "Someone showing you a large cost-of-inaction number to justify their price.\n• Ask: 'How did you calculate that?' Force them to show the math behind the figure.\n• If they can't break it down, the number is a pressure move, not a fact.\n• Build your own cost calculation using numbers you can verify independently.",
+      "insight": "The trap is when they don't know their own cost — now you're selling a solution to a problem they haven't priced, and that's a much harder conversation to close."
+    },
+    {
+      "id": 8,
+      "cat": "proof",
+      "danger": "low",
+      "title": "Tie Your Price to a Number They Already Track",
+      "hook": "They don't know if your price is high or low. <strong>Give them a reference point they already trust.</strong>",
+      "truth": "A price with no reference feels expensive. A price tied to a business goal feels like a decision.\n• Find what a good result is worth to them — in revenue, deals closed, or cost avoided.\n• Show your price as a small fraction of that number.\n• Now they're not buying a service. They're buying a known return on a number they believe.",
+      "principle": "Anchoring — Reference Price Effect",
+      "remember": "Every price looks big until you put their own goal number next to it.",
+      "theySee": "A vendor walking through math using the client's own business numbers instead of a standard rate card.",
+      "signals": [
+        {
+          "l": "Goal stated",
+          "t": "They've named a revenue or growth target — that's your reference point right there.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Deadline pressure",
+          "t": "They have a time-sensitive goal — attach your price to what missing the deadline costs them.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Competitor gap",
+          "t": "They describe what a competitor achieves that they don't — that gap has a dollar value.",
+          "icon": "📊"
+        },
+        {
+          "l": "Return question",
+          "t": "They ask 'what kind of return can we expect?' — they already think in value terms.",
+          "icon": "💰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get their success number",
+          "desc": "Ask: 'What would a successful version of this look like in dollars or deals over the next year?'"
+        },
+        {
+          "n": "2",
+          "title": "Anchor your price to it",
+          "desc": "Say: 'My fee is [X]. If this works as designed, that's less than 10% of the upside you described.'"
+        },
+        {
+          "n": "3",
+          "title": "Write the fraction down",
+          "desc": "Say it and write it. A 10:1 ratio changes the room. A number on paper is harder to argue with."
+        }
+      ],
+      "script": "\"My fee is [X]. If this works as we've discussed, that's a small fraction of the upside you described — less than 10%.\"",
+      "counter": "Someone tying their price to a return number they created without showing the source.\n• Ask: 'How did you arrive at that upside figure?' Make them show the math.\n• If they can't, the reference point is invented — not a real anchor.\n• Propose your own return calculation using numbers you can independently verify.",
+      "insight": "The harder part is getting them to say the goal number out loud — people who won't name a target usually can't justify a decision in either direction."
+    },
+    {
+      "id": 9,
+      "cat": "proof",
+      "danger": "moderate",
+      "title": "Never Apologize for Your Price",
+      "hook": "The second you soften your number, they start negotiating from the soft version. <strong>Name it flat and shut up.</strong>",
+      "truth": "An apology on a price signals that the price is wrong. The other side hears permission to push harder.\n• Name your price in one sentence with no hedge, no backstory, no 'I know it's a lot.'\n• The urge to explain is fear. The other side can smell it from across the table.\n• Silence after the number is your strongest move. Most people fill it with a discount they didn't need to give.",
+      "principle": "Forbes: Justify and Never Apologize",
+      "remember": "Say the number. Stop talking. The silence after is theirs to fill.",
+      "theySee": "Someone who names a price and sits back without flinching, adding qualifiers, or reaching for a discount.",
+      "signals": [
+        {
+          "l": "Silence after price",
+          "t": "They go quiet after you name the number — this is normal. Don't fill it.",
+          "icon": "🤫"
+        },
+        {
+          "l": "'That's a lot'",
+          "t": "They say it with no real objection — they're testing whether you'll back down.",
+          "icon": "😮"
+        },
+        {
+          "l": "Expectant pause",
+          "t": "They wait silently after you speak — they expect you to soften the number next.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Lean-back shift",
+          "t": "They move back in their chair after the number — they're thinking, not leaving.",
+          "icon": "💺"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write out your price sentence",
+          "desc": "Before any meeting, write: 'My fee for this is [X].' Nothing after the period. Practice saying it flat."
+        },
+        {
+          "n": "2",
+          "title": "Deliver it and stop",
+          "desc": "Say the sentence. Close your mouth. Count silently to 10 if you have to. Do not add anything."
+        },
+        {
+          "n": "3",
+          "title": "Let them go first",
+          "desc": "Whatever they say next is your real information. React to their words, not to the silence before them."
+        }
+      ],
+      "script": "\"My fee for this engagement is [X].\"",
+      "counter": "They named a price and went quiet to force you to speak first.\n• Notice the silence and don't fill it — they're using the same move on you.\n• Name your counter if you have one, and deliver it just as flatly.\n• If they're still silent after your counter, you've reached the real negotiation.",
+      "insight": "Most people lose money in the three seconds after saying a number. The move that follows is knowing exactly what to say when they finally do respond."
+    },
+    {
+      "id": 10,
+      "cat": "structure",
+      "danger": "moderate",
+      "title": "Cut the Scope — Never Cut Your Rate",
+      "hook": "They want a lower number. Give them less work — not a cheaper rate. <strong>Your rate is not the thing that moves.</strong>",
+      "truth": "Dropping your rate signals that your price was inflated. Dropping scope keeps the logic intact.\n• Every rate cut tells them they were right to push — and that they can push again next time.\n• A scope cut says: 'This is what that budget buys. Want more? The price goes back up.'\n• You keep your rate, your positioning, and the door open for a bigger next engagement.",
+      "principle": "Anchoring — Rate Integrity",
+      "remember": "Drop what you deliver, not what you charge per hour or per day.",
+      "theySee": "A vendor calmly describing a smaller version of the project instead of getting defensive or cutting a rate.",
+      "signals": [
+        {
+          "l": "Budget floor named",
+          "t": "They give you a specific spending number — now you have something real to design around.",
+          "icon": "📊"
+        },
+        {
+          "l": "Feature pushback",
+          "t": "They say 'we don't really need X' — they're already thinking in scope terms.",
+          "icon": "✂️"
+        },
+        {
+          "l": "Lower bid named",
+          "t": "They mention a cheaper competitor — ask what that option actually includes.",
+          "icon": "💬"
+        },
+        {
+          "l": "Time pressure",
+          "t": "They want to move faster than the full project allows — the scope is already naturally smaller.",
+          "icon": "⏩"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what they can spend",
+          "desc": "Say: 'What's the number you're working with?' Get a specific figure before you offer anything at all."
+        },
+        {
+          "n": "2",
+          "title": "Build the smaller version",
+          "desc": "List your three main deliverables. Circle the two that fit their budget. Name clearly what gets removed."
+        },
+        {
+          "n": "3",
+          "title": "Hold your rate",
+          "desc": "Say: 'At your budget, here's what I can deliver. The rate stays the same — the scope adjusts.'"
+        }
+      ],
+      "script": "\"At that budget, here's what I can deliver. The rate stays the same — we're adjusting what's in scope.\"",
+      "counter": "Someone cutting scope on you while holding their rate.\n• Ask: 'What does the full version include, and what's the price difference between the two?'\n• Get the gap in writing before you agree to less work.\n• Make sure what's being cut isn't something you need to make the rest of the project work.",
+      "insight": "The trap is that a smaller scope at your full rate still leaves them with a gap — and they'll ask you to fill it for free later. Define the edges in writing before you start."
+    },
+    {
+      "id": 11,
+      "cat": "structure",
+      "danger": "low",
+      "title": "Offer a Payment Plan Before You Drop the Total",
+      "hook": "They say they can't pay your price. <strong>Most of the time, they mean they can't pay it all at once.</strong>",
+      "truth": "Cash flow kills deals that budget doesn't actually block. A payment plan fixes cash flow — not the total.\n• Splitting into three payments turns a large number into a manageable monthly line.\n• The total doesn't change — but their approval process might not even require it to.\n• This costs you nothing and saves deals that would otherwise die on timing alone.",
+      "principle": "Sunk-Cost Anchoring — Payment Sequencing",
+      "remember": "Split the payments before you split the price.",
+      "theySee": "A vendor offering a payment option before the client has finished explaining why they can't pay.",
+      "signals": [
+        {
+          "l": "Timing language",
+          "t": "They say 'we just don't have it right now' — the timing is the issue, not the total.",
+          "icon": "📅"
+        },
+        {
+          "l": "Quarter named",
+          "t": "They mention a budget cycle or fiscal quarter — cash timing is the real constraint.",
+          "icon": "🗓️"
+        },
+        {
+          "l": "Approval limit",
+          "t": "They can approve up to a specific amount without extra sign-off — a phased payment may fall under it.",
+          "icon": "✅"
+        },
+        {
+          "l": "Value not questioned",
+          "t": "They haven't pushed back on your qualifications — only on writing the full check at once.",
+          "icon": "👍"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Offer the split before they ask",
+          "desc": "Say: 'If timing is the issue, I can split this into three payments. The total stays the same.'"
+        },
+        {
+          "n": "2",
+          "title": "Set a clear schedule",
+          "desc": "Propose: 25% to start, 25% at midpoint, 50% on delivery. Send it in writing the same day."
+        },
+        {
+          "n": "3",
+          "title": "Confirm the total is unchanged",
+          "desc": "Say explicitly: 'The total is [X]. We're just spreading when it hits your account.'"
+        }
+      ],
+      "script": "\"If timing is the issue, I can split this into three payments. The total stays at [X] — we're just changing when it lands.\"",
+      "counter": "Someone offering you a payment plan while holding the full total.\n• Calculate the real cost of waiting: your time, delayed cash, and other options you close off by staying.\n• A 90-day payment schedule costs you something — factor that in before agreeing.\n• Ask if the total can move in exchange for the extended schedule you're being asked to take.",
+      "insight": "The first payment is the real close — once they've paid once, they're pulled toward finishing. A 25% deposit buys commitment, not just cash."
+    },
+    {
+      "id": 12,
+      "cat": "structure",
+      "danger": "low",
+      "title": "Phase the Work Across Two Budget Cycles",
+      "hook": "This quarter has no budget. <strong>Next quarter might. Split the project and start now.</strong>",
+      "truth": "Budget cycles kill projects that are too large to approve in one go.\n• A phased project lets them approve Phase 1 now and Phase 2 next cycle — each within their approval limit.\n• You start the relationship, prove your value, and make Phase 2 the obvious next step.\n• This works especially well when the person you're talking to has a small approval amount.",
+      "principle": "Foot-in-the-Door — Commitment and Consistency",
+      "remember": "Get paid for Phase 1 now. Let Phase 2 sell itself after.",
+      "theySee": "A consultant drawing a line between two project phases on a page and asking which one fits this quarter's budget.",
+      "signals": [
+        {
+          "l": "Cycle named",
+          "t": "They mention Q1 or a fiscal year reset — they're already thinking in budget cycles.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Partial interest",
+          "t": "They get excited about one specific part of your offer — that's your Phase 1.",
+          "icon": "✨"
+        },
+        {
+          "l": "Approval limit mentioned",
+          "t": "They say they can approve up to a certain amount without extra sign-off — design Phase 1 to fit under it.",
+          "icon": "🔐"
+        },
+        {
+          "l": "Long planning talk",
+          "t": "They describe goals six to twelve months out — they expect to make multiple decisions over time.",
+          "icon": "🗺️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the starting piece",
+          "desc": "Identify the part of your offer they responded to most. That's Phase 1."
+        },
+        {
+          "n": "2",
+          "title": "Price Phase 1 under their limit",
+          "desc": "If they can approve [X] without extra sign-off, price Phase 1 at [X] or just under it."
+        },
+        {
+          "n": "3",
+          "title": "Name Phase 2 without pitching it",
+          "desc": "Say: 'Phase 2 makes sense after we see results from this. We can talk about it then.' Then stop."
+        }
+      ],
+      "script": "\"Let's do Phase 1 now within your current budget. Phase 2 we can revisit next quarter once you've seen what this produces.\"",
+      "counter": "Someone offering you a Phase 1 at a low price to get you started.\n• Ask: 'What does Phase 2 cost and what triggers it?' Get the number before you agree to anything.\n• Don't start work without knowing the full picture in writing.\n• Whatever you charge for Phase 1 sets the rate they expect for everything that follows.",
+      "insight": "Phase 1 is a test — but it's also a trap if you price it too low to win the work. The rate you set on Phase 1 is the anchor for Phase 2."
+    },
+    {
+      "id": 13,
+      "cat": "structure",
+      "danger": "low",
+      "title": "Tell Them to Budget for It Next Cycle and Call You Back",
+      "hook": "They can't buy now. <strong>Make sure you're the name they remember when the money opens up.</strong>",
+      "truth": "Some 'no budgets' are real — and some become yes six months later with zero follow-up from anyone.\n• End the conversation with a specific return date, not a vague 'stay in touch.'\n• Tell them when to call, not if. That difference matters more than it looks.\n• Leave a one-page summary behind — so the case is already built when they go to budget.",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "End every 'not now' with a specific date to talk again.",
+      "theySee": "A person wrapping up a meeting calmly with a clear next step instead of pushing harder or leaving frustrated.",
+      "signals": [
+        {
+          "l": "Cycle date named",
+          "t": "They say 'this is a Q3 decision' — they already know when the money will be available.",
+          "icon": "📅"
+        },
+        {
+          "l": "Warm on exit",
+          "t": "They're friendly at the end despite saying no — the door isn't actually closed.",
+          "icon": "🤝"
+        },
+        {
+          "l": "'Keep us posted'",
+          "t": "They ask you to stay in touch — they want a reason to say yes later.",
+          "icon": "📬"
+        },
+        {
+          "l": "Materials request",
+          "t": "They ask for a proposal or deck to share internally — they're starting to build the internal case.",
+          "icon": "📁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set the return date",
+          "desc": "Ask: 'When does your next budget cycle open?' Then say: 'I'll reach out the week before with what you need.'"
+        },
+        {
+          "n": "2",
+          "title": "Leave one page behind",
+          "desc": "Send a single-page summary after the meeting: problem, solution, price, your contact. Nothing more than that."
+        },
+        {
+          "n": "3",
+          "title": "Follow up exactly when you said",
+          "desc": "Set a calendar reminder now. Reach out on the date you named. Showing up on time is itself the close."
+        }
+      ],
+      "script": "\"When does your next budget cycle open? I'll reach out that week with everything you need to make the case internally.\"",
+      "counter": "Someone leaving a 'call us when budget opens' with no date attached.\n• That's a polite no unless you force a specific month out of them before you leave.\n• Ask: 'When specifically — what month does that happen?'\n• If they won't name a date, accept the real answer and move your time elsewhere.",
+      "insight": "Most follow-up loses deals not because the answer changed but because nobody showed up at the right moment. The name in their inbox when budget opens wins."
+    },
+    {
+      "id": 14,
+      "cat": "power",
+      "danger": "moderate",
+      "title": "Anchor High Before They Name Their Number",
+      "hook": "Whoever names a number first sets the center of gravity. <strong>Make sure it's you.</strong>",
+      "truth": "The first number in a negotiation pulls all the others toward it. Documented and almost always ignored.\n• Anchor at the high end before they quote a budget cap or a market rate.\n• Even an obviously high number shifts the final result upward — the other side counters from your anchor.\n• If they anchor first, you're negotiating against their number — not your value.",
+      "principle": "Anchoring Effect — Kahneman",
+      "remember": "Name your number first. Every counter will be measured against it.",
+      "theySee": "Someone who leads with a price confidently before being asked, without a long setup or apology.",
+      "signals": [
+        {
+          "l": "Budget question forming",
+          "t": "They're about to ask for your number — anchor before they set a range.",
+          "icon": "❓"
+        },
+        {
+          "l": "Pricing probe",
+          "t": "They ask 'what does something like this typically run?' — your next sentence is your anchor.",
+          "icon": "🔎"
+        },
+        {
+          "l": "Competitor range named",
+          "t": "They mention what others charge — they're checking if you're near it. Anchor above it.",
+          "icon": "📋"
+        },
+        {
+          "l": "Long pause before money",
+          "t": "They've delayed the money conversation — they're about to name a cap.",
+          "icon": "⏳"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set your anchor before the meeting",
+          "desc": "Write it down: 30–50% above your minimum acceptable price. That's your opening number."
+        },
+        {
+          "n": "2",
+          "title": "Drop it before they ask",
+          "desc": "Say: 'Projects like this typically run between [X] and [Y] depending on scope.' Work it in naturally."
+        },
+        {
+          "n": "3",
+          "title": "Let them react",
+          "desc": "Their reaction tells you where they actually are. Negotiate toward your real number, not from theirs."
+        }
+      ],
+      "script": "\"Projects like this typically run between [X] and [Y] depending on what we want to accomplish.\"",
+      "counter": "Someone anchoring high before you've named a number.\n• Don't react emotionally — that's the move working on you exactly as designed.\n• Say: 'That's a reference point. What's actually in scope here?' Separate anchor from negotiation.\n• Name your counter with confidence. Don't let their number become your ceiling.",
+      "insight": "The real gap isn't between your anchor and their counter — it's between your anchor and your walk-away number. Know the second one before you say the first."
+    },
+    {
+      "id": 15,
+      "cat": "power",
+      "danger": "high",
+      "title": "Walk Away When the Budget Story Never Changes",
+      "hook": "They've said 'no budget' three times with no details attached. <strong>The third time isn't a negotiation — it's a dismissal.</strong>",
+      "truth": "Some 'no budget' situations are real dead ends. Staying too long costs more than leaving early.\n• A real budget constraint has specifics — dates, amounts, approval chains. A fake one stays vague no matter what you ask.\n• Walking away early preserves your position. Begging for a yes kills it permanently.\n• The name that left without chasing gets called back. The name that stayed and pushed doesn't.",
+      "principle": "BATNA — Best Alternative to a Negotiated Agreement",
+      "remember": "Decide your walk-away point before you walk in. Leave when you hit it.",
+      "theySee": "A person packing up calmly and naming one clear condition for returning, without arguing or over-explaining anything.",
+      "signals": [
+        {
+          "l": "Vague after three asks",
+          "t": "You've asked directly three times and still have no real number or date — this is a real no.",
+          "icon": "🚫"
+        },
+        {
+          "l": "No decision-maker shown",
+          "t": "Three meetings in and you've never spoken to whoever approves — they're not serious.",
+          "icon": "👤"
+        },
+        {
+          "l": "Scope keeps shrinking",
+          "t": "Every meeting the project gets smaller with no price discussion — they want free work.",
+          "icon": "📉"
+        },
+        {
+          "l": "Time but no movement",
+          "t": "Weeks go by, you send follow-ups, nothing changes — the interest was never real.",
+          "icon": "⌛"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set your limit before you go in",
+          "desc": "Decide in advance: 'If I don't have a real number and a decision date by the end of this meeting, I'm done.'"
+        },
+        {
+          "n": "2",
+          "title": "Name your condition",
+          "desc": "Say: 'I need a real budget range and a decision date to move forward. If that's not possible, I understand.'"
+        },
+        {
+          "n": "3",
+          "title": "Leave without chasing",
+          "desc": "Say: 'When that changes, reach out.' Then stop following up completely. Let the silence work for you."
+        }
+      ],
+      "script": "\"I need a real budget figure and a timeline to move forward. If that's not possible right now, I understand — reach out when things change.\"",
+      "counter": "Someone walking away to force your hand into moving first.\n• Don't chase. Let them go and give it 48 hours before you do anything.\n• If they come back in two days, they were bluffing — and now you know your position is stronger.\n• If they don't come back, you learned what the deal was actually worth to them.",
+      "insight": "The walk works until you need the deal more than they do — and they can usually tell. Your real walk-away power comes from having other options lined up before you sit down."
+    }
+  ]
+}
