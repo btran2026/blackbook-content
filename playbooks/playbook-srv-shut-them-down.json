@@ -1,0 +1,694 @@
+{
+  "meta": {
+    "id": "srv-shut-them-down",
+    "version": "1.0",
+    "title": "Shut Them Down",
+    "subtitle": "Handling the Interrupter in Every Room",
+    "description": "Twelve moves for taking back the floor, naming the pattern, and making the interrupter the problem — without losing your cool or your standing.",
+    "author": "AI",
+    "createdAt": "2026-10-04T18:04:56.692Z",
+    "tags": [
+      "meetings",
+      "influence",
+      "status",
+      "conflict",
+      "floor control"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1E1B4B",
+    "coverIcon": "✋",
+    "fromServer": true,
+    "generation": {
+      "topic": "Handling someone who keeps interrupting you in meetings",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "spot",
+      "label": "Spotting the Type",
+      "color": "#7C3AED"
+    },
+    {
+      "key": "hold",
+      "label": "Holding the Floor",
+      "color": "#2563EB"
+    },
+    {
+      "key": "shut",
+      "label": "Shutting It Down",
+      "color": "#DC2626"
+    },
+    {
+      "key": "prep",
+      "label": "Prevention & Prep",
+      "color": "#059669"
+    },
+    {
+      "key": "after",
+      "label": "After the Meeting",
+      "color": "#D97706"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "spot",
+      "danger": "low",
+      "title": "Figure Out If They're Rude or Just Wired That Way",
+      "hook": "Not every interruption is a power play. Some people cut in because they're excited. Others do it to push you out. Knowing which one changes everything about your next move.",
+      "truth": "Most people react the same way to both types — and get it wrong at least half the time.\n• Excited interrupters back off with a simple reclaim.\n• Dominant ones escalate if you ignore them.\n• Treating both the same means you over-react or do nothing at the wrong moment.",
+      "principle": "Eddy: High-Conflict Pattern Recognition",
+      "remember": "Know why they cut you off before you pick your move.",
+      "theySee": "A person at the table who talks over you the moment you pause, then carries on like nothing happened.",
+      "signals": [
+        {
+          "l": "Cuts everyone",
+          "t": "They interrupt three other people before they get to you.",
+          "icon": "👥"
+        },
+        {
+          "l": "Excited face",
+          "t": "Their face shows enthusiasm, not dismissal, when they jump in.",
+          "icon": "😀"
+        },
+        {
+          "l": "Same target",
+          "t": "They only cut off certain people — and you're one of them.",
+          "icon": "🎯"
+        },
+        {
+          "l": "No sorry",
+          "t": "They never pause or acknowledge that they talked over you.",
+          "icon": "🤐"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count the targets",
+          "desc": "Note how many times they cut off others vs. just you in one meeting."
+        },
+        {
+          "n": "2",
+          "title": "Read their face",
+          "desc": "Do they look excited, or do they look like they're pushing you out of the way?"
+        },
+        {
+          "n": "3",
+          "title": "Pick your track",
+          "desc": "Excited type: simple reclaim. Dominant type: name it out loud on the second cut."
+        }
+      ],
+      "script": "\"Actually — let me get to the end of this point, then it's yours.\"",
+      "counter": "Someone will use the 'excited' label to excuse a pattern that's actually deliberate.\n• Watch whether it happens once or every meeting.\n• Say 'let me finish' and see if they back off or push harder.\n• If they push harder every time, it's not excitement — it's a dominance move.",
+      "insight": "The faster you sort the type, the less likely you waste a firm move on someone who just talks fast — and the less likely you let a deliberate play go unchallenged."
+    },
+    {
+      "id": 2,
+      "cat": "hold",
+      "danger": "low",
+      "title": "Let the First Interruption Go — Then Return to Your Point",
+      "hook": "The first time they cut you off, do nothing. Let them finish. Then go back to your exact point like they said nothing. <strong>Most people never see this coming.</strong>",
+      "truth": "Reacting to the first interruption makes you look reactive — not the person who cut you off.\n• A non-reaction signals control, not weakness.\n• Going back to your point without a pause shows you were never knocked off track.\n• The interrupter expects a response — getting none throws them.",
+      "principle": "Fisher: First-Strike Restraint",
+      "remember": "Let the first cut go. Return to your point like nothing happened.",
+      "theySee": "A person at the table who nods, lets them finish, then continues exactly where they left off.",
+      "signals": [
+        {
+          "l": "Second wind",
+          "t": "They look ready to cut in again the moment you restart.",
+          "icon": "💨"
+        },
+        {
+          "l": "Room watches",
+          "t": "Others at the table are watching to see how you handle it.",
+          "icon": "👀"
+        },
+        {
+          "l": "Topic pull",
+          "t": "Their interruption is trying to drag the room away from your point.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Short burst",
+          "t": "The interruption is brief — they want the floor but don't have much to say.",
+          "icon": "💬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Let them finish",
+          "desc": "Show nothing on your face. No frustration, no surprise, no eye-roll."
+        },
+        {
+          "n": "2",
+          "title": "Skip their point entirely",
+          "desc": "Don't respond to what they said. Don't even glance at it."
+        },
+        {
+          "n": "3",
+          "title": "Return flat",
+          "desc": "Start with 'As I was saying —' and pick up exactly where you stopped."
+        }
+      ],
+      "script": "\"As I was saying — the number we're looking at is fourteen percent.\"",
+      "counter": "Someone may use this move on you when you interrupt them — they skip your point and keep going.\n• Notice if they return to their point without engaging yours at all.\n• Write your point down and wait for a pause to raise it.\n• Don't interrupt again to make the same point — you'll look like you're not listening.",
+      "insight": "This works once or twice. After two non-reactions and they're still cutting in, restraint stops reading as control and starts reading as permission."
+    },
+    {
+      "id": 3,
+      "cat": "hold",
+      "danger": "low",
+      "title": "Keep Talking Through the Interruption",
+      "hook": "When they cut in, most people stop. <strong>Don't.</strong> Keep your sentence going at the same speed. The room follows whoever doesn't blink.",
+      "truth": "Stopping when interrupted teaches the room that your sentences can be skipped.\n• Keeping your pace holds the floor without a fight.\n• They have to get louder to take over — which makes them look aggressive.\n• The room gives the floor to whoever keeps going calmly.",
+      "principle": "Status Asymmetry — Voice Ownership",
+      "remember": "Don't stop talking. Finish your sentence and let them work it out.",
+      "theySee": "Two people talking at once, and one of them keeps a steady voice while the other gets louder or stops.",
+      "signals": [
+        {
+          "l": "Mid-sentence start",
+          "t": "They start talking before your sentence ends — no pause, no signal.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Room splits",
+          "t": "Some people look at them, others keep watching you.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Volume jump",
+          "t": "They raise their voice to get over yours.",
+          "icon": "📢"
+        },
+        {
+          "l": "Quick trail-off",
+          "t": "They lose steam when you don't yield and their voice drops first.",
+          "icon": "📉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Lock your pace",
+          "desc": "Don't speed up or slow down — hold your exact rhythm."
+        },
+        {
+          "n": "2",
+          "title": "Keep your eyes off them",
+          "desc": "Look at whoever you were addressing. Don't acknowledge the interruption."
+        },
+        {
+          "n": "3",
+          "title": "Finish the sentence",
+          "desc": "Get to the end of your point before you acknowledge anything they said."
+        }
+      ],
+      "script": "\"— and the deadline is the fifteenth, which means we need a decision this week.\"",
+      "counter": "If someone uses this on you when you have a real point to add:\n• Don't raise your voice — you'll look aggressive and lose the room.\n• Let them finish, then use 'before we move on —' to get back in.\n• A calm second entry beats a loud first one every time.",
+      "insight": "This works when your point is worth finishing. If the point is weak, holding the floor longer just gives the room more time to notice."
+    },
+    {
+      "id": 4,
+      "cat": "hold",
+      "danger": "low",
+      "title": "Say 'To Finish My Thought' After Being Cut Off",
+      "hook": "You got cut off. They made their point. The room moved on. Three words bring everyone back: <strong>'To finish my thought.'</strong>",
+      "truth": "Most people drop their point after being cut off — and that's the real loss, not the interruption.\n• 'To finish my thought' pulls the room's attention back without a fight.\n• The interrupter has no clean answer — they wait or they look rude.\n• Done flat with no apology, it signals your point was never actually finished.",
+      "principle": "Voss: Label — Floor Reclaim",
+      "remember": "Say 'to finish my thought' and the room comes back to you.",
+      "theySee": "A person who was cut off mid-sentence, waited a beat, then picked back up like the interruption never happened.",
+      "signals": [
+        {
+          "l": "Room moved on",
+          "t": "The conversation has already shifted to a new topic.",
+          "icon": "⏩"
+        },
+        {
+          "l": "Point not closed",
+          "t": "You haven't made your full point and no one has addressed it.",
+          "icon": "⭕"
+        },
+        {
+          "l": "Your silence",
+          "t": "You went quiet for a beat but haven't spoken again since.",
+          "icon": "🤫"
+        },
+        {
+          "l": "Chair moving on",
+          "t": "The facilitator is about to call the next agenda item.",
+          "icon": "📋"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait for a breath",
+          "desc": "Let the new conversation take one beat before you come back in. Don't shout over it."
+        },
+        {
+          "n": "2",
+          "title": "Say the line flat",
+          "desc": "No apology, no softener. Just: 'To finish my thought —'"
+        },
+        {
+          "n": "3",
+          "title": "State your point in two sentences",
+          "desc": "Make it in two sentences. Stop. Don't explain why you're reclaiming."
+        }
+      ],
+      "script": "\"To finish my thought — the risk here is bigger than the slide shows, and we need to name it before we vote.\"",
+      "counter": "If someone uses this to drag back a point the room has already moved past:\n• Don't cut them off — let them finish and then move forward.\n• Say 'noted — let's make sure that goes in the notes' and redirect.\n• If they do it every meeting, mention it to the chair before the next one.",
+      "insight": "The move works because it names something unfinished and forces the room to close it. The harder question is whether your point was worth reclaiming in the first place."
+    },
+    {
+      "id": 5,
+      "cat": "shut",
+      "danger": "moderate",
+      "title": "Use a Hand Signal to Stop Them Without a Word",
+      "hook": "A raised hand stops an interruption faster than any sentence. No words needed. The room sees it. The interrupter knows exactly what it means.",
+      "truth": "Words invite argument. A clear physical signal doesn't.\n• A raised hand means stop — they have to choose to push past it.\n• It tells the room you're controlling the floor, not giving it up.\n• If they push past it anyway, the room sees the aggression as theirs, not yours.",
+      "principle": "Status Asymmetry — Non-Verbal Dominance",
+      "remember": "Show your hand. It says stop before your mouth does.",
+      "theySee": "A person at the table holding up one hand, palm out, while keeping eye contact with someone else and continuing to speak.",
+      "signals": [
+        {
+          "l": "Mid-sentence jump",
+          "t": "They start speaking before you've finished or paused.",
+          "icon": "✂️"
+        },
+        {
+          "l": "Lean forward",
+          "t": "Their body tips toward the table — they're about to talk.",
+          "icon": "⬆️"
+        },
+        {
+          "l": "Sharp breath",
+          "t": "They take a quick breath in — the tell right before a word burst.",
+          "icon": "💨"
+        },
+        {
+          "l": "Repeated cut",
+          "t": "This is the second or third time they've done it in this meeting.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Raise the hand immediately",
+          "desc": "The moment they start to cut in — palm facing them, fingers together, held firm."
+        },
+        {
+          "n": "2",
+          "title": "Don't look at them",
+          "desc": "Keep your eyes on whoever you were addressing. The hand does the work."
+        },
+        {
+          "n": "3",
+          "title": "Drop the hand when done",
+          "desc": "Only put your hand down after you finish your sentence — not before."
+        }
+      ],
+      "script": "\"[raise hand, palm out] — and that's why the Q3 number doesn't hold up under the current assumptions.\"",
+      "counter": "If someone hand-signals you when you're cutting in:\n• Stop — they've just shown the room you need managing.\n• Wait for them to finish, then say 'I want to add to that —' once they're done.\n• Pushing through the signal makes you look like the aggressor.",
+      "insight": "Works well in rooms where people are watching. On phone calls or in noisy meetings where nobody sees hands, the verbal naming move is what you need instead."
+    },
+    {
+      "id": 6,
+      "cat": "shut",
+      "danger": "moderate",
+      "title": "Name the Pattern Out Loud the Second Time They Cut You Off",
+      "hook": "The second time they cut you off, stop playing defense. Say what's happening out loud. Calm. Flat. Direct. <strong>\"I can't hear you when you interrupt me.\"</strong>",
+      "truth": "Silence after an interruption gets read as permission — every time.\n• Naming it forces them to back down or double down in front of the room.\n• Staying calm while naming it puts the pressure on them, not you.\n• Nine times out of ten, one naming is enough — they don't want the room watching.",
+      "principle": "Fisher: Pattern Interrupt — Direct Labeling",
+      "remember": "Say it out loud the second time. Silence is permission.",
+      "theySee": "A person at the table who stops, looks directly at the interrupter, and says one flat sentence without raising their voice.",
+      "signals": [
+        {
+          "l": "Second cut",
+          "t": "This is the second time they've jumped in on you in this meeting.",
+          "icon": "2️⃣"
+        },
+        {
+          "l": "No change",
+          "t": "The first non-reaction didn't slow them down at all.",
+          "icon": "➡️"
+        },
+        {
+          "l": "Room watching",
+          "t": "Others at the table have noticed and are waiting to see what you do.",
+          "icon": "👀"
+        },
+        {
+          "l": "Faster cuts",
+          "t": "Each interruption is coming faster than the last.",
+          "icon": "⏱️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop and look at them",
+          "desc": "Don't continue your point. Stop speaking and make direct eye contact."
+        },
+        {
+          "n": "2",
+          "title": "Say the line even",
+          "desc": "No sarcasm, no volume spike, no smile: 'I can't hear you when you interrupt me. Let me finish, then you go. Fair?'"
+        },
+        {
+          "n": "3",
+          "title": "Wait for the nod",
+          "desc": "Let them say 'fair' or nod. Then continue your point without commenting on the exchange."
+        }
+      ],
+      "script": "\"I can't hear you when you interrupt me. Let me finish my point, then I'll give you mine. Fair?\"",
+      "counter": "If someone uses this line on you after you've cut them off:\n• Don't argue the point — you did cut them off.\n• Say 'you're right, go ahead' and mean it.\n• Write your point down and get it in after they finish.",
+      "insight": "This works nine times out of ten — Fisher's own number. The one time it doesn't is when the interrupter has more status in the room than you do. That case needs a move that doesn't put you in a direct standoff."
+    },
+    {
+      "id": 7,
+      "cat": "prep",
+      "danger": "low",
+      "title": "Preview Your Point With a Number Before You Start",
+      "hook": "Before you say anything, tell the room how many things you have. 'I have two points on this.' Now they're waiting for both. Cutting you off mid-list looks obviously rude.",
+      "truth": "An unannounced point can be interrupted at any beat. A numbered preview creates a social contract.\n• When the room knows a list has two items, cutting in mid-point feels more obviously rude.\n• The preview signals you've thought this through — you sound prepared.\n• Serial interrupters find it harder to grab the floor from someone clearly counting down.",
+      "principle": "Cialdini: Commitment and Consistency — Pre-Commitment",
+      "remember": "Give the room a number first and they'll wait for you to finish the count.",
+      "theySee": "A person who opens with 'I have two points on this' before saying either — the table knows more is coming.",
+      "signals": [
+        {
+          "l": "Open floor",
+          "t": "There's a pause in the meeting and you have a real point to make.",
+          "icon": "🎤"
+        },
+        {
+          "l": "Fast talker present",
+          "t": "The serial interrupter is in the room and already looking restless.",
+          "icon": "🏃"
+        },
+        {
+          "l": "Complex point",
+          "t": "Your idea needs more than one sentence to land properly.",
+          "icon": "🧩"
+        },
+        {
+          "l": "High-stakes topic",
+          "t": "This agenda item affects the meeting result and can't be rushed.",
+          "icon": "⚠️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State the count first",
+          "desc": "Before anything else: 'I have two things on this.'"
+        },
+        {
+          "n": "2",
+          "title": "Announce each item",
+          "desc": "Say 'First —' and make the point. Then 'Second —' for the next."
+        },
+        {
+          "n": "3",
+          "title": "Stop after the last one",
+          "desc": "Don't add a third item after saying 'two.' Stick to the number you named."
+        }
+      ],
+      "script": "\"I have two things on this. First — the timeline doesn't work. Second — the budget doesn't either. Both need a fix before we move.\"",
+      "counter": "If someone uses a numbered preview to hold the floor for too long:\n• Let them finish — the structure they named commits them to it too.\n• If they list five things after saying 'two,' the room notices on its own.\n• After they're done, use 'before we move on from that —' to get your shot.",
+      "insight": "The preview also forces you to know what you want to say before you open your mouth. Most people don't. That discipline alone changes how the room hears you."
+    },
+    {
+      "id": 8,
+      "cat": "hold",
+      "danger": "low",
+      "title": "Acknowledge Their Point, Then Take the Floor Back",
+      "hook": "You don't have to fight for the floor. One line showing you heard them gives you the right to keep going — and the room agrees.",
+      "truth": "An interruption creates a small social debt. The interrupter needs to feel heard before they back off.\n• 'I've got that point' tells them they've been registered — they stop pushing.\n• Then you return to your sentence immediately. The floor comes with you.\n• If they push again after being acknowledged, the room sees the aggression clearly.",
+      "principle": "Voss: Tactical Empathy — Minimal Acknowledgment",
+      "remember": "Say you heard them. Then keep going. The floor is still yours.",
+      "theySee": "A person who nods at the interrupter, says one short line, then immediately continues their original point without missing a beat.",
+      "signals": [
+        {
+          "l": "Excited cut",
+          "t": "They jumped in because they were genuinely excited, not to dominate.",
+          "icon": "💡"
+        },
+        {
+          "l": "Relevant point",
+          "t": "Their interruption was actually on-topic — not a derail.",
+          "icon": "✅"
+        },
+        {
+          "l": "Room interested",
+          "t": "Others at the table seemed to lean in when the interrupter spoke.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Soft cut",
+          "t": "They started talking but trailed off, not fully grabbing the floor.",
+          "icon": "🌊"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pause and nod once",
+          "desc": "Give them one beat of eye contact. That's the acknowledgment — nothing more."
+        },
+        {
+          "n": "2",
+          "title": "Say the one-line bridge",
+          "desc": "One sentence only: 'I've got that —' or 'Good point —'. No more."
+        },
+        {
+          "n": "3",
+          "title": "Return with a connector",
+          "desc": "Use 'and —' or 'which is why I was saying —' to link back to your original point."
+        }
+      ],
+      "script": "\"I've got that — and it's exactly why what I was saying matters: we can't approve this without seeing the full numbers first.\"",
+      "counter": "If someone uses this move to acknowledge and then bury your point without addressing it:\n• Check whether they actually engaged your point or just neutralized it.\n• If they moved on without engaging it, wait for a pause: 'I want to come back to the point I raised.'\n• Don't let a smooth bridge become a dead end for your concern.",
+      "insight": "This works best when their point connects to yours. If their interruption was completely off-topic, acknowledging it can make you look like you lost your train of thought."
+    },
+    {
+      "id": 9,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Pull Them Aside After the Meeting, Not During",
+      "hook": "The meeting room is the wrong place to fix a pattern. One quiet hallway conversation after is worth five failed public callouts.",
+      "truth": "Public confrontation makes people defend themselves. Private conversation makes them hear you.\n• In public, they protect their image — in private, they can admit the problem.\n• Describing what you saw, not what they are, keeps the door open.\n• One post-meeting conversation often stops weeks of repeated behavior.",
+      "principle": "Carnegie: Private Correction Over Public Shaming",
+      "remember": "Fix the pattern in private. Public callouts make enemies, not allies.",
+      "theySee": "Two people talking quietly in a hallway after a meeting, while everyone else walks past to get coffee.",
+      "signals": [
+        {
+          "l": "Pattern confirmed",
+          "t": "This is the third or fourth meeting where it's happened.",
+          "icon": "📊"
+        },
+        {
+          "l": "In-room moves failed",
+          "t": "You named it during the meeting and they kept going.",
+          "icon": "❌"
+        },
+        {
+          "l": "Not personal",
+          "t": "You believe they may not realize how often they do it.",
+          "icon": "🤷"
+        },
+        {
+          "l": "Long-term contact",
+          "t": "You need to keep working with this person well past today.",
+          "icon": "🤝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait for the room to clear",
+          "desc": "Don't start this conversation while others are still packing up and listening."
+        },
+        {
+          "n": "2",
+          "title": "Describe what you saw",
+          "desc": "Not what you think of them — what you observed: 'I've noticed you jump in before I'm done a few times.'"
+        },
+        {
+          "n": "3",
+          "title": "Let them respond",
+          "desc": "Give them one chance to explain before you decide what to do next."
+        }
+      ],
+      "script": "\"Hey — I've noticed in the last few meetings you tend to cut in before I'm done. I wanted to say something before it became a thing.\"",
+      "counter": "If someone pulls you aside to say you interrupted them:\n• Don't get defensive — they came to fix it, not start a fight.\n• Say 'I didn't realize — I'll watch for it.' Then actually do it.\n• If you think they're wrong, wait a week and check your own behavior before pushing back.",
+      "insight": "If the private conversation changes nothing, you now have a documented attempt at resolution. That matters if you need to take it further up the chain."
+    },
+    {
+      "id": 10,
+      "cat": "prep",
+      "danger": "low",
+      "title": "Ask the Chair to Hold the Floor Before the Meeting Starts",
+      "hook": "You don't have to fight for the floor yourself if the chair is already doing it. One quick conversation before people sit down changes every meeting that follows.",
+      "truth": "The chair has authority in the room that you don't have as a participant. Use it before you walk in.\n• A pre-meeting ask turns the chair into your ally before the session starts.\n• The chair wants a clean meeting — you're giving them a tool to run it better.\n• Now every time the interrupter cuts in, the chair manages it — not you.",
+      "principle": "Greene: Law 13 — Appeal to Self-Interest",
+      "remember": "Get the chair on your side before the room fills up.",
+      "theySee": "A meeting facilitator who says 'let them finish' every time someone gets cut off — and everyone at the table sees it happen.",
+      "signals": [
+        {
+          "l": "Chair present",
+          "t": "There is a meeting leader or facilitator running the session.",
+          "icon": "🪑"
+        },
+        {
+          "l": "Pattern repeats",
+          "t": "This person has cut others off in multiple past meetings.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Pre-meeting access",
+          "t": "You have two minutes with the chair before people sit down.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Others affected",
+          "t": "Other attendees are also being cut off by the same person.",
+          "icon": "👥"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the chair early",
+          "desc": "Get to them five minutes before the meeting starts, not during."
+        },
+        {
+          "n": "2",
+          "title": "Make one ask",
+          "desc": "'Would you mind stepping in if someone gets cut off mid-point? It's been slowing things down.'"
+        },
+        {
+          "n": "3",
+          "title": "Keep the interrupter's name out of it",
+          "desc": "Make it about meeting flow, not one person. The chair doesn't want to feel like they're taking sides."
+        }
+      ],
+      "script": "\"Hey, before we start — would you mind stepping in if someone gets cut off? It's been slowing things down.\"",
+      "counter": "If you realize the chair is now being used to suppress you when you have a valid point:\n• Don't fight the chair in the room — you'll lose.\n• Request the floor directly: 'I'd like to add something before we move on.'\n• Talk to the chair separately after if the pattern keeps happening.",
+      "insight": "This works best when the interrupter doesn't know you set it up. Once they figure out the chair is watching for it, they either stop — or the chair becomes the conflict point instead of you."
+    },
+    {
+      "id": 11,
+      "cat": "hold",
+      "danger": "low",
+      "title": "Drop the Apology When You Reclaim the Floor",
+      "hook": "<strong>'Sorry, I just wanted to —'</strong> kills your point before you make it. No apology. Say your sentence flat. Nothing else.",
+      "truth": "An apology signals you believe you need permission to speak — and the room hears that louder than your point.\n• Starting with 'sorry' makes your reclaim look like a favor they're granting.\n• Saying 'to finish my thought —' flat takes the same floor with no permission asked.\n• Every apology teaches the interrupter that cutting you off costs them nothing.",
+      "principle": "Status Asymmetry — Apology as Submission Signal",
+      "remember": "No 'sorry.' Say what you were saying. Nothing else needed.",
+      "theySee": "A person who comes back to the floor and starts with a full sentence — no filler, no warm-up, no apology.",
+      "signals": [
+        {
+          "l": "Habit opener",
+          "t": "You start your reclaim with 'I just —' or 'sorry, but —' without noticing.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Soft volume",
+          "t": "Your voice drops when you come back in, making you sound uncertain.",
+          "icon": "🔈"
+        },
+        {
+          "l": "Filler words",
+          "t": "You open with 'um' or 'so' for two seconds before getting to the point.",
+          "icon": "💭"
+        },
+        {
+          "l": "Over-explain",
+          "t": "You spend fifteen seconds explaining why you're reclaiming before making the actual point.",
+          "icon": "⏳"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Cut the opener",
+          "desc": "Before you speak, drop any line that starts with 'I just,' 'sorry,' or 'I only wanted to.'"
+        },
+        {
+          "n": "2",
+          "title": "Lead with the subject",
+          "desc": "Start with the thing, not with you: 'The deadline —' or 'The budget figure —'"
+        },
+        {
+          "n": "3",
+          "title": "Stop after two sentences",
+          "desc": "Make the point in two sentences. Stop there. Don't explain why you came back."
+        }
+      ],
+      "script": "\"To finish my thought — we need a week more than the current plan allows. That's the change I'm recommending.\"",
+      "counter": "If someone reclaims the floor with apologies and you want their point:\n• Nod once — you're not granting permission, just signaling go ahead.\n• Don't fill their pause for them — let them get there.\n• If they spend more time apologizing than making the point, that's their problem to fix.",
+      "insight": "This is a habit, not a one-time move. You won't fix it in one meeting. Record yourself in two or three sessions and count the apologies. The number will be higher than you expect."
+    },
+    {
+      "id": 12,
+      "cat": "shut",
+      "danger": "high",
+      "title": "Document It and Take It to Your Manager When Nothing Else Works",
+      "hook": "You've named it. You've talked to them privately. They keep going. At some point you stop trying to manage it yourself and make it someone else's problem to solve.",
+      "truth": "Repeated interrupting after a private conversation is a dominance play. Treat it like one.\n• A manager told about a documented pattern tracks the person differently afterward.\n• One calm, factual escalation changes what the interrupter risks by continuing.\n• Without documentation, it's your word against theirs — and they'll claim they didn't know.",
+      "principle": "Power Base Shift — Documented Escalation",
+      "remember": "When private moves fail, document it and take it up the chain.",
+      "theySee": "Someone walking into a manager's office with a short written summary of what happened and when it happened.",
+      "signals": [
+        {
+          "l": "Private talk failed",
+          "t": "You spoke to them directly and the behavior didn't change.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Three meetings",
+          "t": "The pattern has shown up in at least three separate sessions.",
+          "icon": "📅"
+        },
+        {
+          "l": "Others saw it",
+          "t": "Other team members have noticed or mentioned it to you.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Chair tried",
+          "t": "The meeting facilitator has stepped in and they still kept going.",
+          "icon": "⛔"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the log",
+          "desc": "List the last three times it happened: date, meeting name, what they said and what you did."
+        },
+        {
+          "n": "2",
+          "title": "Request a short one-on-one",
+          "desc": "Ask your manager for fifteen minutes. Lead with facts, not feelings."
+        },
+        {
+          "n": "3",
+          "title": "Ask for one concrete result",
+          "desc": "Name what you want: a direct conversation with the interrupter, or a change to meeting facilitation."
+        }
+      ],
+      "script": "\"I want to flag something. In the last three team meetings, [name] has cut me off before I can finish. I spoke to them about it and it continued. I'd like your help addressing it.\"",
+      "counter": "If someone escalates against you for interrupting in meetings:\n• Don't treat it as an attack — treat it as information that your behavior is registering badly.\n• Go to your manager first and say you heard there's a concern — get ahead of it.\n• Ask for specific examples, not a general label. Then fix the specific behavior.",
+      "insight": "Escalation works when it's the last move in a sequence that's been tried and logged. Going to management before naming the pattern directly turns you into the problem."
+    }
+  ]
+}
