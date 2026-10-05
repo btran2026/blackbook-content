@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 90,
+  "manifestVersion": 91,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -832,7 +832,20 @@
       "url": "playbooks/playbook-srv-after-everything-i-did-for-you.json",
       "addedAt": "2026-10-03T00:04:32.872Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-inconsistency-file",
+      "title": "The Inconsistency File",
+      "theme": "deception",
+      "topic": "Catching the inconsistencies in a liar's story",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "🔍",
+      "url": "playbooks/playbook-srv-the-inconsistency-file.json",
+      "addedAt": "2026-10-05T21:36:45.739Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-03T00:04:32.872Z"
+  "generatedAt": "2026-10-05T21:36:45.739Z"
 }

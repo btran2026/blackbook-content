@@ -1,0 +1,700 @@
+{
+  "meta": {
+    "id": "srv-the-inconsistency-file",
+    "version": "1.0",
+    "title": "The Inconsistency File",
+    "subtitle": "Reading Lies Through the Cracks in Their Story",
+    "description": "A tactical dossier on catching liars through verbal slips, body tells, omissions, and the limits of what any single signal can prove. Twelve cards. Each one goes deeper into the same file.",
+    "author": "AI",
+    "createdAt": "2026-10-05T21:36:45.739Z",
+    "tags": [
+      "deception",
+      "interrogation",
+      "psychology",
+      "lie detection",
+      "body language",
+      "statement analysis"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "🔍",
+    "fromServer": true,
+    "generation": {
+      "topic": "Catching the inconsistencies in a liar's story",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "detection",
+      "label": "Spotting Patterns",
+      "color": "#2d3561"
+    },
+    {
+      "key": "verbal",
+      "label": "Verbal Signals",
+      "color": "#8b2fc9"
+    },
+    {
+      "key": "nonverbal",
+      "label": "Body Tells",
+      "color": "#c23b22"
+    },
+    {
+      "key": "questioning",
+      "label": "Questioning Moves",
+      "color": "#1a6b3c"
+    },
+    {
+      "key": "analysis",
+      "label": "Story Analysis",
+      "color": "#b5451b"
+    },
+    {
+      "key": "limits",
+      "label": "Limits & Errors",
+      "color": "#4a4e69"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "detection",
+      "danger": "low",
+      "title": "Let the Story Accuse Them",
+      "hook": "Confronting a liar gives them something to fight. <strong>Asking for more detail gives the story nowhere to hide.</strong>",
+      "truth": "Liars manage what they say. The longer they talk, the harder that managing gets.\n• A calm follow-up question pulls more words out — and more words means more facts to contradict.\n• Each new detail added is one more fact that must fit the last one they gave.\n• The trap is silence after they finish: they fill it with damage.",
+      "principle": "Greene: Law 4 — Always Say Less Than Necessary (inverted)",
+      "remember": "Stay quiet. Ask for more. The story will break itself.",
+      "theySee": "A person nodding slowly and asking a follow-up question with no edge in their voice.",
+      "signals": [
+        {
+          "l": "Story grows",
+          "t": "They add new details each time you ask for clarification, without being asked for specifics.",
+          "icon": "📖"
+        },
+        {
+          "l": "Long pause",
+          "t": "They pause longer than usual before answering a simple follow-up question.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Question flipped",
+          "t": "They turn the question back on you instead of answering what you asked.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Unsolicited reason",
+          "t": "They give reasons you didn't ask for, before you've questioned a single claim.",
+          "icon": "💬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three follow-up questions now",
+          "desc": "Before the conversation, write three 'tell me more about...' questions. Pick the moments in the story that feel thinnest."
+        },
+        {
+          "n": "2",
+          "title": "Ask one question, then go quiet",
+          "desc": "After they answer, say nothing for five full seconds. Count internally. Let the silence pull more out of them."
+        },
+        {
+          "n": "3",
+          "title": "Note what changes between tellings",
+          "desc": "Write down any detail that shifts between the first and second telling — time, place, who was there."
+        }
+      ],
+      "script": "\"Walk me through exactly what happened between [time A] and [time B].\"",
+      "counter": "You're being drawn into repeating a story you thought you'd already finished.\n• Notice when follow-up questions come in clusters — someone is hunting for gaps.\n• Answer only what was asked; adding helpful detail makes your story harder to hold.\n• Ask what specifically seems unclear — it narrows their search and resets the dynamic.",
+      "insight": "The harder part is holding the silence long enough — most people fill it themselves, which is exactly what someone with a prepared story is counting on."
+    },
+    {
+      "id": 2,
+      "cat": "verbal",
+      "danger": "low",
+      "title": "Find the Internal Contradiction",
+      "hook": "Words that fight each other are the clearest signal a liar gives you. <strong>Everything else is a guess. This is as close to evidence as you'll get.</strong>",
+      "truth": "Internal contradictions — where the speaker's own words don't match each other — have the strongest research backing of any deception signal.\n• An effect size of 0.34 makes it the top verbal cue, but it is still not proof on its own.\n• A liar says X, then implies not-X three sentences later without noticing.\n• The move is logging both statements and reading them back next to each other.",
+      "principle": "Verbal Credibility Assessment: Internal Consistency",
+      "remember": "When their words fight each other, you have something real.",
+      "theySee": "A person writing notes during the conversation and not reacting to the story in real time.",
+      "signals": [
+        {
+          "l": "Time mismatch",
+          "t": "They give two different times for the same event in the same conversation.",
+          "icon": "🕐"
+        },
+        {
+          "l": "Name switch",
+          "t": "A person in the story changes their name or role partway through the telling.",
+          "icon": "👤"
+        },
+        {
+          "l": "Number flip",
+          "t": "A count they gave earlier — people, calls, days — doesn't match a number they give now.",
+          "icon": "🔢"
+        },
+        {
+          "l": "Deny then detail",
+          "t": "They deny knowing something, then give a specific detail that requires knowing it.",
+          "icon": "❗"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log the first specific claim exactly",
+          "desc": "When they state a specific fact — a time, a name, a number — write it down exactly as said. Don't paraphrase."
+        },
+        {
+          "n": "2",
+          "title": "Ask an indirect follow-up ten minutes later",
+          "desc": "Ask a question that requires them to re-use the same fact without pointing back to their first statement."
+        },
+        {
+          "n": "3",
+          "title": "Read both claims back together",
+          "desc": "Say their first claim out loud, then their second. Don't accuse — just read them together and wait."
+        }
+      ],
+      "script": "\"Earlier you said [claim A]. Just now you said [claim B]. Walk me through how both of those are true.\"",
+      "counter": "Someone is logging your exact words and comparing them across the conversation.\n• Pause before each new detail — don't add specifics you didn't need to give.\n• If you realize you've contradicted yourself, name it yourself before they do.\n• Ask them to say back what they heard; it slows the comparison and resets the room.",
+      "insight": "An effect size of 0.34 is the best number deception research has — which means one in three contradictions still doesn't mean a lie, and the next question is what you do with probable cause instead of proof."
+    },
+    {
+      "id": 3,
+      "cat": "nonverbal",
+      "danger": "moderate",
+      "title": "Watch the Body Disagree with the Mouth",
+      "hook": "Nodding yes while saying no isn't a slip. <strong>It's the body keeping score when the words have stopped.</strong>",
+      "truth": "A body that runs against the words is a stronger signal than either channel alone. Researchers call this nonverbal leakage.\n• A truth-teller's body moves with their words — a denial looks and sounds like a denial.\n• A liar's body responds to the real event, not the invented story being told.\n• The clearest documented case: showing fear or distress on the face while verbally denying a claim.",
+      "principle": "Ekman: Nonverbal Leakage",
+      "remember": "Look at what the body does when the mouth says no.",
+      "theySee": "A person setting their pen down, looking up from their notes, and watching the speaker's face and hands.",
+      "signals": [
+        {
+          "l": "Head disagrees",
+          "t": "They shake their head 'no' slightly while verbally confirming something they claim is true.",
+          "icon": "🤦"
+        },
+        {
+          "l": "Fear on denial",
+          "t": "Their face shows distress or fear in the exact moment they deny an accusation.",
+          "icon": "😟"
+        },
+        {
+          "l": "Body locks up",
+          "t": "Their body goes very still exactly when they make the key claim — not relaxed, locked.",
+          "icon": "🧊"
+        },
+        {
+          "l": "Expression late",
+          "t": "Their facial expression arrives after their words rather than during them — the face is catching up.",
+          "icon": "⏱️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one body part and watch only that",
+          "desc": "Choose just the hands or just the face before the conversation starts. Watching both at once means you miss both."
+        },
+        {
+          "n": "2",
+          "title": "Log what the body does at the key claim",
+          "desc": "When they make the specific denial or assertion — not before, not after — note the body's exact reaction at that moment."
+        },
+        {
+          "n": "3",
+          "title": "Compare that moment to the rest of the conversation",
+          "desc": "Their normal movement shows up across the whole conversation. The leakage only stands out against that baseline."
+        }
+      ],
+      "script": "\"You said you weren't there. Tell me again, slowly, what you were doing at that time.\"",
+      "counter": "Someone is reading your body during the moments you make your core claims, not during the rest of the conversation.\n• Slow down before the key statement; rushing and using big gestures hides nothing.\n• Make sure your body has already done what your words are about to do — feel the denial before you speak it.\n• Ask for a break before any high-stakes moment; agitation reads the same as guilt even when it isn't.",
+      "insight": "Nonverbal cues alone were weaker signals than cues matched against verbal content — which means the reader who only watches the body is solving half the puzzle and calling it done."
+    },
+    {
+      "id": 4,
+      "cat": "verbal",
+      "danger": "low",
+      "title": "Make Them Tell It Again",
+      "hook": "A true story is stable. <strong>A made-up one shifts because it was never a memory — it was a performance.</strong>",
+      "truth": "When a liar retells a story, details change because there is no real event anchoring them.\n• Truth-tellers miss details too, but the core facts stay fixed across multiple tellings.\n• Liars change details that feel small to them but are structurally important.\n• The second telling is where you compare — not where you confront.",
+      "principle": "Cognitive Load Theory: Memory vs. Construction",
+      "remember": "Ask for the story twice. What changes between tellings is what matters.",
+      "theySee": "A person saying 'I just want to make sure I understood that right' and then asking to hear the story again from the start.",
+      "signals": [
+        {
+          "l": "Person added",
+          "t": "The second telling includes someone who wasn't mentioned in the first.",
+          "icon": "➕"
+        },
+        {
+          "l": "Time moved",
+          "t": "The story happens at a different time in the second telling than in the first.",
+          "icon": "🕐"
+        },
+        {
+          "l": "Detail gone",
+          "t": "Something mentioned in the first telling is absent in the second with no explanation.",
+          "icon": "➖"
+        },
+        {
+          "l": "Tone shifts",
+          "t": "The emotional tone of the story changes on retelling — angrier, flatter, or calmer than the first time.",
+          "icon": "🎭"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get the first telling without interrupting",
+          "desc": "Let them finish the whole story before asking anything. Note the three most specific facts stated: time, place, and who was present."
+        },
+        {
+          "n": "2",
+          "title": "Ask again from a different starting point",
+          "desc": "Say: 'Start from when you first noticed something was wrong.' Same events, different entry point — inconsistencies surface at the joins."
+        },
+        {
+          "n": "3",
+          "title": "Map what changed side by side",
+          "desc": "Write both versions next to each other. Look for structural changes — a new person added, a time moved by hours — not minor memory slips."
+        }
+      ],
+      "script": "\"Let me make sure I have this right — tell me again from the start, from when you first got there.\"",
+      "counter": "Being asked to retell a story you've already told is a comparison setup, not a comprehension check.\n• If you told it once and they ask again, give exactly the same story — don't add detail to be helpful.\n• Say: 'I think I covered this already. What specifically do you need clarified?'\n• Every improvement you make to the story is a new inconsistency waiting to be found.",
+      "insight": "The hardest part isn't catching the change — it's deciding which changes are real inconsistencies and which are just how honest memory works when someone's nervous."
+    },
+    {
+      "id": 5,
+      "cat": "questioning",
+      "danger": "moderate",
+      "title": "Ask for Clarity, Not Accusation",
+      "hook": "The moment you accuse, the conversation becomes about the accusation. <strong>Keep it about the story and the story keeps doing the work.</strong>",
+      "truth": "Accusation shuts down what someone says. Clarification opens it. Liars give detail when they think they're just explaining.\n• 'What do you mean by that?' pulls more words out without sounding like a challenge.\n• More words means more facts that can contradict each other.\n• The liar wants to end the story; you want to keep it going.",
+      "principle": "Voss: Calibrated Questions",
+      "remember": "Ask what they mean. Don't say what you think. Let them talk more.",
+      "theySee": "A person looking genuinely curious, nodding, and saying 'what do you mean by that' with no edge in their voice.",
+      "signals": [
+        {
+          "l": "Answer balloons",
+          "t": "They give much longer answers to simple questions than the question required.",
+          "icon": "🎈"
+        },
+        {
+          "l": "Unsolicited detail",
+          "t": "They add context you didn't ask for before you've even asked a follow-up.",
+          "icon": "📢"
+        },
+        {
+          "l": "Anchor phrase",
+          "t": "They keep returning to one specific phrase or detail as if locking onto it for safety.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Topic rush",
+          "t": "They try to close the topic quickly after answering, pushing the conversation forward.",
+          "icon": "⏩"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Prepare three calibrated questions",
+          "desc": "Write 'How did that happen?', 'What exactly did you mean by [their word]?', and 'Walk me through what happened right after.' Use all three in sequence."
+        },
+        {
+          "n": "2",
+          "title": "Pick a word from their last answer and ask about it",
+          "desc": "Choose one specific word they just used and ask about it directly. This shows you're tracking closely without signaling suspicion."
+        },
+        {
+          "n": "3",
+          "title": "End without giving a verdict",
+          "desc": "Close the conversation with 'Thanks, that helps' — give them no read on whether you believed them. The hunt continues later."
+        }
+      ],
+      "script": "\"What exactly did you mean when you said [their word or phrase]?\"",
+      "counter": "You're being drawn into elaborating on a story you should be closing down.\n• Answer the specific question asked — do not add context beyond the direct answer.\n• If questions feel systematic and increasing, they are — stop offering background.\n• Say: 'I think I've covered this. What specific part are you still unclear on?'",
+      "insight": "The longer they ask 'what do you mean,' the closer they are to the detail you didn't want to give — and you won't know which one they're after until it's already out."
+    },
+    {
+      "id": 6,
+      "cat": "analysis",
+      "danger": "moderate",
+      "title": "Read What They Left Out",
+      "hook": "Liars manage what they say. <strong>They rarely think to manage the gaps between what they say.</strong>",
+      "truth": "Omissions — things missing from a story that should logically be there — are the first thing statement analysis looks for.\n• A complete account includes reactions, surroundings, and what the person did immediately after.\n• When those are missing, it's often because including them would break the story.\n• The question 'and then what?' fills gaps without sounding like a trap.",
+      "principle": "SCAN: Scientific Content Analysis",
+      "remember": "What they skipped tells you as much as what they said.",
+      "theySee": "A person reading back their notes and asking a question about a gap in the timeline.",
+      "signals": [
+        {
+          "l": "No reaction stated",
+          "t": "They describe a shocking event but say nothing about how they felt or reacted in the moment.",
+          "icon": "😶"
+        },
+        {
+          "l": "Time jump",
+          "t": "The story leaps across a block of time without explaining what happened in it.",
+          "icon": "⏭️"
+        },
+        {
+          "l": "Person disappears",
+          "t": "Someone mentioned early in the story is never referred to again with no explanation.",
+          "icon": "👻"
+        },
+        {
+          "l": "No next step",
+          "t": "The story ends abruptly — they don't say what they did immediately after the main event.",
+          "icon": "🔚"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map the timeline on paper",
+          "desc": "After they tell the story, write out the full timeline. Mark every gap of more than thirty minutes that has no account."
+        },
+        {
+          "n": "2",
+          "title": "Ask about their reaction, not the facts",
+          "desc": "Ask: 'What did you do right when you found out?' Reactions are hard to make up and easy to leave out."
+        },
+        {
+          "n": "3",
+          "title": "Name the missing person or event",
+          "desc": "Say: 'You mentioned [name] at the start — what were they doing while all this was happening?'"
+        }
+      ],
+      "script": "\"You mentioned [person or event] earlier. What was happening with that while [main event] was going on?\"",
+      "counter": "Someone is mapping your story's timeline for holes you didn't know you left.\n• Before telling a story, walk the full timeline in your head and fill every gap you can explain.\n• If you realize you skipped something, name it as a memory gap before they point to it.\n• Ask what specific part of the timeline they're asking about — it narrows their search.",
+      "insight": "The gap they're most interested in is the one you didn't think to fill — which means the safest gaps to leave are the ones anyone would miss, and those are the first ones a practiced reader checks."
+    },
+    {
+      "id": 7,
+      "cat": "limits",
+      "danger": "low",
+      "title": "Know What the Signals Can't Tell You",
+      "hook": "Every technique in this file has a failure rate. <strong>Effect sizes in deception research are small. You are working with probable cause, not proof.</strong>",
+      "truth": "The strongest deception signal in the research — internal verbal contradiction — has an effect size of 0.34. No single cue proves a lie.\n• Effect size of 0.34 means the signal is real but nowhere near certain.\n• A false positive pins someone honest; every signal here can produce one.\n• The goal is finding areas that need more investigation, not closing the case.",
+      "principle": "Signal Detection Theory: Base Rate Problem",
+      "remember": "A signal is not a verdict. Several signals together are not proof either.",
+      "theySee": "A person taking notes carefully and not reacting visibly to what they're hearing.",
+      "signals": [
+        {
+          "l": "One tell only",
+          "t": "You've spotted exactly one signal and nothing else in the conversation supports it.",
+          "icon": "1️⃣"
+        },
+        {
+          "l": "High stakes present",
+          "t": "The situation is high-pressure — fear and stress produce the same signals deception does.",
+          "icon": "🎯"
+        },
+        {
+          "l": "No baseline set",
+          "t": "You have no prior observation of this person behaving normally to compare against.",
+          "icon": "❓"
+        },
+        {
+          "l": "Story holds clean",
+          "t": "The story is internally consistent and you're hunting for a reason not to believe it anyway.",
+          "icon": "🔍"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count signals, not impressions",
+          "desc": "Before deciding anything, list every specific signal you observed — not feelings, not gut reads. Fewer than three signals means you don't have a case yet."
+        },
+        {
+          "n": "2",
+          "title": "Write the honest explanation for each signal",
+          "desc": "For every signal you logged, write the most direct explanation that doesn't involve lying. If it fits, you need more information."
+        },
+        {
+          "n": "3",
+          "title": "Design the next question, don't announce what you think",
+          "desc": "Use what you found to shape the next conversation. Announcing your conclusion ends the information flow."
+        }
+      ],
+      "script": "\"I want to make sure I'm understanding this correctly. Can we go through that part one more time?\"",
+      "counter": "If someone is uncertain about what they've found, they'll keep the conversation going with this exact move.\n• If you've done nothing wrong, repeated questioning can feel like accusation — name that clearly.\n• Ask what specifically seems unclear rather than retelling the whole story.\n• Notice whether the questions are getting tighter or staying general — tighter means they found something.",
+      "insight": "The FBI notes that investigators miss the most reliable signals because they're too focused on checking story consistency — which means the reader who only hunts for contradictions is already missing the second half of this file."
+    },
+    {
+      "id": 8,
+      "cat": "detection",
+      "danger": "moderate",
+      "title": "Measure Against Their Normal",
+      "hook": "A behavior that looks suspicious on a stranger is nothing on someone you know. <strong>Deviation from baseline is the signal. The baseline is the tool.</strong>",
+      "truth": "Behavior different from a person's norm is a real deception signal. Behavior different from what you expect is not.\n• You need to know how they act when they're not under pressure before you can read them under it.\n• Nervous people look like liars. Calm liars look like honest people. Baseline separates both.\n• A tell is only a tell if it's different from how this specific person normally acts.",
+      "principle": "Reid Technique: Behavioral Norm Baseline",
+      "remember": "You need to know their normal before you can read the change.",
+      "theySee": "A person asking light, easy questions at the start of a conversation before any real topic comes up.",
+      "signals": [
+        {
+          "l": "No comparison",
+          "t": "You're reading signals without having watched this person in a low-stakes moment first.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Speech pace shifts",
+          "t": "Their pace, word length, or sentence structure changes from how they normally talk.",
+          "icon": "🔤"
+        },
+        {
+          "l": "Posture change",
+          "t": "Their body position shifts noticeably when the topic of conversation changes.",
+          "icon": "🪑"
+        },
+        {
+          "l": "Eye pattern breaks",
+          "t": "Their eye contact frequency — how long and how often — breaks from their normal without obvious cause.",
+          "icon": "👁️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open with three low-stakes questions",
+          "desc": "Ask about something you already know the honest answer to. Watch how they sit, speak, and make eye contact. That is your baseline."
+        },
+        {
+          "n": "2",
+          "title": "Shift to the real topic without announcing it",
+          "desc": "Move to the subject in question without a preamble. Compare their behavior now to what you just logged."
+        },
+        {
+          "n": "3",
+          "title": "Track shifts, not snapshots",
+          "desc": "You're looking for what changed, not what's present. A single behavior proves nothing. The change from baseline is what counts."
+        }
+      ],
+      "script": "\"Before we get into it, tell me how the whole thing started — the early days, before any of this happened.\"",
+      "counter": "Low-stakes opening questions are sometimes used to build your behavioral profile before the real conversation begins.\n• Answer early questions with the same energy you plan to use for the hard ones.\n• Behavioral consistency across the whole conversation is your defense — not just at the key moments.\n• If the conversation feels unusually warm before the hard topic arrives, notice the structure.",
+      "insight": "The baseline only works once per conversation — they adapt after they realize you're building one, which means the first few minutes of any conversation are the only ones that give you clean data."
+    },
+    {
+      "id": 9,
+      "cat": "questioning",
+      "danger": "high",
+      "title": "Use Two Questions to Open the Contradiction",
+      "hook": "One question lets them manage the answer. <strong>Two questions pulling at the same event from different directions let the story manage itself.</strong>",
+      "truth": "The two-question technique asks about the same event from two angles and then places both answers side by side.\n• Question one: 'What happened?' — they give you the version they prepared.\n• Question two: 'What would [a third party] say happened?' — they have to build a second account on the spot.\n• The gap between those two answers is where the contradiction lives.",
+      "principle": "Cognitive Load Theory: Perspective-Taking Under Deception",
+      "remember": "Ask what happened. Then ask what someone else would say happened.",
+      "theySee": "A person asking a second question that sounds like a casual follow-up to the first one.",
+      "signals": [
+        {
+          "l": "Second answer slower",
+          "t": "The perspective question takes much longer to answer than the story question, even though it sounds simpler.",
+          "icon": "🐢"
+        },
+        {
+          "l": "Qualifies more",
+          "t": "The second answer includes more 'I think' and 'probably' than the first one did.",
+          "icon": "🤔"
+        },
+        {
+          "l": "Third party absent",
+          "t": "They can't say what the third party would say, or claim the third party wasn't there.",
+          "icon": "👥"
+        },
+        {
+          "l": "Versions diverge",
+          "t": "The two answers describe the same event with different people present or a different sequence of events.",
+          "icon": "↔️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Get their full story without interrupting",
+          "desc": "Let them tell the whole story in their own words. Don't stop them. This is their prepared version — let it run."
+        },
+        {
+          "n": "2",
+          "title": "Pause, then ask the perspective question",
+          "desc": "Wait, then ask: 'What do you think [someone who was there] would say happened?' Use a real name they already gave you."
+        },
+        {
+          "n": "3",
+          "title": "Read one fact from each answer back together",
+          "desc": "Name one specific fact from the first answer and one from the second. Don't accuse — read them next to each other and stay quiet."
+        }
+      ],
+      "script": "\"And what do you think [name] would say happened, if I asked them directly?\"",
+      "counter": "The perspective question is designed to make you build a second version of your own story from scratch.\n• Answer it with exactly the facts you gave in the first version — no new information.\n• If you genuinely don't know what the third party would say, state that clearly rather than guessing.\n• A guess produces a new set of facts that can contradict your original account.",
+      "insight": "This works because building another person's account requires you to hold two stories in your head at once — and the version that slips is almost always the one you built, not the one you actually lived."
+    },
+    {
+      "id": 10,
+      "cat": "limits",
+      "danger": "moderate",
+      "title": "Separate Lying from Fear",
+      "hook": "Fear looks like lying. Embarrassment looks like lying. Trauma looks like lying. <strong>You are reading signals that have more than one cause.</strong>",
+      "truth": "The FBI's own research warns that signals read as deception often come from embarrassment, fear of the interviewer, or fear of what the truth will cost.\n• A witness who fears the person asking will show the same signals as a liar.\n• A person embarrassed by the true story omits details the same way a liar does.\n• The signal tells you where to probe next — not what to conclude.",
+      "principle": "Signal Detection Theory: False Positive Error",
+      "remember": "Every deception signal has an honest explanation too. Check it.",
+      "theySee": "A person who is nervous being asked question after question by someone with more power in the room.",
+      "signals": [
+        {
+          "l": "High pressure",
+          "t": "The conversation involves authority, real consequences, or embarrassment — any of which produce the same signals lying does.",
+          "icon": "😰"
+        },
+        {
+          "l": "True but awkward",
+          "t": "They leave out something that turns out to be embarrassing and true — not deceptive.",
+          "icon": "🫢"
+        },
+        {
+          "l": "Eyes down",
+          "t": "They look away consistently — but this is also how many people behave when genuinely recalling something hard.",
+          "icon": "👀"
+        },
+        {
+          "l": "Sounds rehearsed",
+          "t": "Their account sounds prepared — but truthful people who expect a hard conversation prepare too.",
+          "icon": "📋"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Lower the pressure before the key question",
+          "desc": "Slow your tone and say: 'Take your time.' An honest person who's scared will relax slightly. A liar usually won't."
+        },
+        {
+          "n": "2",
+          "title": "Offer a route to embarrassing truth",
+          "desc": "Say: 'Is there anything in this that's hard to say out loud, even if it's completely true?' Give them a way to be honest without losing face."
+        },
+        {
+          "n": "3",
+          "title": "Check if the signal disappears after pressure drops",
+          "desc": "If you lower the stakes and the signal disappears, it was fear. If it stays, it is worth tracking further."
+        }
+      ],
+      "script": "\"Is there anything in this story that's awkward to say out loud, even if it's true?\"",
+      "counter": "Being read as nervous or evasive when you're just scared or embarrassed is a real problem in high-stakes conversations.\n• Name the awkwardness yourself first: 'This is uncomfortable to say, but here's what happened' separates nerves from the story.\n• Ask directly what they're trying to find out so you can answer it directly.\n• If you're nervous because the conversation is hard, say so — it separates the nerves from the content.",
+      "insight": "The reader who can't tell fear from lying will always get one wrong — and the one they get wrong first is almost always the honest person who just looks scared."
+    },
+    {
+      "id": 11,
+      "cat": "analysis",
+      "danger": "moderate",
+      "title": "Stop Checking the Story and Watch the Edges",
+      "hook": "Investigators who chase story consistency miss the signals that slip out at the edges. <strong>The liar knows the story needs to hold — they've rehearsed that part.</strong>",
+      "truth": "The FBI found that focusing only on story consistency lets the better signals slip by. Liars prepare the story. They can't prepare everything.\n• A skilled liar keeps the story consistent — that part has been rehearsed well.\n• What they can't rehearse is every expression, every voice shift, every body reaction.\n• Verbal and nonverbal details at the edges of the story carry the uncontrolled leakage.",
+      "principle": "FBI: Verbal and Nonverbal Leakage Analysis",
+      "remember": "The liar prepared the story. They did not prepare everything else.",
+      "theySee": "A person who has stopped writing and is now watching the speaker's face and hands instead of the notes.",
+      "signals": [
+        {
+          "l": "Story holds clean",
+          "t": "No obvious internal contradictions in the story, but the body or face keeps running against it.",
+          "icon": "✅"
+        },
+        {
+          "l": "Voice pace shifts",
+          "t": "The speed or tone of their voice changes noticeably when they reach one specific part of the story.",
+          "icon": "🎤"
+        },
+        {
+          "l": "Expression late",
+          "t": "Facial expressions arrive slightly after the words, as if the face is catching up to what was just said.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Emotion wrong",
+          "t": "The feeling they show doesn't match the emotion you'd expect the situation to produce.",
+          "icon": "🎭"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Listen without looking for the first two minutes",
+          "desc": "Set your pen down and listen only to tone, pace, and word choice. Don't track the story yet — just the how."
+        },
+        {
+          "n": "2",
+          "title": "Watch without listening for thirty seconds",
+          "desc": "Pick a moment in the conversation and focus only on face and hands. Ignore the words. Note what the body is doing that the words are not."
+        },
+        {
+          "n": "3",
+          "title": "Find where both channels break at once",
+          "desc": "When the voice shifts AND the body changes at the same moment, that part of the story is worth circling back to."
+        }
+      ],
+      "script": "\"You sounded different when you got to that part. Tell me more about what was happening then.\"",
+      "counter": "A reader tracking both voice and body at the same time is much harder to manage than one who's only checking your facts.\n• Control your voice pace deliberately, especially at the moments you're most likely to speed up or go flat.\n• The moment you feel most confident the story is solid is when the body is most likely to leak — slow down there.\n• If the person comments on how you said something rather than what you said, they have shifted to leakage mode.",
+      "insight": "The liars caught by this move are not the ones with bad stories — they're the ones with good stories and bodies that keep telling the truth anyway."
+    },
+    {
+      "id": 12,
+      "cat": "analysis",
+      "danger": "moderate",
+      "title": "Cross the Channels Before You Conclude",
+      "hook": "One channel out and the other clean means you have a question. <strong>Both channels breaking at the same moment means you have something worth going back to.</strong>",
+      "truth": "Verbal and nonverbal signals together are more reliable than either one alone. The point where both break is the point that matters.\n• A liar manages the story — they cannot simultaneously manage voice and body in every moment.\n• When verbal content, voice, and body all shift at the same moment, that moment is worth returning to.\n• The move is not concluding — it's marking the moment and circling back later.",
+      "principle": "Vrij: Multi-Channel Deception Analysis",
+      "remember": "One signal is a question. Two at once means look closer.",
+      "theySee": "A person who pauses mid-conversation and then asks to go back to one specific moment in the story.",
+      "signals": [
+        {
+          "l": "Both shift together",
+          "t": "Voice pace and body position change at the exact same moment in the story.",
+          "icon": "🔀"
+        },
+        {
+          "l": "Sync lost briefly",
+          "t": "What they say and what they show were in sync all conversation, then stopped being in sync for a few seconds.",
+          "icon": "📡"
+        },
+        {
+          "l": "One channel only",
+          "t": "You're getting a signal from words or from the body — but not from both at the same moment.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Fast return",
+          "t": "After the moment of mismatch, they return to their normal behavior quickly — not gradually.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Mark the moment without reacting",
+          "desc": "When you see two channels break at once, note exactly what they were saying. Keep the conversation going. Don't react."
+        },
+        {
+          "n": "2",
+          "title": "Return to that moment from a different angle",
+          "desc": "Ten minutes later, ask a question that brings them back to the same point without pointing back to it. See if both channels break again."
+        },
+        {
+          "n": "3",
+          "title": "Build your next question around that moment",
+          "desc": "Say: 'Earlier when you mentioned [X], tell me more about what was happening then.' That specific moment becomes the next question."
+        }
+      ],
+      "script": "\"Go back to when you [specific moment where both channels broke]. Walk me through that more carefully.\"",
+      "counter": "If someone circles back to one specific moment in your story, they've found where both channels broke.\n• Before the conversation, find the two or three moments where you're least certain and slow down there deliberately.\n• A repeated return to the same moment is not random — answer it more slowly and with more specific detail than the rest.\n• If you can't make both channels consistent at a specific moment, build a real reason for the emotion showing there.",
+      "insight": "The hardest part isn't finding the moment where both channels break — it's deciding what to do when neither confrontation nor a conclusion is the right next move, and you still need more."
+    }
+  ]
+}
