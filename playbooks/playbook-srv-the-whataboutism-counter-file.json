@@ -1,0 +1,593 @@
+{
+  "meta": {
+    "id": "srv-the-whataboutism-counter-file",
+    "version": "1.0",
+    "title": "The Whataboutism Counter File",
+    "subtitle": "Stay on Topic When They Don't Want You To",
+    "description": "10 moves for keeping a conversation on track when the other person tries to change the subject instead of answering.",
+    "author": "AI",
+    "createdAt": "2026-10-06T19:19:01.391Z",
+    "tags": [
+      "debate",
+      "argumentation",
+      "rhetoric",
+      "persuasion",
+      "dark psychology"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🎯",
+    "fromServer": true,
+    "generation": {
+      "topic": "Countering whataboutism without getting dragged off-topic",
+      "cardCount": 10,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "detect",
+      "label": "Spotting the Move",
+      "color": "#4A4A6A"
+    },
+    {
+      "key": "redirect",
+      "label": "Redirecting to Topic",
+      "color": "#2D6A4F"
+    },
+    {
+      "key": "name-it",
+      "label": "Naming It Out Loud",
+      "color": "#C77DFF"
+    },
+    {
+      "key": "hold",
+      "label": "Holding Your Position",
+      "color": "#E63946"
+    },
+    {
+      "key": "counter-tactic",
+      "label": "Using It Against Them",
+      "color": "#F4A261"
+    },
+    {
+      "key": "endgame",
+      "label": "Knowing When to Stop",
+      "color": "#264653"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "detect",
+      "danger": "low",
+      "title": "Spot the Deflection Before You Chase It",
+      "hook": "They didn't argue your point. <strong>They pointed at someone else and waited for you to follow.</strong>",
+      "truth": "Whataboutism fires when the other person has no defense left.\n• They point to a rival's offense to make your argument look hypocritical.\n• Your focus shifts, and your original point loses its weight.\n• The trap: you end up defending the side issue instead of pressing yours.",
+      "principle": "Tu Quoque Fallacy",
+      "remember": "They ran out of answers so they changed the question.",
+      "theySee": "A person in a conversation who suddenly brings up a completely different problem and waits for a response.",
+      "signals": [
+        {
+          "l": "Subject jump",
+          "t": "They respond to your point by naming a completely different topic.",
+          "icon": "🔀"
+        },
+        {
+          "l": "Counter-question",
+          "t": "They answer your statement with 'but what about X?' instead of addressing it.",
+          "icon": "❓"
+        },
+        {
+          "l": "Rival named",
+          "t": "They bring up a third party's bad behavior as if it cancels yours.",
+          "icon": "👆"
+        },
+        {
+          "l": "Original point skipped",
+          "t": "They never actually denied or explained the original point you made.",
+          "icon": "🚫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Catch the switch",
+          "desc": "Write the original topic in one sentence before you respond. If their response doesn't address it, you've spotted the move."
+        },
+        {
+          "n": "2",
+          "title": "Pause three seconds",
+          "desc": "Don't react to the new topic. Silence signals you noticed the switch and you're not following."
+        },
+        {
+          "n": "3",
+          "title": "Name what just happened",
+          "desc": "Say out loud that the original topic hasn't been addressed. One sentence. Don't explain further."
+        }
+      ],
+      "script": "\"That's a different topic. You haven't addressed [original point] yet.\"",
+      "counter": "Whataboutism can be a real counter-argument if the comparison is actually relevant.\n• Check: does their 'what about' directly affect the claim you made?\n• If yes, engage it. If no, call it out and return to your point.\n• Don't use 'whataboutism' as a shutdown word when the comparison is fair.",
+      "insight": "The move works because your brain wants to chase the new problem. The harder part is staying put when the new topic sounds important too."
+    },
+    {
+      "id": 2,
+      "cat": "redirect",
+      "danger": "low",
+      "title": "Acknowledge the Side Point, Then Pull Back to Topic",
+      "hook": "You don't have to fight the distraction. <strong>Acknowledge it and pull the conversation back.</strong> Most people can't follow you once you do.",
+      "truth": "Agreeing that their side point exists removes their fuel without giving up your ground.\n• You signal you heard them, so they stop pushing the distraction.\n• Then you return to your original point before they can reset.\n• They look unreasonable if they keep deflecting after you've acknowledged them.",
+      "principle": "Moderator Redirect — De Bono: Parallel Thinking",
+      "remember": "Agree their point exists, then go right back to yours.",
+      "theySee": "A person who nods, says 'noted,' and then goes straight back to the original topic without drama.",
+      "signals": [
+        {
+          "l": "They repeat it",
+          "t": "They bring up the side issue a second time because you didn't acknowledge it the first time.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Tone softens",
+          "t": "They push less hard after you say their point exists.",
+          "icon": "📉"
+        },
+        {
+          "l": "Room watching",
+          "t": "Others in the conversation are waiting to see who controls the next sentence.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Their point is true",
+          "t": "The whatabout refers to something real — which is why they keep offering it.",
+          "icon": "✅"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Agree in one sentence",
+          "desc": "Say 'That's a real issue' or 'That problem exists.' Don't debate the side topic. Nothing more."
+        },
+        {
+          "n": "2",
+          "title": "Restate your original point",
+          "desc": "Follow immediately with 'And the original question was [X].' Use the same words you used before."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a direct answer",
+          "desc": "End with a specific question that forces engagement with your original topic. Don't leave them a door to slip back through."
+        }
+      ],
+      "script": "\"You're right, that's also a problem. But we haven't finished with [original issue] yet — what's your answer there?\"",
+      "counter": "Someone is using this move on you when they agree quickly and pivot before you can press.\n• Notice: did they give any actual answer, or just say 'fair point' and move on?\n• Ask the original question again, word for word.\n• Three times without an answer means they have no answer.",
+      "insight": "Acknowledgment only works as a redirect if you move fast. Wait more than ten seconds between agreeing and returning, and the side topic owns the room."
+    },
+    {
+      "id": 3,
+      "cat": "name-it",
+      "danger": "moderate",
+      "title": "Name the Tactic Out Loud",
+      "hook": "Calling whataboutism by name stops most people cold. <strong>The word itself becomes the counter-argument.</strong>",
+      "truth": "Naming the fallacy forces the other person to defend the tactic or drop it.\n• Most people don't want to be seen using a propaganda trick in public.\n• The audience hears the label and starts watching the deflector, not you.\n• Risk: sounds arrogant if the deflection wasn't obvious. Only use it when clear.",
+      "principle": "Ad Hominem / Tu Quoque — Named Pattern Exposure",
+      "remember": "Say the word. Most people won't admit they just did it.",
+      "theySee": "A person who confidently names what just happened in the conversation without raising their voice.",
+      "signals": [
+        {
+          "l": "No direct answer",
+          "t": "They changed the subject without responding to your specific point.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Third party blamed",
+          "t": "They named a rival or unrelated party to shift blame away from themselves.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Point left hanging",
+          "t": "Everyone in the room can see they didn't address what you said.",
+          "icon": "🙈"
+        },
+        {
+          "l": "Audience shifting",
+          "t": "Others in the conversation are watching to see if you'll follow the deflection.",
+          "icon": "👀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait for the full deflection",
+          "desc": "Let them finish. Don't interrupt. The longer they go off-topic, the clearer the label will land."
+        },
+        {
+          "n": "2",
+          "title": "Name it in one sentence",
+          "desc": "Say: 'That's whataboutism — you're pointing at someone else instead of answering.' No extra words."
+        },
+        {
+          "n": "3",
+          "title": "Return to the question",
+          "desc": "Ask your original question again immediately after naming the tactic. Don't pause for debate on the label."
+        }
+      ],
+      "script": "\"That's whataboutism — you're pointing at [X] instead of answering the question about [original topic].\"",
+      "counter": "They may throw the label back at you when you raise a legitimate comparison.\n• Check: is my example directly connected to the claim, or just pointing elsewhere?\n• If connected, explain the link in one sentence.\n• If not connected, you're doing it too — drop the example.",
+      "insight": "The label lands hardest when the audience already sees the deflection. Use it one beat too early and you sound defensive. The timing gap is the entire move."
+    },
+    {
+      "id": 4,
+      "cat": "hold",
+      "danger": "low",
+      "title": "Return to the Same Question Every Time They Deflect",
+      "hook": "Whoever controls the topic controls the conversation. <strong>Keep returning to the same sentence until they answer or refuse.</strong>",
+      "truth": "Repeating the same point makes it harder to keep deflecting without looking evasive.\n• Repetition signals to the audience that the original question is still open.\n• It forces the other person to either answer or openly refuse to answer.\n• Don't rephrase. The exact words you used first are your anchor.",
+      "principle": "Positional Control — Voss: Label",
+      "remember": "Repeat the same question until they answer it or refuse.",
+      "theySee": "A person in a debate who calmly restates the same question every time the other person changes the subject.",
+      "signals": [
+        {
+          "l": "Long answer, no point",
+          "t": "They talk for a minute and still haven't touched your original claim.",
+          "icon": "💬"
+        },
+        {
+          "l": "New topic introduced",
+          "t": "They bring in a second unrelated issue after the first deflection failed.",
+          "icon": "➕"
+        },
+        {
+          "l": "Room getting restless",
+          "t": "Others in the conversation sense the person isn't answering.",
+          "icon": "😒"
+        },
+        {
+          "l": "They speed up",
+          "t": "They start talking faster to fill the space and stop you from cutting back in.",
+          "icon": "⏩"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your anchor sentence",
+          "desc": "Before the conversation, write the original question in one sentence. That sentence is your anchor — return to it word for word."
+        },
+        {
+          "n": "2",
+          "title": "Return after each deflection",
+          "desc": "Every time they go off-topic, say 'We haven't answered [anchor sentence] yet.' Don't debate the side topic first."
+        },
+        {
+          "n": "3",
+          "title": "Count out loud",
+          "desc": "After three deflections, say: 'That's the third time we've left this question open.' Name the number. The audience hears it."
+        }
+      ],
+      "script": "\"We're still on [original question]. Can you answer that first before we move to the next thing?\"",
+      "counter": "Someone may use repetition to pressure you into answering a loaded or unfair question.\n• Check: is the question honest, or does it assume something false?\n• If the question is loaded, name the false assumption before answering.\n• Don't let repetition alone pressure you into accepting their premise.",
+      "insight": "Repeating a question looks stubborn in a one-on-one. It looks principled in front of a room. Know which situation you're in before you use it."
+    },
+    {
+      "id": 5,
+      "cat": "hold",
+      "danger": "low",
+      "title": "Pause Before You Follow the Deflection",
+      "hook": "A three-second pause after they deflect is harder to sit in than you think. <strong>For them, not you.</strong>",
+      "truth": "Most deflections survive because the target responds immediately and chases the new topic.\n• Silence after a deflection makes the speaker own their move in front of others.\n• The audience reads silence as confidence, not weakness.\n• The person who speaks next after a pause sets the direction for what follows.",
+      "principle": "Loss Aversion — Silence as Pressure",
+      "remember": "Let them hear how empty the deflection sounds before you respond.",
+      "theySee": "A person who does not immediately react, takes a breath, then goes straight back to the original point.",
+      "signals": [
+        {
+          "l": "Fast pivot",
+          "t": "They changed the subject within one sentence — rushing signals they expect you to follow.",
+          "icon": "💨"
+        },
+        {
+          "l": "Filler words",
+          "t": "They add 'you know' or 'but look' to soften the pivot and pull you in.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Eye contact drops",
+          "t": "They look away right after the deflection, checking if it landed.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Volume rises",
+          "t": "They get louder to cover the gap where an argument should be.",
+          "icon": "🔊"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count three seconds",
+          "desc": "After they finish deflecting, say nothing for three full seconds. Let the room feel the gap."
+        },
+        {
+          "n": "2",
+          "title": "Return without rushing",
+          "desc": "Start your response slowly. Don't match their pace. Say the original topic again before anything else."
+        },
+        {
+          "n": "3",
+          "title": "Don't explain the pause",
+          "desc": "Don't say 'I was just thinking' or 'sorry.' The pause was intentional. Treat it that way."
+        }
+      ],
+      "script": "\"[Three second pause.] That doesn't address [original point]. What's your answer there?\"",
+      "counter": "Someone may use silence on you to pressure you into filling the gap with things you didn't plan to say.\n• Notice: did they ask a real question or just stop talking?\n• If they stopped talking, ask them what they want to know.\n• Don't volunteer information to fill silence they created on purpose.",
+      "insight": "The pause works in person. On text or email, it disappears. You need a different move there — restate the original question word for word and ask for a direct answer."
+    },
+    {
+      "id": 6,
+      "cat": "redirect",
+      "danger": "low",
+      "title": "Shorten Your Point Every Time You Restate It",
+      "hook": "The longer your original point was, the easier it is to deflect. <strong>Shorten it. Then repeat it.</strong>",
+      "truth": "A point stated in one sharp sentence is harder to dodge than a paragraph.\n• Short restatements stay in the audience's head while the deflector talks.\n• Fewer words means fewer things for them to attack or pivot off of.\n• Each time you return to a shorter version, the deflector loses ground.",
+      "principle": "Anchoring Effect — Kahneman: Cognitive Accessibility",
+      "remember": "Shorten the point every time you restate it. Simple beats long.",
+      "theySee": "A person who says the same thing they said before, but in fewer words, each time they bring it back.",
+      "signals": [
+        {
+          "l": "Long original claim",
+          "t": "You stated your point in multiple sentences, giving them many angles to deflect from.",
+          "icon": "📄"
+        },
+        {
+          "l": "They pick one word",
+          "t": "They isolate one part of your multi-sentence point and attack only that.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Audience eyes drift",
+          "t": "People in the room start to lose track of what the original claim was.",
+          "icon": "😵"
+        },
+        {
+          "l": "Deflector picks apart",
+          "t": "They attack different sub-points each time, never engaging your main claim.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Compress your original point",
+          "desc": "Take your original statement and cut it to ten words or fewer. Write it down before the conversation if you can."
+        },
+        {
+          "n": "2",
+          "title": "Use that sentence every time you return",
+          "desc": "Every redirect goes through that one sentence. Don't add context. The short version is your anchor."
+        },
+        {
+          "n": "3",
+          "title": "Say it slower each time",
+          "desc": "Each time you restate, speak slightly more slowly. Pace signals confidence. Speed signals you're chasing."
+        }
+      ],
+      "script": "\"The question is simple: [ten words or fewer]. What's your answer to that?\"",
+      "counter": "Someone may compress your argument so hard they distort it — turning a nuanced point into something you didn't say.\n• If they restate your argument, ask: 'Is that what I said?'\n• Correct the distortion in one sentence, then return to your actual point.\n• Don't argue their version. Argue yours.",
+      "insight": "Short points are easier to repeat — and easier to misquote. The cleaner your anchor sentence, the harder it is to twist. Get it exactly right before the conversation starts."
+    },
+    {
+      "id": 7,
+      "cat": "counter-tactic",
+      "danger": "moderate",
+      "title": "Agree With Their Example and Use It Against Them",
+      "hook": "Sometimes their 'what about' is true — and you can still win with it. <strong>Agreeing with their example doesn't mean agreeing with their conclusion.</strong>",
+      "truth": "Accepting their side point and showing it supports your argument leaves them with nothing.\n• They expected you to fight the example. When you agree, their attack collapses.\n• 'That proves my point — this is a widespread problem' closes the trap.\n• This works when your argument is about a pattern, not a single incident.",
+      "principle": "Strategic Concession — Lucas Method (Cold War Counter-Whataboutism)",
+      "remember": "Agree with their example. Show it proves your point anyway.",
+      "theySee": "A person who says 'yes, that happened too — which is exactly why this matters.'",
+      "signals": [
+        {
+          "l": "Example is accurate",
+          "t": "Their 'what about' refers to something real that actually happened.",
+          "icon": "✅"
+        },
+        {
+          "l": "Pattern case",
+          "t": "Their example fits the same category as the original issue you raised.",
+          "icon": "📊"
+        },
+        {
+          "l": "They expect a fight",
+          "t": "They look ready for you to deny or push back on their example.",
+          "icon": "🥊"
+        },
+        {
+          "l": "Connection not made",
+          "t": "Others in the room haven't yet connected the side example to your main argument.",
+          "icon": "🔗"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Confirm their example is real",
+          "desc": "Say 'Yes, that happened.' Don't qualify it. Full agreement lands harder than 'yes, but.'"
+        },
+        {
+          "n": "2",
+          "title": "Connect it to your argument",
+          "desc": "In one sentence, show how their example is another case of the same problem you named. 'That's the same pattern — exactly what I'm pointing at.'"
+        },
+        {
+          "n": "3",
+          "title": "Ask the follow-up question",
+          "desc": "End with: 'So we agree this is a real problem. What should be done about it?' Now you're both talking about your topic again."
+        }
+      ],
+      "script": "\"Yes, that happened too. Which proves this is a bigger problem than one case — exactly what I've been saying.\"",
+      "counter": "Someone may agree with your point and then claim it supports their opposite conclusion.\n• Ask them to explain the connection in one sentence.\n• If the logic doesn't hold, say: 'I don't see how that follows.'\n• Make them state the link explicitly. Vague connections fall apart under direct questions.",
+      "insight": "The move only works when your argument is about a pattern or a principle. If your argument is about one specific incident and they bring a different incident, agreeing proves nothing — you've just validated a distraction."
+    },
+    {
+      "id": 8,
+      "cat": "endgame",
+      "danger": "low",
+      "title": "Recognize You've Won When They Whatabout",
+      "hook": "When someone deflects instead of answering, <strong>they've given up the argument.</strong> The question is whether you know it.",
+      "truth": "A deflection is a public admission that they can't defend the original position.\n• The audience reads it as a retreat, even if no one says it out loud.\n• Pressing harder after they deflect often makes you look aggressive, not right.\n• Note the non-answer and let the room hold it. That's the whole move.",
+      "principle": "Burden of Proof — Hitchens's Razor",
+      "remember": "They already lost. Don't keep fighting a person who surrendered.",
+      "theySee": "A person who states calmly that a question went unanswered, then stops pushing.",
+      "signals": [
+        {
+          "l": "Third deflection",
+          "t": "They've changed the subject three times without answering the original question.",
+          "icon": "3️⃣"
+        },
+        {
+          "l": "Room has noticed",
+          "t": "Others in the conversation have visibly picked up on the pattern.",
+          "icon": "🎓"
+        },
+        {
+          "l": "No new argument",
+          "t": "They haven't introduced anything new — only new topics to chase.",
+          "icon": "♻️"
+        },
+        {
+          "l": "They get louder",
+          "t": "Volume and speed increase as a substitute for a real point.",
+          "icon": "📢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the non-answer",
+          "desc": "Say '[Original question] hasn't been answered. I'll note that.' One sentence. No elaboration."
+        },
+        {
+          "n": "2",
+          "title": "Stop pushing",
+          "desc": "Don't ask the question a fourth time. Let the silence hold. The audience will do the work."
+        },
+        {
+          "n": "3",
+          "title": "Move the conversation forward",
+          "desc": "Shift to the next point or offer to address their side topic on your terms. 'We can come back to that. Here's the next issue.'"
+        }
+      ],
+      "script": "\"That question still hasn't been answered. I'll leave that there and we can move on.\"",
+      "counter": "Someone may declare victory after you've declined to chase a side issue.\n• Don't accept the idea that staying on topic means you couldn't answer theirs.\n• Say: 'I stayed on topic. The answer to [original question] is [X].' Then give it.\n• Silence that isn't intentional looks like retreat. Give the direct answer.",
+      "insight": "Knowing when you've won is rarer than knowing how to fight. The hardest part is stopping when you're ahead instead of grinding until they admit it — which they usually won't."
+    },
+    {
+      "id": 9,
+      "cat": "detect",
+      "danger": "moderate",
+      "title": "Spot Whataboutism Without the Words 'What About'",
+      "hook": "Not all deflections come wrapped in a question. <strong>Some look like a counter-argument until you notice they never addressed what you said.</strong>",
+      "truth": "Whataboutism often comes as a statement, a story, or an example — not a direct question.\n• The test isn't the words they use — it's whether they addressed your original claim.\n• Watch for third-party naming: any rival brought in to shift blame is the signal.\n• If your original point is still sitting there unanswered after they spoke, that's the tell.",
+      "principle": "Tu Quoque — Disguised Ad Hominem",
+      "remember": "If they talked a long time and still didn't answer, it's still a deflection.",
+      "theySee": "A person making a long, confident-sounding statement that turns out to be about someone completely different from the original subject.",
+      "signals": [
+        {
+          "l": "Statement, not answer",
+          "t": "They gave a full sentence in response, but it was about a different subject entirely.",
+          "icon": "📢"
+        },
+        {
+          "l": "Third party named",
+          "t": "A rival or outside group entered the conversation without being connected to the topic.",
+          "icon": "🧑‍⚖️"
+        },
+        {
+          "l": "Original claim untouched",
+          "t": "After they spoke, your original point had not been agreed with, denied, or explained.",
+          "icon": "🎈"
+        },
+        {
+          "l": "Audience nods along",
+          "t": "Others in the room follow the new topic as if it answered yours — the deflection worked.",
+          "icon": "🐑"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Test for deflection",
+          "desc": "After they finish speaking, ask yourself: did they agree, deny, or explain my original point? If no to all three, it's a deflection."
+        },
+        {
+          "n": "2",
+          "title": "Separate their statement",
+          "desc": "Acknowledge what they said in one sentence. Then state that it didn't address the original point. Don't mix the two."
+        },
+        {
+          "n": "3",
+          "title": "Name what's missing",
+          "desc": "Say: '[Original point] is still open. You talked about [X], which is a different subject.' Name both topics so the room sees the gap."
+        }
+      ],
+      "script": "\"That's about [X]. We were talking about [original topic]. Those are two different things.\"",
+      "counter": "If someone calls your argument a disguised deflection, ask them to name the point they think you didn't address.\n• If they can name it, answer it directly.\n• If they can't name it, the accusation doesn't stick.\n• Don't accept the label without them showing the logical gap.",
+      "insight": "This version of the move is harder to call out because it looks like a real argument. The tell is always the same: your original claim is sitting there unanswered. The form of their response doesn't matter — only what it left untouched."
+    },
+    {
+      "id": 10,
+      "cat": "endgame",
+      "danger": "moderate",
+      "title": "Know When to Park a Side Topic and When to Engage It",
+      "hook": "Not every side topic is a distraction. <strong>Some are real issues that deserve their own conversation — just not this one.</strong>",
+      "truth": "The difference between a deflection and a real counter-point is whether it directly affects the original claim.\n• Park it: the side topic is real but unrelated — offer to handle it separately.\n• Press it: the side topic directly changes your argument — engage briefly, then return.\n• Dismissing a real counter-point makes you look like the one avoiding the question.",
+      "principle": "Strategic Priority — De Bono: Selective Engagement",
+      "remember": "Decide fast whether their point is connected or just loud.",
+      "theySee": "A person who quickly decides whether a raised issue is relevant, handles it in one sentence, and returns to where they were.",
+      "signals": [
+        {
+          "l": "Side topic is real",
+          "t": "Their example is accurate and worth a conversation — just not right now.",
+          "icon": "📌"
+        },
+        {
+          "l": "Directly affects claim",
+          "t": "Their counter-example, if true, would actually change your original argument.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "You hesitate",
+          "t": "You're not sure if their point is relevant — you're thinking while they watch.",
+          "icon": "🤔"
+        },
+        {
+          "l": "Multiple side topics",
+          "t": "They've raised more than one unrelated issue, each pulling you further from the original.",
+          "icon": "🌪️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide in five seconds",
+          "desc": "Ask: does their point, if true, change the answer to my original claim? Yes = engage it. No = park it. Don't take longer than five seconds."
+        },
+        {
+          "n": "2",
+          "title": "Handle it in one sentence",
+          "desc": "Park it: 'That's worth discussing separately — let's finish this first.' Press it: 'That's connected — here's how it fits.' One sentence either way."
+        },
+        {
+          "n": "3",
+          "title": "Return to the original claim immediately",
+          "desc": "Whatever you did with the side topic, go back to your anchor sentence next. The original claim stays on the table."
+        }
+      ],
+      "script": "\"That's a separate issue — let's come back to it. We're still on [original topic].\"",
+      "counter": "Someone may use 'we'll come back to it' to park your legitimate point and never return.\n• If they park your point, set a time: 'Fine — after this, we address that.'\n• If they never return, name it: 'We parked that earlier. I want it now.'\n• Don't let 'later' mean 'never.'",
+      "insight": "The real skill is the five-second decision, not the redirect. Get it wrong — press a real deflection or park a real counter — and you've either wasted time or given up ground you didn't have to give."
+    }
+  ]
+}
