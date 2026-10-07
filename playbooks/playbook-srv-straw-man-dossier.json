@@ -1,0 +1,595 @@
+{
+  "meta": {
+    "id": "srv-straw-man-dossier",
+    "version": "1.0",
+    "title": "Straw Man Dossier",
+    "subtitle": "Spot the Swap. Restore Your Real Point.",
+    "description": "A field guide to one of the most common moves in academic and professional argument. Learn to see the swap before it sets, name the gap without starting a fight, and hold your real claim when they keep rebuilding the fake one.",
+    "author": "AI",
+    "createdAt": "2026-10-07T19:44:44.102Z",
+    "tags": [
+      "argumentation",
+      "logic",
+      "debate",
+      "fallacies",
+      "rhetoric",
+      "academic",
+      "defense"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#0d1b2a",
+    "coverIcon": "⚖️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting a strawman and restoring your real point",
+      "cardCount": 10,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "anatomy",
+      "label": "Anatomy",
+      "color": "#4a1942",
+      "description": "How the fallacy works and why it lands"
+    },
+    {
+      "key": "patterns",
+      "label": "Patterns",
+      "color": "#784212",
+      "description": "Common forms and real-world examples"
+    },
+    {
+      "key": "detect",
+      "label": "Detection",
+      "color": "#1a3a5c",
+      "description": "Spotting the move in the moment"
+    },
+    {
+      "key": "restore",
+      "label": "Restoration",
+      "color": "#145a32",
+      "description": "Getting your real point back on the table"
+    },
+    {
+      "key": "defense",
+      "label": "Defense",
+      "color": "#7b241c",
+      "description": "Holding your position when they keep pushing"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "anatomy",
+      "danger": "moderate",
+      "title": "The Fake Version of Your Argument Wins by Default",
+      "hook": "They don't beat your point. They replace it with a weaker one and beat that instead.",
+      "truth": "The swap happens fast — most people start defending the fake version without noticing.\n• The attacker rebuilds your claim as more extreme or absolute than you stated it.\n• You feel pulled to defend the new claim — now you're off your actual ground.\n• The trap closes when you forget what you originally said.",
+      "principle": "Straw Man Fallacy — Walton: Dialogue Theory",
+      "remember": "They attacked a point you never made. Catch it before you chase it.",
+      "theySee": "A speaker who heard a distorted version of their argument and is now trying to decide whether it was really what they said.",
+      "signals": [
+        {
+          "l": "Paraphrase heard",
+          "t": "They lead with 'So you're saying...' before launching their attack.",
+          "icon": "👂"
+        },
+        {
+          "l": "Extreme language",
+          "t": "Their rebuttal uses absolutes — always, never, everyone — where you used qualifiers.",
+          "icon": "📢"
+        },
+        {
+          "l": "No quote",
+          "t": "Their whole attack contains none of your original words, only their version.",
+          "icon": "📝"
+        },
+        {
+          "l": "Oversized attack",
+          "t": "Their rebuttal is far louder and stronger than your original point needed to warrant.",
+          "icon": "🎯"
+        }
+      ],
+      "steps": [
+        {
+          "n": "01",
+          "title": "Write your claim before the conversation",
+          "desc": "Put your core point in one sentence before you enter any discussion where it might be challenged."
+        },
+        {
+          "n": "02",
+          "title": "Compare what they attack to what you said",
+          "desc": "When they respond, hold their version of your claim next to your original. Note every word that changed."
+        },
+        {
+          "n": "03",
+          "title": "State your original claim before you answer anything",
+          "desc": "Say your actual point out loud before responding to their attack. This puts both versions in the room."
+        }
+      ],
+      "script": "\"That's not what I said. Let me put my actual point back on the table: [restate your claim].\"",
+      "counter": "If someone calls straw man on you, find out whether they're right before you defend yourself.\n• Ask: 'Can you quote what I actually said?'\n• Listen for whether they quote you or paraphrase with added extremes.\n• If you did distort their claim, correct it. If not, hold your rebuttal.",
+      "insight": "The fake version wins by default only when you let it sit long enough to feel real — the question is how fast you notice."
+    },
+    {
+      "id": 2,
+      "cat": "patterns",
+      "danger": "moderate",
+      "title": "Watch Your Qualifiers — They Strip Them Out First",
+      "hook": "You said 'some.' They heard 'all.' That one word swap is the whole move.",
+      "truth": "Qualifiers are the load-bearing parts of a careful claim. Remove them and the claim collapses into something easy to mock.\n• Strip 'some roles' and the argument becomes 'everyone should do this.'\n• The extreme version is easy to attack. The original, precise version was not.\n• The tell: the word you never said is now the center of their attack.",
+      "principle": "Qualifier Omission — Aristotle's Fallacy of Accident",
+      "remember": "You said some. They changed it to all. Take your word back.",
+      "theySee": "A debater attacking an absolute claim that the speaker never made.",
+      "signals": [
+        {
+          "l": "Missing word",
+          "t": "They use 'always' or 'all' where you said 'sometimes' or 'some.'",
+          "icon": "🔍"
+        },
+        {
+          "l": "Wider scope",
+          "t": "They argue about everyone when you were talking about a specific group or situation.",
+          "icon": "📐"
+        },
+        {
+          "l": "Mocking tone",
+          "t": "They use sarcasm as if your point is obviously absurd — because their version of it is.",
+          "icon": "🙄"
+        },
+        {
+          "l": "Oversized attack",
+          "t": "Their rebuttal is far more forceful than your original qualified claim would have required.",
+          "icon": "💥"
+        }
+      ],
+      "steps": [
+        {
+          "n": "01",
+          "title": "Write your qualifier before the meeting",
+          "desc": "Identify the exact limiting word in your claim — 'some,' 'in certain cases,' 'for specific roles' — and write it down."
+        },
+        {
+          "n": "02",
+          "title": "Check whether it survived their paraphrase",
+          "desc": "When they respond, ask yourself: is my qualifier still there? If not, the swap has already started."
+        },
+        {
+          "n": "03",
+          "title": "Reinsert the qualifier before answering",
+          "desc": "Put your original limiting word back into the conversation before you defend anything. Do not answer their absolute version."
+        }
+      ],
+      "script": "\"I said 'some roles,' not all of them. Can we stay with that specific claim?\"",
+      "counter": "If your paraphrase drops someone's qualifier, you've handed them the same move.\n• Ask yourself: did they say 'some' or 'all'? Go back and check.\n• Say: 'I may have overstated your position — let me use your words.'\n• Rebuild your rebuttal from their qualified version, not the absolute one.",
+      "insight": "The harder problem is when you didn't state your qualifier clearly enough to begin with — then the strip isn't a move, it's a gap you left open."
+    },
+    {
+      "id": 3,
+      "cat": "patterns",
+      "danger": "moderate",
+      "title": "They Pushed Your Claim to Its Most Extreme Version",
+      "hook": "You made a careful, moderate point. They turned it into the most radical version possible and attacked that.",
+      "truth": "A moderate claim is hard to attack. So they take the direction of your argument and push it to its farthest edge.\n• They swap your middle-ground position for an extreme form that's easy to dismiss.\n• Now you either defend the extreme — and look unreasonable — or back off entirely.\n• The counter: catch the push, restate the original, refuse to defend the extreme.",
+      "principle": "Extremity Swap — Straw Man by Exaggeration",
+      "remember": "Your point was moderate. Don't defend the extreme version they invented.",
+      "theySee": "Someone refusing to engage a careful, limited claim and instead attacking a version that sounds radical.",
+      "signals": [
+        {
+          "l": "Scale jump",
+          "t": "They respond to a much larger or more absolute version of your proposal.",
+          "icon": "📊"
+        },
+        {
+          "l": "Loaded summary",
+          "t": "They open with 'So you want to...' followed by something you never proposed.",
+          "icon": "🎭"
+        },
+        {
+          "l": "No engagement",
+          "t": "They skip over what you said and build their attack entirely on their paraphrase.",
+          "icon": "⏭️"
+        },
+        {
+          "l": "Crowd confusion",
+          "t": "Others in the room look puzzled by the gap between your words and the attack.",
+          "icon": "😕"
+        }
+      ],
+      "steps": [
+        {
+          "n": "01",
+          "title": "Find where your claim was pushed",
+          "desc": "Identify the exact point at which your moderate position became an extreme version in their restatement."
+        },
+        {
+          "n": "02",
+          "title": "Name the gap between the two versions",
+          "desc": "State your original position and their version side by side. Name what changed. Don't explain why it changed."
+        },
+        {
+          "n": "03",
+          "title": "Ask them to respond to the moderate version",
+          "desc": "Say: 'That's a stronger claim than the one I made. Here's what I actually said. Can you respond to that?'"
+        }
+      ],
+      "script": "\"That's a stronger claim than the one I made. What I actually said was [restate]. Can you respond to that version?\"",
+      "counter": "If you've been pushing someone's claim to its extreme, the correction will come fast.\n• Ask yourself: where exactly did I get that reading from what they said?\n• If they can show you, adjust your rebuttal to their actual position.\n• If they can't show you, ask again before assuming intent.",
+      "insight": "Some people push to the extreme on purpose. Some do it because your original point was genuinely vague. Knowing which is which determines whether this is a debate or a different kind of conversation."
+    },
+    {
+      "id": 4,
+      "cat": "detect",
+      "danger": "low",
+      "title": "\"So You're Saying...\" Is the Phrase That Starts the Swap",
+      "hook": "The moment you hear 'So you're saying...' or 'So you think...', stop. What follows is often not what you said.",
+      "truth": "This phrase signals a paraphrase is coming — and the paraphrase is usually the fake version.\n• Attackers use it to insert an extreme or false version of your point before their rebuttal.\n• It sounds like clarification. It is often the beginning of the swap.\n• Your move: compare what follows to your actual words before you keep talking.",
+      "principle": "Straw Man Detection — Walton: Burden of Proof in Dialogue",
+      "remember": "Hear 'so you're saying' and pause. Check what comes next against what you said.",
+      "theySee": "A listener nodding at a paraphrase that does not match what the speaker actually said.",
+      "signals": [
+        {
+          "l": "Paraphrase mismatch",
+          "t": "The words after 'so you're saying' don't match what was said in the original.",
+          "icon": "🔀"
+        },
+        {
+          "l": "Volume increase",
+          "t": "They say it louder and more confidently, as if the new version is obviously true.",
+          "icon": "🔊"
+        },
+        {
+          "l": "Quick pivot",
+          "t": "They move immediately from the paraphrase into an attack without checking whether it's right.",
+          "icon": "↩️"
+        },
+        {
+          "l": "No exact quote",
+          "t": "They never use your exact words — only their interpretation of them.",
+          "icon": "💬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "01",
+          "title": "Treat the phrase as a trigger to pause",
+          "desc": "Train yourself to pause every time you hear 'so you're saying' — before you respond to anything."
+        },
+        {
+          "n": "02",
+          "title": "Compare their version to yours",
+          "desc": "Mentally check every word they use against what you actually said. Note any additions, removals, or scale changes."
+        },
+        {
+          "n": "03",
+          "title": "Correct the paraphrase before anything else",
+          "desc": "If their version doesn't match yours, say so before engaging their rebuttal. Don't let the wrong version get established."
+        }
+      ],
+      "script": "\"Hold on — that's not quite what I said. Let me give you my actual point again: [restate].\"",
+      "counter": "If someone calls out your paraphrase of them as inaccurate:\n• Ask them to state their actual position again.\n• Listen without inserting your interpretation.\n• Rebuild your rebuttal from their words, not yours.",
+      "insight": "The phrase is a tool in both directions — learning to use it accurately, rather than as a swap, makes your paraphrases a different kind of asset."
+    },
+    {
+      "id": 5,
+      "cat": "restore",
+      "danger": "low",
+      "title": "Say Your Real Point Again Before You Answer Their Attack",
+      "hook": "If you respond to the fake version, you make it real. Say your actual point before you defend anything.",
+      "truth": "Answering the distorted version treats it as the real one. The audience remembers what got answered.\n• Restate your actual claim before you defend anything — one sentence is enough.\n• With your point on record, the audience can compare both versions side by side.\n• A ten-second restate saves a ten-minute argument about what you meant.",
+      "principle": "Aristotle's Elenchus — Restatement Protocol",
+      "remember": "Say your real point first. Then answer their attack. Never the other order.",
+      "theySee": "A speaker pausing and calmly restating their original claim before engaging the attack against it.",
+      "signals": [
+        {
+          "l": "Crowd lost",
+          "t": "Others in the room look unsure what exactly is being debated.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "New distortions",
+          "t": "They add new changes to your position with each round of rebuttal.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Your words gone",
+          "t": "Their entire rebuttal contains none of your original language.",
+          "icon": "🗑️"
+        },
+        {
+          "l": "Your own doubt",
+          "t": "You start to wonder if maybe you did say something more extreme than you intended.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "01",
+          "title": "Write your core claim in one sentence",
+          "desc": "Before any discussion starts, put your main point into one clear sentence. This is what you will restate."
+        },
+        {
+          "n": "02",
+          "title": "Say that sentence before you respond to anything",
+          "desc": "When the attack comes, say your claim sentence out loud first. Everything else follows from that."
+        },
+        {
+          "n": "03",
+          "title": "Then name the specific mismatch",
+          "desc": "After your claim is on record, point out the exact difference between your version and what they attacked."
+        }
+      ],
+      "script": "\"Before I answer that, let me restate what I actually said: [your claim]. Here's where that differs from what you responded to.\"",
+      "counter": "If someone restates their claim after you've attacked a distorted version:\n• Stop. Listen to whether their restatement changes what you were responding to.\n• If it does, acknowledge it: 'Fair — that's different from what I attacked.'\n• Address their actual claim. Don't defend your version of it.",
+      "insight": "Restating is not the same as repeating. A restatement sharpens the claim. A repetition just says it louder — and louder has never fixed a logical problem."
+    },
+    {
+      "id": 6,
+      "cat": "restore",
+      "danger": "moderate",
+      "title": "Point Out What Changed in Their Version, Not Why They Changed It",
+      "hook": "Calling someone dishonest ends the conversation. Naming the specific change in their version keeps it moving.",
+      "truth": "People distort without knowing it. Accusing bad faith too early turns a logical problem into a personal fight — and you lose the room.\n• Name the specific word or phrase that changed between your claim and their paraphrase.\n• Keep it factual: 'I said X. You responded to Y. Those are different claims.'\n• The audience sees the gap without you naming a motive.",
+      "principle": "Principle of Charity — Walton: Argumentation Theory",
+      "remember": "Name what changed between your words and theirs. Don't say why they changed it.",
+      "theySee": "A speaker pointing at a specific difference between two claims, calmly, without accusing the other person of bad faith.",
+      "signals": [
+        {
+          "l": "Defensive posture",
+          "t": "They cross arms or deflect when you name the specific mismatch.",
+          "icon": "🛡️"
+        },
+        {
+          "l": "No correction",
+          "t": "They don't fix the paraphrase when challenged — they defend it.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Room shifts",
+          "t": "Others in the room visibly lean toward you as the gap becomes clear.",
+          "icon": "👥"
+        },
+        {
+          "l": "Topic change",
+          "t": "They try to move to a new subject rather than address the mismatch you named.",
+          "icon": "🔀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "01",
+          "title": "Write what you said and what they said",
+          "desc": "Put both versions side by side in plain language. One sentence each. The difference will be visible."
+        },
+        {
+          "n": "02",
+          "title": "Find the one word or phrase that changed",
+          "desc": "Identify the exact place where the swap happened. One specific change is more powerful than a general complaint."
+        },
+        {
+          "n": "03",
+          "title": "Name that change out loud and stop there",
+          "desc": "Say: 'I said [word]. You responded to [their word]. Those are two different claims.' Don't explain motive. Stop."
+        }
+      ],
+      "script": "\"I said 'some roles.' You responded to 'all employees.' Those are two different claims.\"",
+      "counter": "When someone names a gap in your paraphrase:\n• Don't defend the paraphrase — say: 'Let me use your words instead.'\n• Go back to their original claim and say it back accurately.\n• Rebuild your rebuttal from their position, not yours.",
+      "insight": "The harder move is naming the gap when you suspect the distortion was deliberate — then you have to decide how loudly to make that observation, and in front of whom."
+    },
+    {
+      "id": 7,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Stop Answering the Version of Your Point You Never Made",
+      "hook": "Every second you spend defending the extreme version is a second you've walked away from your real point.",
+      "truth": "The distorted version is designed to be harder to defend than your actual claim. Engaging it signals it was your position.\n• Defending the fake version tells the audience that it was your real position.\n• The audience cannot tell the difference if you keep engaging the wrong claim.\n• One clear refusal to engage does more than ten attempted defenses of the distorted version.",
+      "principle": "Walton: Types of Dialogue — Strategic Non-Engagement",
+      "remember": "Stop defending what you didn't say. State what you said and leave the fake version alone.",
+      "theySee": "A debater who refuses to engage a distorted claim and keeps returning cleanly to their original words.",
+      "signals": [
+        {
+          "l": "Repetition loop",
+          "t": "They keep rewording the extreme version and asking you to respond to it.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Volume rising",
+          "t": "You're getting louder defending something you didn't claim.",
+          "icon": "📣"
+        },
+        {
+          "l": "Language shifted",
+          "t": "You're now using their words instead of yours.",
+          "icon": "🔤"
+        },
+        {
+          "l": "Others join in",
+          "t": "Third parties start debating the extreme version as if it is your real position.",
+          "icon": "👥"
+        }
+      ],
+      "steps": [
+        {
+          "n": "01",
+          "title": "Catch yourself defending a claim you didn't make",
+          "desc": "Stop mid-sentence if you have to. Ask yourself: is this point mine, or theirs?"
+        },
+        {
+          "n": "02",
+          "title": "Withdraw from the fake version explicitly",
+          "desc": "Say out loud: 'That wasn't my claim.' Don't explain how it happened. Just stop engaging it."
+        },
+        {
+          "n": "03",
+          "title": "Restate your real point and move forward",
+          "desc": "Say: 'What I said was [restate].' Address what you want to address — not what they've been attacking."
+        }
+      ],
+      "script": "\"I'm not going to defend that — it's not what I said. What I said was [restate].\"",
+      "counter": "If someone refuses to engage your paraphrase of them:\n• Ask: 'What exactly is wrong with how I characterized your point?'\n• Listen to the correction without defending your version.\n• Either accept it or show them where in their own words you got your reading.",
+      "insight": "Refusing to chase the fake version works once or twice — if they keep rebuilding it, the next move is asking them to quote you exactly, and watching whether they can."
+    },
+    {
+      "id": 8,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Ask Them to Quote You Exactly",
+      "hook": "If they're attacking what you said, they should be able to repeat it back. Most can't.",
+      "truth": "The challenge to quote you exactly exposes whether the attack is on your claim or on their version of it.\n• They either quote you accurately — now you know what they're actually responding to.\n• Or they paraphrase again with the same distortion — and the room sees it.\n• The challenge costs you nothing. Their failure to answer costs them credibility.",
+      "principle": "Walton: Burden of Proof — Quotation Challenge",
+      "remember": "Ask them to say what you said, exactly. Watch what comes out of their mouth.",
+      "theySee": "A person asked to repeat exact words, pausing and then producing a version that still isn't quite right.",
+      "signals": [
+        {
+          "l": "Long pause",
+          "t": "They hesitate before answering — they're rebuilding your point from memory, not quoting it.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Version drift",
+          "t": "Their 'quote' uses different words than you used — a sign they're paraphrasing.",
+          "icon": "〰️"
+        },
+        {
+          "l": "Added interpretation",
+          "t": "Their version includes words explaining what you 'really meant,' beyond what you said.",
+          "icon": "➕"
+        },
+        {
+          "l": "Deflection",
+          "t": "They say 'you know what you said' instead of producing a quote.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "01",
+          "title": "Ask for a quote when they attack what you said",
+          "desc": "Say: 'Can you tell me exactly what I said?' Keep it short. Don't explain why you're asking."
+        },
+        {
+          "n": "02",
+          "title": "Listen for the gap between their version and yours",
+          "desc": "Compare their quote to your original claim. Note every word that changed — especially qualifiers and scope words."
+        },
+        {
+          "n": "03",
+          "title": "Name the gap if there is one",
+          "desc": "If their version differs from yours, point to the specific word or phrase that changed. Don't accuse — just show."
+        }
+      ],
+      "script": "\"Can you tell me exactly what I said? I want to make sure we're working from the same words.\"",
+      "counter": "If you're asked to quote someone and you can't do it exactly:\n• Admit you're working from memory and ask them to restate.\n• Then respond to the restatement, not your original version of it.\n• This is not a retreat — it keeps the argument on solid ground.",
+      "insight": "The quotation challenge works best early. Wait too long and the fake version has been repeated enough times that it starts to feel true — even to people who heard the original."
+    },
+    {
+      "id": 9,
+      "cat": "defense",
+      "danger": "high",
+      "title": "Correct the Fake Version Twice, Then Stop Chasing It",
+      "hook": "Some people rebuild the fake version every time you correct it. Chasing it through ten rounds makes it look worth chasing.",
+      "truth": "Repeated correction past a point signals that the distorted version is worth debating. It isn't.\n• State your real point clearly. Correct the distortion twice.\n• After that, hold your position without engaging their version further.\n• If they keep pushing the fake version, they reveal the tactic. You don't need to name it.",
+      "principle": "Broken Record Technique — Walton: Persuasion Dialogue vs. Eristic Dialogue",
+      "remember": "Correct it twice. After that, repeat your real point and stop chasing the fake one.",
+      "theySee": "A speaker who corrected a misrepresentation twice and now holds their position calmly without engaging the distortion any further.",
+      "signals": [
+        {
+          "l": "Third distortion",
+          "t": "They've rebuilt the fake version three or more times after you corrected it.",
+          "icon": "3️⃣"
+        },
+        {
+          "l": "Rewording loop",
+          "t": "Each round uses slightly different language to make the same false paraphrase.",
+          "icon": "♻️"
+        },
+        {
+          "l": "Room fatigue",
+          "t": "Others in the room look tired of the back-and-forth.",
+          "icon": "😴"
+        },
+        {
+          "l": "Energy gap",
+          "t": "You're spending more effort defending than you spent making the original point.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "01",
+          "title": "Count how many times you've corrected the distortion",
+          "desc": "Keep a mental count. Once you've corrected the same distortion twice, you have what you need."
+        },
+        {
+          "n": "02",
+          "title": "State your real point one final time",
+          "desc": "Say your claim clearly and without additional argument. No new evidence. No louder voice. Just the point."
+        },
+        {
+          "n": "03",
+          "title": "Announce you're moving on and do it",
+          "desc": "Say: 'I've stated my position. My point stands.' Then redirect the conversation or stop engaging on that question."
+        }
+      ],
+      "script": "\"I've stated my position twice now. My point stands. Let's move on.\"",
+      "counter": "If someone stops engaging your rebuttal and repeats their original claim instead:\n• Ask: 'Is there a specific part of my argument you're responding to?'\n• If they can't name one, let the room observe that.\n• At this point the audience matters more than the person across from you.",
+      "insight": "Stopping the chase is a strategic decision, not a defeat — the harder question is whether the room has already decided who is doing the distorting before you make that call."
+    },
+    {
+      "id": 10,
+      "cat": "patterns",
+      "danger": "high",
+      "title": "The Most Advanced Strawman Switches the Subject Entirely",
+      "hook": "Nixon was accused of stealing campaign money. He talked about a dog named Checkers. The crowd cried. He kept his job.",
+      "truth": "The most advanced form doesn't distort your argument — it replaces the subject of the discussion with a different one entirely.\n• Instead of misrepresenting your claim, they answer a question nobody asked.\n• The emotional heat on the new subject drowns out the original question.\n• You're left pursuing the original point while they're already two subjects ahead.",
+      "principle": "Nixon: Checkers Speech — Deflection Straw Man",
+      "remember": "If they answered a question you didn't ask, your question is still on the table.",
+      "theySee": "A speaker giving an emotional, detailed answer to a subject nobody raised while the original question sits unanswered.",
+      "signals": [
+        {
+          "l": "Subject shift",
+          "t": "Their response addresses a completely different topic than the one you raised.",
+          "icon": "📡"
+        },
+        {
+          "l": "Emotional content",
+          "t": "The new subject carries strong feeling — family, sacrifice, loyalty, or a dog.",
+          "icon": "❤️"
+        },
+        {
+          "l": "Crowd reaction",
+          "t": "The audience responds to the new subject and the original question goes quiet.",
+          "icon": "👏"
+        },
+        {
+          "l": "No answer given",
+          "t": "The original question is never directly addressed anywhere in their response.",
+          "icon": "🔇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "01",
+          "title": "Write the original question before they answer",
+          "desc": "Before they respond, write down exactly what was asked. In a meeting, put it in front of you. In a debate, say it out loud first."
+        },
+        {
+          "n": "02",
+          "title": "Check whether their answer addressed it",
+          "desc": "When they finish, hold their answer against the original question. Did they answer it? Yes or no — nothing in between."
+        },
+        {
+          "n": "03",
+          "title": "Name the original question and ask again",
+          "desc": "Say: 'That's a different subject. My question was [original question]. Can you answer that one directly?'"
+        }
+      ],
+      "script": "\"That's a moving story. My question was about [original issue]. Can you answer that one?\"",
+      "counter": "If you realize mid-answer that you've been talking about a different subject:\n• Stop. Name the original question.\n• Address it directly — don't defend the detour.\n• The room respects a self-correction more than a polished dodge.",
+      "insight": "The deflection strawman works best in front of a large audience — the bigger the crowd, the more a well-told story beats a clear argument, at least until someone names what just happened."
+    }
+  ]
+}
