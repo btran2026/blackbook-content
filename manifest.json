@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 90,
+  "manifestVersion": 91,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -832,7 +832,20 @@
       "url": "playbooks/playbook-srv-after-everything-i-did-for-you.json",
       "addedAt": "2026-10-03T00:04:32.872Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-loaded-questions-the-defense-file",
+      "title": "Loaded Questions: The Defense File",
+      "theme": "interview",
+      "topic": "Defending against a loaded question in an interview",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "🎯",
+      "url": "playbooks/playbook-srv-loaded-questions-the-defense-file.json",
+      "addedAt": "2026-10-10T18:14:29.630Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-03T00:04:32.872Z"
+  "generatedAt": "2026-10-10T18:14:29.630Z"
 }
