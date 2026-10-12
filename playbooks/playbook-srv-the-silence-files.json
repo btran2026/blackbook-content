@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "id": "srv-the-silence-files",
+    "version": "1.0",
+    "title": "The Silence Files",
+    "subtitle": "How to Handle a Stonewaller",
+    "description": "Twelve cards on reading, surviving, and countering the people who go quiet to win.",
+    "author": "AI",
+    "createdAt": "2026-10-12T22:04:33.433Z",
+    "tags": [
+      "stonewalling",
+      "silent treatment",
+      "conflict",
+      "relationships",
+      "dark psychology",
+      "manipulation",
+      "Gottman"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🤫",
+    "fromServer": true,
+    "generation": {
+      "topic": "Handling a stonewaller who goes silent on you",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "read",
+      "label": "Read the Silence",
+      "color": "#2D4A6E"
+    },
+    {
+      "key": "self",
+      "label": "Control Yourself First",
+      "color": "#2D6E4A"
+    },
+    {
+      "key": "engage",
+      "label": "Move on Them",
+      "color": "#6E2D4A"
+    },
+    {
+      "key": "defend",
+      "label": "Block the Weapon",
+      "color": "#6E4A2D"
+    },
+    {
+      "key": "endgame",
+      "label": "Know When to Leave",
+      "color": "#4A2D6E"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "Tell Flooding Apart From Punishment Before You Respond",
+      "hook": "They go silent. <strong>The reason matters more than the silence itself.</strong> The move that works on flooding makes punishment worse.",
+      "truth": "The same behavior has two opposite causes — most people treat both the same way and get it wrong both times.\n• Flooding = brain overload. The stonewaller can't talk. The silence is self-protection.\n• Punishment = the silence is aimed at you on purpose. It stops when you give in.\n• Fix flooding with time. Meeting punishment with patience rewards it.",
+      "principle": "Gottman: Stonewalling vs. Flooding",
+      "remember": "Two different silences need two different moves.",
+      "theySee": "A person who has stopped speaking, turned their shoulders away, and stares at nothing.",
+      "signals": [
+        {
+          "l": "Eyes unfocused",
+          "t": "They stare past you at nothing — brain overload, not cold strategy.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Body turned away",
+          "t": "Feet or shoulders point at the door before a word is spoken.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Same moment, again",
+          "t": "This happens the same way every time you push a specific topic.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Blank face",
+          "t": "No eye rolls, no frowns, no nods — the face has no expression at all.",
+          "icon": "😶"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch the body",
+          "desc": "Note whether they're staring blankly or looking away on purpose. One is shutdown. One is display."
+        },
+        {
+          "n": "2",
+          "title": "Check the timing",
+          "desc": "Ask: does the silence appear only after you disagree or push back? If yes, that's a tell."
+        },
+        {
+          "n": "3",
+          "title": "Write the label",
+          "desc": "Before you say another word, write 'flooding' or 'punishment' on your phone. Your next move depends on which one it is."
+        }
+      ],
+      "script": "\"I want to finish this. Tell me when you're ready to talk again.\"",
+      "counter": "If someone calls your silence stonewalling, check your own state before defending.\n• High heart rate and blank mind = you're flooded, not punishing.\n• Say: 'I need 20 minutes. I'm not done with this conversation.'\n• Come back on time. Not coming back is how flooding turns into punishment.",
+      "insight": "Calling it wrong doubles the damage — treat punishment like flooding and you teach them the move pays."
+    },
+    {
+      "id": 2,
+      "cat": "read",
+      "danger": "low",
+      "title": "Spot the Shutdown Before It Fully Closes",
+      "hook": "The silence has a warm-up. <strong>If you catch it early, you can stop it.</strong> Miss it and you're locked out.",
+      "truth": "Stonewalling doesn't start with silence — it starts minutes before, with small physical tells most people ignore.\n• Heart rate above 100 bpm breaks clear thinking before the person stops talking.\n• Gottman found the body leads, the mouth follows — the shutdown is decided before the words stop.\n• Catching it early means you can call a break before the wall goes up.",
+      "principle": "Gottman: Physiological Flooding",
+      "remember": "The shutdown starts in the body. Silence comes last.",
+      "theySee": "A person in a conversation who starts giving shorter answers and looking at their hands.",
+      "signals": [
+        {
+          "l": "One-word answers",
+          "t": "Replies shrink from sentences to 'yes,' 'no,' 'fine' with no explanation.",
+          "icon": "💬"
+        },
+        {
+          "l": "Eyes drop down",
+          "t": "They stop making eye contact and look at the table or their hands.",
+          "icon": "👇"
+        },
+        {
+          "l": "New task starts",
+          "t": "They pick up a phone, turn on the TV, or move to another task mid-conversation.",
+          "icon": "📱"
+        },
+        {
+          "l": "Breathing slows",
+          "t": "Their breathing gets slower and shallower — a body trying to hold itself still.",
+          "icon": "😤"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name it early",
+          "desc": "The moment answers get short, say 'I can see you're getting overwhelmed.' Don't wait for full silence."
+        },
+        {
+          "n": "2",
+          "title": "Offer the break yourself",
+          "desc": "Say 'Let's stop for 20 minutes and come back.' Whoever calls the break controls the pause."
+        },
+        {
+          "n": "3",
+          "title": "Set the return time",
+          "desc": "Give a specific time: 'Back at 4pm' — not 'later.' Vague breaks become permanent ones."
+        }
+      ],
+      "script": "\"I can see we're both getting heated. Let's stop for 20 minutes — back at 4pm.\"",
+      "counter": "When someone calls a break on you, don't chase them into it.\n• Chasing makes the break take longer. Let them go.\n• Track the time. Return exactly when you said you would.\n• If they don't return, that's data — write it down.",
+      "insight": "The person who calls the break first controls where the conversation goes when it resumes."
+    },
+    {
+      "id": 3,
+      "cat": "self",
+      "danger": "low",
+      "title": "Self-Soothe Before You Try to Fix the Silence",
+      "hook": "When they go quiet, <strong>you feel the pull to talk more, push harder, demand an answer.</strong> That pull is your flooding, not your strategy.",
+      "truth": "Their silence spikes your own stress response. You can't move them while you're flooded.\n• Trying to engage while flooded = more noise, higher wall, longer shutdown.\n• Your heart rate above 100 bpm means your words will land wrong. Every time.\n• Twenty minutes of real calm does more than two hours of pursuit.",
+      "principle": "Gottman: Self-Soothing / Physiological De-escalation",
+      "remember": "Flooding makes everything worse. Calm down before you try again.",
+      "theySee": "A person who is visibly tense, talking faster, and asking the same question for the third time.",
+      "signals": [
+        {
+          "l": "You repeat yourself",
+          "t": "You ask the same question more than once in the same conversation.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Voice gets louder",
+          "t": "Your volume goes up even though you didn't decide to raise it.",
+          "icon": "🔊"
+        },
+        {
+          "l": "You move toward them",
+          "t": "You physically follow them when they try to create space.",
+          "icon": "👣"
+        },
+        {
+          "l": "You pace or fidget",
+          "t": "Your hands move or feet won't stay still — your body is pushing you to act.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop talking",
+          "desc": "The moment you notice you're repeating yourself, stop. Say nothing for 60 seconds."
+        },
+        {
+          "n": "2",
+          "title": "Leave the room",
+          "desc": "Go somewhere else — outside if possible. Your body needs a different environment to slow down."
+        },
+        {
+          "n": "3",
+          "title": "Wait the full 20",
+          "desc": "Set a timer for 20 minutes. Don't come back at 8 or 12. Give the brain the whole 20."
+        }
+      ],
+      "script": "\"I need 20 minutes. I'm coming back and we're finishing this.\"",
+      "counter": "If someone tells you that you're too emotional and need to calm down, check whether they set a return time.\n• No return time = the 'calm down' is a delay tactic.\n• Say: 'Fine — back at [specific time]. Agreed?'\n• No agreement means they're managing you, not themselves.",
+      "insight": "Calming down is not giving up — but the stonewaller is counting on you to confuse the two."
+    },
+    {
+      "id": 4,
+      "cat": "self",
+      "danger": "low",
+      "title": "Call Your Own Time-Out Before They Shut Down",
+      "hook": "<strong>Whoever calls the pause controls the pause.</strong> Let them call it and you're waiting for permission to speak again.",
+      "truth": "The time-out is a move, not a retreat. Most people don't know they can call it themselves.\n• Calling the break first stops the shutdown before the wall goes up.\n• You set the terms — including when you both come back.\n• Coming back exactly when you said proves you're not running. That's the real signal.",
+      "principle": "Gottman: Structured Time-Out Protocol",
+      "remember": "Call the break yourself. Set the time. Come back on it.",
+      "theySee": "A person who stops a tense conversation and names a specific time they will return.",
+      "signals": [
+        {
+          "l": "Voices get louder",
+          "t": "The conversation gets louder or faster and neither side is actually listening.",
+          "icon": "🔊"
+        },
+        {
+          "l": "Same line repeated",
+          "t": "You've said the same thing three times. They've said the same thing twice.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Eyes drift to door",
+          "t": "Their gaze moves toward the door or another room before you've finished your sentence.",
+          "icon": "🚪"
+        },
+        {
+          "l": "You stop listening",
+          "t": "You're responding to what you think they mean, not what they actually said.",
+          "icon": "🎯"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Declare the state",
+          "desc": "Say 'We're both too heated to get anywhere right now.' Don't ask permission — state it."
+        },
+        {
+          "n": "2",
+          "title": "Name the return time",
+          "desc": "Say the exact time: 'I'll be back at 7pm.' Not 'in a while.' Not 'later.'"
+        },
+        {
+          "n": "3",
+          "title": "Return on the dot",
+          "desc": "Walk back in exactly when you said. This single action proves the break was a tool, not a way out."
+        }
+      ],
+      "script": "\"We're going in circles. I'll be back at 7pm and we're finishing this then.\"",
+      "counter": "Watch for a break that turns into a disappearance.\n• They call a break, then don't return at the agreed time.\n• At the agreed time, go find them: 'It's 7pm. I'm here.'\n• If they still won't engage, that's stonewalling — not flooding.",
+      "insight": "The break looks identical whether it's healthy or a weapon. The return is what tells you which one it was."
+    },
+    {
+      "id": 5,
+      "cat": "engage",
+      "danger": "low",
+      "title": "Say What You Need Out Loud While They Are Still Silent",
+      "hook": "You want them to speak. <strong>But you still have a voice.</strong> Use it to say what you need — not to demand they respond.",
+      "truth": "Silence pulls most people into silence too. Breaking that pattern is your job, not theirs.\n• Naming your need out loud changes the room even if they say nothing back.\n• You're not asking permission — you're stating your position on the record.\n• They hear it. They process it. That's the opening, even if they don't show it yet.",
+      "principle": "Assertiveness: Unilateral Disclosure",
+      "remember": "You don't need their voice to use yours.",
+      "theySee": "A person speaking clearly and calmly to someone who is not responding.",
+      "signals": [
+        {
+          "l": "They fidget",
+          "t": "Their hands move or they shift in their seat — they heard you and their body reacted.",
+          "icon": "✋"
+        },
+        {
+          "l": "Brief eye contact",
+          "t": "They glance at you for a second and look away — they're still tracking.",
+          "icon": "👁️"
+        },
+        {
+          "l": "They exhale loudly",
+          "t": "A sigh or breath out after your words — the words hit something.",
+          "icon": "😮‍💨"
+        },
+        {
+          "l": "They leave the room",
+          "t": "They physically leave to avoid your words — proof the words landed.",
+          "icon": "🚶"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the need in one sentence",
+          "desc": "Write exactly what you need from this conversation. Not 'to be heard' — one specific thing, like 'an answer about Tuesday.'"
+        },
+        {
+          "n": "2",
+          "title": "Say it without asking",
+          "desc": "State it as a fact: 'I need us to talk about what happened last Tuesday.' Not 'Can we talk?'"
+        },
+        {
+          "n": "3",
+          "title": "Stop after one sentence",
+          "desc": "Say it once. Don't explain it. Don't soften it. More words give them more to hide behind."
+        }
+      ],
+      "script": "\"I need to talk about what happened Tuesday. I'll be here when you're ready.\"",
+      "counter": "If someone states a need and then goes quiet, don't mistake the silence for patience.\n• They've put a clock on you without saying so.\n• Answer before the silence becomes their argument.\n• 'I hear you. I need a day' is still an answer.",
+      "insight": "The move works strongest the first time. Say the same need three more times and it becomes background noise."
+    },
+    {
+      "id": 6,
+      "cat": "engage",
+      "danger": "low",
+      "title": "Name the Silence Without Turning It Into an Attack",
+      "hook": "Saying 'you're stonewalling me' closes every door. <strong>Naming what you observe — without blame — can open one.</strong>",
+      "truth": "Accusation triggers defense. Description opens reflection. Most people skip straight to accusation.\n• 'You're shutting me out' = attack. Their brain goes to protect, not to think.\n• 'I notice we've stopped talking' = observation. They can agree without losing face.\n• The Voss Label works here: name the state, not the crime.",
+      "principle": "Voss: Tactical Empathy / Label",
+      "remember": "Name what you see. Don't name what you think they're doing.",
+      "theySee": "A person stating a fact about the room — we have been quiet for ten minutes — without pointing a finger.",
+      "signals": [
+        {
+          "l": "Small nod",
+          "t": "A slight nod or exhale after you name it — the label landed somewhere.",
+          "icon": "✅"
+        },
+        {
+          "l": "They correct you",
+          "t": "They say 'that's not what's happening' — they're talking now, which was the point.",
+          "icon": "💬"
+        },
+        {
+          "l": "Arms uncross",
+          "t": "Their arms come down or their shoulders drop after the label.",
+          "icon": "😮‍💨"
+        },
+        {
+          "l": "They change topic",
+          "t": "They pivot to something safer — they're re-engaging, even if sideways.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Describe what you can see",
+          "desc": "Write one sentence that names only what is visible: 'You've stopped responding to what I say.'"
+        },
+        {
+          "n": "2",
+          "title": "Add the feeling label",
+          "desc": "Say: 'It seems like you're too frustrated to keep going right now.' Not: 'You're obviously angry at me.'"
+        },
+        {
+          "n": "3",
+          "title": "Wait ten seconds",
+          "desc": "Say the label, then stop. Give them 10 full seconds. Silence after a label is not failure — it's them processing."
+        }
+      ],
+      "script": "\"It seems like you need a break from this conversation. I get that.\"",
+      "counter": "If someone labels your silence to move you, check whether the label fits.\n• An accurate label deserves an honest short answer: 'Yes, I need a break.'\n• An inaccurate label deserves a correction — and correcting it means you're now talking.\n• Either way, the label forced a response. Notice when you've been moved.",
+      "insight": "The label that gets corrected is often more useful than the one that gets accepted — correcting it means the conversation reopened."
+    },
+    {
+      "id": 7,
+      "cat": "engage",
+      "danger": "low",
+      "title": "Send a Short Written Message When Face-to-Face Is Blocked",
+      "hook": "They won't talk. Face to face is dead. <strong>A short, specific written message can go where your voice can't.</strong>",
+      "truth": "Writing removes the in-person triggers — tone, body language, the room — that keep the stonewaller shut down.\n• They can read it without having to answer in real time. That removes the flooding pressure.\n• One short message with one clear ask is harder to ignore than a verbal demand.\n• No response to a specific written message is itself a clear answer.",
+      "principle": "Voss: Minimal Footprint / Written Calibration",
+      "remember": "A short text can reach someone your voice can't.",
+      "theySee": "A person who picks up their phone and reads a short message without another message arriving right after.",
+      "signals": [
+        {
+          "l": "Message read, no reply",
+          "t": "They open it but say nothing — they're thinking, not ignoring.",
+          "icon": "✔️"
+        },
+        {
+          "l": "Short reply comes",
+          "t": "One or two words back — that's an opening, not a brush-off.",
+          "icon": "💬"
+        },
+        {
+          "l": "They mention it later",
+          "t": "Hours later in person they reference something from what you wrote.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Nothing after 24 hours",
+          "t": "No answer after a full day is information — write down what you now know.",
+          "icon": "⏱️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write one sentence",
+          "desc": "One ask. One topic. No list of grievances. 'I want to talk about Tuesday. When works for you?'"
+        },
+        {
+          "n": "2",
+          "title": "Send it once",
+          "desc": "Hit send. Don't follow up in an hour. One message. No chaser. Sending again before they respond restarts the wall."
+        },
+        {
+          "n": "3",
+          "title": "Read the non-reply",
+          "desc": "If 24 hours pass with nothing, write down what you now know. That's data, not failure."
+        }
+      ],
+      "script": "\"I want to talk about what happened. Tell me when you're ready — I'll make time.\"",
+      "counter": "If someone sends you a short message to force a conversation, you're not required to answer in the next hour.\n• Take the time you need. But decide when you'll respond — even just in your head.\n• Leaving it unread for days is its own statement — make sure you mean it.\n• A very short reply keeps you in control without shutting them out.",
+      "insight": "No reply is always an answer. The question is whether you have the stomach to act on what it tells you."
+    },
+    {
+      "id": 8,
+      "cat": "defend",
+      "danger": "high",
+      "title": "Recognize When the Silence Is a Weapon, Not a Breakdown",
+      "hook": "Not every silence is a brain overload. <strong>Some silences are aimed at you.</strong> Built to make you beg, apologize, or give in.",
+      "truth": "The punishing silence follows a pattern — it appears after you push back, criticize, or hold a position they don't like.\n• Flooding doesn't have timing. Punishment does — it starts the exact moment you challenge them.\n• Clear-headed people don't choose to stonewall. Deliberate silence is a weapon, not a breakdown.\n• Narcissistic silence follows a challenge to their self-image. The timing tells you everything.",
+      "principle": "Eddy: High-Conflict Personality / Narcissistic Emotional Abuse",
+      "remember": "Deliberate silence follows a script. Learn the trigger and you know the move.",
+      "theySee": "A person who was warm an hour ago and went completely cold the moment you disagreed with them.",
+      "signals": [
+        {
+          "l": "Timing is exact",
+          "t": "The silence started the precise moment you said no or questioned them.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Too controlled",
+          "t": "They look steady and calm — not overwhelmed. This is a choice, not a breakdown.",
+          "icon": "🧊"
+        },
+        {
+          "l": "They watch you",
+          "t": "Their eyes track you to see if you'll come to them and apologize first.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Same trigger again",
+          "t": "This has happened before with the same cause, same silence, same ending.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Map the trigger",
+          "desc": "Write what you said or did right before the silence. Look for the exact same pattern across the last three times."
+        },
+        {
+          "n": "2",
+          "title": "Don't apologize first",
+          "desc": "Wait. See if the silence breaks on its own or only when you give in. That result is your answer."
+        },
+        {
+          "n": "3",
+          "title": "Write the pattern out",
+          "desc": "Write: 'I pushed back. They went silent. They waited. I apologized. It ended.' Read it back to yourself."
+        }
+      ],
+      "script": "\"I'm not sure what's happened, but I'm here when you want to talk.\"",
+      "counter": "If you feel the urge to apologize just to end the silence, stop before you speak.\n• Ask: did I do something wrong, or did I just disagree?\n• The impulse to apologize is the weapon working as designed.\n• Sit in the discomfort. Don't let the silence write your apology for you.",
+      "insight": "The silence breaks the moment you give in — and starts again the moment you push back next time."
+    },
+    {
+      "id": 9,
+      "cat": "defend",
+      "danger": "high",
+      "title": "Stop Chasing — Chasing Rewards the Silence",
+      "hook": "Every time you follow them and ask for a response, <strong>you teach them that going silent works on you.</strong>",
+      "truth": "Chasing the stonewaller after they go quiet is not love. It's training. You show them the move pays.\n• Each time silence gets you to beg, the next silence lasts a little longer.\n• Basic conditioning: behavior that gets a reward gets repeated.\n• Withdrawal plus pursuit is a loop. You break it only by stopping the pursuit.",
+      "principle": "Behavioral Conditioning / Intermittent Reinforcement",
+      "remember": "Every time you chase, you make the next silence longer.",
+      "theySee": "A person following them from room to room asking the same question.",
+      "signals": [
+        {
+          "l": "You follow them",
+          "t": "You physically move to wherever they are to try to get a response.",
+          "icon": "👣"
+        },
+        {
+          "l": "You apologize first",
+          "t": "You say sorry before you've heard what you're apologizing for.",
+          "icon": "🙏"
+        },
+        {
+          "l": "You ask again",
+          "t": "You've asked the same question four times. You're not gathering information — you're begging.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Silences get longer",
+          "t": "Each time this plays out, the silence before you chase grows slightly longer.",
+          "icon": "⏱️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop where you are",
+          "desc": "The moment you feel the urge to go find them or send another message, stop. Sit down where you are."
+        },
+        {
+          "n": "2",
+          "title": "Do something for yourself",
+          "desc": "Go for a walk, call a friend, do anything that doesn't need their participation. Twenty minutes minimum."
+        },
+        {
+          "n": "3",
+          "title": "Let them come to you",
+          "desc": "Wait to see if they break the silence on their own. Whether they do — and how long it takes — tells you more than anything they'll say."
+        }
+      ],
+      "script": "\"I said what I needed to say. I'll wait here.\"",
+      "counter": "If someone suddenly stops chasing you after a long pattern of pursuit, pay attention to how that feels.\n• Relief means you were using the silence to control them.\n• Panic means you weren't as indifferent to the relationship as you thought.\n• Both readings are useful data.",
+      "insight": "The person who stops chasing changes the whole dynamic — and the stonewaller often has no practiced move for what comes next."
+    },
+    {
+      "id": 10,
+      "cat": "defend",
+      "danger": "moderate",
+      "title": "Set the Rule for Next Time While Things Are Still Calm",
+      "hook": "The silence ends. Things go back to normal. You say nothing about it. <strong>It happens again. Same silence. Same ending.</strong>",
+      "truth": "Addressing stonewalling after it ends — while things are calm — is the only window that works.\n• Mid-silence confrontation gets a wall. Post-silence, when they're back, they're briefly open.\n• Setting a rule in that window tells them the move has a cost next time.\n• No rule set = you gave silent permission to do it again.",
+      "principle": "Gottman: State-of-the-Union Conversation / Behavioral Agreement",
+      "remember": "Say the rule when it's calm. Silence during a fight changes nothing.",
+      "theySee": "A person bringing up a difficult topic calmly, hours after an argument ended.",
+      "signals": [
+        {
+          "l": "They're friendlier now",
+          "t": "They're talking normally, maybe a bit warmer than usual — the repair window is open.",
+          "icon": "🌤️"
+        },
+        {
+          "l": "They mention it first",
+          "t": "They reference what happened themselves, even briefly — they know it happened.",
+          "icon": "💬"
+        },
+        {
+          "l": "Your voice is steady",
+          "t": "You feel calm, not angry. That's the moment the rule lands instead of starting another fight.",
+          "icon": "✅"
+        },
+        {
+          "l": "They make eye contact",
+          "t": "They look at you and aren't reaching for a phone or another task.",
+          "icon": "👁️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the calm moment",
+          "desc": "Wait until things feel easy between you — not the same night, not mid-fight. The next day, when the energy is good."
+        },
+        {
+          "n": "2",
+          "title": "State the ask once",
+          "desc": "Say exactly what you want: 'Next time you need a break, tell me. Don't just go silent.' One time. Don't repeat it."
+        },
+        {
+          "n": "3",
+          "title": "Name what you'll do next time",
+          "desc": "Say what you'll do if it happens again: 'If you go silent without a word, I'm leaving the house for an hour.' Then do it exactly."
+        }
+      ],
+      "script": "\"When you need a break, tell me. I'll respect that. Going silent without a word is what I can't work with.\"",
+      "counter": "If someone sets a rule with you about your silences, don't dismiss it and don't say 'I'll try.'\n• 'I'll try' is not an agreement. It's a delay.\n• Make a specific agreement: 'When I need a break, I'll say so and give you a time I'll be back.'\n• A specific agreement is a record. Watch who breaks it first.",
+      "insight": "The rule is easy to agree to when things are calm. The real test is whether either of you holds it when the next fight starts."
+    },
+    {
+      "id": 11,
+      "cat": "endgame",
+      "danger": "high",
+      "title": "Notice When Both of You Have Stopped Trying",
+      "hook": "The first stonewalling episode is a problem. The fifth is a pattern. <strong>After the tenth, neither of you is really there anymore.</strong>",
+      "truth": "Gottman's research shows stonewalling by one person pulls the other into withdrawal too — and once both sides have pulled back, getting back is very hard.\n• The person being stonewalled stops trying to re-engage. That's not strength. That's the cascade starting.\n• When both sides stop trying, the relationship is already ending — even if no one says so.\n• The cascade is slow. Most people see it only after they're already gone.",
+      "principle": "Gottman: Mutual Withdrawal Cascade",
+      "remember": "When both of you stop trying, the end is already moving.",
+      "theySee": "Two people in the same house who have stopped starting conversations with each other.",
+      "signals": [
+        {
+          "l": "You stopped trying",
+          "t": "You notice you haven't tried to bring something up in days — and don't feel like it.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Calmer alone",
+          "t": "You feel calmer when they're not home. That's a signal, not a solution.",
+          "icon": "😮‍💨"
+        },
+        {
+          "l": "No one repairs",
+          "t": "After a fight, neither of you does the small thing to smooth it over. You both just wait.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Only logistics left",
+          "t": "The only conversations left are about schedules and tasks — whose turn it is, what time dinner is.",
+          "icon": "📋"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count your attempts",
+          "desc": "In the last two weeks, how many times did you start a real conversation? Write the number. Under two is a warning."
+        },
+        {
+          "n": "2",
+          "title": "Name what you stopped",
+          "desc": "Write one thing you used to bring up or do together that you stopped. If the list is long, you're already in it."
+        },
+        {
+          "n": "3",
+          "title": "Have the one direct conversation",
+          "desc": "One explicit talk: 'We've both pulled back. I want to know if you want to fix this.' Once. Clear. Then you have an answer."
+        }
+      ],
+      "script": "\"I've noticed we've both stopped trying. I want to know if that's where we are, or if we're fixing this.\"",
+      "counter": "If someone confronts you about both of you pulling back, be specific in your answer.\n• 'I don't know' is a choice disguised as uncertainty.\n• Say what you actually want, even if it's uncomfortable.\n• The person who won't name what they want is making a decision by not deciding.",
+      "insight": "The cascade is quiet. Most people realize they're in it only after they've stopped caring enough to be upset about it."
+    },
+    {
+      "id": 12,
+      "cat": "endgame",
+      "danger": "extreme",
+      "title": "Recognize the Pattern That Will Not Change",
+      "hook": "They went silent. You worked through it. They went silent again. Same trigger. Same wall. Same ending. <strong>That's not a rough patch. That's who they are.</strong>",
+      "truth": "One stonewalling episode can be flooding. Three with the same trigger and the same ending is a personality, not a bad day.\n• Challenge them → they go silent → you give in → reset → repeat. Exact same script every time.\n• You cannot change this pattern. You can only change your response — or leave.\n• Every attempt to fix a pattern that won't change costs you something you don't get back.",
+      "principle": "Eddy: High-Conflict Personality / Pattern Recognition",
+      "remember": "Three times with the same trigger is a pattern. Patterns don't respond to talking.",
+      "theySee": "A person deciding, very quietly, whether to stay or go.",
+      "signals": [
+        {
+          "l": "Same trigger, always",
+          "t": "The silence always starts after the same kind of moment — a disagreement, a criticism, a no.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Same ending, always",
+          "t": "It ends the same way every time — you give in, they accept, nothing changes.",
+          "icon": "🔁"
+        },
+        {
+          "l": "They deny it happened",
+          "t": "When you name the pattern, they say it didn't happen or that you caused it.",
+          "icon": "❌"
+        },
+        {
+          "l": "Nothing shifts",
+          "t": "Despite agreements and conversations, the next episode arrives on schedule.",
+          "icon": "📉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three episodes",
+          "desc": "Write the trigger, the silence, and the ending for the last three stonewalling events. Underline the parts that are identical."
+        },
+        {
+          "n": "2",
+          "title": "Test a clear rule",
+          "desc": "Tell them: 'Next time you need a break, say so.' Track whether anything changes in the next 30 days."
+        },
+        {
+          "n": "3",
+          "title": "Make the decision",
+          "desc": "After 30 days, decide: is this costing more than it's giving? Write the answer down. Then act on it."
+        }
+      ],
+      "script": "\"I've seen this happen three times the same way. I need this to change or I need to make a different decision.\"",
+      "counter": "If someone tells you your behavior is a pattern, sit with that before you defend yourself.\n• Pattern accusations are sometimes control moves. Sometimes they're true.\n• Ask: does the described pattern have the same trigger every time? If yes, take it seriously.\n• Real patterns need real change — not more promises.",
+      "insight": "The hardest part isn't seeing the pattern. It's admitting how long you've already known it was there."
+    }
+  ]
+}
