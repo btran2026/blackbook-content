@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 90,
+  "manifestVersion": 91,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -832,7 +832,20 @@
       "url": "playbooks/playbook-srv-after-everything-i-did-for-you.json",
       "addedAt": "2026-10-03T00:04:32.872Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-silence-files",
+      "title": "The Silence Files",
+      "theme": "stonewalling",
+      "topic": "Handling a stonewaller who goes silent on you",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🤫",
+      "url": "playbooks/playbook-srv-the-silence-files.json",
+      "addedAt": "2026-10-12T22:04:33.433Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-03T00:04:32.872Z"
+  "generatedAt": "2026-10-12T22:04:33.433Z"
 }
