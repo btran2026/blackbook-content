@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 90,
+  "manifestVersion": 91,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -832,7 +832,20 @@
       "url": "playbooks/playbook-srv-after-everything-i-did-for-you.json",
       "addedAt": "2026-10-03T00:04:32.872Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-manufactured-consensus",
+      "title": "Manufactured Consensus",
+      "theme": "consensus",
+      "topic": "Spotting manufactured consensus — the \"everyone agrees\" push",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1B2A4A",
+      "coverIcon": "🔍",
+      "url": "playbooks/playbook-srv-manufactured-consensus.json",
+      "addedAt": "2026-10-13T20:08:06.581Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-03T00:04:32.872Z"
+  "generatedAt": "2026-10-13T20:08:06.581Z"
 }

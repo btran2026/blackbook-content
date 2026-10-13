@@ -1,0 +1,701 @@
+{
+  "meta": {
+    "id": "srv-manufactured-consensus",
+    "version": "1.0",
+    "title": "Manufactured Consensus",
+    "subtitle": "Spotting the \"Everyone Agrees\" Push",
+    "description": "A closed-file dossier on how manufactured consensus is built, how it spreads, and how to find the seam before it closes. Twelve cards. Each one sharper than the last.",
+    "author": "AI",
+    "createdAt": "2026-10-13T20:08:06.581Z",
+    "tags": [
+      "consensus",
+      "propaganda",
+      "manipulation",
+      "psychology",
+      "detection",
+      "disinformation",
+      "social proof"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1B2A4A",
+    "coverIcon": "🔍",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting manufactured consensus — the \"everyone agrees\" push",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "mechanics",
+      "label": "How It Works",
+      "color": "#1B3A8C"
+    },
+    {
+      "key": "psychology",
+      "label": "Why It Lands",
+      "color": "#6B2D8B"
+    },
+    {
+      "key": "detection",
+      "label": "How to Spot It",
+      "color": "#1A6B3C"
+    },
+    {
+      "key": "deployment",
+      "label": "How They Build It",
+      "color": "#8B3A1A"
+    },
+    {
+      "key": "counter",
+      "label": "How to Defuse It",
+      "color": "#8B1A1A"
+    },
+    {
+      "key": "aftermath",
+      "label": "After You Spot It",
+      "color": "#2E4E4E"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "mechanics",
+      "danger": "moderate",
+      "title": "\"Everyone Agrees\" Is an Assertion, Not a Count",
+      "hook": "<strong>\"Everyone agrees\"</strong> is not a fact. It's a move. Nobody counted.",
+      "truth": "Manufactured consensus works because it skips the part where agreement has to be proven.\n• The speaker asserts a headcount that does not exist and cites no source.\n• The listener feels outnumbered before checking a single fact.\n• If you question it, you become the odd one out — that role is the punishment.",
+      "principle": "Cialdini: Social Proof",
+      "remember": "\"Everyone agrees\" skips the counting step on purpose.",
+      "theySee": "A presenter pointing at an unseen crowd of supporters who are not in the room.",
+      "signals": [
+        {
+          "l": "No citation",
+          "t": "They say 'everyone agrees' but name no study, no poll, no specific source.",
+          "icon": "📋"
+        },
+        {
+          "l": "Vague crowd",
+          "t": "'People' or 'experts' or 'everyone' — no names, no numbers attached.",
+          "icon": "👥"
+        },
+        {
+          "l": "Fast delivery",
+          "t": "They say it quickly, as if stopping to verify would waste your time.",
+          "icon": "⏩"
+        },
+        {
+          "l": "Confident tone",
+          "t": "They speak as if the count was already done and you simply missed the memo.",
+          "icon": "🎯"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the number",
+          "desc": "Say: 'How many people were asked, and who chose them?' Write down the answer word for word."
+        },
+        {
+          "n": "2",
+          "title": "Find who is missing",
+          "desc": "List three groups who would likely disagree. Check whether any of them were consulted in the cited source."
+        },
+        {
+          "n": "3",
+          "title": "Trace the claim back 24 hours",
+          "desc": "Search for the earliest source of the claim. Count how many outlets point back to one originating post or document."
+        }
+      ],
+      "script": "\"How many people were actually surveyed, and who picked the sample?\"",
+      "counter": "When you hear 'everyone agrees,' the assertion is the trick — not the evidence.\n• No citation means no count. Ask for the source before accepting the claim.\n• Ask who was left out, not just who was included.\n• If they can't name a dissenter, the consensus exists only in their delivery.",
+      "insight": "The real question isn't whether they're lying — it's what they needed to hide by skipping the count."
+    },
+    {
+      "id": 2,
+      "cat": "psychology",
+      "danger": "moderate",
+      "title": "The Conformity Instinct Is Their Main Target",
+      "hook": "You don't question the room because questioning the room feels dangerous. <strong>That feeling is what they're selling.</strong>",
+      "truth": "The conformity instinct is a survival reflex that manufactured consensus turns into a trap.\n• Humans default to group opinion when the truth is unclear to them.\n• Feeling alone in your doubt is the signal that the move is working.\n• The next step is social cost: they make you the outlier for asking.",
+      "principle": "Asch: Conformity Effect",
+      "remember": "Feeling outnumbered is the tactic, not the evidence.",
+      "theySee": "A person in a meeting going quiet after everyone else in the room nods.",
+      "signals": [
+        {
+          "l": "Room nods first",
+          "t": "Agreement spreads through the group before anyone speaks a reason for it.",
+          "icon": "🙋"
+        },
+        {
+          "l": "Eye contact shift",
+          "t": "People stop looking at the doubter and look at the spokesperson instead.",
+          "icon": "👀"
+        },
+        {
+          "l": "Silence on objection",
+          "t": "Nobody backs up the one person who raises a question about the claim.",
+          "icon": "🤐"
+        },
+        {
+          "l": "Bodies turn away",
+          "t": "Group members physically turn from the dissenting voice without saying anything.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the pressure on paper",
+          "desc": "Write: 'I feel outnumbered.' Then write the actual evidence you've seen. Separate the feeling from the facts."
+        },
+        {
+          "n": "2",
+          "title": "Find one other doubter",
+          "desc": "After the meeting, ask one person privately: 'Were you fully convinced?' Most people aren't."
+        },
+        {
+          "n": "3",
+          "title": "Check the evidence alone",
+          "desc": "Pull the source document and read it without the group present. Count the specific claims made."
+        }
+      ],
+      "script": "\"I want to check the actual source before I sign off on this.\"",
+      "counter": "Someone is using social pressure in place of a real argument.\n• Watch for nodding before reasons are given — that's performance, not belief.\n• Say: 'I'm not convinced yet — what's the actual data behind this?'\n• Sit with being the only one asking. It passes faster than regret.",
+      "insight": "The harder problem is that some of the nodders genuinely believe it — they convinced themselves by watching the room, not by reading the evidence."
+    },
+    {
+      "id": 3,
+      "cat": "psychology",
+      "danger": "low",
+      "title": "You're Already Doing It — The False Consensus Effect",
+      "hook": "You think your view is normal. So does everyone else. <strong>That bias is the door they walk through before they say a word.</strong>",
+      "truth": "The false consensus effect means people naturally overestimate how many others share their own beliefs.\n• You enter the room already set up to feel the consensus is real.\n• Your own bias makes their manufactured agreement stronger without any extra effort from them.\n• When shown proof of disagreement, your reflex is to think the dissenters are defective.",
+      "principle": "False Consensus Effect (Ross et al., 1977)",
+      "remember": "You already think your view is the normal one.",
+      "theySee": "A reader nodding at an article that confirms what they already believed before they read it.",
+      "signals": [
+        {
+          "l": "Feels obvious",
+          "t": "The 'everyone agrees' claim feels like a reminder, not news — you already knew this.",
+          "icon": "💡"
+        },
+        {
+          "l": "No surprise",
+          "t": "You hear the consensus and think: 'Of course. I already knew that.'",
+          "icon": "😐"
+        },
+        {
+          "l": "Critic dismissed",
+          "t": "You find yourself thinking the dissenter simply missed something basic.",
+          "icon": "🙄"
+        },
+        {
+          "l": "No curiosity",
+          "t": "You don't look for counter-evidence because the conclusion already feels settled.",
+          "icon": "🔒"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the opposite position",
+          "desc": "Write 2 sentences defending the view you're told 'everyone' rejects. Just to see if you can do it."
+        },
+        {
+          "n": "2",
+          "title": "Find a real dissenter",
+          "desc": "Search for one credible person who disagrees. Read their best argument in full before dismissing it."
+        },
+        {
+          "n": "3",
+          "title": "Check your prior",
+          "desc": "Ask: 'Did I believe this before I heard the consensus claim, or after?' Write the honest answer down."
+        }
+      ],
+      "script": "\"Let me find one person who disagrees before I decide.\"",
+      "counter": "You're being sold a consensus that your own bias is already helping to build inside your head.\n• Notice when a claim feels obvious — that feeling is a signal to slow down.\n• Ask: 'When did I first believe this, and who told me?'\n• Check whether you'd reject a counter-study as quickly as you accepted this claim.",
+      "insight": "The people doing the manufacturing know about this bias and aim directly at it — the move starts before the first message lands."
+    },
+    {
+      "id": 4,
+      "cat": "mechanics",
+      "danger": "high",
+      "title": "Dissent Gets Buried, Not Answered",
+      "hook": "Real consensus survives disagreement. <strong>Manufactured consensus can't — so it buries the disagreement instead of answering it.</strong>",
+      "truth": "The tell of manufactured consensus is not what they say but what they leave out.\n• Dissenting research gets cited less, not refuted — it disappears by neglect.\n• Once dissent is invisible, the appearance of unanimity is real enough to use.\n• The people citing the consensus often don't know the exclusion happened.",
+      "principle": "Noelle-Neumann: Spiral of Silence",
+      "remember": "If nobody is arguing, check whether the argument was allowed.",
+      "theySee": "A researcher whose paper was ignored in a meta-review that everyone else now cites as definitive.",
+      "signals": [
+        {
+          "l": "No minority view",
+          "t": "The summary shows 100% agreement with no noted exceptions or dissent anywhere.",
+          "icon": "📊"
+        },
+        {
+          "l": "One funding source",
+          "t": "Every study in the cited review was paid for by the same organization.",
+          "icon": "💰"
+        },
+        {
+          "l": "Missing names",
+          "t": "Experts who publicly disagree are not cited in the official roundup at all.",
+          "icon": "❓"
+        },
+        {
+          "l": "Narrow date range",
+          "t": "All the agreeing studies appeared in the same short window of time.",
+          "icon": "📅"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the dissenters",
+          "desc": "Search the topic name plus 'criticism' or 'against' or 'disputed.' List what comes up on the first two pages."
+        },
+        {
+          "n": "2",
+          "title": "Check who funded the cited studies",
+          "desc": "Look at the acknowledgments section of the three most-cited papers. Write the funder names next to each paper."
+        },
+        {
+          "n": "3",
+          "title": "Find out what happened to the critics",
+          "desc": "Search whether dissenting researchers published formal rebuttals or were simply not invited to the review process."
+        }
+      ],
+      "script": "\"Who are the credible people who disagree, and why aren't they cited here?\"",
+      "counter": "Someone is presenting agreement by leaving out the people who disagreed.\n• Ask: 'Was there a formal rebuttal process, or did dissent get passed over?'\n• A narrow reference list on a contested topic is a tell — count the sources.\n• If dissenters are named but their work isn't cited, the exclusion was deliberate.",
+      "insight": "The harder problem comes later: some excluded researchers eventually stopped trying to publish, so the absence looks natural after a few years."
+    },
+    {
+      "id": 5,
+      "cat": "detection",
+      "danger": "moderate",
+      "title": "Selection Bias: Look at Who Wasn't Asked",
+      "hook": "Every poll has a sample. <strong>The question is who chose it and who got left out.</strong>",
+      "truth": "Selection bias in consensus-building happens before the first question is asked.\n• The group asked is chosen to produce the desired answer, not measure the real one.\n• Non-representative samples generate real numbers that mean almost nothing.\n• The presenter shows the numbers and never shows the sample design.",
+      "principle": "Sampling Bias — Non-Representative Sample",
+      "remember": "The sample is where they do most of the rigging.",
+      "theySee": "A pollster calling people from one zip code and publishing the results as a national finding.",
+      "signals": [
+        {
+          "l": "Online-only poll",
+          "t": "The survey was run on a platform where one side of the issue is far more active.",
+          "icon": "💻"
+        },
+        {
+          "l": "Opt-in sample",
+          "t": "Respondents signed up themselves — they weren't drawn randomly from any population.",
+          "icon": "✋"
+        },
+        {
+          "l": "Industry ran it",
+          "t": "The organization that funded the poll has a direct financial interest in the result.",
+          "icon": "🏢"
+        },
+        {
+          "l": "Sample size hidden",
+          "t": "The report shows a percentage but buries or omits the number of people actually asked.",
+          "icon": "🔢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the methodology section",
+          "desc": "Look for 'methodology,' 'sample design,' or 'respondents.' If it isn't published, the poll is not usable as evidence."
+        },
+        {
+          "n": "2",
+          "title": "Write down the sample details",
+          "desc": "Record: how many people, how they were recruited, and who paid for the research. All three matter."
+        },
+        {
+          "n": "3",
+          "title": "Test the sample against the claim",
+          "desc": "Ask: would this group answer the same way if the opposing side ran the same poll? If no, the sample is doing the arguing."
+        }
+      ],
+      "script": "\"Can you send me the methodology section? I want to see who was in the sample.\"",
+      "counter": "The numbers they're showing came from a group chosen to produce those numbers.\n• Ask for the sample size before you engage with the percentage.\n• Check whether the sample matches the population the claim covers.\n• No methodology section means the poll is an opinion dressed as data.",
+      "insight": "A well-chosen sample can produce any number legally — no fabrication required."
+    },
+    {
+      "id": 6,
+      "cat": "deployment",
+      "danger": "high",
+      "title": "Astroturfing: Fake Grassroots, Real Pressure",
+      "hook": "It looks like ordinary people independently reached the same conclusion. <strong>They didn't. Someone paid for the appearance.</strong>",
+      "truth": "Astroturfing manufactures the look of spontaneous public agreement from the top down.\n• Coordinated accounts post similar language at similar times — it looks like a wave.\n• The 'independent voices' trace back to one PR firm, one funding source, or one campaign.\n• Once the wave is visible, real people join it — the fake consensus creates a real one.",
+      "principle": "Astroturfing — Simulated Grassroots (Stauber & Rampton, 1995)",
+      "remember": "When many voices say the same words, find the script.",
+      "theySee": "A voter reading ten posts that all use identical phrases about the same ballot measure in one hour.",
+      "signals": [
+        {
+          "l": "Same phrase, many posts",
+          "t": "Multiple accounts use the exact same wording within a short time window.",
+          "icon": "📋"
+        },
+        {
+          "l": "New accounts active",
+          "t": "Accounts created recently are posting heavily on one specific topic only.",
+          "icon": "🆕"
+        },
+        {
+          "l": "No prior history",
+          "t": "The accounts have no posts on anything except this current campaign.",
+          "icon": "🗂️"
+        },
+        {
+          "l": "Synchronized timing",
+          "t": "Posts cluster in a narrow window across different platforms at the same time.",
+          "icon": "⏱️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Copy a distinctive phrase",
+          "desc": "Copy an unusual phrase from the post. Paste it into a search in quotation marks. Count how many accounts used it word-for-word."
+        },
+        {
+          "n": "2",
+          "title": "Check account age and history",
+          "desc": "Click on three accounts pushing the message. Look at account creation date and posting history before this campaign."
+        },
+        {
+          "n": "3",
+          "title": "Find the origin post",
+          "desc": "Sort results by oldest. Find the first account to use the phrase. Check who follows it and what it follows."
+        }
+      ],
+      "script": "\"This phrase appears word-for-word across twenty accounts — let me find the first one.\"",
+      "counter": "Multiple voices repeating the same language is a pattern, not proof of agreement.\n• Search the exact phrase in quotation marks — high repetition across new accounts is a tell.\n• Check who the accounts follow in common — shared follow lists point to coordination.\n• Real grassroots movements have messy, varied language. Clean repetition is scripted.",
+      "insight": "The troubling part: real people who join the wave later are not paid — their genuine posts make the fake foundation invisible."
+    },
+    {
+      "id": 7,
+      "cat": "deployment",
+      "danger": "extreme",
+      "title": "AI Agents Now Run Consensus Campaigns Without a Human in the Loop",
+      "hook": "The next wave of manufactured consensus doesn't need a person to write or post it. <strong>The agents coordinate the campaign themselves.</strong>",
+      "truth": "AI-powered networks can manufacture trending consensus faster than any human team, without fixed scripts that detection tools can flag.\n• Unlike old bots, AI agents vary their language — the patterns are harder to catch.\n• They boost each other's posts to push topics into trending feeds before humans react.\n• By the time a campaign is spotted, the apparent consensus is already in the public record.",
+      "principle": "Multi-Agent Propaganda Coordination (USC Viterbi, 2026)",
+      "remember": "A machine trained to look natural is hard to spot.",
+      "theySee": "A reader scrolling through forty comments on one side, each from a different-looking account, all posted in three hours.",
+      "signals": [
+        {
+          "l": "Varied but aligned",
+          "t": "Posts use different words but push the exact same narrow conclusion with no variation in direction.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Thread grows fast",
+          "t": "A thread about a niche topic gains hundreds of votes in under two hours.",
+          "icon": "📈"
+        },
+        {
+          "l": "Thin account history",
+          "t": "Accounts have varied post histories that feel generic or thin on close reading.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Topic spikes suddenly",
+          "t": "A previously quiet topic surges in posts across platforms within the same hour.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check cross-platform timing",
+          "desc": "Search the same topic on two different platforms at the same time. If it spiked on both in the same hour, flag it."
+        },
+        {
+          "n": "2",
+          "title": "Read account histories carefully",
+          "desc": "Look for accounts where the writing style changes sharply between old posts and new posts on the campaign topic."
+        },
+        {
+          "n": "3",
+          "title": "Find who boosted the early posts",
+          "desc": "Check which accounts posted earliest in the thread. Look for mutual interaction history between those accounts before the campaign began."
+        }
+      ],
+      "script": "\"This spiked on three platforms in the same hour — I'm not trusting this until I find the original source.\"",
+      "counter": "AI-coordinated campaigns are built to look like what organic consensus looks like.\n• Don't rely on 'it looks natural' — that's exactly what the tool optimizes for.\n• Cross-platform simultaneous spikes are the most reliable external signal to watch.\n• When unsure, wait 48 hours — manufactured waves often flatten fast.",
+      "insight": "The detection tools lag the generation tools by at least one version — the campaign you can spot today was yesterday's run."
+    },
+    {
+      "id": 8,
+      "cat": "mechanics",
+      "danger": "moderate",
+      "title": "Survey Questions Are Written to Produce the Answer",
+      "hook": "The survey said 87%. <strong>What the survey didn't say is that the question was written to get 87%.</strong>",
+      "truth": "Survey design is where opinion gets turned into data before you ever see the number.\n• Leading questions, loaded words, and skewed response scales drive the result before anyone answers.\n• Respondents pick up cues about what the survey wants and adjust their answers accordingly.\n• The published number looks clean. The design that produced it is buried or missing.",
+      "principle": "Demand Characteristics (Orne, 1962) — Survey Design Bias",
+      "remember": "The question shape determines the answer before anyone fills it in.",
+      "theySee": "A person reading a survey question that has only two answer choices, both favoring one side.",
+      "signals": [
+        {
+          "l": "Leading phrasing",
+          "t": "The question uses loaded words: 'harmful,' 'critical,' or 'the overwhelming majority already agrees.'",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Skewed scale",
+          "t": "The response scale has four options favoring one side and one option on the other.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "No neutral choice",
+          "t": "Respondents cannot say 'I don't know' or 'neither' — they must pick a side.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Wording not shown",
+          "t": "The question itself is not published in the report — only the percentage result appears.",
+          "icon": "🙈"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the exact question wording",
+          "desc": "Look up the original survey instrument. If the question wording is not published, treat the number as unverifiable."
+        },
+        {
+          "n": "2",
+          "title": "Check the response scale",
+          "desc": "Count how many options favor one direction vs. the other. Asymmetric scales produce skewed results by design."
+        },
+        {
+          "n": "3",
+          "title": "Test the question yourself",
+          "desc": "Rewrite the question in neutral words and ask three people. Compare their answers to the published result."
+        }
+      ],
+      "script": "\"Can you show me the exact wording of the question they asked?\"",
+      "counter": "The number looks objective because numbers look objective.\n• Ask for the question wording before accepting any percentage.\n• A forced-choice scale with no neutral option is not neutral measurement.\n• If the methodology section is missing, the number proves nothing.",
+      "insight": "The more precise the percentage, the more confidence it projects — and the more carefully you should look at what produced it."
+    },
+    {
+      "id": 9,
+      "cat": "detection",
+      "danger": "moderate",
+      "title": "Coordinated Language Is the Fingerprint",
+      "hook": "When independent people reach the same conclusion, they describe it in different words. <strong>When they're coordinated, they use the same words.</strong>",
+      "truth": "Identical or near-identical phrasing across supposedly independent voices is the most reliable tell of coordination.\n• Genuine independent agreement produces messy, varied language — no two people say it the same way.\n• Coordinated campaigns distribute talking points — the language across sources is too clean.\n• The fingerprint survives even when the accounts or authors look different on the surface.",
+      "principle": "Linguistic Fingerprinting — Coordinated Inauthentic Behavior",
+      "remember": "Real agreement sounds different coming from different mouths.",
+      "theySee": "A researcher noticing five opinion pieces using the exact same unusual three-word phrase in the same order.",
+      "signals": [
+        {
+          "l": "Shared rare phrase",
+          "t": "Multiple sources use an uncommon phrase that people would not independently choose.",
+          "icon": "🔗"
+        },
+        {
+          "l": "Same structure",
+          "t": "Different articles follow the same paragraph structure: problem, statistic, call to action.",
+          "icon": "📐"
+        },
+        {
+          "l": "Published in hours",
+          "t": "Multiple 'independent' pieces publish within hours of each other on the same topic.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Same example used",
+          "t": "Every source uses the exact same illustrative case or statistic to support the claim.",
+          "icon": "📌"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull three independent sources",
+          "desc": "Take three sources cited as independent agreement. Copy their key sentence about the topic into one document."
+        },
+        {
+          "n": "2",
+          "title": "Compare phrasing side by side",
+          "desc": "Put the three sentences next to each other. Mark any identical or near-identical phrases."
+        },
+        {
+          "n": "3",
+          "title": "Search the shared phrase",
+          "desc": "Paste the shared unusual phrase into a search engine in quotation marks. Count how many sources used it and when the first appearance was."
+        }
+      ],
+      "script": "\"These three sources used the exact same phrase — let me trace where it first appeared.\"",
+      "counter": "Coordinated language is built to look like coincidence.\n• Compare sources side by side before treating them as independent confirmation.\n• One shared unusual phrase across three sources is not coincidence.\n• Find the first use of the phrase — that's the origin of the talking point.",
+      "insight": "After you find the talking-point origin, the harder question is whether the organizations citing it knew they were working from a distributed script."
+    },
+    {
+      "id": 10,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Defuse \"Everyone Agrees\" in Real Time Without Looking Paranoid",
+      "hook": "You spotted the move. Now you have to say something. <strong>The wrong question sounds paranoid. The right one sounds rigorous.</strong>",
+      "truth": "Defusing manufactured consensus in real time requires precision — the wrong move hands them a target.\n• Ask about sources, not motives — 'who funded this?' sounds accusatory, 'what's the sample?' sounds thorough.\n• One calm question is more powerful than a full rebuttal — it plants the doubt without a fight.\n• The person pushing the consensus is counting on nobody asking anything at all.",
+      "principle": "Socratic Questioning — Epistemic Accountability",
+      "remember": "One specific question does more damage than a long argument.",
+      "theySee": "A colleague asking a calm, specific question that makes the whole room pause for a moment.",
+      "signals": [
+        {
+          "l": "No pushback yet",
+          "t": "Nobody in the room has asked for a source — the consensus is moving without friction.",
+          "icon": "🌊"
+        },
+        {
+          "l": "Presenter speeds up",
+          "t": "The person citing consensus moves quickly past the claim as if stopping is dangerous.",
+          "icon": "🚂"
+        },
+        {
+          "l": "Topic pivot",
+          "t": "After the consensus claim, they move to the next point before anyone can respond.",
+          "icon": "↪️"
+        },
+        {
+          "l": "Vague sourcing",
+          "t": "They say 'studies show' or 'the data clearly indicates' with no specific reference given.",
+          "icon": "🌫️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one specific question",
+          "desc": "Choose ONE: sample size, question wording, who funded it, or who was left out. Ask only that one question."
+        },
+        {
+          "n": "2",
+          "title": "Let the silence sit",
+          "desc": "After asking, stop talking. Count to five silently. The discomfort belongs to them, not you."
+        },
+        {
+          "n": "3",
+          "title": "Note the response type",
+          "desc": "Write down after the meeting: did they answer the question or redirect? A redirect is confirmation. An answer is a starting point."
+        }
+      ],
+      "script": "\"What was the sample size on that survey, and who ran it?\"",
+      "counter": "Someone is using 'everyone agrees' on you in this meeting right now.\n• Don't debate the claim — question the source of the claim instead.\n• Ask one thing only. Multiple questions sound like an attack.\n• If they can't answer the one question, the claim doesn't survive the meeting.",
+      "insight": "The real test comes after the meeting — if they send you the source and it checks out, you learned something. If they don't send it, you have your answer."
+    },
+    {
+      "id": 11,
+      "cat": "counter",
+      "danger": "high",
+      "title": "When Questioning Consensus Makes You the Target",
+      "hook": "Once you ask the question, the move changes. <strong>Now they're not defending the consensus — they're questioning you.</strong>",
+      "truth": "The fastest defense of manufactured consensus is to make the questioner look like a fringe actor.\n• The false consensus effect makes dissenters look defective — the presenter uses that reflex against you.\n• They don't need to answer your question. They need the room to doubt your motive.\n• Common moves: 'That's a fringe view,' 'Only deniers say that,' 'Everyone serious agrees.'",
+      "principle": "Genetic Fallacy — Poisoning the Well",
+      "remember": "Attacking the questioner is the move when they can't answer the question.",
+      "theySee": "A person in a meeting being looked at like they said something embarrassing, not something factual.",
+      "signals": [
+        {
+          "l": "Label applied",
+          "t": "They describe your question using a dismissive category: 'denialist,' 'fringe,' or 'contrarian.'",
+          "icon": "🏷️"
+        },
+        {
+          "l": "Room checks you",
+          "t": "After the label, people look at you to watch your reaction, not at the presenter for an answer.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Motive challenged",
+          "t": "They ask why you're asking — not to understand, but to imply the answer is obvious.",
+          "icon": "🔎"
+        },
+        {
+          "l": "Credentials cited",
+          "t": "They cite their own authority or the authority of the consensus makers instead of the data.",
+          "icon": "🎓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the move out loud",
+          "desc": "Say: 'I asked about the source — I'm still waiting for that answer.' Do not engage with the label they applied."
+        },
+        {
+          "n": "2",
+          "title": "Hold the original question",
+          "desc": "Write the original question on paper and return to it each time they redirect. They moved; you didn't."
+        },
+        {
+          "n": "3",
+          "title": "Document the pivot",
+          "desc": "After the meeting, write: 'They were asked X and said Y instead.' That record has uses later."
+        }
+      ],
+      "script": "\"I asked about the sample size — I'm still looking for that answer.\"",
+      "counter": "You are now the target. That's how you know you hit something real.\n• Don't defend yourself against the label — defending it accepts their terms.\n• Repeat the original question once, calmly, and stop talking.\n• If they still don't answer, the room noticed. You don't need to say anything else.",
+      "insight": "The more hostile the response to one calm question, the more important the question was."
+    },
+    {
+      "id": 12,
+      "cat": "aftermath",
+      "danger": "moderate",
+      "title": "After You Spot It — Use the Gap Before You Announce It",
+      "hook": "You've identified a manufactured consensus campaign. <strong>Most people announce it. The ones who win act on it first.</strong>",
+      "truth": "Spotting manufactured consensus is only useful if you turn the knowledge into a position before others do.\n• Knowing the consensus is fake gives you better information than everyone else in the room.\n• The people around you are making decisions based on a false map — you can see where the map is wrong.\n• The move is not to announce you spotted it, but to act on the gap while others follow the fiction.",
+      "principle": "Kuran: Preference Falsification — Exploiting the Gap",
+      "remember": "Use what you know before you say what you know.",
+      "theySee": "A colleague watching everyone vote yes on something they privately know is based on a rigged poll.",
+      "signals": [
+        {
+          "l": "Others committed",
+          "t": "People around you have already publicly agreed — reversing now would cost them face.",
+          "icon": "🔒"
+        },
+        {
+          "l": "Deadline attached",
+          "t": "A decision timeline has been set around the consensus — the window to act is closing.",
+          "icon": "⏳"
+        },
+        {
+          "l": "Counter-evidence exists",
+          "t": "Credible opposing research exists but is not circulating in the current discussion.",
+          "icon": "📄"
+        },
+        {
+          "l": "Funder visible",
+          "t": "You can now see who funded or coordinated the consensus — a specific, usable piece of information.",
+          "icon": "🕵️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write what you know that they don't",
+          "desc": "List three specific facts: who funded it, what the sample excluded, what the counter-evidence says. Keep the document."
+        },
+        {
+          "n": "2",
+          "title": "Decide your move before speaking",
+          "desc": "Choose: share publicly, advise one person privately, or act on it yourself and say nothing. Pick one and commit."
+        },
+        {
+          "n": "3",
+          "title": "Circulate the counter-evidence to one person who matters",
+          "desc": "Send the strongest dissenting source to one person before the decision is finalized. One person is enough to open the question."
+        }
+      ],
+      "script": "\"Before we finalize this, I found a study the review didn't include — can we look at it?\"",
+      "counter": "Someone may be testing whether you'll act on what you know or stay quiet.\n• Staying quiet means operating inside their manufactured map.\n• If you act, pick one specific fact — not the whole argument.\n• The room follows whoever has the most specific information, not the loudest voice.",
+      "insight": "The next move after spotting is deciding whether you want to correct the consensus or use the gap it opened — those are different games with different payoffs."
+    }
+  ]
+}
