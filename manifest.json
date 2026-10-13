@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 90,
+  "manifestVersion": 91,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -832,7 +832,20 @@
       "url": "playbooks/playbook-srv-after-everything-i-did-for-you.json",
       "addedAt": "2026-10-03T00:04:32.872Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-compliment-that-was-an-insult",
+      "title": "The Compliment That Was an Insult",
+      "theme": "backhanded compliments",
+      "topic": "",
+      "cardCount": 14,
+      "contentVersion": 1,
+      "coverColor": "#7A1F2B",
+      "coverIcon": "🎭",
+      "url": "playbooks/playbook-srv-the-compliment-that-was-an-insult.json",
+      "addedAt": "2026-10-13T23:55:02.095Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-03T00:04:32.872Z"
+  "generatedAt": "2026-10-13T23:55:02.095Z"
 }
