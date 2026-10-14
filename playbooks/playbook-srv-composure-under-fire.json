@@ -1,0 +1,700 @@
+{
+  "meta": {
+    "id": "srv-composure-under-fire",
+    "version": "1.0",
+    "title": "Composure Under Fire",
+    "subtitle": "The Layoff and Bad-News Meeting Playbook",
+    "description": "12 moves for the hardest meetings you'll sit in — whether you're delivering the news or hearing it. Read it before you walk in the door.",
+    "author": "AI",
+    "createdAt": "2026-10-14T18:21:32.254Z",
+    "tags": [
+      "composure",
+      "layoff",
+      "bad news",
+      "meetings",
+      "emotional control",
+      "negotiation"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1c2340",
+    "coverIcon": "🎯",
+    "fromServer": true,
+    "generation": {
+      "topic": "Keeping composure in a bad-news or layoff meeting",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "prep",
+      "label": "Before You Walk In",
+      "color": "#2d4a7a"
+    },
+    {
+      "key": "body",
+      "label": "Physical Control",
+      "color": "#3d5a4a"
+    },
+    {
+      "key": "delivery",
+      "label": "Giving the News",
+      "color": "#5a2d2d"
+    },
+    {
+      "key": "receiving",
+      "label": "Taking the Hit",
+      "color": "#4a2d5a"
+    },
+    {
+      "key": "words",
+      "label": "What to Say",
+      "color": "#4a4a2d"
+    },
+    {
+      "key": "after",
+      "label": "The Aftermath",
+      "color": "#2d4a4a"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "prep",
+      "danger": "low",
+      "title": "Run the Worst Case Before You Walk In",
+      "hook": "Your imagination is running the meeting before you even sit down. <strong>Get there first.</strong>",
+      "truth": "Most people walk in hoping it won't get bad. That's why it does.\n• Name the worst outcome. Your body stops treating the unknown as a threat.\n• The meeting becomes smaller once you've already survived it in your head.\n• The trap: picturing worst case and deciding not to go, instead of picturing it and walking in anyway.",
+      "principle": "Stress Inoculation",
+      "remember": "Picture the worst thing that could happen. Then it can't surprise you.",
+      "theySee": "A manager sitting alone outside a conference room, lips moving slightly, running lines in their head.",
+      "signals": [
+        {
+          "l": "Dread at door",
+          "t": "You're standing outside the room longer than you need to, not moving.",
+          "icon": "🚪"
+        },
+        {
+          "l": "Blank script",
+          "t": "You have no idea what you'll say if they cry or start shouting.",
+          "icon": "📄"
+        },
+        {
+          "l": "Body tight",
+          "t": "Your shoulders are near your ears and your jaw is clenched.",
+          "icon": "💪"
+        },
+        {
+          "l": "Faster walk",
+          "t": "You're moving quickly toward the room to avoid thinking about what's coming.",
+          "icon": "🏃"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the worst thing",
+          "desc": "Write one sentence: the worst thing that could happen in the next hour. Not a list. One sentence."
+        },
+        {
+          "n": "2",
+          "title": "Walk through it",
+          "desc": "Spend two minutes picturing that worst thing happening. Notice you're still standing. That's the point."
+        },
+        {
+          "n": "3",
+          "title": "Set your floor",
+          "desc": "Decide: what's the one thing you will not do in that room — shout, cry, freeze? Name it. Own it."
+        }
+      ],
+      "script": "Worst case: they yell and walk out. I let them. Meeting done. I handled it.",
+      "counter": "Someone uses worst-case talk to make you accept a bad deal by making the alternative sound scarier than it is.\n• They describe the worst case loudly to make their current offer seem reasonable.\n• Ask: 'What's the realistic case?' Not the worst. The likely.\n• Make them defend the middle, not the extreme.",
+      "insight": "Running the worst case in your head works. The harder part is doing it 20 minutes before, not 20 seconds into the meeting when it's already too late."
+    },
+    {
+      "id": 2,
+      "cat": "prep",
+      "danger": "moderate",
+      "title": "Script Your First 30 Seconds Word for Word",
+      "hook": "The first sentence in a hard meeting sets everything that follows. <strong>If you wing it, you'll regret the first 10 words for a week.</strong>",
+      "truth": "Most people plan the topic but not the words. The words are the meeting.\n• A scripted opening keeps emotion from hijacking your first sentence.\n• The person across the table decides in seconds whether you know what you're doing.\n• The trap: over-scripting so it sounds robotic. One or two sentences, no more.",
+      "principle": "Voss: Know Your First Line",
+      "remember": "Write your opening line. Say it out loud before you go in.",
+      "theySee": "A manager reading from their phone notes right before clicking to join the meeting.",
+      "signals": [
+        {
+          "l": "Rambling start",
+          "t": "You started three different ways before landing on what you wanted to say.",
+          "icon": "🌀"
+        },
+        {
+          "l": "Filler words",
+          "t": "You heard yourself say 'um' or 'so' more than once in the first 10 seconds.",
+          "icon": "💬"
+        },
+        {
+          "l": "Eyes drop",
+          "t": "Your eyes went to the floor or desk right when you started talking.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Apology open",
+          "t": "You opened with 'sorry to have to tell you this' or 'I hate doing this.'",
+          "icon": "🙏"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the first two sentences",
+          "desc": "Type them. Not bullets. Full sentences. The first states why you're here. The second states the decision."
+        },
+        {
+          "n": "2",
+          "title": "Say them out loud alone",
+          "desc": "Stand up. Say them in a normal voice. If you stumble, that's what they'd have heard."
+        },
+        {
+          "n": "3",
+          "title": "Cut anything before the point",
+          "desc": "Remove any warm-up, any preamble, any 'so I wanted to talk to you about.' Go straight to the sentence."
+        }
+      ],
+      "script": "I need to share some difficult news with you. As of today, your position has been eliminated.",
+      "counter": "When someone scripts their opening at you, the scripted part is the thing they most rehearsed. What follows is where the real information lives.\n• They sound smooth for 30 seconds, then stall.\n• Ask a specific question immediately after their opening.\n• Their hesitation in the follow-up tells you more than their prepared lines.",
+      "insight": "A clean opening only gets you to the second sentence. The harder problem is what you say when they ask a question you didn't prepare for."
+    },
+    {
+      "id": 3,
+      "cat": "body",
+      "danger": "low",
+      "title": "Control Your Breathing Before You Enter the Room",
+      "hook": "Your voice shakes when your breathing is off. <strong>Fix the breath. The voice fixes itself.</strong>",
+      "truth": "Your body shows the meeting before you say a word. Most people try to control their face and forget the breath driving it.\n• Slow exhales drop your heart rate in under 60 seconds.\n• The other person reads your breathing rate as confidence or panic.\n• The trap: trying to control your expressions instead of the breath that's driving them.",
+      "principle": "Physiological Self-Regulation: Box Breathing",
+      "remember": "Three slow breaths before you open the door. Every time.",
+      "theySee": "A person standing in a hallway with eyes closed, inhaling slowly, then exhaling fully before entering a room.",
+      "signals": [
+        {
+          "l": "Voice cracks",
+          "t": "Your voice breaks on the first or second word of a sentence.",
+          "icon": "🎤"
+        },
+        {
+          "l": "Rushed words",
+          "t": "You're talking faster than you mean to without noticing it.",
+          "icon": "⏩"
+        },
+        {
+          "l": "Visible neck",
+          "t": "The vein on your neck is visibly tight or moving more than usual.",
+          "icon": "😬"
+        },
+        {
+          "l": "Short sips",
+          "t": "You're breathing in shallow sips instead of full inhales.",
+          "icon": "💨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find 60 seconds alone",
+          "desc": "Go to a bathroom, hallway, or stairwell. Anywhere they can't see you. You need one minute."
+        },
+        {
+          "n": "2",
+          "title": "Breathe out first",
+          "desc": "Exhale fully before inhaling. Long exhale — five counts. Then inhale four counts. Repeat three times."
+        },
+        {
+          "n": "3",
+          "title": "Walk in on the exhale",
+          "desc": "Open the door right after a full exhale. Your body is already slower. Your voice follows."
+        }
+      ],
+      "script": "Give me one minute — I'll be right in.",
+      "counter": "When someone walks in and their first breath is too controlled and too slow, they're managing something. They already know what they're about to say.\n• They open with a very deliberate pause before speaking.\n• Fill the pause with a direct question before they start.\n• 'What's this meeting about?' takes the scripted opening away from them.",
+      "insight": "Three controlled breaths work for the person delivering. The person receiving has no prep time. The gap in composure between the two sides is where the real information transfer happens."
+    },
+    {
+      "id": 4,
+      "cat": "body",
+      "danger": "moderate",
+      "title": "Pause Longer Than Feels Natural When Someone Gets Emotional",
+      "hook": "When they get loud or cry, the instinct is to fill the silence fast. <strong>That instinct is wrong.</strong>",
+      "truth": "Filling silence immediately signals panic. A calm pause signals you've seen this before.\n• Silence after emotion reads as authority, not coldness.\n• The person who speaks first in emotional silence usually gives something up.\n• The trap: confusing pause with freeze. A pause is deliberate. A freeze is obvious.",
+      "principle": "Status Signaling: Stillness",
+      "remember": "Say nothing for five seconds when the room gets tense. Then speak.",
+      "theySee": "A manager sitting still, looking at the person across the table, not flinching, not talking.",
+      "signals": [
+        {
+          "l": "You jump in",
+          "t": "You start talking the moment they stop, even mid-sob.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "You over-explain",
+          "t": "You add three more reasons for the decision when one was enough.",
+          "icon": "📋"
+        },
+        {
+          "l": "Double apology",
+          "t": "You've said 'I'm sorry' more than once in under two minutes.",
+          "icon": "🙏"
+        },
+        {
+          "l": "Eyes away",
+          "t": "You break eye contact the moment their voice cracks.",
+          "icon": "👀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count to five silently",
+          "desc": "When they stop talking — whether from anger or tears — count five seconds before you respond. Do it every time."
+        },
+        {
+          "n": "2",
+          "title": "Name what's happening",
+          "desc": "After the pause, say what you see: 'This is hard news.' Nothing more. One sentence."
+        },
+        {
+          "n": "3",
+          "title": "Ask one question",
+          "desc": "After naming it, ask one question: 'What do you need right now?' Then go quiet again."
+        }
+      ],
+      "script": "This is hard news. Take whatever time you need.",
+      "counter": "When someone pauses strategically at you — long deliberate silence after you've said something — they're waiting for you to fill it and give something up.\n• Deliberate silence feels like disapproval or a threat.\n• Let it sit. Match their pause. Don't explain yourself.\n• The one who fills the silence first loses the round.",
+      "insight": "The pause works both ways. If you can hold it when they're emotional, notice whether you can also hold it when they say nothing — that's the harder version of the same skill."
+    },
+    {
+      "id": 5,
+      "cat": "delivery",
+      "danger": "moderate",
+      "title": "Say the Hard Thing in the First 30 Seconds",
+      "hook": "Every second you delay the news, they sense it coming. <strong>The waiting is worse than the news.</strong>",
+      "truth": "Preamble is for the deliverer's comfort, not the receiver's. It makes everything worse.\n• When someone senses bad news, their brain has already shifted to threat mode.\n• Delaying the news prolongs the threat state and burns their trust in the same move.\n• The trap: thinking a warm-up softens the blow. It doesn't. It extends the fear.",
+      "principle": "Loss Aversion: Front-Load the Hard Truth",
+      "remember": "Say the bad thing first. Silence and buildup make it bigger.",
+      "theySee": "A manager speaking slowly and indirectly while the person across from them grips the armrests of their chair, already knowing.",
+      "signals": [
+        {
+          "l": "Long preamble",
+          "t": "You've been talking for two minutes and haven't named the decision yet.",
+          "icon": "🕐"
+        },
+        {
+          "l": "Context first",
+          "t": "You started with the business situation before telling them what's happening to them.",
+          "icon": "📊"
+        },
+        {
+          "l": "They ask first",
+          "t": "They said 'just tell me' or 'am I being let go?' before you got there.",
+          "icon": "❓"
+        },
+        {
+          "l": "You hedge",
+          "t": "You said 'this was a really hard decision' three times before saying the decision.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the sentence",
+          "desc": "Before the meeting: one sentence. 'Your role has been eliminated effective [date].' That's the opener."
+        },
+        {
+          "n": "2",
+          "title": "Open with it",
+          "desc": "After you say hello and they sit — say the sentence. No context first, no 'so we've been going through changes.'"
+        },
+        {
+          "n": "3",
+          "title": "Stop talking after it",
+          "desc": "After the sentence, say nothing. Let them react. The next sentence is theirs."
+        }
+      ],
+      "script": "I need to tell you directly: your position has been eliminated, effective [date].",
+      "counter": "When someone leads a meeting with extensive context before naming the decision, they're building toward something that will upset you. Don't wait for it.\n• You feel the buildup: more words, slower pace, throat clearing.\n• Interrupt calmly: 'Are you telling me I'm being let go?'\n• Naming it out loud ends their control of the pacing.",
+      "insight": "Saying it first is the right move. The harder question is what you do in the 10 seconds after — before they react — when the silence is loudest."
+    },
+    {
+      "id": 6,
+      "cat": "delivery",
+      "danger": "moderate",
+      "title": "Give One Reason for the Decision, Then Stop",
+      "hook": "Every extra reason you give is another thing they can argue against. <strong>One reason is a decision. Three reasons is a negotiation.</strong>",
+      "truth": "Over-explaining reads as guilt and opens the door to debate. Say less.\n• One reason is final. Three reasons signals you're unsure of the decision.\n• Each added reason gives them a new thread to pull on.\n• The trap: confusing explanation with respect. They are not the same thing.",
+      "principle": "Greene: Law 4 — Say Less Than Necessary",
+      "remember": "One clear reason. Then stop. More words invite more argument.",
+      "theySee": "A manager adding reason after reason — business direction, performance, budget, timing — while the employee takes notes and starts building responses to each one.",
+      "signals": [
+        {
+          "l": "Reason count",
+          "t": "You've given more than one reason for the decision in under three minutes.",
+          "icon": "🔢"
+        },
+        {
+          "l": "They argue back",
+          "t": "They're addressing your reasons one by one, treating them like a list to disprove.",
+          "icon": "⚔️"
+        },
+        {
+          "l": "You add more",
+          "t": "Each time they push back, you offer another reason instead of holding the decision.",
+          "icon": "➕"
+        },
+        {
+          "l": "Reason apology",
+          "t": "You said 'I know that might not make sense but...' before giving a second reason.",
+          "icon": "🙄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Choose one reason before the meeting",
+          "desc": "The real reason. Not three. Write it down: 'The decision was made because [one sentence].'"
+        },
+        {
+          "n": "2",
+          "title": "Say it once, then name the decision as final",
+          "desc": "After the reason: 'This decision has been made. It won't change.' Say those words exactly."
+        },
+        {
+          "n": "3",
+          "title": "Hold the line on follow-up",
+          "desc": "When they push back, repeat the same reason. Don't add to it. 'I understand. The decision stands.'"
+        }
+      ],
+      "script": "This was a business decision driven by restructuring. The decision has been made and it won't change.",
+      "counter": "When someone gives you one clipped reason and then goes silent, they've been coached. The real story or the real upper hand lives in what they won't say.\n• One reason delivered flatly, then silence.\n• Ask: 'What other factors went into this?' Make them account for more.\n• Their discomfort expanding the explanation tells you where the weak point is.",
+      "insight": "One reason holds. The harder test is whether you can repeat the same reason five times when they push back — without adding a single word to it."
+    },
+    {
+      "id": 7,
+      "cat": "delivery",
+      "danger": "moderate",
+      "title": "Let Silence Sit After the News Lands",
+      "hook": "You said the hard thing. Now they need a moment to absorb it. <strong>Don't take that moment from them by talking.</strong>",
+      "truth": "The instinct to fill silence after bad news is about your discomfort, not their need.\n• Silence after news gives the person time to move from shock to thinking.\n• Talking into their silence tells them you're uncomfortable — not that you're in control.\n• The trap: interpreting their silence as a cue to explain more. It isn't.",
+      "principle": "Voss: Tactical Silence",
+      "remember": "After the news lands, say nothing until they do.",
+      "theySee": "A manager sitting still, hands flat on the table, looking at the other person without rushing them.",
+      "signals": [
+        {
+          "l": "You keep talking",
+          "t": "You're still describing the severance package while they're staring at nothing.",
+          "icon": "📢"
+        },
+        {
+          "l": "You re-explain",
+          "t": "You've restated the decision in different words because the silence felt too long.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Early tissues",
+          "t": "You moved to fix their feeling before they'd even finished having it.",
+          "icon": "🤧"
+        },
+        {
+          "l": "Your hands move",
+          "t": "You're gesturing, fidgeting, or rearranging papers instead of sitting still.",
+          "icon": "🤲"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Plan your stopping point",
+          "desc": "Before the meeting: choose the sentence after which you will stop and wait. Write it. Say it. Stop."
+        },
+        {
+          "n": "2",
+          "title": "Count 10 seconds in your head",
+          "desc": "After you deliver the news, count to 10 before you say anything else. In practice, they'll speak first."
+        },
+        {
+          "n": "3",
+          "title": "Match their pace",
+          "desc": "Whatever speed they set after the news — fast, slow, or silent — follow their lead, not yours."
+        }
+      ],
+      "script": "Take whatever time you need. I'm not going anywhere.",
+      "counter": "When someone uses strategic silence on you after delivering news, they want you to fill the space with concessions or an emotional reaction.\n• The silence after news is designed to pressure you into talking.\n• Hold your silence or ask a single direct question. Don't fill the void.\n• 'What happens next?' is better than explaining your feelings unprompted.",
+      "insight": "Holding silence after delivering news is the easy version. The harder version is holding it when they're visibly upset and every instinct says to help by talking."
+    },
+    {
+      "id": 8,
+      "cat": "receiving",
+      "danger": "high",
+      "title": "Don't Speak in the First 60 Seconds After You Hear the News",
+      "hook": "The words you say in the first minute after hearing you're gone are the ones people remember. <strong>Most people waste that minute.</strong>",
+      "truth": "The brain under shock produces words before your thinking catches up. Those words become the story.\n• Shock shortens the gap between feeling and speaking to almost nothing.\n• The first 60 seconds are the highest-risk window for saying something you can't take back.\n• The trap: thinking silence looks weak. It looks like you're in control.",
+      "principle": "Goleman: Emotional Hijacking Prevention",
+      "remember": "Don't speak until you know what you want to say.",
+      "theySee": "A person sitting still, eyes forward, not speaking, after being told their job is gone.",
+      "signals": [
+        {
+          "l": "You argue first",
+          "t": "You start making your case for why this is wrong before they finish explaining.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "You go personal",
+          "t": "You name a specific person you think is responsible in your first response.",
+          "icon": "👉"
+        },
+        {
+          "l": "You commit fast",
+          "t": "You agree to next steps or sign something before you've had time to think.",
+          "icon": "✍️"
+        },
+        {
+          "l": "Tears before words",
+          "t": "You're speaking through tears before you've decided what you want to say.",
+          "icon": "😢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide your one sentence in advance",
+          "desc": "Before any meeting where layoff is possible, have one sentence ready: 'I need a moment to take this in.'"
+        },
+        {
+          "n": "2",
+          "title": "Use that sentence as a stopper",
+          "desc": "When the news lands, say the sentence. Then stop. It buys 30–60 seconds without seeming aggressive."
+        },
+        {
+          "n": "3",
+          "title": "Ask one practical question",
+          "desc": "After your pause, ask one practical question only: 'What's the timeline?' or 'What's in the severance?' Practical questions move you to thinking mode."
+        }
+      ],
+      "script": "I need a moment to take this in.",
+      "counter": "When someone in a hard meeting pushes you to respond immediately — 'so what are your thoughts right now?' — they want your unprocessed reaction. Don't give it.\n• They push for an immediate reaction, often framed as wanting to hear you out.\n• Name the pause: 'I want to think through this before I respond.'\n• Any immediate agreement in this moment is made under shock. It doesn't have to stand.",
+      "insight": "Staying quiet for 60 seconds is easy to say and very hard to do when someone is watching you. The practical question trick works because it moves you from feeling mode to thinking mode faster than silence alone."
+    },
+    {
+      "id": 9,
+      "cat": "receiving",
+      "danger": "high",
+      "title": "Ask One Question Instead of Arguing Your Case",
+      "hook": "You have the evidence that this decision is wrong. <strong>They don't care.</strong>",
+      "truth": "Arguing in a layoff meeting spends energy you need later, in a room that has already moved on.\n• The decision was made before you walked in. Your argument changes nothing in that room.\n• One calm question gets you information. A full argument gets you walked out faster.\n• The trap: making a strong case in a room where the decision is done.",
+      "principle": "Voss: Calibrated Questions",
+      "remember": "One calm question beats a long argument when it's already decided.",
+      "theySee": "A person sitting calmly, then asking one question in a flat voice after hearing the news, while the manager scrambles to answer it.",
+      "signals": [
+        {
+          "l": "You list reasons",
+          "t": "You're telling them three reasons why the decision is wrong or unfair.",
+          "icon": "📋"
+        },
+        {
+          "l": "You bring evidence",
+          "t": "You're referencing your performance numbers or past praise to make your case.",
+          "icon": "📊"
+        },
+        {
+          "l": "Their face closes",
+          "t": "The manager's face has gone flat and they've stopped engaging with what you're saying.",
+          "icon": "😐"
+        },
+        {
+          "l": "You get louder",
+          "t": "Your voice is getting louder as you make your case, not quieter.",
+          "icon": "📢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Choose one question in advance",
+          "desc": "Before any meeting where layoff is possible, pick one question: 'What is the severance?' or 'When was this decided?' One only."
+        },
+        {
+          "n": "2",
+          "title": "Ask it in a flat voice",
+          "desc": "Flat, not angry. Not sarcastic. Flat. You want information, not a reaction from them."
+        },
+        {
+          "n": "3",
+          "title": "Write down their answer",
+          "desc": "Pull out a pen and paper and write down what they say. This signals you're thinking, not reacting. It also creates a record."
+        }
+      ],
+      "script": "When was this decision made?",
+      "counter": "When someone uses a calibrated question to slow down a conversation you're running, they're pulling information and buying time. Don't answer more than you were asked.\n• A single calm question followed by silence is a practiced move.\n• Answer only what was asked. Don't elaborate.\n• 'That was decided last week' is enough. Don't explain the whole process.",
+      "insight": "The question gets you information and buys you time. The harder move is knowing which question to ask — the one that reveals the most about what you don't know yet."
+    },
+    {
+      "id": 10,
+      "cat": "words",
+      "danger": "high",
+      "title": "Don't Promise Support You Can't Deliver in the Room",
+      "hook": "You're uncomfortable. They're devastated. <strong>The thing you want to promise will make both of you feel better for five minutes and worse for a month.</strong>",
+      "truth": "Promises made in hard rooms get remembered exactly. People cross-check them later.\n• 'We'll do everything we can' is a promise. They will hold you to it.\n• Empty support offers destroy trust faster than no support at all.\n• The trap: confusing 'we'll keep in touch' with a commitment. They heard a commitment.",
+      "principle": "Expectation Anchoring: Under-Promise, Over-Deliver",
+      "remember": "Only promise what you can actually do in that room.",
+      "theySee": "A manager nodding warmly and saying 'we'll absolutely give you a reference' while privately knowing company policy doesn't allow it for terminated employees.",
+      "signals": [
+        {
+          "l": "You say 'anything'",
+          "t": "You said 'if there's anything I can do' without specifying what you can actually do.",
+          "icon": "🤷"
+        },
+        {
+          "l": "Reference promise",
+          "t": "You offered a reference without knowing whether company policy allows it.",
+          "icon": "📝"
+        },
+        {
+          "l": "Vague future",
+          "t": "You said 'we'll stay in touch' or 'things might change' without meaning it.",
+          "icon": "🔮"
+        },
+        {
+          "l": "They take notes",
+          "t": "They're writing down what you're promising. Everything you say is becoming a list.",
+          "icon": "✍️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Know your actual offers before you go in",
+          "desc": "List what is confirmed: EAP access, outplacement, severance terms, reference policy. Know what you can say yes to."
+        },
+        {
+          "n": "2",
+          "title": "Name only what's confirmed",
+          "desc": "In the meeting, name only those items. 'Here's what we can offer: [specific list].' Nothing outside the list."
+        },
+        {
+          "n": "3",
+          "title": "Say 'I'll check on that' when you don't know",
+          "desc": "If they ask for something not on your list: 'I'll check on that and get back to you by [day].' Then do it."
+        }
+      ],
+      "script": "Here's what I can confirm right now: [severance terms, EAP access, outplacement support]. I'll follow up on anything beyond that by Friday.",
+      "counter": "When someone in a hard meeting gives you a vague promise — 'we'll do everything we can' — pin it before you leave the room.\n• Vague promises evaporate after the meeting ends.\n• Ask: 'Can you put that in writing today?'\n• A promise that can't be written down isn't a promise. It's a comfort move.",
+      "insight": "The support you commit to in that room becomes the minimum floor they'll measure everything against. Under-promise in the room. Over-deliver after."
+    },
+    {
+      "id": 11,
+      "cat": "words",
+      "danger": "moderate",
+      "title": "Name the Corporate Decision, Not the Person's Failure",
+      "hook": "They want to know if it's about them. <strong>If it isn't, you have to say so directly — not hint at it.</strong>",
+      "truth": "Most people receiving bad news assume it's personal. Most managers let that assumption sit unchallenged.\n• Ambiguity about the reason reads as confirmation of failure.\n• Naming the corporate decision clearly separates their identity from the result.\n• The trap: saying 'this isn't about your performance' once and assuming it landed.",
+      "principle": "Attribution Theory: Situational vs. Dispositional",
+      "remember": "Say out loud it's a business decision, not their failure.",
+      "theySee": "A manager saying 'we're eliminating the role' while holding eye contact until the person across the table nods.",
+      "signals": [
+        {
+          "l": "They ask 'why me'",
+          "t": "They've asked directly or indirectly if this is because of something they did.",
+          "icon": "❓"
+        },
+        {
+          "l": "They go quiet",
+          "t": "They've gone silent and are looking down, processing it as their own failure.",
+          "icon": "😔"
+        },
+        {
+          "l": "You deflect",
+          "t": "You said 'it's complicated' or 'there are a lot of factors' instead of naming the reason.",
+          "icon": "↩️"
+        },
+        {
+          "l": "They blame themselves",
+          "t": "They said 'I knew I wasn't good enough' or similar self-blaming language.",
+          "icon": "💔"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Prepare the attribution sentence",
+          "desc": "One sentence before the meeting: 'This decision is about [business reason], not your performance.' Write it word for word."
+        },
+        {
+          "n": "2",
+          "title": "Say it directly and early",
+          "desc": "Don't wait for them to ask 'why me.' Say the attribution sentence in the first two minutes."
+        },
+        {
+          "n": "3",
+          "title": "Back it up with one specific",
+          "desc": "After the sentence, add one concrete thing: 'Your work on [project] was strong.' One example. Not a list."
+        }
+      ],
+      "script": "This decision is about the business direction, not your performance. Your work on [project] was strong.",
+      "counter": "When someone tells you 'it's not about your performance' in a layoff meeting, verify it before you believe it. It may be true. It may be the softest way to say it partly is.\n• They say 'it's not personal' but can't give a clear business reason.\n• Ask: 'What specifically changed in the business that led to this?'\n• A vague answer after a clear 'it's not about you' often means it is, at least partly.",
+      "insight": "Naming the business reason protects them from treating it as personal failure. But if the reason is partly performance, saying it's purely business is a lie that will surface in the reference check."
+    },
+    {
+      "id": 12,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Do One Practical Thing in the First Hour After the Meeting",
+      "hook": "The meeting is over. What you do in the next hour determines whether the next week is chaos or a plan. <strong>Most people go straight to their phone to tell someone. Don't.</strong>",
+      "truth": "The impulse to call or text someone right after a hard meeting is about relief, not strategy.\n• Talking first locks you into a story before you know what you want to do.\n• One practical act — writing down what was said — gives you facts before feelings.\n• The trap: debriefing with a coworker still inside the company. They are not safe.",
+      "principle": "After-Action Review: Record Before You React",
+      "remember": "Do one practical thing before you tell anyone what happened.",
+      "theySee": "A person sitting alone in their car, writing notes on their phone, before calling anyone.",
+      "signals": [
+        {
+          "l": "You call first",
+          "t": "You've already called someone before writing down what was said in the meeting.",
+          "icon": "📱"
+        },
+        {
+          "l": "You post online",
+          "t": "You've gone to social media within the hour to share what happened.",
+          "icon": "💻"
+        },
+        {
+          "l": "Memory fades",
+          "t": "Two hours later, you can't remember the specific terms or numbers they named.",
+          "icon": "🧠"
+        },
+        {
+          "l": "You gossip at work",
+          "t": "You told a coworker before leaving the building, and now it's spreading.",
+          "icon": "🗣️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write what was said",
+          "desc": "In the next 30 minutes: write down every specific thing said — terms, dates, names, promises. Exact words if you can."
+        },
+        {
+          "n": "2",
+          "title": "List what you need to verify",
+          "desc": "Write the questions you didn't ask: 'What's the reference policy? Is there a non-disparagement clause?' Write them now, before you forget."
+        },
+        {
+          "n": "3",
+          "title": "Decide who gets to know first",
+          "desc": "Choose one person outside the company to call. Call them. Not a coworker, not social media. One trusted person."
+        }
+      ],
+      "script": "I need 30 minutes before I call anyone. I'm writing everything down first.",
+      "counter": "When someone comes out of a hard meeting and immediately tells you what happened in detail, they're releasing pressure, not strategizing. What they say in the first 10 minutes is the most unguarded version of their thinking.\n• They're talking fast and sharing more than they intended.\n• Ask: 'What did they actually say, word for word?' Get specifics while they're open.\n• What they say now is the truth before their story hardens.",
+      "insight": "The first practical move after a hard meeting is the start of the next play. The harder question is whether you can resist the pull to tell the story before you know what the story means."
+    }
+  ]
+}
