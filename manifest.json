@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 91,
+  "manifestVersion": 92,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -845,7 +845,20 @@
       "url": "playbooks/playbook-srv-the-compliment-that-was-an-insult.json",
       "addedAt": "2026-10-13T23:55:02.095Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-composure-under-fire",
+      "title": "Composure Under Fire",
+      "theme": "composure",
+      "topic": "Keeping composure in a bad-news or layoff meeting",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1c2340",
+      "coverIcon": "🎯",
+      "url": "playbooks/playbook-srv-composure-under-fire.json",
+      "addedAt": "2026-10-14T18:21:32.254Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-13T23:55:02.095Z"
+  "generatedAt": "2026-10-14T18:21:32.254Z"
 }
