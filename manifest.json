@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 91,
+  "manifestVersion": 92,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -845,7 +845,20 @@
       "url": "playbooks/playbook-srv-the-compliment-that-was-an-insult.json",
       "addedAt": "2026-10-13T23:55:02.095Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-borrowed-authority",
+      "title": "Borrowed Authority",
+      "theme": "influence",
+      "topic": "Handling a name-dropper borrowing someone else's authority",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#0D0D1A",
+      "coverIcon": "🃏",
+      "url": "playbooks/playbook-srv-borrowed-authority.json",
+      "addedAt": "2026-10-16T17:50:16.622Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-13T23:55:02.095Z"
+  "generatedAt": "2026-10-16T17:50:16.622Z"
 }

@@ -1,0 +1,600 @@
+{
+  "meta": {
+    "id": "srv-borrowed-authority",
+    "version": "1.0",
+    "title": "Borrowed Authority",
+    "subtitle": "How to Handle the Name-Dropper",
+    "description": "Ten moves for identifying, countering, and holding ground against people who borrow authority from names they may or may not actually know. From spotting the tell to labeling the pattern to repairing the room after the drop has already landed.",
+    "author": "AI",
+    "createdAt": "2026-10-16T17:50:16.622Z",
+    "tags": [
+      "influence",
+      "authority",
+      "name-dropping",
+      "social dynamics",
+      "office politics",
+      "status games",
+      "dark psychology"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#0D0D1A",
+    "coverIcon": "🃏",
+    "fromServer": true,
+    "generation": {
+      "topic": "Handling a name-dropper borrowing someone else's authority",
+      "cardCount": 10,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "spot",
+      "label": "Spotting the Move",
+      "color": "#1A1A2E"
+    },
+    {
+      "key": "read",
+      "label": "Reading the Psychology",
+      "color": "#16213E"
+    },
+    {
+      "key": "counter",
+      "label": "Countering the Drop",
+      "color": "#0F3460"
+    },
+    {
+      "key": "confront",
+      "label": "Direct Challenge",
+      "color": "#3D1058"
+    },
+    {
+      "key": "flip",
+      "label": "Turning It Around",
+      "color": "#6B1A1A"
+    },
+    {
+      "key": "aftermath",
+      "label": "Damage Control",
+      "color": "#1A3A1A"
+    },
+    {
+      "key": "position",
+      "label": "Holding Ground",
+      "color": "#2A2000"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "spot",
+      "danger": "low",
+      "title": "Spot the Name-Drop Before It Changes the Room",
+      "hook": "The name arrives right when agreement is needed. That's not relationship building — that's a move.",
+      "truth": "Name-drops cluster around decision points, not small talk.\n• They appear when the speaker's own argument runs dry.\n• The room shifts toward the name before checking whether the link is real.\n• The trap: the name does the work, and the original claim never gets tested.",
+      "principle": "False Authority Fallacy",
+      "remember": "Names get dropped when arguments get weak. Notice the timing.",
+      "theySee": "A colleague mentioning a senior executive's name the moment the group looks ready to push back on their idea.",
+      "signals": [
+        {
+          "l": "Decision timing",
+          "t": "The name appears right as a vote, approval, or agreement is being asked for — not in casual conversation.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "First-name use",
+          "t": "They use only the person's first name, skipping the title, implying closeness that may not exist.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Room scan",
+          "t": "Their eyes sweep the group right after dropping the name, checking who reacted.",
+          "icon": "👀"
+        },
+        {
+          "l": "Vague claim",
+          "t": "They say the person 'mentioned' or 'agrees' without quoting anything specific or naming a date.",
+          "icon": "🌫️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Clock the timing",
+          "desc": "Note whether the name landed at a decision point or mid-conversation. Decision-point drops are almost always a move, not a detail."
+        },
+        {
+          "n": "2",
+          "title": "Write the actual claim down",
+          "desc": "Pull out your phone and write what they said the named person believes or decided — not who, but what, with what evidence."
+        },
+        {
+          "n": "3",
+          "title": "Say nothing yet",
+          "desc": "Let the room react first. If others nod, you now know who got moved. That's information you'll use."
+        }
+      ],
+      "script": "\"Who specifically said that, and when?\"",
+      "counter": "When someone uses a powerful name on you at a decision point, slow the room down before anyone nods.\n• Notice if the name arrives right as you're about to agree to something.\n• Ask: 'What exactly did they say?' — not 'do you know them?'\n• Write it down visibly. The act signals you are checking facts, not feelings.",
+      "insight": "Most rooms never ask the follow-up question. The name-dropper counts on that every single time."
+    },
+    {
+      "id": 2,
+      "cat": "read",
+      "danger": "low",
+      "title": "Name-Droppers Are Running on Borrowed Confidence",
+      "hook": "The more names someone drops, the less they trust what they bring on their own. Psychologists call it anxiety. You can call it a tell.",
+      "truth": "Name-dropping signals that the speaker doubts their own standing in the room.\n• They borrow status because they don't believe they have enough of their own.\n• Every name they drop marks the gap between who they are and who they want to be seen as.\n• The real move: treat the drop as a signal the person feels outgunned, not as proof they're connected.",
+      "principle": "Status Asymmetry",
+      "remember": "They drop names when they doubt themselves. That doubt is something you can use.",
+      "theySee": "A person talking faster and mentioning bigger names the more the group seems unimpressed with what they're saying.",
+      "signals": [
+        {
+          "l": "Name volume rises",
+          "t": "They drop more names as the conversation gets harder for them, not fewer.",
+          "icon": "📈"
+        },
+        {
+          "l": "Eye contact drops",
+          "t": "They look away right after dropping the name, watching the room's reaction sideways.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Early name",
+          "t": "The name appears in the first 30 seconds, before any real content or argument is offered.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Pause after drop",
+          "t": "They say the name, then go quiet and wait, checking whether anyone reacted.",
+          "icon": "🔍"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Mark the anxiety tell",
+          "desc": "When they drop a name, note whether their delivery changes: faster speech, dropped eye contact, a pause waiting for you to react."
+        },
+        {
+          "n": "2",
+          "title": "Give them nothing",
+          "desc": "Keep a flat face. The name-dropper needs a reaction to know it worked. Don't give one."
+        },
+        {
+          "n": "3",
+          "title": "File the insecurity",
+          "desc": "Write one word describing what they're afraid you don't think of them. You'll use this in the next conversation with them."
+        }
+      ],
+      "script": "\"That's interesting. What do you think about it?\"",
+      "counter": "When someone uses a big name to pressure you, they want you to feel smaller than them. One question dissolves that.\n• Watch for names that arrive before any real argument is made.\n• Ask for their own view before engaging the name: 'What do you think the right call is?'\n• Redirecting to their opinion strips the name of its cover.",
+      "insight": "The name-dropper who most needs to impress you is also the most afraid of you. That gap is where you have the upper hand — information, composure, and the next question."
+    },
+    {
+      "id": 3,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Don't Argue the Name — Argue the Claim",
+      "hook": "<strong>Fighting the dropped name is a trap.</strong> It sounds like jealousy. Fight the actual point instead, and the name dies on its own.",
+      "truth": "Challenging the name directly puts you on defense and makes you look petty.\n• Challenging the claim forces the name-dropper to prove it with facts, not connections.\n• When the facts aren't there, the name provides zero cover.\n• The trap to avoid: going on record as someone who disputes who the speaker knows personally.",
+      "principle": "Cialdini: Authority (Countering)",
+      "remember": "Ignore the name. Ask for proof of the claim instead.",
+      "theySee": "A person at the table who skips the name entirely and asks a direct question about the actual idea being proposed.",
+      "signals": [
+        {
+          "l": "Claim vagueness",
+          "t": "They say the named person 'supports this' without describing what specifically was agreed to.",
+          "icon": "🌫️"
+        },
+        {
+          "l": "No facts follow",
+          "t": "After the name, they stop talking. No data, no quote, no date, no example.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Room goes quiet",
+          "t": "Everyone waits, unsure whether to accept the name as proof of the idea.",
+          "icon": "🤐"
+        },
+        {
+          "l": "Question dodged",
+          "t": "You ask about the substance of the claim; they respond with another name or more relationship talk.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Separate the name from the point",
+          "desc": "Write the actual claim they're making — not who said it, but what is being proposed and what evidence supports it."
+        },
+        {
+          "n": "2",
+          "title": "Ask about the claim directly",
+          "desc": "Say: 'Setting that aside, what data supports this?' Direct it at the idea, not the person's connections."
+        },
+        {
+          "n": "3",
+          "title": "Hold the silence after you ask",
+          "desc": "After the question, wait. Don't fill the gap. The name-dropper has to produce something real or the room sees the gap themselves."
+        }
+      ],
+      "script": "\"Let's look at the actual numbers on this — what does the data say?\"",
+      "counter": "If someone turns your argument back to 'but X agrees with me,' name the facts instead of the person.\n• Quote a specific source, number, or result that addresses the claim directly.\n• Say: 'I want to focus on the data here.' Keep your tone flat.\n• Don't say who's right. Let the facts answer while you stay neutral.",
+      "insight": "The name was never the argument. Most people treat it like one, which is exactly why the name-dropper keeps using it."
+    },
+    {
+      "id": 4,
+      "cat": "confront",
+      "danger": "moderate",
+      "title": "Ask Exactly What the Named Person Said",
+      "hook": "One specific question ends most name-drops. <strong>'What exactly did they say?'</strong> is the only move you need.",
+      "truth": "Vague connections can't survive a request for the actual quote.\n• Most name-drops rely on the room assuming closeness — one request for specifics collapses the assumption.\n• If they produce a real quote, you now have something to check. If they don't, the room notices.\n• If they invent a quote, you now hold something that can be verified against the named person directly.",
+      "principle": "Voss: Calibrated Question",
+      "remember": "Ask for the exact quote. Vague drops collapse under one question.",
+      "theySee": "A person in the meeting asking a calm, specific question about what the authority figure actually said — no edge in their voice.",
+      "signals": [
+        {
+          "l": "Quote dodged",
+          "t": "You ask for the exact words; they describe the 'gist' or 'general agreement' instead.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Voice slows",
+          "t": "Their delivery slows or gets quieter when pressed for the specific words.",
+          "icon": "🎵"
+        },
+        {
+          "l": "No timeframe",
+          "t": "They say the person 'agrees' but can't name when the conversation actually happened.",
+          "icon": "📅"
+        },
+        {
+          "l": "Topic pivot",
+          "t": "They shift to a different name or a different point rather than answering your question.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait for the drop to finish",
+          "desc": "Let them complete the full name-drop without interrupting. Interrupting makes you look reactive, not strategic."
+        },
+        {
+          "n": "2",
+          "title": "Ask the exact-quote question",
+          "desc": "Say: 'What exactly did they say — do you have the words?' Flat tone. No smile, no challenge in your voice. Let the silence work."
+        },
+        {
+          "n": "3",
+          "title": "Write down whatever they produce",
+          "desc": "Whatever they say next, note it. If it's vague, say 'Got it' and move to the data. The room draws its own conclusion."
+        }
+      ],
+      "script": "\"What exactly did they say — do you have the words?\"",
+      "counter": "When someone asks you this question back, know your quotes cold before you use any name.\n• Never drop a name without a specific quote or event ready to follow it.\n• If you're paraphrasing, say so: 'I'm paraphrasing from a March conversation.' That keeps your credibility.\n• Inventing words when pressed costs you permanently in that room.",
+      "insight": "Most name-droppers have never been asked that question once. One calm ask is often enough to end the pattern in any room you share."
+    },
+    {
+      "id": 5,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Test Whether They Have Real Access to the Named Person",
+      "hook": "Knowing someone's name and having access to them are two different things. The gap between those two is where most name-drops live.",
+      "truth": "Real access means the person can call, text, or email the named figure and get a reply today.\n• Most name-drops are built on one meeting, one conference handshake, or a LinkedIn connection from three years ago.\n• The test: suggest looping the named person into the conversation or the decision thread. Watch what happens.\n• If they say yes, you've called their bluff. If they say no, the room sees the gap.",
+      "principle": "Social Proof (Cialdini) — False Signal",
+      "remember": "Real connections survive a test. Fake ones don't. Run the test.",
+      "theySee": "A colleague who calmly suggests including the named authority in the next meeting or email thread — as if it's the obvious next step.",
+      "signals": [
+        {
+          "l": "Name not CC'd",
+          "t": "The dropped name never appears on any email thread related to the claim being made.",
+          "icon": "📧"
+        },
+        {
+          "l": "Invite refused",
+          "t": "When you suggest bringing the person in, they give a reason why right now isn't the right time.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Never mentioned back",
+          "t": "They describe the relationship but the named person has never publicly acknowledged or mentioned them.",
+          "icon": "⬆️"
+        },
+        {
+          "l": "Title confusion",
+          "t": "They get the named person's actual title or role slightly wrong when pressed.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Propose including them directly",
+          "desc": "In the meeting or on email, say: 'Can we loop [Name] into this directly?' Keep your tone practical, not confrontational."
+        },
+        {
+          "n": "2",
+          "title": "Set a deadline for the response",
+          "desc": "Say you need the input by a specific date. Real access gets you a reply. Fake access gets you a reason why that won't work."
+        },
+        {
+          "n": "3",
+          "title": "Document whatever comes back",
+          "desc": "Write down their response, including the excuse. The pattern of dodging becomes visible across multiple conversations with them."
+        }
+      ],
+      "script": "\"Can you loop them into this thread so we get it directly from them?\"",
+      "counter": "If someone runs this test on you, don't bluff. Either produce the contact or be clear you're citing a past conversation, not current access.\n• Distinguish: 'I spoke with them last spring' is different from 'they support this plan right now.'\n• Honestly stating the limits of your access keeps your credibility intact.\n• The person asking may already know the named figure personally and will check.",
+      "insight": "Calling the bluff once changes how the name-dropper behaves in every room they share with you after that."
+    },
+    {
+      "id": 6,
+      "cat": "read",
+      "danger": "low",
+      "title": "Understand What the Name-Dropper Is Actually Asking For",
+      "hook": "Every name-drop is a request. Most of the time it's one of three things: status, agreement, or a seat at the table they haven't earned yet.",
+      "truth": "Name-droppers use names to position themselves inside a social hierarchy they haven't climbed on merit.\n• They signal 'I belong with these people' and wait for the room to treat them as if it's already true.\n• If you treat them as connected, they get the status for free without doing anything else.\n• Your job: decide whether to give it or withhold it, because you are the one making that choice.",
+      "principle": "Social Comparison Theory (Festinger)",
+      "remember": "They want you to hand them status. You decide whether to give it.",
+      "theySee": "A person in the room who nods or goes quiet when the name lands — which is all the name-dropper needs to consider it a success.",
+      "signals": [
+        {
+          "l": "Decision stall",
+          "t": "They name-drop right before a decision where your agreement is specifically needed.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "We language",
+          "t": "They say 'we think' or 'we agreed' when referring to themselves and the named person together.",
+          "icon": "👥"
+        },
+        {
+          "l": "Senior room scan",
+          "t": "They look directly at the most senior person in the room right after dropping the name.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Silence wait",
+          "t": "After the drop, they go quiet and wait for the room to confirm the connection landed.",
+          "icon": "🤫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name what they want privately",
+          "desc": "Write one sentence: 'They want [status / agreement / inclusion].' Naming it clearly makes you much harder to pull along."
+        },
+        {
+          "n": "2",
+          "title": "Decide before you respond",
+          "desc": "Choose in advance whether giving them the status costs you anything real. If not, it's cheap to give. If it does, don't."
+        },
+        {
+          "n": "3",
+          "title": "Respond to the actual request, not the name",
+          "desc": "If they want agreement, address the idea directly. If they want status, redirect to credentials they actually hold."
+        }
+      ],
+      "script": "\"That's useful context. What's your read on it?\"",
+      "counter": "When someone uses a name to get your agreement, stop and name what you're actually agreeing to.\n• Separate the claim from the social pressure around it.\n• Ask yourself: 'If I agreed with this, what would happen next and who benefits?'\n• You can acknowledge the name without endorsing the conclusion it's attached to.",
+      "insight": "The name-dropper who wants status is easier to handle than the one who wants a specific decision made. The second type has a plan that runs past the name itself."
+    },
+    {
+      "id": 7,
+      "cat": "flip",
+      "danger": "high",
+      "title": "Let the Name-Dropper Prove the Connection Themselves",
+      "hook": "You don't have to expose them. Set one question up correctly and they expose themselves.",
+      "truth": "The false authority move only works if the room never checks the connection.\n• One public question — 'How did that conversation go?' — forces them to perform the relationship live, in front of everyone.\n• If the connection is real, they answer easily. If it's not, the room watches them fumble.\n• Your hands stay clean. You only asked a question.",
+      "principle": "Greene: Law 31 — Control the Options",
+      "remember": "Ask about the relationship, not the claim. They will do the rest themselves.",
+      "theySee": "A person at the table asking a warm, curious question about how the name-dropper knows the person they just mentioned — no edge, just interest.",
+      "signals": [
+        {
+          "l": "Thin story",
+          "t": "When asked how they know the person, the story is short and has no specific dates, places, or project names.",
+          "icon": "📖"
+        },
+        {
+          "l": "Details shift",
+          "t": "The second time they describe the relationship in the same conversation, small facts are slightly different.",
+          "icon": "🔄"
+        },
+        {
+          "l": "No mutual names",
+          "t": "They know the named figure but stumble when asked about anyone else they both know.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Others blank",
+          "t": "No one else in the room recognizes the name-dropper as connected to the person they're citing.",
+          "icon": "🚫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask about the relationship with warmth",
+          "desc": "Say: 'How do you two know each other?' Genuine curiosity, no edge. Your tone must stay neutral so it can't be read as a challenge."
+        },
+        {
+          "n": "2",
+          "title": "Let them talk without interrupting",
+          "desc": "Don't jump in. The more they explain, the more the room can evaluate what's real and what's being invented on the spot."
+        },
+        {
+          "n": "3",
+          "title": "Follow up on one specific detail",
+          "desc": "Pick one thing they said — a project, a city, a date — and ask a casual follow-up question. Real relationships survive one follow-up."
+        }
+      ],
+      "script": "\"How do you two know each other?\"",
+      "counter": "If someone asks you this question after you've dropped a name, have one specific story ready before you drop any name.\n• Not a general claim — a specific event, date, or project you can describe in two sentences.\n• If your connection is thin, say so honestly: 'I met them once at X event.'\n• An honest thin connection keeps trust. An invented one, when checked, ends it.",
+      "insight": "A real connection performs itself with no effort. The harder they work to answer your one question, the thinner the connection."
+    },
+    {
+      "id": 8,
+      "cat": "confront",
+      "danger": "high",
+      "title": "Name the Pattern Directly When It Keeps Happening",
+      "hook": "One name-drop is a move. Three is a habit. At that point, naming what's happening out loud is sharper than ignoring it.",
+      "truth": "Repeated name-dropping signals the person needs the names to hold their position in the room.\n• Naming the pattern without attacking the person puts the behavior on the table without making it a fight.\n• The room, if it's watching, understands exactly what you just did.\n• The name-dropper has two options: stop, or double down and look worse.",
+      "principle": "Voss: Label",
+      "remember": "Name the pattern once, calmly. Once is enough.",
+      "theySee": "A person at the table saying one short, flat sentence that names exactly what's been happening in the room for the past ten minutes.",
+      "signals": [
+        {
+          "l": "Third drop",
+          "t": "The same person drops a third name in the same meeting, each one more senior than the last.",
+          "icon": "📈"
+        },
+        {
+          "l": "Others exchange looks",
+          "t": "Two or more people in the room glance at each other right after the name lands.",
+          "icon": "👀"
+        },
+        {
+          "l": "Names escalate",
+          "t": "Each name mentioned is more impressive than the one before it, with no new facts added.",
+          "icon": "⬆️"
+        },
+        {
+          "l": "Argument unchanged",
+          "t": "Despite the names, the actual idea hasn't moved forward with any new evidence or specifics.",
+          "icon": "➡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait for the third instance",
+          "desc": "Don't label after one name-drop. Three gives you a clear pattern you can name without looking petty or reactive."
+        },
+        {
+          "n": "2",
+          "title": "Label it as an observation",
+          "desc": "Say: 'It sounds like you're leaning on who's in your corner rather than what the evidence shows.' Flat tone. No smile, no apology."
+        },
+        {
+          "n": "3",
+          "title": "Pivot immediately to the actual issue",
+          "desc": "Right after the label, ask: 'What does the work itself show?' Don't wait for them to respond to the label before moving."
+        }
+      ],
+      "script": "\"It sounds like you're leaning on who's in your corner rather than what the evidence shows.\"",
+      "counter": "If someone labels your name-dropping in a room, don't argue the label. Produce the evidence they're asking for.\n• Defending the relationship instead of producing data confirms the label in everyone's mind.\n• Say: 'Fair point — here's the actual case for it.' Then make it with facts.\n• The label only sticks permanently if you can't back the claim up with something real.",
+      "insight": "Labeling the pattern transfers the weight onto them. The harder part is being the first person in the room to say it — because once you do, everyone else exhales."
+    },
+    {
+      "id": 9,
+      "cat": "aftermath",
+      "danger": "moderate",
+      "title": "Repair Your Standing When the Room Already Bought the Drop",
+      "hook": "Sometimes you're the second person to speak and the name has already moved the room. There's a move for that too.",
+      "truth": "When a room buys a name-drop before you respond, the authority is already installed — arguing against it directly makes you look threatened.\n• Your move is to shift the room toward evidence before any decision gets cemented.\n• Don't fight the status. Introduce a question that requires real facts to answer, and let the name-dropper's response do the damage.\n• Trying to un-sell the name after it's landed makes you look like the problem.",
+      "principle": "Loss Aversion (Kahneman)",
+      "remember": "Don't fight the name after it lands. Ask a question that needs real facts to answer.",
+      "theySee": "A person in the meeting who raises a calm, practical question that pulls the group's attention to numbers and risk rather than relationships.",
+      "signals": [
+        {
+          "l": "Room nods",
+          "t": "Most people in the meeting nod after the name lands without asking a single follow-up question.",
+          "icon": "🙂"
+        },
+        {
+          "l": "Decision speeds up",
+          "t": "The conversation accelerates toward a conclusion right after the name-drop, before the idea is examined.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Objection ignored",
+          "t": "You raise a point about the idea itself, and the room comes back to the name as though it answers your point.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Notes being taken",
+          "t": "Someone starts writing next steps before the idea has been questioned or tested by anyone.",
+          "icon": "✍️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Slow the room with a risk question",
+          "desc": "Say: 'Before we move, what does the timeline look like if this doesn't work?' People pay more attention to what they might lose than what they might gain."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the proposal in writing",
+          "desc": "Request a written summary before any decision is made. Vague name-drop authority disappears when it has to be written down and documented."
+        },
+        {
+          "n": "3",
+          "title": "Talk to the decision-maker privately within 24 hours",
+          "desc": "Go one-on-one with whoever matters most after the meeting. Present your facts directly, without attacking the name-dropper by name."
+        }
+      ],
+      "script": "\"Before we lock this in, can someone write up the actual proposal so we can review it against what we know?\"",
+      "counter": "If you've already agreed based on a name-drop and caught it later, the correction is simple: ask for the documentation.\n• Say: 'I want to make sure we're working from something concrete before we go further.'\n• Don't blame yourself publicly. Frame it as routine due diligence.\n• Everyone else in the room probably wants the same thing and didn't say it first.",
+      "insight": "The decision that gets made fastest after a name-drop is usually the one that gets revisited first. Slowing it down is itself a position in the room."
+    },
+    {
+      "id": 10,
+      "cat": "position",
+      "danger": "low",
+      "title": "Build Your Own Standing So Names Can't Move You",
+      "hook": "The only person a name-drop can't touch is someone who already holds a clear position in the room on their own terms.",
+      "truth": "Name-drops land hardest on people who have no clear position yet — the name fills the gap they left open.\n• If you walk in with a specific claim, a number, or a decision you own, a dropped name has nothing to attach to.\n• Every time you state your position before someone else can define the room, you close the door the name-dropper was walking through.\n• Most people wait for someone else to set the terms. That gap is where names go to work.",
+      "principle": "Greene: Law 28 — Enter Action with Boldness",
+      "remember": "Own your position before the room starts. Names fill empty space.",
+      "theySee": "A person who enters the meeting with a specific point they own clearly and state it before anyone else sets the tone.",
+      "signals": [
+        {
+          "l": "Empty opening",
+          "t": "Five minutes into the meeting and no one has stated a clear position on the main question yet.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Names fill gap",
+          "t": "Someone drops a name right after the topic is introduced, before any facts are on the table.",
+          "icon": "🃏"
+        },
+        {
+          "l": "Room defers",
+          "t": "People look around waiting for someone to speak first, and nobody does.",
+          "icon": "👀"
+        },
+        {
+          "l": "Frame missing",
+          "t": "The meeting starts without a clear question or decision to anchor the conversation to anything real.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send your position before the meeting",
+          "desc": "Email a one-paragraph summary of your view, with one number or one concrete fact, before the meeting starts. It's on record before anyone walks in."
+        },
+        {
+          "n": "2",
+          "title": "State your position in the first five minutes",
+          "desc": "Speak early with one clear claim: 'My read is X because of Y.' Short, no hedging. Don't wait to see which way the room goes."
+        },
+        {
+          "n": "3",
+          "title": "Tie your position to a specific result",
+          "desc": "Connect your claim to a result that already happened or a deadline that already exists. Concrete beats connected every time."
+        }
+      ],
+      "script": "\"Here's where I stand on this, and here's the number that drives it.\"",
+      "counter": "When someone tries to out-position you with a name, your stated position is already in the room.\n• You don't have to fight the name — your claim is already on record before the name arrived.\n• Let the name-dropper respond to your position, not the other way around.\n• The person with a concrete position always has more to stand on than the person with a famous friend.",
+      "insight": "The person who most needs to drop names is usually responding to someone who already holds a clear position. Be that person before the meeting starts, and you never have to play defense."
+    }
+  ]
+}
