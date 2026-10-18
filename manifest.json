@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 91,
+  "manifestVersion": 92,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -845,7 +845,20 @@
       "url": "playbooks/playbook-srv-the-compliment-that-was-an-insult.json",
       "addedAt": "2026-10-13T23:55:02.095Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-hold-the-line",
+      "title": "Hold the Line",
+      "theme": "negotiation",
+      "topic": "Holding settled points when they keep reopening them",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A3A4A",
+      "coverIcon": "🔒",
+      "url": "playbooks/playbook-srv-hold-the-line.json",
+      "addedAt": "2026-10-18T17:08:40.665Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-13T23:55:02.095Z"
+  "generatedAt": "2026-10-18T17:08:40.665Z"
 }

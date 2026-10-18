@@ -1,0 +1,656 @@
+{
+  "meta": {
+    "id": "srv-hold-the-line",
+    "version": "1.0",
+    "title": "Hold the Line",
+    "subtitle": "Tactics for Keeping Settled Points Settled",
+    "description": "When agreements fall apart the moment someone pushes back, most people re-explain. This dossier teaches you to read why points get reopened, how to close them for real, and how to hold them when the pressure comes.",
+    "author": "AI",
+    "createdAt": "2026-10-18T17:08:40.665Z",
+    "tags": [
+      "negotiation",
+      "agreements",
+      "defense",
+      "power",
+      "persuasion"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A3A4A",
+    "coverIcon": "🔒",
+    "fromServer": true,
+    "generation": {
+      "topic": "Holding settled points when they keep reopening them",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "read",
+      "label": "Read the Move",
+      "color": "#7B3F8C"
+    },
+    {
+      "key": "anchor",
+      "label": "Set the Anchor",
+      "color": "#1A5276"
+    },
+    {
+      "key": "defense",
+      "label": "Hold the Line",
+      "color": "#922B21"
+    },
+    {
+      "key": "close",
+      "label": "Close the Loop",
+      "color": "#1D6A39"
+    },
+    {
+      "key": "counter",
+      "label": "Counter the Push",
+      "color": "#B7770D"
+    },
+    {
+      "key": "pattern",
+      "label": "The Type",
+      "color": "#5D4037"
+    },
+    {
+      "key": "walk",
+      "label": "Walk It Back",
+      "color": "#37474F"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "read",
+      "danger": "low",
+      "title": "Name the Three Reasons They Reopen",
+      "hook": "<strong>Every reopened point has a motive.</strong> Name it before you respond and you stop playing defense.",
+      "truth": "Most people treat reopening as a communication problem. It isn't.\n• Buyer's remorse: they agreed before they were ready and want a better deal.\n• Power test: they're checking whether you'll hold under pressure.\n• New information: something real changed and they have grounds.",
+      "principle": "Greene: Law 33 — Discover Each Man's Thumbscrew",
+      "remember": "Know why they reopen before you say a word back.",
+      "theySee": "A person across the table bringing up a point both sides already agreed to close.",
+      "signals": [
+        {
+          "l": "Same point again",
+          "t": "They raise the exact same objection you settled two meetings ago."
+        },
+        {
+          "l": "New framing",
+          "t": "They call the same issue by a different name to make it sound fresh."
+        },
+        {
+          "l": "Asks for more time",
+          "t": "They ask for just a little more time before moving forward."
+        },
+        {
+          "l": "Emotion rises",
+          "t": "Their voice gets louder or their tone shifts on a point that was already closed."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask one question",
+          "desc": "Say \"What changed since we closed this?\" Force them to name something or drop it."
+        },
+        {
+          "n": "2",
+          "title": "Listen for the type",
+          "desc": "Hear whether the answer is remorse, a power test, or real new facts. The move is different for each."
+        },
+        {
+          "n": "3",
+          "title": "Pick your move",
+          "desc": "Remorse gets the broken record. Power test gets silence. Real facts get a genuine look."
+        }
+      ],
+      "script": "\"What's changed since we agreed on this?\"",
+      "counter": "Recognize when someone uses this same move on you — asking \"what changed?\" to slow down your legitimate concern.\n• If they ignore your answer and repeat the question, they're stalling.\n• Say \"I told you what changed. Do you want to address it or not?\"\n• If they still stall, ask for a specific time to review together.",
+      "insight": "The hardest type to deal with is the power test — because engaging it at all signals you can be moved."
+    },
+    {
+      "id": 2,
+      "cat": "anchor",
+      "danger": "moderate",
+      "title": "Lock the Point Before You Leave the Room",
+      "hook": "<strong>An agreement that isn't stated aloud isn't really an agreement.</strong> Say it back before anyone stands up.",
+      "truth": "People drift from verbal agreements the moment they walk out. Restating locks the point in their memory as done.\n• Saying \"so we've agreed to X\" forces them to confirm or object right there.\n• Confirmation in the room makes later reopening feel dishonest, not just inconvenient.\n• If you don't restate, they'll claim they \"weren't sure\" it was final.",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Say the agreement out loud before anyone leaves the room.",
+      "theySee": "A person at the end of a meeting stating what both sides just decided, clearly and calmly.",
+      "signals": [
+        {
+          "l": "Quick nod",
+          "t": "They agree fast and move on — a sign they haven't committed in their head."
+        },
+        {
+          "l": "No eye contact",
+          "t": "They look away when you summarize the agreed point."
+        },
+        {
+          "l": "Vague reply",
+          "t": "They say \"sounds good\" instead of confirming the specific terms."
+        },
+        {
+          "l": "Rush to leave",
+          "t": "They stand up or reach for their phone before you've restated anything."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Summarize in one sentence",
+          "desc": "Write the agreed point on paper or a whiteboard before the meeting ends."
+        },
+        {
+          "n": "2",
+          "title": "Get a verbal yes",
+          "desc": "Ask \"Does that match what you agreed to?\" Wait for a direct answer."
+        },
+        {
+          "n": "3",
+          "title": "Send the confirmation email",
+          "desc": "Send a two-line email within one hour: \"Confirming what we agreed today: [point]. Let me know if I have it wrong.\""
+        }
+      ],
+      "script": "\"Before we move on — we've agreed that [X] is settled. Does that match what you have?\"",
+      "counter": "Spot when someone uses summary-locking on you to freeze a point you're not done thinking about.\n• If you're not ready to confirm, say \"I want to review that before I call it final.\"\n• Don't nod and walk out — vague agreement will be used against you later.\n• Ask for the summary in writing so you can read it before signing off.",
+      "insight": "The one-hour email is harder to dispute than anything said in the room — the harder move is getting them to reply before they've had time to reread the terms."
+    },
+    {
+      "id": 3,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Refuse to Argue the Point They Already Lost",
+      "hook": "Every time you explain your reasoning again, <strong>you tell them the deal is still open.</strong>",
+      "truth": "Defending a settled point treats it like it's still in play. That's the worst signal you can send.\n• Explaining yourself again gives them a new target to attack.\n• The other side learns: push back and they'll re-justify.\n• Name the status of the point, not the content.",
+      "principle": "Anchoring Effect — Loss of Position",
+      "remember": "Stop explaining. Repeat the decision. Don't add anything new.",
+      "theySee": "A person who answers a question about a closed topic by saying the decision is already made, not by re-explaining why.",
+      "signals": [
+        {
+          "l": "Why again",
+          "t": "They ask for your reasoning on a point they already heard explained."
+        },
+        {
+          "l": "New person added",
+          "t": "A new stakeholder who hasn't been briefed is introduced — a cover for re-litigating."
+        },
+        {
+          "l": "Long email sent",
+          "t": "They send a detailed message re-making the case on something already settled."
+        },
+        {
+          "l": "Small change ask",
+          "t": "They ask for just one small change to the settled point."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the status",
+          "desc": "Say \"That point is closed\" or \"We settled that in the last meeting.\" No extra words."
+        },
+        {
+          "n": "2",
+          "title": "Redirect immediately",
+          "desc": "Ask \"What's the next open issue?\" and move there without pausing."
+        },
+        {
+          "n": "3",
+          "title": "Log the attempt",
+          "desc": "Write down that they tried to reopen, with the date. Pattern matters if they keep doing it."
+        }
+      ],
+      "script": "\"That point is settled. What's the next open item?\"",
+      "counter": "Spot when someone shuts you down with \"that's settled\" on something that actually deserves revisiting.\n• Ask \"Was a decision made, or did we just stop talking about it?\"\n• If they can't name when it was decided, it may not be closed.\n• Push for the record: \"Show me where we confirmed this.\"",
+      "insight": "The more you explain, the weaker your position looks — the real question is whether you can hold silence after you say it's done."
+    },
+    {
+      "id": 4,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Call Out the Reopening Before It Gets Traction",
+      "hook": "<strong>Name the move and it loses half its power.</strong> Let it run and you're back to square one.",
+      "truth": "Naming what someone is doing creates pressure to stop without direct confrontation.\n• \"You're reopening a settled point\" is harder to ignore than a counter-argument.\n• It puts them on record — everyone in the room hears it too.\n• Say it calmly or it sounds like an attack. The tone carries the move.",
+      "principle": "Voss: Label",
+      "remember": "Say what they're doing out loud. Don't argue about whether they should.",
+      "theySee": "A person in a meeting saying out loud that a specific point was already agreed to, without anger or heat.",
+      "signals": [
+        {
+          "l": "Gradual setup",
+          "t": "They ease into the settled topic instead of raising it directly."
+        },
+        {
+          "l": "Different version",
+          "t": "They describe the previous agreement differently from how it happened."
+        },
+        {
+          "l": "Smaller group",
+          "t": "They bring up the settled point in a one-on-one where fewer people can push back."
+        },
+        {
+          "l": "Just checking",
+          "t": "They frame reopening as clarification — \"just wanted to make sure we're aligned.\""
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State the label",
+          "desc": "Say \"It sounds like you're reopening [X], which we agreed on [date].\""
+        },
+        {
+          "n": "2",
+          "title": "Wait",
+          "desc": "Don't add reasons. Pause and let the label sit in the room."
+        },
+        {
+          "n": "3",
+          "title": "Ask for new information",
+          "desc": "Say \"If something has changed, tell me what it is.\" If they can't, the point stays closed."
+        }
+      ],
+      "script": "\"It sounds like you're reopening a point we already agreed on. Has something changed?\"",
+      "counter": "When someone labels YOUR attempt to revisit a point, don't get defensive.\n• Say \"I hear that you think this is settled. I want to show you what changed.\"\n• Have your new information ready before the conversation, not scrambled together during it.\n• If they still won't engage, bring it to the person above them.",
+      "insight": "Labeling stops the move in the moment. But if they try three times, the label isn't the right tool anymore — something structural needs to change."
+    },
+    {
+      "id": 5,
+      "cat": "close",
+      "danger": "high",
+      "title": "The Written Record Is the Only Real Close",
+      "hook": "<strong>Verbal agreements vanish.</strong> A two-line email after the meeting is worth more than an hour of nodding.",
+      "truth": "Memory is selective and self-serving. People genuinely remember differently when a deal stops suiting them.\n• Written confirmation makes revisiting look dishonest, not just inconvenient.\n• It forces them to object in writing — which most people won't do lightly.\n• One sentence per point. Subject line: \"Confirming today's decisions.\"",
+      "principle": "Cialdini: Consistency — Written Commitment",
+      "remember": "A written record closes the point. Anything else is still a conversation.",
+      "theySee": "A person sending a two-line email within one hour of the meeting, naming each agreed point.",
+      "signals": [
+        {
+          "l": "No reply",
+          "t": "They don't respond to your confirmation email — that's still a record they received it."
+        },
+        {
+          "l": "Partial reply",
+          "t": "They reply only to parts they like and ignore the settled point entirely."
+        },
+        {
+          "l": "Their version",
+          "t": "They send their own summary with different terms for the same points."
+        },
+        {
+          "l": "CC removed",
+          "t": "They reply with a key person quietly dropped from the email chain."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send it within 60 minutes",
+          "desc": "Every hour after the meeting makes the email look like an afterthought, not a record."
+        },
+        {
+          "n": "2",
+          "title": "Name the point exactly",
+          "desc": "One line per decision: \"We agreed that [X] is final. No further changes to [X].\""
+        },
+        {
+          "n": "3",
+          "title": "Note the silence",
+          "desc": "If they don't reply in 24 hours, follow up once: \"No reply means we're aligned — let me know if that's wrong.\""
+        }
+      ],
+      "script": "\"Confirming what we agreed today: [point] is final. Reply if anything looks wrong.\"",
+      "counter": "When someone sends you a confirmation email that locks a point you're not ready to accept, reply within the hour.\n• Don't let silence become agreement — say \"I need to review this before confirming.\"\n• If the email misrepresents what happened, correct it in writing the same day.\n• Keep every thread — it's the record if things fall apart later.",
+      "insight": "The confirmation email is easy to send. The harder move is making it a habit every time, not just when you feel suspicious."
+    },
+    {
+      "id": 6,
+      "cat": "pattern",
+      "danger": "moderate",
+      "title": "Spot the Person Who Always Comes Back for One More Thing",
+      "hook": "Some people never fully agree. <strong>They confirm, they leave, then they come back for a small extra.</strong> Then another.",
+      "truth": "This is a specific type of person. Recognizing them early saves you three rounds of the same fight.\n• They always reopen after commitment — when your guard is down.\n• Each ask is small enough to seem reasonable, but they add up fast.\n• Make the cost of reopening visible and name it early.",
+      "principle": "Cialdini: Reciprocity — The Nibble",
+      "remember": "Small asks after agreement add up. Name the pattern early.",
+      "theySee": "A person who comes back a second time with a small new request after an agreement was already made.",
+      "signals": [
+        {
+          "l": "Post-deal ask",
+          "t": "They raise a new point right after you close, calling it minor."
+        },
+        {
+          "l": "Third time asking",
+          "t": "This is the third or fourth small thing since you settled."
+        },
+        {
+          "l": "Apologetic opener",
+          "t": "They start with \"I know we agreed, but...\" before making the ask."
+        },
+        {
+          "l": "Busy moment ask",
+          "t": "They bring it up when you're distracted, under deadline, or walking out the door."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the pattern on the second try",
+          "desc": "Say \"This is the second time something new has come up after we closed. I need that to stop.\""
+        },
+        {
+          "n": "2",
+          "title": "Set a single reopen window",
+          "desc": "Tell them any remaining concerns must be raised by a specific date and time. After that, it's final."
+        },
+        {
+          "n": "3",
+          "title": "Stop treating each ask as one-off",
+          "desc": "If it keeps going, the deal needs a hard written deadline or it never fully closes."
+        }
+      ],
+      "script": "\"This is the second ask after we closed. What else is on your list — let's get it all now.\"",
+      "counter": "Check yourself. If you keep coming back with \"just one more thing,\" you are the nibbler.\n• Write your full list of concerns before agreeing to anything.\n• Raise everything at once, not in rounds.\n• Once you confirm, stay confirmed — or renegotiate the whole deal openly.",
+      "insight": "The nibbler isn't always manipulating — sometimes they're just disorganized. The move is the same either way: name the pattern and set a hard cutoff."
+    },
+    {
+      "id": 7,
+      "cat": "defense",
+      "danger": "low",
+      "title": "Stop Talking After You Decline to Reopen",
+      "hook": "The silence after \"no\" is where most people lose the ground they just held. <strong>They fill it. Don't.</strong>",
+      "truth": "The urge to explain after saying no is almost automatic — and it gives the other side a new angle to push.\n• Every word after your no is an invitation to keep arguing.\n• Silence makes the other side feel they need to respond, not you.\n• They mistake your explanation for uncertainty and push harder.",
+      "principle": "Voss: Tactical Silence",
+      "remember": "Say no. Then stop talking. Silence holds the position.",
+      "theySee": "A person who said the point is closed and then sat quietly while the other side waited.",
+      "signals": [
+        {
+          "l": "They fill it",
+          "t": "They start explaining themselves after you go quiet — they feel the pressure."
+        },
+        {
+          "l": "Same question twice",
+          "t": "They ask you the same question again because they can't believe you aren't answering."
+        },
+        {
+          "l": "Tone softens",
+          "t": "Their voice gets quieter or they back off after a few seconds of silence."
+        },
+        {
+          "l": "Turns to others",
+          "t": "They turn and talk to someone else in the room to break the awkward pause."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the close",
+          "desc": "State \"That point is not open\" or \"We're not revisiting that.\" Full stop."
+        },
+        {
+          "n": "2",
+          "title": "Count to ten",
+          "desc": "Count to ten in your head. Don't speak. Don't nod. Don't smile."
+        },
+        {
+          "n": "3",
+          "title": "Move the topic",
+          "desc": "After ten seconds, ask \"What's next on the agenda?\" and go there without looking back."
+        }
+      ],
+      "script": "\"That's not open for discussion.\" [Pause. Wait.]",
+      "counter": "When someone uses silence on you after refusing to engage, don't fill the gap.\n• Ask one clear question: \"Is there a reason you won't address this?\"\n• If they still won't, say \"I'll follow up in writing.\"\n• Don't let their silence feel like a verdict — it's a move, not an answer.",
+      "insight": "The silence only works if you're comfortable in it. Most people aren't. Practice it somewhere low-stakes before you need it in a hard meeting."
+    },
+    {
+      "id": 8,
+      "cat": "close",
+      "danger": "low",
+      "title": "Repeat the Same Line Until They Stop Pushing",
+      "hook": "<strong>Changing what you say implies the first version was wrong.</strong> Same words, same tone, no additions.",
+      "truth": "People expect to wear you down by making you repeat yourself. Saying the exact same thing destroys that plan.\n• Repetition without variation signals real finality — there's nothing left to negotiate.\n• Changing words or adding reasons signals uncertainty, even when you feel certain.\n• Staying calm on the third repeat is harder than the first. That's where most people crack.",
+      "principle": "Voss: Broken Record — Calibrated Repetition",
+      "remember": "Same words, same tone, every time. Don't add reasons.",
+      "theySee": "A person who says the exact same sentence three times in a row, without frustration or new information.",
+      "signals": [
+        {
+          "l": "But what if",
+          "t": "They introduce a hypothetical to pull you onto new ground."
+        },
+        {
+          "l": "Volume goes up",
+          "t": "They raise their voice or bring in a senior person to break your repetition."
+        },
+        {
+          "l": "Sympathy play",
+          "t": "They describe hardship to make you feel cruel for not engaging."
+        },
+        {
+          "l": "Partial agreement",
+          "t": "They agree with part of what you said and use that agreement as a way back in."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your line in advance",
+          "desc": "Before the conversation, write the exact sentence you'll repeat. Memorize it word for word."
+        },
+        {
+          "n": "2",
+          "title": "Say it the same way each time",
+          "desc": "Same volume, same pace. The consistency is what signals finality."
+        },
+        {
+          "n": "3",
+          "title": "Track the turns",
+          "desc": "Most people stop after three rounds. Count. If they don't stop at five, escalate to someone above them."
+        }
+      ],
+      "script": "\"That point is closed. We're not revisiting it.\"",
+      "counter": "Spot when someone is repeating the same line to avoid engaging with your actual concern.\n• Say \"I hear that you think it's closed. Something changed. Which part do you want to address?\"\n• If they keep repeating, put your concern in writing and send it above them.\n• Don't keep repeating your own case — escalate before you get exhausted.",
+      "insight": "The broken record works because it's boring. The other side needs something to fight against. Give them nothing and they eventually stop — unless the relationship itself is the problem."
+    },
+    {
+      "id": 9,
+      "cat": "anchor",
+      "danger": "moderate",
+      "title": "Give One Small Thing to Close a Point That Keeps Coming Back",
+      "hook": "Sometimes a person keeps reopening because they need to feel they got something. <strong>Give them something small and real. Close it.</strong>",
+      "truth": "Holding every inch of ground isn't always the strongest move. A small, controlled give can end weeks of the same fight.\n• Giving first on a minor point makes the deal feel fair — and fair deals stay closed.\n• It makes them feel heard without giving up the actual thing that matters.\n• Don't give something that cracks the main point. Keep the concession minor.",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Give something small and specific to close a loop that keeps reopening.",
+      "theySee": "A person offering a small adjustment to something minor, while making clear the bigger point isn't moving.",
+      "signals": [
+        {
+          "l": "Three-plus returns",
+          "t": "They've raised the same issue three or more times with no new reasoning."
+        },
+        {
+          "l": "Needs a win",
+          "t": "They seem to need to feel like they got something, not just that the issue is resolved."
+        },
+        {
+          "l": "Process complaint",
+          "t": "They complain about how the decision was made, not the decision itself."
+        },
+        {
+          "l": "Emotional not logical",
+          "t": "The conversation has more feeling than fact — they need satisfaction, not data."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find a real but minor give",
+          "desc": "Identify one thing next to the settled point that costs you little but matters to them."
+        },
+        {
+          "n": "2",
+          "title": "Name it clearly",
+          "desc": "Say \"I'm willing to move on [small thing]. The core point stays where it is.\""
+        },
+        {
+          "n": "3",
+          "title": "Make it conditional on closure",
+          "desc": "Say \"If that works for you, we close this today.\" Get confirmation before you give it."
+        }
+      ],
+      "script": "\"I can move on [small thing]. The main point stays. Does that close it for you?\"",
+      "counter": "When someone offers you a small thing while holding the big thing firm, check what you're actually accepting.\n• Don't let a small win make you feel the larger issue was addressed — it wasn't.\n• Say \"I appreciate that. The core issue is still [X]. Is that moving too?\"\n• Accept the small give only if you're genuinely done pushing on the larger point.",
+      "insight": "The strategic give works once. Use it twice on the same person and they learn to keep coming back — waiting for the give every time."
+    },
+    {
+      "id": 10,
+      "cat": "walk",
+      "danger": "high",
+      "title": "Show You're Willing to Walk Back to Zero",
+      "hook": "The fastest way to stop someone from reopening pieces of a deal <strong>is to put the whole deal back on the table.</strong>",
+      "truth": "People reopen parts because they think the rest is locked in — they're risk-free. Take away that assumption.\n• If the whole deal could go away, reopening one piece becomes expensive.\n• You don't need to mean it fully — you need them to believe you might.\n• Empty threats make you weaker. Only use this if you can actually walk.",
+      "principle": "Greene: Law 17 — Keep Others in Suspended Terror",
+      "remember": "Put the whole deal back on the table. Make reopening cost everything.",
+      "theySee": "A person who says calmly that if this point is reopened, they need to revisit the whole agreement from the start.",
+      "signals": [
+        {
+          "l": "Three-plus pushes",
+          "t": "They've tried three or more times to reopen the same point without stopping."
+        },
+        {
+          "l": "Acts comfortable",
+          "t": "They seem to think the rest of the deal is safe while they chip away at one part."
+        },
+        {
+          "l": "No new facts",
+          "t": "They keep reopening with no new information — it's a test, not a real concern."
+        },
+        {
+          "l": "Time on your side",
+          "t": "You have more time than they do — they need the deal more urgently."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check your real walk position",
+          "desc": "Before you say it, confirm you can actually walk away. If you can't, don't use this move."
+        },
+        {
+          "n": "2",
+          "title": "State it without anger",
+          "desc": "Say \"If [point] is back on the table, I need to revisit [other major items] as well.\""
+        },
+        {
+          "n": "3",
+          "title": "Go quiet",
+          "desc": "Don't list what you'd change. Let their imagination do the work."
+        }
+      ],
+      "script": "\"If we're reopening that, I'll need to take another look at the whole agreement.\"",
+      "counter": "When someone threatens to unravel the whole deal to scare you off a concern, check whether they can actually do it.\n• Ask \"Are you saying you want to renegotiate everything, or just that you won't move on this?\"\n• Test the threat carefully: \"Let's set a time to go through the full deal.\"\n• If they back down fast, the threat was empty. File that for later.",
+      "insight": "The willingness to walk back to zero is real upper hand — but only when you actually have options outside this deal. Without them, the move is theater."
+    },
+    {
+      "id": 11,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Bring in a Witness to Close What Words Won't",
+      "hook": "Some people will keep reopening a point forever in private. <strong>Put a third person in the room and it becomes a different conversation.</strong>",
+      "truth": "Social accountability changes behavior. Reopening a settled point in front of a witness is much harder than doing it one-on-one.\n• A witness turns the agreement into a shared record, not just a memory.\n• The other side can't rewrite history if a third person heard the original deal.\n• The witness must be seen as neutral — or both sides will distrust the result.",
+      "principle": "Cialdini: Social Proof — Witnessed Commitment",
+      "remember": "Witnesses turn agreements into facts. Private deals stay flexible.",
+      "theySee": "A third person — a manager, a colleague, or a mediator — in the room when the point gets confirmed by both sides.",
+      "signals": [
+        {
+          "l": "Private only",
+          "t": "They only raise the reopening in conversations where it's just the two of you."
+        },
+        {
+          "l": "Different story",
+          "t": "They claim the agreement said something different from what you remember."
+        },
+        {
+          "l": "No written record",
+          "t": "There's no written record and both sides have conflicting accounts."
+        },
+        {
+          "l": "Escalation threat",
+          "t": "They threaten to take the dispute higher if you won't renegotiate."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the need for a witness",
+          "desc": "Say \"Given where we've been on this, I'd like [Name] in the room when we close it.\""
+        },
+        {
+          "n": "2",
+          "title": "Pick someone both sides respect",
+          "desc": "Not your ally — someone neutral. One person each side trusts."
+        },
+        {
+          "n": "3",
+          "title": "Restate the point in front of them",
+          "desc": "Say the decision clearly with the witness present. Ask both sides to confirm it out loud."
+        }
+      ],
+      "script": "\"I'd like to bring [Name] in so we can close this with someone who's heard both sides.\"",
+      "counter": "When someone insists on a witness to lock a point you want to keep open, assess what they're actually doing.\n• If you have new information, present it before the witness meeting, not during.\n• If you don't, the witness meeting is a trap — the point will be sealed.\n• Ask to delay until you've put your full case on the table.",
+      "insight": "A witness closes the point today. But if the relationship is bad enough to need witnesses, the next problem is already forming."
+    },
+    {
+      "id": 12,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "Don't Hold a Bad Point Just Because You Agreed to It",
+      "hook": "<strong>Not every reopening is a power play.</strong> Sometimes they're right and the point needs to change.",
+      "truth": "Holding a settled point when you're actually wrong costs you more than admitting the change.\n• Real new information — facts, data, changed conditions — makes reopening legitimate.\n• Holding wrong ground signals stubbornness. Others notice and remember.\n• The longer you hold a bad point, the more face you lose when it finally breaks.",
+      "principle": "Kahneman: Sunk-Cost Bias",
+      "remember": "Holding a bad point costs more than changing it. Know the difference.",
+      "theySee": "A person who agreed to something and is now being shown evidence that the agreement was based on wrong information.",
+      "signals": [
+        {
+          "l": "New document",
+          "t": "They bring a specific fact or file that wasn't available when you agreed."
+        },
+        {
+          "l": "Outside change",
+          "t": "Something in the situation actually changed — a price, a deadline, a third party's decision."
+        },
+        {
+          "l": "Multiple people",
+          "t": "More than one person independently raises the same concern about the settled point."
+        },
+        {
+          "l": "You're avoiding it",
+          "t": "You find yourself not wanting to think about the point because you know it might be wrong."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Separate motive from merit",
+          "desc": "Ask \"Is the problem their behavior, or the actual point?\" These need different responses."
+        },
+        {
+          "n": "2",
+          "title": "Look at the new information",
+          "desc": "If they have real new facts, read them. Don't dismiss information because you don't like who's bringing it."
+        },
+        {
+          "n": "3",
+          "title": "Reopen on your own terms",
+          "desc": "If you decide to change, say \"I've looked at what you sent and I'm moving on this.\" Don't let them claim they forced you."
+        }
+      ],
+      "script": "\"I've reviewed what you sent. I'm making a change to [point]. Here's the new position.\"",
+      "counter": "When someone holds a point that's clearly wrong just to save face, give them a way out without making them admit defeat.\n• Say \"I'm not asking you to admit you were wrong. I'm asking you to look at this new data.\"\n• Give them a face-saving angle: \"Things changed since we agreed — that's different from the original decision being bad.\"\n• If they still won't move, take the new information above them.",
+      "insight": "The person who can reopen their own settled points when facts change is harder to beat than the person who never moves. Decisions beat defended positions every time."
+    }
+  ]
+}
