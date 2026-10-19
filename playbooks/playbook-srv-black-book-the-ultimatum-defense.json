@@ -1,0 +1,653 @@
+{
+  "meta": {
+    "id": "srv-black-book-the-ultimatum-defense",
+    "version": "1.0",
+    "title": "Black Book: The Ultimatum Defense",
+    "subtitle": "12 moves for holding position when someone draws a hard line",
+    "description": "Most ultimatums are theater. Some are real. This dossier teaches you to tell them apart, defuse the fake ones, survive the real ones, and clean up the aftermath without losing what you built.",
+    "author": "AI",
+    "createdAt": "2026-10-19T19:43:04.607Z",
+    "tags": [
+      "negotiation",
+      "ultimatum",
+      "BATNA",
+      "pressure tactics",
+      "dark psychology",
+      "deal-making",
+      "power"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🃏",
+    "fromServer": true,
+    "generation": {
+      "topic": "Defending against an ultimatum without folding",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "read",
+      "label": "Reading the Move",
+      "color": "#7C2D12"
+    },
+    {
+      "key": "ignore",
+      "label": "The Ignore Play",
+      "color": "#1E3A5F"
+    },
+    {
+      "key": "counter",
+      "label": "Counter Moves",
+      "color": "#14532D"
+    },
+    {
+      "key": "batna",
+      "label": "Walk-Away Options",
+      "color": "#78350F"
+    },
+    {
+      "key": "position",
+      "label": "Holding Position",
+      "color": "#3B0764"
+    },
+    {
+      "key": "after",
+      "label": "The Aftermath",
+      "color": "#1C1917"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "Spot the Bluff Before You Respond",
+      "hook": "Most ultimatums are moves, not walls. <strong>The one you treat as real when it isn't is the one that costs you.</strong>",
+      "truth": "Real ultimatums are rare. Most are pressure plays dressed up as final offers.\n• Real ones: they leave cleanly, no \"unless,\" no lingering, no eye contact.\n• Fake ones include escape words — \"unless,\" \"if,\" \"could\" — a fake wall has a door.\n• The tell is the walk. A bluffer always slows down at the door.",
+      "principle": "BATNA — Best Alternative Test",
+      "remember": "Real ultimatums are rare. Most have an escape hatch built in.",
+      "theySee": "A person across the table who says \"final offer\" and then sits watching you for a reaction.",
+      "signals": [
+        {
+          "l": "Long wait after",
+          "t": "They drop the ultimatum and keep sitting there — they're waiting to see if you break first."
+        },
+        {
+          "l": "\"Unless\" in the line",
+          "t": "They add \"unless\" or \"if\" to the ultimatum — a fake wall always has a door built into it."
+        },
+        {
+          "l": "Early in the talk",
+          "t": "Real ultimatums come near the end of a negotiation. One this early is almost always a tactic."
+        },
+        {
+          "l": "No next step named",
+          "t": "They haven't said where they're going. People who are really leaving know exactly where."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write down their exact words",
+          "desc": "Quote what they said. Circle any \"unless,\" \"if,\" or \"could\" — each one signals the ultimatum has an exit built in."
+        },
+        {
+          "n": "2",
+          "title": "Watch how fast they move",
+          "desc": "If they stand up, clock the speed. Slow exits are theater. Real walkers don't look back and don't linger."
+        },
+        {
+          "n": "3",
+          "title": "Sit silent for 10 seconds",
+          "desc": "Say nothing after they drop the ultimatum. Silence forces them to add words. Adding words after a \"final offer\" is the tell."
+        }
+      ],
+      "script": "\"That's interesting — let me sit with that for a moment.\"",
+      "counter": "If someone is testing YOUR ultimatum this way, stay consistent and stay still.\n• Don't add words after you've drawn the line.\n• Silence after your ultimatum does the work a second sentence undoes.\n• If they ask you to clarify, repeat it once, flat. Then stop.",
+      "insight": "The harder part is staying quiet long enough to see the tell — most people talk first and miss it entirely."
+    },
+    {
+      "id": 2,
+      "cat": "ignore",
+      "danger": "low",
+      "title": "Ignore the Ultimatum Completely",
+      "hook": "The most disarming thing you can do when someone draws a hard line is pretend they didn't. <strong>Responding validates it. Ignoring dissolves it.</strong>",
+      "truth": "An ultimatum needs your reaction to have power. Deny the reaction and the move has nothing to land on.\n• Ignore it and shift topics — the energy goes flat instantly.\n• They have to re-issue it, which costs them credibility each time they do.\n• If it was real, they'll repeat it. If it was tactical, it vanishes.",
+      "principle": "PON Harvard: Ignore and Continue",
+      "remember": "Ignore it once. Fake ones die. Real ones come back.",
+      "theySee": "A person who just heard \"take it or leave it\" and immediately kept talking about something else.",
+      "signals": [
+        {
+          "l": "They repeat it",
+          "t": "A second ultimatum means the first didn't land — but they're still at the table, which matters."
+        },
+        {
+          "l": "Tone softens",
+          "t": "The edge in their voice drops after you ignore it — the ultimatum was theater."
+        },
+        {
+          "l": "They follow your topic",
+          "t": "They pick up the new subject you introduced — they're willing to keep going."
+        },
+        {
+          "l": "Longer silence from them",
+          "t": "They expected a reaction and got nothing. They're recalculating what to do next."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Keep talking right after they say it",
+          "desc": "Pick the last real issue you were discussing and continue. Don't pause, don't acknowledge, don't ask them to repeat."
+        },
+        {
+          "n": "2",
+          "title": "Move to a smaller concrete issue",
+          "desc": "Shift to a specific detail — delivery date, payment window, a spec. Something that keeps the conversation moving forward."
+        },
+        {
+          "n": "3",
+          "title": "Watch for the blink",
+          "desc": "If they follow your topic change, the ultimatum is dead. Note the moment and keep going."
+        }
+      ],
+      "script": "\"Right — on the delivery timeline, I wanted to ask about the March window specifically.\"",
+      "counter": "If someone ignores YOUR ultimatum, restate it once, clean, then go silent.\n• Repeating it multiple times makes you sound like you're pleading.\n• One restatement, said flat, is firm. More than that is noise.\n• If they ignore it again, decide whether you'll actually walk — that's the only real answer left.",
+      "insight": "This works until you've ignored it twice — a third ignore starts to look like you didn't understand, and that changes the room."
+    },
+    {
+      "id": 3,
+      "cat": "ignore",
+      "danger": "low",
+      "title": "Reframe Their 'Never' Into 'Not Yet'",
+      "hook": "They say \"I will never do this.\" <strong>You say: \"I understand that right now, this would be very hard for you.\"</strong> You didn't agree. You didn't fight. You just moved the wall.",
+      "truth": "\"Never\" is an absolute. Reframing it plants doubt without a fight.\n• You replace \"impossible\" with \"difficult right now\" — two different things entirely.\n• You pin their refusal to today's conditions, not permanent ones.\n• They now have two exits: it's hard but not impossible, and conditions can change.",
+      "principle": "Voss: Label + Reframe",
+      "remember": "Soften their 'never' to 'not yet' and the door opens.",
+      "theySee": "Someone nodding calmly and repeating their words back in softer language — no fight, no retreat.",
+      "signals": [
+        {
+          "l": "They don't correct you",
+          "t": "They accept your reframe without objecting — they've quietly accepted the softer version."
+        },
+        {
+          "l": "They add context",
+          "t": "They start explaining why — which means they're still in the conversation, not done with it."
+        },
+        {
+          "l": "'Right now' echoed",
+          "t": "They use your \"right now\" language back. The door is open."
+        },
+        {
+          "l": "Posture loosens",
+          "t": "Shoulders drop, they lean back — the urgency of the ultimatum is leaving the room."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Catch the absolute word",
+          "desc": "Hear \"never,\" \"impossible,\" \"non-negotiable.\" That word is your signal to reframe, not to counter."
+        },
+        {
+          "n": "2",
+          "title": "Say the softer version out loud",
+          "desc": "Say: \"I understand that given where things stand today, that's a very difficult move for you.\" Use their words. Remove the finality."
+        },
+        {
+          "n": "3",
+          "title": "Move on without waiting for confirmation",
+          "desc": "Don't pause for them to confirm or deny the reframe. Go to the next topic. Let it settle on its own."
+        }
+      ],
+      "script": "\"I understand — given where things are today, that's a very difficult position to move from.\"",
+      "counter": "If someone reframes YOUR hard line, correct it once without arguing about words.\n• Say: \"Just to be clear — this one isn't conditional on timing.\"\n• One correction is enough. Don't make it a debate.\n• Move on after saying it. Arguing about the reframe is its own distraction.",
+      "insight": "This works on tactical ultimatums — the harder question is whether you can reframe a genuine limit without the other person feeling patronized."
+    },
+    {
+      "id": 4,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Don't Bid Against Yourself",
+      "hook": "They tell you to make a better offer before they'll counter. <strong>That's not negotiation — that's you paying twice for the same seat.</strong>",
+      "truth": "Every time you move before they do, you set a new floor for them at no cost.\n• You offer, they stay silent, you offer again — your first number is now dead.\n• They've paid nothing and gained a lower starting point from you.\n• Stop. Wait. Ask for their number.",
+      "principle": "PON Harvard: Reciprocal Offer Rule",
+      "remember": "Make the offer once. Wait. Never lower yourself before they move.",
+      "theySee": "Someone who just named a number and is sitting still, not adding to it.",
+      "signals": [
+        {
+          "l": "No counter, just rejection",
+          "t": "They say \"that doesn't work\" with no number back — they want you to fill the silence yourself."
+        },
+        {
+          "l": "Long pause after your offer",
+          "t": "They're betting you'll flinch and sweeten the deal without being asked."
+        },
+        {
+          "l": "'Can you do better?'",
+          "t": "A direct ask for you to lower yourself without them moving at all."
+        },
+        {
+          "l": "Vague dissatisfaction",
+          "t": "\"I don't think that works\" with nothing specific — they want you to guess what does."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your number once",
+          "desc": "Say the number or term. One sentence. Stop. No \"but I could also,\" no explanation, no apology."
+        },
+        {
+          "n": "2",
+          "title": "Hold the silence",
+          "desc": "Count to 10 before you say anything else. The first person to speak after an offer loses ground."
+        },
+        {
+          "n": "3",
+          "title": "Ask for their number",
+          "desc": "If they push back without a counter, say: \"I've put a number on the table. What's yours?\""
+        }
+      ],
+      "script": "\"I've put my number on the table. What number works on your end?\"",
+      "counter": "If someone demands a move from you without moving themselves, get information first.\n• Ask: \"What would change for you at a different number?\" before you move anything.\n• Never move twice in a row without them moving once.\n• Get information before you give anything. Always.",
+      "insight": "The real trap is mistaking politeness for strategy — most people lower their number because the silence feels rude, not because they have to."
+    },
+    {
+      "id": 5,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Name the Tactic Out Loud",
+      "hook": "When someone uses an ultimatum to shake you, name what they just did. <strong>A move named out loud loses most of its power.</strong>",
+      "truth": "Pressure tactics work best when the target doesn't know they're being used.\n• Naming it forces them to defend the tactic or drop it — both work for you.\n• You stay analytical while they get defensive. The room shifts.\n• Say it without anger. Calm naming is more unsettling than a fight.",
+      "principle": "Fisher & Ury: Separate People from Problem",
+      "remember": "Name the pressure move out loud. Named moves stop working.",
+      "theySee": "A person who just calmly described what they saw happening, as if watching the room from outside it.",
+      "signals": [
+        {
+          "l": "Tactic repeated",
+          "t": "They're escalating — deadline, then ultimatum, then insult in sequence. That's a script, not a position."
+        },
+        {
+          "l": "Personal jab added",
+          "t": "They mix an attack on you with the ultimatum — manufactured pressure, not a real argument."
+        },
+        {
+          "l": "Voice gets louder",
+          "t": "Volume goes up with the ultimatum — they expected you to back down from the last one."
+        },
+        {
+          "l": "Physical lean-in",
+          "t": "They move toward you when they say it — body pressure meant to reinforce the words."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Label the move in your head first",
+          "desc": "Call it silently: ultimatum, fake deadline, pressure escalation. Know what you're naming before you open your mouth."
+        },
+        {
+          "n": "2",
+          "title": "Say it plainly and without heat",
+          "desc": "Say: \"It sounds like we've moved into take-it-or-leave-it territory.\" Observation, not accusation."
+        },
+        {
+          "n": "3",
+          "title": "Offer a way back in",
+          "desc": "After naming it: \"I'd rather keep working the problem if that's still an option.\" Give them a door. Hold your position."
+        }
+      ],
+      "script": "\"It sounds like we've hit take-it-or-leave-it territory. I'd rather keep working the problem if that's still an option.\"",
+      "counter": "If someone names YOUR tactic, don't deny it. Own the position instead.\n• Say: \"Yes, that's where I am\" — clarity beats denial every time.\n• Denying the tactic you just used looks worse than standing behind it.\n• Let them decide what to do with that. It's their move now.",
+      "insight": "This works best said once with no emotion — the harder part is not explaining yourself after, because explaining is its own retreat."
+    },
+    {
+      "id": 6,
+      "cat": "batna",
+      "danger": "high",
+      "title": "Know Your Walk-Away Point Before You Sit Down",
+      "hook": "If you don't know what you'll do when the deal breaks, you'll fold the moment someone tests you. <strong>Your next-best option is the only real defense against any ultimatum.</strong>",
+      "truth": "The person who can walk away without it hurting much owns the conversation.\n• No real alternative means every ultimatum is a genuine threat — you have no floor.\n• A strong alternative means their \"final offer\" is one option among others, not a trap.\n• Write it down before you enter. Not in your head. On paper.",
+      "principle": "Fisher & Ury: BATNA — Best Alternative to Negotiated Agreement",
+      "remember": "Write your next-best option down before you walk in.",
+      "theySee": "A person sitting across the table who doesn't look worried when the pressure hits.",
+      "signals": [
+        {
+          "l": "Other side stalls",
+          "t": "They slow down when you don't react to pressure — they're wondering if you have somewhere else to go."
+        },
+        {
+          "l": "Price moves first",
+          "t": "They lower their price without you asking — they think you might actually leave."
+        },
+        {
+          "l": "New terms appear",
+          "t": "Items that weren't on the table before suddenly show up — they're working to keep you in the room."
+        },
+        {
+          "l": "They ask for more time",
+          "t": "They push the meeting out — people with real options don't need the extension."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your next-best option today",
+          "desc": "What happens if this deal breaks? Write the answer in one sentence. If you can't write it, you're not ready to negotiate."
+        },
+        {
+          "n": "2",
+          "title": "Score it against this deal",
+          "desc": "Rate your alternative 1 to 10 compared to this deal. A 7 or above means real walk-away power. A 3 means work on it before you sit down."
+        },
+        {
+          "n": "3",
+          "title": "Talk to a second option before the meeting",
+          "desc": "Call a second buyer, vendor, or employer before the key meeting. Having another option before you sit down is the actual preparation."
+        }
+      ],
+      "script": "\"I have another option I'm looking at — I'd rather close this with you, but I'm not stuck here.\"",
+      "counter": "When someone seems unbothered by pressure, find out what they have behind them.\n• Ask: \"What happens for you if we don't get this done?\" Listen hard.\n• No hesitation means a strong alternative. A long pause means they may need this more than they show.\n• That answer changes every move you make for the rest of the conversation.",
+      "insight": "Most people try to improve their position inside the negotiation when they should be improving their alternatives before it starts."
+    },
+    {
+      "id": 7,
+      "cat": "batna",
+      "danger": "high",
+      "title": "Call the Bluff and Wait",
+      "hook": "They drew the line. You didn't fold. Now they have to choose: leave or stay. <strong>Saying nothing after they walk is the most powerful move in the whole sequence.</strong>",
+      "truth": "A bluff only lives as long as you keep feeding it attention.\n• Stop reacting and the bluffer has nothing to push against.\n• If they come back, you've found their real floor — use it.\n• If they don't, the ultimatum was real. You needed to know that.",
+      "principle": "Schelling: Credible Commitment Test",
+      "remember": "Don't chase when they walk out. Chasing confirms the bluff.",
+      "theySee": "A person who watched them leave without moving from their seat.",
+      "signals": [
+        {
+          "l": "Slow exit",
+          "t": "A real walker leaves fast. Someone moving slowly toward the door is waiting to be stopped."
+        },
+        {
+          "l": "Intermediary calls",
+          "t": "Their assistant or partner reaches out shortly after — they want a way back that saves face."
+        },
+        {
+          "l": "Counter-offer arrives",
+          "t": "They come back with a number — they were bluffing and your silence cost them."
+        },
+        {
+          "l": "Deadline quietly extended",
+          "t": "The \"hard deadline\" gets pushed without explanation — it was never hard."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Let them leave without a word",
+          "desc": "When they walk, stay still. Don't call out. Don't text in the first hour. Give the silence room to work."
+        },
+        {
+          "n": "2",
+          "title": "Set your own real deadline before the meeting",
+          "desc": "Decide in advance how long you'll wait for them to return. 24 hours? 3 days? Know your number before you're sitting alone deciding it under pressure."
+        },
+        {
+          "n": "3",
+          "title": "Resume as if you expected it",
+          "desc": "If they come back, don't show relief. Don't offer better terms to reward their return. They moved — that's the new information. Work from there."
+        }
+      ],
+      "script": "\"I thought we might hear from you. What changed?\"",
+      "counter": "If you bluffed and they called it, pick one: walk all the way out, or own the reset.\n• Half-measures after a called bluff erase your credibility for the rest of the negotiation.\n• If you come back, bring a clear reason — not just a lower number.\n• \"I said that to see where we stood\" beats pretending you didn't say it.",
+      "insight": "The problem with calling a bluff is you find out who was right — and then you have to know what to do with that information in the next 30 seconds."
+    },
+    {
+      "id": 8,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Open a New Deal After the Old One Breaks",
+      "hook": "The ultimatum was real. The deal is dead. <strong>That's not the end — that's the start of a different negotiation.</strong>",
+      "truth": "A failed deal clears the table. The new table has different rules.\n• Old anchors, positions, and terms you gave up are gone. Both sides start clean.\n• Both sides know what broke it. Name that thing differently this time.\n• You don't renegotiate the old deal. You open a new conversation.",
+      "principle": "Procurement Tactics: New Deal Reset",
+      "remember": "A broken deal is a clean table. Build something different on it.",
+      "theySee": "A person reaching out days later as if the previous negotiation was a completely different project.",
+      "signals": [
+        {
+          "l": "Days have passed",
+          "t": "Enough time went by that both sides had to sit with it — that changes what they're willing to say."
+        },
+        {
+          "l": "Different angle used",
+          "t": "The outreach is framed around new scope or structure, not a revisit of the old fight."
+        },
+        {
+          "l": "Same person, new energy",
+          "t": "They take the meeting — they wouldn't if they were completely done with you."
+        },
+        {
+          "l": "Old terms not mentioned",
+          "t": "Neither side brings up the breakdown first. The air is cleaner this time."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Wait at least 48 hours before reaching out",
+          "desc": "Calling too soon looks like you folded. The pause is part of the reset — it changes both sides' reading of who needs this more."
+        },
+        {
+          "n": "2",
+          "title": "Frame the outreach as a new topic",
+          "desc": "Don't say \"I wanted to revisit our conversation.\" Say: \"There's a different structure I'd like to put in front of you.\""
+        },
+        {
+          "n": "3",
+          "title": "Change at least one material term",
+          "desc": "New price structure, new scope, new timeline. Something real must be different — otherwise it's the old deal in a new suit."
+        }
+      ],
+      "script": "\"There's a different structure I want to walk you through — it's not what we were discussing before.\"",
+      "counter": "If someone uses a new-deal frame to reopen what you already closed, name it.\n• Say: \"This looks like the old conversation with different labels.\"\n• Ask what's actually new. If they can't name it, there isn't anything.\n• You don't owe them a second round on the same terms.",
+      "insight": "The harder question is whether the new deal is actually new — or whether you're handing the other side a second shot at something they already got once."
+    },
+    {
+      "id": 9,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "Recognize a Fake Deadline",
+      "hook": "They say the offer expires Friday. <strong>Most expiring offers expire the day after you say no.</strong>",
+      "truth": "A manufactured deadline is designed to cut off your thinking time before you realize you have options.\n• Real deadlines have an external cause they can name — a board meeting, a contract date, a flight.\n• Fake ones are vague: \"We need to move on this soon\" with nothing specific behind it.\n• Test it: miss the deadline. If they call Monday, it was never real.",
+      "principle": "Cialdini: Scarcity (Manufactured)",
+      "remember": "Ask what's driving the deadline. A real one has a real answer.",
+      "theySee": "A person who just let a hard deadline pass and is sitting still, waiting to see what happens next.",
+      "signals": [
+        {
+          "l": "No reason given",
+          "t": "They name the deadline but can't say why — there's no external event they can point to."
+        },
+        {
+          "l": "Same-day pressure",
+          "t": "You're told to decide today. Real decisions with real stakes don't need today."
+        },
+        {
+          "l": "Offer re-stated after deadline",
+          "t": "You miss the deadline and they call anyway — the scarcity was a costume."
+        },
+        {
+          "l": "'Others are interested'",
+          "t": "Unverified competing interest with no specifics — classic manufactured urgency."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what drives the deadline",
+          "desc": "Say: \"What's creating that timeline for you?\" A real deadline has a specific external answer. A fake one gets vague."
+        },
+        {
+          "n": "2",
+          "title": "Test one small extension",
+          "desc": "Ask for 24 to 48 more hours. If they refuse and you lose the deal, it was real. If they grant it easily, it was theater."
+        },
+        {
+          "n": "3",
+          "title": "Let one deadline pass on purpose",
+          "desc": "If you're still not sure, don't act by the deadline. See if the deal dies or the phone rings Monday morning."
+        }
+      ],
+      "script": "\"What's driving that timeline? I want to understand what's actually fixed before I decide.\"",
+      "counter": "If someone is slow-walking YOUR deadline, pin their answer down.\n• Ask: \"What do you need to make a decision by [date]?\"\n• Vague answer means they're testing yours the same way you tested theirs.\n• Name a concrete result of missing it — and only name it if it's real.",
+      "insight": "The real trap is acting on a fake deadline because you didn't want to seem difficult — most people give up the deal's best terms in the final 48 hours for exactly that reason."
+    },
+    {
+      "id": 10,
+      "cat": "position",
+      "danger": "low",
+      "title": "Stay Quiet After You Counter",
+      "hook": "You made your counter. Now the only move is to say nothing. <strong>Whoever speaks first after a counter gives up ground.</strong>",
+      "truth": "Silence after a counter is pressure — no words, no heat required.\n• Every second of quiet forces them to fill it or sit with the discomfort.\n• Adding words after your counter tells them you don't believe your own number.\n• Let the offer stand alone. It's stronger that way.",
+      "principle": "Voss: Tactical Silence",
+      "remember": "Say the number. Stop talking. The silence does the rest.",
+      "theySee": "A person who just named a number and is sitting still, saying nothing, watching.",
+      "signals": [
+        {
+          "l": "They start talking",
+          "t": "They begin explaining, adding, qualifying — each word is a small retreat from their position."
+        },
+        {
+          "l": "They ask a question",
+          "t": "A question after your counter means they're working with it, not walking from it."
+        },
+        {
+          "l": "Posture stiffens",
+          "t": "They're uncomfortable with the silence. That discomfort is working for you."
+        },
+        {
+          "l": "Eyes drop or shift",
+          "t": "They look away or down — they're calculating, not leaving."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "State the counter in one sentence",
+          "desc": "Name the number or term. One sentence. No \"I think,\" no \"would you consider,\" no apology attached to it."
+        },
+        {
+          "n": "2",
+          "title": "Commit to 10 seconds of silence",
+          "desc": "Before the meeting, decide: after I say it, I count to 10 before anything else. Practice this before you need it."
+        },
+        {
+          "n": "3",
+          "title": "Respond only to what they say",
+          "desc": "When they break the silence, react to their words — not to fill the gap. Never volunteer a better number they didn't ask for."
+        }
+      ],
+      "script": "\"My number is [X]. That's where I am.\"",
+      "counter": "If someone goes quiet after their counter, break it only with a question.\n• Ask: \"What would need to change for that to work?\" — you get information without giving up ground.\n• Don't fill their silence with a better offer. They haven't asked for one.\n• Whoever explains first is the one who's worried.",
+      "insight": "Most people practice what to say in a negotiation. Almost nobody practices shutting up afterward — that's the gap."
+    },
+    {
+      "id": 11,
+      "cat": "position",
+      "danger": "high",
+      "title": "Hold Position When They Go Personal",
+      "hook": "They stop attacking the deal and start attacking you. <strong>The moment it goes personal, they've run out of real moves.</strong>",
+      "truth": "Personal pressure is what comes after the real arguments are gone.\n• Insults, guilt, disappointment — all designed to make you feel the deal is about you.\n• Your reaction tells them whether this approach has teeth on you.\n• Stay on the specific issue. Name the shift only if they push hard.",
+      "principle": "Greene: Law 19 — Know Who You're Dealing With",
+      "remember": "They went personal because they ran out of real arguments.",
+      "theySee": "A person who just got called difficult or unreasonable — and didn't change their expression.",
+      "signals": [
+        {
+          "l": "'Disappointed' language",
+          "t": "\"I thought we had a better relationship than this\" — loyalty invoked to pressure a business decision."
+        },
+        {
+          "l": "'Everyone else agreed'",
+          "t": "Social pressure dressed as data — designed to make you feel you're the only problem in the room."
+        },
+        {
+          "l": "Volume aimed at you",
+          "t": "Raised voice directed at you personally, not at the issue. Designed to make you back down emotionally."
+        },
+        {
+          "l": "Past favors mentioned",
+          "t": "\"After everything we've done for you\" — history invoked as a debt they expect you to pay right now."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull back to the specific issue",
+          "desc": "When it goes personal, name the deal point you're still discussing. \"On the pricing question specifically —\" pulls the conversation back where it belongs."
+        },
+        {
+          "n": "2",
+          "title": "Don't apologize for your position",
+          "desc": "An apology signals the personal pressure worked. Say: \"I understand this is frustrating. My position on this hasn't changed.\""
+        },
+        {
+          "n": "3",
+          "title": "Name the shift if it keeps going",
+          "desc": "If they keep pushing: \"I notice we've moved from the terms to something more personal. I'd rather stay on the deal.\" Say it once. Calmly."
+        }
+      ],
+      "script": "\"I understand this is frustrating. My position on this hasn't changed — let's stay with the specifics.\"",
+      "counter": "If you've slipped into personal attacks yourself, pull it back immediately.\n• Say: \"I want to get back to the actual terms.\"\n• Personal attacks after a failed ultimatum signal you're out of real moves — the other side knows it.\n• Facts after feelings always look stronger in the room.",
+      "insight": "The move that follows is deciding how much of the relationship you're willing to damage to hold the position — that's a different calculation with no clean answer."
+    },
+    {
+      "id": 12,
+      "cat": "after",
+      "danger": "extreme",
+      "title": "Give the Loser a Way to Save Face",
+      "hook": "You held position and they folded. <strong>The deal you just won now runs on whether they resent you for it.</strong>",
+      "truth": "Winning on an ultimatum creates a debt the loser is quietly planning to collect.\n• They remember being forced into a corner long after the deal closes.\n• The next negotiation with them starts from that stored resentment.\n• Give them a story that lets them leave with their head up.",
+      "principle": "Greene: Law 46 — Never Humiliate; Offer the Graceful Exit",
+      "remember": "Win the deal. Give them a way to say they chose it too.",
+      "theySee": "The person who just beat them in the negotiation, watching to see how they act in the next two minutes.",
+      "signals": [
+        {
+          "l": "Fast agreement",
+          "t": "They folded quickly — which means they felt they had no real choice. Watch for slow revenge during execution."
+        },
+        {
+          "l": "Silent compliance",
+          "t": "They sign without further talk. That silence is storing something for later."
+        },
+        {
+          "l": "Slow after the close",
+          "t": "Post-deal they get difficult, unresponsive, slow. The deal closed but they didn't."
+        },
+        {
+          "l": "Third parties told",
+          "t": "They mention to others how the negotiation went. That story is not making you look good."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Let them say they chose it",
+          "desc": "Frame the close as their decision: \"I'm glad we landed here — I think this works well for your team.\" Give them ownership of the agreement."
+        },
+        {
+          "n": "2",
+          "title": "Give one small thing after they fold",
+          "desc": "Offer a minor term — faster delivery, a small add-on. It costs you little and changes how they remember the whole conversation."
+        },
+        {
+          "n": "3",
+          "title": "Don't recap who moved and who didn't",
+          "desc": "Never say \"I'm glad you came around\" or \"I knew you'd see it.\" That's a second win at their expense. The first one was enough."
+        }
+      ],
+      "script": "\"I think this puts us both in a good spot. Let's make sure the rollout works well for your team.\"",
+      "counter": "If someone is letting you fold gracefully, take the exit they're giving you.\n• Pride costs more than whatever term you're holding out for.\n• A graceful exit is not weakness — it's the start of the next deal.\n• The person giving you the exit is thinking past this negotiation. Match their level.",
+      "insight": "The real test is not whether you got the deal — it's whether the person who folded will answer the call the next time."
+    }
+  ]
+}
