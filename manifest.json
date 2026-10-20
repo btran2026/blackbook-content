@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 91,
+  "manifestVersion": 92,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -845,7 +845,20 @@
       "url": "playbooks/playbook-srv-the-compliment-that-was-an-insult.json",
       "addedAt": "2026-10-13T23:55:02.095Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-clean-exits",
+      "title": "Clean Exits",
+      "theme": "conversation",
+      "topic": "Exiting a conversation cleanly without giving offense",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#1c2b3a",
+      "coverIcon": "🚪",
+      "url": "playbooks/playbook-srv-clean-exits.json",
+      "addedAt": "2026-10-20T18:18:48.306Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-13T23:55:02.095Z"
+  "generatedAt": "2026-10-20T18:18:48.306Z"
 }
