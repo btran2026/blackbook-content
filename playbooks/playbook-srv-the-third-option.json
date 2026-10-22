@@ -1,0 +1,595 @@
+{
+  "meta": {
+    "id": "srv-the-third-option",
+    "version": "1.0",
+    "title": "The Third Option",
+    "subtitle": "A Field Guide to False Dichotomies",
+    "description": "Ten cards for spotting forced binaries, breaking them in real time, and building the third option before someone else locks the list. Works in arguments, negotiations, meetings, and anywhere choices get named before anyone asks what's missing.",
+    "author": "AI",
+    "createdAt": "2026-10-22T18:22:20.212Z",
+    "tags": [
+      "logic",
+      "argumentation",
+      "critical thinking",
+      "negotiation",
+      "persuasion",
+      "debate",
+      "academic"
+    ],
+    "totalCards": 10,
+    "isSeeded": true,
+    "coverColor": "#1A2740",
+    "coverIcon": "⚖️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting a false dichotomy and opening a third option",
+      "cardCount": 10,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "detection",
+      "label": "Spotting the Move",
+      "color": "#1B3A5C",
+      "description": "How to recognize a false dichotomy before it closes on you."
+    },
+    {
+      "key": "mechanics",
+      "label": "How It Works",
+      "color": "#2D1B4E",
+      "description": "The psychology and structure behind why binaries stick."
+    },
+    {
+      "key": "counter_break",
+      "label": "Breaking the Frame",
+      "color": "#0F3323",
+      "description": "Moves for dismantling a binary once it has been named."
+    },
+    {
+      "key": "opening",
+      "label": "The Third Option",
+      "color": "#3B2200",
+      "description": "How to build and own the alternative that wasn't on the table."
+    },
+    {
+      "key": "defense",
+      "label": "Real vs. False",
+      "color": "#3A0F0F",
+      "description": "Knowing when a binary is actually real — and what that changes."
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "detection",
+      "danger": "low",
+      "title": "Spot the Forced Choice Before You Pick a Side",
+      "hook": "Someone hands you two options. Both feel real. Neither is.",
+      "truth": "Most people pick one of the two options named without asking if more exist.\n• The speaker shrinks the field on purpose to force a conclusion.\n• Once you pick, you've accepted their setup as the full picture.\n• The trap closes the moment you start debating which option is better.",
+      "principle": "False Dilemma Fallacy",
+      "remember": "When someone gives you two choices, look for the third.",
+      "theySee": "A person nodding along while choosing between two options someone else named.",
+      "signals": [
+        {
+          "l": "Either/or opener",
+          "t": "You hear 'either X or Y,' 'if not A then B,' or 'you're with us or against us.'",
+          "icon": "👂"
+        },
+        {
+          "l": "No middle named",
+          "t": "The speaker names two poles but skips everything in between.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Quick close",
+          "t": "They push for a decision fast, before you can think of other paths.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "One option worse",
+          "t": "One option is clearly the wrong one, making the other feel forced.",
+          "icon": "⚠️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the two options exactly",
+          "desc": "Copy out the two choices word for word as stated. Writing them down slows the close and lets you see the gap."
+        },
+        {
+          "n": "2",
+          "title": "List three alternatives",
+          "desc": "Write three options that weren't named. They don't need to be perfect — they just need to be real."
+        },
+        {
+          "n": "3",
+          "title": "Name the one that breaks the setup",
+          "desc": "Pick the alternative that most clearly shows the original two weren't the only options. Use it first."
+        }
+      ],
+      "script": "\"Those are two ways to look at it — what are the other ways?\"",
+      "counter": "Someone reduces YOUR argument to two options to make you look extreme.\n• Notice if they replace your actual position with one of their named poles.\n• Say: 'That's not what I argued — my position is different from both of those.'\n• Ask them to state your actual position before debating it.",
+      "insight": "The move works best when the two options sound reasonable — a bad binary is easy to spot, a well-made one isn't."
+    },
+    {
+      "id": 2,
+      "cat": "mechanics",
+      "danger": "moderate",
+      "title": "Why Binary Thinking Sticks Even When You Know Better",
+      "hook": "Human language runs on opposites. <strong>Hot/cold. Yes/no. With us/against us.</strong> The binary gets in before the brain can object.",
+      "truth": "The false dichotomy borrows power from real binaries — things that genuinely are two-option, like happened vs. didn't happen.\n• Language pairs like good/bad and win/lose make the two-option setup feel natural.\n• Inside the setup, your brain picks between options, not whether the setup itself is real.\n• Under pressure, people default to either/or and stop looking for more options.",
+      "principle": "Cognitive Simplification Bias",
+      "remember": "Two options feel complete. They usually aren't.",
+      "theySee": "A speaker presenting a clean, simple choice while the audience nods instead of asking questions.",
+      "signals": [
+        {
+          "l": "Relief in the room",
+          "t": "The audience relaxes when given two options — the complexity feels managed.",
+          "icon": "😌"
+        },
+        {
+          "l": "Fast side-taking",
+          "t": "People pick a side within seconds without naming any alternative.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Urgency mention",
+          "t": "The speaker cites a deadline or urgency that blocks time to think.",
+          "icon": "🕐"
+        },
+        {
+          "l": "Exact opposites",
+          "t": "The two options are phrased as exact opposites — success vs. failure, loyal vs. traitor.",
+          "icon": "↔️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pause 30 seconds before picking",
+          "desc": "The reflex to pick one option is fast. Give yourself 30 seconds after hearing the binary. Override it."
+        },
+        {
+          "n": "2",
+          "title": "Ask who wins if you stay inside",
+          "desc": "Identify which person benefits if the conversation stays inside the named choices. Their interest shaped the setup."
+        },
+        {
+          "n": "3",
+          "title": "Separate the real binary from the false one",
+          "desc": "Find what is genuinely two-option in the situation — deadline: real or not, budget: approved or not — and separate it from the invented one."
+        }
+      ],
+      "script": "\"Before I answer, I want to make sure those are actually the only two options on the table.\"",
+      "counter": "Someone uses urgency to push you into a two-option choice before you can find alternatives.\n• Stop when you hear 'either we act now or we lose' — that's the tell.\n• List one option that isn't on their deadline. It may exist.\n• Slow decisions under false urgency almost always beat fast ones made in panic.",
+      "insight": "The reason smart people fall for this is that their intelligence fires inside the setup — they argue better, faster, harder, all without noticing the setup itself is wrong."
+    },
+    {
+      "id": 3,
+      "cat": "detection",
+      "danger": "low",
+      "title": "The Words That Signal a Binary Is Being Built",
+      "hook": "The false dichotomy doesn't hide. <strong>It announces itself.</strong> You just have to know which words to hear.",
+      "truth": "Forced choices almost always use the same small set of words. Hearing them is enough to pause.\n• 'Either/or,' 'if not,' and 'with us or against us' — these are the tells.\n• The either/or is almost always followed by a fast close: 'so you must decide.'\n• Both options land before any evidence is offered for why they're the only two.",
+      "principle": "Linguistic Framing Analysis",
+      "remember": "Hear 'either/or' and immediately look for the missing option.",
+      "theySee": "A speaker using 'either/or' language while the listener nods along without questioning it.",
+      "signals": [
+        {
+          "l": "Either/or sentence",
+          "t": "The argument starts with 'either you do X or Y will happen.'",
+          "icon": "👂"
+        },
+        {
+          "l": "If-not phrasing",
+          "t": "The speaker says 'if you're not for us, you're against us' or similar.",
+          "icon": "🔀"
+        },
+        {
+          "l": "Identity label forced",
+          "t": "You're asked to pick a label — success or failure, supporter or opponent.",
+          "icon": "🏷️"
+        },
+        {
+          "l": "Instant move past options",
+          "t": "The speaker names two options and immediately moves on without pausing.",
+          "icon": "⏭️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Mark the trigger word",
+          "desc": "When you hear 'either,' 'if not,' or 'unless,' stop and write the two options exactly as stated."
+        },
+        {
+          "n": "2",
+          "title": "Check if the options cover everything",
+          "desc": "Ask: do these two options cover every real possibility, or does a third clearly exist?"
+        },
+        {
+          "n": "3",
+          "title": "Name the missing option out loud",
+          "desc": "State one alternative once, clearly. You don't need a full argument — breaking the setup only requires naming one more option."
+        }
+      ],
+      "script": "\"You've given me two options — I think there's at least one more you haven't named yet.\"",
+      "counter": "Someone points out that YOU used 'either/or' language and says your binary is false.\n• Ask if your two options actually cover all the real cases.\n• If they don't, name the missing one before your opponent does.\n• An argument that survives its own check is harder to break.",
+      "insight": "The tell is almost always in the first sentence — by the third sentence the listener is already inside the setup and arguing which option is better."
+    },
+    {
+      "id": 4,
+      "cat": "opening",
+      "danger": "low",
+      "title": "Name the Spectrum They Left Out",
+      "hook": "Most false dichotomies put two extreme poles on the board. <strong>The whole middle is left unnamed.</strong> Name it.",
+      "truth": "False dichotomies put two extreme points on a spectrum and pretend nothing exists between them.\n• Name the spectrum and the binary becomes a range with many stopping points.\n• The target now has to defend why only the extremes are valid positions.\n• Once the middle is visible, the pressure to pick a pole collapses.",
+      "principle": "Fuzzy Logic / Spectrum Thinking",
+      "remember": "Every binary hides a middle. Name it and the trap breaks.",
+      "theySee": "Someone drawing a line between two poles and pointing to places on it instead of picking an end.",
+      "signals": [
+        {
+          "l": "Extreme poles only",
+          "t": "One option is very strong and the other very weak — nothing in between is named.",
+          "icon": "↔️"
+        },
+        {
+          "l": "All-or-nothing words",
+          "t": "The speaker uses words like 'always,' 'never,' 'total,' or 'complete.'",
+          "icon": "🔢"
+        },
+        {
+          "l": "Both options large",
+          "t": "Both options require a large commitment when a smaller one might work.",
+          "icon": "📏"
+        },
+        {
+          "l": "Win/lose setup",
+          "t": "The two options are presented as total success vs. total failure.",
+          "icon": "🏆"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Draw the spectrum on paper",
+          "desc": "Put the two named options at opposite ends. Draw a line. The middle is now physically visible."
+        },
+        {
+          "n": "2",
+          "title": "Name two points in the middle",
+          "desc": "Pick two positions between the poles that are real and could work. Write them in plain terms."
+        },
+        {
+          "n": "3",
+          "title": "Offer the mildest middle option first",
+          "desc": "Present the most modest middle position. It's hardest to reject and easiest to accept as a starting point."
+        }
+      ],
+      "script": "\"Those two seem like the far ends — where does something in the middle land?\"",
+      "counter": "Someone uses the spectrum to water down YOUR position by pushing you toward the middle.\n• Check whether the middle position actually exists or just avoids your point.\n• Sometimes a genuine binary is real — not every spectrum is valid.\n• Ask: does the middle option solve the problem, or does it just avoid the fight?",
+      "insight": "Pointing at the spectrum is the easy move — the harder part is defending a specific middle point when the other side demands you commit to one."
+    },
+    {
+      "id": 5,
+      "cat": "counter_break",
+      "danger": "moderate",
+      "title": "Reject the Premise, Not the Options",
+      "hook": "Picking between two bad options is still losing. <strong>Your first move is to say the whole setup is wrong.</strong>",
+      "truth": "Picking the better bad option still accepts that only two options exist.\n• Rejecting the premise means saying the whole setup is wrong, not just one option.\n• Now the speaker must defend the binary itself, not just one of the choices.\n• Once challenged, new options appear — you don't need to name all of them.",
+      "principle": "Premise Denial / Reductio ad Dichotomium",
+      "remember": "Don't pick from bad options. Reject the rule that only two exist.",
+      "theySee": "A person pushing back on the entire setup of a question instead of answering it.",
+      "signals": [
+        {
+          "l": "Pressure to pick",
+          "t": "The speaker says 'just tell me which one' or 'you have to choose.'",
+          "icon": "🫷"
+        },
+        {
+          "l": "Both options bad",
+          "t": "You don't want either option — that's a signal neither should be treated as final.",
+          "icon": "👎"
+        },
+        {
+          "l": "No reason given",
+          "t": "The speaker hasn't explained why only two options exist, just asserted it.",
+          "icon": "❓"
+        },
+        {
+          "l": "Fast close again",
+          "t": "You're being rushed before you can think of other choices.",
+          "icon": "⏱️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Refuse to answer the binary",
+          "desc": "Say clearly that you're not choosing between the two options named. No apology, no softening."
+        },
+        {
+          "n": "2",
+          "title": "Challenge the premise directly",
+          "desc": "Ask: 'Why are those the only two options?' Make the speaker defend the setup, not just one of the choices."
+        },
+        {
+          "n": "3",
+          "title": "Name one alternative",
+          "desc": "Offer one other option. One is enough to prove the binary was false. You don't need five."
+        }
+      ],
+      "script": "\"I'm not going to pick between those two — I don't think they're the only options here.\"",
+      "counter": "Someone refuses your binary by saying your premise is wrong.\n• Ask yourself: is the binary real, or did you build it to force a close?\n• Name the options you left out before they do — you look sharper, not weaker.\n• If the binary is real, show why the middle options don't actually work.",
+      "insight": "Rejecting the premise works once easily — the harder move is when the speaker says 'fine, name your third option' and you have to actually deliver one."
+    },
+    {
+      "id": 6,
+      "cat": "counter_break",
+      "danger": "low",
+      "title": "Ask What's Missing — The One Question That Breaks Any Binary",
+      "hook": "You don't need a speech to break a false binary. <strong>You need one question.</strong>",
+      "truth": "The simplest counter to a false dichotomy is asking what options have been left out.\n• A good question forces the speaker to defend the binary — harder than just asserting it.\n• That question is neutral enough that no one can object to it.\n• Once the speaker has to list what's missing, the field opens on its own.",
+      "principle": "Socratic Method / Elenchus",
+      "remember": "Ask what's missing. One question breaks more binaries than any argument.",
+      "theySee": "A person in a meeting asking a short question that stops the whole conversation cold.",
+      "signals": [
+        {
+          "l": "Room goes quiet",
+          "t": "The question lands and nobody immediately jumps to answer — the binary is exposed.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Speaker hesitates",
+          "t": "The person who built the binary pauses before responding to the question.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Others look around",
+          "t": "Other people in the room start looking at each other instead of at the speaker.",
+          "icon": "👀"
+        },
+        {
+          "l": "Options restated",
+          "t": "The speaker restates the original two options instead of answering the question.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Let the binary land fully",
+          "desc": "Wait for the speaker to finish before asking. Interrupting makes you look defensive, not sharp."
+        },
+        {
+          "n": "2",
+          "title": "Ask what's missing",
+          "desc": "Say: 'What options haven't we put on the table yet?' Keep the tone flat — not aggressive."
+        },
+        {
+          "n": "3",
+          "title": "Stay quiet after asking",
+          "desc": "Don't fill the silence. The speaker is now under pressure to name what they cut. Silence is the pressure."
+        }
+      ],
+      "script": "\"What options haven't we put on the table yet?\"",
+      "counter": "Someone uses this question on you to stall your binary.\n• If your binary is real, name the missing options and explain why each fails.\n• If you can't explain why the missing options fail, your binary is probably false.\n• A question that stalls you means you need to check your own premise first.",
+      "insight": "The question is free — the expensive part is staying quiet long enough after asking it for the silence to do its work."
+    },
+    {
+      "id": 7,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Don't Call a Real Binary False",
+      "hook": "Not every either/or is a trap. <strong>Some things actually are two options.</strong> Mistaking a real one for a false one loses you the argument fast.",
+      "truth": "Real binaries exist; false ones invent the rule that only two options exist.\n• The test: do the two options cover every real case with no gap?\n• If every third option you name fails real constraints, the binary may be real.\n• Calling a real binary false makes you look like you're avoiding a hard choice.",
+      "principle": "Valid Disjunction vs. False Dilemma",
+      "remember": "Some things really are two options. Check before you call it false.",
+      "theySee": "Someone challenging a binary and looking for a third option that genuinely doesn't exist.",
+      "signals": [
+        {
+          "l": "Event-based choice",
+          "t": "The binary is about something that happened or didn't — not opinion or policy.",
+          "icon": "📅"
+        },
+        {
+          "l": "Third option fails",
+          "t": "Every alternative you name gets ruled out by real constraints, not just assertion.",
+          "icon": "❌"
+        },
+        {
+          "l": "Real deadline confirmed",
+          "t": "The urgency driving the binary is backed by a real external date or rule.",
+          "icon": "📆"
+        },
+        {
+          "l": "Both sides accept it",
+          "t": "People on opposite sides both accept the binary without being pressured.",
+          "icon": "🤝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the real constraints",
+          "desc": "List the actual limits on the situation — budget, deadline, physical facts. These shape what's genuinely two-option."
+        },
+        {
+          "n": "2",
+          "title": "Test each alternative against the constraints",
+          "desc": "Run each proposed third option against the real limits. If it fails all of them, the binary may be real."
+        },
+        {
+          "n": "3",
+          "title": "Admit the binary if it holds",
+          "desc": "If the binary survives the test, say so on record. Admitting a real binary first is harder to argue against than denying it."
+        }
+      ],
+      "script": "\"Before I push back — is there a real constraint that rules out a middle option here?\"",
+      "counter": "Someone claims a real binary is false to avoid making a decision.\n• Ask them to name a third option and show how it fits the real constraints.\n• If they can't, the binary is probably real and they're stalling.\n• Name the constraint that closes off the third option — make it concrete, not general.",
+      "insight": "The skill isn't calling everything a false dichotomy — it's knowing the difference fast enough to pick the right counter before you look like the one avoiding the question."
+    },
+    {
+      "id": 8,
+      "cat": "counter_break",
+      "danger": "high",
+      "title": "Turn Their Binary Back on the Person Who Built It",
+      "hook": "They handed you a binary. <strong>Now use it on them.</strong>",
+      "truth": "Once they commit to a binary, apply it back — their own rule traps them.\n• Apply their binary to a related issue where they land in the 'bad' category.\n• Moral language in a binary almost always hasn't been tested against the speaker.\n• The goal is to show the setup was never meant to apply fairly.",
+      "principle": "Judo Reframe / Reversal",
+      "remember": "Turn their two-option rule back on them. Their setup, their trap.",
+      "theySee": "A person turning a question back on the person who asked it, using the exact same words.",
+      "signals": [
+        {
+          "l": "Moral loading",
+          "t": "One option in the binary is framed as morally good, the other as bad or weak.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Speaker exempt",
+          "t": "The binary applies to you but the speaker hasn't applied it to themselves.",
+          "icon": "🛡️"
+        },
+        {
+          "l": "Loaded words",
+          "t": "Words like 'righteous,' 'common sense,' or 'obvious' make one option the clear winner.",
+          "icon": "💬"
+        },
+        {
+          "l": "Audience watching",
+          "t": "Others are present — the reversal will have witnesses, raising the stakes for both sides.",
+          "icon": "👥"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the loaded option",
+          "desc": "Identify which of the two options is framed as morally superior or obviously correct. That's the standard you'll reverse."
+        },
+        {
+          "n": "2",
+          "title": "Find the related issue that traps them",
+          "desc": "Identify one case where the same standard applied to the speaker puts them in the 'bad' category."
+        },
+        {
+          "n": "3",
+          "title": "Apply the binary publicly",
+          "desc": "Ask the question in the room. Use their exact words. Let the audience see the setup fail on its builder."
+        }
+      ],
+      "script": "\"By that standard — either you support it or you're against progress — which side would you fall on when it comes to [related issue]?\"",
+      "counter": "Someone turns your binary back on you.\n• Don't deny you used the binary — you did, and denial looks worse.\n• If you can explain why the setup was valid in context, do it. If not, admit it was too broad.\n• Revise on the spot: 'You're right — let me be more precise about what I meant.'",
+      "insight": "The reversal burns the setup down — but if you need that setup intact for a later argument, use it only once and don't let it become a rule you have to live by."
+    },
+    {
+      "id": 9,
+      "cat": "opening",
+      "danger": "moderate",
+      "title": "Name the Options First — Whoever Does Owns the Conversation",
+      "hook": "Whoever names the options first controls the whole conversation. <strong>Get there first.</strong>",
+      "truth": "The person who names the options first controls the range of the conversation.\n• Once two options are on the table, the conversation usually stays inside them.\n• Adding a third option after the setup is made takes five times more effort.\n• This works anywhere options get named before the room has time to think.",
+      "principle": "Agenda-Setting / Frame Primacy",
+      "remember": "Name the options before anyone else does. The first list usually wins.",
+      "theySee": "A person opening a meeting with three options named before anyone else speaks.",
+      "signals": [
+        {
+          "l": "You speak first",
+          "t": "You have the opening slot in the meeting, the first paragraph of the brief, or the first message in the thread.",
+          "icon": "🎤"
+        },
+        {
+          "l": "Three options ready",
+          "t": "You've prepared more than two options in advance and can name all of them before anyone narrows the field.",
+          "icon": "📋"
+        },
+        {
+          "l": "Others react to yours",
+          "t": "The room is responding to your options instead of offering their own — you've set the list.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Third option on board",
+          "t": "When someone tries to reduce the discussion to two choices, your third option is already named.",
+          "icon": "✅"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Prepare three options before the conversation",
+          "desc": "Write them out in advance. Walk in with two and someone else will reduce it to one vs. another."
+        },
+        {
+          "n": "2",
+          "title": "Name all three in your opening",
+          "desc": "State all options in your first 30 seconds. Don't hold the third one back — naming it late makes it look defensive."
+        },
+        {
+          "n": "3",
+          "title": "Define what each option includes and excludes",
+          "desc": "For each option you name, say one thing it does and one thing it doesn't do. This makes the list harder to collapse."
+        }
+      ],
+      "script": "\"Before we narrow this down, I want to put three options on the table: [A], [B], and [C] — then we can decide which fits best.\"",
+      "counter": "Someone beats you to the setup and you're already reacting to their two options.\n• Name a third option before your next sentence. Even a rough one resets the field.\n• Others will often defend your third option so you don't have to.\n• Once your option is named, you're no longer inside their setup.",
+      "insight": "Setting the options early is easier to hold in writing than in speech — a document can name three options before anyone speaks, and the room walks in already inside your list."
+    },
+    {
+      "id": 10,
+      "cat": "opening",
+      "danger": "moderate",
+      "title": "Own the Third Option After You've Broken the Binary",
+      "hook": "You broke the binary. Now what? <strong>A third option nobody owns is just noise.</strong>",
+      "truth": "Opening a third option creates space. You have to fill it or someone else will.\n• The person who names the third option has 10 seconds to own it before someone reshapes it.\n• An option that serves both sides is harder to reject than one that serves only you.\n• Once the third option is accepted, you can introduce a fourth — but not before.",
+      "principle": "Negotiation: Expanding the Zone of Possible Agreement (ZOPA)",
+      "remember": "Break the binary, then close with a specific offer.",
+      "theySee": "A person who just called out the false binary now offering a concrete alternative instead of just pointing at the problem.",
+      "signals": [
+        {
+          "l": "Third option accepted",
+          "t": "The room or the other person has acknowledged that a third option exists — this is your window.",
+          "icon": "🪟"
+        },
+        {
+          "l": "Silence after the break",
+          "t": "Nobody fills the silence after the binary falls — you need to move first.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Both sides relieved",
+          "t": "The original two options were uncomfortable for everyone — a third creates visible relief.",
+          "icon": "😮‍💨"
+        },
+        {
+          "l": "Commitment request",
+          "t": "Someone asks 'so what exactly are you proposing?' — they're ready to close.",
+          "icon": "🤝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Own the third option immediately",
+          "desc": "As soon as the binary breaks, state your option clearly. One sentence, no hedge."
+        },
+        {
+          "n": "2",
+          "title": "Name what both sides get",
+          "desc": "Say one thing each side gains from your option. Make it concrete — not 'a better result' but what specifically changes for each party."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a small first commitment",
+          "desc": "Don't ask for full agreement yet. Ask for one step: 'Can we at least agree to explore this one?'"
+        }
+      ],
+      "script": "\"Here's a specific option that wasn't on the table: [state it]. It does [X] for your side and [Y] for ours.\"",
+      "counter": "Someone breaks your binary and offers a third option that favors them.\n• Don't reject it right away — check whether it actually serves your side partially.\n• If it doesn't, name what's missing from their third option for you.\n• Build a fourth option on top of their third — harder to reject than a flat no.",
+      "insight": "The person who breaks the binary gets credit for the move — but the person who closes the third option gets the deal. They're not always the same person."
+    }
+  ]
+}
