@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 91,
+  "manifestVersion": 92,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -845,7 +845,20 @@
       "url": "playbooks/playbook-srv-the-compliment-that-was-an-insult.json",
       "addedAt": "2026-10-13T23:55:02.095Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-flattery-file",
+      "title": "The Flattery File",
+      "theme": "flattery",
+      "topic": "Handling flattery-then-ask sequencing",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🎭",
+      "url": "playbooks/playbook-srv-the-flattery-file.json",
+      "addedAt": "2026-10-23T18:11:07.601Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-13T23:55:02.095Z"
+  "generatedAt": "2026-10-23T18:11:07.601Z"
 }
