@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "id": "srv-the-extension",
+    "version": "1.0",
+    "title": "The Extension",
+    "subtitle": "12 Moves for Getting More Time Without Looking Weak",
+    "description": "A closed dossier of tactics for negotiating deadline extensions in professional settings. Covers timing, positioning, proof, the ask itself, pushback defense, and what to do after you win. Every card assumes you already know the basics. These are the moves the other side doesn't see coming.",
+    "author": "AI",
+    "createdAt": "2026-10-24T17:13:04.154Z",
+    "tags": [
+      "negotiation",
+      "deadlines",
+      "workplace",
+      "persuasion",
+      "tactical communication"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "⏱️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Negotiating a deadline extension without looking weak",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "timing",
+      "label": "When to Move",
+      "color": "#2D3561"
+    },
+    {
+      "key": "positioning",
+      "label": "Before You Ask",
+      "color": "#1A4A2E"
+    },
+    {
+      "key": "framing",
+      "label": "The Ask Itself",
+      "color": "#4A1A40"
+    },
+    {
+      "key": "proof",
+      "label": "Show You're Serious",
+      "color": "#1A3A4A"
+    },
+    {
+      "key": "defense",
+      "label": "Handle Pushback",
+      "color": "#4A1A1A"
+    },
+    {
+      "key": "aftermath",
+      "label": "After the Extension",
+      "color": "#3A3A1A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "timing",
+      "danger": "moderate",
+      "title": "Ask Before They Notice the Slip",
+      "hook": "Most people wait until they're caught. By then the conversation is about failure, not scheduling.",
+      "truth": "The ask is ten times easier before the missed deadline than after it.\n• Asking early is a scheduling conversation. Asking late is a trust conversation.\n• Early ask gives them choices. Late ask removes their choices.\n• The gap between flagging a problem and hiding one is measured in hours.",
+      "principle": "Loss Aversion",
+      "remember": "Ask the moment you know you're behind, not after.",
+      "theySee": "A person who walked in to flag a problem before anyone noticed the deadline would be missed.",
+      "signals": [
+        {
+          "l": "Scope just grew",
+          "t": "Something new was added to the project in the last 24 hours.",
+          "icon": "📋"
+        },
+        {
+          "l": "Buffer gone",
+          "t": "Your calendar has no slack left to absorb more time.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Cutting corners",
+          "t": "You're skipping steps you'd normally take just to hit the date.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "No one knows yet",
+          "t": "The other side hasn't noticed anything is off.",
+          "icon": "🔕"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the slip today",
+          "desc": "Write one sentence: what changed and when. No explanation, no apology. Just the fact."
+        },
+        {
+          "n": "2",
+          "title": "Choose one specific new date",
+          "desc": "Pick the day you can realistically finish. Not a range, not 'next week'. One date only."
+        },
+        {
+          "n": "3",
+          "title": "Send it before end of day",
+          "desc": "Don't sleep on this. Same-day notice signals you're managing the project, not hiding from it."
+        }
+      ],
+      "script": "\"I want to flag this now — I can deliver at full quality by [new date], or a thinner version by the original date. Which do you need?\"",
+      "counter": "Someone using this move on you is managing your perception, not just the calendar.\n• Notice if they named a specific new date or left it vague.\n• Ask what specifically changed. A vague answer means the problem is bigger or older than they said.\n• Confirm what they'll deliver and by when in writing before the conversation ends.",
+      "insight": "The earlier you ask, the more goodwill you buy — but goodwill is a balance you're spending, not building."
+    },
+    {
+      "id": 2,
+      "cat": "positioning",
+      "danger": "low",
+      "title": "Lead with What's Done, Not What Isn't",
+      "hook": "Open with your progress. By the time you name the delay, they're already seeing someone who's working, not failing.",
+      "truth": "People respond most to what they heard last. Put the good news where it anchors them before the ask lands.\n• Progress listed first changes what they think about when you name the delay.\n• They've agreed with you three times before you ask for anything.\n• The trap: listing weak or fake wins. They'll notice, and then everything you said is suspect.",
+      "principle": "Anchoring Effect",
+      "remember": "Say what you finished before you say what you need.",
+      "theySee": "A person listing three specific completed pieces of work before making any request.",
+      "signals": [
+        {
+          "l": "Real work done",
+          "t": "You have finished, shareable pieces of the project you could name right now.",
+          "icon": "✅"
+        },
+        {
+          "l": "Nothing shown yet",
+          "t": "They haven't seen any output from you on this project.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Skeptical history",
+          "t": "This person has heard you ask for time before and remembers it.",
+          "icon": "🤔"
+        },
+        {
+          "l": "Multiple requesters",
+          "t": "Others are also making asks of this person this week.",
+          "icon": "📬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List what's done",
+          "desc": "Write 3 to 5 specific completed items. Name the file, the call, the decision, the draft. Not 'research' — name what specifically."
+        },
+        {
+          "n": "2",
+          "title": "Open with the list",
+          "desc": "Start your message or conversation with the progress items. Nothing before them. No setup, no context."
+        },
+        {
+          "n": "3",
+          "title": "Then name the gap",
+          "desc": "After the list, one sentence: what's left and the specific new date. That's the full ask."
+        }
+      ],
+      "script": "\"Here's where I am: [X done, Y done, Z done]. To finish the last piece at full quality, I need until [date].\"",
+      "counter": "When someone leads with a progress list before asking for time, check if the progress is real.\n• Ask them to send the work that's done before you agree to the extension.\n• Notice if the 'progress' items are tasks completed or actual outputs you can see.\n• If they can't show the work, the list is theater.",
+      "insight": "The anchor works — but only if the progress is real. The harder problem: what do you do when you don't have three real wins to list?"
+    },
+    {
+      "id": 3,
+      "cat": "framing",
+      "danger": "low",
+      "title": "Frame the Ask Around Their Result, Not Your Need",
+      "hook": "Don't ask for time because you need it. Ask because rushing will cost them something they care about.",
+      "truth": "They don't care about your schedule. They care about what they get at the end.\n• Shift the question from 'will you give me time' to 'do you want the right result'.\n• Quality risk is their risk. Name the specific piece that suffers if you rush.\n• The trap: naming the risk too vaguely. 'It might not be as good' is easy to dismiss.",
+      "principle": "Prospect Theory: Loss vs. Gain Reframe",
+      "remember": "Tell them what rushing costs them, not what you need.",
+      "theySee": "A person naming one specific part of the work that will be wrong if the deadline does not move.",
+      "signals": [
+        {
+          "l": "High-stakes output",
+          "t": "The finished work goes to a client, executive, or public audience.",
+          "icon": "⬆️"
+        },
+        {
+          "l": "Quality risk clear",
+          "t": "There's a specific piece you know will be weak if you rush.",
+          "icon": "💎"
+        },
+        {
+          "l": "No buffer discussed",
+          "t": "They haven't considered what a rushed version would actually look like.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Recent bad rush",
+          "t": "There's a memory between you of a rushed job that came out badly.",
+          "icon": "📉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the specific quality risk",
+          "desc": "Write one sentence: what exactly gets worse if you rush. Not 'quality suffers' — name the section, the test, the data point."
+        },
+        {
+          "n": "2",
+          "title": "Name whose name is on it",
+          "desc": "Say who this goes to. 'This goes to the client on Friday' is real. 'Quality matters' is not."
+        },
+        {
+          "n": "3",
+          "title": "Give two options",
+          "desc": "Rushed version by original date — name what's missing. Full version by new date. Let them pick."
+        }
+      ],
+      "script": "\"If I hit the original date, [specific piece] won't be ready. That goes to [person/client]. I can have everything by [new date].\"",
+      "counter": "When someone frames a delay as protecting your result, check if the named risk is real.\n• Ask: 'What specifically would be missing or weaker?' If they can't say, the risk frame is cover.\n• Decide whether you actually need the full version or whether the rushed one works.\n• If the risk is real, take it seriously and make the call.",
+      "insight": "This frame works once well. Use it twice with the same person and they start padding their own deadlines in advance to protect themselves."
+    },
+    {
+      "id": 4,
+      "cat": "framing",
+      "danger": "low",
+      "title": "Give a Specific Date, Never a Range",
+      "hook": "<strong>\"A few more days\"</strong> is a non-answer. A specific date is a commitment. One of these gets accepted quickly. The other gets a follow-up question.",
+      "truth": "Vague asks invite resistance. A specific date makes the ask easy to evaluate.\n• A date tells them you've thought it through. 'More time' tells them you haven't.\n• A specific date turns a negotiation into a yes or no question.\n• The trap: padding the date too far out. That signals you're guessing or stalling.",
+      "principle": "Voss: Specific Numbers",
+      "remember": "Name one specific day, not a range or a guess.",
+      "theySee": "A person who walked in already knowing the exact new date they were asking for.",
+      "signals": [
+        {
+          "l": "Vague language",
+          "t": "Your draft says 'a few days' or 'early next week' instead of a date.",
+          "icon": "📅"
+        },
+        {
+          "l": "Range temptation",
+          "t": "You want to say 'Thursday or Friday' to give yourself more room.",
+          "icon": "↔️"
+        },
+        {
+          "l": "Padding impulse",
+          "t": "You're adding two extra days you probably don't actually need.",
+          "icon": "🛡️"
+        },
+        {
+          "l": "Their pushback",
+          "t": "They already asked 'when exactly?' after your first message.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count actual hours left",
+          "desc": "List every remaining task. Estimate hours honestly. Add one real buffer day. That math gives you your date."
+        },
+        {
+          "n": "2",
+          "title": "Write the exact day",
+          "desc": "Write it out: 'Thursday, October 29.' Delete any version that says 'end of the week' or 'around Thursday'."
+        },
+        {
+          "n": "3",
+          "title": "Remove any second date",
+          "desc": "If your draft has two dates or a range, delete one. Send one date only. No exceptions."
+        }
+      ],
+      "script": "\"I can have the full delivery to you by Thursday, October 29, end of day.\"",
+      "counter": "When someone gives you a vague timeline, push for the specific date before you agree to anything.\n• Ask: 'What day exactly?' and wait for a real answer.\n• A vague response after that means they haven't planned it or they're padding.\n• Get the specific date in writing before the conversation ends.",
+      "insight": "The date you name becomes your new deadline and you own it. The question you skip when you name it: can you actually hit it?"
+    },
+    {
+      "id": 5,
+      "cat": "proof",
+      "danger": "low",
+      "title": "Deliver Something Small Before You Ask",
+      "hook": "A partial delivery changes the ask entirely. You're not requesting more time — you're showing you've been working.",
+      "truth": "Something in their hands is worth ten promises about what's coming.\n• A real deliverable proves effort. An empty-handed request for time proves nothing.\n• Delivering before the ask shifts the conversation from delay to progress.\n• The trap: sending the wrong piece. Send what they care about most, not what was easiest to finish.",
+      "principle": "Cialdini: Behavioral Commitment",
+      "remember": "Send them something real before you ask for more time.",
+      "theySee": "A person handing over a finished section of work before making any request.",
+      "signals": [
+        {
+          "l": "Real piece done",
+          "t": "There's a finished, shareable part of the work in your folder right now.",
+          "icon": "📦"
+        },
+        {
+          "l": "Ask in mind",
+          "t": "You're about to request more time for the remaining work.",
+          "icon": "🕐"
+        },
+        {
+          "l": "Credibility low",
+          "t": "They've already been told once that this would be ready by now.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Easy to send",
+          "t": "There's something ready enough to share today with no cleanup needed.",
+          "icon": "✉️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the piece worth sending",
+          "desc": "Open your project. Find what's done. A draft section, a data file, a finished slide. Send it today, not later."
+        },
+        {
+          "n": "2",
+          "title": "Send it first, ask second",
+          "desc": "Send the partial work first. Make the extension request in the next sentence of the same email."
+        },
+        {
+          "n": "3",
+          "title": "Name what's left precisely",
+          "desc": "Say exactly what the partial delivery doesn't include and the specific date for the rest."
+        }
+      ],
+      "script": "\"Here's the [section/draft/file] — it's ready now. I need until [date] for the remaining [piece]. Does that work?\"",
+      "counter": "When someone sends partial work before asking for an extension, check what they're not sending.\n• Ask: 'What's in the remaining piece?' before you agree to the new date.\n• Partial delivery is a trust signal — unless the hardest part is what's coming second.\n• Get the date for the second delivery confirmed in writing before you end the conversation.",
+      "insight": "This is the cleanest move in the set. The risk: doing it twice makes it a pattern they'll prepare for the third time."
+    },
+    {
+      "id": 6,
+      "cat": "positioning",
+      "danger": "moderate",
+      "title": "When the Project Changed, the Deadline Changed Too",
+      "hook": "If they added to the project after the deadline was set, you're not late. The deadline is just wrong now.",
+      "truth": "Scope change is the cleanest reason for an extension — but only if you name it the moment it happens.\n• Named at the time of the change: cause and effect. Named a week later: an excuse.\n• The moment someone adds work, link the adjusted date out loud right then.\n• The trap: saying yes to the added work without saying anything about the date.",
+      "principle": "Langer: The Because Heuristic",
+      "remember": "Name the new task and the new date at the same time.",
+      "theySee": "A person saying a new delivery day right after hearing about a new task, without a pause between them.",
+      "signals": [
+        {
+          "l": "Task added",
+          "t": "They added something to the project after the original deadline was already set.",
+          "icon": "➕"
+        },
+        {
+          "l": "No date discussed",
+          "t": "Nobody said anything about what the added task does to the timeline.",
+          "icon": "🔕"
+        },
+        {
+          "l": "Scope keeps growing",
+          "t": "This is the second or third thing added since the deadline was set.",
+          "icon": "📈"
+        },
+        {
+          "l": "You said yes",
+          "t": "You agreed to the added work without saying anything about the date.",
+          "icon": "👍"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the impact immediately",
+          "desc": "As soon as something is added, say in that same conversation: 'That adds [X] days to the timeline.'"
+        },
+        {
+          "n": "2",
+          "title": "State the new date",
+          "desc": "Name the adjusted date in the same message or call. Don't let a day pass without doing this."
+        },
+        {
+          "n": "3",
+          "title": "Wait for a reply",
+          "desc": "Don't assume silence means agreement. Wait for a yes before treating the new date as official."
+        }
+      ],
+      "script": "\"I can add [new task] — that moves my delivery date to [new date]. Does that work for you?\"",
+      "counter": "When someone uses a scope change to justify a delay, check when the scope actually changed.\n• Ask: 'When exactly did that get added?' and compare it to what they're telling you now.\n• If the scope changed weeks ago and they're raising it now, that's not cause and effect.\n• If they agreed to the added work without flagging the date then, they absorbed the cost.",
+      "insight": "This is the only reason for an extension that puts zero blame on you. It only works the same day the scope changed."
+    },
+    {
+      "id": 7,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Don't Start with Sorry",
+      "hook": "An apology before the ask signals you already think you're wrong. They'll think so too.",
+      "truth": "How you open the ask decides what kind of conversation follows.\n• 'I'm so sorry, but…' hands them the upper hand before they've said a word.\n• A flat, direct ask is easier to evaluate and easier to say yes to than an apologetic one.\n• The trap: thinking politeness requires apology. It doesn't. Direct is not rude.",
+      "principle": "Status Asymmetry",
+      "remember": "State the new date without apologizing for needing it.",
+      "theySee": "A person asking for a new date in one clear sentence with no apology before or after it.",
+      "signals": [
+        {
+          "l": "Sorry in draft",
+          "t": "Your message opens with 'I'm sorry' or 'I apologize for this'.",
+          "icon": "✏️"
+        },
+        {
+          "l": "Hedge words",
+          "t": "You wrote 'if it's okay' or 'just wondering if maybe' before the actual ask.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Guilty opener",
+          "t": "You're about to say 'I hate to ask this, but…' before the real request.",
+          "icon": "😬"
+        },
+        {
+          "l": "Three paragraphs",
+          "t": "Your message is three paragraphs of explanation with the ask buried at the end.",
+          "icon": "📝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Delete every apology",
+          "desc": "Open your draft. Remove every 'sorry', 'apologize', 'hate to ask', 'if at all possible'. All of them."
+        },
+        {
+          "n": "2",
+          "title": "Lead with the ask",
+          "desc": "First sentence: the new date and one-sentence reason. Nothing before it."
+        },
+        {
+          "n": "3",
+          "title": "End clean",
+          "desc": "Close with 'Does that work?' or 'Let me know.' Remove 'sorry for any inconvenience' and anything like it."
+        }
+      ],
+      "script": "\"The delivery date needs to move to [date]. Here's why: [one sentence]. Does that work?\"",
+      "counter": "When someone opens a request with heavy apology, they expect you to say no. You can use that.\n• Their low confidence signals room to push for conditions or ask for something in return.\n• Notice if the apology is followed by a specific ask or a vague one. Vague asks can be reshaped.\n• Don't match their energy. Stay flat.",
+      "insight": "Removing the apology works — but tone carries everything. Flat is neutral. Clipped sounds hostile. The line is narrow and you cannot hear yourself cross it."
+    },
+    {
+      "id": 8,
+      "cat": "proof",
+      "danger": "low",
+      "title": "Offer a Phone Call Instead of Staying in Email",
+      "hook": "A written delay request is easy to dismiss. An offer to get on a call signals you're not stalling — you have a plan.",
+      "truth": "Almost everyone keeps this conversation in email. Getting on a call is a move almost nobody makes.\n• A call offer signals confidence. It tells them you're not afraid of their questions.\n• It gives them a chance to ask anything, which removes their fear that you're hiding something.\n• The trap: offering the call but having nothing prepared. Know your plan before you dial.",
+      "principle": "Costly Signaling Theory",
+      "remember": "Offer a call. Most people only email. You won't.",
+      "theySee": "A person offering to explain their new plan on a short live call instead of sending another message.",
+      "signals": [
+        {
+          "l": "Email only so far",
+          "t": "Every message about this project has been written with no live conversation.",
+          "icon": "📧"
+        },
+        {
+          "l": "Trust seems low",
+          "t": "Their replies are getting shorter and you sense they are skeptical.",
+          "icon": "🤝"
+        },
+        {
+          "l": "Hard to write out",
+          "t": "The situation has moving parts that are hard to explain in two paragraphs.",
+          "icon": "🔀"
+        },
+        {
+          "l": "High-value person",
+          "t": "Being misread by this person costs you more than the delay itself does.",
+          "icon": "💼"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Add the call offer to your message",
+          "desc": "Add one sentence: 'Happy to jump on a quick call to walk you through the updated plan if that helps.'"
+        },
+        {
+          "n": "2",
+          "title": "Prepare three points before they respond",
+          "desc": "Know what changed, what's done, and the exact new date. Say nothing else on the call."
+        },
+        {
+          "n": "3",
+          "title": "Keep it under 10 minutes",
+          "desc": "Open with progress, name the date, take their questions. If it runs past 10 minutes you're talking too much."
+        }
+      ],
+      "script": "\"Happy to get on a quick call to walk you through the updated plan — 10 minutes, whenever works for you.\"",
+      "counter": "When someone offers a call about their delay, watch how prepared they are in the first 60 seconds.\n• Unprepared on the call means they don't have a real plan yet.\n• Ask for the new date and what's already done before agreeing to anything.\n• Set the agenda yourself — don't let them run the call.",
+      "insight": "The call offer works best once. Use it as your standard move and it starts to look like a stall tactic wearing a better coat."
+    },
+    {
+      "id": 9,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "When They Push Back — Name What They Lose If You Rush",
+      "hook": "They say the date holds. You don't defend yourself. You name what they lose if you deliver on time.",
+      "truth": "Pushback on a deadline is almost always about their risk, not your performance.\n• They're not pushing back because they hate extensions. They're afraid of what the delay signals.\n• Name their specific loss out loud. That's the only thing that changes the conversation.\n• The trap: getting defensive. The moment you defend yourself, they know they have the upper hand.",
+      "principle": "Loss Aversion: Name the Cost",
+      "remember": "Don't defend the delay. Name their cost if you rush.",
+      "theySee": "A person staying calm and naming one specific thing that will be wrong in the rushed version.",
+      "signals": [
+        {
+          "l": "Hard no given",
+          "t": "They said the original date is firm, clearly and without room.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Pressure phrase",
+          "t": "They said 'we need this no matter what' or 'that date cannot move'.",
+          "icon": "🔒"
+        },
+        {
+          "l": "Urge to explain",
+          "t": "You feel pressure to justify the delay again or apologize.",
+          "icon": "😰"
+        },
+        {
+          "l": "Real quality risk",
+          "t": "There's a specific, nameable piece that will not be ready if you rush.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Don't repeat yourself — pivot",
+          "desc": "When they push back, don't explain the delay again. Ask: 'What's driving the original date?' Then wait."
+        },
+        {
+          "n": "2",
+          "title": "Name the specific loss",
+          "desc": "Once you know what they care about, say the one piece they lose if you rush. One sentence."
+        },
+        {
+          "n": "3",
+          "title": "Give the two options again",
+          "desc": "Rushed version by original date — name the gap. Full version by new date. Let them choose."
+        }
+      ],
+      "script": "\"I can hit [original date], but [specific piece] won't be ready. That's the part that affects [their concern]. Is that a trade you want to make?\"",
+      "counter": "When someone names your risk to counter your pushback, check if the risk they named is real.\n• Ask: 'What specifically would be missing?' If they can't name it, the loss frame is a bluff.\n• Know your actual position before you give in. Sometimes the original date is possible with different priorities.\n• If the risk is real, acknowledge it and make the call.",
+      "insight": "This works once per relationship per quarter. Use it more and they start padding their timelines in advance to protect themselves from the conversation."
+    },
+    {
+      "id": 10,
+      "cat": "defense",
+      "danger": "high",
+      "title": "They Won't Move the Date — Split the Deliverable",
+      "hook": "They said no. Don't fold. Cut the deliverable in two and offer part of it on the original date.",
+      "truth": "A hard no on the timeline is almost never a hard no on what they actually need.\n• Most people can take 'the summary by Wednesday, the full report by Friday'.\n• A partial delivery gets you the time you need without asking for it by name.\n• The trap: offering a partial that has no real value. If it's thin, they'll see it as a stall.",
+      "principle": "Fisher & Ury: Creating Options",
+      "remember": "If they won't move the date, split the deliverable instead.",
+      "theySee": "A person offering to deliver one piece of the work by the original date and the rest by a new date.",
+      "signals": [
+        {
+          "l": "Firm no given",
+          "t": "They said the date doesn't move, and they meant it.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Work can split",
+          "t": "The deliverable can be broken into two pieces, both with real value.",
+          "icon": "✂️"
+        },
+        {
+          "l": "They have a meeting",
+          "t": "They need something for a call or presentation tied to the original date.",
+          "icon": "📅"
+        },
+        {
+          "l": "Full version impossible",
+          "t": "There is no realistic path to having everything ready by the original date.",
+          "icon": "❌"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the piece they actually need",
+          "desc": "Ask yourself: what do they have a meeting or presentation about? What feeds their next step? That's the partial."
+        },
+        {
+          "n": "2",
+          "title": "Name both pieces clearly",
+          "desc": "Tell them exactly what they get by the original date and exactly what comes in the second delivery."
+        },
+        {
+          "n": "3",
+          "title": "Confirm both dates in writing",
+          "desc": "Before you close the call or the email, get both dates confirmed in writing. One message. Both dates."
+        }
+      ],
+      "script": "\"I can get you [specific piece] by [original date]. The full [deliverable] will be ready by [new date]. Does that split work?\"",
+      "counter": "When someone offers a partial delivery, decide before you agree whether you need the full output by the original date.\n• If you don't need everything by then, you gave them the extension without calling it one.\n• Ask what's in the 'remaining piece' — sometimes the most important part is in the second delivery.\n• Confirm both dates in writing before you end the conversation.",
+      "insight": "The split gives them a win on the original date and gives you the time. The harder question: can the partial stand alone if the second delivery slips too?"
+    },
+    {
+      "id": 11,
+      "cat": "timing",
+      "danger": "high",
+      "title": "One Ask Is Professional. Two Is a Warning Sign.",
+      "hook": "You've asked twice. They've pushed back twice. The relationship is now worth more than the extra days.",
+      "truth": "Every extension ask spends something with that person. The balance does not reset.\n• The first ask spends a little. The second ask spends a lot. A third changes how they see you permanently.\n• At some point this conversation is doing more damage than a slightly rushed delivery would.\n• The trap: thinking one more ask will work. It won't — it confirms what they're already thinking about you.",
+      "principle": "Social Exchange Theory: Relationship Capital",
+      "remember": "One extension ask is professional. Two is a pattern they will remember.",
+      "theySee": "A person coming back a second time asking for more time on the same project.",
+      "signals": [
+        {
+          "l": "Second request",
+          "t": "This is the second time you're asking for more time on this project.",
+          "icon": "2️⃣"
+        },
+        {
+          "l": "Shorter replies",
+          "t": "Their messages are getting shorter and less warm than they were a week ago.",
+          "icon": "🌡️"
+        },
+        {
+          "l": "Visible skepticism",
+          "t": "You sense they've stopped believing you can manage this.",
+          "icon": "📉"
+        },
+        {
+          "l": "Rush is okay",
+          "t": "A slightly imperfect delivery on time is actually acceptable — you're asking past the point of return.",
+          "icon": "✓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop and weigh the real cost",
+          "desc": "Ask yourself out loud: what's worse — a slightly rushed delivery or another week of this conversation?"
+        },
+        {
+          "n": "2",
+          "title": "Choose the version you can finish on time",
+          "desc": "Decide on the version of the work you can actually complete by the original date. It won't be perfect. Make the call."
+        },
+        {
+          "n": "3",
+          "title": "Deliver and note what's missing",
+          "desc": "Send it on time. Add one line: 'I'll have [remaining piece] to you by [date].' That's a statement, not another ask."
+        }
+      ],
+      "script": "\"Here's the delivery — complete for your purposes. I'll follow up with [additional piece] by [date].\"",
+      "counter": "When someone delivers after asking for extensions, check if they sent what was actually agreed.\n• Read the delivery before you confirm receipt.\n• The 'I'll follow up' line at the end of a delivery is the move. Don't let the second piece become indefinite.\n• Reply with the specific date for the follow-up piece to make it an official commitment.",
+      "insight": "This card doesn't answer what it costs to be the person who always delivers slightly rough work on time versus the person who always asks. That's the real question and it's harder than this one."
+    },
+    {
+      "id": 12,
+      "cat": "aftermath",
+      "danger": "moderate",
+      "title": "Lock the New Date in Writing Before You Leave",
+      "hook": "A verbal agreement on a new deadline is worth nothing if they remember it differently in 48 hours.",
+      "truth": "After any deadline conversation, the first person to write it down owns what was decided.\n• Memory is selective. What felt agreed will drift within two days.\n• A written confirmation closes the conversation and starts the clock on the new date.\n• The trap: assuming silence is agreement. It isn't.",
+      "principle": "Cialdini: Written Commitment",
+      "remember": "After the call, send one sentence with the new date and what you're delivering.",
+      "theySee": "A person who sent a short email within two hours of the conversation naming exactly what was agreed.",
+      "signals": [
+        {
+          "l": "No email sent",
+          "t": "The new date was agreed on a call and nothing was written afterward.",
+          "icon": "📭"
+        },
+        {
+          "l": "Vague agreement",
+          "t": "They said 'sure, sounds fine' without a specific date being named out loud.",
+          "icon": "🤷"
+        },
+        {
+          "l": "High stakes",
+          "t": "Missing this new deadline too would do serious damage to the relationship.",
+          "icon": "💼"
+        },
+        {
+          "l": "Verbal only",
+          "t": "Everything about the extension was discussed out loud with nothing in writing.",
+          "icon": "🗣️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send the confirmation within 2 hours",
+          "desc": "Right after the call, write one email. Name the date, the deliverable, and who it goes to. Send it the same day."
+        },
+        {
+          "n": "2",
+          "title": "Name the specific deliverable",
+          "desc": "Don't write 'as discussed.' Write: 'I'll have [X] to you by [day, date].' Exact."
+        },
+        {
+          "n": "3",
+          "title": "Ask for a reply",
+          "desc": "End with: 'Let me know if that matches what you had in mind.' One sentence. It forces a reply that creates the official record."
+        }
+      ],
+      "script": "\"Just confirming: I'll have [specific deliverable] to you by [new date]. Let me know if that matches what you had in mind.\"",
+      "counter": "When someone sends you a post-call confirmation, read it carefully before you reply.\n• A confirmation that shifts small details is a re-negotiation wearing the name of a summary.\n• If the date in their email differs from what was said, reply immediately with the correct one.\n• Don't let a minor date difference slide — it becomes the official record.",
+      "insight": "The confirmation email is the last move in the extension sequence. What happens if you miss the new date too is a different card — and it's harder than this one."
+    }
+  ]
+}
