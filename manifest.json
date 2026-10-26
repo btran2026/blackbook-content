@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 91,
+  "manifestVersion": 92,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -845,7 +845,20 @@
       "url": "playbooks/playbook-srv-the-compliment-that-was-an-insult.json",
       "addedAt": "2026-10-13T23:55:02.095Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-guilt-push",
+      "title": "The Guilt Push",
+      "theme": "fundraising",
+      "topic": "Handling a guilt-based donation or fundraising push",
+      "cardCount": 10,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🎭",
+      "url": "playbooks/playbook-srv-the-guilt-push.json",
+      "addedAt": "2026-10-26T19:43:32.027Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-13T23:55:02.095Z"
+  "generatedAt": "2026-10-26T19:43:32.027Z"
 }
