@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 91,
+  "manifestVersion": 92,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -845,7 +845,20 @@
       "url": "playbooks/playbook-srv-the-compliment-that-was-an-insult.json",
       "addedAt": "2026-10-13T23:55:02.095Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-your-words-used-against-you",
+      "title": "Black Book: Your Words Used Against You",
+      "theme": "manipulation",
+      "topic": "Standing firm when someone weaponizes your own words",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#141428",
+      "coverIcon": "🗡️",
+      "url": "playbooks/playbook-srv-black-book-your-words-used-against-you.json",
+      "addedAt": "2026-10-28T19:21:53.855Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-13T23:55:02.095Z"
+  "generatedAt": "2026-10-28T19:21:53.855Z"
 }
