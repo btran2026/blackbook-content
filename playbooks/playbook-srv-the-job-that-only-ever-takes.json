@@ -1,0 +1,980 @@
+{
+  "meta": {
+    "id": "srv-the-job-that-only-ever-takes",
+    "version": "1.0",
+    "title": "The Job That Only Ever Takes",
+    "subtitle": "Sixteen moves for the one-way job",
+    "description": "A field manual for the job that keeps asking and never pays back. Read the real deal, guard your hours, put your name on the record, price the ask, and leave with the reference intact.",
+    "author": "AI",
+    "createdAt": "2026-10-25T03:18:52.394Z",
+    "tags": [
+      "career",
+      "work",
+      "pay",
+      "negotiation",
+      "power",
+      "quitting"
+    ],
+    "totalCards": 16,
+    "isSeeded": true,
+    "coverColor": "#5C2E2E",
+    "coverIcon": "⛏️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "read",
+      "label": "Read the Deal",
+      "color": "#8C3B3B"
+    },
+    {
+      "key": "scope",
+      "label": "Hours and Scope",
+      "color": "#A3622B"
+    },
+    {
+      "key": "credit",
+      "label": "Credit and the Record",
+      "color": "#8A6B1F"
+    },
+    {
+      "key": "ask",
+      "label": "The Ask",
+      "color": "#2F6B5A"
+    },
+    {
+      "key": "out",
+      "label": "Options and the Way Out",
+      "color": "#3A4E8C"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "read",
+      "danger": "low",
+      "title": "Count What They Actually Gave You Last Year",
+      "principle": "Sunk-Cost Anchoring",
+      "remember": "Count what they gave you. Promises are not pay.",
+      "when": "You are about to turn down an outside offer because your boss says big things are coming.",
+      "hook": "Put the last twelve months on one page. <strong>Promises do not go on the page.</strong>",
+      "truth": "A job that only takes pays you in future money and never in past money.\n• You write every raise, bonus and title you got in twelve months.\n• The page comes out short, and the gap stops being a feeling.\n• Most people count promises as income. The company counts on that.",
+      "theySee": "A worker who asks about last year's numbers instead of nodding at next year's plan.",
+      "signals": [
+        {
+          "icon": "⏭️",
+          "l": "Future tense",
+          "t": "Your boss talks about next year every time you ask about this year."
+        },
+        {
+          "icon": "📄",
+          "l": "No paper",
+          "t": "You cannot find one email that names a number and a date."
+        },
+        {
+          "icon": "🏷️",
+          "l": "Title drift",
+          "t": "Your job got bigger and your title stayed the same."
+        },
+        {
+          "icon": "💸",
+          "l": "Bonus story",
+          "t": "They explain again why the bonus pool shrank."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the first page",
+          "desc": "Open a note. List every raise, bonus and title change from the last 12 months with dates."
+        },
+        {
+          "n": "2",
+          "title": "Write the second page",
+          "desc": "List every new duty you picked up in the same 12 months. Put a date on each one."
+        },
+        {
+          "n": "3",
+          "title": "Compare the two pages",
+          "desc": "If page two is longer, you work for free. Say that out loud to one person you trust."
+        }
+      ],
+      "script": "\"Last year I picked up the vendor accounts and the on-call rota. My pay moved 2%. I want to talk about what the next twelve months <strong>pay</strong>, not what they promise.\"",
+      "example": "Dev kept turning down recruiters because his director said the promotion was close. He wrote the twelve-month page: two new teams, one 3% raise, no title change. He took the next recruiter call and left in six weeks at 40% more.",
+      "watchFor": "Your boss stops talking about next year and starts defending last year.",
+      "ifItFails": "They agree the page is thin, then promise again. Do not argue with a promise. Ask for it with a number and a date in email, and say you will hold your decision until then. Send: <strong>\"Can you put the timing and the number in writing so I have something to hold?\"</strong>",
+      "counter": "If someone pays you in future plans, they are running this on you.\n• Notice that every reward sits past the next review.\n• Say: <strong>\"What did I get last year?\"</strong> and then wait.\n• Keep your own dated list. Your bad memory is what they bank on.",
+      "insight": "The page costs twenty minutes and it never lies. The harder part is what you do when it comes back short and you still like the people."
+    },
+    {
+      "id": 2,
+      "cat": "read",
+      "danger": "moderate",
+      "title": "Find Out What They Pay New Hires",
+      "principle": "Loyalty Tax — Anchoring on Your Old Salary",
+      "remember": "They pay the new person the market. They pay you your history.",
+      "when": "You have sat in the same seat three years and a new hire starts at your level.",
+      "hook": "Your pay was set by your old pay. Theirs was set by the market. <strong>Nobody in the building will tell you the gap.</strong>",
+      "truth": "Raises start from your current number. Offers start from the market number.\n• A 3% raise on an old number never catches a fresh offer.\n• The new hire's salary is the real price of your job.\n• Most people never look, and the company prices that silence in.",
+      "theySee": "A worker who reads the posted range for their own job back to them.",
+      "signals": [
+        {
+          "icon": "📋",
+          "l": "Posting range",
+          "t": "You find your own job posted with a range above your pay."
+        },
+        {
+          "icon": "📞",
+          "l": "Recruiter number",
+          "t": "A recruiter names a figure for your title that beats your salary."
+        },
+        {
+          "icon": "🆕",
+          "l": "New hire talk",
+          "t": "The new person asks beginner questions and earns what you earn."
+        },
+        {
+          "icon": "🔒",
+          "l": "Band secrecy",
+          "t": "HR will not tell you the pay band for your own level."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull the posting",
+          "desc": "Search your company's careers page for your own job title. Screenshot the range today."
+        },
+        {
+          "n": "2",
+          "title": "Call two recruiters",
+          "desc": "Ask each one what the current range is for your title in your city. Write both numbers down."
+        },
+        {
+          "n": "3",
+          "title": "Name the gap once",
+          "desc": "Book 20 minutes with your boss. Bring the three numbers. Bring no feelings."
+        }
+      ],
+      "script": "\"You posted my job last month at 140 to 165. I am at 118. I am not asking you to fix that today. I am asking <strong>what the plan is to close it, and by when</strong>.\"",
+      "example": "Priya found her own role posted 20k above her salary. She brought the screenshot and two recruiter numbers to her one-on-one. Her boss could not defend the gap, and finance approved an off-cycle raise of 14k in three weeks.",
+      "watchFor": "Your boss asks where you got the range instead of denying it.",
+      "ifItFails": "They call the posting a mistake or say the band is confidential. Stop asking your boss and start the clock. Interview twice, get one written offer, and bring it back one time: <strong>\"I have an offer at the posted range. I would rather stay. What can you do by Friday?\"</strong> Do not run that step if you cannot afford to leave in thirty days.",
+      "counter": "If your manager prices you off your old salary, they are running this on you.\n• Notice that every raise is a percentage and never a number.\n• Say: <strong>\"What is the band for this level?\"</strong> and make them answer.\n• Get your own market number before the review, not after it.",
+      "insight": "Loyalty is priced as a discount, not a bonus. The real trap is that one off-cycle raise buys them another two years of the same discount."
+    },
+    {
+      "id": 3,
+      "cat": "read",
+      "danger": "low",
+      "title": "Count How Many People Got Promoted Last Year",
+      "principle": "Base Rate Neglect",
+      "remember": "Count the promotions. One a year means the ladder is closed.",
+      "when": "Your boss tells you to be patient because your promotion is on the roadmap.",
+      "hook": "You are not special and the ladder is not personal. <strong>Count the rungs that actually moved.</strong>",
+      "truth": "Promotion is a rate, not a promise, and the rate is visible if you look.\n• You count everyone at your level who moved up in 24 months.\n• Zero or one means your effort does not change the math.\n• Most people argue their own case. The case is the count.",
+      "theySee": "A worker who names three colleagues and the dates they moved up.",
+      "signals": [
+        {
+          "icon": "👥",
+          "l": "Same faces",
+          "t": "The same people hold the senior titles as two years ago."
+        },
+        {
+          "icon": "🪑",
+          "l": "Backfill only",
+          "t": "Promotions only happen after somebody quits."
+        },
+        {
+          "icon": "🗺️",
+          "l": "Roadmap talk",
+          "t": "Your boss describes the path but names nobody who walked it."
+        },
+        {
+          "icon": "🚪",
+          "l": "Outside hires",
+          "t": "Senior roles get filled from outside while you are told to wait."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List your level",
+          "desc": "Write the names of everyone at your grade. Twenty minutes on LinkedIn gives you their dates."
+        },
+        {
+          "n": "2",
+          "title": "Count the moves",
+          "desc": "Count how many changed title inside the company in the last 24 months. Write the number down."
+        },
+        {
+          "n": "3",
+          "title": "Ask once",
+          "desc": "In your next one-on-one, ask your boss to name the last person promoted out of your seat."
+        }
+      ],
+      "script": "\"Who was the last person promoted out of this role, and how long did it take them? I want <strong>the real timeline, not the policy</strong>.\"",
+      "example": "Tomas listed the eleven analysts on his floor. In two years one moved up, and only because somebody resigned. He stopped writing promotion documents and started taking recruiter calls. He was a senior analyst somewhere else four months later.",
+      "watchFor": "Your boss pauses and cannot name a person.",
+      "ifItFails": "They name somebody who left, or somebody from another team. Push once, calmly: <strong>\"On this team, in this role — who?\"</strong> If the answer is nobody, stop building the case and start building options. Tell no one in the building that you stopped.",
+      "counter": "If a manager sells you a path, make them show the traffic on it.\n• Notice that they describe a process and never a finished person.\n• Say: <strong>\"Name the last two.\"</strong> Then be quiet.\n• If no names come, treat the path as closed and plan from there.",
+      "insight": "Patience only counts as a strategy when other people's patience paid out. The next question is how long you can afford to be wrong."
+    },
+    {
+      "id": 4,
+      "cat": "read",
+      "danger": "low",
+      "title": "Watch How They Treat the Person Who Quits",
+      "principle": "Machiavelli: The Prince — Judge by Deeds, Not Words",
+      "remember": "How they treat the leaver is how they will treat you.",
+      "when": "A good colleague on your team gives notice.",
+      "hook": "A company tells the truth exactly once: the day somebody leaves. <strong>Watch that week closely.</strong>",
+      "truth": "The handbook is marketing. The resignation week is the real document.\n• You watch who gets walked out and who gets a party.\n• You learn what loyalty bought the last person who spent it.\n• Most people look away because it feels like gossip. It is evidence.",
+      "theySee": "A quiet colleague who takes the leaver to lunch and asks ordinary questions.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "Cold shoulder",
+          "t": "Your boss drops the leaver from meetings the same afternoon."
+        },
+        {
+          "icon": "💳",
+          "l": "Badge speed",
+          "t": "They cut system access before the last week is over."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Story change",
+          "t": "Leadership tells the team the leaver was not performing."
+        },
+        {
+          "icon": "💰",
+          "l": "Counteroffer",
+          "t": "They find money they said did not exist last quarter."
+        },
+        {
+          "icon": "🕳️",
+          "l": "No backfill",
+          "t": "The work gets split across the team and no job is posted."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Take them to lunch",
+          "desc": "Ask what the real reason was and what the new pay looks like. Off site, no notes on the table."
+        },
+        {
+          "n": "2",
+          "title": "Watch the week",
+          "desc": "Write down what happened on day one, day three and the last day."
+        },
+        {
+          "n": "3",
+          "title": "File it privately",
+          "desc": "Keep the notes in a personal file. Never on the work laptop or a work account."
+        }
+      ],
+      "script": "(To the leaver, over lunch) <strong>\"Off the record — what finally made you call the recruiter back, and what did they have to pay you to move?\"</strong>",
+      "example": "When Anna resigned, the team watched her manager cut her from the Friday review that afternoon, then tell everyone she had been struggling. Two of her teammates started interviewing that month. Both left at higher pay before the next review cycle.",
+      "watchFor": "The leaver says a number out loud that they would never have said two weeks earlier.",
+      "ifItFails": "The leaver stays vague and repeats the polite line. Do not push in the building. Message them after their last day, when they owe the company nothing: <strong>\"Now that you are out — would you do it again, and what should I have asked you?\"</strong>",
+      "counter": "If your employer manages the story about somebody who quit, they are managing you.\n• Notice the sudden performance story nobody mentioned before the notice.\n• Ask the leaver directly, never the manager.\n• Keep your own notes off every company system.",
+      "insight": "Companies punish leaving to teach the people who stay. The useful part is that the lesson reads both ways once you know what you are looking at."
+    },
+    {
+      "id": 5,
+      "cat": "scope",
+      "danger": "moderate",
+      "title": "Give the Extra Job an End Date Before You Start",
+      "principle": "Status Quo Bias — Temporary Becomes Permanent",
+      "remember": "Temporary work becomes your job in ninety days.",
+      "when": "Your boss asks you to cover a teammate's work for a few weeks.",
+      "hook": "There is no such thing as temporary coverage. <strong>There is only work with no end date.</strong>",
+      "truth": "Nobody takes work back. They only stop noticing that you carry it.\n• You name the end date before you say yes, in writing.\n• The date turns the extra job into a loan, not a gift.\n• Most people say yes and trust the memory of a busy manager.",
+      "theySee": "A helpful worker who agrees fast and then asks one calendar question.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Soft timing",
+          "t": "They say 'just for now' and will not give you a week."
+        },
+        {
+          "icon": "🚫",
+          "l": "No backfill",
+          "t": "Months pass and no job is posted for the empty seat."
+        },
+        {
+          "icon": "📈",
+          "l": "Scope creep",
+          "t": "The cover work shows up in your goals at review time."
+        },
+        {
+          "icon": "👏",
+          "l": "Thanks only",
+          "t": "You get praise for the extra job and no change in pay."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say yes with a date",
+          "desc": "Agree in the meeting, then name a specific end date out loud before you leave the room."
+        },
+        {
+          "n": "2",
+          "title": "Write it down",
+          "desc": "Send a four-line email the same hour with the date and what happens after it."
+        },
+        {
+          "n": "3",
+          "title": "Set the reminder",
+          "desc": "Put the end date in your calendar with a two-week warning to raise it first."
+        }
+      ],
+      "script": "\"Happy to cover it through March 31. On April 1 it goes back, or we talk about <strong>the title and the pay that come with it</strong>. Sending a note so we both have the date.\"",
+      "example": "Lena agreed to run the second team 'for a month'. She emailed a June 30 end date that afternoon. On June 16 she forwarded her own email. Her director had to either hire or promote her, and the promotion landed in July.",
+      "watchFor": "Your boss replies to the email with a date instead of a thumbs up.",
+      "ifItFails": "The date arrives and they ask for a few more weeks. Grant one extension, in writing, with a price attached to the next one: <strong>\"I can hold it to July 31. After that I need the title and the band that go with running two teams, or a name for who takes it.\"</strong> Do not set a hard date during a hiring freeze you cannot survive.",
+      "counter": "If somebody hands you work with no end date, they are running this on you.\n• Notice the words 'just for now' and 'while we sort it out'.\n• Say: <strong>\"What date does it end?\"</strong> before you agree to anything.\n• Put the date in email. Spoken dates do not exist.",
+      "insight": "The yes is not the mistake. The missing date is. The harder part comes when the extra job is the interesting one and you want it without the title."
+    },
+    {
+      "id": 6,
+      "cat": "scope",
+      "danger": "moderate",
+      "title": "Make Them Choose What Drops",
+      "principle": "Forced Trade-Off — The Zero-Sum Queue",
+      "remember": "Never refuse new work. Make them pick what dies.",
+      "when": "Your boss drops a new urgent project on you while you are already full.",
+      "hook": "Saying no makes you the problem. <strong>Making them choose makes the queue the problem.</strong>",
+      "truth": "Managers keep loading you because your list is invisible to them.\n• You show the list and ask which item stops.\n• The cost moves from your evenings to their priorities.\n• Most people absorb it quietly and get rewarded with more.",
+      "theySee": "A willing worker holding up a short list and asking one question.",
+      "signals": [
+        {
+          "icon": "💬",
+          "l": "Drive-by asks",
+          "t": "Work arrives by chat with no mention of what you already carry."
+        },
+        {
+          "icon": "🔥",
+          "l": "All urgent",
+          "t": "Every item on your list is labelled priority one."
+        },
+        {
+          "icon": "🌙",
+          "l": "Evening creep",
+          "t": "You start the real work after 7pm and nobody notices."
+        },
+        {
+          "icon": "🙈",
+          "l": "Silent queue",
+          "t": "Your boss cannot name the three things you are working on."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Keep a five-line list",
+          "desc": "Write your five current items with their dates. Keep it somewhere you can paste in ten seconds."
+        },
+        {
+          "n": "2",
+          "title": "Answer with the list",
+          "desc": "Reply to the new ask with the list and one question: which one drops?"
+        },
+        {
+          "n": "3",
+          "title": "Send the answer back",
+          "desc": "Whatever they pick, email it the same day so the dropped item carries their name."
+        }
+      ],
+      "script": "\"Yes, I can take it. Right now I have the audit, the migration and the board deck, all due the same week. <strong>Which one moves?</strong> Pick one and I start today.\"",
+      "example": "Marcus got a fourth urgent project on a Tuesday. He pasted his three items and asked which one moved. His VP pushed the audit out two weeks and said so in the channel. Marcus stopped working weekends and nobody called him difficult.",
+      "watchFor": "They name an item to drop instead of saying everything matters.",
+      "ifItFails": "They say all of it matters and walk away. Choose for them and put it in writing before anything breaks: <strong>\"Nothing dropped, so I am slipping the audit to the 20th to take this on. Tell me if you want a different one.\"</strong> Their silence is now their decision. Do not try this with a boss who is already building a case against you.",
+      "counter": "If somebody adds work without naming what drops, they are running this on you.\n• Notice the ask that ignores everything already on your plate.\n• Say: <strong>\"Which of these three should wait?\"</strong>\n• Put their answer in writing so the delay belongs to them.",
+      "insight": "You never win by refusing. You win by making the cost visible before it lands. This stops working the moment a boss cheerfully answers 'all of them' — then the written slip is the only move left."
+    },
+    {
+      "id": 7,
+      "cat": "scope",
+      "danger": "high",
+      "title": "Stop Doing the Invisible Work",
+      "principle": "Greene: Law 16 — Use Absence to Increase Respect and Honor",
+      "remember": "Stop the unpaid work. Let the hole show itself.",
+      "when": "You run the notes, the onboarding and the broken builds, and none of it appears in your review.",
+      "hook": "Work nobody logs is work nobody pays for. <strong>The only proof is the hole it leaves.</strong>",
+      "truth": "Invisible work stays invisible until the day it stops.\n• You pick one unpaid task and quietly stop doing it.\n• The gap teaches the room what you were carrying alone.\n• Most people do more to get noticed. More free work buys more free work.",
+      "theySee": "A colleague who no longer sends the Monday summary, with no announcement and no fuss.",
+      "signals": [
+        {
+          "icon": "📝",
+          "l": "Review blank",
+          "t": "Your review names projects and never the daily glue work."
+        },
+        {
+          "icon": "🎯",
+          "l": "Default owner",
+          "t": "People ask you because you did it last time, not because it is your job."
+        },
+        {
+          "icon": "🙏",
+          "l": "Thanks currency",
+          "t": "You get public thanks and no change in title or pay."
+        },
+        {
+          "icon": "🚨",
+          "l": "Panic test",
+          "t": "You take a week off and three people chase you for the same file."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one task",
+          "desc": "Choose a recurring unpaid task that hurts within two weeks, not within two days."
+        },
+        {
+          "n": "2",
+          "title": "Stop without a speech",
+          "desc": "Do not announce it. Just stop. No apology and no explanation."
+        },
+        {
+          "n": "3",
+          "title": "Answer once when chased",
+          "desc": "When somebody asks, name it as real work and ask who owns it now."
+        }
+      ],
+      "script": "(When they ask where the notes went) <strong>\"I have done that for a year on top of my own work. I am glad it helps. Who should own it going forward?\"</strong>",
+      "example": "Sam ran the on-call handover document for two years, unpaid and unmentioned. He stopped in April. After the second missed handover his director built a rotation and wrote the task into Sam's job description with a band change. The raise followed the next cycle.",
+      "watchFor": "Somebody asks where the thing went, in public, by name.",
+      "ifItFails": "Nobody notices and nothing breaks. That is an answer too: the task never bought you anything. Pick a louder one and repeat, or keep the hours for yourself. Do not run this on anything that touches safety, money or a customer deadline, and never during a layoff round.",
+      "counter": "If a colleague suddenly stops doing the glue work, they are making a point.\n• Notice the task that vanished with no handover note.\n• Say: <strong>\"That was real work and it was yours. What would make it worth keeping?\"</strong>\n• Pay for it or assign it. Shaming them back in costs you twice.",
+      "insight": "Absence proves value faster than any review document. The trap is picking a task that hurts a customer instead of a manager."
+    },
+    {
+      "id": 8,
+      "cat": "credit",
+      "danger": "low",
+      "title": "Send the Recap That Names Who Did What",
+      "principle": "Primacy of the Written Record",
+      "remember": "After every win, send the email that names the names.",
+      "when": "Your project lands well and your boss presents it upward without you in the room.",
+      "hook": "Credit goes to whoever writes it down first. <strong>That can be you, in nine lines.</strong>",
+      "truth": "Company memory is made of email, not meetings.\n• You send a short recap within a day, naming people and parts.\n• Your name sits in the record where promotion talks happen.\n• Most people wait to be credited, and the record closes before they speak.",
+      "theySee": "A team player sending a generous summary that happens to list their own work.",
+      "signals": [
+        {
+          "icon": "🔀",
+          "l": "Pronoun shift",
+          "t": "Your boss says 'we' upward and 'you' when something breaks."
+        },
+        {
+          "icon": "📅",
+          "l": "Missing invite",
+          "t": "The results meeting happens without you in the room."
+        },
+        {
+          "icon": "🖼️",
+          "l": "Slide swap",
+          "t": "Your slides appear in a deck with somebody else's name in the footer."
+        },
+        {
+          "icon": "🐌",
+          "l": "Late thanks",
+          "t": "Praise reaches you second-hand, days later."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write nine lines",
+          "desc": "One line on the result with a number. Three lines naming who did what. One line on the next step."
+        },
+        {
+          "n": "2",
+          "title": "Send it up and across",
+          "desc": "Send to your boss, copy the skip-level and the partner team, within 24 hours of the win."
+        },
+        {
+          "n": "3",
+          "title": "Be generous first",
+          "desc": "Name two other people before you name yourself. Your line goes third, never first."
+        }
+      ],
+      "script": "\"Quick recap: the migration finished Friday, 11 days early, zero downtime. Raj wrote the rollback plan, Dana ran the cutover, <strong>I built the data checks and the dashboard</strong>. Next step is the vendor shutdown in November.\"",
+      "example": "Omar's boss liked to say 'my team did it'. Omar started sending a nine-line recap after every release and copying the VP. Four months later the VP asked for Omar by name on a new program, and his boss had no way to block it.",
+      "watchFor": "Somebody outside your team replies to the recap and thanks you directly.",
+      "ifItFails": "Your boss tells you to stop copying their boss. Agree, then move the record somewhere they cannot gate: the project page, the ticket closure note, your own review document. Say: <strong>\"Understood, I will keep it to the project page — and I will keep the who-did-what in there so the record stays clean.\"</strong>",
+      "counter": "If a colleague sends generous recaps, read where their own line sits.\n• Notice the email that praises three people and places one of them carefully.\n• Reply in the thread with the part they left out, warmly.\n• Send your own recap first next time. First on the record wins.",
+      "insight": "Generosity in writing is cheap and it buys the one thing a meeting cannot — a dated record. The harder part is the boss who reads it and starts writing their own."
+    },
+    {
+      "id": 9,
+      "cat": "credit",
+      "danger": "high",
+      "title": "Make Your Work Visible to Your Boss's Boss",
+      "principle": "Pfeffer: Rule 4 — Build a Powerful Brand",
+      "remember": "One person above your boss must know your name and your work.",
+      "when": "Your boss is the only person in the company who can describe what you do.",
+      "hook": "A single gatekeeper is not a career. <strong>It is a hostage situation with a salary.</strong>",
+      "truth": "If one person owns your story, your pay is whatever that person feels this quarter.\n• You build one real contact two levels up, slowly, with useful facts.\n• Your name starts appearing in rooms your boss does not control.\n• Most people go around their boss too fast and get caught.",
+      "theySee": "A junior who sends one short useful note a month and asks for nothing.",
+      "signals": [
+        {
+          "icon": "🚰",
+          "l": "Single channel",
+          "t": "Everything you do reaches leadership through one person."
+        },
+        {
+          "icon": "⛔",
+          "l": "Blocked intros",
+          "t": "Your boss says they will pass it on and never does."
+        },
+        {
+          "icon": "❓",
+          "l": "Name blank",
+          "t": "The skip-level does not greet you by name in the hallway."
+        },
+        {
+          "icon": "📰",
+          "l": "Filtered news",
+          "t": "You hear about reorganisations after everybody else."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the one question",
+          "desc": "Pick something your skip-level keeps raising. Listen in the all-hands and write it down."
+        },
+        {
+          "n": "2",
+          "title": "Send one useful thing",
+          "desc": "Send a short note with data they can use. No ask, no complaint, no meeting request."
+        },
+        {
+          "n": "3",
+          "title": "Repeat monthly",
+          "desc": "Once a month, never weekly. Keep every note under 100 words."
+        }
+      ],
+      "script": "\"You asked about churn in the all-hands. I pulled the last 90 days for my accounts — <strong>three of the five cancellations named the same onboarding step</strong>. Happy to send the detail if it is useful.\"",
+      "example": "Keisha sent her VP one 80-word data note each month for half a year and asked for nothing. When her manager rated her 'solid, not ready', the VP pushed back in the calibration meeting and quoted two of her notes. She was promoted that cycle.",
+      "watchFor": "The skip-level replies with a question instead of a thank-you.",
+      "ifItFails": "Your boss finds out and calls it going around them. Do not deny it. Hand them the credit once and bring them in: <strong>\"You are right, I should have copied you. It was the churn data your VP asked me for — everything goes through you from here.\"</strong> Then build the relationship in hallways, not inboxes. Do not start this if your boss writes your review this quarter and already distrusts you.",
+      "counter": "If someone on your team courts your boss, they are running this on you.\n• Notice the monthly note that copies you as an afterthought.\n• Say: <strong>\"Send it, and copy me so I can back it up.\"</strong>\n• Give them the introduction before they take it. Then you are the source.",
+      "insight": "One contact above your boss turns your review from a verdict into a negotiation. The next question is what you do when both of them want your loyalty."
+    },
+    {
+      "id": 10,
+      "cat": "credit",
+      "danger": "moderate",
+      "title": "Ask for the Title Before You Ask for the Money",
+      "principle": "Cheap Concession Trade",
+      "remember": "Titles cost them nothing and travel with you forever.",
+      "when": "Your company says the budget is frozen but your job keeps growing.",
+      "hook": "They cannot find 10k. <strong>They can always find a word.</strong>",
+      "truth": "A title is free inside the company and worth real money outside it.\n• You ask for the title in the quarter when money is impossible.\n• The new title resets what the market will pay you next year.\n• Most people fight over 3% and leave the free thing on the table.",
+      "theySee": "A reasonable worker who accepts the budget news and asks for something else instead.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "Freeze language",
+          "t": "They say the budget is locked and the work keeps growing."
+        },
+        {
+          "icon": "🎭",
+          "l": "Acting role",
+          "t": "You already do the senior job under a junior title."
+        },
+        {
+          "icon": "📊",
+          "l": "Band talk",
+          "t": "HR explains the band instead of explaining the budget."
+        },
+        {
+          "icon": "🔎",
+          "l": "Recruiter filter",
+          "t": "Recruiters skip you because your title reads two levels low."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the two titles",
+          "desc": "Write your current title and the exact one you want. Check how it reads in live job postings."
+        },
+        {
+          "n": "2",
+          "title": "Ask in the frozen quarter",
+          "desc": "Raise it right after they say no to money. That is when a yes is cheapest for them."
+        },
+        {
+          "n": "3",
+          "title": "Get it in the system",
+          "desc": "Confirm the change in HR records, the org chart and your email signature, not just in talk."
+        }
+      ],
+      "script": "\"I hear the budget is closed, so I am not asking for money this cycle. <strong>I am asking for the title.</strong> I have done the senior role for eight months. Change it now, and we talk about pay next cycle.\"",
+      "example": "Nina's company froze pay for a year. She traded the money question for 'Senior Product Manager' in writing, effective immediately. Nine months later she moved companies at a 35% jump, because recruiters finally read her as senior.",
+      "watchFor": "Your boss says the title is easier than the money and starts talking logistics.",
+      "ifItFails": "They say the title needs a committee or a calibration cycle. Pin the committee to a name and a date: <strong>\"Who sits on that committee, what do they need from me, and which cycle — March or June?\"</strong> Send their answer back in email so the cycle has a date. Skip this card if your title already matches the job; then only money is left.",
+      "counter": "If your company offers a title instead of money, they just bought you cheap.\n• Notice the promotion that arrives with no number attached.\n• Say: <strong>\"Great — and what band does that title sit in?\"</strong>\n• Take the title, then put the pay talk on the calendar before you say thanks.",
+      "insight": "A title is the cheapest thing they own and the most portable thing you can carry out. The trap is accepting it twice and calling that progress."
+    },
+    {
+      "id": 11,
+      "cat": "ask",
+      "danger": "moderate",
+      "title": "Price the Job, Not Yourself",
+      "principle": "Cialdini: Social Proof — The External Anchor",
+      "remember": "Bring the market price. Leave your feelings at home.",
+      "when": "You sit down to ask for a raise and your plan is to list how hard you work.",
+      "hook": "Effort is not a price. <strong>The market sets the price and the market is public.</strong>",
+      "truth": "A manager can argue with your worth. A manager cannot argue with three sourced numbers.\n• You bring the posted range, a recruiter quote and a salary site figure.\n• The talk moves from how you feel to what the role costs.\n• Most people make it personal, so the no comes back personal.",
+      "theySee": "A calm colleague reading three outside numbers off one sheet of paper.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "Effort talk",
+          "t": "You catch yourself listing hours worked instead of numbers."
+        },
+        {
+          "icon": "💗",
+          "l": "Feelings answer",
+          "t": "Your boss replies that they value you a great deal."
+        },
+        {
+          "icon": "🤐",
+          "l": "Peer silence",
+          "t": "Nobody on your team will say what they earn."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Budget fog",
+          "t": "They say the pool is small and never name a figure."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Collect three numbers",
+          "desc": "Get the posted range, one recruiter quote and one salary site figure for your title and city."
+        },
+        {
+          "n": "2",
+          "title": "Put them on one page",
+          "desc": "Three lines with sources named, and your current pay at the bottom."
+        },
+        {
+          "n": "3",
+          "title": "Say your number first",
+          "desc": "Open with the figure you want. Never open by asking what they can do."
+        }
+      ],
+      "script": "\"The market for this role in this city is 145 to 165. I am at 122. <strong>I want 150.</strong> What do you need from me to get there, and by when?\"",
+      "example": "Ben walked into his review with three printed numbers and a target of 150. His manager said he had never seen anyone bring sources, then came back nine days later with 146 and a June review. Ben asked for 15% and got 20%.",
+      "watchFor": "Your boss writes your number down.",
+      "ifItFails": "They say your performance does not match the market number. Make them put the distance in writing: <strong>\"Then write down the three things that close the gap, and the date we review it. I will do them and come back.\"</strong> If they will not write it, you have your answer and the recruiters have your number. Do not open this in a week your team missed a target.",
+      "counter": "If somebody prices your request against the internal budget, they changed the topic.\n• Notice the switch from market price to pool size.\n• Say: <strong>\"Budget aside — is my number right for this role?\"</strong>\n• Settle the price first. Argue about the budget second.",
+      "insight": "The first number spoken shapes every number after it. The harder part is holding your face still for the four seconds after you say yours."
+    },
+    {
+      "id": 12,
+      "cat": "ask",
+      "danger": "high",
+      "title": "Stop Accepting \"Next Quarter\"",
+      "principle": "Intermittent Reinforcement — The Rolling Deadline",
+      "remember": "Two broken promises is a pattern. Stop counting at two.",
+      "when": "Your promotion has moved to 'next quarter' for the third time.",
+      "hook": "The almost-promotion is the cheapest tool they own. <strong>It costs one sentence every three months.</strong>",
+      "truth": "A reward that arrives unpredictably holds people harder than a steady one.\n• You write the dates they promised next to the dates that passed.\n• Two misses means the promise is a tool, not a plan.\n• Most people reset the clock each time and call that hope.",
+      "theySee": "A worker who reads three dates out loud and then stops talking.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Moving date",
+          "t": "The timeline shifts every time you reach it."
+        },
+        {
+          "icon": "➕",
+          "l": "New condition",
+          "t": "A fresh requirement appears each cycle you nearly meet."
+        },
+        {
+          "icon": "🏗️",
+          "l": "Reorg excuse",
+          "t": "Each delay blames a reorganisation, a freeze or a new VP."
+        },
+        {
+          "icon": "🚪",
+          "l": "Private only",
+          "t": "The promise only ever happens out loud, in a one-on-one."
+        },
+        {
+          "icon": "👯",
+          "l": "Peer pattern",
+          "t": "A teammate tells you the same story with different dates."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the dates",
+          "desc": "List every promised date and what happened instead. Keep it to four lines."
+        },
+        {
+          "n": "2",
+          "title": "Read them out loud",
+          "desc": "In the one-on-one, read the dates. Add no adjectives. Then stop and wait."
+        },
+        {
+          "n": "3",
+          "title": "Set the last date",
+          "desc": "Name one final date and say what you will do after it. Then do that."
+        }
+      ],
+      "script": "\"March, then June, now October. I am not going to ask again after this. <strong>If it is not signed by December 15, I will take that as the answer</strong> and plan from there.\"",
+      "example": "Carla's director moved her promotion three times in one year. She read the three dates back and set December 15. The paperwork cleared on December 2, and the director later admitted she was the only person who had ever put a date on it.",
+      "watchFor": "Your boss stops explaining and asks what would make you stay.",
+      "ifItFails": "They call your date an ultimatum and go cold. Do not take it back. Take it down one level: <strong>\"It is not a threat, it is my planning date. I would rather plan to stay.\"</strong> Then keep the date and start interviewing that week. Never set a date you will not honour; a bluff here costs you the room for good.",
+      "counter": "If your manager keeps moving the date, you are being held, not grown.\n• Notice that every delay arrives with a brand-new reason.\n• Say: <strong>\"What changed since the last date?\"</strong> and write the answer down.\n• Treat the third promise as a no and act like it.",
+      "insight": "Hope on a timer is the cheapest retention tool ever built. The real trap is that it sometimes pays out, which makes another three years feel reasonable."
+    },
+    {
+      "id": 13,
+      "cat": "ask",
+      "danger": "high",
+      "title": "Ask When They Cannot Afford to Lose You",
+      "principle": "Sun Tzu: Attack Where They Are Unprepared",
+      "remember": "Ask in the week your leaving would hurt the most.",
+      "when": "You hold the only working knowledge of a system that goes live in three weeks.",
+      "hook": "The same ask gets two different answers in two different weeks. <strong>Pick the week.</strong>",
+      "truth": "Your position changes with the calendar, not with your effort.\n• You find the week where losing you breaks something visible.\n• You ask then, calmly, and never mention leaving.\n• Most people ask at review time, when the answer is already written.",
+      "theySee": "A key person asking a reasonable question at a busy moment, with no threat in it.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Single point",
+          "t": "You are the only person who can run a thing that ships soon."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Freeze window",
+          "t": "A launch, audit or year-end close sits inside the next month."
+        },
+        {
+          "icon": "🕳️",
+          "l": "Hiring gap",
+          "t": "Two seats on your team have been open for months."
+        },
+        {
+          "icon": "📲",
+          "l": "Calendar pull",
+          "t": "Leadership suddenly wants your time every single day."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the week",
+          "desc": "Look at the calendar for the launch, audit or close where you carry the load."
+        },
+        {
+          "n": "2",
+          "title": "Ask seven days before",
+          "desc": "Book 20 minutes. Ask for the number. Say nothing about leaving."
+        },
+        {
+          "n": "3",
+          "title": "Make the yes easy",
+          "desc": "Hand them the path: off-cycle adjustment, effective date, one signature."
+        }
+      ],
+      "script": "\"Before the launch gets loud I want to settle one thing. I am asking for 150, effective this month. An off-cycle adjustment needs your signature and HR's. <strong>Can we close it this week?</strong>\"",
+      "example": "Victor held the only working version of the billing migration, due in 18 days. He asked for an off-cycle raise with no threat attached and attached the exact HR form. His director signed it in four days rather than think about the alternative.",
+      "watchFor": "Your boss asks how fast the paperwork can be done.",
+      "ifItFails": "They tell you to wait until after the launch. Agree out loud, then put the number and the date in email so it survives the noise: <strong>\"Agreed, after go-live. Noting here: 150, reviewed the week of the 20th.\"</strong> If it slips again, that is your second broken date and you know what that means. Do not play this with a boss who is being managed out — they cannot sign anything.",
+      "counter": "If somebody asks you for money right before a deadline, they chose the week.\n• Notice the timing: the ask lands when you cannot replace them.\n• Say: <strong>\"I will answer after the launch, and I will put a date on it now.\"</strong>\n• Then spread the knowledge so next quarter looks different.",
+      "insight": "Nothing about the work changed between October and November — only the cost of losing you. The harder part is that they will remember which week you picked."
+    },
+    {
+      "id": 14,
+      "cat": "out",
+      "danger": "moderate",
+      "title": "Take One Interview Every Quarter",
+      "principle": "Fisher & Ury: BATNA — Best Alternative to a Negotiated Agreement",
+      "remember": "Interview every quarter. A real offer is the only real argument.",
+      "when": "You feel stuck and you have not spoken to an outside company in two years.",
+      "hook": "You cannot negotiate without somewhere else to go. <strong>Somewhere else takes six weeks to build.</strong>",
+      "truth": "Your pay is set by your next best option, not by your work.\n• You run one real interview process every three months.\n• You learn the market price and keep the interview skill warm.\n• Most people only interview when they are desperate, and it shows.",
+      "theySee": "A quiet colleague who takes a call at lunch and mentions it to nobody.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Stale pitch",
+          "t": "You cannot describe your last project in two clear minutes."
+        },
+        {
+          "icon": "📭",
+          "l": "No inbound",
+          "t": "Recruiters stopped contacting you and you did not notice."
+        },
+        {
+          "icon": "❔",
+          "l": "Price blindness",
+          "t": "You cannot say what you would get on the open market."
+        },
+        {
+          "icon": "😰",
+          "l": "Fear talk",
+          "t": "The thought of interviewing makes you want to stay quiet and work harder."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer one recruiter",
+          "desc": "Reply to the next message today. Ask for the range before anything else."
+        },
+        {
+          "n": "2",
+          "title": "Run it to the end",
+          "desc": "Go through the whole process even if you will not take it. Get the offer in writing."
+        },
+        {
+          "n": "3",
+          "title": "File the number",
+          "desc": "Save the offer figure in a personal file. That number is your floor from now on."
+        }
+      ],
+      "script": "(To a recruiter) <strong>\"I am happy where I am, so I will only spend time on this if the range starts at 150. What is the band?\"</strong>",
+      "example": "Jonas interviewed once a quarter for a year with no intention of moving. His third process produced a written offer 28% above his pay. He never used it as a threat; he just stopped believing 'that is what the band allows', and left eight months later at the higher number.",
+      "watchFor": "A recruiter sends you a number in writing before the first call.",
+      "ifItFails": "You get rejected, or the market pays less than you hoped. That is the cheapest useful news you will buy all year. Write down the two gaps they named, fix one inside ninety days, and go back out. Send: <strong>\"What would have made me a yes? I will fix it and call you in the spring.\"</strong> Do not run processes you cannot take privately, on a phone the company does not own.",
+      "counter": "If your employer discourages outside conversations, they are protecting a discount.\n• Notice the loyalty talk that arrives right after you mention a recruiter.\n• Say nothing about your interviews to anyone inside the building.\n• Keep the offer letter private until it is signed.",
+      "insight": "An outside offer changes nothing about your work and everything about the conversation. The next question is whether you would actually use it, because a bluff only works once."
+    },
+    {
+      "id": 15,
+      "cat": "out",
+      "danger": "extreme",
+      "title": "Resign With a Signed Offer and Refuse the Counter",
+      "principle": "Loss Aversion — The Counteroffer Trap",
+      "remember": "Resign only with ink. Never take the counteroffer.",
+      "when": "You have a signed offer and your boss asks what it would take to keep you.",
+      "hook": "The money they found in one afternoon was always there. <strong>Ask yourself why it needed your resignation.</strong>",
+      "truth": "A counteroffer buys them time to replace you on their schedule instead of yours.\n• You resign in one short meeting with a start date already set.\n• They offer more because hiring somebody new costs more than you do.\n• Most people who take the counteroffer are gone inside a year anyway.",
+      "theySee": "A calm person giving notice with a date, no complaint and no request.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Instant money",
+          "t": "The budget appears within 24 hours of your notice."
+        },
+        {
+          "icon": "😔",
+          "l": "Guilt lines",
+          "t": "They talk about the team, the timing and everything you will miss."
+        },
+        {
+          "icon": "🏷️",
+          "l": "Title bribe",
+          "t": "A new title appears with no change to the actual work."
+        },
+        {
+          "icon": "🕵️",
+          "l": "Loyalty audit",
+          "t": "They ask who else you have been talking to."
+        },
+        {
+          "icon": "📢",
+          "l": "Quiet replacement",
+          "t": "A job posting matching yours appears three weeks later."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Sign first",
+          "desc": "Do not resign until the new contract is signed and the start date is set."
+        },
+        {
+          "n": "2",
+          "title": "Keep the meeting short",
+          "desc": "Two sentences, a date, and thanks. Give no reasons and name no grievance."
+        },
+        {
+          "n": "3",
+          "title": "Refuse once, warmly",
+          "desc": "Say no to the counteroffer the first time. A second conversation about staying weakens you."
+        }
+      ],
+      "script": "\"I have accepted another role and my last day is the 14th. <strong>This is decided</strong>, so I would rather spend the time on a clean handover than on changing my mind. Thank you — I learned a lot here.\"",
+      "example": "Elena resigned with a signed offer. Her VP came back that afternoon with 18k and a new title. She said no once and kept the date. Her replacement was hired at the market rate she had asked for twice and been refused.",
+      "watchFor": "They move from money to guilt inside the same conversation.",
+      "ifItFails": "They escalate to a skip-level, or they park you on a 'special project' to stall. Take no second meeting about staying. Put the date in writing to HR and copy your boss: <strong>\"Confirming in writing: my last day is the 14th. Here is the handover plan.\"</strong> Never resign without a signed contract, and never use a resignation you are not ready to complete.",
+      "counter": "If somebody gives notice and you want them back, money is the weakest tool you have.\n• Notice that pay was never the first thing they raised with you.\n• Ask: <strong>\"What would have stopped this six months ago?\"</strong> and listen without selling.\n• Fix that or let them go cleanly. A bought-back employee leaves twice.",
+      "insight": "They did not value you more on Tuesday. They valued the cost of replacing you. The harder part is the goodbye you owe the people who had nothing to do with it."
+    },
+    {
+      "id": 16,
+      "cat": "out",
+      "danger": "moderate",
+      "title": "Tell HR Nothing in the Last Interview",
+      "principle": "Gracián: Keep Your Own Counsel",
+      "remember": "That meeting helps them, not you. Say nothing useful.",
+      "when": "HR books 45 minutes in your final week to hear why you are leaving.",
+      "hook": "That meeting is not a confession booth. <strong>It is a report with your name on it.</strong>",
+      "truth": "HR works for the company, and the notes outlive your badge.\n• You give short, flat, boring answers about scope and timing.\n• Your honesty becomes a document your old boss may read.\n• Most people unload and lose the reference they will need in two years.",
+      "theySee": "A pleasant person giving polite, forgettable answers and naming nobody.",
+      "signals": [
+        {
+          "icon": "⌨️",
+          "l": "Note taking",
+          "t": "The HR person types while you talk and does not look up."
+        },
+        {
+          "icon": "🙋",
+          "l": "Name questions",
+          "t": "They ask which manager, which team, which person."
+        },
+        {
+          "icon": "🤫",
+          "l": "Confidential promise",
+          "t": "They tell you the conversation stays between the two of you."
+        },
+        {
+          "icon": "⏳",
+          "l": "Late timing",
+          "t": "The meeting lands in your final week, when nothing can change."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide the two lines",
+          "desc": "Write the two sentences you will repeat, before the meeting starts."
+        },
+        {
+          "n": "2",
+          "title": "Give scope, not grievance",
+          "desc": "Name scope and pay as your reason. Name no person and tell no story."
+        },
+        {
+          "n": "3",
+          "title": "Keep the doors open",
+          "desc": "Ask to stay in touch with two senior people by name. Message them the same day."
+        }
+      ],
+      "script": "\"It came down to scope and pay — the new role is a level up and I could not wait for the timing here. <strong>No complaints about the team.</strong> I would work with these people again.\"",
+      "example": "Rashid spent his last meeting listing everything wrong with his director. Six months later that director sat on a hiring panel he needed. Dana left the same month saying only 'scope and pay, no complaints', and got the reference that landed her next job.",
+      "watchFor": "The HR person stops typing because there is nothing worth writing down.",
+      "ifItFails": "They push for a name, or they tell you feedback is the only way anything changes. Give them the system, never the person: <strong>\"The pattern worth looking at is how long promotions take on that team. I would rather not hang it on one person.\"</strong> Then end on time. Do not send a written summary afterwards, however nicely they ask.",
+      "counter": "If somebody invites your honesty on the way out, ask who reads the notes.\n• Notice a promise of confidentiality with no written policy behind it.\n• Say: <strong>\"Who sees this, and in what form?\"</strong> before you answer anything.\n• Save the real feedback for a private coffee in six months.",
+      "insight": "The reference you need in three years is worth more than the truth you want to say today. The next question is whether the new job is actually different, or only newer."
+    }
+  ]
+}
