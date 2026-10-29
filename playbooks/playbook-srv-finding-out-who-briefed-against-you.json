@@ -1,0 +1,1099 @@
+{
+  "meta": {
+    "id": "srv-finding-out-who-briefed-against-you",
+    "version": "1.0",
+    "title": "Finding Out Who Briefed Against You",
+    "subtitle": "Trace the whisper. Close the channel.",
+    "description": "Someone talked about you in a room you were not in. The mood changed, the invites stopped, and nobody will say why. Eighteen field moves for dating the brief, naming the source, closing the channel, and deciding whether the room is still worth holding.",
+    "author": "AI",
+    "createdAt": "2026-10-24T03:18:08.659Z",
+    "tags": [
+      "office politics",
+      "backchannel",
+      "reputation",
+      "workplace",
+      "investigation",
+      "power"
+    ],
+    "totalCards": 18,
+    "isSeeded": true,
+    "coverColor": "#1F2933",
+    "coverIcon": "🕵️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "signs",
+      "label": "Reading the Chill",
+      "color": "#6B7280"
+    },
+    {
+      "key": "trace",
+      "label": "Tracing the Source",
+      "color": "#4A6FA5"
+    },
+    {
+      "key": "network",
+      "label": "Working the Network",
+      "color": "#7C5CBF"
+    },
+    {
+      "key": "confront",
+      "label": "Facing It",
+      "color": "#C2410C"
+    },
+    {
+      "key": "repair",
+      "label": "Fixing the Record",
+      "color": "#2F855A"
+    },
+    {
+      "key": "counter",
+      "label": "Counter-Moves",
+      "color": "#B91C1C"
+    },
+    {
+      "key": "after",
+      "label": "After You Know",
+      "color": "#8A6D3B"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "signs",
+      "danger": "low",
+      "title": "Notice the Day They Changed Toward You",
+      "principle": "Sun Tzu: Foreknowledge — Baseline Shift",
+      "remember": "People do not cool off slowly. Find the exact day.",
+      "when": "Your boss was warm last month and short with you this month, and nothing you did explains it.",
+      "hook": "Warmth does not fade. <strong>It stops on a date.</strong>",
+      "truth": "A brief lands on one day, and the behavior changes right after it.\n• Find the last normal interaction and the first cold one.\n• The gap between them holds the meeting where it happened.\n• Most people hunt for a reason inside themselves. The reason sat in a calendar.",
+      "theySee": "A coworker acting normal and not asking why things feel different.",
+      "signals": [
+        {
+          "icon": "📅",
+          "l": "Date edge",
+          "t": "They were warm in one meeting and short in the next one"
+        },
+        {
+          "icon": "📵",
+          "l": "Dropped invite",
+          "t": "You stopped getting an invite you had every week"
+        },
+        {
+          "icon": "⏱️",
+          "l": "Short replies",
+          "t": "Their messages got shorter and stopped having questions in them"
+        },
+        {
+          "icon": "🚪",
+          "l": "Closed door",
+          "t": "They now cancel your one-on-one or move it behind a closed door"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Mark the last good day",
+          "desc": "Scroll your chat history. Find the last warm message from them. Write the date."
+        },
+        {
+          "n": "2",
+          "title": "Mark the first cold day",
+          "desc": "Find the first short or odd reply. Write that date down too."
+        },
+        {
+          "n": "3",
+          "title": "Pull the calendar between",
+          "desc": "List every meeting they had in that gap that you were not in."
+        }
+      ],
+      "script": "\"Quick one — two weeks ago you were pushing my Q3 piece hard. Last week it went quiet. <strong>What changed on your end?</strong>\"",
+      "example": "Devin noticed his director stopped using his name in standup. He scrolled back and found the exact Thursday. One meeting sat in that gap: a skip-level with his peer Ray. He stopped guessing and started watching Ray.",
+      "watchFor": "They pause before answering, then give a reason that does not match the date.",
+      "ifItFails": "They say nothing changed and keep it vague. Do not ask for a name yet. Put the date on the table instead: <strong>\"Fair enough. For my own read — was the September 12 review the point where my piece got reassigned?\"</strong> A date is much harder to deny than a feeling.",
+      "counter": "If someone asks you to pin a date on your change of mood, they are tracing a source.\n• Notice they ask about timing, not about the work itself.\n• Say: <strong>\"It built up over a few weeks, not one meeting.\"</strong>\n• Give a range, never a day. A range kills the trail.",
+      "insight": "A date cuts your suspect list from twelve people to two. The harder part is that the date also shows how long you have been the last to know."
+    },
+    {
+      "id": 2,
+      "cat": "signs",
+      "danger": "low",
+      "title": "Write Down the Exact Words They Used",
+      "principle": "Linguistic Fingerprinting — Borrowed Vocabulary",
+      "remember": "Strange words came from a strange mouth. Write them down.",
+      "when": "Your boss uses a phrase about your work that has never come out of their mouth before.",
+      "hook": "People repeat a brief in the briefer's words. <strong>The phrase has a fingerprint on it.</strong>",
+      "truth": "Nobody invents new vocabulary when they pass on somebody else's complaint.\n• A borrowed phrase sticks out because it does not match their normal speech.\n• Match the phrase to the one person who talks that way.\n• Most people argue with the claim. Write the claim down first.",
+      "theySee": "A coworker listening closely and taking the feedback without a fight.",
+      "signals": [
+        {
+          "icon": "🧬",
+          "l": "Odd phrase",
+          "t": "They used a word you have never heard them use about work before"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Second-hand tone",
+          "t": "They say 'there is a sense that' instead of 'I think'"
+        },
+        {
+          "icon": "🕳️",
+          "l": "No example",
+          "t": "They repeat the claim but cannot give you one real case"
+        },
+        {
+          "icon": "👥",
+          "l": "Plural source",
+          "t": "They say 'people' or 'some folks' and will not go past that"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Repeat it back word for word",
+          "desc": "Say the exact phrase back and ask if you have it right. Make them confirm it."
+        },
+        {
+          "n": "2",
+          "title": "Write it in your phone before you leave",
+          "desc": "Exact words, date, who said it. Memory rewrites a phrase within an hour."
+        },
+        {
+          "n": "3",
+          "title": "Match the phrase to a mouth",
+          "desc": "Ask yourself who on your team talks like that. Usually one name fits."
+        }
+      ],
+      "script": "\"Let me make sure I have it exactly — <strong>'he moves fast and leaves the cleanup to other people.'</strong> Is that the sentence?\"",
+      "example": "Nadia's VP told her she was 'not scaling her thinking.' Nobody at that company talked like that except one new director from a consulting firm. She wrote the phrase down, found his old deck, and there it was on slide four.",
+      "watchFor": "They repeat the phrase back word for word instead of putting it in their own words.",
+      "ifItFails": "They soften it and say they did not mean it that way. Hold them to the sentence: <strong>\"I would rather fix the real version than my guess. Can you send me the line in an email?\"</strong> Written words carry a fingerprint too, and people edit less than they think.",
+      "counter": "If someone repeats your phrasing back to you word for word, they are taking a sample.\n• Notice they want the exact wording instead of the point.\n• Say: <strong>\"I am paraphrasing badly. The point is the deadline.\"</strong>\n• Put it in your own words next time. Never say the sentence twice.",
+      "insight": "Words travel farther than the people who say them. The trap is going after the phrase-maker before you know who carried it upward."
+    },
+    {
+      "id": 3,
+      "cat": "signs",
+      "danger": "low",
+      "title": "Check Which Rooms You Stopped Being In",
+      "principle": "Pfeffer: Power Lives in the Network, Not the Job Title",
+      "remember": "Count the rooms you lost. That is the real score.",
+      "when": "A meeting you always attended now happens without you and nobody mentions it.",
+      "hook": "A brief does not show up in your review. <strong>It shows up in your invites.</strong>",
+      "truth": "Someone decided you are safer out of the room than in it.\n• Lost access is the first cost and the easiest one to miss.\n• Invites move weeks before any formal decision does.\n• Most people wait for the official hit. The quiet hit already landed.",
+      "theySee": "A coworker who has not noticed they are off the list yet.",
+      "signals": [
+        {
+          "icon": "📭",
+          "l": "Missing invite",
+          "t": "A standing meeting now runs without you on the invite"
+        },
+        {
+          "icon": "🐌",
+          "l": "Late forwards",
+          "t": "You get the notes a day later instead of being in the room"
+        },
+        {
+          "icon": "✂️",
+          "l": "Thread drop",
+          "t": "Your name came off an email thread you started"
+        },
+        {
+          "icon": "🤫",
+          "l": "Side channel",
+          "t": "Two coworkers go quiet when you join the call"
+        },
+        {
+          "icon": "🤝",
+          "l": "Pre-agreed",
+          "t": "People arrive at the meeting already agreed on something"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List your meetings from six weeks ago",
+          "desc": "Open your calendar. Write every recurring meeting you had then."
+        },
+        {
+          "n": "2",
+          "title": "Compare it to this week",
+          "desc": "Mark what you lost. Mark who is still on each one."
+        },
+        {
+          "n": "3",
+          "title": "Ask the organizer",
+          "desc": "One message, no complaint. Ask if the invite list changed and why."
+        }
+      ],
+      "script": "\"Did the Tuesday pipeline sync change its invite list? <strong>I want to make sure I am not dropping something I should still cover.</strong>\"",
+      "example": "Tom lost two invites in a month and told himself the calendar was just being tidied. He checked. Both meetings now included his peer Priya, who had never been on either. The organizer said 'Priya asked to own the update.' That was the answer.",
+      "watchFor": "The organizer tells you who asked for the change instead of saying it was automatic.",
+      "ifItFails": "The organizer says it came from above and stops there. Go up one level, but ask for work, not for access: <strong>\"I want to keep covering the pipeline numbers. Do you want me in the Tuesday sync, or should I send them straight to you?\"</strong> Now somebody has to say out loud that you are out.",
+      "counter": "If someone quietly pulls you off a list, they are shrinking what you can see.\n• Notice that access leaves before any feedback arrives.\n• Say: <strong>\"Put me back on the invite, or tell me who owns it now.\"</strong>\n• Make the removal a decision with a name on it, not a drift.",
+      "insight": "Access is the first thing taken and the last thing given back. The harder question is whether the person who removed you decided it, or just carried out somebody else's ask."
+    },
+    {
+      "id": 4,
+      "cat": "signs",
+      "danger": "low",
+      "title": "Tell Apart a Brief From a Bad Week",
+      "principle": "Base Rate Neglect",
+      "remember": "Three signs or it is just a bad week.",
+      "when": "You feel sure someone talked about you, but you have nothing beyond a cold mood.",
+      "hook": "Most cold weeks are a budget problem. <strong>A few are a person.</strong>",
+      "truth": "Half of all suspected briefs are a reorg nobody told you about.\n• A real brief changes one person's treatment of you, not everyone's.\n• A bad quarter cools the whole team at the same time.\n• Most people burn credit chasing a ghost. Test first, then move.",
+      "theySee": "A coworker who seems steady and asks easy questions.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Only you",
+          "t": "Your boss is still warm with everyone else on the team"
+        },
+        {
+          "icon": "🔖",
+          "l": "Named behavior",
+          "t": "The feedback names something you did, not the business"
+        },
+        {
+          "icon": "🌫️",
+          "l": "No origin",
+          "t": "Nobody can tell you where the concern started"
+        },
+        {
+          "icon": "⚡",
+          "l": "Fast change",
+          "t": "The change happened inside one week, not over a quarter"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check two peers",
+          "desc": "Ask two coworkers if their one-on-ones feel different. Keep it casual."
+        },
+        {
+          "n": "2",
+          "title": "Check the business",
+          "desc": "Look for a lost deal, a budget cut, or a reorg in the same window."
+        },
+        {
+          "n": "3",
+          "title": "Score it",
+          "desc": "Count how many signs point at you alone. Under three, wait and watch."
+        }
+      ],
+      "script": "\"Random question — <strong>has your one-on-one with Mark felt shorter lately, or is that just me?</strong>\"",
+      "example": "Ellie was certain her manager had been turned against her. She asked two peers. Both said their one-on-ones had been cut to fifteen minutes that month. The company had frozen hiring. She saved herself a fight she could not have won.",
+      "watchFor": "Your peers describe the same change you felt, which means it was never about you.",
+      "ifItFails": "Your peers say nothing changed for them. You now have the lonely version, which is the real one. Stop testing and start tracing. Tell yourself the next line out loud and then go do it: <strong>\"Then I am going to find out when it started.\"</strong>",
+      "counter": "If someone asks whether your one-on-ones feel different, they are checking if they were singled out.\n• Notice the casual question about one specific manager.\n• Say: <strong>\"Mine has been the same. Why, what happened?\"</strong>\n• You learn their situation and give away nothing about yours.",
+      "insight": "The fake version never feels less certain than the real one. That is why the check comes before the move, not after it."
+    },
+    {
+      "id": 5,
+      "cat": "trace",
+      "danger": "moderate",
+      "title": "Ask What the Concern Is, Not Who Raised It",
+      "principle": "Voss: Calibrated Question — Trade the Name for the Content",
+      "remember": "Ask for the claim. The name arrives with it later.",
+      "when": "Your boss says 'some concerns came up' about you and will not say where from.",
+      "hook": "Ask for a name and the door shuts. <strong>Ask for the claim and they keep talking.</strong>",
+      "truth": "A name costs your boss a broken promise. A claim costs them nothing.\n• Details leak the source without anybody having to name it.\n• One project name can cut your suspect list to three people.\n• Most people demand the name first, get one sentence, then silence.",
+      "theySee": "A coworker who wants to fix the problem and does not want revenge.",
+      "signals": [
+        {
+          "icon": "🫧",
+          "l": "Passive wording",
+          "t": "They say concerns 'came up' with no person attached to them"
+        },
+        {
+          "icon": "👁️",
+          "l": "Guard up",
+          "t": "They watch your face while they deliver the line"
+        },
+        {
+          "icon": "📜",
+          "l": "Pre-scripted",
+          "t": "The feedback arrives in a tidy sentence they have clearly practiced"
+        },
+        {
+          "icon": "⏭️",
+          "l": "Fast close",
+          "t": "They move to the next topic inside a minute"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Drop the name question",
+          "desc": "Say out loud that you will not ask who. Say you want the specifics to fix it."
+        },
+        {
+          "n": "2",
+          "title": "Ask for one case",
+          "desc": "Ask which project or meeting the concern came from. Just one example."
+        },
+        {
+          "n": "3",
+          "title": "Stay quiet after",
+          "desc": "Count to five in your head. They will add detail to fill the gap."
+        }
+      ],
+      "script": "\"I am not going to ask who said it. <strong>I do want the specific case — which project were they describing?</strong>\"",
+      "example": "Sam's director mentioned 'concerns about his reliability.' Sam skipped the who and asked which deadline. The director said 'the Horizon handoff.' Only three people had touched Horizon. Sam had his shortlist in one question.",
+      "watchFor": "They give you a project, a date, or a meeting instead of repeating the vague line.",
+      "ifItFails": "They refuse the example and say they will not get into specifics. Trade them something they want: <strong>\"Then help me another way. If I write up what happened on each project this quarter, will you read it and tell me which one it is?\"</strong> Now they must either read it or admit there is no case.",
+      "counter": "If someone drops the who question and asks for the case instead, they are triangulating.\n• Notice how easily they gave up on the name.\n• Say: <strong>\"It was a general pattern, not one project.\"</strong>\n• Keep it general. A specific example is a signature.",
+      "insight": "The name is the cheapest part of this. The claim is what stays in the room after the briefer leaves. Do not run this on a boss who has already put you on a written warning — at that stage ask for the document, not the story."
+    },
+    {
+      "id": 6,
+      "cat": "trace",
+      "danger": "high",
+      "title": "Feed Each Suspect a Different Detail",
+      "principle": "Canary Trap — Controlled Release",
+      "remember": "Give each person a different harmless detail. See which one comes back.",
+      "when": "You have three suspects and no proof which one talks to your boss.",
+      "hook": "You cannot watch the pipe. <strong>So you mark the water.</strong>",
+      "truth": "Information you planted tells you which mouth it passed through.\n• Tell each suspect a slightly different, harmless version of one plan.\n• Wait for a version to come back to you from above.\n• The version that returns names the channel. Nobody has to confess.",
+      "theySee": "A coworker sharing a work update with them in confidence.",
+      "signals": [
+        {
+          "icon": "🔊",
+          "l": "Echo",
+          "t": "Your boss repeats a detail that only one person had"
+        },
+        {
+          "icon": "⚡",
+          "l": "Speed",
+          "t": "The planted detail came back to you inside two days"
+        },
+        {
+          "icon": "🧩",
+          "l": "Exact version",
+          "t": "The version repeated to you carries the exact wrinkle you planted"
+        },
+        {
+          "icon": "🎣",
+          "l": "Extra interest",
+          "t": "One suspect asks follow-up questions about the planted detail"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a harmless fact",
+          "desc": "Choose a true, boring plan detail. A date, a tool choice, a headcount guess."
+        },
+        {
+          "n": "2",
+          "title": "Vary it per person",
+          "desc": "Tell suspect A Tuesday, suspect B Wednesday, suspect C Thursday. Same tone each time."
+        },
+        {
+          "n": "3",
+          "title": "Wait and listen",
+          "desc": "Say nothing for two weeks. Note which day comes back to you."
+        }
+      ],
+      "script": "\"Keep this between us for now — <strong>I think we are moving the launch to the 14th</strong>, but it is not official yet.\"",
+      "example": "Priya suspected three peers. She told each one a different vendor she was 'leaning toward.' Nine days later her director asked why she was going with Lumen. Only Marcus had heard Lumen. She never told Marcus anything again.",
+      "watchFor": "Someone above you repeats the exact planted version back to you, not knowing it was planted.",
+      "ifItFails": "Nothing comes back in three weeks. The channel may be slow, or your suspects are clean. Widen the net once with a juicier but still harmless item, then stop: <strong>\"This is not public yet, but I am being asked to take over the migration.\"</strong> If that does not travel, the briefer sits above you, not beside you.",
+      "counter": "If a coworker shares a confidential detail that feels oddly specific, you may be marked.\n• Notice the item is small, checkable, and told only to you.\n• Say: <strong>\"Good to know. Tell me when it is official.\"</strong>\n• Repeat it to nobody. A detail you never say cannot trace back to you.",
+      "insight": "This works once per person and you can never explain it afterward. Do not plant anything a leak would actually damage, and never run it on someone who signs your review. The harder part is what you do with a confirmed name while still sitting next to it every day."
+    },
+    {
+      "id": 7,
+      "cat": "trace",
+      "danger": "moderate",
+      "title": "Read the Calendar Before the Chill",
+      "principle": "Sun Tzu: Foreknowledge — Track the Movements",
+      "remember": "Someone needed a door and a half hour. Find both.",
+      "when": "You have the date the mood changed and you need to know who had the room.",
+      "hook": "A brief needs a private room and a listener. <strong>Both of them leave tracks.</strong>",
+      "truth": "The meeting you are looking for is often sitting in plain sight with a name on it.\n• Shared calendars still show busy blocks, titles, and who booked them.\n• Look for a one-on-one that is new, odd, or longer than normal.\n• Most people never check, so the block stays there for weeks.",
+      "theySee": "A coworker checking availability like anybody who wants to book a meeting.",
+      "signals": [
+        {
+          "icon": "🆕",
+          "l": "New one-on-one",
+          "t": "A peer suddenly has a recurring slot with your boss"
+        },
+        {
+          "icon": "📏",
+          "l": "Odd length",
+          "t": "A fifteen-minute slot ran as a forty-five-minute block"
+        },
+        {
+          "icon": "🚶",
+          "l": "No room, no link",
+          "t": "The block has no room and no video link, so they walked somewhere"
+        },
+        {
+          "icon": "🎯",
+          "l": "Right before",
+          "t": "The block sits one day before your treatment changed"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open the shared calendar",
+          "desc": "Look at your boss's week around the date you already marked."
+        },
+        {
+          "n": "2",
+          "title": "List the private blocks",
+          "desc": "Write down every one-on-one and every untitled block that week."
+        },
+        {
+          "n": "3",
+          "title": "Cross out the regulars",
+          "desc": "Remove anything that happens every week. What is left is your list."
+        }
+      ],
+      "script": "\"I am trying to grab thirty minutes with Dana — <strong>were you two already meeting Thursdays, or is that new?</strong>\"",
+      "example": "Hal found the chill started on a Monday. His boss's calendar showed a Friday block titled 'catch up — R.' Ray had never had a catch-up with her. Hal accused nobody. He simply stopped telling Ray anything.",
+      "watchFor": "A person you suspected turns out to have a new private slot that started the same week.",
+      "ifItFails": "The calendar is private or empty. Use the room instead: ask the office manager who booked the small room that afternoon. If you have no access either way, go straight at it: <strong>\"Were you getting input on my work from anyone else that week? I would rather hear both sides.\"</strong>",
+      "counter": "If someone starts asking about who you meet and when, they are mapping your access.\n• Notice the questions are about your calendar, not your work.\n• Say: <strong>\"My calendar is a mess. What do you actually need?\"</strong>\n• Answer the need, not the pattern. Keep your meeting list yours.",
+      "insight": "Access narrows the list faster than motive does. Do not open a calendar you needed a password to reach — that turns your problem into a security case. And remember the person in the room may have been asked, not volunteered."
+    },
+    {
+      "id": 8,
+      "cat": "trace",
+      "danger": "low",
+      "title": "Count Who Gained When You Lost",
+      "principle": "Cui Bono — Follow the Benefit",
+      "remember": "Ask who got what you lost. Usually it is one person.",
+      "when": "Your project moved, your scope shrank, or your promotion stalled, and nobody explains it.",
+      "hook": "A brief is rarely spite. <strong>It is almost always a move for something.</strong>",
+      "truth": "Somebody is holding the thing that used to be yours.\n• List what you lost: scope, budget, the room, the title.\n• Write the name of who holds each item now.\n• Most people hunt for an enemy. Hunt for a winner instead.",
+      "theySee": "A coworker congratulating them on their new scope.",
+      "signals": [
+        {
+          "icon": "📦",
+          "l": "Clean handoff",
+          "t": "Your work moved to one person with no open search"
+        },
+        {
+          "icon": "👏",
+          "l": "Fast praise",
+          "t": "That person got public credit inside two weeks"
+        },
+        {
+          "icon": "🔮",
+          "l": "They knew first",
+          "t": "They talked about the change before it was announced"
+        },
+        {
+          "icon": "😌",
+          "l": "No awkwardness",
+          "t": "They are the only person who is not uncomfortable around you"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write what you lost",
+          "desc": "One line each: the project, the invite, the headcount, the title."
+        },
+        {
+          "n": "2",
+          "title": "Name who holds each one now",
+          "desc": "Write a name beside every item. Blanks are fine."
+        },
+        {
+          "n": "3",
+          "title": "Look for a repeat name",
+          "desc": "One name on two or more lines is your person."
+        }
+      ],
+      "script": "\"Congrats on picking up Horizon. <strong>How did that land with you — did you ask for it, or did Dana hand it over?</strong>\"",
+      "example": "After Jo lost her two best accounts, she wrote both names down. Kevin held both. Kevin had also sat in a closed-door with her VP in March. She stopped wondering and started building her written record.",
+      "watchFor": "They answer the question about how they got it with a story that is too detailed and too ready.",
+      "ifItFails": "The winner is a committee or a reorg, so no single name shows up. Then the brief went into a process, not a person. Ask the decision owner directly: <strong>\"When the accounts were reassigned, whose input did you take?\"</strong> A process still has a list of people who spoke.",
+      "counter": "If someone asks how you got the work you just took over, they are checking your motive.\n• Notice they ask about the handoff, not about the work.\n• Say: <strong>\"Dana assigned it. Ask her how she decided.\"</strong>\n• Point at the decision-maker. Never defend the gain yourself.",
+      "insight": "Benefit is strong evidence and terrible proof. The next question is whether the winner did the briefing or just caught what somebody else threw."
+    },
+    {
+      "id": 9,
+      "cat": "network",
+      "danger": "moderate",
+      "title": "Get the Assistant on Your Side",
+      "principle": "Pfeffer: Allies Below the Line — Gatekeeper Access",
+      "remember": "The person who books the room knows who sat in it.",
+      "when": "You need to know who met your boss last month and you cannot see the calendar.",
+      "hook": "Assistants see every door. <strong>Almost nobody ever asks them.</strong>",
+      "truth": "The lowest-status person in the hallway holds the most complete map.\n• They know who booked, who ran long, and who walked out angry.\n• They are rarely asked, so they are rarely guarded.\n• Most people treat them as furniture. That is the whole opening.",
+      "theySee": "A coworker who talks to them like a person and asks for something small.",
+      "signals": [
+        {
+          "icon": "⚠️",
+          "l": "They warn you",
+          "t": "They tell you your boss is in a bad mood before you walk in"
+        },
+        {
+          "icon": "🗓️",
+          "l": "They edit",
+          "t": "They move your meeting to a better slot without being asked"
+        },
+        {
+          "icon": "👀",
+          "l": "They hint",
+          "t": "They say 'he just came out of a long one' and give you a look"
+        },
+        {
+          "icon": "🧠",
+          "l": "They remember",
+          "t": "They ask about something personal you mentioned weeks ago"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for one small thing",
+          "desc": "A slot, a room, a form. Say thank you and use their name."
+        },
+        {
+          "n": "2",
+          "title": "Come back with a scheduling question",
+          "desc": "Ask who had the Thursday block, framed as avoiding a double-booking."
+        },
+        {
+          "n": "3",
+          "title": "Give before you ask again",
+          "desc": "Bring coffee, cover for them once, or send credit to their boss."
+        }
+      ],
+      "script": "\"I am trying not to double-book Dana. <strong>Was that Thursday block a standing one, or did somebody grab it?</strong>\"",
+      "example": "Marcus had no calendar access. He asked Lydia, the floor's office manager, whether the small room was free on Thursdays. She said no, Ray had held it for six weeks running. Marcus thanked her and bought her lunch. He had his answer for the price of a sandwich.",
+      "watchFor": "They answer with a name you did not ask for.",
+      "ifItFails": "They stay professional and give you nothing. Do not push, or you burn the channel for good. Switch to favors and wait two weeks: <strong>\"No problem. If you ever need someone to cover a room handover, text me.\"</strong> Access built on one ask is not access.",
+      "counter": "If someone starts being warm to your assistant, they want your schedule.\n• Notice new friendliness aimed at the person who books your time.\n• Say to your assistant: <strong>\"Keep my blocks unnamed from now on.\"</strong>\n• Make your calendar boring. The titles leak, not the times.",
+      "insight": "Do not run this where the assistant reports to the person you suspect — your question will reach them by lunch. The harder part is that every favor creates a record of you asking questions."
+    },
+    {
+      "id": 10,
+      "cat": "network",
+      "danger": "moderate",
+      "title": "Use the Person Who Loves to Tell",
+      "principle": "Greene: Law 14 — Pose as a Friend, Work as a Spy",
+      "remember": "The office gossip is a radio. Tune in, do not broadcast.",
+      "when": "You know one coworker who repeats everything they hear, and you need what they heard.",
+      "hook": "A person who tells you about others <strong>will tell others about you.</strong>",
+      "truth": "The gossip is the fastest channel in the building and the least guarded.\n• Use them as a receiver, never as a confidant.\n• Give one boring true thing so the trade feels fair.\n• Most people either avoid them or overshare. Both waste the channel.",
+      "theySee": "A friendly coworker having an interesting chat with them.",
+      "signals": [
+        {
+          "icon": "📰",
+          "l": "Opens with news",
+          "t": "Every conversation starts with something about somebody else"
+        },
+        {
+          "icon": "🏷️",
+          "l": "Names sources",
+          "t": "They tell you who told them, which means they will name you"
+        },
+        {
+          "icon": "🧪",
+          "l": "They test",
+          "t": "They float a small rumor and watch your reaction"
+        },
+        {
+          "icon": "🌐",
+          "l": "Everywhere",
+          "t": "They know things from three teams they do not work on"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open with a trade",
+          "desc": "Give one harmless true item first. Budget news, a hiring rumor, anything public soon."
+        },
+        {
+          "n": "2",
+          "title": "Ask sideways",
+          "desc": "Ask what people say about the project, not about you."
+        },
+        {
+          "n": "3",
+          "title": "Leave before you are asked",
+          "desc": "End the chat while they are still talking. Answer no questions about yourself."
+        }
+      ],
+      "script": "\"What is the read on the Horizon handoff? <strong>I keep hearing it was decided before the meeting.</strong>\"",
+      "example": "Ana spent ten minutes a week with Felix, who knew everything. She never told him anything real. In March he mentioned that Ray had 'sorted out the Horizon problem with Dana directly.' Ana had the name without ever asking for it.",
+      "watchFor": "They volunteer a name you did not ask about.",
+      "ifItFails": "They turn it around and fish for your side. Hand them a line you are happy to have repeated, then leave: <strong>\"Honestly my read is boring — I think it was a budget call.\"</strong> That sentence travels, and it makes you sound calm to whoever hears it next.",
+      "counter": "If a coworker trades gossip with you, you are being read as well as fed.\n• Notice they give first. The gift is a hook.\n• Say: <strong>\"I have not heard anything. What do you think?\"</strong>\n• Receive, do not transmit. Say nothing you would not sign.",
+      "insight": "Do not use this channel if your suspect is the gossip's close friend — you are briefing them for free. The next question is whether what you heard is true, or whether you were handed somebody's preferred story."
+    },
+    {
+      "id": 11,
+      "cat": "network",
+      "danger": "moderate",
+      "title": "Ask Your Skip-Level for the Version They Heard",
+      "principle": "Cialdini: Consistency — Make Them Commit to a Version",
+      "remember": "Go one level up and ask what they heard, not what they think.",
+      "when": "You suspect the story about you reached your boss's boss and you have never heard it.",
+      "hook": "A story told upward loses its source <strong>and gains authority on the way.</strong>",
+      "truth": "Your skip-level repeats a cleaned-up version with no name attached to it.\n• Asking what they heard makes them say it out loud, which pins it.\n• Once it is said in the open, it can be answered.\n• Most people ask the skip-level for support. Ask for the sentence instead.",
+      "theySee": "A direct person who wants to work on the real issue, not on politics.",
+      "signals": [
+        {
+          "icon": "🐢",
+          "l": "Careful words",
+          "t": "They choose words slowly when your name comes up"
+        },
+        {
+          "icon": "📁",
+          "l": "Old news",
+          "t": "They treat something as settled that you never discussed"
+        },
+        {
+          "icon": "🌫️",
+          "l": "No detail",
+          "t": "They cannot say when or where the concern started"
+        },
+        {
+          "icon": "🧬",
+          "l": "Same phrase",
+          "t": "They use the exact phrase your boss used"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Book fifteen minutes",
+          "desc": "Short and specific. Say you want a calibration check, nothing more."
+        },
+        {
+          "n": "2",
+          "title": "Ask the one question",
+          "desc": "Ask what they have heard about your work this quarter. Then stop talking."
+        },
+        {
+          "n": "3",
+          "title": "Repeat it back and date it",
+          "desc": "Say the version back, ask when they first heard it, and write it down."
+        }
+      ],
+      "script": "\"I want one thing from this meeting. <strong>What have you heard about my work this quarter that did not come from me?</strong>\"",
+      "example": "Lena asked her skip-level that exact question. He said he had heard she was 'not ready to manage people.' She asked when. July, at a leadership offsite she had not attended. Three people from her org were there. Her list went from twelve names to three.",
+      "watchFor": "They tell you where they heard it, not just what they heard.",
+      "ifItFails": "They deflect with 'nothing but good things.' Take the compliment and set a trap for next time: <strong>\"Good. Then if something ever does come up, will you come to me before it becomes a view?\"</strong> Most people say yes, and that yes makes the next brief awkward to accept quietly.",
+      "counter": "If someone asks what you have heard about them, they are dating the rumor.\n• Notice the question is about your information, not your opinion.\n• Say: <strong>\"Nothing specific has reached me.\"</strong>\n• Give nothing with a timestamp on it. Timestamps are the whole prize.",
+      "insight": "Your skip-level gains nothing from protecting your boss's source. Do not do this if your boss told you to bring everything to them first — going around them becomes the brief that sticks."
+    },
+    {
+      "id": 12,
+      "cat": "confront",
+      "danger": "moderate",
+      "title": "Go to the Listener, Not the Talker",
+      "principle": "Schelling: Change Whose Problem It Is",
+      "remember": "Fix the ears, not the mouth. The mouth has no power alone.",
+      "when": "You know who briefed against you and you want to shut the channel down.",
+      "hook": "A brief only works if somebody keeps accepting it. <strong>Change the buyer, not the seller.</strong>",
+      "truth": "Attacking the briefer looks like exactly what they described you as.\n• Changing the listener's rule kills every future brief at once.\n• You never name anybody, so nobody can call you political.\n• Most people want the fight. Take the channel instead.",
+      "theySee": "A calm person asking for a process, not for revenge.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Repeat traffic",
+          "t": "Your boss brings up the same theme more than once"
+        },
+        {
+          "icon": "📨",
+          "l": "Second-hand only",
+          "t": "Every concern reaches you from somewhere else"
+        },
+        {
+          "icon": "🙉",
+          "l": "No defense asked",
+          "t": "They never ask for your version before they decide"
+        },
+        {
+          "icon": "🪶",
+          "l": "Last voice wins",
+          "t": "Your boss agrees with whoever spoke to them most recently"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say nothing about the briefer",
+          "desc": "Do not name them. A name makes the meeting about you two."
+        },
+        {
+          "n": "2",
+          "title": "Ask for one rule",
+          "desc": "Ask your boss to bring you any concern about you inside a week."
+        },
+        {
+          "n": "3",
+          "title": "Confirm it in writing",
+          "desc": "Send a two-line recap of the agreement right after the meeting."
+        }
+      ],
+      "script": "\"I am not asking who. I am asking for one thing: <strong>if something about my work reaches you, tell me inside a week so I can answer it.</strong> Can we do that?\"",
+      "example": "Omar never confronted Ray. He asked his director for a one-week rule and sent a two-line recap the same day. Six weeks later the director forwarded him a complaint within a day, with the sender's name still on it. The channel closed itself.",
+      "watchFor": "Your boss agrees out loud, and then actually brings you the next one.",
+      "ifItFails": "They say yes and then do nothing. Raise the price of silence without complaining: <strong>\"Something came up last month that I heard about late. Can we add 'anything you have heard' as a standing item in our one-on-one?\"</strong> A standing agenda line makes skipping it a visible choice.",
+      "counter": "If someone asks you to promise to bring them every concern, they are closing a channel.\n• Notice the ask is about process, not about the specific claim.\n• Say: <strong>\"I will share what I can act on.\"</strong>\n• Promise effort, not full disclosure. Keep your sources.",
+      "insight": "The briefer loses power the moment the listener starts checking. Do not run this on a boss who invented the complaint themselves — you are asking them to police their own story. The harder part is that your boss now knows you track this."
+    },
+    {
+      "id": 13,
+      "cat": "confront",
+      "danger": "high",
+      "title": "Name the Claim in Front of the Briefer, Once",
+      "principle": "Schopenhauer: Art of Controversy — Force the Admission in Public",
+      "remember": "Say the claim out loud once, with both of them in the room.",
+      "when": "You are in a meeting with both the briefer and the person they briefed.",
+      "hook": "A brief lives in private. <strong>It dies in a room with both parties in it.</strong>",
+      "truth": "The briefer never planned to say it where you could answer.\n• Say the claim flatly and ask them for one example.\n• They must back it with facts or walk it back in front of your boss.\n• Most people do this angry. Anger proves the claim. Do it bored.",
+      "theySee": "A calm coworker asking a reasonable clarifying question in a meeting.",
+      "signals": [
+        {
+          "icon": "👁️",
+          "l": "Eyes to the boss",
+          "t": "The briefer checks your boss's face before answering you"
+        },
+        {
+          "icon": "🧊",
+          "l": "Softening",
+          "t": "They say 'I would not put it that strongly' about their own words"
+        },
+        {
+          "icon": "🕳️",
+          "l": "No example",
+          "t": "They cannot name a single case when you ask for one"
+        },
+        {
+          "icon": "⏭️",
+          "l": "Topic change",
+          "t": "They try to move the meeting on quickly"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the room, not the hallway",
+          "desc": "Choose a meeting where your boss is present and the stakes are low."
+        },
+        {
+          "n": "2",
+          "title": "State the claim in flat words",
+          "desc": "Say the sentence without heat. Then ask for one example."
+        },
+        {
+          "n": "3",
+          "title": "Stop talking and let it sit",
+          "desc": "Do not rescue them. The silence does the work."
+        }
+      ],
+      "script": "\"Ray, I heard the view that I hand work off half-finished. <strong>Give me one example so I can fix it.</strong> I would rather know.\"",
+      "example": "Dana's peer had told their VP she 'rushed decisions.' In the next planning meeting she said the line out loud and asked him for one case. He said he could not think of one right now. The VP never raised it again.",
+      "watchFor": "The briefer says they cannot think of an example while your boss is listening.",
+      "ifItFails": "They produce a real example and it lands. Do not fight it — concede fast and take the frame back: <strong>\"That one is fair. I fixed it in the Horizon handoff. Was there a second one?\"</strong> One conceded case with a fix attached makes everything else look thin.",
+      "counter": "If someone calmly repeats something you said privately in a group, they are making you own it.\n• Notice they quote you without heat and ask for one example.\n• Say: <strong>\"That is not my wording. Let us take it offline.\"</strong>\n• Refuse the public round. The room is their ground, not yours.",
+      "insight": "This is a one-shot weapon and it only works on a briefer with no real case. Do not fire it if even one example exists against you, and never at someone who signs your review. The next question is what they do to you in private afterward."
+    },
+    {
+      "id": 14,
+      "cat": "confront",
+      "danger": "moderate",
+      "title": "Force It Into Writing",
+      "principle": "Schelling: Commitment — Make Them Put It On Paper",
+      "remember": "Spoken claims change shape. Written claims do not.",
+      "when": "HR or your boss raises a complaint about you and keeps it verbal and vague.",
+      "hook": "Vague and verbal is a choice. <strong>Nobody writes down a claim they cannot back.</strong>",
+      "truth": "A written claim needs a date, a case, and a person attached to it.\n• Most briefs cannot survive being typed out.\n• Your own same-day recap becomes the only record that exists.\n• Most people accept the verbal version to seem easygoing. That is the trap.",
+      "theySee": "An employee taking the process seriously and cooperating with it.",
+      "signals": [
+        {
+          "icon": "📄",
+          "l": "No paper",
+          "t": "They raise it in person and send nothing afterward"
+        },
+        {
+          "icon": "👥",
+          "l": "Group nouns",
+          "t": "They say 'the team feels' instead of naming anybody"
+        },
+        {
+          "icon": "🕰️",
+          "l": "No date",
+          "t": "They cannot say when the thing they describe happened"
+        },
+        {
+          "icon": "🤐",
+          "l": "Off the record",
+          "t": "They say this is informal and is not going anywhere"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the summary",
+          "desc": "Ask them to send a short written summary so you can respond properly."
+        },
+        {
+          "n": "2",
+          "title": "Write your own if they refuse",
+          "desc": "Send a recap of what they told you, in their words, the same day."
+        },
+        {
+          "n": "3",
+          "title": "Ask one written question",
+          "desc": "Ask by email which project and which date the concern covers."
+        }
+      ],
+      "script": "\"Can you put the main point in an email? <strong>I want to answer the real thing, not my memory of it.</strong>\"",
+      "example": "When HR told Ben about 'tone complaints,' he asked for a written summary. They declined. He emailed his own recap that afternoon: date, claim, no examples given. Two months later the claim resurfaced, and his email was the only record. It showed the claim had never had a case attached.",
+      "watchFor": "They go quiet, or the complaint gets much smaller once they have to type it.",
+      "ifItFails": "They refuse to write anything and tell you not to escalate. Send your recap anyway, plain and with no accusation in it: <strong>\"Recapping our chat so I have it right: you raised concerns about my tone on October 14, with no specific example given. Correct me if I have that wrong.\"</strong> Silence after that email is agreement on the record.",
+      "counter": "If someone asks you to put a complaint in writing, they are building a file.\n• Notice the email request right after a verbal conversation.\n• Say: <strong>\"I would rather talk it through first.\"</strong>\n• Keep it verbal until you are ready to own every word.",
+      "insight": "Paper beats memory in every room that matters later. Do not send a recap with a single emotional word in it, and do not start the paper trail with a boss you still need as a reference unless the claim is already formal."
+    },
+    {
+      "id": 15,
+      "cat": "repair",
+      "danger": "low",
+      "title": "Replace the Story With Dated Facts",
+      "principle": "Availability Heuristic — Swap the Example in Their Head",
+      "remember": "You cannot delete a story. You can cover it with a better one.",
+      "when": "Your boss believes a story about you and you need something to put in its place.",
+      "hook": "Arguing with a story keeps the story in the room. <strong>Give them a newer one to reach for.</strong>",
+      "truth": "People reach for the last clear picture they have, not the true one.\n• Dates and numbers stick where denials slide off.\n• A monthly recap makes your version the default version.\n• Most people defend the old event. Supply the new one instead.",
+      "theySee": "A coworker sending a short, useful update with real numbers in it.",
+      "signals": [
+        {
+          "icon": "🗿",
+          "l": "Old reference",
+          "t": "Your boss keeps pointing at the same months-old incident"
+        },
+        {
+          "icon": "📉",
+          "l": "No new data",
+          "t": "Nothing you did this quarter shows up in their comments"
+        },
+        {
+          "icon": "📣",
+          "l": "Second-hand summary",
+          "t": "They describe your work from somebody else's report"
+        },
+        {
+          "icon": "😮",
+          "l": "Surprise",
+          "t": "They are surprised by a result they should already know"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick three wins with numbers",
+          "desc": "Three items from the last ninety days, each with a date and a figure."
+        },
+        {
+          "n": "2",
+          "title": "Send them in six lines",
+          "desc": "One email, bullets, no complaint, no reference to the old story."
+        },
+        {
+          "n": "3",
+          "title": "Repeat monthly",
+          "desc": "Same format, same day each month. Repetition makes it the default version."
+        }
+      ],
+      "script": "\"Monthly recap so you have the numbers: <strong>Horizon shipped Oct 2, three days early. Churn down 4%. Two handoffs, both signed off by Finance.</strong>\"",
+      "example": "After the 'unreliable' label stuck, Ines sent a six-line monthly recap with dates and figures. By the third month her VP quoted her October numbers in a leadership meeting. Nobody mentioned the old story again, because nobody had a fresher version than hers.",
+      "watchFor": "Your boss quotes one of your numbers back to somebody else.",
+      "ifItFails": "They never acknowledge the emails. Make the record public instead of private: post the same recap in the team channel where your boss's peers read it. Then say it once in your one-on-one: <strong>\"I am putting the monthly numbers in the channel so the team has them. Tell me if you want them somewhere else.\"</strong>",
+      "counter": "If someone starts sending dated, numbered updates out of nowhere, they are overwriting a story.\n• Notice the new format and the very exact figures.\n• Say: <strong>\"Useful. How does this connect to the thing from July?\"</strong>\n• Keep the old item alive by name. New facts do not close an open one.",
+      "insight": "Memory keeps the sharpest picture, not the fairest one. The harder part is that this takes three months, and most people quit after one."
+    },
+    {
+      "id": 16,
+      "cat": "repair",
+      "danger": "moderate",
+      "title": "Borrow a Witness With More Status Than You",
+      "principle": "Cialdini: Authority — Third-Party Credibility",
+      "remember": "Your own word is spent. Borrow someone they cannot ignore.",
+      "when": "You have defended yourself twice and your boss still believes the other version.",
+      "hook": "A defense from you is evidence in the case against you. <strong>The same words from someone senior are facts.</strong>",
+      "truth": "Your boss has already discounted everything you say about yourself.\n• A senior outsider's report carries weight yours cannot.\n• You never ask them to defend you. You ask them to report.\n• Most people plead harder. Volume is exactly what the briefer wanted.",
+      "theySee": "A senior person giving an unprompted good report about you.",
+      "signals": [
+        {
+          "icon": "🔇",
+          "l": "Discounted",
+          "t": "Your boss nods at your explanation and changes nothing"
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat loop",
+          "t": "You have made the same point twice with no effect"
+        },
+        {
+          "icon": "🎖️",
+          "l": "Status weight",
+          "t": "Your boss quotes other senior people often"
+        },
+        {
+          "icon": "🪑",
+          "l": "No witnesses",
+          "t": "Nobody else has spoken about your work in that room"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one senior person who saw the work",
+          "desc": "They must outrank the briefer and have watched you directly."
+        },
+        {
+          "n": "2",
+          "title": "Ask for a report, not a favor",
+          "desc": "Ask them to tell your boss how the project ran. Do not mention politics."
+        },
+        {
+          "n": "3",
+          "title": "Give them the three facts",
+          "desc": "Send dates and numbers so their report is specific, not just warm."
+        }
+      ],
+      "script": "\"You saw the Horizon handoff up close. <strong>Would you tell Dana how it actually ran?</strong> She is working off a second-hand summary.\"",
+      "example": "Carla asked the Finance director who sat through her handoff to mention it to her VP. He did, in a hallway, in one sentence: 'Her handoff was the cleanest one we got all year.' Her VP repeated that line in her review three weeks later.",
+      "watchFor": "Your boss mentions the other person's opinion back to you without you raising it.",
+      "ifItFails": "Your witness agrees and then never does it. Make it small and easy: hand them the line and the moment. <strong>\"You will see Dana Thursday. If it comes up, one line about the handoff is all I need.\"</strong> If they still do not, they are not an ally and you should stop counting them as one.",
+      "counter": "If a senior person volunteers praise for someone right before a decision, they were asked.\n• Notice the timing and how specific the praise is.\n• Say: <strong>\"Good to hear. Were they the only one on that?\"</strong>\n• Widen the picture. One witness is a sample, not a record.",
+      "insight": "Borrowed status spends fast and you cannot borrow twice in a quarter. Never ask someone who reports to the briefer. The next question is who you would have asked if you had built that relationship a year ago."
+    },
+    {
+      "id": 17,
+      "cat": "counter",
+      "danger": "high",
+      "title": "Make the Next Brief Cost Them Something",
+      "principle": "Schelling: Deterrence — Raise the Price in Advance",
+      "remember": "Do not punish them. Make the next one expensive and let them count.",
+      "when": "You know who briefed against you and they are still working beside you.",
+      "hook": "You cannot stop a briefer. <strong>You can make briefing a bad trade.</strong>",
+      "truth": "A briefer runs the move because it is cheap and nobody ever names them.\n• Tell them once, calmly, that you know. No threat attached.\n• Put your facts in writing so vague claims look weak beside them.\n• Most people want revenge. Revenge hands them the next brief for free.",
+      "theySee": "A coworker who is relaxed, well-informed, and clearly not afraid of them.",
+      "signals": [
+        {
+          "icon": "🧪",
+          "l": "They test you",
+          "t": "They make a small dig and watch how you take it"
+        },
+        {
+          "icon": "🙈",
+          "l": "They avoid you",
+          "t": "They stop making eye contact in group meetings"
+        },
+        {
+          "icon": "🗯️",
+          "l": "Over-explaining",
+          "t": "They explain their own motives when nobody asked"
+        },
+        {
+          "icon": "🏁",
+          "l": "They go first",
+          "t": "They start reporting on your work before you can"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Tell them you know, once",
+          "desc": "One sentence, in private, no heat and no threat. Then move on."
+        },
+        {
+          "n": "2",
+          "title": "Make your facts checkable",
+          "desc": "Put dates and numbers in writing so a vague claim looks thin next to them."
+        },
+        {
+          "n": "3",
+          "title": "Be useful to their boss",
+          "desc": "Build one relationship above them that makes attacking you look petty."
+        }
+      ],
+      "script": "\"I know the Horizon note came from you. <strong>I am not going to do anything about it. Next time come to me first — it will go better for both of us.</strong>\"",
+      "example": "Vik told Ray in a hallway that he knew, then said nothing more and kept working with him normally. Ray spent the next quarter visibly careful. When Ray came up for a lead role, two people called him political. Vik had not said a word to either of them.",
+      "watchFor": "They start copying you on the messages they used to send without you.",
+      "ifItFails": "They deny it flatly and then go harder. Stop talking to them and change the ground: put every shared decision into a written thread with your boss on it. Say it once, in the open: <strong>\"Let us keep the Horizon decisions on email so nobody has to remember who said what.\"</strong> A briefer with no private channel has nothing to sell.",
+      "counter": "If someone tells you calmly that they know what you did, you are being deterred.\n• Notice there is no threat attached. That is the move, not weakness.\n• Say: <strong>\"Noted. Let us keep it direct from here.\"</strong>\n• Do not deny it. A denial invites them to prove it.",
+      "insight": "Fear of being named stops more briefs than any punishment does. Do not run this on anybody senior to you or on anyone who writes your review — with them, build the written record and say nothing. The harder part is holding a normal face for a year."
+    },
+    {
+      "id": 18,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Decide If the Room Is Still Winnable",
+      "principle": "Machiavelli: The Prince — Know When the Ground Is Lost",
+      "remember": "Count your backers at the top. Two or more, stay.",
+      "when": "You know who briefed, you corrected the record, and your standing has not recovered.",
+      "hook": "Some rooms never give the story back. <strong>Count before you keep paying.</strong>",
+      "truth": "The official version of you is whatever senior people repeat when you are not there.\n• Count who would argue for you with nobody prompting them.\n• Zero or one means the story is now the official version.\n• Most people stay and wait for the apology. It does not come.",
+      "theySee": "A steady coworker doing good work and asking normal career questions.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "Frozen scope",
+          "t": "Your work has not grown in two review cycles"
+        },
+        {
+          "icon": "🫥",
+          "l": "No sponsor",
+          "t": "Nobody senior brings your name into rooms you are not in"
+        },
+        {
+          "icon": "🔂",
+          "l": "Repeat theme",
+          "t": "The same criticism shows up in a second written review"
+        },
+        {
+          "icon": "🪑",
+          "l": "Replacement hired",
+          "t": "Somebody was hired beside or above you with your old scope"
+        },
+        {
+          "icon": "🙂",
+          "l": "Polite distance",
+          "t": "Senior people are friendly but never ask you for anything"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your sponsors out loud",
+          "desc": "Write the names of people who would fight for you unprompted. Count them."
+        },
+        {
+          "n": "2",
+          "title": "Ask one of them straight",
+          "desc": "Ask whether they would put you forward for the next level this year."
+        },
+        {
+          "n": "3",
+          "title": "Set a date",
+          "desc": "Pick a date three months out. If nothing moves, start interviews."
+        }
+      ],
+      "script": "\"Straight question: <strong>if the next lead role opened in six months, would you put my name in?</strong> I can handle either answer.\"",
+      "example": "Reza asked his two sponsors that question. One hesitated. The other said 'not this cycle.' He started interviewing that week and left in four months into a bigger title. The story that had followed him did not make it out of the building.",
+      "watchFor": "They hesitate, or they answer about timing instead of about you.",
+      "ifItFails": "They give you a warm non-answer and no date. Treat a non-answer as a no, but announce nothing. Turn it into one concrete test: <strong>\"Then tell me the one thing that would have to change for it to be a yes, and I will go do it.\"</strong> If they cannot name that thing, there is nothing to fix and nothing to wait for.",
+      "counter": "If someone asks whether you would sponsor them, they are measuring whether to leave.\n• Notice they ask about a future role, not about current work.\n• Say: <strong>\"Here is what would have to be true.\"</strong>\n• Give a real condition or lose them. A warm non-answer reads as a no.",
+      "insight": "A story you cannot kill follows you in one building and dies at the door of the next. The harder part is leaving before you have proved yourself innocent, because nobody ever gets that moment."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 93,
+  "manifestVersion": 94,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -871,7 +871,20 @@
       "url": "playbooks/playbook-srv-the-job-that-only-ever-takes.json",
       "addedAt": "2026-10-29T00:03:09.450Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-finding-out-who-briefed-against-you",
+      "title": "Finding Out Who Briefed Against You",
+      "theme": "office politics",
+      "topic": "",
+      "cardCount": 18,
+      "contentVersion": 1,
+      "coverColor": "#1F2933",
+      "coverIcon": "🕵️",
+      "url": "playbooks/playbook-srv-finding-out-who-briefed-against-you.json",
+      "addedAt": "2026-10-29T00:03:52.374Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-29T00:03:09.450Z"
+  "generatedAt": "2026-10-29T00:03:52.374Z"
 }
