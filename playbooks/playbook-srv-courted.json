@@ -1,0 +1,971 @@
+{
+  "meta": {
+    "id": "srv-courted",
+    "version": "1.0",
+    "title": "Courted",
+    "subtitle": "When someone wants you, and wants something",
+    "description": "Someone is paying you a lot of attention. Maybe it is a job, a partnership, an investment, or a person. The warmth is real to you and scripted to them. These 16 cards teach you to read the plan before the ask lands, test the person cheaply, hold the one thing that keeps you free, and leave while they still want you.",
+    "author": "AI",
+    "createdAt": "2026-10-19T03:07:19.988Z",
+    "tags": [
+      "courtship",
+      "recruiting",
+      "manipulation",
+      "negotiation",
+      "dark psychology",
+      "influence",
+      "self-defense"
+    ],
+    "totalCards": 16,
+    "isSeeded": true,
+    "coverColor": "#6B1D2E",
+    "coverIcon": "🎣",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "spot",
+      "label": "Spot the Plan",
+      "color": "#B3261E"
+    },
+    {
+      "key": "script",
+      "label": "Their Script",
+      "color": "#7A3E9D"
+    },
+    {
+      "key": "probe",
+      "label": "Test Them",
+      "color": "#1F6F8B"
+    },
+    {
+      "key": "hold",
+      "label": "Hold Your Ground",
+      "color": "#0E7C5A"
+    },
+    {
+      "key": "endgame",
+      "label": "Endgame",
+      "color": "#B8860B"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "spot",
+      "danger": "low",
+      "title": "Check How Fast They Got Close",
+      "principle": "Greene: Art of Seduction — The Charmer",
+      "remember": "Real closeness takes months. Check the calendar, not the feeling.",
+      "hook": "Nobody knows you in three weeks. <strong>Someone who acts like they do wants something.</strong>",
+      "truth": "Fast closeness is a tool, not a feeling.\n• They skip the slow part so you trust them early.\n• You start treating a stranger like an old friend.\n• The ask always comes after the trust, never before.",
+      "when": "Someone you met weeks ago already calls you their closest person.",
+      "theySee": "A person who answers their texts in a minute and tells them private things.",
+      "signals": [
+        {
+          "icon": "⏱️",
+          "l": "Fast titles",
+          "t": "They called you a close friend inside the first month."
+        },
+        {
+          "icon": "📱",
+          "l": "All-day texting",
+          "t": "They text you more than anyone else in your phone."
+        },
+        {
+          "icon": "🔓",
+          "l": "Early secrets",
+          "t": "They told you a big secret in the first few meetings."
+        },
+        {
+          "icon": "🧲",
+          "l": "Constant access",
+          "t": "They want time with you almost every day."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the start date",
+          "desc": "Put the date you met in your notes. Count the weeks. Say the number out loud."
+        },
+        {
+          "n": "2",
+          "title": "List what they really know",
+          "desc": "Write 5 true facts they know about you. Most will be things you told them."
+        },
+        {
+          "n": "3",
+          "title": "Slow the pace for one week",
+          "desc": "Reply in hours, not minutes. Say no to one meeting. Watch what they do."
+        }
+      ],
+      "script": "\"I like this, but I move slower than this. <strong>Give me a few weeks before we plan anything big.</strong>\"",
+      "example": "Dana met Rafi at a conference. By week three he called her his business soulmate and texted all day. She slowed her replies for one week. He sent nine messages in two days, then asked her to co-sign a lease.",
+      "watchFor": "They argue with the slower pace instead of matching it.",
+      "ifItFails": "They agree to slow down, then speed up again inside a week. Do not repeat the request — repeating it teaches them you only talk. Cut the access instead. Answer once a day, keep two weekends free, and say: <strong>\"I'm going to be slow for a while. If that's a problem, tell me now.\"</strong>",
+      "counter": "If you are the one who got close fast, someone may read it as a plan.\n• Notice when you name the friendship before they do.\n• Say: <strong>\"I move fast. Tell me if that's too much.\"</strong>\n• Then slow down for two weeks. Pace proves it, words don't.",
+      "insight": "Speed feels like chemistry because both run on the same thing — being seen. The harder part is that some fast closeness is real, and the only test is time you may not want to spend."
+    },
+    {
+      "id": 2,
+      "cat": "spot",
+      "danger": "moderate",
+      "title": "Find Out Who Pointed Them At You",
+      "principle": "Greene: Law 14 — Pose as a Friend, Work as a Spy",
+      "remember": "Ask how they found you. Random meetings are rarely random.",
+      "hook": "They knew your job, your deal, and your bad quarter. <strong>Somebody briefed them.</strong>",
+      "truth": "A courtship starts with research, and research leaves marks.\n• They know facts you never told them.\n• A named source turns a mystery into a person you can call.\n• Whoever sent them knows what the plan is.",
+      "when": "A new contact knows details about you that you never told them.",
+      "theySee": "A person who asks one plain question about how the two of them met.",
+      "signals": [
+        {
+          "icon": "🗂️",
+          "l": "Pre-loaded facts",
+          "t": "They mentioned your old job before you did."
+        },
+        {
+          "icon": "🧩",
+          "l": "Vague origin",
+          "t": "They cannot say clearly how they found you."
+        },
+        {
+          "icon": "🤝",
+          "l": "Borrowed name",
+          "t": "They dropped the name of someone you know, once, then moved on."
+        },
+        {
+          "icon": "📍",
+          "l": "Right place",
+          "t": "They turned up at an event you told only two people about."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the origin question",
+          "desc": "Ask who sent them, by name, in the first meeting. Keep your tone light."
+        },
+        {
+          "n": "2",
+          "title": "Call the name",
+          "desc": "Message that person the same day. Ask what they said about you."
+        },
+        {
+          "n": "3",
+          "title": "Compare the two stories",
+          "desc": "Write both versions down. Any gap is the thing to watch."
+        }
+      ],
+      "script": "\"Out of curiosity — <strong>who told you to talk to me?</strong> I like to thank people.\"",
+      "example": "Omar got a warm email from a recruiter who knew his bonus month. He asked who the referral was. The recruiter named a former colleague. Omar called her, and she had never spoken to the recruiter. Omar stopped answering and kept his job.",
+      "watchFor": "They pause, then give a name that does not check out.",
+      "ifItFails": "They give a real name, and the name confirms the story. Then the plan sits one step further back. Ask the referrer what the courter wanted from them: <strong>\"What did they ask you about me before you connected us?\"</strong>",
+      "counter": "If someone asks you who sent them, they are checking your research.\n• Do not invent a source. One phone call kills it.\n• Say: <strong>\"I read about you and went looking. Nobody sent me.\"</strong>\n• Own the research. Honest study reads as respect. A fake name reads as a con.",
+      "insight": "Most people feel flattered to be found and never ask how. The question costs one sentence and buys a map. Do not ask it of a client who found you through a paid introducer — there it reads as an insult. The real trap is when the referrer is in on it."
+    },
+    {
+      "id": 3,
+      "cat": "spot",
+      "danger": "low",
+      "title": "Count the Favors You Did Not Ask For",
+      "principle": "Cialdini: Reciprocity — The Uninvited Gift",
+      "remember": "Gifts you never asked for are bills with no date.",
+      "hook": "The dinner, the intro, the ticket. <strong>None of it was free, and nobody said the price.</strong>",
+      "truth": "Unasked favors build a debt you can feel but cannot measure.\n• Each gift makes the next no harder to say.\n• You start calling the debt a friendship.\n• The bill arrives once, as one big ask.",
+      "when": "Someone keeps paying, introducing, and helping before you ask for anything.",
+      "theySee": "A person who says thank you, takes the help, and never asks about the cost.",
+      "signals": [
+        {
+          "icon": "💳",
+          "l": "Always pays",
+          "t": "They grab every check and wave off your card."
+        },
+        {
+          "icon": "🎟️",
+          "l": "Access gifts",
+          "t": "They give you intros and invitations you did not request."
+        },
+        {
+          "icon": "📈",
+          "l": "Rising size",
+          "t": "Each favor is bigger than the one before it."
+        },
+        {
+          "icon": "🤐",
+          "l": "No price talk",
+          "t": "They refuse to say what they want in return."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the ledger",
+          "desc": "List every gift and its rough cost. Add it up into one number."
+        },
+        {
+          "n": "2",
+          "title": "Pay one back this week",
+          "desc": "Return a favor of the same size. Watch whether they let you."
+        },
+        {
+          "n": "3",
+          "title": "Name the balance out loud",
+          "desc": "Tell them you want to stay even. Say it once, in person."
+        }
+      ],
+      "script": "\"You've done four things for me and I've done none for you. <strong>Tell me what you need, or let me pay for the next one.</strong>\"",
+      "example": "Priya let a vendor buy three dinners and fly her to a demo. She offered to pay for the fourth. He refused twice and laughed. Two weeks later he asked her to push his contract past procurement. She declined, and the dinners stopped that day.",
+      "watchFor": "They refuse your repayment and tell you not to think about it.",
+      "ifItFails": "They keep refusing repayment and keep giving. Stop taking. Decline the next two gifts in a row and give the reason once: <strong>\"I'd rather owe nobody, so I'm paying my own way from here.\"</strong>",
+      "counter": "If you give a lot and never ask, people will read a plan.\n• Notice when your giving outruns the age of the friendship.\n• Say: <strong>\"I want one thing from you — an honest answer later.\"</strong>\n• Name a small price early. A stated price kills the suspicion.",
+      "insight": "A debt nobody names grows faster than one that gets paid. The harder question is how much you already owe before you started counting."
+    },
+    {
+      "id": 4,
+      "cat": "script",
+      "danger": "moderate",
+      "title": "They Flatter the Exact Thing You Are Unsure About",
+      "principle": "Gracián: Maxim 26 — Find Each Man's Thumbscrew",
+      "remember": "Praise that hits your sore spot was aimed, not felt.",
+      "hook": "They praised the one thing nobody praises you for. <strong>That was not luck.</strong>",
+      "truth": "People aim praise at the place you doubt, because that is where it sticks.\n• They find the gap between how you feel and how people treat you.\n• The praise fills the gap, so you want more of them.\n• Then they control the supply.",
+      "when": "A new person praises the exact skill you secretly think nobody notices.",
+      "theySee": "A person who goes quiet, smiles, and then talks more than usual.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Sore-spot praise",
+          "t": "They praise the thing you were passed over for."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat dose",
+          "t": "They say the same compliment again a week later."
+        },
+        {
+          "icon": "👂",
+          "l": "Research questions",
+          "t": "They asked about your last promotion before the praise came."
+        },
+        {
+          "icon": "🧂",
+          "l": "Praise then ask",
+          "t": "A request follows the compliment in the same conversation."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your own sore spot",
+          "desc": "Write the one thing you wish people noticed about you. Keep the note."
+        },
+        {
+          "n": "2",
+          "title": "Match the praise to the note",
+          "desc": "When a compliment lands hard, check whether it hits that line."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the evidence",
+          "desc": "Ask what they saw that made them say it. A vague answer means research, not observation."
+        }
+      ],
+      "script": "\"That's a kind thing to say. <strong>What did you actually see me do that made you think it?</strong>\"",
+      "example": "Marcus felt invisible as the only non-engineer on his team. A founder told him he was the real reason the product shipped. Marcus asked what she had seen. She named a launch he never worked on. He took the meeting, but he stopped believing her numbers.",
+      "watchFor": "They answer with a feeling instead of one specific thing you did.",
+      "ifItFails": "They give a real, specific example and the praise holds up. Then test the supply, not the source. Give them nothing for two weeks and see if the praise keeps coming. Then ask: <strong>\"What do you want from me? I'd rather know early.\"</strong>",
+      "counter": "If someone asks what you saw, they are testing your praise.\n• Never praise a skill you have not watched in person.\n• Say: <strong>\"The way you handled the pricing question on Tuesday.\"</strong>\n• One detail outweighs five adjectives.",
+      "insight": "Everyone has a sore spot, and most people hand it over in the first hour of talking. Do not demand proof of a compliment from a senior client — there it makes you look small. The harder part is that praise can be aimed and true at the same time."
+    },
+    {
+      "id": 5,
+      "cat": "script",
+      "danger": "moderate",
+      "title": "They Sell You a Future With You Already In It",
+      "principle": "Schelling: Commitment × Sunk-Cost Anchoring",
+      "remember": "A picture of next year is not an offer. Ask about this month.",
+      "hook": "The title, the trip, the share of it all. <strong>Every good part happens later, and none of it is written.</strong>",
+      "truth": "A clear picture of the future buys your work today for free.\n• They describe a life and put you inside it.\n• You start working for a thing nobody promised.\n• Each month you give makes leaving feel like a loss.",
+      "when": "Someone describes your role in their big plan but offers nothing now.",
+      "theySee": "A person who leans in, asks follow-up questions, and starts planning out loud.",
+      "signals": [
+        {
+          "icon": "🔮",
+          "l": "All future tense",
+          "t": "Every good part of the deal happens later."
+        },
+        {
+          "icon": "✍️",
+          "l": "Nothing written",
+          "t": "They will not put a date or a number in a message."
+        },
+        {
+          "icon": "🏷️",
+          "l": "Title talk",
+          "t": "They use a title for you that does not exist yet."
+        },
+        {
+          "icon": "🧾",
+          "l": "Work first",
+          "t": "They ask for real work before any paper exists."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the nearest date",
+          "desc": "Ask what happens in the next 30 days, not next year."
+        },
+        {
+          "n": "2",
+          "title": "Ask for one small real thing",
+          "desc": "Request a retainer, a signed letter, or a dated email. Small is fine."
+        },
+        {
+          "n": "3",
+          "title": "Write down what they promised",
+          "desc": "Send a short recap message the same day. Keep their reply."
+        }
+      ],
+      "script": "\"The year-two picture sounds good. <strong>What do I get in the next 30 days, in writing?</strong>\"",
+      "example": "Leila spent four months building decks for a founder who called her his future head of growth. She asked for a dated letter covering a 30-day paid trial. He stalled twice, then went quiet. She kept the decks and signed a paying client.",
+      "watchFor": "They pull the talk back to the big picture instead of giving you a date.",
+      "ifItFails": "They give a date, miss it, and explain why. Treat the miss as the answer, not the excuse. Stop the free work that same week and send: <strong>\"The date moved, so my work pauses until the next one is signed.\"</strong>",
+      "counter": "If you sell the future to get work now, people will check the paper.\n• Expect the question about the next 30 days.\n• Say: <strong>\"Here's what I can commit to this month, in writing.\"</strong>\n• Give one small real thing early. It costs little and buys years.",
+      "insight": "Nobody leaves after one month of free work. They leave after ten, and by then the ten months are the reason they stay. Do not demand paper from a boss who already pays you — there it reads as a threat. The next question is what you will accept as proof."
+    },
+    {
+      "id": 6,
+      "cat": "script",
+      "danger": "moderate",
+      "title": "They Pull Back Right After You Lean In",
+      "principle": "Greene: Art of Seduction — The Power of Withdrawal",
+      "remember": "Warm then cold is not moods. It is training.",
+      "hook": "Three great days, then a week of nothing. <strong>The silence is doing the work.</strong>",
+      "truth": "Warmth you cannot predict holds attention better than warmth you can.\n• They give a lot, then stop with no reason given.\n• You chase the warm version and blame yourself for the cold one.\n• Each return feels like a reward, so you pay more for it.",
+      "when": "Someone goes warm, then silent for days, then warm again with no explanation.",
+      "theySee": "A person who sends a second message before the first one gets an answer.",
+      "signals": [
+        {
+          "icon": "🌡️",
+          "l": "Hot-cold cycle",
+          "t": "They are intense for days, then silent for days."
+        },
+        {
+          "icon": "❓",
+          "l": "No reason given",
+          "t": "They never explain the silence when they come back."
+        },
+        {
+          "icon": "🏃",
+          "l": "You chase",
+          "t": "You write the next message every single time."
+        },
+        {
+          "icon": "🎁",
+          "l": "Return gifts",
+          "t": "They come back with a bigger gift than the last one."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Log the dates",
+          "desc": "Write the date of each warm burst and each silence. Read the list after three cycles."
+        },
+        {
+          "n": "2",
+          "title": "Do not fill the gap",
+          "desc": "During the next silence, send nothing. Let them come back on their own."
+        },
+        {
+          "n": "3",
+          "title": "Name the pattern once",
+          "desc": "When they return, say what you noticed in one flat sentence. Then stop talking."
+        }
+      ],
+      "script": "\"You go quiet for a week and then come back hot. <strong>I'm not going to chase that. Tell me when you want to talk like normal people.</strong>\"",
+      "example": "Sam tracked three cycles with a mentor who vanished for ten days at a time. On the fourth silence he sent nothing at all. The mentor called on day six, annoyed, and asked why Sam had gone cold. Sam had his answer: the silence was never about being busy.",
+      "watchFor": "They come back sooner than usual and ask why you went quiet.",
+      "ifItFails": "They answer your silence with a bigger gift and no change in behaviour. Take neither. Give them one fixed slot a week and close every other hour: <strong>\"Thursdays at six. That's what I have. The rest I'm using elsewhere.\"</strong>",
+      "counter": "If you run hot and cold, people will read you as a tactic.\n• Notice when your silence has no real reason behind it.\n• Say: <strong>\"I went quiet because of work, not because of you.\"</strong>\n• Give a reason or give a schedule. Unexplained silence gets read as a move.",
+      "insight": "The cold weeks do more work than the warm ones, which is why the warm ones feel so good. Do not name the pattern to someone who signs your reviews — say it to a peer or not at all. The harder part is that your own chasing proved them right about you."
+    },
+    {
+      "id": 7,
+      "cat": "script",
+      "danger": "high",
+      "title": "They Thin Out the People Around You",
+      "principle": "Greene: Art of Seduction — Isolate the Victim",
+      "remember": "Count your friends every month. A shrinking list is a warning.",
+      "hook": "First it is one dinner you skip. <strong>A year later you have nobody to call.</strong>",
+      "truth": "A person with no second opinion is easy to steer.\n• They make a small, reasonable complaint about each person you trust.\n• You defend them to your friends, then you see your friends less.\n• With no outside read, their version of events is the only version.",
+      "when": "A new person in your life keeps finding small problems with your old friends.",
+      "theySee": "A person who cancels on an old friend to keep a plan with them.",
+      "signals": [
+        {
+          "icon": "🪓",
+          "l": "Friend edits",
+          "t": "They say something small and negative about each of your close friends."
+        },
+        {
+          "icon": "📅",
+          "l": "Calendar crowding",
+          "t": "They book the same nights your friends usually get."
+        },
+        {
+          "icon": "🧱",
+          "l": "Us versus them",
+          "t": "They talk about you two as a team against other people."
+        },
+        {
+          "icon": "📵",
+          "l": "Fewer calls",
+          "t": "Family dinners stopped. Calls got shorter."
+        },
+        {
+          "icon": "🙅",
+          "l": "Loyalty tests",
+          "t": "They ask you to choose between them and someone else."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count the list",
+          "desc": "Write the names of people you saw in person last month. Compare it to a year ago."
+        },
+        {
+          "n": "2",
+          "title": "Book two outside nights",
+          "desc": "Put two evenings with old friends in your calendar before you mention them."
+        },
+        {
+          "n": "3",
+          "title": "Ask one old friend directly",
+          "desc": "Ask what they have noticed about you since this person arrived. Let them finish."
+        }
+      ],
+      "script": "(to an old friend) <strong>\"Be straight with me. Have I changed since I met them? What do you see that I don't?\"</strong>",
+      "example": "Nadia noticed she had not seen her sister in four months. She booked two dinners without telling her new partner. He called during both, then said her sister was poison. Nadia kept the dinners and started writing the dates down.",
+      "watchFor": "They get upset about the plan with your friends instead of the time it costs.",
+      "ifItFails": "They accept the two nights, then build a crisis on each date — an illness, a fight at five, an emergency. Do not cancel. Go, leave your phone in your bag, and say afterward: <strong>\"Every time I see my sister, something happens. I'm going anyway from now on.\"</strong>",
+      "counter": "Pulling someone away from their people is the fast way to get close and the loud one.\n• Notice when you criticize their friends more often than you meet them.\n• Say: <strong>\"I'd like to meet your sister. Pick the night.\"</strong>\n• Add people instead of removing them. It is slower and it holds.",
+      "insight": "Isolation never arrives as one big move. It arrives as twelve reasonable cancellations. Do not run this card on someone who controls your housing or your pay — there, leaving first is the only version that works. The next question is who you call on the day you decide to go."
+    },
+    {
+      "id": 8,
+      "cat": "probe",
+      "danger": "moderate",
+      "title": "Make Them Say the Ask Out Loud",
+      "principle": "Voss: Calibrated Question — Force the Specific",
+      "remember": "Ask what they want. Watch how hard it is to say.",
+      "hook": "A plan needs you not to ask. <strong>One question costs them weeks of setup.</strong>",
+      "truth": "An unspoken ask keeps all the room on their side.\n• The question moves the talk from feelings to terms.\n• A real want has a number, a date, and a name.\n• A plan dies the moment it has to be said plainly.",
+      "when": "Someone has courted you for weeks and still has not said what they want.",
+      "theySee": "A person who asks a direct question and then waits without smiling.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Soft answers",
+          "t": "They answer what they want with phrases like see where this goes."
+        },
+        {
+          "icon": "📆",
+          "l": "Date dodge",
+          "t": "They never put a date on anything."
+        },
+        {
+          "icon": "🔄",
+          "l": "Topic return",
+          "t": "They steer back to how good the two of you are together."
+        },
+        {
+          "icon": "🧮",
+          "l": "No numbers",
+          "t": "No money, hours, shares, or titles ever get named."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the moment",
+          "desc": "Ask at the end of a good meeting, not in the middle of an argument."
+        },
+        {
+          "n": "2",
+          "title": "Ask once, then wait",
+          "desc": "Say the question and stop talking. Count to ten in your head."
+        },
+        {
+          "n": "3",
+          "title": "Write their answer down",
+          "desc": "Email yourself their exact words the same day. You will need them later."
+        }
+      ],
+      "script": "\"I've enjoyed this. <strong>Now tell me plainly — what do you want from me, and by when?</strong>\"",
+      "example": "Theo had six coffees with an investor who praised him every time. At the seventh he asked the question and waited. The investor finally said he wanted Theo's client list for a competing company. Theo paid for the coffee and left.",
+      "watchFor": "They take a long pause, then name an ask smaller than the one you expected.",
+      "ifItFails": "They laugh it off and say they just like you. Stop asking and start pricing your time. Make the next meeting cost them a document, a payment, or a decision: <strong>\"Then let's make the next one useful. Bring the numbers and I'll bring an answer.\"</strong>",
+      "counter": "If someone asks what you want, give one real thing fast.\n• Do not say let's see where it goes. That answer reads as a plan.\n• Say: <strong>\"I want you on my board, two hours a month, paid.\"</strong>\n• A named small ask buys trust that a big vague one cannot.",
+      "insight": "Most courtships die on this question, which is exactly why it is worth asking early. Do not ask it in front of their team — in public it lands as an attack. The harder part is that some people truly do not know their ask yet, and those are the ones worth waiting on."
+    },
+    {
+      "id": 9,
+      "cat": "probe",
+      "danger": "moderate",
+      "title": "Say No to Something Small and Watch",
+      "principle": "Schelling: Test the Commitment × Loss Aversion",
+      "remember": "A small no shows who they are. Use it before the big one.",
+      "hook": "Say no to a Tuesday. <strong>What they do next tells you the whole plan.</strong>",
+      "truth": "People running a plan cannot afford a no, even a tiny one.\n• A small refusal costs you almost nothing and tests everything.\n• Real friends shrug. People with a plan push, charm, or go cold.\n• You learn the price of the big no before you have to pay it.",
+      "when": "You are about to commit to something big with someone you still cannot read.",
+      "theySee": "A person who says no to one small thing and gives no long reason.",
+      "signals": [
+        {
+          "icon": "😤",
+          "l": "Instant heat",
+          "t": "They get angry over a small change to the schedule."
+        },
+        {
+          "icon": "🍯",
+          "l": "Charm surge",
+          "t": "They answer your no with a compliment and a second ask."
+        },
+        {
+          "icon": "🧊",
+          "l": "Punishment cold",
+          "t": "They go silent for days after a small refusal."
+        },
+        {
+          "icon": "🪃",
+          "l": "Repeat ask",
+          "t": "They ask for the same thing again in a different shape."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a cheap no",
+          "desc": "Choose something small: one meeting, one favor, one weekend. Nothing that matters."
+        },
+        {
+          "n": "2",
+          "title": "Say it with no reason",
+          "desc": "Refuse in one sentence. Do not explain. An explanation gives them something to argue with."
+        },
+        {
+          "n": "3",
+          "title": "Watch for three days",
+          "desc": "Write down what they do in 72 hours. That note is your read."
+        }
+      ],
+      "script": "\"I can't do Thursday. <strong>No, nothing's wrong — I just can't.</strong>\"",
+      "example": "Jules told a new business partner she could not join a Saturday call. He phoned her twice, then emailed her co-founder behind her back. She had her answer before any contract existed, and she kept her name off it.",
+      "watchFor": "They ask why a second time after you already gave a plain no.",
+      "ifItFails": "They take the small no cleanly, so you still know nothing. Raise the price. Refuse something that costs them real money or time, and do it in writing: <strong>\"I'm out on this one. Keep the rest moving without me.\"</strong>",
+      "counter": "If someone refuses something small for no reason, you are being tested.\n• Do not ask why twice. The second why is the tell.\n• Say: <strong>\"No problem. Tell me when works.\"</strong>\n• Then leave it alone for a week. The calm is the proof.",
+      "insight": "A cheap no bought early saves an expensive one later. Do not run this on a boss in the middle of a review cycle — there a refusal without a reason becomes the story. The real trap is the person who passes the small test because they are saving the push for what they actually want."
+    },
+    {
+      "id": 10,
+      "cat": "probe",
+      "danger": "moderate",
+      "title": "Check Their Story With Someone Who Was There",
+      "principle": "Sun Tzu: The Use of Spies — The Inside Agent",
+      "remember": "Call one person who worked with them. Ask about the ending.",
+      "hook": "Every story sounds clean when one person tells it alone. <strong>Go find the other half.</strong>",
+      "truth": "A courtship runs on a version of their past that nobody has checked.\n• One call to a former partner changes what you believe.\n• Ask about the ending, not the start. Endings hold the truth.\n• People will not offer the bad part, but they will confirm it.",
+      "when": "Someone wants a big commitment from you and you only know their side of their history.",
+      "theySee": "A person who waits a few days, then comes back with sharper questions.",
+      "signals": [
+        {
+          "icon": "🕳️",
+          "l": "Missing years",
+          "t": "There is a gap in their story they move past quickly."
+        },
+        {
+          "icon": "👻",
+          "l": "No old allies",
+          "t": "Nobody from their last three years is still around them."
+        },
+        {
+          "icon": "🧨",
+          "l": "Villain stories",
+          "t": "They describe every past partner as crazy or dishonest."
+        },
+        {
+          "icon": "📵",
+          "l": "Blocked checks",
+          "t": "They tell you not to bother calling people who knew them before."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List three names",
+          "desc": "Find three people who worked with them or dated them before you."
+        },
+        {
+          "n": "2",
+          "title": "Ask about the ending",
+          "desc": "Message one of them. Ask how it ended, not how it started."
+        },
+        {
+          "n": "3",
+          "title": "Wait for a second source",
+          "desc": "Do not act on one story. Get a second before you decide anything."
+        }
+      ],
+      "script": "(to a former partner) <strong>\"I'm about to work with them. I'm not fishing for drama — I just want to know how it ended, in your words.\"</strong>",
+      "example": "Grace was two weeks from signing with a co-founder. She messaged his last business partner and asked how it ended. The partner sent three screenshots of a payroll month that never arrived. Grace signed with nobody and kept her savings.",
+      "watchFor": "The person you call replies fast and asks whether you have signed anything yet.",
+      "ifItFails": "All three people are polite and say nothing useful. Silence from three sources is its own answer. Switch from stories to paper: ask for two references they did not pick, plus one document. Say: <strong>\"Send me one reference you'd rather I didn't call.\"</strong>",
+      "counter": "If someone checks your past, they are serious, not hostile.\n• Do not get angry at the question. Anger looks like a hidden ending.\n• Say: <strong>\"Call Marcus. It ended badly and he'll tell you why.\"</strong>\n• Hand over your worst reference yourself. Nothing buys that much trust.",
+      "insight": "The story they tell about why the last one ended is the story they will tell about you. Do not make these calls inside your own company — it gets back the same day. The harder part is deciding what you do when the call confirms your fear and you still want the deal."
+    },
+    {
+      "id": 11,
+      "cat": "hold",
+      "danger": "moderate",
+      "title": "Refuse the Deadline They Invented",
+      "principle": "Cialdini: Scarcity — The Manufactured Clock",
+      "remember": "Ask what expires and when. Fake clocks have no answer.",
+      "hook": "Decide tonight or lose it. <strong>Almost every clock in a courtship is painted on.</strong>",
+      "truth": "A deadline is the cheapest way to stop you from checking things.\n• Time pressure removes your lawyer, your friends, and your second opinion.\n• A real deadline has a date, a reason, and someone else's name on it.\n• Ask what expires, and a fake clock moves.",
+      "when": "They tell you the offer, the spot, or the price disappears if you do not decide now.",
+      "theySee": "A person who asks a calm question about the date instead of deciding.",
+      "signals": [
+        {
+          "icon": "⏳",
+          "l": "Vague clock",
+          "t": "They will not explain why the deadline is that date."
+        },
+        {
+          "icon": "🚪",
+          "l": "Other buyer",
+          "t": "They mention another person who wants your spot but never name them."
+        },
+        {
+          "icon": "📵",
+          "l": "No review time",
+          "t": "They push back when you ask for a few days to read it."
+        },
+        {
+          "icon": "🔁",
+          "l": "Moving date",
+          "t": "The deadline already moved once."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what expires",
+          "desc": "Ask exactly what changes on that date, and who set it."
+        },
+        {
+          "n": "2",
+          "title": "Ask for it in writing",
+          "desc": "Ask them to put the deadline and the reason in an email."
+        },
+        {
+          "n": "3",
+          "title": "Let one fake deadline pass",
+          "desc": "Say nothing on the day. See whether the offer dies or waits."
+        }
+      ],
+      "script": "\"Help me understand the date. <strong>What changes on Friday, and who set it?</strong> Put it in an email and I'll answer Monday.\"",
+      "example": "Ben's landlord said the unit would be gone by six that evening. Ben asked for the deadline in writing and went home. The same unit came back to him two days later, forty dollars cheaper.",
+      "watchFor": "The deadline moves after you ask for the reason in writing.",
+      "ifItFails": "They put a hard date in writing and hold it. The clock may be real, so buy a smaller piece of time and pay for it. Offer a deposit or a partial yes: <strong>\"Give me until Monday and I'll send a deposit today to hold it.\"</strong>",
+      "counter": "If someone asks what expires, your clock had better be real.\n• Never invent a buyer you cannot name.\n• Say: <strong>\"The date is real — it's our board meeting on the 14th.\"</strong>\n• Show the reason once. A sourced deadline holds. An invented one collapses.",
+      "insight": "Pressure is what people use when they cannot win on the terms. Do not stall a deadline set by someone who can hire a different person tomorrow. The next question is what you give up to buy the extra days."
+    },
+    {
+      "id": 12,
+      "cat": "hold",
+      "danger": "moderate",
+      "title": "Keep One Thing They Cannot Get",
+      "principle": "Machiavelli: The Prince — Never Disarm Yourself",
+      "remember": "Give them almost everything. Keep one thing forever.",
+      "hook": "The courtship ends the day they have all of you. <strong>So keep a piece back.</strong>",
+      "truth": "Courtship lasts exactly as long as something is still out of reach.\n• The thing you hold is the reason they keep showing up.\n• Pick one: your money, your clients, your access, or your own place.\n• The day it transfers, the warmth has no job left.",
+      "when": "Someone asks you to hand over the last thing that is only yours.",
+      "theySee": "A person who says yes to most things, then stops at one line without a speech.",
+      "signals": [
+        {
+          "icon": "🔑",
+          "l": "Keys ask",
+          "t": "They ask for passwords, lists, or accounts earlier than normal."
+        },
+        {
+          "icon": "🧷",
+          "l": "Bundle push",
+          "t": "They want everything moved under one roof, and the roof is theirs."
+        },
+        {
+          "icon": "💤",
+          "l": "Warmth drop",
+          "t": "Each thing you hand over gets a smaller reaction than the last."
+        },
+        {
+          "icon": "🚩",
+          "l": "Line pressure",
+          "t": "They treat one reasonable limit as proof you distrust them."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your one thing",
+          "desc": "Write down the single thing you will not transfer. Money, clients, or your own lease."
+        },
+        {
+          "n": "2",
+          "title": "Say the line once",
+          "desc": "Tell them the limit plainly and early, before they ask for it."
+        },
+        {
+          "n": "3",
+          "title": "Hold it through one fight",
+          "desc": "Expect one argument. Do not re-explain. Say the same sentence again."
+        }
+      ],
+      "script": "\"You can have my time and my work. <strong>The client list stays mine. That isn't about you — it doesn't move for anyone.</strong>\"",
+      "example": "Ines joined a studio that wanted her freelance clients folded in. She kept three and said so on day one. Eighteen months later the studio closed. Those three clients paid her rent while everyone else looked for work.",
+      "watchFor": "They stop pushing on that item and start building the plan around it.",
+      "ifItFails": "They treat your limit as an insult and go cold. Do not trade the line for warmth. Offer something else of real value and leave the line exactly where it was: <strong>\"I'm not moving on that. Take my Saturdays instead — that's a real offer.\"</strong>",
+      "counter": "If someone holds one thing back from you, that is health, not distrust.\n• Do not test the limit. Testing it makes it permanent.\n• Say: <strong>\"Keep it. I'd do the same.\"</strong>\n• Build around their line. People commit faster when nothing is being taken.",
+      "insight": "What you keep is not distrust. It is the reason you still have choices. This card is about a stated limit, not a hidden one — a secret account your partner finds later is a different game with a worse ending. The real trap is choosing your one thing only after they ask for it."
+    },
+    {
+      "id": 13,
+      "cat": "hold",
+      "danger": "moderate",
+      "title": "Put the Promise in Writing the Same Day",
+      "principle": "Schelling: Commitment Device — The Written Record",
+      "remember": "Send a short recap email. Memories lose. Emails win.",
+      "hook": "They promised it in a bar with no witnesses. <strong>Write it down before you sleep.</strong>",
+      "truth": "A spoken promise belongs to whoever remembers it best.\n• A recap email turns their words into a record you both saw.\n• Most people confirm, because denying looks worse than agreeing.\n• Silence on your recap is an answer too, and a dated one.",
+      "when": "Someone promises you money, a title, or shares in a talk with no paper.",
+      "theySee": "A friendly email that repeats what they said, with no complaint in it.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Verbal only",
+          "t": "They make big promises out loud and never send anything."
+        },
+        {
+          "icon": "🫥",
+          "l": "Email dodge",
+          "t": "They answer your written recap with a phone call."
+        },
+        {
+          "icon": "🧠",
+          "l": "Memory edits",
+          "t": "Their version of last month's promise is smaller than yours."
+        },
+        {
+          "icon": "🚫",
+          "l": "No witnesses",
+          "t": "The big promises always happen when nobody else is in the room."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write it the same night",
+          "desc": "Send a four-line email: what they promised, the number, and the date."
+        },
+        {
+          "n": "2",
+          "title": "Keep it warm and flat",
+          "desc": "No complaints and no lawyer words. Just the facts and a thank you."
+        },
+        {
+          "n": "3",
+          "title": "Chase one reply",
+          "desc": "If nothing comes back in three days, forward it once with a single line."
+        }
+      ],
+      "script": "\"Great evening — writing this down so we're on the same page: <strong>5% at the first close, reviewed in January.</strong> Shout if I've got anything wrong.\"",
+      "example": "Kofi got a verbal promise of 5% from a founder over dinner. He emailed a four-line recap that night. Eleven months later the founder remembered 2%. Kofi forwarded the old email and got the 5%.",
+      "watchFor": "They reply to the recap and correct one detail instead of ignoring it.",
+      "ifItFails": "They never answer the email and call you instead. Take the call, then send a recap of the call. If the second recap also goes unanswered, treat the promise as dead and say so: <strong>\"Since we haven't confirmed the equity, I'm going to keep taking outside work until we do.\"</strong>",
+      "counter": "If someone sends you a recap, they are building a record, not being nice.\n• Read every line before you reply with a thumbs up.\n• Say: <strong>\"Mostly right — two corrections: it's 3%, and the review is in March.\"</strong>\n• Correct it in writing the same day. Silence becomes their version.",
+      "insight": "People rarely lie in email about a thing you already wrote down. They only forget in conversation. Do not send a recap full of legal words to someone who thinks you are friends — the warm tone is what makes it work. The harder part is what you do when they confirm it and still do not pay."
+    },
+    {
+      "id": 14,
+      "cat": "endgame",
+      "danger": "high",
+      "title": "Make Them Bid Against Someone Else",
+      "principle": "Cialdini: Social Proof × Scarcity — The Auction",
+      "remember": "One suitor sets the price. Two suitors pay it.",
+      "hook": "They set the terms because they are the only offer. <strong>Get a second one and the terms move.</strong>",
+      "truth": "A courtship with one bidder is not a negotiation.\n• A real second option changes your voice before you say a word.\n• You never have to threaten. You only have to be slower.\n• Name the category, never the name. A named rival gets attacked.",
+      "when": "Someone courting you keeps control because they are your only offer.",
+      "theySee": "A person who replies a day later and mentions a calendar that is filling up.",
+      "signals": [
+        {
+          "icon": "🪙",
+          "l": "Price talk",
+          "t": "They start talking about numbers without being asked."
+        },
+        {
+          "icon": "🏃",
+          "l": "Speed up",
+          "t": "They want to close faster than they did last week."
+        },
+        {
+          "icon": "🔎",
+          "l": "Rival questions",
+          "t": "They ask who else you are talking to."
+        },
+        {
+          "icon": "📈",
+          "l": "Sweeteners",
+          "t": "A new perk appears that was not in the first offer."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open one real second option",
+          "desc": "Start one genuine conversation elsewhere this week. Real, not invented."
+        },
+        {
+          "n": "2",
+          "title": "Say the category, not the name",
+          "desc": "Tell them you are in two processes. Never say which one or with whom."
+        },
+        {
+          "n": "3",
+          "title": "Slow your replies by a day",
+          "desc": "Answer in 24 hours instead of two. Let the gap do the talking."
+        }
+      ],
+      "script": "\"I'm in two conversations right now and I'd rather be in one. <strong>Tell me your best version and I'll decide by Friday.</strong>\"",
+      "example": "Anya had one job offer and no room to move. She opened a second process, then told the first recruiter she was in two. The base moved eleven thousand in four days, and nobody ever asked which company.",
+      "watchFor": "They ask when your other decision lands.",
+      "ifItFails": "They call it and hold the offer flat. Do not invent a rival — one phone call kills you. Trade instead: give up the term you care least about to win the one you care most about. Say: <strong>\"I'll sign today at the same number if you move the start date to January.\"</strong>",
+      "counter": "If someone hints at another offer, find out whether the second bidder exists.\n• Ask for the deadline of the other process, not the name.\n• Say: <strong>\"When do you have to answer them by?\"</strong>\n• A vague date means no rival. Then hold your number and wait.",
+      "insight": "A second option is worth more unused than used. Never run a fake auction on someone who can call the other side, and in a small industry everyone can. The next question is whether you can really walk if they say no."
+    },
+    {
+      "id": 15,
+      "cat": "endgame",
+      "danger": "moderate",
+      "title": "Trade Your Yes for Something That Costs Them Now",
+      "principle": "Cialdini: Commitment and Consistency — The Costly Signal",
+      "remember": "Make their first step cost money, time, or face.",
+      "hook": "Anyone can promise. <strong>Make them spend something today and watch who stays.</strong>",
+      "truth": "Words are free, so only a paid step tells you anything.\n• You ask for one small thing that costs them now, not later.\n• Real courters pay fast. Planners stall and explain.\n• Once they pay, they stay. People defend what they bought.",
+      "when": "You are ready to say yes but you still cannot tell if they are serious.",
+      "theySee": "A person who says yes in principle, then names one small, specific condition.",
+      "signals": [
+        {
+          "icon": "💸",
+          "l": "Zero spend",
+          "t": "They have never spent their own money on this."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Always later",
+          "t": "Every cost they accept starts next quarter."
+        },
+        {
+          "icon": "📝",
+          "l": "Paper shy",
+          "t": "They prefer a handshake to a one-page letter."
+        },
+        {
+          "icon": "🙋",
+          "l": "Public shy",
+          "t": "They will not say your name in front of their own people."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the cheapest costly thing",
+          "desc": "Choose a deposit, a signed one-pager, or an announcement to their team."
+        },
+        {
+          "n": "2",
+          "title": "Attach it to your yes",
+          "desc": "Say yes and name the condition in the same sentence."
+        },
+        {
+          "n": "3",
+          "title": "Set a 72-hour window",
+          "desc": "Give a short, plain deadline for their step. Then go quiet and wait."
+        }
+      ],
+      "script": "\"Yes, I'm in. <strong>Send the one-page letter with the number and the start date by Friday and I'll stop my other conversations.</strong>\"",
+      "example": "Victor told a founder he was in, on one condition: announce him to the team that week. The founder posted it in Slack on Tuesday. Two engineers messaged Victor with questions, and the role was real before any contract existed.",
+      "watchFor": "They do the small costly thing inside your window without asking for more time.",
+      "ifItFails": "They ask for more time, then ask again. Two extensions is a decision. Pull your yes back once, calmly, and put it somewhere else: <strong>\"I'm taking my yes off the table until the letter exists. Send it and we're on.\"</strong>",
+      "counter": "If someone makes their yes conditional on you spending first, they are pricing you.\n• Do not spend on a person who has spent nothing.\n• Say: <strong>\"I'll send the letter the day you tell me you're in.\"</strong>\n• Match cost for cost. Paying first alone makes you the one who begs.",
+      "insight": "A promise costs nothing, which is why people give so many. Do not demand a public announcement from someone whose board has not approved the role — you will cost them the thing you want. The real trap is that a paid step buys honesty, not safety."
+    },
+    {
+      "id": 16,
+      "cat": "endgame",
+      "danger": "high",
+      "title": "Walk Away While They Still Want You",
+      "principle": "Greene: Law 36 — Disdain What You Cannot Have",
+      "remember": "Leave at the top. Nobody chases someone they already caught.",
+      "hook": "The best day to leave is a good day. <strong>Most people wait for a bad one and leave with nothing.</strong>",
+      "truth": "Leaving is worth most while they still think they are winning.\n• You keep the terms, the references, and the open door.\n• A quiet leave on a good week costs them more than a loud one on a bad week.\n• Say less than you know. The unsaid part keeps them careful.",
+      "when": "You have read the plan and you want out while things still look good.",
+      "theySee": "A calm person who thanks them, names a last day, and explains very little.",
+      "signals": [
+        {
+          "icon": "🧭",
+          "l": "Decision made",
+          "t": "You already know the answer and you are shopping for permission."
+        },
+        {
+          "icon": "🪫",
+          "l": "Dread before contact",
+          "t": "You feel tired before every call with them."
+        },
+        {
+          "icon": "🧾",
+          "l": "Terms stopped moving",
+          "t": "Nothing they offer changes anymore."
+        },
+        {
+          "icon": "🚪",
+          "l": "Door still open",
+          "t": "They are still asking you for things, so you still have value."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Take your things first",
+          "desc": "Copy your files, contacts, and records before you say one word."
+        },
+        {
+          "n": "2",
+          "title": "Give a date, not a reason",
+          "desc": "Say you are out and name your last day. Keep the reason to one short line."
+        },
+        {
+          "n": "3",
+          "title": "Stay warm for two weeks",
+          "desc": "Be useful and pleasant on the way out. Warmth now protects your references later."
+        }
+      ],
+      "script": "\"I'm going to step out. <strong>My last day is the 30th and I'll leave everything clean.</strong> I respect what you built — this is just my call.\"",
+      "example": "Hana read the plan three months into a partnership. She exported her contacts on a Sunday and gave notice on a Tuesday after a good quarter. She stayed friendly for two weeks. Her former partner still sends her referrals.",
+      "watchFor": "They ask what it would take to keep you instead of attacking your decision.",
+      "ifItFails": "They go cold, cut your access, or tell people a version where you are the problem. Do not argue with the version. Go to the five people who matter, one at a time, with the same flat line: <strong>\"I left on my own and I'm glad I did. If you hear another story, call me and I'll tell you mine.\"</strong>",
+      "counter": "If someone leaves you while things look good, they read something.\n• Do not demand the full reason. You will not get it.\n• Say: <strong>\"Understood. Tell me one thing I should have done differently.\"</strong>\n• Take the answer without arguing. The honest version only comes once.",
+      "insight": "The exact moment leaving feels unnecessary is the moment it is cheapest. Do not do the quiet version when money or custody is on the table — get paper first, then go. The next question is who you tell first, because that order becomes the story."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 94,
+  "manifestVersion": 95,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -884,7 +884,20 @@
       "url": "playbooks/playbook-srv-finding-out-who-briefed-against-you.json",
       "addedAt": "2026-10-29T00:03:52.374Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-courted",
+      "title": "Courted",
+      "theme": "courtship",
+      "topic": "",
+      "cardCount": 16,
+      "contentVersion": 1,
+      "coverColor": "#6B1D2E",
+      "coverIcon": "🎣",
+      "url": "playbooks/playbook-srv-courted.json",
+      "addedAt": "2026-10-29T00:04:30.077Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-29T00:03:52.374Z"
+  "generatedAt": "2026-10-29T00:04:30.077Z"
 }
