@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 91,
+  "manifestVersion": 92,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -845,7 +845,20 @@
       "url": "playbooks/playbook-srv-the-compliment-that-was-an-insult.json",
       "addedAt": "2026-10-13T23:55:02.095Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-art-of-reframing-questions",
+      "title": "The Art of Reframing Questions",
+      "theme": "questions",
+      "topic": "",
+      "cardCount": 25,
+      "contentVersion": 1,
+      "coverColor": "#1F3A5F",
+      "coverIcon": "❓",
+      "url": "playbooks/playbook-srv-the-art-of-reframing-questions.json",
+      "addedAt": "2026-10-29T00:02:45.309Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-13T23:55:02.095Z"
+  "generatedAt": "2026-10-29T00:02:45.309Z"
 }

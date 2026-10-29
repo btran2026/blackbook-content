@@ -1,0 +1,1478 @@
+{
+  "meta": {
+    "id": "srv-the-art-of-reframing-questions",
+    "version": "1.0",
+    "title": "The Art of Reframing Questions",
+    "subtitle": "Whoever owns the question owns the answer.",
+    "description": "Twenty-five moves for changing the question you were asked — and spotting it when someone changes yours. Field manual voice. Scripts you can say in the next hour.",
+    "author": "AI",
+    "createdAt": "2026-10-28T23:50:10.265Z",
+    "tags": [
+      "questions",
+      "negotiation",
+      "influence",
+      "interviews",
+      "meetings",
+      "counter-manipulation"
+    ],
+    "totalCards": 25,
+    "isSeeded": true,
+    "coverColor": "#1F3A5F",
+    "coverIcon": "❓",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "frame",
+      "label": "Frame Control",
+      "color": "#3B6EA5"
+    },
+    {
+      "key": "outcome",
+      "label": "Outcome Control",
+      "color": "#B5633A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "frame",
+      "danger": "low",
+      "title": "Ask Why They Want to Know Before You Answer",
+      "principle": "Sun Tzu: Know the Enemy's Plan First",
+      "remember": "Find out what the question is for. Then answer it.",
+      "when": "A colleague asks you for a number and gives you no reason for it.",
+      "hook": "Every question is built for a job. <strong>Answer the words and you do their job, not yours.</strong>",
+      "truth": "A question is a tool. The person who made it already knows what it is for.\n• One short question back buys their reason before you spend an answer.\n• They now have to show the plan behind the question.\n• Most people answer fast because a pause feels rude. Speed is the cost.",
+      "theySee": "A calm person who pauses and asks one short question back.",
+      "signals": [
+        {
+          "icon": "📭",
+          "l": "No context",
+          "t": "They ask for a figure and give no reason for it."
+        },
+        {
+          "icon": "⚡",
+          "l": "Fast follow-up",
+          "t": "They ask the next question before you finish the first answer."
+        },
+        {
+          "icon": "✍️",
+          "l": "Selective notes",
+          "t": "They write down your number and nothing else you said."
+        },
+        {
+          "icon": "🔎",
+          "l": "Narrow ask",
+          "t": "They want one figure, not the picture around it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what it is for",
+          "desc": "Say \"What will you use it for?\" Then stop talking."
+        },
+        {
+          "n": "2",
+          "title": "Wait three seconds",
+          "desc": "Count to three in your head. Let them fill the gap."
+        },
+        {
+          "n": "3",
+          "title": "Answer the reason",
+          "desc": "Give the version that fits their stated reason, and say which reason you answered."
+        }
+      ],
+      "script": "\"Happy to send that. <strong>What are you going to use it for?</strong> I want to send you the right version.\"",
+      "example": "Dan's finance partner asked for his team headcount by Friday. Dan asked what it was for. She said budget cuts. Dan sent the headcount with three client-funded roles marked on the same page, and kept all three.",
+      "watchFor": "They give you the reason before you give any number.",
+      "ifItFails": "They say \"just curious\" or \"I'll explain later.\" Do not ask twice. Give the dullest true answer and put the real one behind a meeting: \"<strong>Under twenty, roughly. The real number depends on what you count — give me fifteen minutes and I'll walk you through it.</strong>\"",
+      "counter": "If someone asks what your question is for, they are running this on you.\n• Notice that they stopped the talk and made you go first.\n• Say: \"<strong>It's for the plan I owe Monday.</strong>\" True and boring.\n• Ask your original question again. Same words, same tone.",
+      "insight": "The reason behind a question is worth more than the answer to it. The harder part is that some people lie about the reason, and then you need the card that strips the question apart."
+    },
+    {
+      "id": 2,
+      "cat": "frame",
+      "danger": "moderate",
+      "title": "Say the Hidden Claim Out Loud Before You Answer",
+      "principle": "Complex Question Fallacy — Presupposition",
+      "remember": "A question can hide a claim. Name the claim first.",
+      "when": "Your boss asks why your team is always late, in front of other people.",
+      "hook": "Some questions smuggle a verdict inside. <strong>Answer them and you signed it.</strong>",
+      "truth": "The claim rides inside the question, so nobody votes on it.\n• Repeat the loaded word back and the claim stands alone.\n• They must now prove it or shrink it.\n• The trap is arguing it hotly. Say it flat, then ask.",
+      "theySee": "A person who repeats one word from the question and then waits.",
+      "signals": [
+        {
+          "icon": "🧨",
+          "l": "Absolute word",
+          "t": "They use always, never, or still inside the question."
+        },
+        {
+          "icon": "👥",
+          "l": "Public ask",
+          "t": "They ask it in a full room instead of in private."
+        },
+        {
+          "icon": "🪤",
+          "l": "Yes-trap",
+          "t": "Any straight answer makes you agree with the claim."
+        },
+        {
+          "icon": "🕰️",
+          "l": "No dates",
+          "t": "They will not say which week or which project."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Repeat the loaded word",
+          "desc": "Say the one word back as a question: \"Always?\" Then stop."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the list",
+          "desc": "Ask which releases they are counting. Make them name them out loud."
+        },
+        {
+          "n": "3",
+          "title": "Answer only the named ones",
+          "desc": "Give facts for the examples they named. Leave the rest alone."
+        }
+      ],
+      "script": "\"Before I answer — you said <strong>always</strong>. Which releases are you counting?\"",
+      "example": "Priya's VP asked why her team always missed dates. Priya asked which dates. He named one. Priya listed the other six that shipped on time. The word \"always\" did not come back that quarter.",
+      "watchFor": "They trade the word \"always\" for one specific example.",
+      "ifItFails": "They say \"you know what I mean\" and repeat the question. Do not repeat yours — that reads as a dodge. Accept the narrow version out loud and answer it: \"<strong>Then this is about the March release. Here is exactly what happened in March.</strong>\"",
+      "counter": "If someone makes you defend a word you never used, they are running this on you.\n• Spot the claim parked inside their question.\n• Say: \"<strong>I'll answer. First — I never said it was a pattern.</strong>\"\n• Answer the small version and call it small.",
+      "insight": "Do not do this to your boss's boss with an audience watching. You win the word and lose the room. The next question is how to make them narrow it in private instead."
+    },
+    {
+      "id": 3,
+      "cat": "frame",
+      "danger": "moderate",
+      "title": "Reject the Two Options They Gave You",
+      "principle": "False Dilemma — Forced Choice",
+      "remember": "Two choices means someone picked them for you.",
+      "when": "A client asks whether you will cut the price or cut the work.",
+      "hook": "They did not offer you a choice. <strong>They offered you a menu they wrote.</strong>",
+      "truth": "The person who writes the options wins before anyone picks.\n• Name a third option out loud and the menu is yours now.\n• They must judge your option instead of counting theirs.\n• The trap is picking the less bad one. That is still their win.",
+      "theySee": "A person who does not pick either option and puts a new one on the table.",
+      "signals": [
+        {
+          "icon": "➗",
+          "l": "Either-or",
+          "t": "They say \"either this or that\" and nothing else."
+        },
+        {
+          "icon": "⏳",
+          "l": "Clock pressure",
+          "t": "They want the pick before the end of the call."
+        },
+        {
+          "icon": "🙂",
+          "l": "Fake fairness",
+          "t": "They say they are giving you the choice."
+        },
+        {
+          "icon": "🚪",
+          "l": "Both doors lose",
+          "t": "Both options cost you something and cost them nothing."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say no to the menu",
+          "desc": "Say \"Those aren't the only two.\" Keep your voice flat."
+        },
+        {
+          "n": "2",
+          "title": "Name the third option",
+          "desc": "Give one new option in a single sentence. Do not give two."
+        },
+        {
+          "n": "3",
+          "title": "Hand the pick back",
+          "desc": "Ask which of the three they want. Then stop talking."
+        }
+      ],
+      "script": "\"Those aren't the only two. <strong>There's a third: same price, same work, two weeks later.</strong> Which of the three do you want?\"",
+      "example": "A buyer told Marcus to drop fifteen percent or drop a feature. Marcus named a third: full price, full feature, delivery pushed to April. The buyer took April and paid the full price.",
+      "watchFor": "They stop arguing their two options and start poking holes in your third.",
+      "ifItFails": "They say your option is not on the table and repeat their two. Stop choosing and make them own the cut: \"<strong>Then you pick which one, and I'll put in writing what it costs you. I'm not choosing between two cuts to my own work.</strong>\"",
+      "counter": "If someone hands you exactly two options, they built the menu.\n• Notice that both doors cost you and neither costs them.\n• Say: \"<strong>Give me a day. I'll come back with a third.</strong>\"\n• Leave the room without picking. Time is the whole prize here.",
+      "insight": "Do not run this on someone who already said this is their final offer — you spend goodwill you cannot refill. The real trap is that your third option has to be cheap for them, or it is just a no with extra words."
+    },
+    {
+      "id": 4,
+      "cat": "frame",
+      "danger": "low",
+      "title": "Trade Why for What and How",
+      "principle": "Voss: Calibrated Questions",
+      "remember": "Why makes people defend. What and how make them explain.",
+      "when": "You need to push back on a deadline without sounding like you refused it.",
+      "hook": "\"Why\" sounds like an accusation in every language. <strong>\"How\" sounds like help.</strong>",
+      "truth": "Why points at a person. What and how point at the problem.\n• Swap the first word and the same push-back stops sounding like a fight.\n• They start solving instead of defending.\n• The trap is a soft tone with a why still in it. The word does the damage.",
+      "theySee": "A teammate who asks them to walk through the plan out loud.",
+      "signals": [
+        {
+          "icon": "🛡️",
+          "l": "Defence mode",
+          "t": "They answer your why with a reason instead of a plan."
+        },
+        {
+          "icon": "🧊",
+          "l": "Tone drop",
+          "t": "Their voice cools right after you say why."
+        },
+        {
+          "icon": "🔁",
+          "l": "Same loop",
+          "t": "You ask why twice and get the same sentence back."
+        },
+        {
+          "icon": "🤐",
+          "l": "Short replies",
+          "t": "Their answers get shorter each time you ask."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Delete every why",
+          "desc": "Read your next message and cut the word why from each question."
+        },
+        {
+          "n": "2",
+          "title": "Start with how or what",
+          "desc": "Write \"How am I supposed to…\" or \"What would you drop…\" instead."
+        },
+        {
+          "n": "3",
+          "title": "Say it once and wait",
+          "desc": "Ask the one question. Do not add a second. Let the silence sit."
+        }
+      ],
+      "script": "\"<strong>How am I supposed to hit the fifteenth with two people?</strong> Walk me through what you'd drop.\"",
+      "example": "Leah's director set a date she could not hit. She did not ask why. She asked how she was supposed to do it with two people. He talked for ninety seconds, then moved the date himself.",
+      "watchFor": "They start listing what they would cut instead of defending the date.",
+      "ifItFails": "They answer \"figure it out\" and end the thread. Put the choice in writing with their name on it: \"<strong>To hit the fifteenth I'll drop the audit work. Tell me by Thursday if you want a different trade.</strong>\"",
+      "counter": "If someone keeps asking you how, they are moving the work onto you.\n• Notice you are now listing options for their problem.\n• Say: \"<strong>Before I plan it — is the date fixed or is it a target?</strong>\"\n• Answer only after they tell you which one it is.",
+      "insight": "The same sentence with a different first word gets a different person back. The harder part is holding your face still for the four seconds after you ask."
+    },
+    {
+      "id": 5,
+      "cat": "frame",
+      "danger": "low",
+      "title": "Repeat the Question Back With One Word Changed",
+      "principle": "Voss: Mirror — Repeat and Edit",
+      "remember": "Say their question back, swap one word, let them agree.",
+      "when": "Someone asks if you can get it done by Friday and you want the real question on the table.",
+      "hook": "People rarely fight their own sentence. <strong>So hand it back with your word inside it.</strong>",
+      "truth": "A repeated question sounds like listening, not editing.\n• You change one word, and most people nod it through.\n• The question they now have to answer is yours.\n• The trap is changing two words. Two gets noticed. One does not.",
+      "theySee": "A person who repeats their question back almost exactly and waits for a nod.",
+      "signals": [
+        {
+          "icon": "🪞",
+          "l": "They nod",
+          "t": "They nod at your version before they think about it."
+        },
+        {
+          "icon": "📝",
+          "l": "Loose word",
+          "t": "Their question has one vague word doing all the work."
+        },
+        {
+          "icon": "🏃",
+          "l": "Rushed ask",
+          "t": "They ask quickly and look at the clock."
+        },
+        {
+          "icon": "🔊",
+          "l": "They repeat it",
+          "t": "They say your version back to a third person later."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the loose word",
+          "desc": "Spot the one word in their question nobody has defined: done, soon, fixed."
+        },
+        {
+          "n": "2",
+          "title": "Say it back with your word",
+          "desc": "Repeat the question almost exactly, with your word in that slot."
+        },
+        {
+          "n": "3",
+          "title": "Stop and let them agree",
+          "desc": "Say nothing after. The nod is the handover."
+        }
+      ],
+      "script": "\"So the question is whether it's <strong>done</strong> by Friday — or whether it's <strong>in review</strong> by Friday?\"",
+      "example": "A partner asked Omar if the site would be live Friday. Omar asked back whether live meant open to staff or open to customers. The partner said staff. Omar shipped to staff Friday and to customers the next week, on time both times.",
+      "watchFor": "They answer using your word instead of theirs.",
+      "ifItFails": "They catch the swap and say \"no, I meant done.\" Take the hard version and price it out loud: \"<strong>Then done by Friday means no security review. I can do that if you say so in writing.</strong>\"",
+      "counter": "If someone repeats your question back slightly changed, check the change.\n• Listen for the one word that moved.\n• Say: \"<strong>Close — but I said live to customers, not to staff.</strong>\"\n• Repeat your original word twice in the next minute so it sticks.",
+      "insight": "One changed word moves a deadline more quietly than any argument. This works until they start writing their questions down — then you need the card about written questions."
+    },
+    {
+      "id": 6,
+      "cat": "frame",
+      "danger": "moderate",
+      "title": "Make Them Define the Word They Keep Using",
+      "principle": "Schopenhauer: Art of Controversy — Dispute the Definition",
+      "remember": "Ask for one real example of the word they used.",
+      "when": "Your manager says your work is not strategic enough and asks how you will fix it.",
+      "hook": "Vague words are cheap to throw and expensive to answer. <strong>Make them pay for the word.</strong>",
+      "truth": "A fuzzy word lets them move the target after you shoot.\n• Ask for one concrete example and the word has to hold still.\n• They either give you a real target or show there is none.\n• The trap is guessing what they meant and working for weeks on a guess.",
+      "theySee": "A person who asks for one example and does not argue with the word.",
+      "signals": [
+        {
+          "icon": "☁️",
+          "l": "Fuzzy word",
+          "t": "They use strategic, senior, or polish with no example."
+        },
+        {
+          "icon": "🎯",
+          "l": "Moving target",
+          "t": "Your last fix got a new word instead of a yes."
+        },
+        {
+          "icon": "🙃",
+          "l": "Reversed ask",
+          "t": "They ask how you will fix something they never defined."
+        },
+        {
+          "icon": "📄",
+          "l": "No written standard",
+          "t": "Nobody can point to a document that defines the word."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Agree with the goal",
+          "desc": "Say you want to fix the right thing. One sentence, no argument."
+        },
+        {
+          "n": "2",
+          "title": "Ask for one example",
+          "desc": "Ask for one piece of work from this team that hits the word."
+        },
+        {
+          "n": "3",
+          "title": "Write the example down",
+          "desc": "Repeat it back and send it in a note the same day."
+        }
+      ],
+      "script": "\"I want to fix the right thing. <strong>Give me one example of strategic work from this team this year.</strong>\"",
+      "example": "Nina's director kept calling her memos not strategic. She asked for one example that was. He named a two-page pricing memo from March. Nina copied its shape, and the next review said strategic without her saying the word once.",
+      "watchFor": "They go quiet, then name a real document or a real person.",
+      "ifItFails": "They say \"you'll know it when you see it.\" Make the definition yourself and send it: \"<strong>Here's my read of strategic for this team: ties to revenue, names a decision, under two pages. Correct me by Friday and I'll use yours.</strong>\"",
+      "counter": "If someone asks you to define a word you used, they are pinning you.\n• Notice that the talk stopped moving until you answer.\n• Give one real example fast: \"<strong>Like the March pricing memo.</strong>\"\n• A vague answer here tells the whole room you had nothing.",
+      "insight": "Do not run this twice in one meeting on someone who writes your review — the second ask reads as a challenge, not a question. The next problem is that once the word is defined, you have to hit it."
+    },
+    {
+      "id": 7,
+      "cat": "frame",
+      "danger": "low",
+      "title": "Ask Compared to What",
+      "principle": "Tversky & Kahneman: Anchoring",
+      "remember": "High and low mean nothing until you ask against what.",
+      "when": "Someone says your number is too high and asks you to justify it.",
+      "hook": "\"Too expensive\" is half a sentence. <strong>Ask for the other half.</strong>",
+      "truth": "Every judgement hides a comparison the speaker never showed you.\n• Ask what they compared you to and the hidden number comes out.\n• Now you argue about their number, not yours.\n• The trap is defending your price. That tells them the price can move.",
+      "theySee": "A person who does not defend the number and asks one question instead.",
+      "signals": [
+        {
+          "icon": "📊",
+          "l": "Bare judgement",
+          "t": "They say too high, too slow, or too much with no second number."
+        },
+        {
+          "icon": "🫥",
+          "l": "Hidden quote",
+          "t": "They mention another option but will not name it."
+        },
+        {
+          "icon": "😬",
+          "l": "Quick flinch",
+          "t": "They flinch at the number before they have read the scope."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat pressure",
+          "t": "They say it twice, hoping you move first."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask the comparison",
+          "desc": "Say \"Too high compared to what?\" Then stop."
+        },
+        {
+          "n": "2",
+          "title": "Ask to see it",
+          "desc": "Ask them to send the other quote or the old invoice."
+        },
+        {
+          "n": "3",
+          "title": "Name what is missing",
+          "desc": "Point at the two things their comparison does not include."
+        }
+      ],
+      "script": "\"Too high compared to what? <strong>Send me the other quote and I'll tell you what's not in it.</strong>\"",
+      "example": "A client told Rosa her bid was way over budget. Rosa asked compared to what. He sent a cheaper quote with no testing line. Rosa priced testing separately, and he approved her original bid that week.",
+      "watchFor": "They name a number, a competitor, or last year's invoice out loud.",
+      "ifItFails": "They say they cannot share the other quote. Stop asking for it and set your own baseline: \"<strong>Then compare it to doing nothing. That's four more months of the same support costs — here's the math.</strong>\"",
+      "counter": "If someone asks you compared to what, they want your reference point.\n• Notice you are about to hand them your real ceiling.\n• Say: \"<strong>Compared to what this is worth to us, not to another vendor.</strong>\"\n• Keep your other quotes out of the room until you want them used.",
+      "insight": "Nobody judges a number alone. They judge it against something, and that something is usually invented. The harder part is when their comparison is real and better than yours."
+    },
+    {
+      "id": 8,
+      "cat": "frame",
+      "danger": "low",
+      "title": "Answer the Question Behind the Question",
+      "principle": "Voss: Tactical Empathy — The Real Question",
+      "remember": "People ask small questions when the big one scares them.",
+      "when": "Your client asks a tiny technical question that has nothing to do with the deal.",
+      "hook": "The detail question is a scout. <strong>The real one is standing behind it.</strong>",
+      "truth": "People test the water with a safe question first.\n• Answer the small one briefly, then name the worry underneath.\n• They stop testing and tell you what actually blocks them.\n• The trap is a long perfect answer to the scout question. You win nothing.",
+      "theySee": "A person who answers fast, then says the thing they were afraid to ask.",
+      "signals": [
+        {
+          "icon": "🔬",
+          "l": "Odd detail",
+          "t": "They ask about a small feature nobody uses."
+        },
+        {
+          "icon": "🔁",
+          "l": "Circling",
+          "t": "They come back to the same area from three angles."
+        },
+        {
+          "icon": "🫤",
+          "l": "Flat thanks",
+          "t": "They say thanks after your answer but do not move on."
+        },
+        {
+          "icon": "👤",
+          "l": "Third party",
+          "t": "They mention a boss or a team that has to be convinced."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Answer in one sentence",
+          "desc": "Give the small answer fast. Do not teach a class."
+        },
+        {
+          "n": "2",
+          "title": "Name the real worry",
+          "desc": "Say what you think they are actually asking. Keep it to one line."
+        },
+        {
+          "n": "3",
+          "title": "Check your read",
+          "desc": "Ask \"Am I close?\" and wait for them to correct you."
+        }
+      ],
+      "script": "\"Short answer: yes, it handles that. But I think the real question is <strong>whether this breaks on launch day and who picks up the phone.</strong> Am I close?\"",
+      "example": "A buyer kept asking Tom about export file formats. Tom answered, then said the real worry sounded like being blamed if the migration failed. The buyer exhaled and said yes. They spent the rest of the call on a rollback plan and signed two weeks later.",
+      "watchFor": "They stop asking detail questions and start describing their situation.",
+      "ifItFails": "They say \"no, I just wanted the file formats.\" Drop it and leave a door open once: \"<strong>Fair enough. If the launch-day question comes up with your team, call me and I'll put the rollback plan in writing.</strong>\"",
+      "counter": "If someone answers a question you did not ask, they read you.\n• Notice they moved past your words to your worry.\n• Say: \"<strong>That's part of it. The part you missed is the timeline.</strong>\"\n• Keep one real worry to yourself. It is the last thing you own in the room.",
+      "insight": "Detail questions are rarely about details. The harder part is guessing wrong out loud, which makes you look like you were not listening at all."
+    },
+    {
+      "id": 9,
+      "cat": "frame",
+      "danger": "moderate",
+      "title": "Refuse the Hypothetical and Name the Real Question",
+      "principle": "Schelling: Avoid Early Commitment",
+      "remember": "Do not price a job nobody has offered you.",
+      "when": "A recruiter asks what number you would accept if they offered you the job today.",
+      "hook": "The \"what if\" is free for them and binding for you. <strong>Say the real question instead.</strong>",
+      "truth": "A hypothetical costs them nothing and locks you to a number.\n• Refuse it in one line and the pretend offer has to become a real one.\n• Now they must spend first.\n• The trap is answering with a range. They heard only the bottom of it.",
+      "theySee": "A person who does not give a number and names the next step instead.",
+      "signals": [
+        {
+          "icon": "🎣",
+          "l": "Pretend offer",
+          "t": "They say if we offered or say hypothetically."
+        },
+        {
+          "icon": "🔢",
+          "l": "Number pull",
+          "t": "They want a figure before any paper exists."
+        },
+        {
+          "icon": "🪜",
+          "l": "Ladder questions",
+          "t": "Each question climbs toward your real walk-away number."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Today framing",
+          "t": "They attach today or right now to a fake offer."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say no to the hypothetical",
+          "desc": "Say you do not price jobs that have not been offered. One line."
+        },
+        {
+          "n": "2",
+          "title": "Name the real question",
+          "desc": "Say what the real question is: send the offer, get an answer."
+        },
+        {
+          "n": "3",
+          "title": "Give them a deadline you own",
+          "desc": "Promise a fast yes or no once paper arrives. Speed is your gift, not your number."
+        }
+      ],
+      "script": "\"I don't price jobs I haven't been offered. <strong>Send the offer and I'll give you a straight yes or no inside a day.</strong>\"",
+      "example": "A recruiter pushed Aisha for her number on a first call. She said she does not price jobs that have not been offered. He sent a written range two days later, eleven percent above the band she would have said out loud.",
+      "watchFor": "They stop asking for your number and ask when they can send paper.",
+      "ifItFails": "They say they cannot move without a number. Give the market, not yourself: \"<strong>Then use the public band for this level — the midpoint works. If your offer lands there, we're talking.</strong>\"",
+      "counter": "If someone refuses your hypothetical, they know the game.\n• Notice they will not say any number first.\n• Say: \"<strong>Fair. Here's our band — tell me if it's worth a conversation.</strong>\"\n• Whoever speaks the first number sets the room. Decide if you want that.",
+      "insight": "Do not use this on a hiring manager who already made you an offer — refusing then reads as a game. The next question is what you do when they send a real number that is insulting."
+    },
+    {
+      "id": 10,
+      "cat": "frame",
+      "danger": "low",
+      "title": "Ask Your Question First",
+      "principle": "Primacy — Agenda Control",
+      "remember": "The first question in the room decides what the room is about.",
+      "when": "You walk into a review where they plan to ask why the number slipped.",
+      "hook": "Meetings do not have agendas. <strong>They have whoever spoke first.</strong>",
+      "truth": "The first question sets what counts as a good hour.\n• Ask yours before they open and the meeting judges itself by your line.\n• They answer you, so they are now on the back foot, politely.\n• The trap is a long opening. One question only, then silence.",
+      "theySee": "A person who opens the meeting with a short question and then listens.",
+      "signals": [
+        {
+          "icon": "📋",
+          "l": "No agenda",
+          "t": "The invite has a title and no agenda."
+        },
+        {
+          "icon": "🧯",
+          "l": "Hostile cast",
+          "t": "The people invited only matter if something went wrong."
+        },
+        {
+          "icon": "🕐",
+          "l": "Short slot",
+          "t": "They booked thirty minutes for a topic that needs an hour."
+        },
+        {
+          "icon": "🤐",
+          "l": "Quiet start",
+          "t": "Nobody speaks for the first five seconds of the call."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write one question the night before",
+          "desc": "One sentence that makes the meeting about the fix, not the blame."
+        },
+        {
+          "n": "2",
+          "title": "Say it in the first ten seconds",
+          "desc": "Open with it before anyone else starts. Do not explain it."
+        },
+        {
+          "n": "3",
+          "title": "Write their answer down visibly",
+          "desc": "Type it where they can see, and repeat it back at the end."
+        }
+      ],
+      "script": "\"Before we start — <strong>what has to be true at the end of this hour for you to call it time well spent?</strong>\"",
+      "example": "Carlos knew the quarterly review was set up to hang the miss on him. He opened by asking what a good outcome looked like for the room. The VP said a credible plan for Q3. Nobody asked about Q2 after minute four.",
+      "watchFor": "They answer your question before they ask theirs.",
+      "ifItFails": "They say \"we'll get to that — first, what happened?\" Answer it in three sentences and hand the room back: \"<strong>That's what happened. Now, what does a good plan need to have in it for you to sign it?</strong>\"",
+      "counter": "If someone opens with a question about what good looks like, they are steering.\n• Notice you are now describing their meeting, not yours.\n• Say: \"<strong>Good question — let's answer it after the first item.</strong>\"\n• Say your own first item out loud before they say another word.",
+      "insight": "Agendas get written by whoever speaks first, not by whoever sent the invite. This works until someone senior opens before you — then you need a question that survives being second."
+    },
+    {
+      "id": 11,
+      "cat": "frame",
+      "danger": "moderate",
+      "title": "Say Out Loud What Kind of Question It Is",
+      "principle": "Goffman: Frame Analysis — Name the Frame",
+      "remember": "Name the question type and the hidden one comes out.",
+      "when": "Someone asks a timeline question that is really about money.",
+      "hook": "Questions wear costumes. <strong>Pull one off in public and the room watches it happen.</strong>",
+      "truth": "A question that pretends to be about something else cannot be answered honestly.\n• Say what it is really about and the costume stops working.\n• They either admit the real topic or drop the question.\n• The trap is sounding smug. Say it like a weather report.",
+      "theySee": "A person who names the real topic in plain words and offers to do that one first.",
+      "signals": [
+        {
+          "icon": "🎭",
+          "l": "Wrong topic",
+          "t": "The question is about dates but every follow-up is about cost."
+        },
+        {
+          "icon": "🧮",
+          "l": "Numbers creep in",
+          "t": "They ask for a timeline and then ask what it costs per week."
+        },
+        {
+          "icon": "👔",
+          "l": "Borrowed words",
+          "t": "They use a phrase that came straight from the finance team."
+        },
+        {
+          "icon": "🔂",
+          "l": "Repeat angle",
+          "t": "They ask the same money question three different ways."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the real topic",
+          "desc": "Say which question it actually is: budget, blame, or headcount."
+        },
+        {
+          "n": "2",
+          "title": "Offer to take it first",
+          "desc": "Ask if they want to do the real question now. Sound helpful, not clever."
+        },
+        {
+          "n": "3",
+          "title": "Answer the real one",
+          "desc": "Give the honest answer to the real question. Do not go back to the costume."
+        }
+      ],
+      "script": "\"That's a <strong>budget question wearing a timeline costume.</strong> Want to do the budget one first? I've got the numbers here.\"",
+      "example": "A director kept asking Ruth when the project would finish. Ruth said it sounded like a budget question. He paused, laughed, and said finance had cut his line. They spent twenty minutes on money and the date stopped being an issue.",
+      "watchFor": "They laugh or pause, then say the real topic out loud.",
+      "ifItFails": "They deny it and repeat the timeline question. Do not name it twice. Answer the surface question and attach the price: \"<strong>Mid-June. And at mid-June the spend is 240k — tell me if that's the part that matters.</strong>\"",
+      "counter": "If someone names the type of question you asked, they are taking the wheel.\n• Notice the talk is now about your motive, not your question.\n• Say: \"<strong>It's a timeline question. Budget is the next one.</strong>\"\n• Ask your original question again before they change the subject.",
+      "insight": "Do not use this on someone who is hiding their question from their own boss — you expose them in front of the people they are managing. The move after this is pricing the real question before they recover."
+    },
+    {
+      "id": 12,
+      "cat": "frame",
+      "danger": "moderate",
+      "title": "Answer One Question When They Asked Three",
+      "principle": "Media Training: Answer, Bridge, Message",
+      "remember": "Three questions at once means you pick one. Say which.",
+      "when": "A board member fires three questions at you in one breath.",
+      "hook": "A stack of questions is a mess. <strong>Whoever sorts the mess owns the answer.</strong>",
+      "truth": "Nobody can hold three questions in their head, including the asker.\n• Say there were three, take the hardest one, and the other two shrink.\n• You look honest for choosing the hard one, not evasive.\n• The trap is answering all three badly. One good answer beats three weak ones.",
+      "theySee": "A person who counts the questions out loud and takes the worst one first.",
+      "signals": [
+        {
+          "icon": "🧺",
+          "l": "Question pile",
+          "t": "They ask three things without taking a breath."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Talking fast",
+          "t": "Their speed goes up when the topic is risky."
+        },
+        {
+          "icon": "🙄",
+          "l": "Buried hard one",
+          "t": "The hardest question sits in the middle where it is easy to skip."
+        },
+        {
+          "icon": "👀",
+          "l": "Room watching",
+          "t": "Other people look at you, not at them."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count them out loud",
+          "desc": "Say \"Three things there.\" It buys two seconds and sorts the room."
+        },
+        {
+          "n": "2",
+          "title": "Take the hardest first",
+          "desc": "Name the ugliest one and answer it straight in two sentences."
+        },
+        {
+          "n": "3",
+          "title": "Offer the other two",
+          "desc": "Say you will take the others now or after. Let them choose."
+        }
+      ],
+      "script": "\"Three things there. <strong>I'll take the hardest one first: yes, we missed the date.</strong> Here's what changed and what it costs. Want the other two now or after?\"",
+      "example": "A board member hit Sofia with three questions about a slipped launch. She counted them, took the miss head on, and gave the new date. He nodded and never came back to the other two.",
+      "watchFor": "They nod and let the other two questions go.",
+      "ifItFails": "They say \"answer all three.\" Do it in order and keep each to two sentences: \"<strong>One: we missed it. Two: the cost is 60k. Three: the new date is June ninth, and I'll send it in writing today.</strong>\"",
+      "counter": "If someone answers one of your three questions, you lost two.\n• Notice which one they skipped. That is the live one.\n• Say: \"<strong>Good. Now the second one — the number.</strong>\"\n• Ask one question at a time from here on. Stacks are a gift to them.",
+      "insight": "Do not use this to skip the question everyone is actually waiting for — the room notices and you lose the next three meetings. The real skill is picking the hard one on purpose."
+    },
+    {
+      "id": 13,
+      "cat": "frame",
+      "danger": "high",
+      "title": "When They Ask the Same Question Three Times",
+      "principle": "Reid Technique: Repetition Pressure",
+      "remember": "Repetition is pressure, not confusion. Your answer does not change.",
+      "when": "An investigator or HR partner asks the same question a third time in different words.",
+      "hook": "They are not confused. <strong>They are waiting for your story to move.</strong>",
+      "truth": "Trained questioners repeat because tired people add details to fill silence.\n• Name the repetition out loud and the technique stops being invisible.\n• They must now say what they want or move on.\n• The trap is adding color on try three. New details become the new story.",
+      "theySee": "A person who gives the same short answer a third time and then asks what they want.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Same question",
+          "t": "They ask the same thing with different words each time."
+        },
+        {
+          "icon": "📄",
+          "l": "Note gap",
+          "t": "They stop writing when your answer stays the same."
+        },
+        {
+          "icon": "🤫",
+          "l": "Long silence",
+          "t": "They go quiet after your answer and look at you."
+        },
+        {
+          "icon": "🧩",
+          "l": "Detail hunting",
+          "t": "They pick at one small detail and ask you to say more about it."
+        },
+        {
+          "icon": "😊",
+          "l": "Warm shift",
+          "t": "They get friendlier right before the third ask."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Give the same words",
+          "desc": "Repeat your answer in the same sentence you used the first time."
+        },
+        {
+          "n": "2",
+          "title": "Name the count",
+          "desc": "Say that is the third time you have been asked. No anger."
+        },
+        {
+          "n": "3",
+          "title": "Hand it back",
+          "desc": "Ask what they are hoping you will add. Then stop talking."
+        }
+      ],
+      "script": "\"That's the third time. <strong>My answer is the same and it won't change. What are you hoping I'll add?</strong>\"",
+      "example": "HR asked Victor the same question about a Slack message three ways in one hour. On the third, he gave the identical sentence and asked what they wanted him to add. They moved to the next topic and his written statement never changed.",
+      "watchFor": "They stop repeating and move to a different topic.",
+      "ifItFails": "They say they just want to be sure and ask again. Stop answering live and move it to writing: \"<strong>Send me the question in writing and I'll answer it in writing today.</strong>\" Then end the meeting politely and stand up.",
+      "counter": "If someone counts your repeats back at you, they have been trained.\n• Notice they named the technique instead of answering.\n• Say: \"<strong>Fair. Last version: what time did you leave?</strong>\"\n• Ask one clean question and accept the answer, or you lose the whole room.",
+      "insight": "Do not run this on a police investigator without a lawyer sitting next to you — naming the method in that room buys you nothing and costs you tone. The harder question is whether you should be answering at all."
+    },
+    {
+      "id": 14,
+      "cat": "outcome",
+      "danger": "low",
+      "title": "Ask What Would Have to Be True",
+      "principle": "Roger Martin: What Would Have to Be True",
+      "remember": "Stop asking who is right. Ask what would make them right.",
+      "when": "A group argues in circles about two options and nobody will decide.",
+      "hook": "Nobody changes their mind in an argument. <strong>They will happily list conditions.</strong>",
+      "truth": "People defend positions and cooperate on conditions.\n• Ask what would make the other option obvious and the fight becomes a list.\n• They build a test instead of a wall.\n• The trap is asking it as a gotcha. Ask about your own option too.",
+      "theySee": "A person who asks them to describe the world where their rival's plan wins.",
+      "signals": [
+        {
+          "icon": "🔄",
+          "l": "Same loop",
+          "t": "The same two arguments come back for the third round."
+        },
+        {
+          "icon": "😤",
+          "l": "Heat rising",
+          "t": "Voices go up and no new facts arrive."
+        },
+        {
+          "icon": "⏰",
+          "l": "Clock gone",
+          "t": "Half the meeting is gone and no decision exists."
+        },
+        {
+          "icon": "🧱",
+          "l": "Position language",
+          "t": "People say my plan and your plan instead of the options."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Stop the right-or-wrong talk",
+          "desc": "Say you want to try a different question for five minutes."
+        },
+        {
+          "n": "2",
+          "title": "Ask the condition question",
+          "desc": "Ask what would have to be true for option B to be obvious."
+        },
+        {
+          "n": "3",
+          "title": "Write the list and test one",
+          "desc": "Capture every condition, then pick the cheapest one to check this week."
+        }
+      ],
+      "script": "\"Let's drop which one's right. <strong>What would have to be true for option B to be the obvious choice?</strong> I'll do mine after.\"",
+      "example": "Two leads fought over build versus buy for three meetings. Ira asked what would have to be true for buy to win. The list had one item nobody had checked: a data export. The export existed. They bought it that month.",
+      "watchFor": "They start listing conditions instead of defending their side.",
+      "ifItFails": "They say both lists are impossible. Make the cost of no decision visible: \"<strong>Then we're choosing to wait, and waiting costs us 30k a month. Who signs off on that?</strong>\"",
+      "counter": "If someone asks you what would have to be true, they are converting your opinion to a test.\n• Notice that your position just became a checklist.\n• Say: \"<strong>Happy to list mine — list yours first.</strong>\"\n• Keep one condition that is genuinely hard, or the test is rigged against you.",
+      "insight": "An argument you cannot win becomes a list you can check. The harder part is when the conditions turn out to be true and the plan you hated is the right one."
+    },
+    {
+      "id": 15,
+      "cat": "outcome",
+      "danger": "low",
+      "title": "Turn Is It Possible Into What Would Make It Possible",
+      "principle": "de Bono: Movement Instead of Judgment",
+      "remember": "Do not accept no. Ask what would change the no.",
+      "when": "You ask for something and they answer that it is not possible.",
+      "hook": "\"Not possible\" is a door with no handle. <strong>Ask them where the handle is.</strong>",
+      "truth": "Most noes are policy, not physics.\n• Ask what would have to change and they describe the real limit.\n• The answer is usually a person, a date, or a form.\n• The trap is arguing it is possible. They dig in and the door seals.",
+      "theySee": "A person who accepts the no calmly and asks one follow-up question.",
+      "signals": [
+        {
+          "icon": "🚫",
+          "l": "Flat no",
+          "t": "They say not possible without naming a rule or a person."
+        },
+        {
+          "icon": "📜",
+          "l": "Policy voice",
+          "t": "They quote a policy but cannot say who wrote it."
+        },
+        {
+          "icon": "🙇",
+          "l": "Apology tone",
+          "t": "They say sorry, which usually means it is not their call."
+        },
+        {
+          "icon": "🕳️",
+          "l": "No reason",
+          "t": "They give no reason and change the subject quickly."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Accept the no out loud",
+          "desc": "Say \"Understood.\" Do not argue with the word possible."
+        },
+        {
+          "n": "2",
+          "title": "Ask for one change",
+          "desc": "Ask what one thing would have to change for it to be possible."
+        },
+        {
+          "n": "3",
+          "title": "Go get that one thing",
+          "desc": "If they name a person or a form, get it the same day and come back."
+        }
+      ],
+      "script": "\"Understood. <strong>What would have to change for it to be possible?</strong> Name one thing.\"",
+      "example": "A hotel clerk told Jess the suite could not be moved. Jess asked what would make it possible. He said a manager code. She asked for the manager, got the code, and moved rooms in eleven minutes.",
+      "watchFor": "They name a person, a rule number, or a date out loud.",
+      "ifItFails": "They say nothing would change it. Ask for the author of the no: \"<strong>Then who wrote that rule? I'd like to ask them directly, and I'll tell them you said no first.</strong>\"",
+      "counter": "If someone asks what would make your no possible, they are hunting for the real limit.\n• Notice they accepted the no and kept walking.\n• Say: \"<strong>Nothing I control. It's a signed contract term.</strong>\"\n• Name a hard limit or they will keep finding softer ones.",
+      "insight": "Most noes are a person who does not want to ask their boss. The harder part is that once they tell you what would change it, you have to go do that thing."
+    },
+    {
+      "id": 16,
+      "cat": "outcome",
+      "danger": "moderate",
+      "title": "Replace Whose Fault With What Changes Monday",
+      "principle": "Deming: Blame the System, Not the Person",
+      "remember": "Who broke it is a dead end. What changes Monday is a plan.",
+      "when": "A post-mortem turns into a hunt for who broke the build.",
+      "hook": "A blame hunt feels like progress and fixes nothing. <strong>Move the clock forward one week.</strong>",
+      "truth": "Blame questions make everyone protect themselves and hide facts.\n• Ask what changes Monday and people stop guarding and start naming causes.\n• The quiet person with the real answer finally speaks.\n• The trap is doing this to shield yourself. The room smells it instantly.",
+      "theySee": "A person who stops the blame talk and asks for one change by a date.",
+      "signals": [
+        {
+          "icon": "🫣",
+          "l": "People shrink",
+          "t": "The person closest to the failure stops talking."
+        },
+        {
+          "icon": "🔙",
+          "l": "Backwards talk",
+          "t": "Everything said is about last week, nothing about next week."
+        },
+        {
+          "icon": "🎙️",
+          "l": "One voice",
+          "t": "The loudest person is running the whole review."
+        },
+        {
+          "icon": "📉",
+          "l": "No actions",
+          "t": "Thirty minutes gone and the action list is empty."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the fault question is closed",
+          "desc": "Say you already know enough about who. Keep it short and flat."
+        },
+        {
+          "n": "2",
+          "title": "Ask the Monday question",
+          "desc": "Ask what has to be different by Monday so this cannot repeat."
+        },
+        {
+          "n": "3",
+          "title": "Assign one name and one date",
+          "desc": "Write one change, one owner, one date before the meeting ends."
+        }
+      ],
+      "script": "\"We know who touched it. <strong>What has to be different by Monday so it can't happen again?</strong> One change, one owner.\"",
+      "example": "A deploy broke production and the review turned into a hunt for the engineer. Priyanka asked what changes Monday. A junior said there was no staging check. They added one that week and the same failure never returned.",
+      "watchFor": "Someone who had gone quiet names a real cause out loud.",
+      "ifItFails": "The senior person insists on naming the person first. Give them the name and take the room back immediately: \"<strong>It was my change. Now — the check that would have caught it doesn't exist. Who builds it by Monday?</strong>\"",
+      "counter": "If someone moves a blame question to a fix question, check who it protects.\n• Notice whether the person steering also caused the failure.\n• Say: \"<strong>We'll take the fix. First, one sentence on what happened.</strong>\"\n• Get the cause on record, then move on. Both, in that order.",
+      "insight": "Do not run this when you are the one who broke it and nobody knows yet — say your name first or the move reads as a cover. The next problem is making Monday actually arrive."
+    },
+    {
+      "id": 17,
+      "cat": "outcome",
+      "danger": "moderate",
+      "title": "Turn How Much It Costs Into What It Is Worth",
+      "principle": "Loss Aversion — Price Against the Cost of Waiting",
+      "remember": "Before you say your price, make them say their pain.",
+      "when": "A buyer asks for your price before you know what their problem costs them.",
+      "hook": "A price with no problem next to it is just a big number. <strong>Put the problem next to it first.</strong>",
+      "truth": "Price feels huge in an empty room and small beside a bleeding cost.\n• Ask what the problem costs per month and they say the number themselves.\n• Your price now sits against theirs, not against zero.\n• The trap is refusing to give a price. Give it, after their number.",
+      "theySee": "A person who promises the number and asks one question before giving it.",
+      "signals": [
+        {
+          "icon": "💸",
+          "l": "Price first",
+          "t": "They ask for the price before they describe the problem."
+        },
+        {
+          "icon": "📄",
+          "l": "Comparison sheet",
+          "t": "They have a spreadsheet of vendors open on the call."
+        },
+        {
+          "icon": "⏳",
+          "l": "Long problem",
+          "t": "They mention the problem has been there for months."
+        },
+        {
+          "icon": "🙋",
+          "l": "Not the owner",
+          "t": "They ask for a number to take to someone else."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Promise the number",
+          "desc": "Say you will give the price. Do not stall or dodge."
+        },
+        {
+          "n": "2",
+          "title": "Ask the cost of waiting",
+          "desc": "Ask what one more month of the problem costs them."
+        },
+        {
+          "n": "3",
+          "title": "Say your price next to theirs",
+          "desc": "Give your number in the same breath as their monthly cost."
+        }
+      ],
+      "script": "\"I'll give you the number. First — <strong>what does one more month of this cost you?</strong>\"",
+      "example": "A buyer pushed Elena for a price on the first call. She said she would give it, then asked what the manual process cost per month. He said about 40k. Her 90k project read as a two-month payback and closed in three weeks.",
+      "watchFor": "They say a monthly number out loud before you say yours.",
+      "ifItFails": "They say they do not know the cost. Build it with them in thirty seconds: \"<strong>Rough it with me — how many hours a week, at what rate? Call it 6k a month. My number is 90k. That's fifteen months.</strong>\"",
+      "counter": "If someone asks what the problem costs you before quoting, they are sizing you.\n• Notice your answer sets their ceiling, not your budget.\n• Say: \"<strong>Enough to fix it. What's your standard price for this scope?</strong>\"\n• Give a range for the pain, never a precise figure.",
+      "insight": "Do not use this when they have already seen your price list — the question reads as a stall and costs trust. The harder part is when the real cost of their problem is smaller than your price."
+    },
+    {
+      "id": 18,
+      "cat": "outcome",
+      "danger": "moderate",
+      "title": "Change Whether to By When",
+      "principle": "Schelling: Commitment Through Deadlines",
+      "remember": "Stop asking for a yes. Ask for the date they decide.",
+      "when": "Your request has been under consideration for three weeks.",
+      "hook": "A maybe costs them nothing forever. <strong>A date costs them on a Tuesday.</strong>",
+      "truth": "People avoid saying no because no is a confrontation, so they stall.\n• Ask only for a decision date and they can give it without committing.\n• Once the date exists, silence becomes a broken promise.\n• The trap is asking for a yes again. That restarts the stall.",
+      "theySee": "A person who stops pushing for a yes and asks for one date.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Soft words",
+          "t": "They say soon, probably, and let me check."
+        },
+        {
+          "icon": "📆",
+          "l": "No date",
+          "t": "Three weeks have passed and no date exists anywhere."
+        },
+        {
+          "icon": "📩",
+          "l": "Short replies",
+          "t": "Their replies get shorter each time you follow up."
+        },
+        {
+          "icon": "🔁",
+          "l": "Same update",
+          "t": "The update this week is identical to last week's."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Drop the yes",
+          "desc": "Say out loud you are not asking for a yes today."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the decision date",
+          "desc": "Ask what date they will decide. One date, not a window."
+        },
+        {
+          "n": "3",
+          "title": "Promise to go quiet",
+          "desc": "Say you will stop following up until that date. Then actually stop."
+        }
+      ],
+      "script": "\"I'm not asking for a yes today. <strong>I'm asking what date you'll decide.</strong> Give me one and I'll stop chasing until then.\"",
+      "example": "Sam's budget request sat for a month. He stopped asking for approval and asked for a decision date. His director said the eleventh. On the eleventh Sam sent one line and got the approval that afternoon.",
+      "watchFor": "They put a specific date in writing or in the calendar.",
+      "ifItFails": "They give a date and miss it. Do not ask again — convert the silence into a decision: \"<strong>The eleventh passed, so I'm treating it as a no and moving the team to the other plan. Tell me today if that's wrong.</strong>\"",
+      "counter": "If someone asks you for a decision date, they are setting a trap for your silence.\n• Notice you are about to make a promise that is easy to break.\n• Say: \"<strong>I'll have an answer after the board meets on the twelfth.</strong>\"\n• Tie your date to a real event, not to a mood.",
+      "insight": "Do not send the treat-it-as-a-no line to someone who can simply say no and mean it. The next question is whether you can actually live with the other plan you just threatened to use."
+    },
+    {
+      "id": 19,
+      "cat": "outcome",
+      "danger": "moderate",
+      "title": "Move the Question to the Person Who Decides",
+      "principle": "Power Mapping — Find the Real Decider",
+      "remember": "Ask who else has to nod before this is real.",
+      "when": "You keep answering questions from someone who cannot approve anything.",
+      "hook": "You can answer perfectly for an hour and still be talking to the wrong person. <strong>Find out early.</strong>",
+      "truth": "Gatekeepers collect answers and carry them badly.\n• Ask who else has to nod and the real chain appears.\n• You get to brief the decider yourself instead of through a stranger.\n• The trap is asking \"are you the decision maker.\" Nobody says no to that.",
+      "theySee": "A person who thanks them for the questions and asks who else needs the same answers.",
+      "signals": [
+        {
+          "icon": "🧑‍💼",
+          "l": "Borrowed words",
+          "t": "They quote someone else's worry instead of their own."
+        },
+        {
+          "icon": "🕰️",
+          "l": "Slow replies",
+          "t": "Answers to simple questions take days to come back."
+        },
+        {
+          "icon": "📋",
+          "l": "Deep detail",
+          "t": "They ask detailed questions but never mention a budget."
+        },
+        {
+          "icon": "🚪",
+          "l": "No access",
+          "t": "They will not put the senior person on a call."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Praise the questions",
+          "desc": "Say the questions are good. Do not challenge their authority."
+        },
+        {
+          "n": "2",
+          "title": "Ask who else nods",
+          "desc": "Ask who else has to agree before this becomes real."
+        },
+        {
+          "n": "3",
+          "title": "Offer one joint session",
+          "desc": "Offer to answer all of it once, with everyone in the room."
+        }
+      ],
+      "script": "\"These are good questions. <strong>Who else has to nod before this is real?</strong> Let's get them the same answers once, instead of me telling it twice.\"",
+      "example": "Noor spent six weeks answering a manager's questions. She asked who else had to nod. He named a head of ops nobody had mentioned. One joint call later, the head of ops approved it in twenty minutes.",
+      "watchFor": "They name a person who was never on the thread.",
+      "ifItFails": "They say they are the only approver and nothing moves. Make the gate visible without accusing them: \"<strong>Then I'll send the one-pager you'd forward anyway. If anyone upstairs has questions, put me on the call — I'd rather answer them live than cost you a round trip.</strong>\"",
+      "counter": "If someone asks who else has to approve, they want to go around you.\n• Notice they are mapping your chain, not your needs.\n• Say: \"<strong>I bring the recommendation. Convince me and I'll carry it.</strong>\"\n• Give the name only when you want the meeting to happen.",
+      "insight": "Do not do this in front of the gatekeeper's own team — you make them look small and they will stall you out of spite. The harder part is that the real decider may not want to meet you."
+    },
+    {
+      "id": 20,
+      "cat": "outcome",
+      "danger": "low",
+      "title": "Turn the Complaint Into a Request",
+      "principle": "Rosenberg: Nonviolent Communication — Request Over Complaint",
+      "remember": "Ask them what they want you to do instead.",
+      "when": "Your partner or a teammate lists everything you did wrong this month.",
+      "hook": "A list of complaints has no finish line. <strong>A request does.</strong>",
+      "truth": "Complaints are about the past, which nobody can change.\n• Ask for one request and the talk jumps to something you can actually do.\n• They have to pick what matters most, which shrinks the list.\n• The trap is answering each complaint. That is three fights, not one.",
+      "theySee": "A person who does not argue with any item and asks what they want instead.",
+      "signals": [
+        {
+          "icon": "📜",
+          "l": "Long list",
+          "t": "They list three or more things in one go."
+        },
+        {
+          "icon": "🕰️",
+          "l": "Old items",
+          "t": "Half the list is from more than a month ago."
+        },
+        {
+          "icon": "🙅",
+          "l": "No ask",
+          "t": "Nothing on the list says what they want you to do."
+        },
+        {
+          "icon": "🔥",
+          "l": "Rising heat",
+          "t": "Each item they say comes out louder than the one before."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Do not defend any item",
+          "desc": "Say nothing about whether each complaint is fair. Not one word."
+        },
+        {
+          "n": "2",
+          "title": "Ask them to pick one",
+          "desc": "Ask which one matters most to them right now."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the action",
+          "desc": "Ask what they want you to do instead, in plain words."
+        }
+      ],
+      "script": "\"I hear three. <strong>Pick the one that matters most and tell me what you want me to do instead.</strong>\"",
+      "example": "Ben's partner listed five things he had dropped that month. He did not argue any of them. He asked which one mattered most. She said the Thursday pickups. He moved his Thursday meeting and the other four never came back.",
+      "watchFor": "They stop listing and name one concrete thing they want.",
+      "ifItFails": "They say everything matters equally. Pick for them and commit to one thing out loud: \"<strong>Then I'll start with the Thursday pickups. I'll move my meeting this week. Tell me on Sunday if I picked wrong.</strong>\"",
+      "counter": "If someone asks you to turn your complaint into a request, they want the list closed.\n• Notice that four of your five points just vanished.\n• Say: \"<strong>One request: Thursdays. And I still want to talk about the other four.</strong>\"\n• Name the request and keep the list alive in the same breath.",
+      "insight": "Complaints cannot be satisfied, only outlasted. Requests can be done. The harder part is that once you do the one thing, you owe them the other four conversations."
+    },
+    {
+      "id": 21,
+      "cat": "outcome",
+      "danger": "low",
+      "title": "Turn a Yes or No Into a Number",
+      "principle": "Numeric Anchoring — Force a Scale",
+      "remember": "Ask for one to ten. A seven tells the truth a yes hides.",
+      "when": "Someone says they are fine with the plan and you do not believe them.",
+      "hook": "\"Yes\" is free. <strong>\"Seven\" has a reason attached to it.</strong>",
+      "truth": "A yes protects the room. A number exposes the gap.\n• Ask for one to ten and polite agreement turns into real data.\n• Anything under nine makes them explain the missing points.\n• The trap is arguing with their number. Ask what would raise it.",
+      "theySee": "A person who asks them for a number instead of a yes.",
+      "signals": [
+        {
+          "icon": "😐",
+          "l": "Flat yes",
+          "t": "They say fine or sure with no detail after it."
+        },
+        {
+          "icon": "⏩",
+          "l": "Fast agreement",
+          "t": "They agree faster than the topic deserves."
+        },
+        {
+          "icon": "👀",
+          "l": "Side glance",
+          "t": "They look at a colleague before they agree."
+        },
+        {
+          "icon": "🔕",
+          "l": "No questions",
+          "t": "Nobody asks a single question about a complicated plan."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the number",
+          "desc": "Ask one to ten how likely they are to actually run this."
+        },
+        {
+          "n": "2",
+          "title": "Ask what is missing",
+          "desc": "If it is under nine, ask what would make it two points higher."
+        },
+        {
+          "n": "3",
+          "title": "Fix one point today",
+          "desc": "Pick the cheapest thing they named and change it before you leave."
+        }
+      ],
+      "script": "\"One to ten — <strong>how likely are you to actually run this in January?</strong> If it's not a nine, what's missing?\"",
+      "example": "A team nodded through Hana's rollout plan. She asked for a number. The ops lead said six, because nobody had trained his night shift. Hana added two training sessions and the rollout went out on time.",
+      "watchFor": "They say a number under nine and then explain why.",
+      "ifItFails": "They say ten to end the conversation. Attach the ten to something real: \"<strong>Great — then I'll put your name on the January date in the plan. Any reason not to?</strong>\"",
+      "counter": "If someone asks you for a number out of ten, they are hunting your real doubt.\n• Notice that any number under nine starts an interrogation.\n• Say: \"<strong>Eight — and the two points are the training gap.</strong>\"\n• Name the gap yourself. It is cheaper than letting them find it.",
+      "insight": "People will not say no, but they will say six. This works until the room learns the trick and everyone starts answering nine."
+    },
+    {
+      "id": 22,
+      "cat": "outcome",
+      "danger": "moderate",
+      "title": "Close the Question When You Want the Answer Now",
+      "principle": "Sales: Assumptive Close",
+      "remember": "Offer two dates, not a decision. People pick dates.",
+      "when": "The talk keeps going and you need the decision before the room empties.",
+      "hook": "Open questions keep rooms talking. <strong>Closed ones empty them with an answer in hand.</strong>",
+      "truth": "Choosing between two small things feels easier than agreeing to one big thing.\n• Offer two concrete options and the decision gets made sideways.\n• They pick a date instead of debating the plan.\n• The trap is using it too early. Close before they are ready and they say neither.",
+      "theySee": "A person who offers two dates and holds a pen over the calendar.",
+      "signals": [
+        {
+          "icon": "🔄",
+          "l": "Circling talk",
+          "t": "The same points come back with no new information."
+        },
+        {
+          "icon": "🕔",
+          "l": "Clock gone",
+          "t": "Five minutes left and nothing is decided."
+        },
+        {
+          "icon": "👍",
+          "l": "Quiet agreement",
+          "t": "Nobody has objected to the plan in ten minutes."
+        },
+        {
+          "icon": "🚶",
+          "l": "People leaving",
+          "t": "Someone has already started packing their laptop."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check for objections once",
+          "desc": "Ask if anything is still open. Wait five seconds."
+        },
+        {
+          "n": "2",
+          "title": "Offer two options",
+          "desc": "Give two dates or two versions. Nothing else."
+        },
+        {
+          "n": "3",
+          "title": "Write it down in front of them",
+          "desc": "Put the choice in the calendar or the notes while they watch."
+        }
+      ],
+      "script": "\"Anything still open? Then it's <strong>Tuesday or Thursday</strong> — which one do I put in the calendar?\"",
+      "example": "Marco's review ran long with no decision. He asked if anything was open, then offered Tuesday or Thursday for the first rollout. The VP said Thursday. Marco sent the invite before leaving the room.",
+      "watchFor": "They say one of the two options out loud.",
+      "ifItFails": "They say neither and ask for more time. Take the stall and attach a cost: \"<strong>Then I'll book Thursday as a hold. If I hear nothing by Monday noon, the hold becomes the date.</strong>\"",
+      "counter": "If someone offers you exactly two dates, they are closing you.\n• Notice you were about to agree to the plan by picking a day.\n• Say: \"<strong>Neither yet — I haven't agreed to the plan.</strong>\"\n• Name your open question before any date gets written down.",
+      "insight": "Do not close a room where the senior person has not spoken yet — they will reopen everything and you look like you rushed them. The next move is making the hold hard to cancel."
+    },
+    {
+      "id": 23,
+      "cat": "outcome",
+      "danger": "moderate",
+      "title": "Ask the Question That Makes Them Argue Your Side",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Make them say your case in their own words.",
+      "when": "You need someone to sell your plan in a room you will not be in.",
+      "hook": "Your words die at the door. <strong>Theirs walk in with them.</strong>",
+      "truth": "People believe sentences they built themselves.\n• Ask them to defend your plan in one sentence and they write their own script.\n• Saying it once makes them more likely to say it again.\n• The trap is correcting their sentence. A worse sentence they own beats a perfect one they do not.",
+      "theySee": "A person who asks them how they would explain this to their own boss.",
+      "signals": [
+        {
+          "icon": "🤝",
+          "l": "Private support",
+          "t": "They agree with you in a one-to-one and go quiet in groups."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Borrowed phrase",
+          "t": "They repeat a phrase you used, with one word changed."
+        },
+        {
+          "icon": "🧭",
+          "l": "Boss anxiety",
+          "t": "They keep mentioning how their boss will react."
+        },
+        {
+          "icon": "📝",
+          "l": "Note taking",
+          "t": "They write down your one-line version."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for their sentence",
+          "desc": "Ask how they would defend this to their boss in one sentence."
+        },
+        {
+          "n": "2",
+          "title": "Say nothing while they build it",
+          "desc": "Let them stumble. Do not finish the sentence for them."
+        },
+        {
+          "n": "3",
+          "title": "Send their sentence back",
+          "desc": "Write their words in a follow-up note the same day, as theirs."
+        }
+      ],
+      "script": "\"If you had to defend this to your boss in one sentence, <strong>what would you say?</strong>\"",
+      "example": "Wei needed a peer to back his plan at a leadership meeting. He asked how the peer would defend it in one sentence. The peer said it cuts two handoffs. Wei sent that line back in a note, and heard it word for word in the meeting he missed.",
+      "watchFor": "They say a full sentence in their own words and then nod at it.",
+      "ifItFails": "They say they would not defend it. You just learned the real objection — ask for it directly: \"<strong>Then what's the sentence that kills it? Give me that one and I'll fix the plan or drop it.</strong>\"",
+      "counter": "If someone asks you to argue their case out loud, they are binding you to it.\n• Notice that you just became the plan's voice.\n• Say: \"<strong>Here's how I'd describe it. I'm not recommending it yet.</strong>\"\n• Separate describing from backing, out loud, before you say anything else.",
+      "insight": "Do not use this on someone who outranks the room you need — their sentence becomes the plan and your version disappears. The harder part is letting their worse wording win."
+    },
+    {
+      "id": 24,
+      "cat": "outcome",
+      "danger": "high",
+      "title": "Ask What Happens If You Say No",
+      "principle": "Schelling: Test the Threat",
+      "remember": "Make the threat say its own name out loud.",
+      "when": "Someone hints at a bad result if you do not agree today.",
+      "hook": "A vague threat works because you fill in the blank. <strong>Make them fill it in.</strong>",
+      "truth": "Hints are cheap because your imagination does the work.\n• Ask what happens if you say no and they must say it or drop it.\n• Most threats shrink the moment they are spoken out loud.\n• The trap is asking it angrily. Ask it flat, like a scheduling question.",
+      "theySee": "A person who asks a calm question and does not blink after it.",
+      "signals": [
+        {
+          "icon": "🌑",
+          "l": "Vague harm",
+          "t": "They hint at consequences without naming one."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Today only",
+          "t": "They attach the threat to a deadline of today."
+        },
+        {
+          "icon": "👂",
+          "l": "Third-hand",
+          "t": "They say other people are talking about it."
+        },
+        {
+          "icon": "🎚️",
+          "l": "Soft voice",
+          "t": "They lower their voice to deliver the hint."
+        },
+        {
+          "icon": "📵",
+          "l": "No paper",
+          "t": "They will say it on a call but never in writing."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Drop your voice and slow down",
+          "desc": "Match the moment. Do not sound hurt or angry."
+        },
+        {
+          "n": "2",
+          "title": "Ask the plain question",
+          "desc": "Ask what happens if you say no. Six words, then silence."
+        },
+        {
+          "n": "3",
+          "title": "Write down what they say",
+          "desc": "Repeat their answer back and send yourself a note with the date."
+        }
+      ],
+      "script": "\"Let's be plain. <strong>What happens if I say no?</strong>\"",
+      "example": "A vendor hinted that Grace's renewal would get complicated without a signature that week. Grace asked what happens if she says no. He said the price holds another month. She signed six weeks later at the same price.",
+      "watchFor": "They soften the threat or say nothing happens.",
+      "ifItFails": "They name a real and serious consequence. Do not argue it — buy time and witnesses: \"<strong>Understood. Put that in an email so I can take it to my team, and I'll come back Thursday.</strong>\"",
+      "counter": "If someone asks you what happens if they say no, your hint stopped working.\n• Notice they made you choose between a real threat and nothing.\n• Say: \"<strong>Nothing dramatic. The price changes on the first.</strong>\"\n• Name a small true consequence. An invented one dies in a week.",
+      "insight": "Do not ask this of someone who can fire you today unless you already have another offer. The harder question is what you do when they name the consequence and mean it."
+    },
+    {
+      "id": 25,
+      "cat": "frame",
+      "danger": "high",
+      "title": "Know When Changing the Question Reads as Dodging",
+      "principle": "Grice: Maxim of Relevance",
+      "remember": "Change the question twice and the room stops trusting you.",
+      "when": "You changed the question twice and the room has gone quiet.",
+      "hook": "Every move in this book has the same failure. <strong>It starts to look like you are hiding something.</strong>",
+      "truth": "People track whether your answer touched their question.\n• One changed question reads as thinking. Two in a row reads as evasion.\n• The room stops listening to content and starts counting dodges.\n• The fix is to answer one question straight, including the ugly one.",
+      "theySee": "A person who stops moving the question and answers the hard one in plain words.",
+      "signals": [
+        {
+          "icon": "🤐",
+          "l": "Room goes quiet",
+          "t": "Nobody follows up after your answer."
+        },
+        {
+          "icon": "👁️",
+          "l": "Side looks",
+          "t": "Two people glance at each other while you speak."
+        },
+        {
+          "icon": "🔁",
+          "l": "Same question back",
+          "t": "They ask the original question again with no new words."
+        },
+        {
+          "icon": "✍️",
+          "l": "Written follow-up",
+          "t": "They send the question in writing after the meeting."
+        },
+        {
+          "icon": "⏹️",
+          "l": "Short replies",
+          "t": "Their answers get clipped and polite."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Count your changes",
+          "desc": "If you moved the question twice, stop. Answer the next one straight."
+        },
+        {
+          "n": "2",
+          "title": "Say the hard answer first",
+          "desc": "Give the worst true fact in one sentence, with no setup."
+        },
+        {
+          "n": "3",
+          "title": "Hand them the follow-up",
+          "desc": "Ask what else they want answered, and answer that one straight too."
+        }
+      ],
+      "script": "\"I've gone around that twice. <strong>Straight answer: we missed it by six weeks and I signed off on the date.</strong> What else do you want to know?\"",
+      "example": "Dana reframed two hostile questions in a town hall and felt the room cool. On the third she gave the plain number and said it was her call. The next question was about the fix, not about her.",
+      "watchFor": "They lean back and ask about what happens next instead of what happened.",
+      "ifItFails": "They say you dodged earlier and they no longer trust the answer. Give the record instead of more words: \"<strong>Fair. I'll send the full timeline with dates by end of day — check my answer against it and come back at me.</strong>\"",
+      "counter": "If someone changes your question twice, they are protecting something.\n• Count the dodges out loud in your head, not in the room.\n• Say: \"<strong>Third time: what was the date?</strong>\" Nothing else.\n• If the third answer still moves, stop asking and go find the record.",
+      "insight": "Do not run two changes in a row in front of people who outrank you — the second one costs more than the question ever would have. The real skill is knowing which single question you must answer straight so the other twenty-four moves keep working."
+    }
+  ]
+}
