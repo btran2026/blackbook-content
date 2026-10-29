@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 95,
+  "manifestVersion": 96,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -897,7 +897,20 @@
       "url": "playbooks/playbook-srv-courted.json",
       "addedAt": "2026-10-29T00:04:30.077Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-invisible-receipt",
+      "title": "Invisible Receipt",
+      "theme": "reciprocity",
+      "topic": "Spotting when a favor comes with invisible strings",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🎁",
+      "url": "playbooks/playbook-srv-invisible-receipt.json",
+      "addedAt": "2026-10-29T19:28:56.953Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-29T00:04:30.077Z"
+  "generatedAt": "2026-10-29T19:28:56.953Z"
 }
