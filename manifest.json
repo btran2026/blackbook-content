@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 95,
+  "manifestVersion": 96,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -897,7 +897,20 @@
       "url": "playbooks/playbook-srv-courted.json",
       "addedAt": "2026-10-29T00:04:30.077Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-gaslighting-defense",
+      "title": "Black Book: Gaslighting Defense",
+      "theme": "gaslighting",
+      "topic": "Defending against gaslighting at work",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "🪞",
+      "url": "playbooks/playbook-srv-black-book-gaslighting-defense.json",
+      "addedAt": "2026-10-31T18:10:13.452Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-29T00:04:30.077Z"
+  "generatedAt": "2026-10-31T18:10:13.452Z"
 }

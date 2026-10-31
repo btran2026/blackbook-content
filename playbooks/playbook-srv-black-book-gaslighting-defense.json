@@ -1,0 +1,707 @@
+{
+  "meta": {
+    "id": "srv-black-book-gaslighting-defense",
+    "version": "1.0",
+    "title": "Black Book: Gaslighting Defense",
+    "subtitle": "12 moves for when they try to rewrite what happened",
+    "description": "A closed file on workplace gaslighting — how it works, how to document it, how to name it out loud, and when to escalate. Reads like a briefing, not a seminar.",
+    "author": "AI",
+    "createdAt": "2026-10-31T18:10:13.452Z",
+    "tags": [
+      "gaslighting",
+      "workplace",
+      "defense",
+      "documentation",
+      "HR",
+      "dark psychology",
+      "power"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "🪞",
+    "fromServer": true,
+    "generation": {
+      "topic": "Defending against gaslighting at work",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "detect",
+      "label": "Spot the Pattern",
+      "color": "#8b0000",
+      "description": "Recognize gaslighting before it owns you"
+    },
+    {
+      "key": "document",
+      "label": "Build the Record",
+      "color": "#2d4a22",
+      "description": "Create a paper trail they cannot rewrite"
+    },
+    {
+      "key": "anchor",
+      "label": "Hold Your Reality",
+      "color": "#1c3a5e",
+      "description": "Keep the conversation on verifiable ground"
+    },
+    {
+      "key": "counter",
+      "label": "Counter-Moves",
+      "color": "#4a2d00",
+      "description": "Strike back without losing your credibility"
+    },
+    {
+      "key": "network",
+      "label": "Build Your Support",
+      "color": "#2d1a4a",
+      "description": "Use colleagues to break your isolation"
+    },
+    {
+      "key": "escalate",
+      "label": "Go Up the Chain",
+      "color": "#3d0000",
+      "description": "Take it formal before they do"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "detect",
+      "danger": "moderate",
+      "title": "Spot the Three Stages Before They Own You",
+      "hook": "They were warm and supportive once. Now nothing you do is right. That shift was not random — it was a plan running on schedule.",
+      "truth": "They run the same pattern on every target — naming the stage you are in now is the whole game.\n• Stage 1: they study your strengths and what you care about most.\n• Stage 2: they hit those exact spots and give advice that feeds your doubt.\n• Stage 3: they use your dependence on their approval to push you out.",
+      "principle": "Narcissistic Abuse Cycle: Idealize → Devalue → Discard",
+      "remember": "They treated you well to learn your weak spots. Move now.",
+      "theySee": "A boss who acted like a mentor early on now finds fault with everything the employee does.",
+      "signals": [
+        {
+          "l": "Praise dries up",
+          "t": "Positive feedback stops completely with no change in your actual performance.",
+          "icon": "📉"
+        },
+        {
+          "l": "Advice that stings",
+          "t": "Their suggestions target exactly what you feel least sure about in yourself.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Rules keep shifting",
+          "t": "Expectations change without notice and the original ones get denied when you raise them.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Colleagues cut off",
+          "t": "They steer you away from the people most likely to confirm your read of the situation.",
+          "icon": "🚧"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the stage today",
+          "desc": "Write one word: Idealize, Devalue, or Discard. No gray area — pick the one that fits what is happening right now."
+        },
+        {
+          "n": "2",
+          "title": "Map the last 30 days",
+          "desc": "List three specific incidents showing the shift from warm to critical. Dates and exact words only — no interpretation."
+        },
+        {
+          "n": "3",
+          "title": "Open a private watch log",
+          "desc": "Note every instance of rule-changing or denial of past conversations for the next two weeks. Date each entry."
+        }
+      ],
+      "script": "\"I noticed the feedback changed significantly — I'd like to understand what specifically shifted.\"",
+      "counter": "Someone naming these stages at you is not evidence of anything on its own.\n• Ask them to name one specific incident — not a general pattern label.\n• If they cannot name one concrete thing, do not accept the accusation.\n• Request all feedback in writing before you respond to any of it.",
+      "insight": "Knowing what stage you are in changes nothing by itself — the question is whether you started your written record before Stage 2 ran its course."
+    },
+    {
+      "id": 2,
+      "cat": "detect",
+      "danger": "low",
+      "title": "Any 'You're Too' Is a Warning Shot",
+      "hook": "When they say you are 'too sensitive' or 'too emotional,' they are not describing you. They are making your concern the problem so the original event disappears.",
+      "truth": "Labeling your reaction is faster than answering your concern — and most targets fall for it every time.\n• The conversation shifts from what happened to how you responded.\n• You spend your energy defending your tone instead of the original facts.\n• The event gets buried and never gets addressed.",
+      "principle": "DARVO: Deny, Attack, Reverse Victim and Offender",
+      "remember": "They called your reaction the problem. Stay on the facts.",
+      "theySee": "A manager telling an employee that their concerns about a missed deadline are too much to deal with right now.",
+      "signals": [
+        {
+          "l": "'Too' word lands",
+          "t": "They say you are too sensitive, too emotional, or reading too much into it.",
+          "icon": "🚨"
+        },
+        {
+          "l": "Tone gets flagged",
+          "t": "They comment on how you said something rather than what you actually said.",
+          "icon": "🎭"
+        },
+        {
+          "l": "No direct answer",
+          "t": "Your specific concern gets no response — they address only your delivery.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Apology pressure",
+          "t": "You feel like you need to apologize for raising the issue at all.",
+          "icon": "⬇️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write down your original words",
+          "desc": "Before anything else, record the exact words you used when you raised the issue. Verbatim, not paraphrased."
+        },
+        {
+          "n": "2",
+          "title": "Split facts from tone in two columns",
+          "desc": "Column one: what happened. Column two: what they said about how you acted. Keep them completely separate."
+        },
+        {
+          "n": "3",
+          "title": "Return to the original issue in writing",
+          "desc": "Send a follow-up email naming the original concern with zero mention of tone or delivery."
+        }
+      ],
+      "script": "\"Let's stick to what we can verify — here's what the notes show from that meeting.\"",
+      "counter": "If they use this on you, they want you focused on delivery, not the point you raised.\n• Name the original issue out loud before addressing how they said it.\n• 'I hear you — and the question I raised was about X.'\n• Don't move off the facts until those get answered.",
+      "insight": "The person who decides what the conversation is about controls the result — tone debates are how that control gets taken from you."
+    },
+    {
+      "id": 3,
+      "cat": "document",
+      "danger": "low",
+      "title": "Write It Down the Same Day",
+      "hook": "Memory fades. Their version hardens. A note you wrote the day it happened beats their polished revision six months later.",
+      "truth": "A gaslighter's main tool is time — wait long enough and your memory softens while theirs sharpens.\n• Same-day notes with dates, quotes, and names are hard for anyone to argue with.\n• 'I don't recall saying that' collapses against a timestamped written record.\n• HR panels and investigators lean toward whoever documented first.",
+      "principle": "Primacy Effect: First-Written Account Carries Most Weight",
+      "remember": "Write it down today. Tomorrow their version is already forming.",
+      "theySee": "An employee pulling out a notebook and writing down dates, times, and exact words right after a meeting ends.",
+      "signals": [
+        {
+          "l": "Verbal-only orders",
+          "t": "Instructions come by word of mouth with nothing written down afterward.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "No follow-up sent",
+          "t": "Key decisions happen in conversations and no written summary ever follows.",
+          "icon": "📭"
+        },
+        {
+          "l": "Deadline denied",
+          "t": "They say they never gave you a deadline you clearly received in person.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Story drifts",
+          "t": "The account of what was said changes slightly each time it gets retold.",
+          "icon": "🌀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Open a private doc tonight",
+          "desc": "Date it. Record what was said, who was there, and the exact words you remember. Ten minutes maximum."
+        },
+        {
+          "n": "2",
+          "title": "Add one line on work impact",
+          "desc": "Note how it affected a specific task or decision — factual, not emotional. 'Missed deadline on X because Y said Z.'"
+        },
+        {
+          "n": "3",
+          "title": "Save it outside the company network",
+          "desc": "Personal email or personal device only. Keep it somewhere they cannot reach or delete."
+        }
+      ],
+      "script": "\"Just to make sure I have this right — you said [exact words] on [date]. I'm noting that for my records.\"",
+      "counter": "If someone presents a written log against you, check the file metadata — date created and last edited.\n• A log written after the fact often shows edit timestamps that contradict the claimed dates.\n• Ask for named witnesses before accepting any record as proof.\n• Write your own account of the same events before you respond to anything.",
+      "insight": "A log full of feelings with no quotes and no dates is nearly useless when it counts — the record has to be dry, dated, and specific before you need it."
+    },
+    {
+      "id": 4,
+      "cat": "document",
+      "danger": "low",
+      "title": "CC Others to Make Denial Expensive",
+      "hook": "A gaslighter who knows three people saw the email thinks twice before saying the email never happened.",
+      "truth": "Denial is easy in private. It gets costly the moment others are in the thread.\n• CC'd colleagues become witnesses without any confrontation required.\n• The gaslighter now has to contradict people whose opinion of them matters at work.\n• You get a paper trail and multiple witnesses in one move.",
+      "principle": "Cialdini: Social Proof — Observed Records Make Denial Costly",
+      "remember": "Put it in writing. CC someone. Now denial costs them something.",
+      "theySee": "An employee sending a meeting recap email with two colleagues already copied on the thread.",
+      "signals": [
+        {
+          "l": "Prefers private talks",
+          "t": "They push for verbal updates on important topics and avoid written threads.",
+          "icon": "🤫"
+        },
+        {
+          "l": "No recap ever sent",
+          "t": "After key decisions, no one sends a written confirmation of what was agreed.",
+          "icon": "📭"
+        },
+        {
+          "l": "Discourages CC-ing",
+          "t": "They say 'let's keep it simple' to avoid others being on the thread.",
+          "icon": "🔒"
+        },
+        {
+          "l": "Story changes weekly",
+          "t": "What was agreed in a meeting becomes something different the following week.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send a same-day recap email",
+          "desc": "Write 'Per our conversation today…' and summarize every key decision or directive given. Send before end of day."
+        },
+        {
+          "n": "2",
+          "title": "Add one relevant CC",
+          "desc": "A project stakeholder, skip-level contact, or colleague familiar with the work — someone with standing on the topic."
+        },
+        {
+          "n": "3",
+          "title": "Wait 48 hours without following up",
+          "desc": "If they do not reply to correct anything in 48 hours, the record stands as accepted. Note the silence in your log."
+        }
+      ],
+      "script": "\"Per our conversation today, I want to confirm: [specific agreement]. Let me know if I have this wrong.\"",
+      "counter": "If someone is CC-ing others on your communications constantly, read every summary they send carefully.\n• Check for omissions — what is left out matters as much as what is in.\n• Reply with corrections the same day or their version stands on record.\n• Start your own recap thread on the same topic before they own the written account.",
+      "insight": "The 48-hour silence rule works both ways — if you don't correct their summary of a meeting, you have accepted their version of events."
+    },
+    {
+      "id": 5,
+      "cat": "anchor",
+      "danger": "moderate",
+      "title": "Anchor Every Conversation to Verifiable Facts",
+      "hook": "The moment you argue feelings, you lose. The moment you point to the document, they lose.",
+      "truth": "Gaslighters win on emotional ground. Verifiable facts are where that ground disappears.\n• 'You seemed upset' cannot be disproved. 'The email said X' cannot be walked back.\n• Shifting to verifiable facts forces them to confirm, deny, or lie on record.\n• Once they lie on record, you have the next move.",
+      "principle": "Voss: Label — Name What Is Provable, Not What Is Felt",
+      "remember": "Never argue what you felt. Always argue what the document shows.",
+      "theySee": "An employee sliding a printed email across the table during a one-on-one meeting with their manager.",
+      "signals": [
+        {
+          "l": "Emotional bait",
+          "t": "They reframe the issue as your anxiety or overreaction rather than addressing the facts.",
+          "icon": "🪝"
+        },
+        {
+          "l": "Memory contested",
+          "t": "They say your recollection is wrong but bring no written evidence to support that.",
+          "icon": "❓"
+        },
+        {
+          "l": "No paper offered",
+          "t": "They reference past feedback or decisions but produce nothing in writing.",
+          "icon": "📭"
+        },
+        {
+          "l": "'You're defensive'",
+          "t": "They say you are being defensive when you ask for written documentation of anything.",
+          "icon": "🛡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull the document before the meeting",
+          "desc": "Find the email, message, or note that shows what was actually agreed or said. Have it printed or on screen."
+        },
+        {
+          "n": "2",
+          "title": "Name it in the first 60 seconds",
+          "desc": "Say 'I pulled the notes from that meeting' before anything else. Control what the starting point of the conversation is."
+        },
+        {
+          "n": "3",
+          "title": "Return to facts every time they pivot",
+          "desc": "Each time the talk goes to feelings or tone, say 'let's focus on what the record shows' — then stop talking."
+        }
+      ],
+      "script": "\"I'd like to focus on the documented feedback — here's what the notes show from that conversation.\"",
+      "counter": "If someone anchors a false document against you, challenge the record before challenging their conclusion.\n• Ask 'When was this written?' and 'Who else was present?' before anything else.\n• Don't argue interpretation until you have questioned where the document came from.\n• Ask for the original unedited version — not a summary someone prepared after the fact.",
+      "insight": "You have to build the record before the meeting — showing up without documentation and asking for facts is a losing position from the first sentence."
+    },
+    {
+      "id": 6,
+      "cat": "anchor",
+      "danger": "low",
+      "title": "Demand Written Expectations Before You Accept the Review",
+      "hook": "If the rules keep changing, the problem is not your performance. The problem is that there were never real rules — and they need it that way.",
+      "truth": "Vague expectations are the most reliable weapon in the kit — and most targets never think to ask for them in writing.\n• Without written criteria, any result can be called a failure after the fact.\n• Asking for written metrics puts the burden back on them to define or expose the attack.\n• They either produce a standard — or prove they never had one.",
+      "principle": "Burden of Proof: Shifting Goalposts Require a Paper Trail",
+      "remember": "No written standard means no fair review. Get it in writing first.",
+      "theySee": "An employee emailing their manager to ask for the performance criteria before the quarter begins.",
+      "signals": [
+        {
+          "l": "Verbal targets only",
+          "t": "Goals get discussed in meetings but never appear in a formal written document.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Wrong target blamed",
+          "t": "You hit what you thought the goal was and get told it was never the real one.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Finish line moves",
+          "t": "What counts as success changes each time you get close to reaching it.",
+          "icon": "🏁"
+        },
+        {
+          "l": "Vague comparisons",
+          "t": "They compare you unfavorably to colleagues without naming who or what those colleagues did.",
+          "icon": "⚖️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for criteria in writing today",
+          "desc": "Email: 'Can you send me the success criteria for this project by [specific date]?' One question, nothing else."
+        },
+        {
+          "n": "2",
+          "title": "Turn their verbal words into specific numbers",
+          "desc": "Take whatever they said in conversation and write it back as a measurable target. Email it to them within 24 hours."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to confirm or correct",
+          "desc": "End the email with 'Does this reflect what you had in mind?' Silence for 48 hours is a yes on record."
+        }
+      ],
+      "script": "\"I want to make sure I'm meeting expectations — can you send me what success looks like for this role in writing?\"",
+      "counter": "If someone asks you for written criteria as a defense move, write them carefully before responding.\n• Vague criteria you write down become binding — be specific only where you are confident.\n• If you don't have clear criteria, say so rather than inventing them under pressure.\n• A request for written expectations is reasonable — refusing it looks worse than answering it.",
+      "insight": "Once they commit to criteria in writing, they lose the ability to move the target afterward — which is exactly why they resist giving anything written every time you ask."
+    },
+    {
+      "id": 7,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Name the Reality-Questioning Out Loud",
+      "hook": "The moment you say 'are you questioning what I remember?' — the move loses half its power. <strong>Naming it makes it real. Staying quiet keeps you trapped.</strong>",
+      "truth": "Gaslighting only works while it stays unnamed and private between the two of you.\n• Saying it out loud flips the position — now they have to respond to your read, not just apply pressure.\n• Most gaslighters pull back when the tactic is named because they need plausible deniability.\n• If they don't pull back, you have established a pattern on record for the conversation that follows.",
+      "principle": "Pattern Interruption: Naming the Move Breaks Its Grip",
+      "remember": "Name what they're doing out loud. They need your silence.",
+      "theySee": "An employee sitting calmly across from a manager and stating plainly what they think is happening — not yelling, just naming it directly.",
+      "signals": [
+        {
+          "l": "Same denial repeats",
+          "t": "They deny the same specific thing across multiple conversations over weeks.",
+          "icon": "🔁"
+        },
+        {
+          "l": "You leave confused",
+          "t": "You walk out of meetings unsure whether what you remember actually happened.",
+          "icon": "😶"
+        },
+        {
+          "l": "Circular loop",
+          "t": "The conversation keeps returning to your perception rather than addressing the facts.",
+          "icon": "🌀"
+        },
+        {
+          "l": "Calm redirection",
+          "t": "They stay oddly composed when you raise a specific incident — no curiosity, just a pivot away from it.",
+          "icon": "🎭"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the phrase before the meeting",
+          "desc": "Put 'Are you questioning what I remember about this?' on paper in advance. Have it in front of you."
+        },
+        {
+          "n": "2",
+          "title": "Say it once and go quiet",
+          "desc": "Don't repeat it. Don't soften it with a smile or a qualifier. Let the silence after the question do the work."
+        },
+        {
+          "n": "3",
+          "title": "Write their exact response immediately after",
+          "desc": "Note word-for-word what they said next. That response is the most important data point in the whole meeting."
+        }
+      ],
+      "script": "\"Are you questioning my sense of what happened in that meeting?\"",
+      "counter": "If someone says this to you, it signals they feel their account is not being taken seriously — not that they are automatically right.\n• Ask them to describe the one specific event they remember differently.\n• Give one clear factual statement in response. Don't over-explain or list a defense.\n• If the accusation keeps repeating across conversations, document it — repetition is its own pattern.",
+      "insight": "Naming the move buys you time and breaks the immediate pressure — but the written record you built before this conversation is what wins the longer fight."
+    },
+    {
+      "id": 8,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Shift the Talk From Blame to Measurable Expectations",
+      "hook": "When they say your performance is the problem, don't argue. Ask them to measure it. <strong>Watch what happens when they have to get specific.</strong>",
+      "truth": "Vague blame is a trap — defending against it without specifics proves nothing and costs you standing.\n• Asking for measurable criteria forces them to define the standard or expose the attack for what it is.\n• 'Can we revisit what success looks like?' makes the conversation about standards, not about you.\n• You stay on your record and your goals, not on their shifting account.",
+      "principle": "Voss: Calibrated Question — Redirect Without Giving Ground",
+      "remember": "Don't defend yourself against a blur. Ask them to make it specific.",
+      "theySee": "An employee redirecting a vague performance complaint by asking their manager one clear, calm question about metrics.",
+      "signals": [
+        {
+          "l": "Blurry criticism",
+          "t": "The feedback is general — 'your attitude' or 'how you come across' — with no example attached.",
+          "icon": "💨"
+        },
+        {
+          "l": "No numbers cited",
+          "t": "They claim performance issues but point to no data, no emails, no specific incidents.",
+          "icon": "📊"
+        },
+        {
+          "l": "Vague comparison",
+          "t": "They hint that others are doing better without naming who or what those people actually did.",
+          "icon": "👥"
+        },
+        {
+          "l": "Behavior focus only",
+          "t": "Feedback circles back to how you act rather than what you produced or delivered.",
+          "icon": "🔄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three questions before the meeting",
+          "desc": "'What does success look like here?' 'Which specific result fell short?' 'How are others being measured?' Have all three on paper."
+        },
+        {
+          "n": "2",
+          "title": "Ask the first question and stop talking",
+          "desc": "Ask it once, calmly. Don't fill the silence. Let them answer fully before you say another word."
+        },
+        {
+          "n": "3",
+          "title": "Take notes visibly in front of them",
+          "desc": "Write their answer down on paper in the room while they speak. It changes what they choose to say next."
+        }
+      ],
+      "script": "\"I want to make sure I'm aligned — can we talk about how you're measuring performance right now, specifically?\"",
+      "counter": "If someone redirects your feedback with questions about criteria, answer with specifics or admit you don't have them.\n• Vague feedback you can't back up is your problem — they have every right to push back on it.\n• Name the specific incident or the metric, not a general impression of someone's performance.\n• If you can't measure it, call it an observation — not a performance judgment.",
+      "insight": "The redirect works once or twice — if the goalposts keep moving after two honest conversations, you are past the point where a well-phrased question fixes anything."
+    },
+    {
+      "id": 9,
+      "cat": "network",
+      "danger": "low",
+      "title": "Bring a Witness to Every High-Stakes Meeting",
+      "hook": "A gaslighter who thinks the room is just the two of you behaves differently than one who knows someone else is watching and writing things down.",
+      "truth": "Their behavior changes when another person is in the room — that change is the entire point of the move.\n• A witness changes what gets said and what can be denied afterward.\n• You get a second account of what happened — your memory is no longer alone.\n• The witness does not have to say a word. Being present is enough.",
+      "principle": "Social Proof: Observed Behavior Is Constrained Behavior",
+      "remember": "One witness in the room changes every word they choose.",
+      "theySee": "An employee walking into a performance review with a trusted colleague already seated beside them.",
+      "signals": [
+        {
+          "l": "One-on-one only",
+          "t": "They prefer to handle all hard conversations with no one else in the room.",
+          "icon": "🔒"
+        },
+        {
+          "l": "Tone flip with others",
+          "t": "Their manner shifts noticeably the moment a third person enters the space.",
+          "icon": "🎭"
+        },
+        {
+          "l": "Post-meeting revision",
+          "t": "What they said in the meeting becomes something different when they describe it to others.",
+          "icon": "✏️"
+        },
+        {
+          "l": "Witness pushback",
+          "t": "They resist or complain when you ask to bring a colleague to a key meeting.",
+          "icon": "🚫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick your witness now",
+          "desc": "Choose someone with standing and good judgment — not your closest friend. Someone with no obvious loyalty conflict on the topic."
+        },
+        {
+          "n": "2",
+          "title": "Brief them before the meeting",
+          "desc": "Tell them: watch, take notes on paper, say nothing unless directly asked. Give them a pen and paper."
+        },
+        {
+          "n": "3",
+          "title": "Debrief within one hour after",
+          "desc": "Ask 'What did you hear?' before you share your own read. Their fresh account is the data point you need."
+        }
+      ],
+      "script": "\"I'd like to bring [Name] — they're familiar with the project and it would help to have them in the room.\"",
+      "counter": "If someone insists on bringing a witness to a meeting with you, don't refuse — refusing looks like you have something to hide.\n• Ask for the meeting agenda in advance so you know what is coming.\n• Bring your own notes and a colleague if the topic warrants it.\n• Manage what you say, not who is in the room.",
+      "insight": "The witness move works once before they start scheduling around it — the window to use it closes faster than most people expect."
+    },
+    {
+      "id": 10,
+      "cat": "network",
+      "danger": "low",
+      "title": "Ask a Colleague If They See It Too",
+      "hook": "They need you to feel alone. One honest conversation with the right person can break that in five minutes.",
+      "truth": "Isolation is the mechanism — a second honest perspective is the immediate fix.\n• A colleague who confirms your read shows your memory is working correctly.\n• Asking also surfaces whether others have the same experience — which changes how big the problem is.\n• You get real information. They get nothing from the conversation.",
+      "principle": "Consensus Validation: Shared Perception Breaks Isolation",
+      "remember": "One honest check from a colleague proves your memory works.",
+      "theySee": "Two coworkers talking quietly in a break room, one listening carefully and nodding while the other describes a specific incident with a name attached.",
+      "signals": [
+        {
+          "l": "You feel alone on it",
+          "t": "No one else seems to notice or mention the same behavior you keep running into.",
+          "icon": "🏝️"
+        },
+        {
+          "l": "Pattern matches theirs",
+          "t": "A colleague mentions a similar experience with the same person without you prompting it at all.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Kept away from peers",
+          "t": "The gaslighter steers you away from the colleagues most likely to share your read of things.",
+          "icon": "🚧"
+        },
+        {
+          "l": "Team goes quiet",
+          "t": "In group meetings others go silent when conversation touches on the gaslighter's behavior.",
+          "icon": "🤐"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one person, not a group",
+          "desc": "Choose someone with no political reason to protect the gaslighter. One quiet conversation at a time."
+        },
+        {
+          "n": "2",
+          "title": "Ask one specific question",
+          "desc": "'Have you noticed [specific behavior] from [name]?' Not 'is he bad?' — one observable thing, named plainly."
+        },
+        {
+          "n": "3",
+          "title": "Listen more than you talk",
+          "desc": "Their answer tells you the scope of the problem. Don't push them toward your conclusion. Let them finish completely."
+        }
+      ],
+      "script": "\"Am I imagining this, or have you noticed [specific behavior] from [name] too?\"",
+      "counter": "If someone asks you this about a third party, you are being invited into a perception that may not be yours.\n• Give your honest read, not the one they are fishing for.\n• If you have no direct knowledge of the incident, say so and don't guess.\n• Know the difference between being a real witness and being a borrowed one.",
+      "insight": "If others confirm the same pattern, the problem stops being about you and starts being about the organization — and that changes every move that follows this one."
+    },
+    {
+      "id": 11,
+      "cat": "escalate",
+      "danger": "high",
+      "title": "Bring Your Documentation to HR Before They Do",
+      "hook": "Whoever walks into HR first defines the problem. If you wait, you become the person being responded to — not the person who raised it.",
+      "truth": "HR investigations follow the first coherent account — then they verify or contradict it.\n• Your timestamped log, CC'd email threads, and witness names give HR something concrete to act on.\n• An emotional complaint with no paper carries far less weight than a dry factual record.\n• Going first doesn't guarantee a win — but going second almost always damages your position.",
+      "principle": "First Mover Advantage: The First Formal Account Shapes the Investigation",
+      "remember": "Your documentation walks into HR before you do. The meeting is secondary.",
+      "theySee": "An HR manager reading a printed incident log with dates, exact quotes, and witness names already organized on one clean page.",
+      "signals": [
+        {
+          "l": "HR contact rumored",
+          "t": "You hear the gaslighter has already spoken to HR or a senior leader about you.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "Warning appears",
+          "t": "A written performance warning shows up with no prior documented conversation leading to it.",
+          "icon": "📋"
+        },
+        {
+          "l": "Social shift",
+          "t": "Colleagues start treating you differently without any explanation offered.",
+          "icon": "👥"
+        },
+        {
+          "l": "Their story spreads",
+          "t": "A version of events you don't recognize starts circulating quietly among your team.",
+          "icon": "📢"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Organize your file before any meeting",
+          "desc": "Dates, exact quotes, names, and work impact — one clean page. No emotion, no interpretation. Facts only."
+        },
+        {
+          "n": "2",
+          "title": "Request a confidential HR meeting today",
+          "desc": "Use the word 'confidential' in the request message. Give no detail about the content until you are in the room."
+        },
+        {
+          "n": "3",
+          "title": "State facts only inside the meeting",
+          "desc": "Name the pattern, reference your documentation, and ask what the formal process is. Don't editorialize or speculate."
+        }
+      ],
+      "script": "\"I've documented a pattern of behavior I'd like to discuss confidentially — can we set up a meeting this week?\"",
+      "counter": "If someone has filed against you and you find out, don't try to get to HR first after the fact.\n• Ask HR what the formal process is and what you are allowed to know at this stage.\n• Pull your own record of every relevant interaction — emails sent, exact words used, who witnessed what.\n• Don't respond through back channels — every word from this point is on record.",
+      "insight": "HR protects the organization first. Your documentation doesn't make them your advocate — it makes you harder to ignore and harder to dismiss without consequence."
+    },
+    {
+      "id": 12,
+      "cat": "escalate",
+      "danger": "high",
+      "title": "Name the Organization's Legal Exposure",
+      "hook": "HR moves slowly on interpersonal disputes. HR moves fast when 'EEOC' is in the room. <strong>The word changes the speed of everything.</strong>",
+      "truth": "Organizations fear legal exposure far more than any individual's complaint — use that gap.\n• Gaslighting tied to a protected class triggers EEOC liability the organization cannot quietly ignore.\n• Naming duty of care and constructive dismissal shifts the risk calculation for every decision-maker in the room.\n• You don't have to file a claim — naming the possibility changes the pace of the response immediately.",
+      "principle": "EEOC and Duty of Care: Institutional Risk Moves Faster Than Personal Complaints",
+      "remember": "The organization's legal risk is bigger than your complaint. Use that.",
+      "theySee": "An employee calmly referencing EEOC protections in a meeting with HR and a senior manager both present in the room.",
+      "signals": [
+        {
+          "l": "Reports ignored",
+          "t": "You raised the behavior formally and weeks have passed with no visible response or action.",
+          "icon": "🚫"
+        },
+        {
+          "l": "No written record",
+          "t": "HR has no record of your prior complaints because your verbal reports were never formally filed.",
+          "icon": "📭"
+        },
+        {
+          "l": "Protected class targeted",
+          "t": "The gaslighting focuses on something legally protected — your gender, race, disability, or age.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Conditions engineered",
+          "t": "Your working conditions are being shaped to push you to quit rather than requiring them to fire you.",
+          "icon": "🚪"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Research your protected class before you speak",
+          "desc": "Look up EEOC guidelines today. Identify which protected category applies to your specific documented situation."
+        },
+        {
+          "n": "2",
+          "title": "Draft a short email naming the pattern",
+          "desc": "One paragraph. Name the behavior and ask what steps the organization is taking to meet its legal duty of care."
+        },
+        {
+          "n": "3",
+          "title": "Consult an employment attorney before sending anything",
+          "desc": "One-hour consultation outside the company network. Do this before you escalate further or send the email."
+        }
+      ],
+      "script": "\"I want to understand what steps the organization is taking to meet its duty of care — I believe what I've documented may fall under EEOC protections.\"",
+      "counter": "If you are a manager and this gets named at you, stop the conversation and involve legal counsel before you say another word.\n• Do not respond to the substance of the complaint without HR and legal present in the room.\n• Any retaliation after this point doubles the organization's exposure — make sure your whole team knows that clearly.\n• Document every interaction with the person from this moment forward.",
+      "insight": "Once legal exposure is named out loud, every conversation that follows is a potential exhibit — that is the point of saying it, and the reason you cannot take it back."
+    }
+  ]
+}
