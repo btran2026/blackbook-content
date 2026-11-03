@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 95,
+  "manifestVersion": 96,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -897,7 +897,20 @@
       "url": "playbooks/playbook-srv-courted.json",
       "addedAt": "2026-10-29T00:04:30.077Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-don-t-get-pushed-around",
+      "title": "Don't Get Pushed Around",
+      "theme": "negotiation",
+      "topic": "Negotiating without getting pushed around",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A1A2E",
+      "coverIcon": "🃏",
+      "url": "playbooks/playbook-srv-don-t-get-pushed-around.json",
+      "addedAt": "2026-11-03T20:29:17.077Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-10-29T00:04:30.077Z"
+  "generatedAt": "2026-11-03T20:29:17.077Z"
 }
