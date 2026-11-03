@@ -1,0 +1,700 @@
+{
+  "meta": {
+    "id": "srv-don-t-get-pushed-around",
+    "version": "1.0",
+    "title": "Don't Get Pushed Around",
+    "subtitle": "The Negotiator's Black Book",
+    "description": "Twelve moves for the person who walks into a negotiation outnumbered, outranked, or out-prepared — and wants to walk out ahead. Grounded in BATNA, anchoring, hardball defense, and the gap between what they're asking for and what they actually need.",
+    "author": "AI",
+    "createdAt": "2026-11-03T20:29:17.077Z",
+    "tags": [
+      "negotiation",
+      "influence",
+      "dark psychology",
+      "hardball",
+      "strategy",
+      "positioning"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🃏",
+    "fromServer": true,
+    "generation": {
+      "topic": "Negotiating without getting pushed around",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "prep",
+      "label": "Before You Walk In",
+      "color": "#2C3E50"
+    },
+    {
+      "key": "position",
+      "label": "Holding Your Ground",
+      "color": "#922B21"
+    },
+    {
+      "key": "read",
+      "label": "Reading the Room",
+      "color": "#1A5276"
+    },
+    {
+      "key": "moves",
+      "label": "The Moves",
+      "color": "#145A32"
+    },
+    {
+      "key": "counter",
+      "label": "Defending Against Hardball",
+      "color": "#6E2F0A"
+    },
+    {
+      "key": "close",
+      "label": "Closing and Walking Away",
+      "color": "#4A235A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "prep",
+      "danger": "high",
+      "title": "Know Your Walk-Away Before You Sit Down",
+      "hook": "Walking into a negotiation without a walk-away number is like playing poker with all your cards face-up. <strong>The other side will push until you break.</strong>",
+      "truth": "Your walk-away number is the only real source of power you have in that room.\n• Without it, you'll accept a bad deal just to avoid leaving empty-handed.\n• With it, every counter-offer gets measured against a fixed line, not their pressure.\n• The trap: most people set their walk-away after the pressure starts. Too late.",
+      "principle": "Fisher & Ury: BATNA",
+      "remember": "Set your walk-away limit before you sit down.",
+      "theySee": "A person sitting across the table who has thought through their numbers before anyone said a word.",
+      "signals": [
+        {
+          "l": "Fast pressure",
+          "t": "They escalate hard when you haven't named your limit yet.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Offer creep",
+          "t": "Each counter-offer moves only slightly in your direction.",
+          "icon": "📉"
+        },
+        {
+          "l": "Sudden deadline",
+          "t": "They say the deal expires today with no real reason behind it.",
+          "icon": "⏰"
+        },
+        {
+          "l": "You hesitate",
+          "t": "You pause longer on each counter because you don't know your floor.",
+          "icon": "😶"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your limit now",
+          "desc": "Before any meeting, write the worst deal you'd still take. One number. One line."
+        },
+        {
+          "n": "2",
+          "title": "Name your next-best option",
+          "desc": "Write what you do if this deal falls through — another buyer, another offer, another supplier."
+        },
+        {
+          "n": "3",
+          "title": "Test your limit against their likely first offer",
+          "desc": "If their opening is above your limit, you have room to push. If it's below, get a better next option before you meet."
+        }
+      ],
+      "script": "\"Before we get into the details — I've already got another option I'm happy with. Let's see if we can beat it.\"",
+      "counter": "People use your missing limit to keep you at the table past the point where you should leave.\n• They'll make ending the conversation feel expensive.\n• They'll drop small wins to keep you invested.\n• When quitting feels too costly, check your limit again — that's the signal.",
+      "insight": "The limit you set in private is worth more than anything you say in the room — the harder part is not moving it when the pressure gets real."
+    },
+    {
+      "id": 2,
+      "cat": "position",
+      "danger": "moderate",
+      "title": "Force Them to Name Their Number First",
+      "hook": "Whoever speaks first sets the ceiling. <strong>If you go first, you're either leaving money on the table or scaring them off.</strong>",
+      "truth": "The first number spoken pulls every offer that follows toward it. This is the anchor.\n• If they go first high, every move they make toward you feels like generosity.\n• If you go first low, you've shown them what you'll take.\n• The move: refuse to go first, politely and firmly, every time.",
+      "principle": "Anchoring Effect",
+      "remember": "Make them say a number first. Always.",
+      "theySee": "A buyer looking at an unpriced car, asking the seller what they want before saying a word.",
+      "signals": [
+        {
+          "l": "They deflect",
+          "t": "They say 'just make us an offer' to put the first anchor on you.",
+          "icon": "↩️"
+        },
+        {
+          "l": "Vague value talk",
+          "t": "They describe what the deal is worth without naming a price, waiting for you to fill in the gap.",
+          "icon": "💬"
+        },
+        {
+          "l": "Fake time push",
+          "t": "They push for your number fast under the cover of urgency.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "Long silence",
+          "t": "After your question about their number, they go quiet, hoping you'll fill it.",
+          "icon": "🤫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Practice the refusal",
+          "desc": "Say out loud before the meeting: 'I'd prefer to hear your number first — what are you thinking?'"
+        },
+        {
+          "n": "2",
+          "title": "Prepare for the push-back",
+          "desc": "If they insist you go first, say: 'I'm not sure what the right number is yet — what's your starting point?' Then wait."
+        },
+        {
+          "n": "3",
+          "title": "If you must go first, anchor high",
+          "desc": "Name a number noticeably above your target. Give yourself room to move without losing ground."
+        }
+      ],
+      "script": "\"I'd rather hear your number first — what are you working with?\"",
+      "counter": "Someone is using this on you when they keep bouncing your price question back at you.\n• Notice when every question about price comes back to you.\n• Say: 'I don't have a number yet — what's your range?'\n• If they still won't move, anchor 30% above your actual target and let them react.",
+      "insight": "Getting them to go first works every time — the harder part is holding the silence long enough that they fill it."
+    },
+    {
+      "id": 3,
+      "cat": "moves",
+      "danger": "low",
+      "title": "Break the Deal Into Small Pieces and Agree on Each",
+      "hook": "Trying to close everything at once gives the other side too many places to say no. <strong>Small wins build a yes habit.</strong>",
+      "truth": "Most deals die because both sides try to close everything in one push. Breaking it changes that.\n• Agreeing on small points first builds a pattern of agreement.\n• Each small yes makes the other side more likely to give the next one.\n• The trap: saving the hardest point for last when everyone is already tired.",
+      "principle": "Fisher & Ury: Incremental Agreement",
+      "remember": "Get small yeses first. The big yes comes easier after that.",
+      "theySee": "A person working through a list, getting head-nods on each item before moving to the next.",
+      "signals": [
+        {
+          "l": "Stuck on one point",
+          "t": "Both sides keep returning to the same disagreement and nothing else moves.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Package demand",
+          "t": "The other side wants everything agreed at once before moving on anything.",
+          "icon": "📦"
+        },
+        {
+          "l": "Room slows down",
+          "t": "The conversation gets quieter and slower as the list gets harder.",
+          "icon": "🐢"
+        },
+        {
+          "l": "Side agreements",
+          "t": "Small deals start happening in side conversations, not at the main table.",
+          "icon": "🤝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List every issue before the meeting",
+          "desc": "Write out all points that need settling. Mark the three easiest."
+        },
+        {
+          "n": "2",
+          "title": "Open with an easy point",
+          "desc": "Start on a term both sides are likely to agree on fast. Get the first yes in the first ten minutes."
+        },
+        {
+          "n": "3",
+          "title": "Push the hardest point to third or later",
+          "desc": "By the time you get there, the other side has already said yes multiple times and is in agreement mode."
+        }
+      ],
+      "script": "\"Let's put the hard stuff aside for a minute — can we agree on the timeline first?\"",
+      "counter": "Someone is doing this to you when they open with easy asks to get you nodding before the real demand arrives.\n• Watch for a string of small 'of course' moments before the big ask.\n• Say yes conditionally: 'I can agree to that once we've settled the main terms.'\n• Don't let small yeses commit you before you've seen the full picture.",
+      "insight": "The yes habit works both ways — the move that follows is knowing which small point to give up to get the one that matters."
+    },
+    {
+      "id": 4,
+      "cat": "read",
+      "danger": "low",
+      "title": "Ask What They Mean Before You React",
+      "hook": "A demand is rarely what it sounds like. <strong>Push back on the demand and you miss what's really driving it.</strong>",
+      "truth": "Most demands are positions — a fixed line someone drew. Behind every position is a reason they haven't said.\n• Ask 'what do you mean by that?' and they'll explain the interest behind the demand.\n• Once you know the interest, you can offer something that works for both sides.\n• The trap: taking every demand at face value and fighting positions instead of needs.",
+      "principle": "Voss: Calibrated Questions",
+      "remember": "Ask what they mean before you say anything else.",
+      "theySee": "A negotiator leaning forward and asking a simple question instead of firing back a counter-offer.",
+      "signals": [
+        {
+          "l": "Hard demand",
+          "t": "They name a specific number or term with no explanation.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Won't budge",
+          "t": "They repeat the same position when you push, without adding any new information.",
+          "icon": "🪨"
+        },
+        {
+          "l": "Emotional edge",
+          "t": "Their tone gets sharp when this specific point comes up.",
+          "icon": "😤"
+        },
+        {
+          "l": "Short answers",
+          "t": "They give one-word replies and wait for you to react.",
+          "icon": "📵"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three possible reasons behind their demand",
+          "desc": "Before the meeting, guess three interests that would explain their position. Have them ready."
+        },
+        {
+          "n": "2",
+          "title": "Ask the open question in the room",
+          "desc": "When they make the demand, say: 'Help me understand what's driving that for you.' Then stop talking."
+        },
+        {
+          "n": "3",
+          "title": "Listen for the interest, not the position",
+          "desc": "When they answer, write down the need they're describing. That's what you can actually work with."
+        }
+      ],
+      "script": "\"Help me understand what's driving that for you — what's the main thing you need from this?\"",
+      "counter": "Someone is working this on you when they ask questions instead of reacting, trying to get you to say your real priorities.\n• Notice when they keep asking 'why' without offering anything back.\n• Give partial answers — say what matters without ranking your priorities out loud.\n• Ask back: 'What would you need to see to make this work?'",
+      "insight": "Getting the interest behind the demand is the move — the harder question is whether you can give them what they actually need without giving away what you came for."
+    },
+    {
+      "id": 5,
+      "cat": "prep",
+      "danger": "moderate",
+      "title": "Research Their Priorities Before You Walk In",
+      "hook": "They've already decided what they want before you sit down. <strong>If you don't know what that is, you're guessing in real time.</strong>",
+      "truth": "The side that knows more about the other going in holds more of the cards. Most people skip this entirely.\n• Their public statements, past deals, and internal pressures tell you what they'll protect.\n• Knowing their needs lets you offer solutions they want before they ask.\n• The trap: spending all prep time on your own position and none on theirs.",
+      "principle": "Information Asymmetry",
+      "remember": "Know what they need before they tell you.",
+      "theySee": "A counterpart who already knows the answer to the question they're about to ask.",
+      "signals": [
+        {
+          "l": "They relax",
+          "t": "They visibly calm down when you mention something that addresses their hidden concern.",
+          "icon": "😮‍💨"
+        },
+        {
+          "l": "Fast agreement",
+          "t": "They agree quickly the moment you hit the thing they actually needed.",
+          "icon": "✅"
+        },
+        {
+          "l": "Surprised look",
+          "t": "They look startled when you bring up a detail they didn't expect you to know.",
+          "icon": "😲"
+        },
+        {
+          "l": "They stop stalling",
+          "t": "Their vague answers get specific once you name the right issue.",
+          "icon": "🔓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find three public facts about them",
+          "desc": "Search their company, recent deals, or public statements. Write three things they care about before you meet."
+        },
+        {
+          "n": "2",
+          "title": "Write their internal pressure in one sentence",
+          "desc": "Finish this: 'They need this deal because ___.' If you don't know, write your best guess and go test it."
+        },
+        {
+          "n": "3",
+          "title": "Build one offer that solves their pressure",
+          "desc": "Design at least one term in your proposal that addresses their hidden need — not just your own."
+        }
+      ],
+      "script": "\"I noticed you've been moving quickly on deals this quarter — is speed a priority for you on this one too?\"",
+      "counter": "Someone has done this homework on you when their opening offer lands exactly on your weak point.\n• They knew where you'd hurt. Don't confirm it by reacting.\n• Say: 'That's an interesting place to start — walk me through your reasoning.'\n• Give nothing away about how close to home it landed.",
+      "insight": "The gap between what you know about them and what they know about you is the real thing giving you the upper hand — the question is how you use it without tipping them off."
+    },
+    {
+      "id": 6,
+      "cat": "moves",
+      "danger": "low",
+      "title": "Find Out What They Want, Not What They're Saying",
+      "hook": "People ask for one thing and need something different. <strong>Give them what they asked for and you might miss a better deal for both of you.</strong>",
+      "truth": "A position is their stated demand. An interest is the reason behind it. They're rarely the same.\n• Fighting over positions locks both sides into a fight where only one can win.\n• Finding the interest opens up trades that weren't visible at the surface.\n• The trap: assuming you know the interest without asking — you don't.",
+      "principle": "Fisher & Ury: Interests vs. Positions",
+      "remember": "What they're asking for and what they need are usually different things.",
+      "theySee": "Two people who stopped arguing and started drawing on a napkin together.",
+      "signals": [
+        {
+          "l": "They repeat it",
+          "t": "They say the same demand multiple times with different words.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Non-money push",
+          "t": "They push hard on something that isn't money — timing, recognition, or control.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Odd specificity",
+          "t": "They insist on a detail that seems too specific to be random.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Tone shift",
+          "t": "Their tone gets warmer when you start asking about the reason behind their ask.",
+          "icon": "🌡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Separate each demand from its reason",
+          "desc": "Write their position on the left. On the right, write 'because they need ___.' Fill in the right side."
+        },
+        {
+          "n": "2",
+          "title": "Ask one question about the reason",
+          "desc": "Say: 'What would having that give you that you don't have now?' Then listen."
+        },
+        {
+          "n": "3",
+          "title": "Offer something that meets the need, not the demand",
+          "desc": "Design a counter that solves their interest. It may cost you less than giving them what they asked for."
+        }
+      ],
+      "script": "\"What would having that give you that you don't have right now?\"",
+      "counter": "Someone is working this on you when they keep asking about your reasons rather than reacting to your terms.\n• Don't rank your interests out loud — you'll tell them which ones to threaten.\n• Say: 'I'm happy to talk once I hear more from your side.'\n• Give one interest, then ask for one in return.",
+      "insight": "Solving their real need is often cheaper than matching their stated demand — the harder part is that they may not even know what their real need is."
+    },
+    {
+      "id": 7,
+      "cat": "position",
+      "danger": "moderate",
+      "title": "Never Give a Concession for Free",
+      "hook": "Every time you give something without asking for something back, you tell them more is available for free. <strong>They'll keep asking.</strong>",
+      "truth": "Giving away concessions without getting something back is the fastest way to lose control of a negotiation.\n• Free concessions teach the other side that pressure works on you.\n• Trading concessions keeps both sides invested in reaching a deal.\n• The trap: giving something small to 'show good faith' and getting nothing back.",
+      "principle": "Cialdini: Reciprocity",
+      "remember": "Never give anything away without getting something back for it.",
+      "theySee": "A negotiator who pauses before agreeing to anything and always asks what they get in return.",
+      "signals": [
+        {
+          "l": "Warm thanks",
+          "t": "They thank you warmly after you give something, then immediately make another ask.",
+          "icon": "😊"
+        },
+        {
+          "l": "Small asks stack",
+          "t": "They make a series of small asks, each framed as 'just one more thing.'",
+          "icon": "📋"
+        },
+        {
+          "l": "Tone gets warmer",
+          "t": "Their voice softens right before a new ask — using the goodwill you just gave them.",
+          "icon": "🎭"
+        },
+        {
+          "l": "No counter given",
+          "t": "They accept your concession but offer nothing back in return.",
+          "icon": "🫳"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List your concessions in advance",
+          "desc": "Before the meeting, write five things you can give up. Rank them from least to most costly."
+        },
+        {
+          "n": "2",
+          "title": "Attach a price to every concession",
+          "desc": "Decide what you want in return for each item before anyone asks. Have the trade ready."
+        },
+        {
+          "n": "3",
+          "title": "Make the trade visible out loud",
+          "desc": "When you give, say it: 'I can do that if you give me something on the timeline. What can you do?'"
+        }
+      ],
+      "script": "\"I can move on that — but I'd need something from you on the timeline. What can you do?\"",
+      "counter": "Someone is doing this to you when they give you something small to create pressure for you to give back.\n• Recognize the gift — it was designed to make you feel like you owe them.\n• Say: 'I appreciate that — let's keep both sides moving and see where we land.'\n• Don't give back more than you received.",
+      "insight": "The concession trade works until one side starts giving things they didn't value — then the whole exchange becomes theater and the real deal is happening somewhere else."
+    },
+    {
+      "id": 8,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Name the Hardball Move Out Loud",
+      "hook": "Hardball tactics work best when you don't see them coming. <strong>Name what's happening and the move loses most of its force.</strong>",
+      "truth": "When you call a tactic by name, you strip the person using it of the element of surprise.\n• Naming the tactic signals you've seen it before — it's no longer a surprise weapon.\n• The other side must deny or own it — both options put them back.\n• The trap: treating the tactic like a real position keeps you playing their game.",
+      "principle": "Voss: Label",
+      "remember": "Say what you see. Naming a move breaks it.",
+      "theySee": "A person who just looked at a pushy negotiator and described exactly what they were doing, calmly.",
+      "signals": [
+        {
+          "l": "Fake deadline",
+          "t": "They say the deal expires today but there's no real reason behind it.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Extreme opening",
+          "t": "Their first offer is so far from reasonable it seems designed to shock you.",
+          "icon": "💣"
+        },
+        {
+          "l": "Walk-out threat",
+          "t": "They threaten to leave or end the deal to see if you panic.",
+          "icon": "🚪"
+        },
+        {
+          "l": "Two-person act",
+          "t": "One person is warm and agreeable while the other is aggressive — good cop, bad cop.",
+          "icon": "🎭"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Learn the five moves by name",
+          "desc": "Write them down: extreme anchor, fake deadline, good cop/bad cop, take-it-or-leave-it, deliberate insult. Know each one cold."
+        },
+        {
+          "n": "2",
+          "title": "Practice saying them calmly",
+          "desc": "Say 'That sounds like a take-it-or-leave-it' in a flat voice before the meeting. Practice until it comes out without heat."
+        },
+        {
+          "n": "3",
+          "title": "Name it in the room without anger",
+          "desc": "When you spot it, say what it is. No accusation. Just: 'It seems like we're at a take-it-or-leave-it moment.'"
+        }
+      ],
+      "script": "\"It seems like we're working with a hard deadline here — is that a real constraint or is there room to move?\"",
+      "counter": "Someone can name YOUR moves too — which is why you don't use the obvious ones.\n• If they call a tactic, don't deny it — pivot to the interest behind it.\n• Say: 'Fair point — what I'm really trying to get at is X.'\n• The person who names the game controls the game.",
+      "insight": "Naming the move works once — the harder problem is what you do after you've named it and they still don't change course."
+    },
+    {
+      "id": 9,
+      "cat": "position",
+      "danger": "low",
+      "title": "Stay Quiet After You Name Your Price",
+      "hook": "Most people speak right after they name a price — because silence feels dangerous. <strong>That first word after your number costs you money.</strong>",
+      "truth": "Silence puts the pressure on the other side to react, not on you to explain or soften your offer.\n• When you fill the silence, you negotiate against yourself before they've even responded.\n• The other side reads your talking as doubt — and moves in on it.\n• The trap: adding reasons after your number tells them the number isn't firm.",
+      "principle": "Loss Aversion",
+      "remember": "Name your price. Stop talking. Wait.",
+      "theySee": "A person who just said a number and then sat back and looked at the other side, saying nothing.",
+      "signals": [
+        {
+          "l": "Jaw tightens",
+          "t": "They react physically to the number before saying anything.",
+          "icon": "😬"
+        },
+        {
+          "l": "Long pause",
+          "t": "Five or more seconds of silence after your offer — they're thinking, not walking.",
+          "icon": "⏳"
+        },
+        {
+          "l": "They look away",
+          "t": "They break eye contact and look down or to the side.",
+          "icon": "👀"
+        },
+        {
+          "l": "Starts with 'well'",
+          "t": "Their first word is a filler — which means they're about to negotiate, not leave.",
+          "icon": "💬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your number and add one sentence",
+          "desc": "State the price and one short reason. Then stop. Do not add a second sentence."
+        },
+        {
+          "n": "2",
+          "title": "Count to ten in your head",
+          "desc": "After your number, count silently to ten. Do not speak until they do."
+        },
+        {
+          "n": "3",
+          "title": "Write 'don't speak' on your notes",
+          "desc": "Put it somewhere visible during the meeting. It sounds simple. It works."
+        }
+      ],
+      "script": "\"We're at $X on this. That's where we are.\"",
+      "counter": "They're using silence on you when they name a price and then just look at you, saying nothing.\n• Don't fill it — the first person to speak after an anchor loses ground.\n• Take your time. Write something down.\n• Ask: 'Walk me through how you got to that number.' Don't counter yet.",
+      "insight": "Silence is the cheapest move in the room — the problem is that most people can't sit in it long enough to let it work."
+    },
+    {
+      "id": 10,
+      "cat": "position",
+      "danger": "high",
+      "title": "Never Lower Your Number Before They Say No",
+      "hook": "If you offer less before they've rejected your first number, you've done their job for them. <strong>They didn't have to push — you pushed yourself.</strong>",
+      "truth": "Negotiating against yourself happens when you move from your position before the other side has rejected it.\n• Lower your ask without being pushed and they know you'll move again.\n• They now know to wait — you'll blink on your own.\n• The trap: softening an offer early because you're afraid they'll say no.",
+      "principle": "Status Asymmetry",
+      "remember": "Don't lower your number until they say no to it.",
+      "theySee": "A seller who named a price, then immediately offered a discount before the buyer said a word.",
+      "signals": [
+        {
+          "l": "They just smile",
+          "t": "They say nothing after your offer and smile, waiting for you to blink.",
+          "icon": "🙂"
+        },
+        {
+          "l": "Vague pushback",
+          "t": "They say 'that seems high' without naming what they'd actually pay.",
+          "icon": "🤔"
+        },
+        {
+          "l": "You start explaining",
+          "t": "You find yourself justifying the number without them asking you to.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "You add more",
+          "t": "You offer something extra before they've rejected what you already put on the table.",
+          "icon": "➕"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Make your offer and sit on it",
+          "desc": "State your number. Write it on paper if it helps. Do not add anything else."
+        },
+        {
+          "n": "2",
+          "title": "When they push vaguely, ask for their number",
+          "desc": "Say: 'What number would work for you?' — force them to name their position."
+        },
+        {
+          "n": "3",
+          "title": "Only move after they've moved first",
+          "desc": "Your second number only comes out after they've named theirs. Not one second before."
+        }
+      ],
+      "script": "\"That's my number — what would you need to see to make this work on your end?\"",
+      "counter": "They're doing this to you when they use silence or vague pushback to get you to lower your own ask.\n• Don't read silence as rejection — it's usually just pressure.\n• Sit with it. Ask: 'What are you thinking?'\n• Don't move until they name their counter.",
+      "insight": "The person who holds their number longest controls the deal — the harder part is knowing when their silence is real hesitation and when it's just a tactic."
+    },
+    {
+      "id": 11,
+      "cat": "moves",
+      "danger": "moderate",
+      "title": "Use Their Own Deadline Against Them",
+      "hook": "They set a deadline to push you into a fast yes. <strong>That same deadline is pushing them harder than it's pushing you — if you know your walk-away.</strong>",
+      "truth": "Deadlines almost always hurt the side with more to lose if the deal falls through.\n• Ask yourself: who needs this deal more? That's who the deadline is really hurting.\n• The closer the deadline gets, the more they'll give to close it.\n• The trap: assuming the deadline is as real and final as they say.",
+      "principle": "Cialdini: Scarcity — Time Pressure",
+      "remember": "Their deadline hurts them too. Find out who needs the deal more.",
+      "theySee": "A negotiator who heard the deadline and didn't blink, just kept talking about terms.",
+      "signals": [
+        {
+          "l": "Sudden urgency",
+          "t": "They add a deadline to a deal that had none before you started pushing back.",
+          "icon": "🚨"
+        },
+        {
+          "l": "End-of-day call",
+          "t": "They ask you to decide by close of business without a real reason behind it.",
+          "icon": "📞"
+        },
+        {
+          "l": "They call first",
+          "t": "They reach out right before the deadline — which means they're watching it closely.",
+          "icon": "📱"
+        },
+        {
+          "l": "Terms get looser",
+          "t": "As the deadline gets closer, their offers get more flexible.",
+          "icon": "📉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Question whether the deadline is real",
+          "desc": "Say: 'What happens if we miss that date?' The answer tells you how firm it actually is."
+        },
+        {
+          "n": "2",
+          "title": "Keep negotiating right up to the deadline",
+          "desc": "Don't rush to close early. The best terms often come in the last hour."
+        },
+        {
+          "n": "3",
+          "title": "Watch their behavior, not the clock",
+          "desc": "If they're calling more often as the deadline gets close, they need the deal more than they're showing."
+        }
+      ],
+      "script": "\"What happens if we don't close by then — is that a hard stop or a target?\"",
+      "counter": "A fake deadline being used on you feels like urgency but has no real consequence behind it.\n• Ask what specifically changes after the deadline.\n• If they can't name a concrete consequence, the deadline is theater.\n• Take the time you need. Missing a fake deadline costs you nothing.",
+      "insight": "Every deadline is someone's problem — the question is whether it's theirs or yours, and most people never bother to find out."
+    },
+    {
+      "id": 12,
+      "cat": "close",
+      "danger": "extreme",
+      "title": "Know When to Walk Away and Do It",
+      "hook": "The threat to walk away only works if you'll actually do it. <strong>Bluffing once is fine. Getting called is the end of your position.</strong>",
+      "truth": "Walking away is the most powerful move in any negotiation — and the one people use least.\n• Your walk-away only works if they believe you have another option.\n• Staying at a bad table longer makes you weaker, not the deal better.\n• The trap: mistaking 'I've put in a lot of time' for 'this deal is worth taking.'",
+      "principle": "Fisher & Ury: BATNA — Walk-Away Power",
+      "remember": "A bad deal stays bad no matter how long you wait.",
+      "theySee": "A person standing up, gathering their notes, and heading for the door without raising their voice.",
+      "signals": [
+        {
+          "l": "Terms go backward",
+          "t": "Their offers get worse over time — they've decided you won't leave.",
+          "icon": "📈"
+        },
+        {
+          "l": "You're justifying",
+          "t": "You find yourself making the case for accepting a deal you don't like.",
+          "icon": "🧠"
+        },
+        {
+          "l": "They stop moving",
+          "t": "Every counter-offer is the same number with different words.",
+          "icon": "🔒"
+        },
+        {
+          "l": "You feel trapped",
+          "t": "You feel like you can't leave because of all the time already spent.",
+          "icon": "🪤"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check your limit against the current deal",
+          "desc": "Write the deal as it stands. Is it above or below your walk-away? If below, you already have your answer."
+        },
+        {
+          "n": "2",
+          "title": "Say you're at your limit once",
+          "desc": "Say: 'I've taken this as far as I can — this is where I need to be.' Say it once. Then wait."
+        },
+        {
+          "n": "3",
+          "title": "Leave cleanly if nothing changes",
+          "desc": "Stand up. Stay calm. Say: 'Let's pick this up if the terms change.' Then go."
+        }
+      ],
+      "script": "\"I've taken this as far as I can. If anything changes on your end, I'm still open — but I can't do this deal at these terms.\"",
+      "counter": "Someone is threatening to walk to see if you'll panic and give more.\n• Don't chase them — if they're bluffing, they'll come back.\n• Say: 'I understand — let me know if that changes.'\n• Chasing a walk-out threat confirms they should keep using it.",
+      "insight": "Walking away from a bad deal makes every future deal you do with anyone go better — the harder part is doing it the first time."
+    }
+  ]
+}
