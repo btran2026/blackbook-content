@@ -1,0 +1,1203 @@
+{
+  "meta": {
+    "id": "srv-exact-words-for-the-director-level",
+    "version": "1.0",
+    "title": "Exact Words for the Director Level",
+    "subtitle": "The vocabulary that moves you from manager to management",
+    "description": "Word-for-word scripts for titles, meetings, reviews, negotiations, and exits at the software director level. What to say, what it signals, and what to do when it doesn't land.",
+    "author": "AI",
+    "createdAt": "2026-11-03T00:16:35.089Z",
+    "tags": [
+      "career",
+      "management",
+      "leadership",
+      "negotiation",
+      "workplace",
+      "tech"
+    ],
+    "totalCards": 20,
+    "isSeeded": true,
+    "coverColor": "#1A1A1D",
+    "coverIcon": "🎖️",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "title_words",
+      "label": "Title Wording",
+      "color": "#C9A227"
+    },
+    {
+      "key": "room_language",
+      "label": "Room Language",
+      "color": "#3B5BA5"
+    },
+    {
+      "key": "ownership_verbs",
+      "label": "Ownership Verbs",
+      "color": "#B33A3A"
+    },
+    {
+      "key": "ask_for_it",
+      "label": "Promotion & Comp Wording",
+      "color": "#2E8B57"
+    },
+    {
+      "key": "status_moves",
+      "label": "Political Wording",
+      "color": "#7A3E9D"
+    },
+    {
+      "key": "written_word",
+      "label": "Written Wording",
+      "color": "#1E7F7F"
+    },
+    {
+      "key": "exit_words",
+      "label": "Exit & Hard Conversations",
+      "color": "#4A4A52"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "title_words",
+      "danger": "low",
+      "title": "Write One Title Up On LinkedIn",
+      "when": "You are job hunting and your real title undersells your actual scope.",
+      "hook": "Recruiters and ATS filters search the exact word in your headline. <strong>If you write 'Manager' you get Manager offers.</strong>",
+      "truth": "Recruiters and keyword filters sort you by the exact word you choose, not your actual scope.\n• The search engine matches your headline word to the job title word.\n• A small-title headline keeps you out of searches for the bigger role.\n• Most people wait for the company to give them the word first and lose months of search visibility.",
+      "principle": "Greene: Law 34 — Act Like a King to Be Treated Like One",
+      "remember": "Write the job title you want, not the one you have.",
+      "theySee": "A recruiter scanning headlines who sees 'Director of Engineering' and sorts you into the director pile.",
+      "signals": [
+        {
+          "icon": "📥",
+          "l": "Inbound shift",
+          "t": "Recruiters start messaging you about director-level openings instead of manager ones."
+        },
+        {
+          "icon": "🔑",
+          "l": "Keyword match",
+          "t": "A job post's required title matches the exact word in your headline."
+        },
+        {
+          "icon": "🔇",
+          "l": "ATS silence",
+          "t": "You apply to director roles and never hear back because your headline says Manager."
+        },
+        {
+          "icon": "👥",
+          "l": "Peer title creep",
+          "t": "Former peers update their headline the same way within a few months."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Audit the scope",
+          "desc": "Write down headcount, budget, and systems you actually run today."
+        },
+        {
+          "n": "2",
+          "title": "Match the next title",
+          "desc": "Find job postings one level up and copy their exact title word."
+        },
+        {
+          "n": "3",
+          "title": "Update the headline",
+          "desc": "Replace your current title word on LinkedIn and your resume header this week."
+        }
+      ],
+      "script": "\"Engineering Leader | Scaled a 12-person platform org | Ex-[Company]\"",
+      "example": "Dan ran a 14-person team with the title 'Senior Engineering Manager.' He rewrote his LinkedIn headline to 'Director of Engineering' before he ever got the title internally. Three director recruiters messaged him inside a month, and he used one offer to force the promotion at his current company.",
+      "watchFor": "Recruiters start writing 'Director' in their first message to you instead of 'Manager.'",
+      "ifItFails": "Internal peers or your current boss notice the mismatch and ask why your LinkedIn says Director when your offer letter says Manager. Don't apologize or walk it back — say the scope line out loud: \"My scope matches a Director role at most companies — I'm using the market word for it.\" Then open the promotion conversation instead of hiding from it.",
+      "counter": "If a candidate's title looks inflated against their scope, check the number behind it, not the word.\n• Notice headline titles that run ahead of actual team or company size.\n• Ask directly: \"How many people report to you, directly and indirectly?\"\n• Hire on the scope number, negotiate the title after, never before.",
+      "insight": "The company that gave you the small title is not the company that gets to correct the big one. The harder part is holding the new title once the market starts treating you like it's real."
+    },
+    {
+      "id": 2,
+      "cat": "title_words",
+      "danger": "low",
+      "title": "Make Them Name The Title",
+      "when": "Your responsibilities have grown past your current title but no one has offered a new one.",
+      "hook": "Don't ask for 'Director.' Make them say the word first. <strong>Whoever names the title owns the decision.</strong>",
+      "truth": "A calibrated question moves the work onto them without a demand they can flatly refuse.\n• A direct ask for 'Director' gives them a yes or no they can say no to.\n• A calibrated question makes them solve your problem out loud.\n• Most people demand the title instead, which reads as entitled, not earned.",
+      "principle": "Voss: Calibrated Question",
+      "remember": "Ask what title fits the job. Don't ask for the job's name.",
+      "theySee": "A boss who gets asked an open question in a 1:1 instead of handed a title demand to approve or deny.",
+      "signals": [
+        {
+          "icon": "⏸️",
+          "l": "Pause then hedge",
+          "t": "Your boss pauses, then says 'let me think about that' instead of a flat no."
+        },
+        {
+          "icon": "📋",
+          "l": "Scope recap",
+          "t": "They start listing out everything you already run, out loud."
+        },
+        {
+          "icon": "🏢",
+          "l": "HR loop-in",
+          "t": "They say they need to check with HR or their own boss about the title band."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Vague timeline",
+          "t": "They promise to 'figure it out' without naming a date."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the scope out loud",
+          "desc": "Write the exact decisions, budget, and headcount you already control."
+        },
+        {
+          "n": "2",
+          "title": "Ask the open question",
+          "desc": "Ask what title matches that scope at this company, in a scheduled 1:1."
+        },
+        {
+          "n": "3",
+          "title": "Name a date",
+          "desc": "Ask when you can expect an answer, out loud, before the meeting ends."
+        }
+      ],
+      "script": "\"I'm running the platform roadmap, three engineers report to me directly, and I sign off on the architecture reviews. What title reflects that here?\"",
+      "example": "Priya had been doing director-level planning for two quarters under the title 'Staff Engineer, Team Lead.' She listed her scope and asked her VP the open question directly. He came back a week later with 'Director of Platform Engineering' — a title she never had to ask for by name.",
+      "watchFor": "Your boss starts using a specific title out loud before you say one yourself.",
+      "ifItFails": "They answer with 'you're doing great, let's revisit next cycle' and name no title at all. Don't accept the delay quietly — ask the harder calibrated question: \"What would need to be true in the next 90 days for that title to exist?\" That forces a concrete bar instead of a vague future.",
+      "counter": "If someone lists their scope and asks you to name their title, you are being moved into a corner on purpose.\n• Notice when a scope recap arrives with no actual ask attached.\n• Say: \"Let me come back to you with a specific proposal by [date].\"\n• Then control the title and timeline yourself instead of filling their blank.",
+      "insight": "Naming your own title sounds confident but it hands them an easy no. Making them say the word costs them more to walk back later. The next problem is making the title stick in writing, not just in a hallway conversation."
+    },
+    {
+      "id": 3,
+      "cat": "title_words",
+      "danger": "moderate",
+      "title": "Negotiate Title Before Comp",
+      "when": "You get a verbal offer and the recruiter asks if the number works before title is locked.",
+      "hook": "Comp resets every negotiation. <strong>Title follows you to the next company and the one after that.</strong>",
+      "principle": "Schelling: Commitment Device — Lock the Sticky Variable First",
+      "remember": "Get the title right. The next raise is easier than the next promotion.",
+      "truth": "Companies treat title and comp as separate levers, and most candidates only pull one.\n• Comp negotiates every year; title changes maybe twice a decade.\n• A better title at a mediocre raise still raises your market price everywhere else.\n• Most people fixate on the number and let the title get decided by default.",
+      "theySee": "A candidate who sounds calm about money and specific about one thing: the title line.",
+      "signals": [
+        {
+          "icon": "✅",
+          "l": "Quick comp yes",
+          "t": "They agree to your number fast, which means there's more room somewhere."
+        },
+        {
+          "icon": "🤷",
+          "l": "Title shrug",
+          "t": "The recruiter says 'titles are just titles here' when you raise it."
+        },
+        {
+          "icon": "🪜",
+          "l": "Band language",
+          "t": "They start talking about 'levels' instead of the title word itself."
+        },
+        {
+          "icon": "📝",
+          "l": "Written offer lag",
+          "t": "The verbal title differs slightly from what shows up in the written offer."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Split the asks",
+          "desc": "Decide before the call which matters more to you this round: title or comp."
+        },
+        {
+          "n": "2",
+          "title": "Ask for title in writing first",
+          "desc": "Say you want the exact title confirmed before you discuss the number."
+        },
+        {
+          "n": "3",
+          "title": "Compare to the next job",
+          "desc": "Check how the title reads on a resume for your next job search, not just this one."
+        }
+      ],
+      "script": "\"Before we talk numbers — can we confirm the title will say 'Director of Engineering' on the offer letter, not 'Senior Manager'?\"",
+      "example": "Lucas took a 'Senior Manager' offer with a strong salary over a 'Director' offer paying 8% less. Eighteen months later the Senior Manager title stalled every director-level interview he had. He took the lower-paying title job on his next move just to reset the word on his resume.",
+      "watchFor": "The recruiter stops negotiating comp and goes quiet to check on the title internally.",
+      "ifItFails": "They say the title band is fixed and cannot move regardless of comp. Don't fold and switch back to money alone — ask for the next-best fix: \"Can we put a title review at six months in writing, tied to the scope I'm taking on?\" That converts a no into a dated checkpoint.",
+      "counter": "If a candidate pushes hard on title and shrugs at comp, they are playing a longer game than this offer.\n• Notice when someone trades salary dollars for a title word without blinking.\n• Ask them directly: \"Is the title or the number the thing you can't move on?\"\n• Give the cheaper lever generously; protect the one that costs you long-term.",
+      "insight": "Money forgets itself after a year; a title sits on every resume and search result after it. The harder problem is proving you can do the job the new title promises, fast enough that nobody asks."
+    },
+    {
+      "id": 4,
+      "cat": "room_language",
+      "danger": "low",
+      "title": "Say Your Scope Before Your Name",
+      "when": "You meet a VP or exec for the first time and get thirty seconds to introduce yourself.",
+      "hook": "Nobody remembers your title. <strong>Everyone remembers the number you say right after it.</strong>",
+      "principle": "Status Asymmetry — Scope Signaling",
+      "remember": "Say what you run before you say who you are.",
+      "truth": "People rank you by scope the instant they hear it, before they process your name.\n• A number like team size or systems owned lands faster than a title word.\n• Titles vary by company; scope translates everywhere instantly.\n• Most people lead with name and title, and the scope gets asked for later, weaker.",
+      "theySee": "Someone who sounds like they already know their own size and doesn't need the title to prove it.",
+      "signals": [
+        {
+          "icon": "👁️",
+          "l": "Eye contact hold",
+          "t": "They keep eye contact a beat longer after you state a number."
+        },
+        {
+          "icon": "❓",
+          "l": "Follow-up question",
+          "t": "They ask a specific question about your scope, not small talk."
+        },
+        {
+          "icon": "🧠",
+          "l": "Name recall",
+          "t": "They use your name correctly later in the same meeting."
+        },
+        {
+          "icon": "🔄",
+          "l": "Seating shift",
+          "t": "They address you directly in group discussion instead of whoever introduced you."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the one-line scope",
+          "desc": "Pick one number: team size, systems owned, or revenue touched."
+        },
+        {
+          "n": "2",
+          "title": "Lead with it",
+          "desc": "Say the scope line before your name and title in the introduction."
+        },
+        {
+          "n": "3",
+          "title": "Drop the filler",
+          "desc": "Cut words like 'I just' or 'I'm also involved in' from the line entirely."
+        }
+      ],
+      "script": "\"I run the payments platform — fourteen engineers, about forty million a year in transaction volume. I'm Rosa.\"",
+      "example": "Rosa used to introduce herself as 'Rosa, Engineering Manager on Payments.' At an all-hands mixer she flipped it: scope first, name last. The CTO remembered her name three weeks later and pulled her into a platform strategy meeting she wasn't invited to.",
+      "watchFor": "The other person repeats your scope number back to you later in the conversation.",
+      "ifItFails": "They nod politely and move to the next person with no follow-up question, meaning the number didn't land. Don't repeat it louder next time — get it into writing instead, where it will outlast the room: mention it in your next shared email thread or meeting notes.",
+      "counter": "If someone leads with a number before their name, they're setting the scope frame before you set it for them.\n• Notice when a number arrives before any context about why it matters.\n• Ask the sharper question: \"What decisions do you make at that scope?\"\n• That moves the talk from size to judgment, which is harder to inflate.",
+      "insight": "A number is a claim, not proof — anyone can say fourteen engineers. The real test comes later, when someone checks if the decisions match the size you claimed."
+    },
+    {
+      "id": 5,
+      "cat": "room_language",
+      "danger": "low",
+      "title": "Say Roadmap And Headcount, Not Project And Hiring",
+      "when": "You're in a planning meeting talking about what to build and who to hire.",
+      "hook": "'Project' and 'hiring' are manager words. <strong>'Roadmap' and 'headcount' are the same thing said at the next level up.</strong>",
+      "principle": "Framing Effect — Register Signaling",
+      "remember": "Say roadmap, not project. Say headcount, not hiring.",
+      "truth": "People sort your rank by your vocabulary before they check your title.\n• 'Project' sounds like one deliverable; 'roadmap' sounds like a sequence you own.\n• 'Hiring' sounds like a task; 'headcount' sounds like a budget you control.\n• Most people don't notice the swap because both words describe the same thing.",
+      "theySee": "A peer who talks about planning the way the directors in the room talk about it.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Word mirroring",
+          "t": "A director in the meeting starts using your word back to you."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Different questions",
+          "t": "People start asking you about sequencing and tradeoffs instead of status updates."
+        },
+        {
+          "icon": "📩",
+          "l": "Invite upgrade",
+          "t": "You get looped into the planning meeting before the work starts, not after."
+        },
+        {
+          "icon": "💰",
+          "l": "Budget questions",
+          "t": "Someone asks what the headcount costs instead of when the role opens."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Swap the five words",
+          "desc": "Replace project, hiring, task, update, and plan with roadmap, headcount, workstream, readout, and strategy."
+        },
+        {
+          "n": "2",
+          "title": "Say it in writing first",
+          "desc": "Use the new words in your next status email before you say them out loud."
+        },
+        {
+          "n": "3",
+          "title": "Hold the swap under pressure",
+          "desc": "Keep the vocabulary even when a peer uses the smaller word back at you."
+        }
+      ],
+      "script": "\"The Q3 roadmap needs two more headcount on the infra workstream to hit the readout date.\"",
+      "example": "Jamal kept saying 'my project' and 'I'm hiring two people' in staff meetings for a year with no traction. He switched to 'my roadmap' and 'headcount plan' in the same meetings. Within two quarters, the director started asking his opinion on other teams' headcount requests.",
+      "watchFor": "Someone asks your opinion on a topic outside your direct team, treating you as a peer planner.",
+      "ifItFails": "A peer or your boss calls out the word swap directly — \"since when do you call it a roadmap\" — in front of others. Don't backpedal to the smaller word. Say flatly: \"That's what it is — a sequence, not a one-off,\" and keep using it in the next sentence.",
+      "counter": "If someone suddenly upgrades their vocabulary in meetings, they're angling for a bigger seat.\n• Notice task language replaced by strategy language within weeks, not months.\n• Test it: ask a strategy-level question and see if they can answer past the vocabulary.\n• If they can't answer, the words are a costume, not a promotion yet.",
+      "insight": "Vocabulary is cheap to copy and expensive to back up. The real move isn't the word — it's being ready when someone tests whether you can answer at the level you just claimed."
+    },
+    {
+      "id": 6,
+      "cat": "room_language",
+      "danger": "moderate",
+      "title": "Call It Your Org Before It's Official",
+      "when": "Your team has quietly grown or absorbed another group but the org chart hasn't caught up yet.",
+      "hook": "The org chart is slow. <strong>Your words can update faster than HR paperwork.</strong>",
+      "principle": "Greene: Law 34 — Act Like a King to Be Treated Like One",
+      "remember": "Call it your org before anyone else does.",
+      "truth": "Territory gets claimed in speech before it gets claimed on paper.\n• Saying 'my org' out loud normalizes the bigger frame before anyone objects.\n• Nobody corrects small word choices in real time, so it slides through.\n• Most people wait for the title change first and lose months of free positioning.",
+      "theySee": "Someone who talks about a bigger piece of the company than their business card says.",
+      "signals": [
+        {
+          "icon": "🤐",
+          "l": "No correction",
+          "t": "Nobody in the room corrects you when you say 'my org.'"
+        },
+        {
+          "icon": "🔂",
+          "l": "Repeat usage",
+          "t": "A skip-level manager repeats 'your org' back to you unprompted."
+        },
+        {
+          "icon": "📊",
+          "l": "Org chart request",
+          "t": "Someone from HR or ops asks you to confirm your reporting structure for a chart update."
+        },
+        {
+          "icon": "⚔️",
+          "l": "Rival pushback",
+          "t": "A peer who also grew recently starts using the same word about their team, fast."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Confirm the real scope first",
+          "desc": "Count the people and teams actually reporting up through you today."
+        },
+        {
+          "n": "2",
+          "title": "Use the word in low-stakes rooms first",
+          "desc": "Say 'my org' in a casual Slack message or hallway chat before a big meeting."
+        },
+        {
+          "n": "3",
+          "title": "Escalate to formal settings",
+          "desc": "Use it in a skip-level or all-hands once it's gone unchallenged twice."
+        }
+      ],
+      "script": "\"My org picked up the data platform team last quarter, so we're coordinating the Q4 roadmap together now.\"",
+      "example": "Ravi's team absorbed a struggling data platform group informally during a reorg. He started calling it 'my org' in weekly syncs before HR updated the chart. By the time the official org chart caught up, everyone already treated him as running both groups.",
+      "watchFor": "Someone else starts referring to your group as 'Ravi's org' without you saying it first.",
+      "ifItFails": "A peer or your boss corrects you in front of others — \"that's still two separate teams\" — a public check on the claim. Don't argue the word in the room. Say: \"Fair, I'll say 'teams' for now,\" then go confirm the real reporting line privately with your boss before using the bigger word again.",
+      "counter": "If a peer starts saying 'my org' about a scope that hasn't been formally given to them, call it before it sets.\n• Notice the word upgrade happening in casual settings first, not formal ones.\n• Ask directly in the room: \"Is that official, or how it's working day to day?\"\n• That forces a public correction before the frame hardens into fact.",
+      "insight": "Words move faster than org charts because nobody wants to be the one who stops a meeting to argue semantics. The harder part is being able to actually run the bigger scope once people start believing the word."
+    },
+    {
+      "id": 7,
+      "cat": "room_language",
+      "danger": "moderate",
+      "title": "Ask For The Constraint, Not The Why",
+      "when": "A VP makes a call you think is wrong and you need to push back without sounding junior.",
+      "hook": "'Why' sounds like a challenge. <strong>'What's the constraint' sounds like you're already solving it with them.</strong>",
+      "principle": "Voss: Tactical Empathy — Non-Accusatory Framing",
+      "remember": "Don't ask why. Ask what's stopping the other option.",
+      "truth": "'Why' puts the other person on defense, because it implies they owe you a justification.\n• A constraint question assumes they had a reason and invites you into it.\n• It reframes you from critic to problem-solver in one sentence.\n• Most people ask 'why' under pressure and get a short, defensive answer back.",
+      "theySee": "Someone who seems to be thinking alongside them, not auditing their decision.",
+      "signals": [
+        {
+          "icon": "📏",
+          "l": "Answer length",
+          "t": "They give a longer, more detailed answer than a one-line justification."
+        },
+        {
+          "icon": "🎚️",
+          "l": "Tone stays level",
+          "t": "Their voice doesn't sharpen or speed up when they respond."
+        },
+        {
+          "icon": "🤝",
+          "l": "Invite to solve",
+          "t": "They ask what you'd suggest given the same constraint."
+        },
+        {
+          "icon": "📅",
+          "l": "Follow-up access",
+          "t": "They agree to a follow-up conversation instead of ending the topic."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the decision neutrally",
+          "desc": "Restate their choice in one sentence with no judgment words."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the constraint",
+          "desc": "Ask what's limiting the other option, not why they picked this one."
+        },
+        {
+          "n": "3",
+          "title": "Offer your read last",
+          "desc": "Only after they answer, add your view as a question, not a correction."
+        }
+      ],
+      "script": "\"Got it — we're going with vendor A over B. What's the constraint that ruled B out — cost, timeline, or something else?\"",
+      "example": "Nia disagreed with a VP's vendor pick in a planning review. Instead of asking 'why would we do that,' she asked what constraint ruled out her preferred option. The VP admitted it was a budget assumption that was already outdated, and the decision got reopened without anyone losing face.",
+      "watchFor": "They start listing the actual tradeoffs instead of defending the decision as final.",
+      "ifItFails": "They answer with a one-line deflection like 'it's already decided' and shut the door. Don't push the same question again — name the cost instead: \"Understood. Can we flag the risk from [specific constraint] in writing so it's tracked if it comes up later?\" That gets the concern on record without a confrontation.",
+      "counter": "If someone asks what's constraining your decision instead of challenging it directly, they're managing you upward.\n• Notice the soft question replacing a direct objection.\n• Answer the real constraint honestly — dodging it reads as evasive, not smooth.\n• If you don't want it reopened, say so plainly: \"It's decided — happy to revisit after launch.\"",
+      "insight": "The soft question gets you more information than the sharp one, because nobody has to defend themselves to answer it. The harder skill is knowing when to stop asking and just say the decision is wrong."
+    },
+    {
+      "id": 8,
+      "cat": "ownership_verbs",
+      "danger": "low",
+      "title": "Ban Helped, Assisted, And Contributed To",
+      "when": "You write your self-assessment or a promotion packet summarizing your work.",
+      "hook": "'Helped' describes a bystander. <strong>'Drove' describes the person who gets promoted.</strong>",
+      "principle": "Framing Effect — Agency Language",
+      "remember": "You drove it, owned it, or shipped it. You did not help it happen.",
+      "truth": "Reviewers skim for verbs, not stories, when they decide who sounds senior.\n• Passive verbs read as support role even when you did the real work.\n• Active ownership verbs make the same work sound like a decision you made.\n• Most people under-claim out of modesty and get read as junior because of it.",
+      "theySee": "A reviewer or committee member who reads your line and assumes you led the work, not supported it.",
+      "signals": [
+        {
+          "icon": "🔍",
+          "l": "Verb audit flag",
+          "t": "A peer reviewer circles your passive verbs and asks for more detail."
+        },
+        {
+          "icon": "❓",
+          "l": "Calibration question",
+          "t": "Your manager asks 'who actually drove this?' in calibration."
+        },
+        {
+          "icon": "✍️",
+          "l": "Rewrite request",
+          "t": "HR or your manager sends the draft back asking you to be more specific."
+        },
+        {
+          "icon": "🤐",
+          "l": "Committee silence",
+          "t": "The promotion committee asks no questions, which means the verbs already answered them."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List this year's wins",
+          "desc": "Write down every project you touched, with no verbs yet."
+        },
+        {
+          "n": "2",
+          "title": "Replace the verb",
+          "desc": "For each line, swap helped, assisted, or contributed to for drove, owned, or scaled."
+        },
+        {
+          "n": "3",
+          "title": "Check it's still true",
+          "desc": "Only keep the stronger verb if you can name the specific decision you made."
+        }
+      ],
+      "script": "\"I owned the migration plan for the billing system and drove the rollout across four teams.\"",
+      "example": "Wen wrote 'helped migrate the billing system' in her first self-review draft and got passed over. Her manager told her to rewrite it as 'owned the migration plan.' Same work, same facts — the promotion committee approved it the next cycle.",
+      "watchFor": "Your manager stops asking 'who actually did this' and starts asking what you'd own next.",
+      "ifItFails": "Someone on the committee pushes back and says a teammate actually drove it, not you. Don't argue the verb — name the specific decision that was yours: \"The rollout sequencing and the rollback plan were mine; [teammate] owned the migration scripts.\" Splitting credit precisely beats defending a blanket claim.",
+      "counter": "If someone's self-review is full of drove, owned, and scaled, check the specifics before you believe the altitude.\n• Notice strong verbs with no named decision attached to them.\n• Ask directly: \"What was the one call only you could have made?\"\n• If they can't answer fast, the verb is doing work the story can't back up.",
+      "insight": "The verb gets you read; the specific decision gets you believed. The harder problem is other people in the room who also drove something and are competing for the same promotion slot."
+    },
+    {
+      "id": 9,
+      "cat": "ownership_verbs",
+      "danger": "low",
+      "title": "Drop Hopefully For A Flat Claim",
+      "when": "You give a status update on something that isn't finished yet.",
+      "hook": "'Hopefully' tells everyone you're not sure. <strong>Directors don't sound unsure out loud, even when they are.</strong>",
+      "principle": "Status Asymmetry — Certainty Signaling",
+      "remember": "Say it will ship. Don't say you hope it ships.",
+      "truth": "Listeners calibrate your confidence in the project off your confidence in your sentence.\n• A hedge word gets heard as a hidden risk, even if none exists.\n• A flat declarative gets read as control over the outcome.\n• Most people hedge to protect themselves if it slips, and it costs them credibility instead.",
+      "theySee": "Someone who sounds certain about the date, which reads as someone managing the risk, not hoping around it.",
+      "signals": [
+        {
+          "icon": "📉",
+          "l": "Follow-up drop",
+          "t": "People stop asking 'are you sure' after you switch to declarative language."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Calendar trust",
+          "t": "Others schedule dependent work off your date without double-checking it."
+        },
+        {
+          "icon": "🔽",
+          "l": "Escalation drop",
+          "t": "Your manager stops forwarding your updates to their boss for a second opinion."
+        },
+        {
+          "icon": "⚠️",
+          "l": "Risk question shift",
+          "t": "People ask what could change the date instead of whether you'll hit it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Flag the hedge words",
+          "desc": "Reread your last status update and circle every 'hopefully,' 'should,' and 'I think.'"
+        },
+        {
+          "n": "2",
+          "title": "Replace with a flat claim",
+          "desc": "State the date or result as fact, then name the one risk that could change it."
+        },
+        {
+          "n": "3",
+          "title": "Own the miss if it happens",
+          "desc": "If the date slips, say so plainly and give the new date the same way."
+        }
+      ],
+      "script": "\"This ships Friday. The one risk is the vendor's API change — if that slips, I'll flag it by Wednesday.\"",
+      "example": "Tom used to write 'hopefully we'll have this done by Friday' in weekly updates. His director told him it read as uncertain even when the work was on track. He switched to 'this ships Friday, one risk is X' and stopped getting pinged for status checks mid-week.",
+      "watchFor": "People stop asking for a confidence check and start planning around your stated date directly.",
+      "ifItFails": "The date slips after you stated it flatly, and someone calls out the broken promise in a group setting. Don't soften into hedges now — name the miss and the new date in the same breath: \"That date was wrong. New date is Tuesday, here's why.\" Owning the miss cleanly rebuilds trust faster than a vague apology does.",
+      "counter": "If someone states a date with total certainty and no named risk, they may be hiding the hedge instead of removing it.\n• Notice flat claims with zero mentioned risk — real plans always have one.\n• Ask directly: \"What's the one thing that could blow this date up?\"\n• If they can't name it, the confidence is a performance, not a plan.",
+      "insight": "Certain language moves faster through an org than honest hedging does, because nobody wants to slow a confident person down to check. The harder part is being right often enough that the confidence stays earned."
+    },
+    {
+      "id": 10,
+      "cat": "ownership_verbs",
+      "danger": "moderate",
+      "title": "Say You Own It, Not That You Work On It",
+      "when": "You give your update in a standup or weekly sync with your manager and peers listening.",
+      "hook": "'I work on the pipeline' is a task. <strong>'I own the pipeline' is a title nobody gave you yet.</strong>",
+      "principle": "Greene: Law 34 — Act Like a King to Be Treated Like One",
+      "remember": "Say you own it. Working on something is just a task.",
+      "truth": "Ownership language sets a claim that other people have to actively contest to undo.\n• 'I work on' implies anyone could be doing it; 'I own' implies only you decide it.\n• Silence after the claim is treated as agreement by everyone in the room.\n• Most people under-claim because 'own' feels presumptuous, and skip the free territory.",
+      "theySee": "A peer talking about a system like it's their call, not just their task list.",
+      "signals": [
+        {
+          "icon": "➡️",
+          "l": "Decision routing",
+          "t": "People start sending decisions about that system to you first."
+        },
+        {
+          "icon": "🤐",
+          "l": "No objection",
+          "t": "Nobody in the standup corrects the ownership claim when you say it."
+        },
+        {
+          "icon": "🚨",
+          "l": "Escalation path",
+          "t": "When that system breaks, you get paged or pinged before anyone else."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Credit default",
+          "t": "People say 'check with [you]' about that area without being asked to."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one system to claim",
+          "desc": "Choose the thing you already do the most real decision-making on."
+        },
+        {
+          "n": "2",
+          "title": "Say 'I own' in the next standup",
+          "desc": "Use the ownership word out loud in your next status update, once."
+        },
+        {
+          "n": "3",
+          "title": "Back it with a decision",
+          "desc": "Make one visible call on that system within the week so the claim holds."
+        }
+      ],
+      "script": "\"I own the deployment pipeline. This week I'm cutting the rollout time from twenty minutes to five.\"",
+      "example": "Keiko said 'I work on the CI pipeline' for a year with no change in how people treated her. She switched the language to 'I own the CI pipeline' in one standup and backed it by making a call on a tooling change the same week. Within a month, pipeline questions routed to her by default.",
+      "watchFor": "Someone else in the room redirects a pipeline question to you without you asking them to.",
+      "ifItFails": "A peer who also touches that system objects in the room — \"I thought we both own that\" — and the claim gets contested publicly. Don't retreat to 'work on' again. Say: \"Fair, let's split it clearly — I'll own deploys, you own monitoring,\" turning the contest into a negotiated split that still names a piece as yours.",
+      "counter": "If a peer claims ownership of something you also touch, decide fast whether to contest it or cede it.\n• Notice the ownership word landing in a group setting with no pushback.\n• If you want the territory, say so in the same meeting: \"Let's clarify who owns what.\"\n• If you don't want it, let it go cleanly — contested ownership helps nobody.",
+      "insight": "Ownership language is a land grab dressed as a status update. The next problem is maintenance — you have to keep making visible calls on it, or the claim quietly expires."
+    },
+    {
+      "id": 11,
+      "cat": "ask_for_it",
+      "danger": "moderate",
+      "title": "Say You're Already Doing The Job",
+      "when": "You believe your work matches the next title but nobody has raised a promotion conversation.",
+      "hook": "Don't ask to be promoted. <strong>Show them you already did the job, then ask them to catch up on paper.</strong>",
+      "principle": "Sunk-Cost Anchoring — Precedent Over Request",
+      "remember": "Name three big calls you already made. Don't ask for permission to make them.",
+      "truth": "A request for a future promotion is easy to defer; evidence of past decisions is harder to argue with.\n• Asking 'can I be promoted' puts the burden of proof on you going forward.\n• Naming decisions you already made puts the burden of denial on them.\n• Most people ask too early, before they have three concrete examples ready.",
+      "theySee": "Someone laying out a track record instead of making an emotional appeal.",
+      "signals": [
+        {
+          "icon": "📝",
+          "l": "Note-taking",
+          "t": "Your manager starts writing down the specific examples you give."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Timeline question",
+          "t": "They ask when the next promotion cycle opens instead of if you're ready."
+        },
+        {
+          "icon": "📊",
+          "l": "Calibration mention",
+          "t": "They say they'll 'bring this to calibration,' which means they're building your case."
+        },
+        {
+          "icon": "🔎",
+          "l": "Scope confirmation",
+          "t": "They ask you to confirm details of a decision you named, to use it later."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List three director-scope calls",
+          "desc": "Write three specific decisions you made that only a director normally makes."
+        },
+        {
+          "n": "2",
+          "title": "Bring receipts",
+          "desc": "Attach the outcome or number for each: dollars saved, people managed, risk avoided."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the paperwork, not the job",
+          "desc": "Ask what's needed to document the promotion, not whether you deserve one."
+        }
+      ],
+      "script": "\"I made the call to kill the vendor contract, saving us 200K. I set the hiring plan for the platform team. I own the architecture review process now. What do we need to make the title match that?\"",
+      "example": "Oscar had been making director-level calls for two quarters under a manager title. He walked into his 1:1 with three named decisions and dollar outcomes attached. His VP said 'I didn't realize it was this concrete' and opened a promotion case the same week.",
+      "watchFor": "Your manager asks for more detail on one of your examples to use in a promotion packet.",
+      "ifItFails": "Your manager agrees you're doing the work but says budget or headcount band freezes the title this cycle. Don't accept silence until 'next cycle' with no commitment. Ask for the specific trade: \"If the title can't move, can comp move to match the scope, with the title revisited at the next open cycle?\" Get a written date, not a vague future.",
+      "counter": "If a direct report lists three big decisions and asks what's needed for the title, they've built a real case — don't stall it on vibes.\n• Notice when the ask comes with numbers attached, not just a feeling of readiness.\n• Say plainly what's missing: \"I need one more quarter of X before I can take this to calibration.\"\n• Give a real date, not an indefinite 'soon' — vague answers cost you trust fast.",
+      "insight": "Evidence beats asking because it changes who has to do the explaining. The harder part is the gap between this conversation and the next calibration cycle — this is where vague promises quietly die."
+    },
+    {
+      "id": 12,
+      "cat": "ask_for_it",
+      "danger": "moderate",
+      "title": "Say 'The Number That Works Is X'",
+      "when": "You negotiate director-level comp and the recruiter or VP asks about your expectations.",
+      "hook": "'I was hoping for' sounds like a wish. <strong>'The number that works for me' sounds like a fact they now have to react to.</strong>",
+      "principle": "Cialdini: Commitment and Consistency via Firm Anchor",
+      "remember": "Say the number like it's already true. Don't ask for it like a favor.",
+      "truth": "A hedge before a number invites negotiation on the hedge, not just the number.\n• 'Hoping for' signals flexibility before you've said anything about the actual figure.\n• A flat statement gives them one variable to react to: yes, no, or counter.\n• Most people hedge out of fear of seeming greedy, and get anchored lower because of it.",
+      "theySee": "A candidate who sounds like they already know their worth and isn't checking for your reaction.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Counter speed",
+          "t": "They come back with a counter-offer instead of a flat rejection."
+        },
+        {
+          "icon": "🤫",
+          "l": "Silence then yes",
+          "t": "There's a pause, then they say the number works."
+        },
+        {
+          "icon": "❓",
+          "l": "Scope question",
+          "t": "They ask what you'd need to justify that number instead of arguing it down."
+        },
+        {
+          "icon": "📨",
+          "l": "Written follow-up",
+          "t": "They put a number close to yours in the written offer within days."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the real number",
+          "desc": "Decide the exact figure based on market data for the director level, not a guess."
+        },
+        {
+          "n": "2",
+          "title": "Drop the hedge words",
+          "desc": "Remove 'hoping,' 'thinking,' and 'maybe' from the sentence entirely."
+        },
+        {
+          "n": "3",
+          "title": "State it and stop talking",
+          "desc": "Say the number once, then stay quiet until they respond."
+        }
+      ],
+      "script": "\"The number that works for me is 215K base plus the standard director equity band.\"",
+      "example": "Aisha used to say 'I was hoping for around 190, but I'm flexible' in comp talks. Her mentor told her to cut the hedge. Next offer, she said '210 is the number that works for me' flat, and got 205 — fifteen thousand more than her usual outcome.",
+      "watchFor": "They stop asking if you're flexible and start asking what it would take to get there.",
+      "ifItFails": "They say the number is outside the band with no room to move at all. Don't drop the number immediately to look agreeable. Ask for the trade instead: \"If the base is fixed at the band, can we move on sign-on bonus or equity to close the gap?\" Keep the original number as your anchor while you negotiate the other levers.",
+      "counter": "If a candidate states a number flatly with no hedge, assume it's their real floor, not an opening bid.\n• Notice the lack of flexibility language — that's a signal, not an accident.\n• Ask directly: \"Is that number firm, or is there room to discuss the total package?\"\n• Counter on structure, not just the base number, to find real movement.",
+      "insight": "A flat number costs you the chance to look easygoing, and buys you a higher floor. The harder part is knowing your real number cold enough that you don't flinch when they go quiet."
+    },
+    {
+      "id": 13,
+      "cat": "ask_for_it",
+      "danger": "low",
+      "title": "Trade, Don't Give The Hard Ask For Free",
+      "when": "Your own director hands you a hard, unscoped task and waits for your answer.",
+      "hook": "'Sure, no problem' gives it away for free. <strong>'Here's what I need' turns it into a trade.</strong>",
+      "principle": "Negotiation — Reciprocity Framing",
+      "remember": "Don't say yes for free. Name what you need to say yes.",
+      "truth": "Saying yes instantly signals the task was easy, so future hard asks arrive the same way.\n• An instant 'no problem' removes any cost from asking you again.\n• Naming a need in the same breath as the yes sets a visible price.\n• Most people say yes fast to look capable, then quietly resent the cost alone.",
+      "theySee": "Someone who is willing and capable, and also someone who thinks in resources, not just effort.",
+      "signals": [
+        {
+          "icon": "⏸️",
+          "l": "Pause before assigning",
+          "t": "Your director starts pre-negotiating scope before handing you the next hard task."
+        },
+        {
+          "icon": "🤝",
+          "l": "Resource offer",
+          "t": "They offer help or headcount before you ask for it next time."
+        },
+        {
+          "icon": "📆",
+          "l": "Deadline flex",
+          "t": "They give you a wider timeline on the next ask without being pushed."
+        },
+        {
+          "icon": "🔁",
+          "l": "Check-in increase",
+          "t": "They check in more on whether you have what you need, unprompted."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Hear the full ask first",
+          "desc": "Let them finish describing the task before you respond at all."
+        },
+        {
+          "n": "2",
+          "title": "Name one real need",
+          "desc": "State one concrete thing you need: time, a person, or a decision from them."
+        },
+        {
+          "n": "3",
+          "title": "Say yes attached to it",
+          "desc": "Give the yes and the need in the same sentence, not two separate ones."
+        }
+      ],
+      "script": "\"I can take this on. I'll need Marcus for two weeks and a pass on the Thursday deadline for my other project.\"",
+      "example": "Dev used to say 'sure, I'll figure it out' every time his director dropped a hard project on him. He started attaching a specific ask each time. His director began asking 'what do you need' before Dev even said yes, because the pattern had reset the cost of asking.",
+      "watchFor": "Your director starts asking what you'd need before finishing the request.",
+      "ifItFails": "Your director says there's nothing to give — no extra time, no extra people, just do it. Don't silently absorb the cost and resent it later. Make the tradeoff visible instead: \"Understood — then this pushes [specific other deliverable] by a week. I'll flag that now so it's not a surprise.\" That puts the cost on record even if you can't negotiate it away.",
+      "counter": "If a direct report says yes instantly to every hard ask with no conditions, you're training them to absorb unlimited cost quietly.\n• Notice the fast yes with zero named need — that's a future resentment building.\n• Ask them directly: \"What do you need to make this work?\"\n• Give something back every time, even small, or the fast yes eventually turns into quiet attrition.",
+      "insight": "A yes with a price attached gets respected; a free yes gets repeated until it breaks you. The harder part is holding the ask the first few times, when saying yes for free still feels like the safer move."
+    },
+    {
+      "id": 14,
+      "cat": "status_moves",
+      "danger": "moderate",
+      "title": "Answer Bandwidth Questions With A Sequence",
+      "when": "A peer publicly asks if you have the bandwidth for something, implying you might not be able to handle it.",
+      "hook": "'Do you have the bandwidth' is a public test. <strong>Answering with 'I'll try' fails it in front of everyone.</strong>",
+      "principle": "Status Asymmetry — Sequencing Frame",
+      "remember": "Say what comes first and what comes after. Don't say you'll try.",
+      "truth": "The question is really asking the room whether you're in control of your own time.\n• 'I'll try' signals you're reacting to your workload, not managing it.\n• Sequencing language signals you already have a plan the question didn't break.\n• Most people answer the capacity question honestly and lose status answering it.",
+      "theySee": "Someone who already has a plan for their time, unbothered by the public question.",
+      "signals": [
+        {
+          "icon": "🔚",
+          "l": "Topic drop",
+          "t": "The person who asked moves on without pushing further."
+        },
+        {
+          "icon": "✅",
+          "l": "Deadline confirm",
+          "t": "Someone confirms your stated sequence instead of questioning it."
+        },
+        {
+          "icon": "🔄",
+          "l": "Status recovery",
+          "t": "The room's attention shifts off your workload and back to the task."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat test",
+          "t": "The same peer tries the bandwidth question again later, testing if it lands twice."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Don't answer capacity directly",
+          "desc": "Skip any version of yes, no, or 'I'll try' to the bandwidth question."
+        },
+        {
+          "n": "2",
+          "title": "State the sequence",
+          "desc": "Name what you'll finish first and when the new thing starts."
+        },
+        {
+          "n": "3",
+          "title": "Hand back the clock",
+          "desc": "Ask them to confirm the new deadline fits after your stated sequence."
+        }
+      ],
+      "script": "\"I'll wrap the migration Thursday, then start this Friday. Does that timeline work for you?\"",
+      "example": "In a planning meeting, a peer asked Soo-jin if she 'even had the bandwidth' for a new initiative, in front of their director. Instead of answering yes or no, she named her sequence out loud. The director nodded at the plan, and the peer's question read as noise, not a real concern.",
+      "watchFor": "The room's attention moves to confirming your timeline instead of questioning your capacity.",
+      "ifItFails": "They push again, saying your sequence isn't fast enough for the new priority. Don't cave and say you'll just do both at once. Make them pick: \"Then which one does leadership want first — I can't do both at full speed.\" That forces the room, not you, to own the tradeoff.",
+      "counter": "If someone asks your bandwidth in a group setting, they may be testing your status, not your calendar.\n• Notice when the question arrives in front of others, not privately.\n• Answer with your own sequence, calmly, instead of defending your capacity.\n• If it's a real resourcing question, take it offline and answer with specifics there.",
+      "insight": "The public bandwidth question is rarely about your calendar — it's about whether you look rattled in front of an audience. The next move is noticing who asks it and whether they do it every time you're about to get a bigger project."
+    },
+    {
+      "id": 15,
+      "cat": "status_moves",
+      "danger": "low",
+      "title": "Mirror The Vocabulary Of The Group Above You",
+      "when": "You're in a cross-functional meeting with peers who already hold the title you want.",
+      "hook": "They say 'leader.' You say 'manager.' <strong>That one word tells the room who belongs at the table.</strong>",
+      "principle": "Status Mirroring",
+      "remember": "Use their words for yourself. It makes you sound like one of them.",
+      "truth": "Groups sort insiders from outsiders by small word choices faster than by résumé facts.\n• Matching vocabulary signals you already belong in the category.\n• A mismatched word, even a humble one, marks you as outside the group.\n• Most people under-mirror out of modesty and read as junior by accident.",
+      "theySee": "A peer who talks about themselves the same way the room already talks about its members.",
+      "signals": [
+        {
+          "icon": "🔁",
+          "l": "Word adoption",
+          "t": "Someone in the group repeats your self-description back to you."
+        },
+        {
+          "icon": "📩",
+          "l": "Invite expansion",
+          "t": "You get added to a thread or meeting you weren't originally on."
+        },
+        {
+          "icon": "🔄",
+          "l": "Assumption shift",
+          "t": "People stop explaining basic context to you, assuming you already know it."
+        },
+        {
+          "icon": "🗣️",
+          "l": "Direct address",
+          "t": "The group's most senior person starts addressing questions to you directly."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Listen for their self-label",
+          "desc": "Notice the exact word the group uses for itself: leader, builder, operator, founder."
+        },
+        {
+          "n": "2",
+          "title": "Adopt it for yourself",
+          "desc": "Use that same word to describe your own role the next time you speak."
+        },
+        {
+          "n": "3",
+          "title": "Stay consistent",
+          "desc": "Keep using the matched word across meetings, not just once."
+        }
+      ],
+      "script": "\"As a leader on the infra side, I'd push back on that timeline — here's why.\"",
+      "example": "In a cross-functional council of directors, Ben was the only manager invited as a guest. The group called itself 'the leadership council.' He started calling himself a leader in his comments instead of a manager. Nobody questioned it, and he got a standing invite the next quarter.",
+      "watchFor": "Nobody in the group questions the word when you use it, and it gets repeated back.",
+      "ifItFails": "Someone directly challenges the mismatch — \"aren't you still a manager, not a director?\" — in front of the group. Don't argue the label. Answer with scope instead: \"Title's still catching up, but I run [specific scope] day to day.\" That reframes the challenge around substance, which is harder to dismiss than a word.",
+      "counter": "If a peer starts mirroring the vocabulary of a group above their level, notice it before it sets as fact.\n• Watch for a title-mismatched word used confidently with no correction.\n• Ask the direct question once: \"What's your actual title these days?\"\n• Let the facts stand on their own after that — don't relitigate the word every time.",
+      "insight": "Vocabulary is the cheapest membership card there is, because nobody checks it at the door. The harder test comes when the group asks you to do something only a real member could do."
+    },
+    {
+      "id": 16,
+      "cat": "status_moves",
+      "danger": "high",
+      "title": "Reclaim A Stolen Idea Without Calling It Theft",
+      "when": "A director repeats your idea back to the room as their own, seconds after you said it.",
+      "hook": "Don't say 'that's what I just said.' <strong>Make the room remember it started with you, without making them look bad.</strong>",
+      "principle": "Greene: Law 1 — Never Outshine the Master (Inverted for Peer Theft)",
+      "remember": "Agree with them, then add your name back to the idea.",
+      "truth": "Calling someone out directly for stealing credit makes you look petty, not right.\n• A direct accusation forces the room to pick a side, and most pick the higher status person.\n• Agreeing, then building on 'your point' with specifics, quietly reattaches your name.\n• Most people either stay silent and lose the credit, or object and lose the room.",
+      "theySee": "Someone being generous and collaborative, not someone fighting for credit.",
+      "signals": [
+        {
+          "icon": "🗣️",
+          "l": "Name repeat",
+          "t": "Someone else in the room says your name next to the idea afterward."
+        },
+        {
+          "icon": "📝",
+          "l": "Meeting notes",
+          "t": "The written summary of the meeting credits you by name."
+        },
+        {
+          "icon": "📩",
+          "l": "Follow-up ask",
+          "t": "People come to you directly with questions about the idea after the meeting."
+        },
+        {
+          "icon": "🔁",
+          "l": "Repeat theft",
+          "t": "The same person does it again next meeting, meaning the first fix didn't fully stick."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Let the first repeat go",
+          "desc": "Don't interrupt or object out loud when it happens in the room."
+        },
+        {
+          "n": "2",
+          "title": "Build on it with specifics",
+          "desc": "Say 'to add to that' and bring a detail only you would know."
+        },
+        {
+          "n": "3",
+          "title": "Put it in writing after",
+          "desc": "Send a recap email naming the idea's origin in neutral, factual language."
+        }
+      ],
+      "script": "\"To add to that — when I first sketched this out, the key part was X, which handles the edge case we saw last month.\"",
+      "example": "In a planning review, a director repeated Lena's caching idea as his own, two minutes after she pitched it. She didn't object in the room. Instead she added a specific technical detail only she knew, then sent a recap email crediting 'the approach I proposed earlier.' The written record settled the question for everyone who read it later.",
+      "watchFor": "The meeting notes or a follow-up message name you as the source, without you having to say it out loud.",
+      "ifItFails": "The director does it again in the next meeting, and the written recap doesn't stop the pattern. Don't escalate with a complaint about credit — escalate with visibility instead: present the next idea directly to their boss or in a wider forum before the 1:1 where it could get repeated back. \"I'd like to share this one in the broader review, since it affects more than our team.\"",
+      "counter": "If you catch yourself repeating someone's idea back as your own, you're about to burn trust you'll need later.\n• Notice the moment right after someone says something sharp and useful.\n• Say their name out loud attaching it: \"Building on what [name] just said—\"\n• It costs you nothing and buys you a quiet ally instead of a quiet enemy.",
+      "insight": "Fighting for credit in the room costs more than it buys; fighting for credit in writing costs nothing and lasts. Do not run this on someone who signs your performance review — pick the recap-email version only, never the room confrontation, with anyone who controls your rating."
+    },
+    {
+      "id": 17,
+      "cat": "written_word",
+      "danger": "low",
+      "title": "Put The Decision In Line One",
+      "when": "You write a status or decision email that will be read by people above your level.",
+      "hook": "Three paragraphs of context reads like you're not sure. <strong>One line of decision reads like you already are the director.</strong>",
+      "principle": "Framing Effect — Brevity as Authority Signal",
+      "remember": "Put the decision in the first line. Put the reasons after it.",
+      "truth": "Readers skim the first line and decide how much attention the rest deserves.\n• A buried decision gets read as uncertainty, even with strong reasoning underneath.\n• A first-line decision gets treated as settled unless someone actively objects.\n• Most people build up to the point out of habit, and lose the room by line three.",
+      "theySee": "Someone who respects their time and already knows the answer.",
+      "signals": [
+        {
+          "icon": "⚡",
+          "l": "Reply speed",
+          "t": "You get a one-word reply like 'approved' faster than usual."
+        },
+        {
+          "icon": "➡️",
+          "l": "Forward rate",
+          "t": "Your email gets forwarded upward without edits or added context."
+        },
+        {
+          "icon": "📉",
+          "l": "Question drop",
+          "t": "Fewer clarifying questions come back compared to your longer emails."
+        },
+        {
+          "icon": "🔁",
+          "l": "Tone match",
+          "t": "Replies start matching your short, declarative style."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the decision first",
+          "desc": "Put the call or ask in the very first sentence, before any context."
+        },
+        {
+          "n": "2",
+          "title": "Cut the setup",
+          "desc": "Delete any sentence that explains why you're writing before the first line does."
+        },
+        {
+          "n": "3",
+          "title": "Bullet the support",
+          "desc": "List reasons or next steps below in three lines or fewer."
+        }
+      ],
+      "script": "\"Decision: we're moving the launch to the 14th. Reason: vendor API slipped. Next step: I'll update the dependent teams today.\"",
+      "example": "Farrah used to open status emails with two paragraphs of background before the actual ask. A mentor told her to flip the order. Her next email opened with the decision in line one, and her VP replied 'approved' within ten minutes instead of the usual half-day wait.",
+      "watchFor": "People reply to just the first line and skip reading the rest entirely.",
+      "ifItFails": "Someone replies-all asking for the context you cut, implying the email was too thin. Don't pad the next email with everything up front again. Reply to just that person with the detail, and keep the original email's structure for the group: \"Good catch — detail below for anyone who wants it,\" then attach the longer version separately.",
+      "counter": "If someone's emails get suspiciously short and decisive, check that the decision is actually theirs to make.\n• Notice confident one-liners on topics outside their stated scope.\n• Reply asking who signed off, if it's not clear from the email.\n• A good one-line email still survives a direct question about authority behind it.",
+      "insight": "Short emails read as confidence, but confidence without the authority to back the decision gets reversed fast once someone checks. The next problem is making sure the people who need to push back actually see the email before it becomes the default."
+    },
+    {
+      "id": 18,
+      "cat": "written_word",
+      "danger": "high",
+      "title": "Correct A VP's Reply-All Without Looking Insubordinate",
+      "when": "A VP sends a reply-all with a factual error or wrong attribution, and the whole team sees it.",
+      "hook": "Correcting a VP in writing can read as insubordinate. <strong>The exact wording decides if you look sharp or if you look like you're picking a fight.</strong>",
+      "principle": "Face-Saving Correction",
+      "remember": "Fix the fact. Don't fix the person.",
+      "truth": "A correction aimed at the statement reads as helpful; a correction aimed at the person reads as a challenge.\n• Naming the error directly as 'wrong' puts the VP's judgment on trial in public.\n• Framing it as new information lets them update without losing face.\n• Most people either stay silent and let bad information stand, or correct too bluntly and pay for it.",
+      "theySee": "Someone helping the group get the facts right, not someone scoring a point on the VP.",
+      "signals": [
+        {
+          "icon": "🙏",
+          "l": "Thank-you reply",
+          "t": "The VP replies thanking you for the catch instead of going quiet."
+        },
+        {
+          "icon": "✏️",
+          "l": "Quiet edit",
+          "t": "A follow-up email quietly corrects the number with no acknowledgment, which still counts as a win."
+        },
+        {
+          "icon": "🔒",
+          "l": "Private thread",
+          "t": "The VP moves the correction conversation to a private message instead of reply-all."
+        },
+        {
+          "icon": "🔇",
+          "l": "No reply, no fix",
+          "t": "Silence and the wrong information stands — a sign the wording landed badly or was ignored."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Reply, don't escalate",
+          "desc": "Answer on the same thread rather than going to the VP's boss first."
+        },
+        {
+          "n": "2",
+          "title": "Frame it as new data",
+          "desc": "Say 'just saw this come in' instead of 'that's incorrect.'"
+        },
+        {
+          "n": "3",
+          "title": "Give the fix, not just the flag",
+          "desc": "Include the correct number or fact in the same message, ready to use."
+        }
+      ],
+      "script": "\"Just saw the latest numbers come in — looks like it's 12% not 18%, pulled straight from the Q3 dashboard. Happy to send the link if useful.\"",
+      "example": "A VP reply-alled the wrong churn number to the exec team. Instead of saying 'that's wrong,' Marco replied with 'just saw this update come in' and the correct figure with a source link. The VP thanked him in the thread, and nobody read it as a public correction.",
+      "watchFor": "The VP or someone else quietly uses your corrected number in the next message without friction.",
+      "ifItFails": "The VP doesn't acknowledge the correction and the wrong number gets used again in a later meeting. Don't correct them publicly a second time — that reads as keeping score. Send a private message instead: \"Flagging again privately in case the earlier reply got buried — wanted to make sure the right number's in front of you before the board meeting.\" Do not run the public version twice on the same person.",
+      "counter": "If someone corrects your public mistake gently in writing, say thanks and move on fast.\n• Notice the soft framing — 'just saw this come in' is a courtesy, not an attack.\n• Reply with thanks and the fix, not a defense of the original number.\n• A gracious response here earns you more trust than being right the first time would have.",
+      "insight": "The soft correction protects their ego and your relationship with them at the same time — that's the whole point. Do not use the blunt version on anyone who can affect your review; the quiet, private follow-up is the only safe second attempt."
+    },
+    {
+      "id": 19,
+      "cat": "exit_words",
+      "danger": "moderate",
+      "title": "Say What You're Moving Toward, Not Away From",
+      "when": "You've decided to leave for a new role and need to tell your director.",
+      "hook": "You don't owe a reason. <strong>The exact wording decides whether this becomes a reference or a grudge.</strong>",
+      "principle": "Greene: Law 36 — Disdain Things You Cannot Have (Apply to the Old Job)",
+      "remember": "Say you're moving toward something. Don't explain what you're moving away from.",
+      "truth": "Reasons invite negotiation or defensiveness; a forward statement invites neither.\n• Naming what's wrong with the current job turns the conversation into a debate.\n• Naming what you're moving toward keeps the conversation short and final.\n• Most people over-explain out of guilt and open a counter-offer fight they didn't want.",
+      "theySee": "Someone who has already decided, calmly, with nothing left to argue about.",
+      "signals": [
+        {
+          "icon": "🚫",
+          "l": "No counter-offer",
+          "t": "Your director doesn't open with a counter-offer conversation."
+        },
+        {
+          "icon": "🔄",
+          "l": "Transition focus",
+          "t": "The conversation moves quickly to handoff planning instead of persuasion."
+        },
+        {
+          "icon": "📞",
+          "l": "Reference offer",
+          "t": "They offer to be a reference before you ask for one."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Short meeting",
+          "t": "The conversation wraps in under fifteen minutes instead of dragging."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide before you speak",
+          "desc": "Make sure the decision is final before you say anything out loud."
+        },
+        {
+          "n": "2",
+          "title": "Say the forward reason only",
+          "desc": "Name the new scope or opportunity, not any complaint about the old one."
+        },
+        {
+          "n": "3",
+          "title": "Offer the transition plan",
+          "desc": "State your last day and a handoff plan in the same conversation."
+        }
+      ],
+      "script": "\"I've accepted a role leading platform engineering at [Company]. My last day is the 20th, and I've got a handoff plan ready to walk through.\"",
+      "example": "When Elena resigned, she didn't mention the manager who'd blocked her promotion twice. She said she was moving to lead a bigger platform org elsewhere, named her last day, and handed over a transition doc. Her director wrote her a strong reference six months later.",
+      "watchFor": "Your director skips straight to logistics instead of trying to talk you out of it.",
+      "ifItFails": "Your director pushes hard with a counter-offer or an emotional appeal, trying to reopen the decision. Don't restate your reasons or get pulled into debating the old job. Repeat the forward frame once, flatly: \"I appreciate that, but the decision's made — let's focus on a clean handoff.\" Repeating it once, without new justification, closes the door faster than arguing does.",
+      "counter": "If a direct report resigns with only forward-looking reasons and no complaints, don't assume nothing was wrong.\n• Notice what's missing from the explanation as much as what's said.\n• Ask one real question in the exit interview: \"What would have kept you?\"\n• Use the honest answer to fix something for the next person, even if it's too late for this one.",
+      "insight": "A clean, forward-only resignation costs you the chance to vent, but buys you a reference and a door that stays open. The harder part is staying quiet about the real reasons for months afterward, especially if they ask again later."
+    },
+    {
+      "id": 20,
+      "cat": "exit_words",
+      "danger": "extreme",
+      "title": "Give The No-Surprises Warning Before The Formal Process",
+      "when": "You're a director who has to move a direct report toward a performance exit, before the formal HR process starts.",
+      "hook": "The formal write-up should never be the first time they hear it's serious. <strong>The exact phrase you use weeks earlier decides whether this looks fair later.</strong>",
+      "principle": "Due Process Signaling — No Surprises Doctrine",
+      "remember": "Tell them it's serious before the paperwork says so.",
+      "truth": "A performance exit that looks sudden to the employee looks reckless to everyone watching, including legal.\n• A documented early warning protects you and the company if it escalates to HR or legal.\n• It gives the person a real, if slim, chance to change the outcome.\n• Most managers avoid the hard conversation early, then the formal process looks like an ambush.",
+      "theySee": "A direct report who hears, clearly and without ambiguity, that their job is now at risk.",
+      "signals": [
+        {
+          "icon": "😳",
+          "l": "Reaction clarity",
+          "t": "They either visibly register the seriousness or push back that it's a surprise."
+        },
+        {
+          "icon": "❓",
+          "l": "Follow-up questions",
+          "t": "They ask specifically what needs to change and by when."
+        },
+        {
+          "icon": "🏢",
+          "l": "HR alignment",
+          "t": "Your HR partner confirms your wording matches what's needed for documentation."
+        },
+        {
+          "icon": "📈",
+          "l": "Behavior shift test",
+          "t": "Their work output changes within two weeks, which tells you if the message landed."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Align with HR first",
+          "desc": "Confirm the exact wording and timeline with HR before the conversation happens."
+        },
+        {
+          "n": "2",
+          "title": "Say it plainly",
+          "desc": "State that performance must improve by a specific date or the job is at risk."
+        },
+        {
+          "n": "3",
+          "title": "Put it in writing same day",
+          "desc": "Send a written summary of the conversation within hours, not days."
+        }
+      ],
+      "script": "\"I need to be direct: your performance on X and Y has to improve by [date], or this role is at risk. I'm telling you now so there's no surprise later.\"",
+      "example": "A director at a mid-size company told an underperforming report directly, with HR looped in, that two specific metrics needed to improve in thirty days or the role was at risk. The report didn't improve. When the formal process started a month later, HR had a paper trail showing the warning was clear, specific, and not a surprise.",
+      "watchFor": "They ask a specific, practical question about what improvement looks like, instead of reacting with shock.",
+      "ifItFails": "They deny the conversation happened or claim they were never told it was this serious, once the formal process starts. Don't rely on memory to settle it — this is exactly why the same-day written summary exists. Send it again now if you haven't: \"Following up on our conversation on [date] — wanted to make sure this is on record for both of us.\" Do not run any part of this without HR aligned first; this is the one move in this set that should never be freelanced alone.",
+      "counter": "If you're on the receiving end of a sudden-feeling 'serious conversation,' assume there's a written record being built now.\n• Notice specific dates and metrics replacing vague feedback you've heard before.\n• Ask directly: \"Can you send me this in writing so I'm clear on exactly what's expected?\"\n• Treat it as real — a vague verbal warning repeated calmly is still a formal signal, not a mood.",
+      "insight": "The kind phrase and the legal document are the same sentence here, which is uncomfortable but true. This is the one card in the set where improvising the wording instead of looping in HR first can cost real money and real cases — don't run it solo."
+    }
+  ]
+}
