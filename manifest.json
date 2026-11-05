@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 96,
+  "manifestVersion": 97,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -910,7 +910,20 @@
       "url": "playbooks/playbook-srv-exact-words-for-the-director-level.json",
       "addedAt": "2026-11-04T00:16:41.649Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-composure-under-fire",
+      "title": "Black Book: Composure Under Fire",
+      "theme": "composure",
+      "topic": "Staying composed when someone tries to rattle you",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "🪨",
+      "url": "playbooks/playbook-srv-black-book-composure-under-fire.json",
+      "addedAt": "2026-11-05T21:02:54.757Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-11-04T00:16:41.649Z"
+  "generatedAt": "2026-11-05T21:02:54.757Z"
 }
