@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 96,
+  "manifestVersion": 97,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -910,7 +910,20 @@
       "url": "playbooks/playbook-srv-exact-words-for-the-director-level.json",
       "addedAt": "2026-11-04T00:16:41.649Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-body-language-under-pressure",
+      "title": "Black Book: Body Language Under Pressure",
+      "theme": "body language",
+      "topic": "Reading body language under pressure",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#0D1B2A",
+      "coverIcon": "👁️",
+      "url": "playbooks/playbook-srv-black-book-body-language-under-pressure.json",
+      "addedAt": "2026-11-10T20:44:42.314Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-11-04T00:16:41.649Z"
+  "generatedAt": "2026-11-10T20:44:42.314Z"
 }
