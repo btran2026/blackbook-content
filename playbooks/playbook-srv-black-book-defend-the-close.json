@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "id": "srv-black-book-defend-the-close",
+    "version": "1.0",
+    "title": "Black Book: Defend the Close",
+    "subtitle": "12 moves to disarm a high-pressure sell",
+    "description": "A private field guide for buyers who know they're being worked. Spot the tactics, break the momentum, hold the line, and walk out clean.",
+    "author": "AI",
+    "createdAt": "2026-11-11T21:08:48.176Z",
+    "tags": [
+      "sales defense",
+      "negotiation",
+      "pressure tactics",
+      "consumer protection",
+      "dark psychology"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1A2E",
+    "coverIcon": "🛡️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Defending against a high-pressure sales close",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "direct"
+    }
+  },
+  "categories": [
+    {
+      "key": "recognition",
+      "label": "Spot the Play",
+      "color": "#C0392B"
+    },
+    {
+      "key": "momentum",
+      "label": "Break Their Flow",
+      "color": "#8E44AD"
+    },
+    {
+      "key": "stance",
+      "label": "Hold the Line",
+      "color": "#2C3E50"
+    },
+    {
+      "key": "time",
+      "label": "Control the Clock",
+      "color": "#E67E22"
+    },
+    {
+      "key": "information",
+      "label": "Information Defense",
+      "color": "#27AE60"
+    },
+    {
+      "key": "exit",
+      "label": "The Walk Away",
+      "color": "#2980B9"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "recognition",
+      "danger": "moderate",
+      "title": "Spot the Three Pressure Signals Before They Close",
+      "hook": "High-pressure selling has a fingerprint. <strong>Learn it once, and you're never caught off guard again.</strong>",
+      "truth": "Sellers use three predictable signals to push buyers into fast decisions.\n• They create a time limit that disappears the moment you push back.\n• They name a price that \"can't be guaranteed\" past today.\n• They refuse to leave written details, keeping you guessing.",
+      "principle": "Status Asymmetry (Information Control)",
+      "remember": "Fake urgency, fake limits, and withheld paperwork are all the same move.",
+      "theySee": "A buyer who nods along without committing, watching the clock.",
+      "signals": [
+        {
+          "l": "Today-only phrase",
+          "t": "Rep says the price or deal expires before you leave the room today.",
+          "icon": "⏱️"
+        },
+        {
+          "l": "No written details",
+          "t": "Rep explains everything verbally and won't send anything in writing.",
+          "icon": "📄"
+        },
+        {
+          "l": "Speed push",
+          "t": "Rep moves through features fast, leaving no room to ask questions.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Deadline repeated",
+          "t": "Urgency or scarcity is mentioned more than twice in one meeting.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the signals as they happen",
+          "desc": "On your phone or notepad, write: fake deadline, no written details, speed push. If two of three are present before the pitch ends, you're being pressured."
+        },
+        {
+          "n": "2",
+          "title": "Ask for written proof of the deadline",
+          "desc": "Say \"Put the deadline in the contract.\" If they won't, the deadline isn't real."
+        },
+        {
+          "n": "3",
+          "title": "Note how the room feels",
+          "desc": "If you feel rushed, annoyed, or backed into a corner, write that down. That feeling is information — the rep created it on purpose."
+        }
+      ],
+      "script": "\"Can you email me that offer in writing before I decide?\"",
+      "counter": "Sellers who sense a buyer has spotted the pattern shift fast to softer pressure.\n• They switch from urgency to flattery — \"you clearly know what you want.\"\n• They offer a small concession to restart their momentum.\n• Hold your read. The tactic changed; the goal didn't.",
+      "insight": "Spotting the pattern is only the first move. The harder part is using that read without tipping off the rep that you've made them."
+    },
+    {
+      "id": 2,
+      "cat": "momentum",
+      "danger": "low",
+      "title": "Stop the Pitch Mid-Flow With One Slow Question",
+      "hook": "A salesperson in full pitch mode is hard to stop. <strong>One slow question ends the sprint.</strong>",
+      "truth": "Sales pitches rely on rhythm. Break the rhythm and they have to start over.\n• A slow question forces the rep to think — their pace drops immediately.\n• The pause resets your mental state too — you stop reacting and start deciding.\n• They lose momentum; you gain time to figure out what you actually want.",
+      "principle": "Voss: Calibrated Question",
+      "remember": "Ask one slow question. The whole pace of the room changes.",
+      "theySee": "A buyer who interrupts a smooth pitch with a quiet, unhurried question.",
+      "signals": [
+        {
+          "l": "No gaps in talk",
+          "t": "Rep speaks without pausing, treating your silence as agreement and moving forward.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Feature flood",
+          "t": "Three or more features mentioned in under two minutes with no questions asked.",
+          "icon": "📋"
+        },
+        {
+          "l": "Paper appears early",
+          "t": "Contract or agreement is pulled out before you've said yes to anything.",
+          "icon": "📝"
+        },
+        {
+          "l": "Nod-and-move",
+          "t": "Rep treats your small nods as consent and advances to the next point.",
+          "icon": "👉"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick your slow question before the meeting",
+          "desc": "Decide one question in advance: \"What happens if I want to cancel in the first year?\" Write it on your phone so you don't have to invent it under pressure."
+        },
+        {
+          "n": "2",
+          "title": "Ask it the moment the pace speeds up",
+          "desc": "When the rep stacks features, price, and timeline in one breath — say the question out loud. Don't wait for a natural pause. There won't be one."
+        },
+        {
+          "n": "3",
+          "title": "Let the silence sit after they answer",
+          "desc": "Don't fill the gap. Count to five in your head. The burden is on them to keep going, not on you to react."
+        }
+      ],
+      "script": "\"Before we go further — what happens if I want to cancel in the first year?\"",
+      "counter": "If someone uses a slow question on you in a negotiation, they're resetting control.\n• The question isn't really about the answer — it's about breaking your flow.\n• Answer briefly, then say \"shall we come back to that detail later?\" to reclaim pace.\n• Don't let one question turn into five. Name the next agenda item yourself.",
+      "insight": "The question you ask matters less than the fact that you asked it. Momentum, not information, is what you're really attacking."
+    },
+    {
+      "id": 3,
+      "cat": "stance",
+      "danger": "low",
+      "title": "Repeat Your No Without Explaining It",
+      "hook": "Every reason you give is a new argument they can use. <strong>No reason means nothing to dismantle.</strong>",
+      "truth": "Salespeople are trained to treat every objection as a problem they can solve.\n• Every explanation you give hands them a new angle to push through.\n• A no with no reason attached has nothing to dismantle.\n• Repeating the same flat no, calmly, ends the loop faster than any argument.",
+      "principle": "Broken Record Technique",
+      "remember": "Say no once. Repeat it exactly. Never explain it.",
+      "theySee": "A buyer who says the same words again, calm and flat, with no new information to work with.",
+      "signals": [
+        {
+          "l": "\"But why\" follow-up",
+          "t": "Rep asks for a reason after you decline, looking for a crack to push through.",
+          "icon": "❓"
+        },
+        {
+          "l": "Reframing attempt",
+          "t": "Rep restates their offer from a different angle right after you say no.",
+          "icon": "🔄"
+        },
+        {
+          "l": "\"Help me understand\"",
+          "t": "Rep asks what it would take to change your mind, fishing for an opening.",
+          "icon": "🎣"
+        },
+        {
+          "l": "Friendly persistence",
+          "t": "Rep stays warm and smiling but keeps asking, waiting for you to soften.",
+          "icon": "😊"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide your exact no-line before the meeting",
+          "desc": "Write it out: \"This isn't for me right now.\" Practice saying it once, out loud, without adding \"but\" or \"however.\""
+        },
+        {
+          "n": "2",
+          "title": "Say it the first time the pressure comes",
+          "desc": "Don't wait for the right moment. The right moment is the first push. Say it clean and stop talking."
+        },
+        {
+          "n": "3",
+          "title": "Repeat the exact same line each time they push again",
+          "desc": "Second push: same words. Third push: same words. No new version. Identical repetition tells them you won't move."
+        }
+      ],
+      "script": "\"This isn't for me right now.\"",
+      "counter": "When a buyer repeats a flat no without explanation, you've hit a hard wall.\n• More questions feel like bullying and confirm their decision.\n• Ask once: \"Is there a future situation where this would work?\" Then accept the answer.\n• Leave your contact information and go. A harder push only costs you the relationship.",
+      "insight": "The discipline is in what you don't say. The rep can't fight a reason you never gave them. The harder question is whether you'll stay quiet long enough for it to work."
+    },
+    {
+      "id": 4,
+      "cat": "time",
+      "danger": "moderate",
+      "title": "Test Any \"Today Only\" Offer Before You Accept It",
+      "hook": "\"Today only\" is the oldest move in the room. <strong>Test it once and it usually disappears.</strong>",
+      "truth": "Artificial deadlines work because most buyers don't challenge them.\n• The rep expects compliance — a simple pushback often makes the deadline vanish.\n• If the deal was real, documentation proves it. No documentation means no real deadline.\n• Calling it out also shows you won't be moved by pressure alone.",
+      "principle": "Cialdini: Artificial Scarcity",
+      "remember": "A real deal holds up tomorrow. A fake one doesn't.",
+      "theySee": "A buyer who asks for the deadline in writing instead of accepting it at face value.",
+      "signals": [
+        {
+          "l": "Same-day close push",
+          "t": "Rep says you must decide before you leave the room today.",
+          "icon": "🚪"
+        },
+        {
+          "l": "Stock scarcity claim",
+          "t": "Rep mentions limited units or spots without any document to show.",
+          "icon": "📦"
+        },
+        {
+          "l": "Price increase warning",
+          "t": "Rep says the price will go up if you wait even one day.",
+          "icon": "📈"
+        },
+        {
+          "l": "\"Manager approved this\"",
+          "t": "Rep mentions a special approval that expires today, supposedly just for you.",
+          "icon": "👔"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask them to put the deadline in writing",
+          "desc": "Say \"Put the expiry date and the current price in the contract and email it to me.\" If they won't, the deadline isn't real."
+        },
+        {
+          "n": "2",
+          "title": "Wait 24 hours and follow up",
+          "desc": "Call or email the next day and ask if the deal is still available. Most of the time, it is."
+        },
+        {
+          "n": "3",
+          "title": "Use the follow-up to push for a better price",
+          "desc": "If the deal is still there, you've proven it wasn't time-sensitive. Use that proof to push for something better."
+        }
+      ],
+      "script": "\"Can you put that deadline and the current price in writing and email it to me today?\"",
+      "counter": "If a seller calls your bluff and the deal actually disappears, the market price is firm.\n• That's information. Decide: pay the price or find another seller.\n• Don't let the loss of a deal feel like punishment for asking.\n• A seller who punishes questions isn't worth buying from.",
+      "insight": "Most deadlines collapse the moment you say the word \"email\" out loud. The ones that don't are worth taking seriously."
+    },
+    {
+      "id": 5,
+      "cat": "information",
+      "danger": "moderate",
+      "title": "Never Decide on Verbal Terms Alone",
+      "hook": "Whatever they say out loud doesn't exist until it's in the contract. <strong>Verbal promises are free to make and free to break.</strong>",
+      "truth": "Sellers know verbal agreements are hard to enforce, and use that gap freely.\n• What they say in the room and what appears in the contract often differ.\n• Asking for written terms slows the pitch — that's exactly the point.\n• A written document gives you time to find the gaps before you're committed.",
+      "principle": "Information Asymmetry",
+      "remember": "If it's not in the contract, it was never promised.",
+      "theySee": "A buyer who refuses to decide until they have a full contract to read.",
+      "signals": [
+        {
+          "l": "Verbal-only quote",
+          "t": "Rep gives you a price or scope out loud but won't put it on paper.",
+          "icon": "💬"
+        },
+        {
+          "l": "\"Trust me\" line",
+          "t": "Rep says \"you have my word\" or \"I'll take care of you\" with no paperwork.",
+          "icon": "🤝"
+        },
+        {
+          "l": "Rushed signature ask",
+          "t": "Rep wants a signature before you've had time to read the document.",
+          "icon": "✍️"
+        },
+        {
+          "l": "\"Details later\" offer",
+          "t": "Rep says warranty or cancellation terms will be sorted out after you sign.",
+          "icon": "📅"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the full written contract before signing",
+          "desc": "Say \"Email me the contract — I'll read it tonight and get back to you tomorrow.\" Don't modify that sentence."
+        },
+        {
+          "n": "2",
+          "title": "Check three things in the contract",
+          "desc": "Look for: (1) the exact price with no extra fees, (2) cancellation terms, (3) the warranty in writing. If any are missing, ask for them before signing."
+        },
+        {
+          "n": "3",
+          "title": "Compare what was said to what was written",
+          "desc": "Write down three things the rep said in the room. Check if each one appears in the contract. Anything that doesn't appear in writing doesn't exist."
+        }
+      ],
+      "script": "\"Email me the contract. I'll review it and get back to you tomorrow.\"",
+      "counter": "If a buyer asks for everything in writing before deciding, they're protecting their position, not stalling.\n• Send the full written terms quickly — it's a good sign they're serious.\n• If your offer has gaps between what you said and what's in the contract, fix them now.\n• The buyer who asks for everything in writing usually makes the better deal.",
+      "insight": "The gap between what was said and what was written is where most buyers lose money. The contract is the only real conversation."
+    },
+    {
+      "id": 6,
+      "cat": "recognition",
+      "danger": "high",
+      "title": "Identify When the Rep Is Pushing Your Fear Buttons",
+      "hook": "If you feel angry, panicked, or backed into a corner mid-pitch, <strong>that feeling was manufactured.</strong>",
+      "truth": "High-pressure sellers deliberately trigger bad feelings to bypass your decision-making.\n• Fear of missing out and fear of being wrong are both levers they pull.\n• Once you're emotional, you stop comparing options and start reacting.\n• Naming the feeling — even just to yourself — breaks the cycle.",
+      "principle": "Cialdini: Fear Appeal",
+      "remember": "Bad feelings mid-pitch mean the rep caused them on purpose.",
+      "theySee": "A buyer who pauses, looks around the room, and stops reacting to new information.",
+      "signals": [
+        {
+          "l": "Risk language used",
+          "t": "Rep describes bad things that happen if you don't buy — repairs, losses, missed chances.",
+          "icon": "⚠️"
+        },
+        {
+          "l": "\"Others said yes\"",
+          "t": "Rep mentions other customers who bought, implying you'd be making a mistake not to.",
+          "icon": "👥"
+        },
+        {
+          "l": "Questions stop",
+          "t": "Rep stops asking about your needs and shifts entirely to closing the deal.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Voice drops low",
+          "t": "Rep lowers their voice and leans in, speaking like they're sharing an urgent secret.",
+          "icon": "🤫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the feeling before you act on it",
+          "desc": "Say to yourself — not out loud — \"I am feeling fear/panic/pressure right now.\" Just naming it slows the reaction."
+        },
+        {
+          "n": "2",
+          "title": "Pause the meeting for two minutes",
+          "desc": "Say \"Give me two minutes.\" Stand up. Walk to a bathroom or to the window. The feeling drops fast when the rep isn't in front of you."
+        },
+        {
+          "n": "3",
+          "title": "Ask yourself one question before returning",
+          "desc": "\"If I had seen this offer online, would I still feel this urgent?\" If the answer is no, the feeling was pushed into you. That's your answer."
+        }
+      ],
+      "script": "\"Give me two minutes. I need to step out.\"",
+      "counter": "If a buyer calls out manufactured pressure, the emotional play is finished.\n• This buyer is sharp — urgency tactics stopped working the moment they named them.\n• Drop any pressure immediately and shift to facts, documents, and calm questions.\n• Pushing harder after they've named the move only confirms what they already know.",
+      "insight": "Two minutes outside the room are worth more than any counter-argument you could make inside it. The hardest part is letting yourself actually leave."
+    },
+    {
+      "id": 7,
+      "cat": "information",
+      "danger": "low",
+      "title": "Ask Questions That Force the Rep to Prove Their Claims",
+      "hook": "Most sales claims are unverified. <strong>One question for proof changes who's doing the work.</strong>",
+      "truth": "Sellers rely on buyers accepting claims without evidence.\n• Asking \"can you show me that in writing?\" turns their claim into their homework.\n• A rep who can't prove a claim usually drops it rather than admit it was soft.\n• You learn more in two minutes of questions than in an hour of listening.",
+      "principle": "Burden Shifting: Proof Demand",
+      "remember": "Ask for proof. Let them scramble, not you.",
+      "theySee": "A buyer who writes down what the rep says and asks to see a document for each claim.",
+      "signals": [
+        {
+          "l": "Claim without data",
+          "t": "Rep states a benefit or saving with no document to back it up.",
+          "icon": "📊"
+        },
+        {
+          "l": "\"Many customers\" line",
+          "t": "Rep says \"most of our clients\" or \"usually\" without any specific examples.",
+          "icon": "👤"
+        },
+        {
+          "l": "Competitor comparison",
+          "t": "Rep claims their price or quality beats a competitor but offers no written evidence.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Verbal warranty only",
+          "t": "Rep describes warranty terms out loud but hasn't shown the written document.",
+          "icon": "📋"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write down three claims the rep makes",
+          "desc": "As they pitch, note: price guarantee, warranty length, and one benefit they emphasize. These are what you'll verify before deciding."
+        },
+        {
+          "n": "2",
+          "title": "Ask for a document supporting each claim",
+          "desc": "\"Can you show me the warranty in writing?\" \"Do you have a comparison sheet I can take home?\" Ask once per claim, clearly."
+        },
+        {
+          "n": "3",
+          "title": "Cross off claims they can't document",
+          "desc": "Anything they can't put on paper, remove from your list of reasons to buy. It doesn't exist until it's written."
+        }
+      ],
+      "script": "\"Can you show me that in writing before we keep going?\"",
+      "counter": "When a buyer turns every claim into a documentation request, they're running a slow-burn defense.\n• If you can't document a claim, don't make it — preparation beats pushback every time.\n• Have your warranty, pricing sheet, and comparison data ready before you walk in.\n• A buyer who asks for proof is the most likely to close if you can deliver.",
+      "insight": "The rep who can answer every documentation request doesn't need pressure tactics. That rep is the one worth actually considering."
+    },
+    {
+      "id": 8,
+      "cat": "time",
+      "danger": "low",
+      "title": "Tell the Rep How Long You Have Before They Begin",
+      "hook": "Giving a rep unlimited time is giving them unlimited shots at a yes. <strong>Put a clock on the room before they start.</strong>",
+      "truth": "Sellers extend meetings until resistance drops — a stated time limit stops that cold.\n• A time limit shifts the rep from \"wear them down\" to \"get to the point.\"\n• You can always extend if the conversation earns more time — but you decide that.\n• If the rep ignores your time limit, that's the first red flag of the meeting.",
+      "principle": "Anchoring: Time Constraint",
+      "remember": "Tell them how long you have. It changes the whole room.",
+      "theySee": "A buyer who states a specific end time before the rep has said anything.",
+      "signals": [
+        {
+          "l": "No agenda offered",
+          "t": "Rep shows up without a planned structure or estimated time for the meeting.",
+          "icon": "📅"
+        },
+        {
+          "l": "Long small talk",
+          "t": "Rep spends the first ten minutes on personal topics, burning your available time.",
+          "icon": "☕"
+        },
+        {
+          "l": "\"Just one more thing\"",
+          "t": "Rep keeps adding items after you signal you're done and need to go.",
+          "icon": "➕"
+        },
+        {
+          "l": "Time boundary ignored",
+          "t": "Rep continues past the time you set without asking if that's okay.",
+          "icon": "🕐"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Set the clock before the pitch starts",
+          "desc": "The moment the rep sits down, say: \"I have 45 minutes for this. What do you need from me to make it useful?\" Don't wait for an agenda to be offered."
+        },
+        {
+          "n": "2",
+          "title": "Hold to the limit when time runs out",
+          "desc": "When your stated time arrives, stand up. Say \"I need to stop here.\" Don't add apologies or offer five more minutes."
+        },
+        {
+          "n": "3",
+          "title": "End the meeting if they ignore the limit",
+          "desc": "A rep who pushes past a stated boundary has shown you how they operate. That's worth knowing before you sign anything."
+        }
+      ],
+      "script": "\"I have 45 minutes for this. What do you need from me to make it useful?\"",
+      "counter": "If a buyer sets a strict time limit at the start, they are controlling the pace.\n• Respect it immediately — ignoring it costs you the sale, not just the time slot.\n• Get to your three most important points in the first twenty minutes.\n• At thirty minutes, ask if they'd like to continue or schedule a follow-up.",
+      "insight": "The rep who delivers a clear pitch in 45 minutes is worth more time. The rep who needs three hours to explain one product is telling you something about the product."
+    },
+    {
+      "id": 9,
+      "cat": "stance",
+      "danger": "low",
+      "title": "Decline Without Giving a Reason",
+      "hook": "\"No, thank you\" is a complete sentence. <strong>Everything you add after it becomes a target.</strong>",
+      "truth": "Every objection you voice hands the rep a new angle of attack.\n• \"It's too expensive\" gets met with payment plans.\n• \"I need to think about it\" gets met with follow-up calls and new urgency.\n• A clean no with no reason gives them nothing to push against.",
+      "principle": "Minimal Disclosure Principle",
+      "remember": "Every reason you give becomes an argument they can win.",
+      "theySee": "A buyer who declines politely but gives nothing else to work with.",
+      "signals": [
+        {
+          "l": "\"What's holding you back?\"",
+          "t": "Rep asks directly what your concern is after you decline, looking for a crack.",
+          "icon": "🔍"
+        },
+        {
+          "l": "\"If I could solve that…\"",
+          "t": "Rep offers to fix an objection you didn't even give them yet.",
+          "icon": "🛠️"
+        },
+        {
+          "l": "Second pitch starts",
+          "t": "Rep describes the product again from a new angle right after you say no.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Personal questions",
+          "t": "Rep asks about your budget or timeline to find another door into the conversation.",
+          "icon": "💰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide your exit line before you go in",
+          "desc": "Write it on your phone: \"This isn't the right fit for me right now.\" That's the only sentence you'll need."
+        },
+        {
+          "n": "2",
+          "title": "Say it and stop talking",
+          "desc": "First time they push: say the line. Don't add \"but\" or \"however.\" The word after \"but\" is their new target."
+        },
+        {
+          "n": "3",
+          "title": "Repeat the same line each time",
+          "desc": "Second push: same words. Third push: same words. No new version. Identical repetition signals you won't move."
+        }
+      ],
+      "script": "\"This isn't the right fit for me right now.\"",
+      "counter": "When a buyer won't give a reason for declining, don't fish for one.\n• More questions feel like bullying and confirm their decision to walk.\n• Ask once: \"Is there a future situation where this would work?\" Then accept whatever they say.\n• Leave your contact information and go. A harder push only costs you the relationship.",
+      "insight": "The less you say after no, the more they want to know. That curiosity works for you — but only if you stay quiet long enough to let it."
+    },
+    {
+      "id": 10,
+      "cat": "information",
+      "danger": "moderate",
+      "title": "Check Reviews and Complaints Before the Meeting",
+      "hook": "Most buyers walk in knowing nothing about who's selling to them. <strong>That gap is exactly what a bad seller needs.</strong>",
+      "truth": "A seller's past behavior is the best guide to what they'll do to you.\n• A quick search for complaints or Better Business Bureau reports takes five minutes.\n• A seller with no independent reviews, or only their own visible, is worth slowing down on.\n• Knowing their reputation means their pressure tactics land on a prepared buyer.",
+      "principle": "Due Diligence: Pre-Commit Research",
+      "remember": "Research the seller the night before. It changes everything.",
+      "theySee": "A buyer who comes in with specific questions drawn from complaints they already read.",
+      "signals": [
+        {
+          "l": "No online presence",
+          "t": "Seller has no reviews, no independent mentions, and no company history you can verify.",
+          "icon": "🔎"
+        },
+        {
+          "l": "Only five-star reviews",
+          "t": "All visible reviews are five stars, all recent, and all using similar language.",
+          "icon": "⭐"
+        },
+        {
+          "l": "Complaint patterns",
+          "t": "Multiple reviews mention the same problem — hidden fees, missed work, bad cancellations.",
+          "icon": "📢"
+        },
+        {
+          "l": "No physical address",
+          "t": "Company website lists only a phone number or contact form with no address.",
+          "icon": "📍"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Run the company name through three sources",
+          "desc": "Google reviews, the Better Business Bureau website, and one search for \"[company name] complaint.\" Do this the night before the meeting."
+        },
+        {
+          "n": "2",
+          "title": "Write two specific questions from your research",
+          "desc": "If you found a complaint pattern — say, hidden fees — write \"What fees are not in the base price?\" Bring that question in with you."
+        },
+        {
+          "n": "3",
+          "title": "Tell the rep you did research",
+          "desc": "At the start say \"I read a few reviews before this.\" Don't say what you found. The rep will adjust if they're honest, and show their hand if they're not."
+        }
+      ],
+      "script": "\"I read a few reviews before this meeting. Can you walk me through your cancellation terms first?\"",
+      "counter": "If a buyer shows up with pre-researched complaints, they're already on guard.\n• Don't dismiss their research — address the specific complaint pattern directly.\n• Have your warranty, cancellation terms, and past customer contacts ready to show.\n• A prepared buyer is a serious buyer. They're the best lead in the room.",
+      "insight": "Most sellers rely on the meeting being the buyer's first exposure to the product. Take that away, and their whole opening move has to change."
+    },
+    {
+      "id": 11,
+      "cat": "exit",
+      "danger": "low",
+      "title": "End the Appointment Early if the Pressure Is Real",
+      "hook": "You can leave at any time. <strong>Most buyers forget that the moment a rep walks in the door.</strong>",
+      "truth": "Staying in a bad meeting costs more than leaving it.\n• Every minute you stay after sensing pressure gives the rep more shots at a yes.\n• A polite early departure is not rude — it is information for the rep about how to operate.\n• The rep's discomfort at you leaving is not your problem to solve.",
+      "principle": "BATNA: Unconditional Walk",
+      "remember": "You can end any sales meeting. No explanation needed.",
+      "theySee": "A buyer who stands up, picks up their things, and says they're done.",
+      "signals": [
+        {
+          "l": "Rep won't leave",
+          "t": "Meeting has ended but the rep lingers and keeps talking to hold the floor.",
+          "icon": "🚶"
+        },
+        {
+          "l": "Second close attempt",
+          "t": "Rep tries a new close after you've already said no once and started wrapping up.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Guilt language",
+          "t": "Rep says \"I drove a long way\" or \"I really went to bat for this price.\"",
+          "icon": "😔"
+        },
+        {
+          "l": "Voice goes sharp",
+          "t": "Rep's tone gets harder or louder as you try to end the meeting.",
+          "icon": "📣"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide your trigger point before the meeting",
+          "desc": "Write one clear condition for leaving early: \"If they ignore my time boundary\" or \"If they push past my second no.\" Know it in advance."
+        },
+        {
+          "n": "2",
+          "title": "Stand up and state you're done",
+          "desc": "\"I'm going to stop here. Thank you for coming.\" Stand up. Don't sit back down."
+        },
+        {
+          "n": "3",
+          "title": "Refuse the follow-up if your decision is made",
+          "desc": "\"I won't need a follow-up. I know how to reach you if I change my mind.\" Say it once and walk to the door."
+        }
+      ],
+      "script": "\"I'm going to stop here. Thank you for coming.\"",
+      "counter": "When a buyer leaves early, the meeting failed — usually because of pressure tactics.\n• A buyer who leaves is telling you exactly what went wrong. Don't follow them out.\n• Don't send a same-day follow-up. Wait 48 hours.\n• Send one short note: what you can offer differently, nothing more.",
+      "insight": "Leaving is the most powerful move in the room. The only reason most buyers don't use it is they think they owe the rep something. They don't."
+    },
+    {
+      "id": 12,
+      "cat": "time",
+      "danger": "moderate",
+      "title": "Know Your Right to Cancel After Signing",
+      "hook": "Signing under pressure isn't the end. <strong>Most consumer contracts include a legal right to cancel within days.</strong>",
+      "truth": "Most buyers don't know they can cancel after signing — sellers count on that gap.\n• In many places, home-service contracts have a mandatory 3-day cancellation right.\n• Canceling costs nothing except one written notice sent before the deadline.\n• Sign to end the pressure, then cancel if the deal doesn't hold up on review.",
+      "principle": "Consumer Protection: Cooling-Off Period",
+      "remember": "Signing is not final. You usually have three days to cancel.",
+      "theySee": "A buyer who signs, then sends a cancellation notice the next morning.",
+      "signals": [
+        {
+          "l": "No cancellation mention",
+          "t": "Rep doesn't mention your right to cancel at any point during the signing.",
+          "icon": "🔕"
+        },
+        {
+          "l": "Post-sign urgency",
+          "t": "Rep says work starts tomorrow, making cancellation feel risky or disruptive.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Fine-print clause",
+          "t": "Cancellation terms are buried at the back of a long document in small text.",
+          "icon": "🔬"
+        },
+        {
+          "l": "\"Sale is final\" claim",
+          "t": "Rep states verbally the sale is final, hoping you won't check the actual contract.",
+          "icon": "🚫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the cancellation clause before signing",
+          "desc": "Look for a section called \"right of rescission\" or \"cancellation.\" Note the deadline — usually 3 business days. If you can't find it, ask for it in writing before signing."
+        },
+        {
+          "n": "2",
+          "title": "If you signed under pressure, send a cancellation notice",
+          "desc": "Write: \"I am canceling this contract under my right of rescission.\" Email or mail it before the deadline. Keep a copy with the sent timestamp."
+        },
+        {
+          "n": "3",
+          "title": "Report sellers who claim no cancellation right exists",
+          "desc": "If a rep told you verbally the sale was final on a home-service contract, file a report with your state attorney general's consumer protection office. That claim may be illegal."
+        }
+      ],
+      "script": "\"I am canceling this contract under my right of rescission. Please confirm receipt.\"",
+      "counter": "If a buyer sends a cancellation notice, your closing pressure became their reason to get out.\n• Honor the cancellation immediately — fighting it legally costs more than the deal was worth.\n• Review what drove them to sign and cancel: that's your pressure problem showing up on paper.\n• A buyer who cancels will tell other people. The loss is bigger than the one contract.",
+      "insight": "Signing to end the pressure and canceling the next morning is a legitimate move. The harder question is whether you'll remember to do it before the three-day window closes."
+    }
+  ]
+}
