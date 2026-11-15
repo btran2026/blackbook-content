@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "id": "srv-read-the-room",
+    "version": "1.0",
+    "title": "Read the Room",
+    "subtitle": "When the Mood Shifts, Who Moves First",
+    "description": "12 cards on spotting mood shifts before they are announced, decoding signals others miss, and moving first. From catching the three-second window to recovering after a bad read — this is the full file.",
+    "author": "AI",
+    "createdAt": "2026-11-15T19:36:47.430Z",
+    "tags": [
+      "social intelligence",
+      "body language",
+      "reading people",
+      "group dynamics",
+      "influence"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "👁️",
+    "fromServer": true,
+    "generation": {
+      "topic": "Reading the room when the mood shifts",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "detect",
+      "label": "Spotting the Shift",
+      "color": "#c0392b"
+    },
+    {
+      "key": "decode",
+      "label": "Reading the Signal",
+      "color": "#8e44ad"
+    },
+    {
+      "key": "adapt",
+      "label": "Changing Your Move",
+      "color": "#2980b9"
+    },
+    {
+      "key": "environment",
+      "label": "The Physical Room",
+      "color": "#27ae60"
+    },
+    {
+      "key": "defense",
+      "label": "Protecting Your Read",
+      "color": "#d35400"
+    },
+    {
+      "key": "recover",
+      "label": "After You Miss It",
+      "color": "#7f8c8d"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "detect",
+      "danger": "low",
+      "title": "Catch the Mood Shift Before Anyone Speaks",
+      "hook": "The room changes before anyone says a word. <strong>Three seconds in, the window is already closing.</strong>",
+      "truth": "Most people wait for a verbal cue. By then the shift has set and they are behind it.\n• Watch pace slow, eye contact drop, and laughter go quiet.\n• The first person to notice controls what comes next.\n• Waiting for confirmation costs you the lead.",
+      "principle": "Thin-Slicing: Ambady & Rosenthal",
+      "remember": "The room changes before anyone says anything. Catch it fast.",
+      "theySee": "A group of people where the smiles have stopped but nobody has spoken yet.",
+      "signals": [
+        {
+          "l": "Laughter stops",
+          "t": "The last laugh dies and nobody starts a new one.",
+          "icon": "😶"
+        },
+        {
+          "l": "Eyes drop",
+          "t": "People stop making eye contact and look at the table or the floor.",
+          "icon": "👀"
+        },
+        {
+          "l": "Pace slows",
+          "t": "Whoever was talking drops speed or pauses mid-sentence.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Bodies turn",
+          "t": "People shift in their seats or angle away from the center of the room.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Scan the room before you open your mouth",
+          "desc": "Before speaking in any group setting, spend three seconds looking at faces and body positions. No words yet."
+        },
+        {
+          "n": "2",
+          "title": "Name the signal to yourself",
+          "desc": "Pick the one clearest sign — a frozen face, a dropped voice — and label it in your head. This locks your read."
+        },
+        {
+          "n": "3",
+          "title": "Adjust your next line before you say it",
+          "desc": "If the room shifted, change your first word. Don't deliver the line you planned. Match where the room is right now."
+        }
+      ],
+      "script": "\"Hold on — something shifted. Let's slow this down.\"",
+      "counter": "This same scan can be used on you. Someone watching your micro-signals knows your mood before you announce it.\n• Notice if someone in the room is scanning you, not the topic.\n• Keep your face neutral when a loaded topic lands.\n• Wait two seconds before you react. That gap breaks their read.",
+      "insight": "Reading it fast is the easy part. The harder problem is what you do with the information — and whether acting on it costs you the position you were holding."
+    },
+    {
+      "id": 2,
+      "cat": "decode",
+      "danger": "low",
+      "title": "One-Word Answer Where They Usually Give Three",
+      "hook": "They answered in one word. Yesterday they gave you a paragraph. <strong>That gap is the whole signal.</strong>",
+      "truth": "Most people take the short answer at face value and move on. The short answer is never the full picture.\n• A compressed answer means the person pulled back from the conversation.\n• They are still in the room but no longer with you.\n• Pushing more questions right now makes it worse. Stop and ask one open one.",
+      "principle": "CORA: Behavioral Baseline Deviation",
+      "remember": "Short answers mean they pulled back. Stop and ask one open question.",
+      "theySee": "A person who gave a one-word answer, standing still, waiting for the conversation to move on without them.",
+      "signals": [
+        {
+          "l": "Single word",
+          "t": "They answer a question they usually expand on with one flat word.",
+          "icon": "💬"
+        },
+        {
+          "l": "No follow-up",
+          "t": "They don't add anything or ask anything back after their answer.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Eye contact gone",
+          "t": "They look away right after speaking instead of watching your reaction.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Body still",
+          "t": "They are not moving or leaning in the way they normally would.",
+          "icon": "🧍"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Compare to their baseline",
+          "desc": "Think back to how they usually answer. How many words? How much energy? The gap between normal and now is the data."
+        },
+        {
+          "n": "2",
+          "title": "Drop your own pace",
+          "desc": "Don't pile on more questions or tasks. Slow down noticeably. This signals you noticed without naming it."
+        },
+        {
+          "n": "3",
+          "title": "Ask one open question and stop",
+          "desc": "Say one open question — not a yes/no — then wait. Do not fill the silence. Let them decide whether to talk."
+        }
+      ],
+      "script": "\"That's a short answer for you. What's actually going on?\"",
+      "counter": "If someone uses this line on you, they are running a baseline check. They want your real state.\n• Decide before you answer how much you want to share.\n• A vague honest answer stops more follow-up than a clean denial.\n• Say 'I'm fine, just a lot going on' if you want them off the trail.",
+      "insight": "Knowing they pulled back is only the start. The harder move is figuring out whether the pull-back is about you, the topic, or something you have no part in."
+    },
+    {
+      "id": 3,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Don't Read Your Own Mood Into the Room",
+      "hook": "You are frustrated. The room seems hostile. <strong>Half the time the room is just the room.</strong>",
+      "truth": "Putting your own mood onto others is the most common read error. It feels like insight but it is noise.\n• You see what matches your current emotional state, not what is actually there.\n• This gets worse when you are tired, angry, or anxious.\n• Decisions made on a projected read tend to blow up the same day.",
+      "principle": "Projection Bias: Pronin & Ross",
+      "remember": "Your bad mood makes the room look bad. Check yourself first.",
+      "theySee": "A person in a tense conversation who is sure the other side is angry, when the other side is just tired.",
+      "signals": [
+        {
+          "l": "Strong certainty",
+          "t": "You feel very sure about the room's mood without checking any single person specifically.",
+          "icon": "⚡"
+        },
+        {
+          "l": "No hard data",
+          "t": "You can't name one specific thing you saw — just a vibe.",
+          "icon": "❓"
+        },
+        {
+          "l": "One cue, big read",
+          "t": "You built your whole read off one face or one pause.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Matches your state",
+          "t": "The mood you're reading matches exactly how you feel right now.",
+          "icon": "🪞"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your own mood first",
+          "desc": "Before reading anyone else, write one word for how you feel right now. Angry. Tired. Anxious. That word is your filter. Know it."
+        },
+        {
+          "n": "2",
+          "title": "Find two hard data points",
+          "desc": "Look for two specific, observable things — a face, a word, a posture. If you can't name two concrete things, your read is a guess."
+        },
+        {
+          "n": "3",
+          "title": "Ask one neutral person directly",
+          "desc": "Pick the most even-keeled person in the room and ask: 'How's the energy in here to you?' Their answer either confirms or kills your read."
+        }
+      ],
+      "script": "\"Quick check — am I reading this right, or am I off?\"",
+      "counter": "If someone tells you the room is tense when nothing is visibly wrong, they may be reading their own state into it.\n• Ask them what specifically they saw or heard.\n• If they can't name it, don't adjust your plan.\n• Keep your own read and proceed.",
+      "insight": "The projection trap is worst in high-stakes rooms — the more you need the read to be right, the more likely you are to see what you fear."
+    },
+    {
+      "id": 4,
+      "cat": "adapt",
+      "danger": "low",
+      "title": "Wait Before You Bring Up Hard Topics",
+      "hook": "You have something serious to say. The room is laughing. <strong>Wait. The wrong moment turns a good point into an interruption.</strong>",
+      "truth": "Timing matters as much as the point itself. A well-made point dropped at the wrong moment gets ignored or resented.\n• People in a good mood reject bad news faster because they don't want the shift.\n• A serious topic lands harder when the room is already calm and attentive.\n• Forcing it into a happy room marks you as the person who broke the vibe.",
+      "principle": "Kairos: Timing Principle (Greek Rhetoric)",
+      "remember": "A serious point at the wrong moment gets ignored. Wait for quiet.",
+      "theySee": "A person at a dinner table who keeps watching and listening instead of jumping in with something heavy.",
+      "signals": [
+        {
+          "l": "High energy room",
+          "t": "Everyone is talking fast, laughing, and switching topics before anyone finishes a thought.",
+          "icon": "🔊"
+        },
+        {
+          "l": "Topic jumping",
+          "t": "The conversation keeps switching before any single thread closes.",
+          "icon": "⏭️"
+        },
+        {
+          "l": "Drinks up",
+          "t": "People are eating or drinking mid-bite — bodies occupied, attention split.",
+          "icon": "🍷"
+        },
+        {
+          "l": "No natural pause",
+          "t": "The room hasn't gone quiet for more than five seconds since you arrived.",
+          "icon": "🔁"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Spot the natural energy dip",
+          "desc": "Watch for the moment the room slows — a topic ends, someone checks their phone, laughter fades. That's the window. Mark it."
+        },
+        {
+          "n": "2",
+          "title": "Make eye contact before you speak",
+          "desc": "Brief eye contact with the key person in the room before you open your mouth. This builds a small anticipation that buys you attention."
+        },
+        {
+          "n": "3",
+          "title": "Lead with the point, not the warmup",
+          "desc": "Once you have the floor, say the serious thing first. Don't warm up with small talk. The room will re-shift if you stall."
+        }
+      ],
+      "script": "\"Before we move on — there's one thing I need to put on the table.\"",
+      "counter": "If someone always brings up hard topics when you are at peak good mood, the timing may not be an accident.\n• Notice the pattern — does it always happen when you are most relaxed?\n• Don't answer immediately. Say you will think about it.\n• A good mood is not a commitment to agree.",
+      "insight": "The move that follows is reading whether the room will stay calm after you drop the topic — or whether you will need to manage the shift you just caused."
+    },
+    {
+      "id": 5,
+      "cat": "decode",
+      "danger": "moderate",
+      "title": "Everyone Is Agreeing — That Is a Warning Sign",
+      "hook": "Everyone is nodding. Everyone is saying yes. <strong>That is not consensus. That is a room that stopped talking honestly.</strong>",
+      "truth": "False agreement is what a room produces when someone's ego or status blocks honest pushback.\n• People agree out loud when they don't feel safe disagreeing.\n• The real objections go underground and surface later as friction or failure.\n• Too many yeses means you need the quietest person in the room, privately.",
+      "principle": "Groupthink: Janis (1972)",
+      "remember": "Too much agreement means people stopped being honest. Find the quiet one.",
+      "theySee": "A meeting room where everyone is nodding and nobody is pushing back on anything.",
+      "signals": [
+        {
+          "l": "No pushback",
+          "t": "Every suggestion gets a nod or a 'sure' with zero questions asked.",
+          "icon": "👍"
+        },
+        {
+          "l": "Short affirmations",
+          "t": "People respond quickly with one-word agreement and move on without adding.",
+          "icon": "💬"
+        },
+        {
+          "l": "One voice dominates",
+          "t": "Only one or two people are speaking and everyone else follows their lead.",
+          "icon": "🎙️"
+        },
+        {
+          "l": "Eyes stay forward",
+          "t": "People are watching the dominant voice, not each other.",
+          "icon": "👀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the lack of pushback out loud",
+          "desc": "Say: 'We haven't heard any objections — that surprises me. What are we missing?' This breaks the false agreement loop directly."
+        },
+        {
+          "n": "2",
+          "title": "Find the quietest person after the room clears",
+          "desc": "The person who said the least in the room holds the most honest read. Ask them one-on-one what they actually think."
+        },
+        {
+          "n": "3",
+          "title": "Assign someone to argue against the plan",
+          "desc": "Before closing any decision, name one person to argue against it for two minutes. This forces honest disagreement back into the open."
+        }
+      ],
+      "script": "\"Nobody's pushed back yet. Someone tell me what's wrong with this.\"",
+      "counter": "If someone suddenly asks for objections in a room that was agreeing, they spotted the false consensus. Decide now whether to stay quiet or be the honest voice.\n• Speaking up first gets you credit but puts you in an exposed position.\n• Wait and see if someone else breaks first.\n• If nobody does, your silence is a vote for the bad plan.",
+      "insight": "The harder move after breaking false agreement is living with the status cost — the room needed you to agree, and you didn't."
+    },
+    {
+      "id": 6,
+      "cat": "decode",
+      "danger": "low",
+      "title": "Weigh the Clearest Cue — Don't Average Them All",
+      "hook": "One person's face tells you everything. The rest of the room tells you nothing. <strong>Trust the sharpest signal, not the average of all of them.</strong>",
+      "truth": "Most people average all the signals they see, which muddies the read. The best readers weight the clearest signal heaviest.\n• A sharp cue — a facial shift, a sudden silence — beats five weak ones combined.\n• Averaging weak and strong signals together waters down what you actually know.\n• One clear signal acted on fast beats a perfect read that comes too late.",
+      "principle": "Bayesian Integration: Ortega et al., UC Berkeley (2023)",
+      "remember": "Act on the clearest signal. Don't average weak ones together.",
+      "theySee": "A person in a conversation scanning the room for signals and picking the sharpest one, not trying to add them all up.",
+      "signals": [
+        {
+          "l": "Sharp face change",
+          "t": "One person's expression shifts hard while everyone else stays neutral.",
+          "icon": "😬"
+        },
+        {
+          "l": "Single word pause",
+          "t": "One specific word causes a sudden break in the conversation flow.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Volume drop",
+          "t": "One voice goes noticeably lower right after a specific point is made.",
+          "icon": "🔉"
+        },
+        {
+          "l": "Single lean-back",
+          "t": "One person pulls back from the table while others stay forward.",
+          "icon": "↩️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the one clearest signal",
+          "desc": "Look for the sharpest change — biggest facial shift, longest pause, most sudden posture change. Mark it. This is your primary signal."
+        },
+        {
+          "n": "2",
+          "title": "Test it with one direct question",
+          "desc": "Address the person who showed the signal. Ask one question that lets them confirm or deny. Watch their response, not just the words."
+        },
+        {
+          "n": "3",
+          "title": "Act on your primary signal and move",
+          "desc": "Don't wait to gather five more cues. The window to act on a clear read is short. Decide and go."
+        }
+      ],
+      "script": "\"I noticed something shift just now. What's your read on this?\"",
+      "counter": "If someone is trying to read you, give them noise — a mix of signals that don't point in one direction.\n• Keep your strongest reaction off your face.\n• Let small things show. It distracts from the real signal.\n• Change your body position to reset what they are tracking.",
+      "insight": "The 30% of people who average all cues instead of weighting them make slower, blurrier decisions — and they look slower to the room too."
+    },
+    {
+      "id": 7,
+      "cat": "adapt",
+      "danger": "low",
+      "title": "Slow Down the Second You Spot a Shift",
+      "hook": "The room changed. The worst thing you can do is keep going at the same speed. <strong>Slow down first. Talk later.</strong>",
+      "truth": "Speeding up when mood drops is the natural instinct and the wrong move. Speed signals panic. Slowing down signals control.\n• A slower pace gives the room time to stabilize without anyone having to announce the problem.\n• It signals you noticed without making the shift awkward to name.\n• People follow the pace of whoever seems most in control.",
+      "principle": "Pacing: Voss (Never Split the Difference)",
+      "remember": "When the mood drops, slow your speech first. Speed signals panic.",
+      "theySee": "A person in a conversation who drops their speaking speed after something tense gets said, and the room starts to calm around them.",
+      "signals": [
+        {
+          "l": "Energy drops",
+          "t": "The room gets quieter and responses get slower across the board.",
+          "icon": "📉"
+        },
+        {
+          "l": "Long pause after you",
+          "t": "Nobody responds right away — the room is processing, not moving.",
+          "icon": "⏳"
+        },
+        {
+          "l": "Filler words up",
+          "t": "People start saying 'uh' and 'um' more than they were a minute ago.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Eyes searching",
+          "t": "People are looking around at each other for someone to take the lead.",
+          "icon": "👁️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Cut your speaking speed in half",
+          "desc": "If you were at normal conversation pace, cut it in half. Take one full breath between sentences. Do this right now."
+        },
+        {
+          "n": "2",
+          "title": "Lower your volume by one notch",
+          "desc": "Don't whisper, but bring the volume down slightly. Softer volume makes the room lean in instead of pulling back."
+        },
+        {
+          "n": "3",
+          "title": "Let silence sit for three full seconds",
+          "desc": "After you finish a sentence, don't fill the silence. Count to three internally. Whoever speaks next hands you information."
+        }
+      ],
+      "script": "\"Let's just take a beat here.\"",
+      "counter": "If someone else slows down in front of you during a tense moment, they are running a pacing move and trying to lead the room.\n• Notice if the slowing feels genuine or deliberate.\n• Don't automatically follow their pace — wait and see who else does.\n• If you hold your own rhythm, you split the room's attention between you.",
+      "insight": "Slowing down works until you hold it too long — then the silence reads as lost control instead of chosen control. There is a gap of about five seconds between calm and stuck."
+    },
+    {
+      "id": 8,
+      "cat": "environment",
+      "danger": "low",
+      "title": "Change the Physical Room Before You Change the Conversation",
+      "hook": "The conversation isn't working. The chairs, the light, the layout may be the problem. <strong>Move something before you say something.</strong>",
+      "truth": "The physical room sets the emotional floor. Most people try to change mood with words when the room itself is working against them.\n• Bright light raises energy and makes people more direct and alert.\n• Softer, warmer light relaxes people and lowers their guard.\n• Changing the layout — opening space, pulling chairs closer — shifts power and comfort without a single word.",
+      "principle": "Environmental Priming: Mehrabian (1976)",
+      "remember": "Change the light or the layout before you change the conversation.",
+      "theySee": "A person who, before a hard conversation, closes the blinds, moves chairs closer together, and adjusts the lamp — before saying anything.",
+      "signals": [
+        {
+          "l": "Harsh overhead light",
+          "t": "Everyone in the room looks stiff and formal under bright, flat lighting.",
+          "icon": "💡"
+        },
+        {
+          "l": "Wide chair spacing",
+          "t": "Seats and people are far apart, making the room feel like a committee hearing.",
+          "icon": "↔️"
+        },
+        {
+          "l": "Cold temperature",
+          "t": "The room is noticeably cold — people are arms-crossed or slightly hunched.",
+          "icon": "🥶"
+        },
+        {
+          "l": "No background sound",
+          "t": "Total silence — every word hangs in the air with nothing to soften it.",
+          "icon": "🔇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the one physical thing working against you",
+          "desc": "Light too harsh? Chairs too far apart? Too quiet? Pick the single worst factor in the room before the conversation starts."
+        },
+        {
+          "n": "2",
+          "title": "Change it before you speak",
+          "desc": "Adjust the lighting, move a chair, open a window, add quiet background sound. Do this before the key exchange begins."
+        },
+        {
+          "n": "3",
+          "title": "Watch posture change in the first 60 seconds",
+          "desc": "After a physical change, watch for people uncrossing arms, leaning forward, or softening their face. That is your confirmation the floor shifted."
+        }
+      ],
+      "script": "\"Let me just adjust this — it'll make it easier to think in here.\"",
+      "counter": "If someone rearranges a room before a serious conversation with you, they are setting an emotional floor before you have a chance to.\n• Decide whether the new arrangement helps you or them.\n• If it doesn't help you — a chair facing away from the door, harsh light in your eyes — suggest moving before you sit.\n• The room is never neutral.",
+      "insight": "Environmental changes work best as silent setup. If you have to explain what you're doing, the effect is already cut in half."
+    },
+    {
+      "id": 9,
+      "cat": "decode",
+      "danger": "moderate",
+      "title": "They Say Fine — Watch What They Do in the Next 60 Seconds",
+      "hook": "They said fine. <strong>Fine is not fine. Watch their next move, not their word.</strong>",
+      "truth": "Fine is what people say when they don't want to explain or don't feel safe doing it. The behavior right after is the real answer.\n• If they were fine, they would keep engaging. Watch if they go quieter.\n• They stay physically still or start doing a small task — that is disengagement.\n• Pressing right after 'fine' closes the door faster. Wait and watch.",
+      "principle": "Surface vs. Signal: CORA Decision Skills",
+      "remember": "Watch what they do after they say fine. That is the real answer.",
+      "theySee": "A person who said fine but is now looking away and doing something small with their hands instead of continuing the conversation.",
+      "signals": [
+        {
+          "l": "Quick look away",
+          "t": "Right after saying fine, their eyes move off you and don't come back.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Small task starts",
+          "t": "They pick up their phone or start tidying something right after the word.",
+          "icon": "📱"
+        },
+        {
+          "l": "No question back",
+          "t": "A person who is actually fine usually keeps talking. They don't.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Faster breathing",
+          "t": "Their breathing is shallower and faster than it was at the start of the conversation.",
+          "icon": "😮‍💨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Let fine land without pressing",
+          "desc": "Don't follow fine with another question immediately. Give it ten seconds. The behavior in those ten seconds tells you more than words will."
+        },
+        {
+          "n": "2",
+          "title": "Watch one specific thing for 60 seconds",
+          "desc": "Pick one thing to track: their eye contact, their hands, their voice. One thing only. Don't try to read everything at once."
+        },
+        {
+          "n": "3",
+          "title": "Return in ten minutes with one soft question",
+          "desc": "Don't push in the moment. Come back later and say: 'You seemed quiet back there — do you want to talk about it?' One question. Then stop."
+        }
+      ],
+      "script": "\"Okay. I'm here if that changes.\"",
+      "counter": "If someone is watching you after you say fine, they already know. Decide whether to open up or hold the line.\n• A partial truth usually stops the watch: 'I've got a lot going on, nothing to do with you.'\n• Don't oversell fine. Elaborate and it looks suspicious.\n• If you want them to drop it, stay physically busy right after you say it.",
+      "insight": "The gap between what they say and what they do is the most reliable read you have — but it only works if you are watching behavior, not planning your next line."
+    },
+    {
+      "id": 10,
+      "cat": "adapt",
+      "danger": "low",
+      "title": "Use One Specific Joke to Break a Tense Room",
+      "hook": "The room locked up. Everyone is stiff. <strong>One well-timed joke resets the floor — but only if it targets the situation, not a person.</strong>",
+      "truth": "Humor at the right moment is a pattern break — it briefly stops whatever loop the room is stuck in and lets people start fresh.\n• A joke that lands makes the room physically relax. You can see it in posture.\n• It has to target the situation or yourself — never another person in the room.\n• A joke that fails deepens the tension. Know your room before you try it.",
+      "principle": "Pattern Interrupt: Cialdini (Pre-suasion)",
+      "remember": "One joke about the situation resets the room. Never target a person.",
+      "theySee": "A person in a tense meeting who makes one quick dry comment about how awkward the room is, and the group laughs briefly and shifts.",
+      "signals": [
+        {
+          "l": "Stiff posture",
+          "t": "Everyone is sitting upright with arms held in close to their bodies.",
+          "icon": "🧍"
+        },
+        {
+          "l": "Long pauses",
+          "t": "Every statement is followed by a pause where nobody adds anything.",
+          "icon": "⏸️"
+        },
+        {
+          "l": "Flat voices",
+          "t": "People are speaking in a monotone with no rise or fall in pitch.",
+          "icon": "📢"
+        },
+        {
+          "l": "No side talk",
+          "t": "Nobody is talking to the person next to them — all eyes are front.",
+          "icon": "🔇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Target the situation, not a person",
+          "desc": "Before you speak, make sure the joke is about the awkwardness of the room or the moment itself. Write it in your head in ten words or fewer."
+        },
+        {
+          "n": "2",
+          "title": "Say it short and keep moving",
+          "desc": "Deliver the line. Don't explain it, don't wait for every laugh, don't follow up with another joke. Say it and keep going."
+        },
+        {
+          "n": "3",
+          "title": "Watch posture for 15 seconds after",
+          "desc": "If people uncross their arms or laugh briefly, the break worked. If nobody reacts, treat it as a neutral comment and move on. Don't apologize."
+        }
+      ],
+      "script": "\"Well — this is officially the most comfortable room I've ever been in.\"",
+      "counter": "If someone cracks a joke in a tense room, they are trying to reset the floor and move things along. Decide if that serves you.\n• If the tension was protecting a point you need made, don't laugh and move on.\n• Ask a follow-up question that brings the topic back.\n• A laugh doesn't erase the issue. It pauses it.",
+      "insight": "The riskier version of this move is a joke that only half the room understands — it breaks the tension for some and deepens it for others."
+    },
+    {
+      "id": 11,
+      "cat": "recover",
+      "danger": "moderate",
+      "title": "What to Do After You Missed the Read",
+      "hook": "You said the wrong thing at the wrong moment. The room shifted against you. <strong>How you recover in the next 60 seconds matters more than the mistake.</strong>",
+      "truth": "Missing a read isn't the problem. What you do in the first minute after is what people remember.\n• A quick, clean acknowledgment costs almost nothing and resets the room fast.\n• Over-explaining signals panic and forces others to manage you.\n• Silence followed by a redirect is the fastest way back to neutral.",
+      "principle": "Repair Sequence: Goffman (Face-Saving Theory)",
+      "remember": "One quick acknowledgment, then redirect. Never over-explain a bad read.",
+      "theySee": "A person who said something that dropped the room's energy, who pauses, says one clear sentence, and moves the conversation forward.",
+      "signals": [
+        {
+          "l": "Room goes quiet",
+          "t": "After your statement, nobody adds to it and the energy drops flat.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Eyes move away",
+          "t": "People look at each other or away from you after what you said.",
+          "icon": "👀"
+        },
+        {
+          "l": "Quick topic shift",
+          "t": "Someone else tries to move to a new topic immediately to cover the gap.",
+          "icon": "⏭️"
+        },
+        {
+          "l": "Phone check",
+          "t": "Someone breaks eye contact to look at their phone right after you speak.",
+          "icon": "📱"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name what happened in one sentence",
+          "desc": "Say it out loud — fast and clean. 'That landed wrong' or 'That wasn't what I meant to say.' One sentence only. No explanation attached."
+        },
+        {
+          "n": "2",
+          "title": "Stay quiet for five seconds after",
+          "desc": "After the acknowledgment, say nothing for five full seconds. Let the room respond. Don't rush to fill the gap with more words."
+        },
+        {
+          "n": "3",
+          "title": "Ask one question that moves things forward",
+          "desc": "Ask one question that gives the room somewhere to go. Don't circle back to what you said. The question closes the loop and hands control to the group."
+        }
+      ],
+      "script": "\"That landed wrong — let me back up. What I actually meant was this.\"",
+      "counter": "If someone misses a read and immediately over-explains, they are doing the room's emotional work for everyone. That is a good moment to hold your position.\n• Don't rush to rescue them.\n• A clean 'I appreciate you saying that' closes the loop without giving away ground.\n• The person who stays calm after someone else's miss looks most in control.",
+      "insight": "The trap is thinking you need to fully repair the moment. You don't. You need to stop it from getting worse. Those are different targets."
+    },
+    {
+      "id": 12,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "People-Pleasers Read the Room Too Well — That Is the Trap",
+      "hook": "You spotted the mood change before anyone else. You adjusted immediately. <strong>That reflex keeps you safe. It also keeps you stuck.</strong>",
+      "truth": "Reading the room is a skill. Automatically acting on every read is a habit that costs you.\n• People-pleasers read mood shifts fast because they learned to — anxiety is a good teacher.\n• The problem is acting on the read without deciding whether to. It becomes automatic.\n• You can read the room and choose not to change your plan. That is the actual skill.",
+      "principle": "Fawn Response: Pete Walker (C-PTSD)",
+      "remember": "Reading the room is good. Automatically changing for the room is not.",
+      "theySee": "A person who noticed someone's mood shift, started adjusting their behavior, then stopped and kept their original plan.",
+      "signals": [
+        {
+          "l": "Instant adjustment",
+          "t": "You changed what you were saying or doing before you made a conscious choice to.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Plan abandoned",
+          "t": "You shelved what you came to say because the room didn't feel right.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Relief after backing down",
+          "t": "You feel relief when you back off your plan — that relief is the signal.",
+          "icon": "😮‍💨"
+        },
+        {
+          "l": "Constant face scan",
+          "t": "During conversations you spend more time watching others' reactions than making your own points.",
+          "icon": "👀"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "After your next conversation, ask one question",
+          "desc": "Ask yourself: did I change my plan because I chose to, or because someone's mood shifted? Write yes or no. Do this right now for the last conversation you had."
+        },
+        {
+          "n": "2",
+          "title": "Name what you gave up",
+          "desc": "In the next conversation where you feel the pull to adjust, name the thing you'd be giving up — a point, a request, a decision. Say it to yourself before you back down."
+        },
+        {
+          "n": "3",
+          "title": "Hold your line in one low-stakes conversation today",
+          "desc": "Pick one conversation today where you feel the pull to back down. Keep your original point. Finish your sentence. Watch what actually happens."
+        }
+      ],
+      "script": "\"I hear that — and here's where I still land on this.\"",
+      "counter": "If someone reads your mood and immediately shifts to please you, they may be in an automatic fawn pattern. This gives you more influence than you asked for.\n• Don't use it on purpose.\n• Name what you are noticing: 'You don't have to agree with me.'\n• Letting them hold their own position makes the conversation more useful to both of you.",
+      "insight": "The move that follows is figuring out when reading and adjusting is a smart choice — and when it is just the old reflex running without your permission."
+    }
+  ]
+}
