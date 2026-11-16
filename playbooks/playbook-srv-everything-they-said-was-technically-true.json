@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "id": "srv-everything-they-said-was-technically-true",
+    "version": "1.0",
+    "title": "Everything They Said Was Technically True",
+    "subtitle": "How to catch a true sentence that lies — and how to use one.",
+    "description": "A field manual for the most common deception adults meet: the statement that is accurate, checkable, and completely misleading. Spot the dodge, pin the speaker, get it on paper, and run the move yourself when you need to.",
+    "author": "AI",
+    "createdAt": "2026-10-12T01:50:31.759Z",
+    "tags": [
+      "paltering",
+      "deception",
+      "negotiation",
+      "interrogation",
+      "contracts",
+      "dark-psychology"
+    ],
+    "totalCards": 14,
+    "isSeeded": true,
+    "coverColor": "#7C2D12",
+    "coverIcon": "🪤",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "spot",
+      "label": "Spot the Dodge",
+      "color": "#B45309"
+    },
+    {
+      "key": "pin",
+      "label": "Pin Them Down",
+      "color": "#9F1239"
+    },
+    {
+      "key": "numbers",
+      "label": "Numbers That Lie",
+      "color": "#1D4ED8"
+    },
+    {
+      "key": "paper",
+      "label": "Get It On Paper",
+      "color": "#047857"
+    },
+    {
+      "key": "run",
+      "label": "Run It Yourself",
+      "color": "#6D28D9"
+    },
+    {
+      "key": "after",
+      "label": "After the Catch",
+      "color": "#334155"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "spot",
+      "danger": "low",
+      "title": "They Answered a Question You Didn't Ask",
+      "principle": "Rogers & Norton: Paltering",
+      "remember": "A true answer to the wrong question is still a dodge.",
+      "when": "You ask if the car was ever in a crash and they tell you it passed inspection last week.",
+      "hook": "Liars hate lying. <strong>They would rather hand you a true fact that points the wrong way.</strong>",
+      "truth": "People who need to mislead you reach for a true sentence first.\n• They answer a nearby question and let you hear it as yours.\n• You feel answered, so you stop asking. That is the point.\n• Write your question down. Compare it to the words they said.",
+      "theySee": "A buyer nodding and moving on to the next topic.",
+      "signals": [
+        {
+          "icon": "🎯",
+          "l": "Near miss",
+          "t": "They answer a question close to yours but not yours."
+        },
+        {
+          "icon": "📅",
+          "l": "New date",
+          "t": "They swap your time period for one they picked."
+        },
+        {
+          "icon": "📜",
+          "l": "Paper swap",
+          "t": "They offer a document that covers something else."
+        },
+        {
+          "icon": "🔁",
+          "l": "Fast pivot",
+          "t": "They finish the answer and change the subject immediately."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the question down",
+          "desc": "Put your exact question in your notes before you ask it."
+        },
+        {
+          "n": "2",
+          "title": "Read their answer back",
+          "desc": "Say their words out loud, then ask your question again, unchanged."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the missing word",
+          "desc": "Name the word they avoided: crash, lawsuit, fired, refund."
+        }
+      ],
+      "script": "“That's inspection. <strong>My question was about a crash.</strong> Has this car ever been in one — yes or no?”",
+      "watchFor": "They stop and give a shorter answer with your word in it.",
+      "example": "Dana asked a seller if the condo had ever flooded. He said the building passed its 2024 inspection. She repeated the word flood twice. He admitted to a basement flood in 2021, and she cut her offer by $18,000.",
+      "ifItFails": "They answer the wrong question a second time, with more detail. Stop asking out loud and move it to writing, where a false answer costs them. Send: <strong>“Please confirm in writing: has this unit ever flooded? Yes or no.”</strong>",
+      "counter": "If someone keeps repeating one word back at you, they caught your dodge.\n• Notice they ignore your facts and hold the same question.\n• Anger makes it worse. A short answer ends it.\n• Say: <strong>“Fair. Short answer: yes, once, in 2021.”</strong>",
+      "insight": "Most people lie far less than you think and mislead far more. The harder part is that a true sentence feels like an answer, so you have to track your own question, not their words."
+    },
+    {
+      "id": 2,
+      "cat": "spot",
+      "danger": "low",
+      "title": "Listen For What They Left Out",
+      "principle": "Grice: Maxim of Quantity",
+      "remember": "If the good news is missing, it does not exist.",
+      "when": "A manager praises your teammate's reliability and says nothing about his work.",
+      "hook": "People tell you everything that helps them. <strong>Whatever they skip, they skipped on purpose.</strong>",
+      "truth": "Every answer has a shape, and the hole in it is information.\n• Praise that skips the main thing means the main thing is bad.\n• They stay honest, because the missing part was never said.\n• List what a full answer needs. Then check what is absent.",
+      "theySee": "A caller who accepts the summary and asks nothing else.",
+      "signals": [
+        {
+          "icon": "🪶",
+          "l": "Thin praise",
+          "t": "They praise small things: punctual, friendly, easy to work with."
+        },
+        {
+          "icon": "🔢",
+          "l": "No numbers",
+          "t": "They describe results without a single number."
+        },
+        {
+          "icon": "🕳️",
+          "l": "Skipped period",
+          "t": "They cover last quarter and skip the one before."
+        },
+        {
+          "icon": "🙈",
+          "l": "Name gap",
+          "t": "They never name the client, the court, or the buyer."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the full list",
+          "desc": "Before the call, list the five facts a complete answer needs."
+        },
+        {
+          "n": "2",
+          "title": "Tick them off live",
+          "desc": "Mark each one they cover. Circle anything they never touch."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the gap by name",
+          "desc": "Ask about exactly one missing item, in one sentence."
+        }
+      ],
+      "script": "“You covered the timeline and the budget. <strong>You haven't said anything about the two people who left.</strong> Why did they go?”",
+      "watchFor": "They pause, then explain the thing they skipped without being pushed twice.",
+      "example": "Reza checked a reference for a sales hire. The old boss praised his energy and his CRM notes for four minutes and never said a number. Reza asked what percent of quota the man hit. The answer was 61%, and Reza passed.",
+      "ifItFails": "They fill the gap with a story instead of a fact. Do not take the story. Ask for the one thing that is written down somewhere: <strong>“Just the number — what percent of quota did he hit last year?”</strong> If they say they cannot share it, that is your answer.",
+      "counter": "If someone hears you out and then asks about one missing item, they are running this on you.\n• Notice they ignore everything you said and name the gap.\n• Do not rush to fill it. More words leak more.\n• Say: <strong>“Short version: it didn't go well. Here's what I changed.”</strong>",
+      "insight": "Leaving things out is the cheapest honest lie, which is why it is the most common one. The real trap is that you usually write your list of required facts after you already liked the person."
+    },
+    {
+      "id": 3,
+      "cat": "spot",
+      "danger": "low",
+      "title": "They Tell You the Process, Not the Result",
+      "principle": "Status Asymmetry — Process Talk",
+      "remember": "Steps taken are not results. Ask what actually happened.",
+      "when": "You chase a refund and support says your case has been moved up to the right team.",
+      "hook": "“It's with legal.” “We've raised it internally.” <strong>Every word is true and nothing has happened.</strong>",
+      "truth": "Process words describe effort, and effort is free to say.\n• Each sentence is true, so nobody can be caught out.\n• You hear movement and give them another two weeks.\n• Ask for a name and a date. Process talk dies there.",
+      "theySee": "A customer who says thank you and waits.",
+      "signals": [
+        {
+          "icon": "👻",
+          "l": "No person",
+          "t": "They say it was submitted, reviewed, or flagged, with nobody named."
+        },
+        {
+          "icon": "⏳",
+          "l": "No date",
+          "t": "They will not tell you what day it finishes."
+        },
+        {
+          "icon": "🏢",
+          "l": "Team nouns",
+          "t": "They name teams, queues, and systems instead of people."
+        },
+        {
+          "icon": "📋",
+          "l": "Same status",
+          "t": "The status uses the same words as last week."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the person",
+          "desc": "Ask who owns it right now, by first and last name."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the date",
+          "desc": "Ask what day it closes. Take a day, not a window."
+        },
+        {
+          "n": "3",
+          "title": "Book the follow-up",
+          "desc": "Put that date in a calendar invite and send it to them."
+        }
+      ],
+      "script": "“I understand it's been raised. <strong>Who owns it now, and what date does it close?</strong> I'll put that date in my calendar.”",
+      "watchFor": "They give a real name or a real date instead of the status sentence.",
+      "example": "Nina's insurance claim sat 'in review' for six weeks. On a recorded call she asked for the adjuster's name and a close date. She got both, emailed the date back the same hour, and the check cleared nine days later.",
+      "ifItFails": "They say they cannot give a name or a date. Make that refusal the new topic and move it up one level. Write: <strong>“Noted that nobody can give me an owner or a date. Please send your supervisor's name so I can ask there.”</strong>",
+      "counter": "If someone asks you for an owner and a date, your status update stopped working.\n• Notice they repeat your sentence back with no reaction.\n• Pick the smallest real promise you can keep.\n• Say: <strong>“I own it. Thursday, end of day, either way.”</strong>",
+      "insight": "A status is not a promise, and most people accept statuses for months. The next question is what you do on the day they miss the date you made them say."
+    },
+    {
+      "id": 4,
+      "cat": "pin",
+      "danger": "moderate",
+      "title": "Make Them Say It Without the Hedge",
+      "principle": "Gricean Hedging — Qualifier Stripping",
+      "remember": "Cut their soft words out and ask them to say it again.",
+      "when": "A contractor tells you the work should be basically done by Friday.",
+      "hook": "“Should.” “Basically.” “As far as I know.” <strong>Those words are how they get out of it later.</strong>",
+      "truth": "Hedges are not politeness. They are excuses paid for in advance.\n• Each soft word lets them keep the promise and break it.\n• Remove the hedge and the sentence becomes a commitment.\n• Most people will not repeat a hard version they cannot keep.",
+      "theySee": "A client repeating their own sentence back with the soft words gone.",
+      "signals": [
+        {
+          "icon": "🧈",
+          "l": "Should word",
+          "t": "They say should, aim to, or hope to instead of will."
+        },
+        {
+          "icon": "🌫️",
+          "l": "Scope fog",
+          "t": "They say basically, mostly, or largely about finished work."
+        },
+        {
+          "icon": "🛡️",
+          "l": "Knowledge shield",
+          "t": "They say as far as I know, or to my knowledge."
+        },
+        {
+          "icon": "⏭️",
+          "l": "Tense slide",
+          "t": "They answer about the future when you asked about now."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write their sentence down",
+          "desc": "Copy their exact words into your notes during the call."
+        },
+        {
+          "n": "2",
+          "title": "Read it back hard",
+          "desc": "Say the version with no soft words, then stop talking."
+        },
+        {
+          "n": "3",
+          "title": "Ask them to confirm",
+          "desc": "Ask if that hard version is right. Wait for yes or no."
+        }
+      ],
+      "script": "“So: <strong>the kitchen is finished Friday.</strong> Not should be. Finished. Is that right?”",
+      "watchFor": "They add a condition out loud instead of saying yes.",
+      "example": "Omar's contractor said the kitchen 'should basically be done' by Friday. Omar read it back as 'done Friday' and waited. The contractor admitted the countertop shipped Monday, and Omar moved his move-in date before he had paid the movers.",
+      "ifItFails": "They say yes to the hard version and miss it anyway. The spoken promise is spent, so make the next one cost money. Send: <strong>“Confirming Friday as the finish date. If it slips, I'll hold the final payment until it's done.”</strong>",
+      "counter": "If someone strips your soft words and reads the hard version back, they are pinning you.\n• Notice they repeat your sentence shorter and then go quiet.\n• Do not say yes to be agreeable. You will own that date.\n• Say: <strong>“Friday if the parts land Tuesday. Otherwise Monday.”</strong>",
+      "insight": "Do not run this on someone who signs your reviews in front of other people — it reads as a trap, not a question. The harder part is that once you hold someone to a hard date, you have to act when they miss it."
+    },
+    {
+      "id": 5,
+      "cat": "pin",
+      "danger": "moderate",
+      "title": "Ask Them to Deny It Flatly",
+      "principle": "Schelling: Costly Commitment",
+      "remember": "Make them say the short no. Watch what they do instead.",
+      "when": "You think a supplier already signed with your competitor and they keep talking around it.",
+      "hook": "A short no is cheap for an honest person and expensive for a liar. <strong>Ask for the short no.</strong>",
+      "truth": "The dodge you spotted earlier works because nobody states the false thing.\n• A flat denial takes away every true sentence they hid behind.\n• Now they must choose: lie outright, or stall.\n• The stall is the answer. Treat it as one.",
+      "theySee": "A partner asking one short question and then waiting in silence.",
+      "signals": [
+        {
+          "icon": "🛣️",
+          "l": "Long route",
+          "t": "They give a paragraph where one word would do."
+        },
+        {
+          "icon": "📕",
+          "l": "Rule talk",
+          "t": "They answer with company policy instead of their own actions."
+        },
+        {
+          "icon": "↩️",
+          "l": "Question return",
+          "t": "They ask why you would even ask that."
+        },
+        {
+          "icon": "😤",
+          "l": "Offense turn",
+          "t": "They act insulted instead of answering."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the one-line question",
+          "desc": "Make it answerable with yes or no. No dates, no extras."
+        },
+        {
+          "n": "2",
+          "title": "Ask it once and stop",
+          "desc": "Say nothing for ten seconds after you ask it."
+        },
+        {
+          "n": "3",
+          "title": "Record what they did",
+          "desc": "Note in writing whether they denied, dodged, or attacked."
+        }
+      ],
+      "script": "“Simple question: <strong>have you signed anything with another buyer? Yes or no.</strong>”",
+      "watchFor": "They answer in a full sentence that contains your word, or they refuse to answer at all.",
+      "example": "Priya's supplier kept praising their long partnership. She asked flatly whether he had signed with her competitor. He took eleven seconds and said he could not discuss other clients. She placed her next order elsewhere and avoided a factory switch mid-season.",
+      "ifItFails": "They get angry and make your question the offense. Do not apologize or explain — that trades your question for their feelings. Say it once more, flat: <strong>“I hear that you're annoyed. The question is still yes or no.”</strong> Then let the silence sit.",
+      "counter": "If someone asks for a flat yes or no, they have stopped believing your long answers.\n• Notice the question is short and they go quiet after it.\n• Anger reads as guilt here. Do not use it.\n• Say: <strong>“No. And here's the one true thing nearby.”</strong>",
+      "insight": "Do not run this on a person who can fire you without a meeting — a flat demand from below reads as an accusation. This works until they learn to deny flatly and lie; then you need paper, not answers."
+    },
+    {
+      "id": 6,
+      "cat": "pin",
+      "danger": "moderate",
+      "title": "Ask the Same Question Three Ways",
+      "principle": "Sun Tzu: Probe to Find the Shape",
+      "remember": "Ask it three ways. The story that changes is the fake one.",
+      "when": "An employee's story about a missed deadline sounds smooth and you cannot find the hole.",
+      "hook": "A true story survives being asked backwards. <strong>A built story has one version and breaks outside it.</strong>",
+      "truth": "Prepared answers are memorized in one order and one angle.\n• Change the angle and they must build a new sentence live.\n• Real memory bends. Scripts break or repeat word for word.\n• Space the questions apart. Back to back feels like a trial.",
+      "theySee": "A manager asking an ordinary follow-up hours after the first chat.",
+      "signals": [
+        {
+          "icon": "📼",
+          "l": "Word match",
+          "t": "They repeat the explanation in exactly the same words."
+        },
+        {
+          "icon": "🔒",
+          "l": "Order lock",
+          "t": "They cannot tell the story out of order."
+        },
+        {
+          "icon": "✨",
+          "l": "New detail",
+          "t": "A new fact appears that was missing the first time."
+        },
+        {
+          "icon": "🕰️",
+          "l": "Timeline slip",
+          "t": "The times move by an hour or two between tellings."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask forward first",
+          "desc": "Ask what happened, start to finish, and let them run."
+        },
+        {
+          "n": "2",
+          "title": "Ask one detail later",
+          "desc": "Hours later, ask who else was in the room."
+        },
+        {
+          "n": "3",
+          "title": "Ask backwards tomorrow",
+          "desc": "Ask what happened right before the part they described."
+        }
+      ],
+      "script": "“Quick one — <strong>before the client call, who told you the file was ready?</strong>”",
+      "watchFor": "They pause before a detail they gave fast the first time.",
+      "example": "Marcus heard a smooth story about a lost shipment. Two hours later he asked who signed for it. The next morning he asked what time the driver left. The three answers put the truck in two places, and the warehouse lead admitted he never loaded it.",
+      "ifItFails": "They notice the pattern and ask why you keep asking. Drop the pretense and hand them the gap instead of your suspicion. Say: <strong>“Because Tuesday's version and today's version don't fit. Walk me through that one part again.”</strong>",
+      "counter": "If someone keeps circling back with small questions, they are checking your story.\n• Notice the questions come hours apart and target details, not the point.\n• Never improve the story. Added detail is what gets caught.\n• Say: <strong>“Same answer as Tuesday. I don't remember more than that.”</strong>",
+      "insight": "Do not run this on a peer with more friends than you — three passes reads as building a case, and they will tell people you did. The next question is what you do once the story breaks and you still need the person."
+    },
+    {
+      "id": 7,
+      "cat": "numbers",
+      "danger": "low",
+      "title": "Ask For the Denominator",
+      "principle": "Base Rate Neglect",
+      "remember": "A percentage with no total behind it means nothing.",
+      "when": "A founder tells you user growth was up 300% last quarter.",
+      "hook": "Three hundred percent sounds enormous. <strong>It can be three people.</strong>",
+      "truth": "A percentage hides its own size, and every word stays true.\n• Big percentages come from small starting numbers.\n• You picture thousands. They never said thousands.\n• Ask for the two raw counts. The ratio dies instantly.",
+      "theySee": "An investor writing down two numbers instead of nodding at the chart.",
+      "signals": [
+        {
+          "icon": "📈",
+          "l": "Naked percent",
+          "t": "They give a percentage with no raw count beside it."
+        },
+        {
+          "icon": "📐",
+          "l": "No axis",
+          "t": "The slide shows a rising line with no numbers on the side."
+        },
+        {
+          "icon": "✖️",
+          "l": "Multiple talk",
+          "t": "They say 3x or doubled instead of giving totals."
+        },
+        {
+          "icon": "🔀",
+          "l": "Mixed base",
+          "t": "The percentage and the total come from different time periods."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for both raw numbers",
+          "desc": "Ask what the count was at the start and what it is now."
+        },
+        {
+          "n": "2",
+          "title": "Write them side by side",
+          "desc": "Put both numbers in your notes before you react."
+        },
+        {
+          "n": "3",
+          "title": "Ask for last year's pair",
+          "desc": "Compare the two pairs before you say anything."
+        }
+      ],
+      "script": "“Three hundred percent of what? <strong>Give me the raw number in January and the raw number today.</strong>”",
+      "watchFor": "They go looking for the real number instead of repeating the percentage.",
+      "example": "Leah heard '300% growth' from a founder twice. She asked for the raw counts. It was 14 users to 56. She passed on the round, and the company folded eight months later.",
+      "ifItFails": "They say they do not have the raw number in the room. Do not take the deck as a substitute. Say: <strong>“Then send me the two counts by tomorrow and I'll keep reading.”</strong> If the counts never arrive, the percentage was the whole product.",
+      "counter": "If someone asks for your raw counts, your percentage just stopped working.\n• Notice they ignore the headline and ask for two plain numbers.\n• Lead with the small number yourself next time. It buys trust.\n• Say: <strong>“14 to 56. Small base, but the shape is the point.”</strong>",
+      "insight": "A percentage is the most polite way to mislead, because it is arithmetic. The harder part is that once you ask for raw counts in one room, you have to ask in every room, including the ones where you liked the answer."
+    },
+    {
+      "id": 8,
+      "cat": "numbers",
+      "danger": "moderate",
+      "title": "Pick the Date Range Yourself",
+      "principle": "Selective Baseline — Cherry-Picked Window",
+      "remember": "Whoever picks the start date picks the answer.",
+      "when": "A fund manager shows you returns that start in March 2023 for no stated reason.",
+      "hook": "The numbers are real. <strong>The start date did the lying.</strong>",
+      "truth": "A chart's first day decides what the chart says.\n• They pick the lowest point and measure from there.\n• Every number after it is true and useless to you.\n• Name your own window first. Make them redraw it.",
+      "theySee": "A client naming a start date before they open the slide.",
+      "signals": [
+        {
+          "icon": "📍",
+          "l": "Odd start",
+          "t": "The chart starts on a date with no event behind it."
+        },
+        {
+          "icon": "🗓️",
+          "l": "Missing year",
+          "t": "A bad year sits just outside the window."
+        },
+        {
+          "icon": "🆕",
+          "l": "Since talk",
+          "t": "They say since the relaunch, or since the new team."
+        },
+        {
+          "icon": "🔁",
+          "l": "Range switch",
+          "t": "The time period changes between two slides."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your window first",
+          "desc": "Say the start and end date you want before they present."
+        },
+        {
+          "n": "2",
+          "title": "Ask for the full history",
+          "desc": "Ask for every year they have, not the part they chose."
+        },
+        {
+          "n": "3",
+          "title": "Put both charts together",
+          "desc": "Send one email with their window and yours side by side."
+        }
+      ],
+      "script": "“Before we start: <strong>show me the same numbers from 2019 to today.</strong> I'll look at the shorter one after.”",
+      "watchFor": "They open a different file, or admit the full history looks worse.",
+      "example": "Tomas got a pitch showing 41% returns 'since March 2023'. He asked for 2019 onward. The full history showed a 38% drop in 2022 that the window hid. He put his money in an index fund instead.",
+      "ifItFails": "They say older data is not comparable because the team or the product changed. Take the claim and hand them the work: <strong>“Fine — send both, with a note on what changed and when.”</strong> Writing that note is harder than hiding the years.",
+      "counter": "If someone names the date range before you present, they know this move.\n• Notice they set the window instead of reacting to your chart.\n• Fighting the window looks worse than the bad year does.\n• Say: <strong>“Here's 2019 on. The 2022 drop is this, and here's what changed.”</strong>",
+      "insight": "Do not run this on a boss presenting their own record in public — correcting their window in the room is a status attack, not a question. The real trap is that your window is also a choice, and a good opponent will say so."
+    },
+    {
+      "id": 9,
+      "cat": "paper",
+      "danger": "moderate",
+      "title": "Send the Recap That Locks Their Story",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "Write down what they said. Silence becomes their signature.",
+      "when": "A boss promises you a promotion in a hallway chat with nobody else there.",
+      "hook": "Spoken promises are free to make and free to forget. <strong>An email they did not correct is not free.</strong>",
+      "truth": "Memory belongs to whoever is more comfortable.\n• A written recap turns their words into a record with a date.\n• To take it back, they must correct you in writing. Few do.\n• Keep it short and warm. A long memo reads as a threat.",
+      "theySee": "A teammate sending a friendly two-line summary after a chat.",
+      "signals": [
+        {
+          "icon": "🚪",
+          "l": "No witness",
+          "t": "The promise happens with nobody else in the room."
+        },
+        {
+          "icon": "⏰",
+          "l": "Vague clock",
+          "t": "They promise a result but will not name a month."
+        },
+        {
+          "icon": "🔥",
+          "l": "Charm spike",
+          "t": "They are unusually warm while they make the promise."
+        },
+        {
+          "icon": "📵",
+          "l": "No paper",
+          "t": "They answer written questions with a phone call."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write it within an hour",
+          "desc": "Send the recap the same day, while the words are exact."
+        },
+        {
+          "n": "2",
+          "title": "Keep it to three lines",
+          "desc": "State what they said, what you will do, and the date."
+        },
+        {
+          "n": "3",
+          "title": "Ask one closing question",
+          "desc": "End with: did I get that right? That invites a reply."
+        }
+      ],
+      "script": "“Great chat. <strong>Capturing it so I don't lose it: senior title in Q1 if the migration ships by February.</strong> I'll own the migration. Did I get that right?”",
+      "watchFor": "They reply with yes, or with a small correction, instead of ignoring it.",
+      "example": "Sofia's VP promised her a senior title in a corridor. She emailed a three-line recap that afternoon and asked if she got it right. He replied 'correct'. In March a new VP arrived, and that one-word reply got her the title.",
+      "ifItFails": "They never reply, or they reply with a vague thanks. Do not chase them — put the same line somewhere they must touch. Add it to the next status update they review: <strong>“Flagging the Q1 senior promotion we agreed, so it stays on the list.”</strong>",
+      "counter": "If someone emails you a recap with a promise in it, they are building a record.\n• Notice the friendly tone wrapped around a specific date.\n• Never let a wrong recap sit. Silence is agreement later.\n• Say: <strong>“Close — I said we'd discuss it in Q1, not decide it.”</strong>",
+      "insight": "Do not send a recap that corners a boss who never actually agreed; a false recap gets you a reputation, not a title. The harder part is what you do when they correct it downward — that correction is also information."
+    },
+    {
+      "id": 10,
+      "cat": "paper",
+      "danger": "high",
+      "title": "Make Them Put the Promise in the Contract",
+      "principle": "Schelling: Binding Commitment",
+      "remember": "If it will not go in the contract, it was never a promise.",
+      "when": "A sales rep promises onboarding support that appears nowhere in the agreement.",
+      "hook": "Everything in the pitch was true. <strong>None of it was in the document you signed.</strong>",
+      "truth": "A closer can say anything, because only the paper survives.\n• The pitch is spoken. The contract is the part anyone can enforce.\n• Asking to add one line tests the promise for free.\n• A refusal to write it down tells you what it was worth.",
+      "theySee": "A buyer with a pen, asking for one sentence to be added.",
+      "signals": [
+        {
+          "icon": "🎁",
+          "l": "Spoken extras",
+          "t": "They promise support, training, or discounts not in the draft."
+        },
+        {
+          "icon": "📄",
+          "l": "Standard talk",
+          "t": "They say the contract is standard and cannot be changed."
+        },
+        {
+          "icon": "⏱️",
+          "l": "Clock push",
+          "t": "They need a signature today for a price that expires."
+        },
+        {
+          "icon": "🤝",
+          "l": "Trust appeal",
+          "t": "They say you have their word on it."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List the spoken promises",
+          "desc": "Write every promise said out loud that is missing from the draft."
+        },
+        {
+          "n": "2",
+          "title": "Ask for one line each",
+          "desc": "Send the list and ask for each item added as a sentence."
+        },
+        {
+          "n": "3",
+          "title": "Hold your signature",
+          "desc": "Do not sign until the added lines come back in the document."
+        }
+      ],
+      "script": "“I believe you. <strong>Then it costs nothing to add one line: 90 days of onboarding included.</strong> Send it back with that in and I'll sign today.”",
+      "watchFor": "They go quiet on the promise and start talking about the price again.",
+      "example": "Hal was promised free onboarding by a software rep. He asked for one sentence in the order form. The rep said legal needed a week, then offered a discount instead. Hal took the discount and skipped a product that would have arrived with no help.",
+      "ifItFails": "They refuse and say nobody gets custom terms. Take the promise out of the deal and make them price it: <strong>“Then remove onboarding from my decision. What's the price without it?”</strong> Either the line appears or the number drops. Both answers help you.",
+      "counter": "If a buyer wants your spoken promise written into the paper, your pitch is being checked.\n• Notice they stop arguing price and start editing the document.\n• Never refuse flatly. A refusal confirms you oversold.\n• Say: <strong>“I can put 60 days in writing today. 90 I can't promise.”</strong>",
+      "insight": "Do not run this on a deal you cannot walk away from — the ask only works while your signature is the thing they want. This works until they add the line and bury a clause that cancels it."
+    },
+    {
+      "id": 11,
+      "cat": "run",
+      "danger": "high",
+      "title": "Say Only True Things and Let Them Fill In the Rest",
+      "principle": "Grice: Implicature",
+      "remember": "True sentences, in the right order. They write the ending.",
+      "when": "A buyer asks why you are selling and the real reason would cost you money.",
+      "hook": "You never have to say the false thing. <strong>People finish the pattern themselves, then trust the ending because they wrote it.</strong>",
+      "truth": "People hear meaning, not sentences, and meaning is what they build.\n• Pick three true facts that point one direction.\n• Say them plainly and stop. Do not state the conclusion.\n• Say the conclusion and you own it. Let them say it.",
+      "theySee": "A seller giving calm, specific, checkable facts and nothing else.",
+      "signals": [
+        {
+          "icon": "💡",
+          "l": "They conclude",
+          "t": "They say the conclusion out loud and look to you for a nod."
+        },
+        {
+          "icon": "🤐",
+          "l": "No challenge",
+          "t": "They stop asking about the thing you never mentioned."
+        },
+        {
+          "icon": "📣",
+          "l": "They repeat it",
+          "t": "They explain your facts to someone else in their own words."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "List your true facts",
+          "desc": "Write five true sentences. Keep the three that point one way."
+        },
+        {
+          "n": "2",
+          "title": "Order them",
+          "desc": "Put the most checkable fact first and the softest one last."
+        },
+        {
+          "n": "3",
+          "title": "Stop before the conclusion",
+          "desc": "Say the three facts, then ask them a question about something else."
+        }
+      ],
+      "script": "“<strong>The job's moving me, the lease is up in March, and we've had two offers already.</strong> What's your timeline?”",
+      "watchFor": "They state the conclusion themselves and start talking about next steps.",
+      "example": "Ben sold a car with a failing clutch. He said it was serviced in May, had new tires, and that he was moving abroad. The buyer decided it was a reluctant sale of a good car. Ben answered every direct question honestly and never got one about the clutch.",
+      "ifItFails": "They ask the direct question anyway. Do not dodge it — a dodge after clean facts reads as a lie and burns the whole set. Answer short and true, then hand them a fix: <strong>“The clutch is near the end. That's why the price is where it is.”</strong>",
+      "counter": "If someone gives you three clean facts and goes quiet, ask who drew the conclusion.\n• Notice you cannot point to the sentence where they said it.\n• Ask the ugly question directly, using the word they avoided.\n• Say: <strong>“None of that answers it. Is anything wrong with it?”</strong>",
+      "insight": "Do not use this with anyone who can sue you or audit you — in writing, an implied claim is treated as a claim. The harder part is that it works once per person; the buyer who felt clever later feels played."
+    },
+    {
+      "id": 12,
+      "cat": "run",
+      "danger": "high",
+      "title": "Answer the Question They Should Have Asked",
+      "principle": "Rogers & Norton: Paltering (Offense)",
+      "remember": "Answer a nearby question fully. Most people never notice.",
+      "when": "A recruiter asks what you are paid now, before any offer.",
+      "hook": "Refusing a question starts a fight. <strong>Answering a different one fully ends the topic.</strong>",
+      "truth": "A complete, confident answer stops the follow-up. The content barely matters.\n• Pick the nearby question that helps you and answer it fully.\n• Calm and length make it feel finished, so people move on.\n• Close with your own question. That decides what comes next.",
+      "theySee": "A candidate answering fast and clearly, then asking the next question.",
+      "signals": [
+        {
+          "icon": "✍️",
+          "l": "They write it down",
+          "t": "They note your number and move to the next topic."
+        },
+        {
+          "icon": "🚫",
+          "l": "No repeat",
+          "t": "They never bring the original question back."
+        },
+        {
+          "icon": "🔄",
+          "l": "They answer yours",
+          "t": "They answer your closing question instead."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the better question",
+          "desc": "Write the question you wish they had asked. Keep it close to theirs."
+        },
+        {
+          "n": "2",
+          "title": "Answer it fully",
+          "desc": "Give two sentences with a real number or a real name in them."
+        },
+        {
+          "n": "3",
+          "title": "Hand the question back",
+          "desc": "End with a question they must answer before they can return."
+        }
+      ],
+      "script": "“<strong>For this kind of role I'm looking at 180 to 200 base.</strong> That's where my last two offers landed. What range is budgeted here?”",
+      "watchFor": "They answer your range question and never return to the one they asked.",
+      "example": "Ivy was asked her current salary before any offer. She gave her target range and her last two offers, then asked for their budget. The recruiter named a band starting $30,000 above her old pay, and she never said her old number.",
+      "ifItFails": "They notice and repeat the original question word for word. Stop the move — a second dodge costs more than the number. Give a rule instead of a figure: <strong>“I don't share past pay. Tell me the band and I'll tell you if it works.”</strong>",
+      "counter": "If someone answers a question you did not ask, they are steering you.\n• Notice the answer is fluent, long, and slightly off your words.\n• Do not take it because it sounded complete.\n• Say: <strong>“That's your target. I asked what you're paid now.”</strong>",
+      "insight": "Do not try this in a deposition or any recorded legal answer — there the near-miss answer is the trap, not the move. The next question is what you do when they ask the same thing in writing, where the dodge stays visible forever."
+    },
+    {
+      "id": 13,
+      "cat": "after",
+      "danger": "high",
+      "title": "Name the Sentence, Not the Liar",
+      "principle": "Voss: Label × Face-Saving",
+      "remember": "Attack the sentence. Never attack the person who said it.",
+      "when": "You find proof that a colleague's status update left out a failed test.",
+      "hook": "Call someone a liar and the room defends them. <strong>Read their sentence back and the room does the math.</strong>",
+      "truth": "A person can fight an accusation. They cannot fight their own words.\n• Quote the exact sentence and put the fact beside it.\n• Ask what you missed. That is an opening, not a punch.\n• Everyone watching draws the conclusion without your help.",
+      "theySee": "A colleague quoting one line and asking a mild question.",
+      "signals": [
+        {
+          "icon": "🤫",
+          "l": "Room goes quiet",
+          "t": "People stop typing when you read the sentence out."
+        },
+        {
+          "icon": "🔧",
+          "l": "Rewrite attempt",
+          "t": "They explain what they meant instead of what they wrote."
+        },
+        {
+          "icon": "➡️",
+          "l": "Blame slide",
+          "t": "They move the fault to a team, a tool, or a timezone."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pull the exact words",
+          "desc": "Copy the sentence with its date. Do not paraphrase it."
+        },
+        {
+          "n": "2",
+          "title": "Put the fact beside it",
+          "desc": "Write the one fact that does not fit, with a source."
+        },
+        {
+          "n": "3",
+          "title": "Ask the mild question",
+          "desc": "Ask what you are missing. Then stop talking."
+        }
+      ],
+      "script": "“Your update said <strong>'all tests passing' on the 8th.</strong> The log shows two failures on the 7th. What am I missing?”",
+      "watchFor": "They explain the sentence instead of arguing with you.",
+      "example": "Grace found a status note claiming 'all tests passing' while the build log showed failures. In standup she read both lines and asked what she was missing. The engineer corrected the record himself, and the release slipped a week instead of shipping broken.",
+      "ifItFails": "They produce a technically true reading of their own sentence. Do not argue about words — change what happens next instead. Say: <strong>“Then let's stop reading sentences. From now on the update links the test run.”</strong> The rule costs them more than the argument would.",
+      "counter": "If someone quotes your line and asks what they are missing, you are already caught.\n• Notice they use your exact words and a mild tone.\n• Defending the wording makes it worse in front of others.\n• Say: <strong>“You're right, that line was wrong. Here's the real state.”</strong>",
+      "insight": "Do not do this to your own boss in a group — correcting the record in public reads as a bid for their chair. The harder part comes after: you were right once, and now people bring you everything they want checked."
+    },
+    {
+      "id": 14,
+      "cat": "after",
+      "danger": "high",
+      "title": "Make Them Prove Everything From Now On",
+      "principle": "Machiavelli: The Prince, Ch. 18 — Trust by Verification",
+      "remember": "Once caught, they lose words. Only evidence counts.",
+      "when": "A vendor has misled you once and you still need them for six more months.",
+      "hook": "You cannot unsee it and you cannot replace them yet. <strong>So change what counts as an answer.</strong>",
+      "truth": "After a catch, most people either blow up the relationship or pretend nothing happened. Both lose.\n• Keep working with them. Change the proof you accept.\n• Ask for the file, not the update: the log, the invoice, the photo.\n• State the rule once, calmly, as process. Never as punishment.",
+      "theySee": "A client who is still friendly but now asks for a file with every claim.",
+      "signals": [
+        {
+          "icon": "🐌",
+          "l": "Proof lag",
+          "t": "They send the status fast and the evidence slowly."
+        },
+        {
+          "icon": "😠",
+          "l": "Offense at process",
+          "t": "They say the new rule means you do not trust them."
+        },
+        {
+          "icon": "✂️",
+          "l": "Edited proof",
+          "t": "Their evidence is cropped, retyped, or has no date."
+        },
+        {
+          "icon": "📞",
+          "l": "Side channel",
+          "t": "They start calling instead of emailing."
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the new rule once",
+          "desc": "Say that every claim now comes with the document attached."
+        },
+        {
+          "n": "2",
+          "title": "Pick the proof per claim",
+          "desc": "For each promise, name the one file that ends the question."
+        },
+        {
+          "n": "3",
+          "title": "Enforce it the first time",
+          "desc": "The first claim with no file gets one reply: send the file."
+        }
+      ],
+      "script": "“No hard feelings, nothing personal. <strong>Going forward I need the shipping log attached to each update.</strong> Same work, just with the file.”",
+      "watchFor": "They attach the file to the next update without being asked.",
+      "example": "After a supplier's 'already shipped' turned out to mean 'booked', Devon asked for the carrier tracking number on every update. The first week it came late. By week three it came attached. Devon kept the supplier and never lost another delivery date.",
+      "ifItFails": "They call the rule an insult and ask you to drop it. Do not defend your trust — move the cost onto the thing they want. Say: <strong>“Then we move to payment on delivery instead. Pick one.”</strong> Either proof or money changes hands later.",
+      "counter": "If a client suddenly wants documents for routine claims, you were caught at something.\n• Notice the tone stays warm while the paperwork grows.\n• Arguing about trust confirms you have a reason to argue.\n• Say: <strong>“Done — I'll attach the log every time.”</strong> Then actually do it.",
+      "insight": "Do not run this on someone who has other buyers and does not need you — they will simply drop you. The real trap is that a proof rule is work for you too, and most people stop enforcing it by week four."
+    }
+  ]
+}

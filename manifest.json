@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 97,
+  "manifestVersion": 98,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -923,7 +923,20 @@
       "url": "playbooks/playbook-srv-the-peer-whose-late-work-lands-on-you.json",
       "addedAt": "2026-11-16T23:13:57.359Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-everything-they-said-was-technically-true",
+      "title": "Everything They Said Was Technically True",
+      "theme": "paltering",
+      "topic": "",
+      "cardCount": 14,
+      "contentVersion": 1,
+      "coverColor": "#7C2D12",
+      "coverIcon": "🪤",
+      "url": "playbooks/playbook-srv-everything-they-said-was-technically-true.json",
+      "addedAt": "2026-11-16T23:15:17.238Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-11-16T23:13:57.359Z"
+  "generatedAt": "2026-11-16T23:15:17.238Z"
 }
