@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 96,
+  "manifestVersion": 97,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -910,7 +910,20 @@
       "url": "playbooks/playbook-srv-exact-words-for-the-director-level.json",
       "addedAt": "2026-11-04T00:16:41.649Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-peer-whose-late-work-lands-on-you",
+      "title": "The Peer Whose Late Work Lands on You",
+      "theme": "work",
+      "topic": "",
+      "cardCount": 18,
+      "contentVersion": 1,
+      "coverColor": "#B9472F",
+      "coverIcon": "⏳",
+      "url": "playbooks/playbook-srv-the-peer-whose-late-work-lands-on-you.json",
+      "addedAt": "2026-11-16T23:13:57.359Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-11-04T00:16:41.649Z"
+  "generatedAt": "2026-11-16T23:13:57.359Z"
 }

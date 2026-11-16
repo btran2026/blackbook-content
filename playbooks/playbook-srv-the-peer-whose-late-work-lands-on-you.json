@@ -1,0 +1,1095 @@
+{
+  "meta": {
+    "id": "srv-the-peer-whose-late-work-lands-on-you",
+    "version": "1.0",
+    "title": "The Peer Whose Late Work Lands on You",
+    "subtitle": "Dependency Without Authority",
+    "description": "Eighteen cards for the worker who owns a deadline but not the person who feeds it. How to test him small, pin the terms in writing, make his delay cost him instead of you, and survive the miss when it lands.",
+    "author": "AI",
+    "createdAt": "2026-11-05T07:18:47.910Z",
+    "tags": [
+      "work",
+      "peers",
+      "deadlines",
+      "accountability",
+      "office politics",
+      "dependency"
+    ],
+    "totalCards": 18,
+    "isSeeded": true,
+    "coverColor": "#B9472F",
+    "coverIcon": "⏳",
+    "fromServer": true
+  },
+  "categories": [
+    {
+      "key": "test",
+      "label": "Testing Him Small Before You Depend On Him",
+      "color": "#7C8B9E"
+    },
+    {
+      "key": "terms",
+      "label": "Setting The Terms In Writing",
+      "color": "#3F7D8C"
+    },
+    {
+      "key": "slip",
+      "label": "The First Slip",
+      "color": "#C98A2E"
+    },
+    {
+      "key": "cost",
+      "label": "Making The Delay Cost Him, Not You",
+      "color": "#B9472F"
+    },
+    {
+      "key": "around",
+      "label": "Going Around Him Without Looking Political",
+      "color": "#6B5B95"
+    },
+    {
+      "key": "after",
+      "label": "After The Miss Lands",
+      "color": "#4A4A4A"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "test",
+      "danger": "low",
+      "title": "Give Him a Small Fake Deadline First",
+      "principle": "Sun Tzu: Probe the Enemy Before You Commit",
+      "remember": "Test him on something small before you bet your deadline on him.",
+      "when": "A peer will feed you a piece of work weeks from now and you have never worked with him.",
+      "hook": "You find out he is late on the day you cannot afford it. <strong>Find out six weeks earlier, for free.</strong>",
+      "truth": "People do not become late under pressure. They were always late.\n• Ask for something small and easy with a clear due date.\n• His behavior on a 20-minute task predicts his behavior on a 20-hour one.\n• The trap: you test him and ignore the result because he is likable.",
+      "theySee": "A coworker who asked for a quick draft and said when he needs it.",
+      "signals": [
+        {
+          "icon": "⏰",
+          "l": "Silent due date",
+          "t": "The small due date passes and he says nothing"
+        },
+        {
+          "icon": "🗣️",
+          "l": "Verbal only",
+          "t": "He agrees out loud but never writes the date back to you"
+        },
+        {
+          "icon": "📦",
+          "l": "Half delivery",
+          "t": "He sends part of it and calls it done"
+        },
+        {
+          "icon": "🔄",
+          "l": "Reask",
+          "t": "He asks you to repeat what you wanted two days later"
+        },
+        {
+          "icon": "✅",
+          "l": "Early clean",
+          "t": "He sends it a day early with a note on what is missing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick a 30-minute ask",
+          "desc": "Find one small real piece of his work you need. A list, a number, a file name."
+        },
+        {
+          "n": "2",
+          "title": "Put a date on it",
+          "desc": "Write the ask in email or chat with a specific day and time. Not 'this week'."
+        },
+        {
+          "n": "3",
+          "title": "Record what happened",
+          "desc": "Note the date he said and the date he sent. Keep that note. You will need it."
+        }
+      ],
+      "script": "\"Quick one before the big piece — can you send me <strong>the vendor list by Thursday noon</strong>? It unblocks my first draft.\"",
+      "example": "Priya needed Dev's data model in March. In January she asked him for a one-page field list by Friday. It came the next Wednesday with half the fields. She built her March plan with a two-week buffer and a backup source. The March handoff slipped nine days and her plan still shipped on time.",
+      "watchFor": "He sends the small item early and tells you what is still open in it.",
+      "ifItFails": "He delivers the small ask perfectly and then misses the big one anyway. Small tasks are cheap for him; big ones compete with his boss's work. Re-test at scale: ask for a one-third piece of the real thing at the one-third mark. Say: <strong>\"Send me whatever exists of section one on the 14th, finished or not. I need to see the shape.\"</strong>",
+      "counter": "If a peer keeps handing you tiny timed asks, he is grading you.\n• Notice the date attached to a task too small to need one.\n• Say: \"Happy to — is this feeding something bigger I should see?\"\n• Deliver the small one early. Cheap insurance against his buffer math.",
+      "insight": "Most people skip the test because asking feels like distrust. The test costs you one email and buys you six weeks of warning. The harder part is what you do with a bad result when he is senior to you and everybody likes him."
+    },
+    {
+      "id": 2,
+      "cat": "test",
+      "danger": "moderate",
+      "title": "Ask Who Else Is Pulling On Him",
+      "principle": "Schelling: Competing Commitments",
+      "remember": "Find out who outranks you in his queue before you need him.",
+      "when": "A peer agrees to deliver to you and you do not know what else he owes other people.",
+      "hook": "He is not going to choose you. He is going to choose whoever can hurt him more. <strong>Find out where you sit.</strong>",
+      "truth": "A yes from a peer is a yes to the next person who asks, not a promise to you.\n• Ask him directly what else lands in the same week.\n• His answer tells you if your work is first, third, or last.\n• The trap: he names two things and hides the third, which is his boss's.",
+      "theySee": "A coworker who asks what else is on his plate that week.",
+      "signals": [
+        {
+          "icon": "📋",
+          "l": "Vague list",
+          "t": "He says 'a few things' and names none of them"
+        },
+        {
+          "icon": "👔",
+          "l": "Boss work",
+          "t": "He mentions a task his own manager gave him"
+        },
+        {
+          "icon": "📅",
+          "l": "Same week",
+          "t": "Two of his other deadlines sit in your delivery week"
+        },
+        {
+          "icon": "😬",
+          "l": "Winces at date",
+          "t": "He pauses before he agrees to your date"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask for the list",
+          "desc": "Ask what else is due the same week as your piece. Wait for names, not adjectives."
+        },
+        {
+          "n": "2",
+          "title": "Ask who assigned each one",
+          "desc": "Find out which ones come from his manager. Those beat you every time."
+        },
+        {
+          "n": "3",
+          "title": "Move your date",
+          "desc": "If your week is crowded, ask for his piece one week earlier, not on time."
+        }
+      ],
+      "script": "\"Before I lock this date — <strong>what else is due that same week, and who asked for it?</strong> I would rather move my date now than find out on the 20th.\"",
+      "example": "Marcus asked Tom what else was due the week of the launch. Tom named a board deck for his own VP. Marcus moved his ask two weeks earlier and told his manager the real risk date in advance. Tom missed the board deck week entirely. Marcus's piece was already in hand.",
+      "watchFor": "He names a specific competing task and a specific person who owns it.",
+      "ifItFails": "He says he is fine and names nothing. That is either hiding or poor planning, and both hurt you. Do not push again in the moment. Go look: check his team's sprint board or ask his teammate what the team is shipping that month. Then come back with the fact. Say: <strong>\"I saw the migration lands the same week. Can we pull my piece to the 8th instead?\"</strong>",
+      "counter": "If a peer asks what else you owe, he is ranking himself in your queue.\n• Notice the question about other work before any date is agreed.\n• Say: \"Two things, both small. Your piece lands where you asked.\"\n• Never reveal that his work is last. That invites him to escalate early.",
+      "insight": "Everyone tries to make their request more urgent. Almost nobody tries to find out where they already rank. Do not run this on someone who reports to the same manager as you if that manager rewards 'no excuses' talk — asking about his load can read as you shopping for one."
+    },
+    {
+      "id": 3,
+      "cat": "test",
+      "danger": "low",
+      "title": "Find Out Who He Depends On",
+      "principle": "Sun Tzu: Know the Ground Behind the Enemy",
+      "remember": "His late work is usually someone else being late to him.",
+      "when": "A peer owes you something that he cannot build alone.",
+      "hook": "You are watching the wrong person. <strong>The delay is already happening one desk further back.</strong>",
+      "truth": "A peer in the middle of a chain has no more control than you do.\n• Ask him what he needs from others before he can start.\n• Now you can watch the real bottleneck instead of watching him.\n• The trap: he hides his dependency because naming it sounds like an excuse.",
+      "theySee": "A coworker asking what inputs he needs before he can start.",
+      "signals": [
+        {
+          "icon": "🔗",
+          "l": "Named input",
+          "t": "He says he needs a file or approval from a third person"
+        },
+        {
+          "icon": "🤐",
+          "l": "No mention",
+          "t": "He describes the work with no inputs at all, which is rare"
+        },
+        {
+          "icon": "🕳️",
+          "l": "Unknown date",
+          "t": "He cannot say when his own input arrives"
+        },
+        {
+          "icon": "📨",
+          "l": "Forward",
+          "t": "He forwards you a thread with someone outside your team"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask what he needs first",
+          "desc": "Ask what has to land on his desk before he can start your piece."
+        },
+        {
+          "n": "2",
+          "title": "Ask when that lands",
+          "desc": "Get the date of his input. If he does not know, that is your real risk."
+        },
+        {
+          "n": "3",
+          "title": "Watch that date",
+          "desc": "Put his input date in your calendar, not just his delivery date."
+        }
+      ],
+      "script": "\"What do you need from anyone else before you can start mine? <strong>I would rather chase that with you than find out in week three.</strong>\"",
+      "example": "Lena asked Raj what he needed to build the report. He needed finance to close the books, which they did on the 12th, not the 5th. Lena told her director on day one that the real gate was finance. When Raj delivered six days late, nobody asked Lena why.",
+      "watchFor": "He names a third person and a date he does not control.",
+      "ifItFails": "He says he needs nothing and works alone. Then he goes quiet and blames a surprise dependency later. Close that door now in writing. Say: <strong>\"Noted that this is all in your hands. If something turns up that you need from outside, tell me the day you find it, not the week it is due.\"</strong>",
+      "counter": "If someone maps your inputs, he is building an early warning line around you.\n• Notice questions about who feeds you, before any date talk.\n• Say: \"Two inputs. I will flag the day either one slips.\"\n• Then actually flag it. The flag is what buys you the next deadline.",
+      "insight": "Half of all late peers are not lazy. They are downstream of someone who outranks them both. The next question is whether you can go talk to that person without his manager hearing about it."
+    },
+    {
+      "id": 4,
+      "cat": "terms",
+      "danger": "low",
+      "title": "Write the Date Back to Him in One Line",
+      "principle": "Cialdini: Commitment and Consistency",
+      "remember": "A date nobody wrote down is not a date.",
+      "when": "A peer agrees to a delivery date out loud in a meeting or a hallway.",
+      "hook": "Spoken promises cost nothing to break. <strong>Written ones cost a reply.</strong>",
+      "truth": "The memory of a verbal yes bends toward whoever needs it to bend.\n• Send one short message repeating the date he said.\n• He now has to either confirm it or change it on the record.\n• The trap: you write a long email. Long emails do not get replies.",
+      "theySee": "A coworker sending a two-line note confirming what was just agreed.",
+      "signals": [
+        {
+          "icon": "👍",
+          "l": "Thumbs only",
+          "t": "He reacts with an emoji instead of typing a reply"
+        },
+        {
+          "icon": "🔇",
+          "l": "No reply",
+          "t": "Your confirmation note sits unanswered for two days"
+        },
+        {
+          "icon": "🪄",
+          "l": "Softened date",
+          "t": "He replies with 'around the 15th' instead of the 15th"
+        },
+        {
+          "icon": "✍️",
+          "l": "Clean confirm",
+          "t": "He types back the date and what he will send"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send it within an hour",
+          "desc": "Write the note the same day he agreed, while the memory is fresh for both of you."
+        },
+        {
+          "n": "2",
+          "title": "Name the thing and the date",
+          "desc": "One line: what he sends, what day, what time. No background, no thanks paragraph."
+        },
+        {
+          "n": "3",
+          "title": "Ask for one word back",
+          "desc": "End with a question he can answer in one word. Silence should look like silence."
+        }
+      ],
+      "script": "\"Writing it down so we both have it: <strong>you send me the draft schema on the 15th by noon.</strong> Right?\"",
+      "example": "Omar got a hallway yes from Kevin for the 15th. He sent two lines that afternoon. Kevin replied 'make it the 17th, I forgot the audit.' Omar moved his own commitment before he made it, instead of after he broke it.",
+      "watchFor": "He types a reply that contains the date, instead of reacting with an emoji.",
+      "ifItFails": "He never replies at all. Do not send the same note again. Escalate the format, not the volume: put the date in a shared document or ticket where his manager can see it, and tell him you did. Say: <strong>\"No reply so I put the 15th in the project doc. Change it there if it is wrong.\"</strong>",
+      "counter": "If a peer writes your spoken date back to you, he is building a record.\n• Notice the short note arriving right after a casual yes.\n• Reply with the date you can actually hit, not the one you said.\n• Fix it now in text. Later it stops being a fix and becomes a miss.",
+      "insight": "The note is not about trust. It is about which version of the conversation survives. The harder part is the person who replies 'sounds good' to everything and means nothing by it."
+    },
+    {
+      "id": 5,
+      "cat": "terms",
+      "danger": "low",
+      "title": "Name What Done Means Before He Starts",
+      "principle": "Voss: Calibrated Question — Define the Deliverable",
+      "remember": "Agree what finished looks like or he will decide for you.",
+      "when": "A peer agrees to send you work but neither of you has said what it contains.",
+      "hook": "He will send something on the right day that is not the right thing. <strong>Then the argument is about you being picky.</strong>",
+      "truth": "Most 'late' work arrived on time in a form nobody could use.\n• Write three bullets that describe the finished piece.\n• He can no longer deliver a sketch and call it delivered.\n• The trap: you list what you want and never ask what he thinks is reasonable.",
+      "theySee": "A coworker listing three specific things the delivery should contain.",
+      "signals": [
+        {
+          "icon": "🌫️",
+          "l": "Loose words",
+          "t": "He describes what he will send with words like 'overview' or 'rough'"
+        },
+        {
+          "icon": "📏",
+          "l": "No format",
+          "t": "Neither of you has said whether it is a file, a doc, or a number"
+        },
+        {
+          "icon": "🤏",
+          "l": "Scope shrink",
+          "t": "He repeats your ask back smaller than you said it"
+        },
+        {
+          "icon": "📝",
+          "l": "Adds detail",
+          "t": "He adds a fourth item to your list of three"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three bullets",
+          "desc": "List the three things the delivery must contain. Keep each under ten words."
+        },
+        {
+          "n": "2",
+          "title": "Send them and ask",
+          "desc": "Send the list and ask if anything on it is unrealistic. Let him cut one now."
+        },
+        {
+          "n": "3",
+          "title": "Pin the format",
+          "desc": "Say the file type and where it goes. 'A spreadsheet in the shared folder.'"
+        }
+      ],
+      "script": "\"Here is what done looks like to me: <strong>the field list, the row counts, and the refresh schedule — one spreadsheet in the shared folder.</strong> Is any of that unrealistic by the 15th?\"",
+      "example": "Nadia told Chris exactly three things the handoff needed. Chris said the refresh schedule would take another week. They agreed to ship two of three on the 15th and the third on the 22nd. Nadia planned around it. Nothing broke.",
+      "watchFor": "He pushes back on one specific item in your list instead of agreeing to all of it.",
+      "ifItFails": "He agrees to everything and sends a thin version anyway. Do not rewrite his work. Send it back with the gap named and a short clock. Say: <strong>\"This covers one of the three. I need the row counts and the schedule by Tuesday or I go to my director with two of three.\"</strong>",
+      "counter": "If a peer sends a tight definition of done before you start, he is removing your room to improvise.\n• Notice the three bullets arriving before any work begins.\n• Cut one now out loud: \"The third one needs another week.\"\n• Negotiating scope early is free. Negotiating it on the due date is not.",
+      "insight": "Arguments about lateness are usually arguments about scope that nobody had in week one. The move that follows is deciding which of the three you can actually ship without."
+    },
+    {
+      "id": 6,
+      "cat": "terms",
+      "danger": "moderate",
+      "title": "Set a Check-In Date, Not Just a Due Date",
+      "principle": "Schelling: Credible Commitment via Interim Milestones",
+      "remember": "Put a check halfway. Late shows up there first.",
+      "when": "A peer owes you work more than two weeks out and you have no visibility until the end.",
+      "hook": "A due date tells you about failure on the day it is too late. <strong>A halfway date tells you two weeks early.</strong>",
+      "truth": "Late work is visible long before the deadline if someone is looking.\n• Agree on one date in the middle where he shows what exists.\n• A missed halfway date is cheap to fix. A missed final date is not.\n• The trap: you make the check-in a meeting. Make it a file.",
+      "theySee": "A coworker who asks to see a partial version on a specific day.",
+      "signals": [
+        {
+          "icon": "🗓️",
+          "l": "Pushback",
+          "t": "He says there will be nothing to show halfway"
+        },
+        {
+          "icon": "📂",
+          "l": "Empty folder",
+          "t": "The halfway date arrives and nothing is in the shared folder"
+        },
+        {
+          "icon": "🖼️",
+          "l": "Demo not file",
+          "t": "He offers to walk you through it instead of sending it"
+        },
+        {
+          "icon": "📤",
+          "l": "Early share",
+          "t": "He sends a partial file before you ask"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the halfway day",
+          "desc": "Count the days between now and the due date. Put the check at the midpoint."
+        },
+        {
+          "n": "2",
+          "title": "Ask for a file, not a meeting",
+          "desc": "Say you want whatever exists in the shared folder, finished or not."
+        },
+        {
+          "n": "3",
+          "title": "Put both dates in one message",
+          "desc": "Send one note with the check date and the due date together. Ask him to confirm."
+        }
+      ],
+      "script": "\"Two dates, not one: <strong>whatever exists goes in the shared folder on the 8th, and the finished piece lands on the 15th.</strong> The 8th is not a review, I just need to see the shape.\"",
+      "example": "Tomas set an 8th check with Anna for a 22nd deadline. On the 8th the folder was empty. He told his manager that day that the handoff was at risk and bought a one-week extension on the 9th. Anna delivered on the 26th. The project still landed.",
+      "watchFor": "He puts a file in the folder on the check date, even an unfinished one.",
+      "ifItFails": "The check date passes with nothing and he says it is all coming at the end. That is the answer, and it is a bad one. Stop asking him and start telling your manager. Say to your manager: <strong>\"The halfway check was empty on the 8th. I am building a thin backup version so we have something on the 22nd.\"</strong>",
+      "counter": "If someone adds a halfway check to your work, he is building an early exit from depending on you.\n• Notice an interim date appearing on work that never had one.\n• Put something real in the folder on that date, even rough.\n• An empty folder on day one of the check reads as a miss already.",
+      "insight": "Interim dates feel like micromanagement to the person being checked and like survival to the person depending on them. Do not add a check-in to work owned by someone two levels above you — frame it as your planning need, not his status report."
+    },
+    {
+      "id": 7,
+      "cat": "terms",
+      "danger": "moderate",
+      "title": "Tell Him What Happens If It Slips",
+      "principle": "Schelling: The Threat That Leaves Something to Chance",
+      "remember": "Say the consequence out loud before the deadline, not after.",
+      "when": "A peer accepts your date and you both know you have no authority over him.",
+      "hook": "He will protect the deadline that has teeth. <strong>Give yours teeth before he has to choose.</strong>",
+      "truth": "Deadlines without a stated result are suggestions in business clothes.\n• Say what you will do on the day after, calmly and once.\n• He now knows the cost, and the cost is not your anger.\n• The trap: you make it a threat about him. Make it about the plan.",
+      "theySee": "A coworker stating plainly what the backup plan is if the date moves.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "Goes quiet",
+          "t": "He stops replying for a day after you say the consequence"
+        },
+        {
+          "icon": "🔁",
+          "l": "Renegotiates",
+          "t": "He immediately asks for a later date"
+        },
+        {
+          "icon": "😐",
+          "l": "Shrugs it off",
+          "t": "He says 'fine' without asking any question about the backup"
+        },
+        {
+          "icon": "📞",
+          "l": "Calls you",
+          "t": "He picks up the phone instead of replying in writing"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Decide the real backup",
+          "desc": "Pick what you will actually do without his piece. A thin version, a different source, a cut feature."
+        },
+        {
+          "n": "2",
+          "title": "Say it once, flat",
+          "desc": "State it as a plan, not a punishment. No raised voice, no second mention."
+        },
+        {
+          "n": "3",
+          "title": "Put it in the same note as the date",
+          "desc": "One message holds the date and the fallback. Do not send them separately."
+        }
+      ],
+      "script": "\"If it is not in by the 15th I ship the thin version without your section and flag it to Dana as a known gap. <strong>Not a threat — I just need you to know the plan so there are no surprises.</strong>\"",
+      "example": "Grace told Bill she would ship without his module and mark it as pending. Bill asked for a 48-hour extension that day, which she gave. He delivered on the 17th. The consequence never ran, which was the point.",
+      "watchFor": "He asks a question about the backup plan instead of agreeing to the date again.",
+      "ifItFails": "He calls your bluff and misses anyway. Now you must run the consequence exactly as stated, even though it costs you. If you do not, every future date you set is free for him to break. Ship the thin version and send one line: <strong>\"Shipped without section four as planned. Send it when it is ready and I will add it in the next release.\"</strong>",
+      "counter": "If a peer tells you his fallback plan, he is removing his need for you.\n• Notice the calm sentence that describes life without your work.\n• Say: \"Understood. You will have it on the 15th.\"\n• Then deliver. Once he ships without you, he will keep doing it.",
+      "insight": "The consequence only works if it is something you would do anyway. Never state one you will not execute — do not use this on a peer whose work is genuinely impossible to replace, because he will test it and you will lose."
+    },
+    {
+      "id": 8,
+      "cat": "slip",
+      "danger": "low",
+      "title": "Ask on the Day It Slips, Not the Week After",
+      "principle": "Gracián: Act at the Moment, Not After It",
+      "remember": "Ask the same day the date passes. Waiting makes it normal.",
+      "when": "A peer misses a check-in or a small deliverable for the first time.",
+      "hook": "The first missed date teaches him what you will tolerate. <strong>Teach him on day one, not day eight.</strong>",
+      "truth": "Silence after a miss reads as permission to miss again.\n• Send a short note the same day the date passes.\n• He learns that your dates are watched and his are tracked.\n• The trap: you add 'no rush'. That line erases the whole message.",
+      "theySee": "A coworker asking on the due date where the thing is.",
+      "signals": [
+        {
+          "icon": "📆",
+          "l": "Day passes",
+          "t": "The agreed day ends with nothing sent and no message"
+        },
+        {
+          "icon": "🤷",
+          "l": "Casual reply",
+          "t": "He replies 'oh yeah, early next week' with no apology"
+        },
+        {
+          "icon": "🧾",
+          "l": "New reason",
+          "t": "He gives a reason you have never heard before"
+        },
+        {
+          "icon": "⚡",
+          "l": "Fast fix",
+          "t": "He sends it within two hours of your note"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Send it the same day",
+          "desc": "Message him before the end of the day the date passed. Not the next morning."
+        },
+        {
+          "n": "2",
+          "title": "Ask for a new date",
+          "desc": "Do not ask what happened. Ask what day it lands now."
+        },
+        {
+          "n": "3",
+          "title": "Write the new date down",
+          "desc": "Repeat his new date back in one line. The second date is now on record too."
+        }
+      ],
+      "steps_note": "",
+      "script": "\"The 8th was today and I do not see it. <strong>What day does it land now?</strong>\"",
+      "example": "Sam noticed Ravi's Tuesday item had not arrived by 4pm Tuesday. He sent one line asking for the new date. Ravi sent the file at 6pm the same evening. Every later date Ravi gave Sam, he hit.",
+      "watchFor": "He gives you a specific new date in his reply instead of a vague 'soon'.",
+      "ifItFails": "He gives a new date and misses that one too. Two misses is a pattern, not an accident. Stop asking him for dates and start reporting them. Tell your manager in your next update, and copy him on it. Say: <strong>\"Second date moved. Flagging it now so we can plan around it — Ravi, correct me if the 19th is wrong.\"</strong>",
+      "counter": "If someone pings you the hour your date passes, he is setting the tone early.\n• Notice the note arriving on the due day, not days later.\n• Reply with a real date, not 'soon'. Vague answers invite escalation.\n• Then beat that date by a day. One early delivery buys months of slack.",
+      "insight": "The first miss is the cheapest one to respond to and the one most people let go. The real trap is the peer who is lovely about it every single time."
+    },
+    {
+      "id": 9,
+      "cat": "slip",
+      "danger": "moderate",
+      "title": "Ask What Changed, Not Why He Is Late",
+      "principle": "Voss: Calibrated Question — How and What, Never Why",
+      "remember": "Ask what changed. Why only buys you a story.",
+      "when": "A peer misses a date and you need real information, not an apology.",
+      "hook": "'Why are you late' gets you a defense. <strong>'What changed' gets you a fact.</strong>",
+      "truth": "Why makes people justify. What makes people describe.\n• Ask what changed since he agreed to the date.\n• He answers with events instead of feelings, and events you can plan around.\n• The trap: you say why out of habit and then argue with his excuse.",
+      "theySee": "A coworker asking what is different now compared to when the date was set.",
+      "signals": [
+        {
+          "icon": "🛡️",
+          "l": "Defensive first",
+          "t": "He opens with how busy he has been"
+        },
+        {
+          "icon": "📍",
+          "l": "Real event",
+          "t": "He names a specific thing that landed on him this month"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same story",
+          "t": "He gives the same reason he gave last time"
+        },
+        {
+          "icon": "🙋",
+          "l": "Asks for help",
+          "t": "He asks whether you can take part of it"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Drop the word why",
+          "desc": "Write the message without the word why in it. Check before you send."
+        },
+        {
+          "n": "2",
+          "title": "Ask what changed",
+          "desc": "Ask what is different now versus the day he agreed. Then stop typing."
+        },
+        {
+          "n": "3",
+          "title": "Use the answer",
+          "desc": "If he names a real new task, build your plan around that task, not around him."
+        }
+      ],
+      "script": "\"<strong>What changed since we set the 15th?</strong> I am not chasing you, I need to know what to tell Dana.\"",
+      "example": "Hana asked Luis what had changed. Luis said his team had absorbed two people from a cut team and he was now onboarding them. Hana moved the handoff three weeks and told her director the reason in one sentence. Her director already knew about the cut and approved it in an hour.",
+      "watchFor": "He names a specific event with a date instead of describing how busy he is.",
+      "ifItFails": "He gives you nothing concrete and repeats that he is swamped. Stop digging and make him pick. Offer two real options and let him choose one. Say: <strong>\"Then pick one: the full piece on the 29th, or the two must-have fields on the 15th. Either works for me. Which?\"</strong>",
+      "counter": "If someone asks what changed instead of why you are late, they are collecting facts for a report.\n• Notice the question that has no blame in it. That is a working question.\n• Give one specific event and one new date. No speeches.\n• Vague answers get escalated. Specific answers get planned around.",
+      "insight": "Why invites a story and stories are hard to escalate. What changed invites a fact and facts move plans. Do not run this coldly on a peer who is genuinely drowning — he will remember the tone longer than the deadline."
+    },
+    {
+      "id": 10,
+      "cat": "slip",
+      "danger": "moderate",
+      "title": "Give Him One Clean Extension and Say It Is the Only One",
+      "principle": "Cialdini: Reciprocity with a Fence",
+      "remember": "Give one extension freely. Say clearly it is the only one.",
+      "when": "A peer misses the first date and asks you for more time.",
+      "hook": "A free extension buys goodwill. <strong>A second one buys you nothing and costs you the deadline.</strong>",
+      "truth": "People protect the person who gave them something, but only for one round.\n• Grant the first extension fast and without complaint.\n• He now owes you, and he knows the next ask has no room.\n• The trap: you grant it with a sigh. The sigh cancels the gift.",
+      "theySee": "A coworker who says yes immediately to more time and names the new limit.",
+      "signals": [
+        {
+          "icon": "🙏",
+          "l": "Asks for time",
+          "t": "He asks for a few more days instead of going silent"
+        },
+        {
+          "icon": "🗓️",
+          "l": "Names a day",
+          "t": "He proposes a specific new date rather than 'soon'"
+        },
+        {
+          "icon": "📈",
+          "l": "Works visibly",
+          "t": "He starts sending you partial pieces after the extension"
+        },
+        {
+          "icon": "🔂",
+          "l": "Asks again",
+          "t": "He comes back for a second extension before the new date"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say yes in one line",
+          "desc": "Grant it the same hour he asks. No conditions, no lecture, no sigh."
+        },
+        {
+          "n": "2",
+          "title": "Name the wall",
+          "desc": "Say what the new date is and that it is the last one you can absorb."
+        },
+        {
+          "n": "3",
+          "title": "Tell your manager now",
+          "desc": "Report the new date to your own manager the same day, as a plan, not a complaint."
+        }
+      ],
+      "script": "\"Done — <strong>the 22nd it is, no problem.</strong> That is the last day I can absorb, because Dana's review is the 23rd. After that I ship without it.\"",
+      "example": "Yusuf gave Elena nine extra days the moment she asked and told her the 22nd was the wall. Elena sent the piece on the 21st with a note apologizing for the first miss. She hit every date Yusuf gave her for the rest of the year.",
+      "watchFor": "He proposes an earlier date than the one you offered.",
+      "ifItFails": "He blows through the extension too. The gift is spent and the fence is real now. Do exactly what you said: ship without it and report the gap the same day. Say: <strong>\"Went out without section four as I flagged. Dana knows it is pending from your side. Send it when it lands.\"</strong>",
+      "counter": "If someone grants your extension instantly and names a wall, the wall is real.\n• Notice the fast yes followed by one firm date.\n• Say: \"Understood — the 22nd, and I will send partials before then.\"\n• Never ask that person twice. The second ask ends the relationship's slack.",
+      "insight": "Generosity without a fence trains the other side that your dates are soft. The harder part is holding the wall when he misses it and you actually like him."
+    },
+    {
+      "id": 11,
+      "cat": "cost",
+      "danger": "moderate",
+      "title": "Put His Date in Your Status Update",
+      "principle": "Greene: Law 26 — Keep Your Hands Clean",
+      "remember": "Report the date, not the person. Facts do the work.",
+      "when": "Your manager asks for a status update and your piece is blocked by a peer.",
+      "hook": "You do not have to accuse him. <strong>You just have to stop absorbing the delay silently.</strong>",
+      "truth": "Delay is invisible until someone writes the dependency down.\n• Put the input, the owner, and the date in your normal update.\n• Leaders now see the real bottleneck without you naming a villain.\n• The trap: you add a comment about how this always happens.",
+      "theySee": "A coworker's routine status note that lists an input, an owner, and a date.",
+      "signals": [
+        {
+          "icon": "👁️",
+          "l": "Manager asks",
+          "t": "Your manager asks about the dependency in the next meeting"
+        },
+        {
+          "icon": "📣",
+          "l": "He reacts",
+          "t": "He messages you privately about being named in the update"
+        },
+        {
+          "icon": "🚀",
+          "l": "Date moves up",
+          "t": "His delivery date suddenly improves after the update goes out"
+        },
+        {
+          "icon": "🧊",
+          "l": "No reaction",
+          "t": "Nobody mentions it and the date does not move"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Add one line to your normal update",
+          "desc": "Write: waiting on X from Y, due the 15th. No adjectives, no history."
+        },
+        {
+          "n": "2",
+          "title": "Copy him on it",
+          "desc": "Put him on the same message. A named date behind his back becomes politics."
+        },
+        {
+          "n": "3",
+          "title": "Repeat it every week",
+          "desc": "Keep the same line in every update until the input lands. Same wording each time."
+        }
+      ],
+      "script": "\"Status: design is done, build starts when <strong>the schema from Ravi lands on the 15th</strong>. Everything else is on track. Ravi, correct me if that date has moved.\"",
+      "example": "Dana added one line to her weekly update naming the input, the owner, and the date, and copied him. Her director replied to the thread asking him for a confirmation. The schema arrived two days early that week and every week after.",
+      "watchFor": "He replies to the thread with a date instead of messaging you privately to complain.",
+      "ifItFails": "He messages you privately and says you are throwing him under the bus. Do not apologize or remove the line. Offer him the pen instead. Say: <strong>\"Not my intent — the update has to show what the build is waiting on. Send me the date you want in it and I will use your words.\"</strong>",
+      "counter": "If your name and a date appear in a peer's status update, you are now on the clock publicly.\n• Notice your name next to a date in a message to leadership.\n• Reply to the same thread with a date, not a private complaint.\n• Answering in public ends it. Answering privately makes you look caught.",
+      "insight": "Copying him turns an accusation into a correction request. Do not run this if your manager treats any named dependency as your failure to manage it — in that room the line reads as an excuse, not a fact."
+    },
+    {
+      "id": 12,
+      "cat": "cost",
+      "danger": "high",
+      "title": "Stop Building the Workaround for Free",
+      "principle": "Loss Aversion — Remove the Cushion",
+      "remember": "Stop covering for him. The delay has to be visible.",
+      "when": "You have quietly rebuilt his late work yourself more than twice.",
+      "hook": "Every time you cover the gap, you prove the gap does not matter. <strong>The cover is why it keeps happening.</strong>",
+      "truth": "Your heroics are his safety net, and nobody removes a net for free.\n• Stop doing his piece in the background. Announce the stop in advance.\n• The delay becomes visible to everyone who was protected from it.\n• The trap: you stop silently and get blamed for the fallout.",
+      "theySee": "A coworker telling him in advance that he will not rebuild the missing part this time.",
+      "signals": [
+        {
+          "icon": "🌙",
+          "l": "Your nights",
+          "t": "You have worked two evenings redoing work he owed you"
+        },
+        {
+          "icon": "🤫",
+          "l": "Nobody knows",
+          "t": "Your manager does not know you rebuilt his piece"
+        },
+        {
+          "icon": "🔁",
+          "l": "Third time",
+          "t": "This is the third time you have covered the same gap"
+        },
+        {
+          "icon": "😊",
+          "l": "He thanks you",
+          "t": "He thanks you privately and nothing changes"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the stop before the date",
+          "desc": "Tell him a week ahead that you will not rebuild it this time. Give him the runway."
+        },
+        {
+          "n": "2",
+          "title": "Tell your manager the same day",
+          "desc": "Say the plan as a capacity decision, not a protest. One sentence."
+        },
+        {
+          "n": "3",
+          "title": "Hold it when the day comes",
+          "desc": "Do not rescue it at the last minute. One rescue erases all three steps."
+        }
+      ],
+      "script": "\"Heads up so it is not a surprise: <strong>I rebuilt your export the last two cycles and I am not doing it this time.</strong> If it is not in on the 15th, the report goes out without that tab.\"",
+      "example": "Felix had rebuilt the same export three quarters running on his own weekends. He told Mark a week out that he would not do it again, and told his own manager the same day. The export arrived on time that quarter. His manager also learned, for the first time, that Felix had been doing two jobs.",
+      "watchFor": "He starts asking you questions about the export a week before the date.",
+      "ifItFails": "He misses anyway and the fallout hits a customer or an executive. Do not rescue it retroactively and do not say I told you so. Produce the record calmly and offer the fix going forward. Say: <strong>\"The tab is missing because the export did not land. I flagged it on the 8th. I can rebuild it by Thursday if we want me to own that piece permanently — then let's move it to my team formally.\"</strong>",
+      "counter": "If a peer announces he will stop covering for you, your free safety net just ended.\n• Notice the advance warning. That warning is the last one you get.\n• Say: \"Fair. It will be in on the 15th.\"\n• Then deliver, early. The next miss becomes a public event, not a private favor.",
+      "insight": "The cover-up is comfortable because it makes you the reliable one. It also makes you the one who absorbs every cost with no record. Do not run this on work where the fallout lands on a customer — pick a cycle where the blast is internal."
+    },
+    {
+      "id": 13,
+      "cat": "cost",
+      "danger": "moderate",
+      "title": "Move the Deadline Onto His Calendar",
+      "principle": "Greene: Law 7 — Get Others to Do the Work",
+      "remember": "Make him own the deadline, not just the task.",
+      "when": "You hold the deadline with leadership and he holds the work that feeds it.",
+      "hook": "You are carrying the risk for work you do not control. <strong>Hand the clock to whoever holds the hands.</strong>",
+      "truth": "Whoever reports the date feels the heat for the date.\n• Ask that he give the status on his piece directly in the review.\n• The pressure moves from your inbox to his mouth, in the room.\n• The trap: you frame it as offloading. Frame it as him getting the credit.",
+      "theySee": "A coworker inviting him to present his own part in the leadership review.",
+      "signals": [
+        {
+          "icon": "🎤",
+          "l": "Declines",
+          "t": "He says you should just report it for him"
+        },
+        {
+          "icon": "📅",
+          "l": "Accepts",
+          "t": "He puts the review on his calendar"
+        },
+        {
+          "icon": "🏃",
+          "l": "Pre-work",
+          "t": "He starts preparing days before the review"
+        },
+        {
+          "icon": "🔀",
+          "l": "Sends a deputy",
+          "t": "He sends someone junior from his team instead"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Offer him the slot",
+          "desc": "Ask him to take two minutes in the review to cover his piece himself."
+        },
+        {
+          "n": "2",
+          "title": "Say why it helps him",
+          "desc": "Tell him the leaders should hear his constraints from him, not filtered through you."
+        },
+        {
+          "n": "3",
+          "title": "Send the agenda with his name",
+          "desc": "Put his name and his section in the written agenda before the meeting."
+        }
+      ],
+      "script": "\"You should take the schema section in Thursday's review yourself — <strong>two minutes, your own words.</strong> Dana should hear the constraints from you, not filtered through me.\"",
+      "example": "Clara invited Peter to own his two minutes in the monthly review and put his name on the agenda. Peter spent Wednesday preparing and discovered he was further behind than he thought. He pulled a person onto it that day and delivered a week early.",
+      "watchFor": "He puts the meeting on his own calendar instead of asking you to cover it.",
+      "ifItFails": "He refuses and tells you to report it. Then take the slot and report his date as his, by name, with him in the room or on the thread. Send him the exact words first. Say: <strong>\"I will cover it then. Here is what I will say: schema lands the 15th, owner Ravi. Tell me now if that is wrong.\"</strong>",
+      "counter": "If someone hands you the microphone for your own piece, they are handing you the risk too.\n• Notice the generous invitation to present your own section.\n• Take it, but only with your real date, not the hopeful one.\n• Owning the slot with a soft date is how people get burned publicly.",
+      "insight": "Most people hoard the reporting slot because it looks like status. The slot is actually where the risk lives. The next question is what you do when he takes the slot and tells the room a date you know is fiction."
+    },
+    {
+      "id": 14,
+      "cat": "around",
+      "danger": "high",
+      "title": "Ask His Teammate, Not His Manager",
+      "principle": "Greene: Law 18 — Do Not Build Fortresses; Work the Side Door",
+      "remember": "Go sideways before you go up. Sideways leaves no scar.",
+      "when": "A peer has gone quiet and you need the work, but escalating would start a war.",
+      "hook": "Up is loud and permanent. <strong>Sideways is quiet and usually enough.</strong>",
+      "truth": "Someone on his team already has what you need or knows where it is.\n• Ask a peer on his team a narrow technical question, not a status question.\n• You get the information without creating a complaint record.\n• The trap: you ask about him. Ask about the work only.",
+      "theySee": "A coworker asking his teammate a specific question about the file.",
+      "signals": [
+        {
+          "icon": "🔇",
+          "l": "He is quiet",
+          "t": "He has not replied to two messages in a week"
+        },
+        {
+          "icon": "👥",
+          "l": "Visible teammate",
+          "t": "Someone on his team has commented on the same ticket"
+        },
+        {
+          "icon": "📄",
+          "l": "Partial exists",
+          "t": "A draft of the work already sits in a shared place"
+        },
+        {
+          "icon": "🗨️",
+          "l": "Open answer",
+          "t": "The teammate answers your question in full within an hour"
+        },
+        {
+          "icon": "🚪",
+          "l": "Deflection",
+          "t": "The teammate says you should ask him directly"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick the narrow question",
+          "desc": "Choose one specific fact you need. Not 'how is it going', but 'what are the field names'."
+        },
+        {
+          "n": "2",
+          "title": "Ask the teammate directly",
+          "desc": "Message the teammate once. Keep it short and only about the work."
+        },
+        {
+          "n": "3",
+          "title": "Tell him what you learned",
+          "desc": "Message him the same day with what you found. Never let him hear it from someone else."
+        }
+      ],
+      "script": "To the teammate: \"<strong>Do you know the field names on the new schema?</strong> I just need them to start wiring my side — not chasing status.\" Then to him, same day: \"Got the field names from Priya so I could start. Still planning on the 15th for the full thing?\"",
+      "example": "Ana could not get Rob to reply for eight days. She asked his teammate one narrow question about column names and got an answer in twenty minutes. She messaged Rob the same afternoon to say so. Rob replied within the hour with a real date.",
+      "watchFor": "The teammate answers the question directly instead of redirecting you to him.",
+      "ifItFails": "The teammate redirects you back to him or tells him you came around. Get ahead of it immediately and own it plainly. Say to him: <strong>\"I asked Priya for the field names because I had not heard back and I needed to start. I would rather ask you — what is the best way to reach you this week?\"</strong>",
+      "counter": "If someone starts asking your team narrow questions, you have stopped being the only door.\n• Notice your teammate forwarding you a question you never got.\n• Reply to the original asker directly within the hour.\n• Slow replies create side doors. Side doors become permanent routes.",
+      "insight": "Sideways works once or twice before it looks like a pattern of going around him. Do not do this if his manager treats team questions as status leaks — the teammate will get burned, not you, and you lose the route permanently."
+    },
+    {
+      "id": 15,
+      "cat": "around",
+      "danger": "high",
+      "title": "Escalate the Decision, Not the Person",
+      "principle": "Machiavelli: Attack the Position, Never the Man",
+      "remember": "Escalate a choice to make, not a person to punish.",
+      "when": "You must involve your manager and you do not want to start a feud.",
+      "hook": "Bring your boss a complaint and you become the problem. <strong>Bring a decision and you become useful.</strong>",
+      "truth": "Managers hate complaints and love choices, because choices are their job.\n• Present two options with dates and ask which one to take.\n• The peer's delay is a fact inside the problem, not an accusation.\n• The trap: you include one line about his history. That line is the whole message now.",
+      "theySee": "A coworker bringing a manager two dated options and asking for a decision.",
+      "signals": [
+        {
+          "icon": "🗯️",
+          "l": "Complaint urge",
+          "t": "You want to list every time he has been late"
+        },
+        {
+          "icon": "⚖️",
+          "l": "Two real paths",
+          "t": "You can name two options you would actually accept"
+        },
+        {
+          "icon": "🕐",
+          "l": "Manager asks",
+          "t": "Your manager asks what you recommend"
+        },
+        {
+          "icon": "🙅",
+          "l": "Deflection",
+          "t": "Your manager tells you to work it out between you"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write two options",
+          "desc": "Option A: ship late with his piece. Option B: ship on time without it. Put dates on both."
+        },
+        {
+          "n": "2",
+          "title": "Cut every adjective",
+          "desc": "Remove all words about effort, attitude, or history. Keep only dates and facts."
+        },
+        {
+          "n": "3",
+          "title": "Ask for the pick",
+          "desc": "End with one question: which one do you want? Then stop talking."
+        }
+      ],
+      "script": "\"Two paths. <strong>A: we ship the 29th with the schema included. B: we ship the 15th without it and add it in the next release.</strong> The schema lands the 22nd per Ravi. Which do you want?\"",
+      "example": "Jonah brought his director two dated options and no story about Ravi. The director picked B in ninety seconds and personally messaged Ravi's manager about the input. Jonah never had to say a word about Ravi's record.",
+      "watchFor": "Your manager picks an option in the same conversation instead of asking what happened.",
+      "ifItFails": "Your manager refuses to pick and tells you to sort it out with him. That is a no, but it is also permission. Take option B yourself and record it. Send one line to your manager and copy him: <strong>\"Going with B then — shipping the 15th without the schema, adding it next release. Ravi, flag now if the 22nd has moved.\"</strong>",
+      "counter": "If someone brings your shared manager two options that both expose your delay, you have already lost the framing.\n• Notice the clean options document with your date in it.\n• Add a third option yourself, in the same thread, with a date you can hit.\n• Never argue with the options. Add one. The person who adds choices keeps standing.",
+      "insight": "Complaints make managers choose between two people. Options make them choose between two dates. Do not run this if your manager and his manager are close friends — the options memo will be read aloud to him in your words."
+    },
+    {
+      "id": 16,
+      "cat": "around",
+      "danger": "high",
+      "title": "Build a Second Source Before You Need It",
+      "principle": "Sun Tzu: Never Fight Without a Second Route",
+      "remember": "Find a backup source while things are still calm.",
+      "when": "One peer is the only path to something your deadline depends on.",
+      "hook": "A single supplier sets the price. <strong>Find the second one while nobody is angry.</strong>",
+      "truth": "Your dependence is the only thing that makes his delay expensive.\n• Find another person, team, or rough method that gets you 70 percent.\n• His date stops being the thing that decides your deadline.\n• The trap: you build it during the crisis, when every door reads as an attack.",
+      "theySee": "A coworker quietly asking a different team whether they have similar data.",
+      "signals": [
+        {
+          "icon": "🧍",
+          "l": "Single path",
+          "t": "Only one person can produce what you need"
+        },
+        {
+          "icon": "🗺️",
+          "l": "Other team",
+          "t": "Another team produces something close to the same thing"
+        },
+        {
+          "icon": "🧮",
+          "l": "Rough method",
+          "t": "A manual version would get you most of the way"
+        },
+        {
+          "icon": "🤐",
+          "l": "Calm period",
+          "t": "Nothing is on fire right now, so the asking looks innocent"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the 70 percent version",
+          "desc": "Write down what a rough, good-enough substitute would look like. Be specific."
+        },
+        {
+          "n": "2",
+          "title": "Ask one other team now",
+          "desc": "Message a different team this week and ask if they already produce something close."
+        },
+        {
+          "n": "3",
+          "title": "Build the thin version once",
+          "desc": "Spend half a day building the rough version and park it. Do not announce it."
+        }
+      ],
+      "script": "To another team, during a calm week: \"<strong>Do you already pull anything close to monthly active by region?</strong> Not urgent — I am mapping where this data lives.\"",
+      "example": "Ines spent four hours in a quiet month building a rough version of Marco's report from raw logs. Three months later Marco missed by two weeks. Ines shipped the rough version the same day and nobody outside her team noticed the gap.",
+      "watchFor": "Another team says yes, they already produce something close, and sends you a link.",
+      "ifItFails": "There genuinely is no second source and the rough version is not usable. Then your dependence is a company risk, not a personal problem — raise it as one. Say to your manager: <strong>\"Ravi is the only path to this and he has no backup. That is a single point of failure for us, not just a schedule problem. Can we get a second person trained on it?\"</strong>",
+      "counter": "If people stop needing your work urgently, someone built a backup.\n• Notice fewer chase messages and calmer deadlines around your piece.\n• Ask directly: \"Are you getting this somewhere else now?\"\n• Being replaceable is fine. Being replaceable and still slow is not.",
+      "insight": "The backup is never as good as his work. It does not have to be. It only has to remove his power to decide your deadline. Do not build it loudly during a conflict — that turns a safeguard into a public insult."
+    },
+    {
+      "id": 17,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Report the Gap the Same Hour It Lands",
+      "principle": "Voss: Accusation Audit — Deliver Bad News First",
+      "remember": "Tell them yourself before someone else does.",
+      "when": "His work did not arrive and your delivery is now going out incomplete.",
+      "hook": "Bad news you deliver is a status update. <strong>Bad news someone else delivers is your failure.</strong>",
+      "truth": "The first person to describe a problem defines who owns it.\n• Send the gap, the cause, and your fix in one short message.\n• Leaders file it as a managed problem instead of a discovery.\n• The trap: you wait a day hoping it resolves. That day is the whole card.",
+      "theySee": "A coworker sending a short note naming what is missing and what happens next.",
+      "signals": [
+        {
+          "icon": "⌛",
+          "l": "Hope delay",
+          "t": "You want to wait one more day before telling anyone"
+        },
+        {
+          "icon": "🔊",
+          "l": "Others notice",
+          "t": "Someone outside your team asks about the missing piece"
+        },
+        {
+          "icon": "📝",
+          "l": "You have a fix",
+          "t": "You can state a real next step and a date"
+        },
+        {
+          "icon": "🧯",
+          "l": "Calm reply",
+          "t": "Your manager replies with a question, not an alarm"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three lines",
+          "desc": "Line one: what is missing. Line two: why. Line three: what you will do and when."
+        },
+        {
+          "n": "2",
+          "title": "Send it the same hour",
+          "desc": "Do not wait for the end of day. The hour matters more than the wording."
+        },
+        {
+          "n": "3",
+          "title": "Copy him",
+          "desc": "Put him on it so the fact is correctable and nothing happens behind his back."
+        }
+      ],
+      "script": "\"Heads up: <strong>the report went out without the regional tab.</strong> The schema from Ravi landed after our cut-off. I am adding the tab in the Friday refresh. Ravi, correct me if the date is wrong.\"",
+      "example": "Theo sent three lines within the hour of a bad handoff, with the owner and the fix date in them. His VP replied 'thanks, noted' and never mentioned it again. Two weeks later the VP asked Theo to own the whole pipeline.",
+      "watchFor": "Your manager replies with a question about the fix date instead of about what went wrong.",
+      "ifItFails": "Your manager reacts badly and treats the gap as your failure anyway. Do not defend in the thread. Move it to a one-on-one with the record in hand. Say: <strong>\"I want to show you the dates. I flagged the risk on the 8th and the 15th. Tell me what you would have wanted me to do differently and I will do that next time.\"</strong>",
+      "counter": "If a peer reports a gap and names you in the first hour, he is setting the record before you can.\n• Notice your name in a bad-news message sent to leadership fast.\n• Reply in the same thread within an hour with your date and your fix.\n• Silence after being named in public is read as agreement.",
+      "insight": "Speed matters more than wording here. A rough message in hour one beats a polished one on day two. The harder part is sending it when you still believe the work might arrive."
+    },
+    {
+      "id": 18,
+      "cat": "after",
+      "danger": "moderate",
+      "title": "Decide Whether to Work With Him Again",
+      "principle": "Greene: Law 10 — Avoid the Unhappy and Unlucky",
+      "remember": "Decide once if you will depend on him again. Then act like it.",
+      "when": "The miss has landed, the damage is done, and the next project is being planned.",
+      "hook": "Most people stay angry and keep the dependency. <strong>Choose one or the other.</strong>",
+      "truth": "Resentment without a changed arrangement is just a slower version of the same loss.\n• Decide now: depend on him again, or build the work out of your path.\n• Your next plan reflects the decision instead of your mood.\n• The trap: you stay friendly, stay dependent, and expect a different result.",
+      "theySee": "A coworker having a calm conversation about how the next project will be set up.",
+      "signals": [
+        {
+          "icon": "🧊",
+          "l": "Cold but tied",
+          "t": "You are short with him and still depend on him for everything"
+        },
+        {
+          "icon": "🔁",
+          "l": "Same setup",
+          "t": "The next project has the same handoff with no changes"
+        },
+        {
+          "icon": "🧱",
+          "l": "Real change",
+          "t": "The next plan moves the work, the owner, or the dates"
+        },
+        {
+          "icon": "🤝",
+          "l": "He asks",
+          "t": "He asks how to make the next one go better"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick one of three",
+          "desc": "Depend with a buffer, depend with a backup, or move the work off your path entirely."
+        },
+        {
+          "n": "2",
+          "title": "Tell him the choice",
+          "desc": "Say it plainly and without blame. He should hear it from you, once."
+        },
+        {
+          "n": "3",
+          "title": "Change the next plan",
+          "desc": "Put the buffer, the backup, or the new owner into the actual project plan this week."
+        }
+      ],
+      "script": "\"I am not sore about last quarter. But <strong>I am going to build a backup path for the schema this time and put your date four weeks earlier.</strong> I would rather tell you than have you find it in the plan.\"",
+      "example": "Reza told Dev plainly that the next project would have a four-week buffer and a rough backup version. Dev did not like hearing it but delivered three days early that quarter. By the third project Reza dropped the backup and kept the buffer.",
+      "watchFor": "He asks a practical question about the new setup instead of defending the last one.",
+      "ifItFails": "He takes it as an insult and goes cold on you. Do not retreat to the old arrangement to repair the mood. Separate the work from the relationship out loud. Say: <strong>\"The plan change is not about you being bad at your job. It is about me not having a backup last time. The buffer stays. Lunch is still on me Thursday.\"</strong>",
+      "counter": "If a peer adds buffers and backups around your work without heat, you have been downgraded quietly.\n• Notice the new early date and the quiet second path.\n• Ask once: \"Is this because of last quarter?\" Accept the honest answer.\n• Beat the new date twice. Trust comes back on delivery, never on apology.",
+      "insight": "Forgiveness and dependence are separate decisions and most people blur them into one. Do not announce this to a peer whose manager runs your performance review — frame it as a planning change, never as a verdict on him. The next question is whether you can hold the buffer when he starts delivering early and you want to relax it."
+    }
+  ]
+}
