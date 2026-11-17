@@ -1,0 +1,695 @@
+{
+  "meta": {
+    "id": "srv-the-triangle-dossier",
+    "version": "1.0",
+    "title": "The Triangle Dossier",
+    "subtitle": "Spotting and Breaking Triangulation Between Two People",
+    "description": "A closed file on triangulation: how third parties get recruited into two-person conflicts, the roles they're assigned, and the moves that keep everyone stuck. Twelve cards on the structure, the signals, and the extraction.",
+    "author": "AI",
+    "createdAt": "2026-11-17T22:07:43.455Z",
+    "tags": [
+      "triangulation",
+      "social dynamics",
+      "manipulation",
+      "relationships",
+      "conflict",
+      "psychology"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1B2A4A",
+    "coverIcon": "🔺",
+    "fromServer": true,
+    "generation": {
+      "topic": "Spotting triangulation between two people",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "academic"
+    }
+  },
+  "categories": [
+    {
+      "key": "mechanics",
+      "label": "How It Works",
+      "color": "#1B2A4A"
+    },
+    {
+      "key": "detection",
+      "label": "Spotting It",
+      "color": "#3D1F5E"
+    },
+    {
+      "key": "roles",
+      "label": "The Roles",
+      "color": "#1A3C40"
+    },
+    {
+      "key": "defense",
+      "label": "Staying Out",
+      "color": "#1A3D2B"
+    },
+    {
+      "key": "counter",
+      "label": "Breaking It",
+      "color": "#4A1020"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "mechanics",
+      "danger": "low",
+      "title": "One Conflict, Three People — Spot the Structure",
+      "hook": "Two people are fighting. Neither talks to the other. <strong>Instead, they both talk to you.</strong>",
+      "truth": "Bowen found that two-person relationships crack under pressure — a third person gets pulled in to hold the tension.\n• Person A stops talking to Person B and routes everything through Person C.\n• Person C starts carrying feelings, messages, and sides that aren't theirs.\n• Nothing gets fixed; the triangle just moves the tension without dissolving it.",
+      "principle": "Bowen: Family Systems Triangulation",
+      "remember": "When two people stop talking, they both start talking to you.",
+      "theySee": "A person sitting across from a friend, hearing complaints about someone who never joins the conversation.",
+      "signals": [
+        {
+          "l": "No direct talk",
+          "t": "Two people discuss each other constantly but never directly to each other.",
+          "icon": "🔇"
+        },
+        {
+          "l": "You're the news",
+          "t": "Both parties tell you things they won't say to each other.",
+          "icon": "📰"
+        },
+        {
+          "l": "Same conflict loops",
+          "t": "The same disagreement resurfaces every week without being resolved.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Side pressure",
+          "t": "Each person separately asks where you stand on the dispute.",
+          "icon": "⚖️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Draw the arrow map",
+          "desc": "Write A, B, C on paper. Draw an arrow for every conversation that happened. If you see arrows from A to C and B to C but no arrow from A to B, the triangle is confirmed."
+        },
+        {
+          "n": "2",
+          "title": "Track who routes through you today",
+          "desc": "For one day, note every time someone reports what a third party said instead of saying it themselves. Count the instances."
+        },
+        {
+          "n": "3",
+          "title": "Ask the direct question once",
+          "desc": "Next time you hear a complaint about an absent person, ask: 'Have you said this to them directly?' One question. Watch the reaction carefully."
+        }
+      ],
+      "script": "\"It sounds like this is really between you two. Have you told them directly?\"",
+      "counter": "If two people are both venting to you about each other, you are already inside the triangle before you agreed to be.\n• Notice: you hear the same fight twice, from two angles, never resolved.\n• Say: \"I'm not the right person to settle this.\"\n• Do: stop relaying what either one said to the other.",
+      "insight": "The triangle feels like closeness — both people trust you with the real story. The harder question is whether they're using you or whether you've made yourself available to be used."
+    },
+    {
+      "id": 2,
+      "cat": "mechanics",
+      "danger": "low",
+      "title": "Triangles Feel Like Help But Keep Things Stuck",
+      "hook": "Venting to a friend about your partner feels better than a hard conversation. <strong>That's exactly why the conflict never ends.</strong>",
+      "truth": "Short-term relief is real. Long-term, the tension moves instead of dissolving, and the loop repeats.\n• Complaining to a third party lowers anxiety without changing the situation between A and B.\n• The two people in conflict never build the ability to face each other directly.\n• The pattern repeats because relief comes before resolution every single time.",
+      "principle": "Bowen: Tension Displacement",
+      "remember": "Venting to someone else relieves pressure but never fixes the problem.",
+      "theySee": "A friend nodding along while someone complains about their partner for the third time this month.",
+      "signals": [
+        {
+          "l": "Same story, new listener",
+          "t": "Person tells the same complaint to different people but never to the source.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Temporary calm",
+          "t": "Tension drops right after venting but spikes again within a few days.",
+          "icon": "📉"
+        },
+        {
+          "l": "No direct move",
+          "t": "Despite weeks of venting, no direct conversation with the other party has happened.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Listener wears down",
+          "t": "The third party starts dreading picking up the phone from this person.",
+          "icon": "😮‍💨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Spot the loop",
+          "desc": "Identify one complaint you've heard more than twice from the same person about the same target. That complaint is not moving toward a fix. It's circling."
+        },
+        {
+          "n": "2",
+          "title": "Name the pattern internally",
+          "desc": "Say to yourself: 'This person is using me to feel better, not to solve anything.' Don't say it out loud yet. Just hold the picture clearly."
+        },
+        {
+          "n": "3",
+          "title": "Stop feeding the loop",
+          "desc": "Next time they vent, ask: 'What are you going to do about it?' instead of agreeing with the complaint. Push it back to them. Don't offer opinions."
+        }
+      ],
+      "script": "\"You've told me this three times. What are you going to say to them?\"",
+      "counter": "If someone uses you as a venting target repeatedly — same person, same conflict — they are running the loop on you.\n• Notice: the story never changes and nothing ever gets done about it.\n• Say: \"I think you need to handle this directly.\"\n• Do: cut the venting session short. Don't re-engage the same complaint next time.",
+      "insight": "The person inside the triangle feels heard. The person watching from outside sees a problem that could be solved in one honest conversation. The gap between those two views is where the triangle lives — and why it's so hard to close."
+    },
+    {
+      "id": 3,
+      "cat": "roles",
+      "danger": "moderate",
+      "title": "Three Roles Keep the Drama Running",
+      "hook": "Every triangle has a villain, a victim, and a helper. <strong>None of them are fixed.</strong>",
+      "truth": "Karpman identified three positions people cycle through: Persecutor, Victim, Rescuer — and all three get something from staying in the game.\n• The Persecutor blames. The Victim suffers. The Rescuer steps in to fix.\n• People rotate roles within one conversation — the Rescuer becomes Victim when help is rejected.\n• The cycle continues because each role delivers a reward: control, sympathy, or identity.",
+      "principle": "Karpman: Drama Triangle",
+      "remember": "Villain, victim, and helper are three faces of the same stuck fight.",
+      "theySee": "A person who stepped in to help two people arguing and now finds both of them angry at them for not doing enough.",
+      "signals": [
+        {
+          "l": "Role flip",
+          "t": "The person who was helping is now complaining about being attacked for it.",
+          "icon": "🔀"
+        },
+        {
+          "l": "Blame pivot",
+          "t": "The person originally blamed suddenly becomes the one being comforted by others.",
+          "icon": "🔃"
+        },
+        {
+          "l": "New recruits",
+          "t": "Fresh people keep being pulled in to hear the latest version of events.",
+          "icon": "👥"
+        },
+        {
+          "l": "Nobody leaves",
+          "t": "Despite ongoing complaints, all three parties stay engaged and keep talking.",
+          "icon": "📌"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Label the three positions now",
+          "desc": "Write P, V, R next to the three people in the conflict. Who is being blamed? Who is suffering? Who is stepping in to fix it? That map tells you the current state."
+        },
+        {
+          "n": "2",
+          "title": "Track the rotation over two days",
+          "desc": "Watch whether any position shifts in the next 48 hours. If the same person moves from Rescuer to Victim, the Drama Triangle is actively running."
+        },
+        {
+          "n": "3",
+          "title": "Decline the Rescuer slot",
+          "desc": "When someone presents you with a problem between two other people, don't offer to solve it. Say: 'That's between them.' Stay off the board entirely."
+        }
+      ],
+      "script": "\"I'm not stepping in on this — that's something they need to work out between themselves.\"",
+      "counter": "If you feel pulled in to rescue someone from another person's behavior, check whether you're being assigned the Rescuer role before you accept it.\n• Notice: you're being handed a villain to oppose and a victim to protect.\n• Say: \"I'll hear you out, but I'm not picking sides.\"\n• Do: watch whether the person who recruited you later turns on you when you don't do enough.",
+      "insight": "The Rescuer is the most dangerous position to accept. You enter as a helper and exit as the new villain. The harder move is staying out entirely — which looks like abandonment from inside the triangle."
+    },
+    {
+      "id": 4,
+      "cat": "detection",
+      "danger": "moderate",
+      "title": "The Person Who Changes Their Story by Audience Is Running the Triangle",
+      "hook": "To one friend they're the victim. To another they're the peacemaker. <strong>That flip — same person, same day — is the tell.</strong>",
+      "truth": "A healthy person holds one consistent position. The person running the triangle rotates to whatever role the current audience needs.\n• The role they play shifts based on who's listening, not on what actually happened.\n• Each new person gets a slightly different version of events tailored to them.\n• The person in the center holds all the information while everyone else holds one fragment.",
+      "principle": "Karpman: Drama Triangle Role Rotation",
+      "remember": "Watch who changes their story depending on who is listening.",
+      "theySee": "A mutual friend who got one version of a story from someone in the morning and a noticeably different version of the same story from the same person in the evening.",
+      "signals": [
+        {
+          "l": "Version changes",
+          "t": "The same event gets described differently to different people on the same day.",
+          "icon": "📖"
+        },
+        {
+          "l": "Sympathy from both sides",
+          "t": "Person receives sympathy from multiple people for opposing reasons simultaneously.",
+          "icon": "🎭"
+        },
+        {
+          "l": "One center point",
+          "t": "Every conversation about the conflict passes through one specific person.",
+          "icon": "🎯"
+        },
+        {
+          "l": "Notes never compared",
+          "t": "The parties being played against each other never talk to each other directly.",
+          "icon": "🔇"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Compare accounts with one other person",
+          "desc": "Call someone else who knows the central person. Ask a neutral question: 'What did they tell you happened?' Listen for the gap between their account and yours."
+        },
+        {
+          "n": "2",
+          "title": "Identify who all information flows through",
+          "desc": "Name the one person every update about the conflict passes through. If every piece of news comes from the same source, that source is the center — not a bystander."
+        },
+        {
+          "n": "3",
+          "title": "Cut what you send to the center",
+          "desc": "For one week, tell the central person nothing new about how you feel or what you think. See whether the story they tell others changes without your input feeding it."
+        }
+      ],
+      "script": "\"What exactly did they say to you? Walk me through the actual words.\"",
+      "counter": "If someone keeps updating you on a conflict and their own role in the story keeps shifting, they are managing your picture of events.\n• Notice: you feel sympathetic but can't pin down exactly what happened.\n• Say: \"I'd like to hear this from both people separately before I form a view.\"\n• Do: go directly to the other party before deciding anything.",
+      "insight": "The person in the center knows exactly what each person thinks. Everyone else knows only what the center chose to share. That's not someone caught in drama — that's someone running it. The role-switch is the signature of control, not confusion."
+    },
+    {
+      "id": 5,
+      "cat": "detection",
+      "danger": "moderate",
+      "title": "Being Asked to Carry a Message Means You Are Already the Third Point",
+      "hook": "They say 'tell him I said…' and walk away. <strong>You just became the go-between without agreeing to it.</strong>",
+      "truth": "The relay request looks like a small favor. It is a recruitment — with consequences the sender never has to absorb.\n• The sender avoids direct conflict while keeping pressure on the recipient through you.\n• You become responsible for the message, the timing, and how it lands on the other end.\n• If the message causes a fight, you are part of the fight. The sender is clean.",
+      "principle": "Bowen: Triangulation as Conflict Avoidance",
+      "remember": "Carrying someone else's message makes their problem your problem.",
+      "theySee": "A friend being handed a complaint to deliver to a third person who could be texted in thirty seconds.",
+      "signals": [
+        {
+          "l": "Tell-them phrasing",
+          "t": "Person uses the words 'Tell them…' rather than reaching out to the recipient themselves.",
+          "icon": "💬"
+        },
+        {
+          "l": "Available path skipped",
+          "t": "The intended recipient is reachable right now — same building or same phone — but the sender uses you instead.",
+          "icon": "🛤️"
+        },
+        {
+          "l": "Loaded message",
+          "t": "The message is emotionally charged: a complaint, a demand, or an ultimatum.",
+          "icon": "💣"
+        },
+        {
+          "l": "Built-in deniability",
+          "t": "If challenged later, the sender can say 'I told you, not them' and walk away without accountability.",
+          "icon": "🫣"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the recruitment moment internally",
+          "desc": "Every time someone asks you to tell a third party something they could say themselves, name it: 'This is a relay request.' Don't accept or decline yet. Just identify it."
+        },
+        {
+          "n": "2",
+          "title": "Decline with one sentence",
+          "desc": "Say: 'You should tell them yourself.' Don't explain your reasoning. Don't soften the ending. The sentence works exactly as written."
+        },
+        {
+          "n": "3",
+          "title": "Watch the reaction",
+          "desc": "If they get frustrated or say 'you're not helping,' that reaction confirms the relay was deliberate. Someone with no agenda would shrug and send the message themselves."
+        }
+      ],
+      "script": "\"Tell them yourself — I'd rather stay out of this one.\"",
+      "counter": "If someone regularly uses you as a messenger, notice whether the messages ever make you look like the author of the complaint.\n• Notice: the recipient thinks the complaint came from you, not the sender.\n• Say: \"That came from [name], not me — go talk to them directly.\"\n• Do: stop accepting the relay role entirely. Zero exceptions going forward.",
+      "insight": "The relay trap works because helping feels natural. You don't need to be deceived if you're already helpful. The move that follows is realizing that cutting off relay requests loses you nothing — except the stress you were absorbing for free."
+    },
+    {
+      "id": 6,
+      "cat": "detection",
+      "danger": "high",
+      "title": "Check the Source Before Deciding What Someone Said",
+      "hook": "They tell you what a mutual friend 'actually said' about you. <strong>Half the time, it was never said.</strong>",
+      "truth": "Secondhand claims are the main fuel for triangulation. The distortion may be intentional or accidental — the result is the same damage.\n• Words change in transit: tone gets added, context disappears, details shift without the carrier noticing.\n• The person relaying always has a reason — they want your alliance, your reaction, or your fear.\n• Going to the source directly ends the triangle before it can grow any further.",
+      "principle": "Bowen: Information Distortion in Triangles",
+      "remember": "Check the source directly before you react to any secondhand claim.",
+      "theySee": "Two people pulling apart because one of them believes something specific the other never actually said.",
+      "signals": [
+        {
+          "l": "No exact words",
+          "t": "Person paraphrases what was said but won't give you the exact quote when pressed.",
+          "icon": "✂️"
+        },
+        {
+          "l": "Tone commentary added",
+          "t": "The relay includes observations on how the person sounded: 'They seemed really angry when they said it.'",
+          "icon": "😤"
+        },
+        {
+          "l": "No witness",
+          "t": "The alleged statement happened privately with no one else present to confirm it.",
+          "icon": "🕵️"
+        },
+        {
+          "l": "Urgency push",
+          "t": "You're being pushed to react right now before you've had time to verify anything.",
+          "icon": "⏰"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write down the exact words reported",
+          "desc": "Before reacting, write exactly what you were told was said. This slows your emotional reaction and gives you a fixed reference point to compare against later."
+        },
+        {
+          "n": "2",
+          "title": "Contact the source within 24 hours",
+          "desc": "Ask the alleged speaker directly: 'Did you say [exact words]?' Use their name. Keep the question short and calm. No theater, no accusation in the tone."
+        },
+        {
+          "n": "3",
+          "title": "Compare the two accounts",
+          "desc": "Put the original claim next to the source's response. The gap between them is the distortion. That gap tells you exactly how much the triangle added to the original message."
+        }
+      ],
+      "script": "\"Did you actually say that? I want to hear it from you before I do anything.\"",
+      "counter": "If someone reports what you supposedly said and uses it to build a case against you, trace the relay chain immediately.\n• Notice: the claim has emotional weight and tone added that you never put there.\n• Say: \"That's not what I said. Here's exactly what I said.\"\n• Do: go directly to the person who heard the distorted version. Cut the chain at the point of distortion.",
+      "insight": "Most triangulation depends on nobody checking the source. One direct conversation ends three weeks of sideways tension. The harder part is that the person relaying often genuinely believes what they're saying — which makes them a more effective carrier than a deliberate liar."
+    },
+    {
+      "id": 7,
+      "cat": "detection",
+      "danger": "high",
+      "title": "They Tell Everyone the Same Story So the Story Looks True",
+      "hook": "They told your aunt. They told your best friend. <strong>Now everyone believes them — and you look suspicious for pushing back.</strong>",
+      "truth": "Credibility stacking uses social proof to replace actual evidence. The more people believe the story, the truer it feels to everyone inside it.\n• The person spreading the story recruits multiple listeners before confronting the target directly.\n• Each new believer makes the story harder to challenge — pushing back now means pushing back against a crowd.\n• The target is isolated: arguing at this point means arguing against everyone who was told first.",
+      "principle": "Cialdini: Social Proof (Triangulated)",
+      "remember": "Everyone believes the story because one person told them all.",
+      "theySee": "A person who walks into a room and senses that everyone already has a fixed picture of them before they have spoken a word.",
+      "signals": [
+        {
+          "l": "Pre-informed crowd",
+          "t": "Multiple people already hold a negative opinion about you before you've spoken to any of them.",
+          "icon": "👥"
+        },
+        {
+          "l": "One common source",
+          "t": "When you trace all accounts back, they all lead to the same person's first conversation.",
+          "icon": "🔗"
+        },
+        {
+          "l": "Closed verdict",
+          "t": "People say 'I know what happened' without having heard your side of anything.",
+          "icon": "🔒"
+        },
+        {
+          "l": "Early sympathy given",
+          "t": "The person who built the story already has supporters before you're aware there is a dispute.",
+          "icon": "🤝"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Trace the source of every account",
+          "desc": "For each person who holds the negative picture, ask: 'Who told you that?' Write every answer down. If they all point to one name, that name is the problem you need to address."
+        },
+        {
+          "n": "2",
+          "title": "Talk directly to two people",
+          "desc": "Pick two people who believe the story. Have a plain, calm conversation with each one. Give them your version. You only need to open a crack in the consensus — not win a debate."
+        },
+        {
+          "n": "3",
+          "title": "Confront the source last, not first",
+          "desc": "Go to the person who built the story after you've spoken to two or three others. By then you have witnesses to your own account and something to stand on."
+        }
+      ],
+      "script": "\"I'd like to give you my version of what happened before you decide what to think.\"",
+      "counter": "If you believe a story about someone because multiple people told you, pause and ask who told those people first.\n• Notice: all roads lead to one person who had the first conversation with everyone.\n• Say: \"I haven't heard their side — I'll wait before I form a view.\"\n• Do: go directly to the target of the story before you say anything to anyone else.",
+      "insight": "Social proof is convincing precisely because it looks like evidence gathered from multiple independent sources. The gap between 'everyone thinks so' and 'one person told everyone' is the entire trick. The next question is what to do when you are already inside the crowd that believes it."
+    },
+    {
+      "id": 8,
+      "cat": "roles",
+      "danger": "low",
+      "title": "Some Triangulators Don't Know They're Doing It",
+      "hook": "They're not trying to manipulate anyone. <strong>They just can't say hard things directly — so everything gets routed through someone else.</strong>",
+      "truth": "Passive-aggressive or conflict-avoidant people triangulate by default, not by design. The result is the same as deliberate triangulation.\n• They vent to safe people because direct confrontation feels impossible or dangerous to them.\n• The triangle forms because nobody around them makes them speak directly to the source.\n• Intent doesn't reduce the damage — the third party still carries stress that isn't theirs.",
+      "principle": "Bowen: Triangulation as Conflict Avoidance (Unintentional)",
+      "remember": "Some people route around conflict because they never learned to face it directly.",
+      "theySee": "A quiet coworker walking to their manager's office to report a problem with a colleague who works ten feet away.",
+      "signals": [
+        {
+          "l": "Safe audience only",
+          "t": "Person vents only to people who won't challenge them or push them to act.",
+          "icon": "🛡️"
+        },
+        {
+          "l": "No follow-through",
+          "t": "Promises to 'talk to them' never happen — the same complaint resurfaces weeks later unchanged.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Subject change",
+          "t": "When you suggest they speak directly, they go quiet or immediately change the subject.",
+          "icon": "😶"
+        },
+        {
+          "l": "Permanent mediator",
+          "t": "The same third party ends up managing every conflict this person has, every single time.",
+          "icon": "🧩"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your recurring venting recipient",
+          "desc": "Identify one person in your circle who consistently routes their problems through you. Write their name. That person has assigned you a standing role you didn't choose."
+        },
+        {
+          "n": "2",
+          "title": "Stop absorbing for them",
+          "desc": "Next time they vent, don't agree with the complaint. Ask: 'Have you told them?' If they say no, don't fill the gap. Wait. Let the silence sit without rescuing them from it."
+        },
+        {
+          "n": "3",
+          "title": "Redirect once and step back",
+          "desc": "Say: 'You should bring this up with them directly — I'll stay out of it.' Then actually stay out. Don't check back in. Don't follow up. Let them carry it themselves."
+        }
+      ],
+      "script": "\"I hear you, but this isn't something I can fix for you — you need to tell them.\"",
+      "counter": "If you recognize that you are the unintentional triangulator — venting to safe people instead of confronting — the fix is one direct conversation you have been putting off.\n• Notice: you've told three people about the problem but not the person who caused it.\n• Say to the source: \"I need to tell you something directly.\"\n• Do: have that conversation within 24 hours, before you tell anyone else about it.",
+      "insight": "Unintentional triangulators are often the hardest to confront because they look like victims — they're genuinely uncomfortable and not running a scheme. The question is whether your sympathy for their discomfort is worth the stress they're routing through you indefinitely."
+    },
+    {
+      "id": 9,
+      "cat": "detection",
+      "danger": "moderate",
+      "title": "You're Already Inside the Triangle When Both Sides Call You",
+      "hook": "Both of them called you this week. Both of them said the other one is the problem. <strong>That's not coincidence — that's the triangle.</strong>",
+      "truth": "Being pulled in by both sides feels like trust. It is a double recruitment — and you now hold information neither party wants the other to have.\n• Each person thinks you're their ally. Neither knows you've heard the other's full side.\n• You now carry both versions and feel responsible for what you do with everything you've been told.\n• The longer you hold both sides, the deeper inside the triangle you become and the harder it is to leave.",
+      "principle": "Bowen: Triangulation — Third-Party Position",
+      "remember": "Both people calling you is not trust — it is a recruitment.",
+      "theySee": "A mutual friend sitting in their car after two separate phone calls from two people who are fighting, trying to figure out what to do with everything they just heard.",
+      "signals": [
+        {
+          "l": "Double call",
+          "t": "Both people in the conflict call you within 48 hours of each other.",
+          "icon": "📞"
+        },
+        {
+          "l": "Secrecy request",
+          "t": "Each one asks you not to tell the other what they said to you.",
+          "icon": "🤫"
+        },
+        {
+          "l": "Side question",
+          "t": "Both parties ask — directly or by implication — whose side you're on.",
+          "icon": "⚖️"
+        },
+        {
+          "l": "Post-call fatigue",
+          "t": "You feel worn out after each conversation even though you did nothing active in it.",
+          "icon": "😮‍💨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name your position accurately",
+          "desc": "Say to yourself out loud: 'I am inside a triangle.' Not 'caught in the middle' — that's too soft. Name it accurately so you can respond from a clear place."
+        },
+        {
+          "n": "2",
+          "title": "Stop taking in new information from either side",
+          "desc": "When either person calls, say: 'I'm not the right person to talk to about this.' Don't take in more ammunition from either side. The pipeline closes now."
+        },
+        {
+          "n": "3",
+          "title": "Give both parties the exact same message",
+          "desc": "Contact both people on the same day. Use the same words to each one: 'I care about both of you. I'm not choosing sides. Talk to each other.' Same sentence. Same tone. No variation between them."
+        }
+      ],
+      "script": "\"I've heard from both of you. I'm not choosing sides — you two need to talk to each other.\"",
+      "counter": "If two people in a conflict both recruit you, notice who reached you first and whose version you found more convincing — that's where your bias is already sitting.\n• Notice: you've unconsciously picked a side based on who called first.\n• Say: \"I need to step back from this.\"\n• Do: refuse any further updates from either side until they've spoken directly to each other.",
+      "insight": "The exhaustion you feel carrying both sides is the system doing what it was designed to do — keeping you occupied and in position. The harder move is stepping out when both people genuinely like you and genuinely believe they need your help to get through this."
+    },
+    {
+      "id": 10,
+      "cat": "defense",
+      "danger": "moderate",
+      "title": "Decline the Relay — Say It Once and Don't Explain",
+      "hook": "'Tell her I said this.' <strong>That sentence is a job offer you didn't apply for.</strong>",
+      "truth": "Every message you agree to carry makes you a participant, not a bystander. The sender never absorbs the blowback — you do.\n• You take on responsibility for the message, the timing, and how it lands on the other end.\n• If the message causes a fight, you are in that fight. The sender is not.\n• One clear refusal is enough. Explaining your reasons opens a negotiation you don't need to have.",
+      "principle": "Bowen: Breaking the Triangulation Loop",
+      "remember": "Decline the relay once, plainly, and don't explain your reasons.",
+      "theySee": "A person being handed someone else's grievance to deliver to a third party who is a few feet away.",
+      "signals": [
+        {
+          "l": "Loaded handoff",
+          "t": "Person hands you a complaint or demand to pass along, not a neutral factual update.",
+          "icon": "📦"
+        },
+        {
+          "l": "Direct path skipped",
+          "t": "The recipient is reachable right now — same building or same phone — but the sender uses you.",
+          "icon": "🚶"
+        },
+        {
+          "l": "Pattern of relays",
+          "t": "This same person has asked you to carry messages more than once in this relationship.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Pushback on refusal",
+          "t": "When you decline, they ask why — looking to negotiate rather than accept your answer.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the person who does this to you",
+          "desc": "Think of one person who regularly asks you to pass along messages. Write their name. They have given you a standing role in their conflict management that you didn't agree to take."
+        },
+        {
+          "n": "2",
+          "title": "Write your one-line refusal right now",
+          "desc": "Write the exact sentence you will say: 'You should tell them yourself.' Practice saying it out loud without softening the last word. The sentence works as written."
+        },
+        {
+          "n": "3",
+          "title": "Deliver it once and hold the position",
+          "desc": "Next time the relay request comes, say the line. If they push back, repeat it once only. After the second time, end the conversation. Don't negotiate the third time."
+        }
+      ],
+      "script": "\"You should tell them yourself — I'm not passing that along.\"",
+      "counter": "If someone pushes back hard when you decline to relay, that tells you the relay role was deliberate — not a casual request you happened to get.\n• Notice: strong resistance to 'tell them yourself' means they needed you in that relay position.\n• Say: \"I understand you're frustrated. That doesn't change my answer.\"\n• Do: hold the position. The more they push, the more important it is that you don't move.",
+      "insight": "The first refusal is easy. The second, when they push back, is where most people cave and pick up the message again. The pattern resets the moment you do — and they know it from experience."
+    },
+    {
+      "id": 11,
+      "cat": "defense",
+      "danger": "high",
+      "title": "What You Share With One Party Gets Used With the Other",
+      "hook": "You told one of them how you really feel. <strong>By the end of the week, the other one knows.</strong>",
+      "truth": "Inside a triangle, information doesn't stay where you put it. It travels in the direction that benefits the person in the center.\n• Every opinion you share becomes something the center can use, distort, or pass along strategically.\n• The more you share, the more you give the triangle's center to work with against you or others.\n• Cutting your information output is the fastest way to reduce your role in the system.",
+      "principle": "Bowen: Information Flow in Triangulated Systems",
+      "remember": "Inside a triangle, everything you say to one person reaches the other person.",
+      "theySee": "A person who confided in a mutual friend and then heard their own words repeated back to them in a fight they were not part of.",
+      "signals": [
+        {
+          "l": "Your words repeated",
+          "t": "Something you said privately to one person comes up in a conversation with another person.",
+          "icon": "📢"
+        },
+        {
+          "l": "Fishing questions",
+          "t": "Person asks detailed questions about how you feel about the other party in the conflict.",
+          "icon": "🎣"
+        },
+        {
+          "l": "Opinion requests",
+          "t": "They ask for your honest view on the conflict before you've offered it to anyone.",
+          "icon": "💉"
+        },
+        {
+          "l": "Quote attribution",
+          "t": "Your name gets attached to a position you never took publicly or said directly.",
+          "icon": "🏷️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Audit what you've already shared",
+          "desc": "Think back two weeks. What opinions did you give about the conflict? Who did you give them to? Assume all of it has already traveled to the other party."
+        },
+        {
+          "n": "2",
+          "title": "Set a new sharing rule going forward",
+          "desc": "Share facts only — not feelings or opinions — with anyone inside the triangle. Write the line you'll use when asked: 'I don't have a strong view on that.'"
+        },
+        {
+          "n": "3",
+          "title": "Track who asks and how often",
+          "desc": "For one week, note who asks you questions about the conflict. The person asking most often is the one managing the information flow — not a neutral party."
+        }
+      ],
+      "script": "\"I really don't have a strong view on that — you should sort it out between you.\"",
+      "counter": "If someone inside a conflict keeps asking your opinion, they are collecting your position to use as social proof or as a weapon against the other party.\n• Notice: they ask 'what do you think of what they did?' not 'what should I do next?'\n• Say: \"I'd rather stay neutral on this one.\"\n• Do: share nothing. Neutral gives them nothing to work with. Hold it without explaining why.",
+      "insight": "Silence inside a triangle feels uncomfortable — people read it as picking the other side. That discomfort is the system pushing you to give it more fuel. The move that follows is learning to let the discomfort sit without filling it with words."
+    },
+    {
+      "id": 12,
+      "cat": "counter",
+      "danger": "high",
+      "title": "Get Out of the Triangle Without Blowing Up Both Relationships",
+      "hook": "You're already inside. You've heard both sides, carried a few messages, picked a soft side. <strong>The longer you wait, the harder it is to leave clean.</strong>",
+      "truth": "Getting out requires a clear, consistent position delivered to both parties — not a gradual fade. The fade looks like covert allegiance.\n• Fading out signals you've chosen a side and are hiding it. Both parties will speculate about which one you picked.\n• A clear statement to both — same words, same tone — kills the speculation and removes you from the game.\n• Expect short-term pressure. Both parties will try to pull you back. The position holds or it doesn't.",
+      "principle": "Bowen: De-Triangulation",
+      "remember": "Tell both people the same words, then stop taking updates from either side.",
+      "theySee": "A mutual friend calling both parties on the same day, saying the same calm sentence to each one, and then going genuinely quiet for two weeks.",
+      "signals": [
+        {
+          "l": "Progress-report asks",
+          "t": "One party asks if you've spoken to the other — trying to use you as a live status update.",
+          "icon": "📋"
+        },
+        {
+          "l": "Loyalty test",
+          "t": "Either party says or implies: 'If you were really my friend, you would...'",
+          "icon": "🧪"
+        },
+        {
+          "l": "New info drop",
+          "t": "One party texts you a fresh development to restart your engagement in the conflict.",
+          "icon": "📲"
+        },
+        {
+          "l": "Cold treatment",
+          "t": "One or both go quiet toward you after you step back — punishment for leaving the role.",
+          "icon": "🧊"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your one statement now",
+          "desc": "Draft the exact sentence you will say to both parties: 'I care about both of you. I'm not in the middle of this anymore. Work it out directly.' Write it down. Commit to those words exactly."
+        },
+        {
+          "n": "2",
+          "title": "Deliver it to both within 24 hours",
+          "desc": "Call or message both people on the same day. Same words. Same tone. Don't use one conversation as a test run before the other. Both get the identical message."
+        },
+        {
+          "n": "3",
+          "title": "Hold the blackout for 14 days",
+          "desc": "After delivery, don't take any updates about the conflict from either party for two weeks. If they bring it up, say: 'I'm staying out of this.' End the conversation there. No exceptions."
+        }
+      ],
+      "script": "\"I care about you both. I'm not in the middle of this anymore — you need to work it out between you.\"",
+      "counter": "If someone tries to pull you back in after you've stepped out, that's the triangle resisting. The harder they push, the more essential your position was to keeping the system running.\n• Notice: re-entry attempts disguised as 'just checking in' or 'one quick update.'\n• Say: \"I'm still staying out of this.\"\n• Do: don't negotiate. Don't explain again. The position holds or it doesn't.",
+      "insight": "Most people fade rather than step out cleanly — it feels kinder. The fade is actually harder on both parties because it looks like covert allegiance. Leaving cleanly, even if it stings, ends your role in the triangle faster than months of gradual withdrawal."
+    }
+  ]
+}
