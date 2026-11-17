@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 98,
+  "manifestVersion": 99,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -936,7 +936,20 @@
       "url": "playbooks/playbook-srv-everything-they-said-was-technically-true.json",
       "addedAt": "2026-11-16T23:15:17.238Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-the-triangle-dossier",
+      "title": "The Triangle Dossier",
+      "theme": "triangulation",
+      "topic": "Spotting triangulation between two people",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1B2A4A",
+      "coverIcon": "🔺",
+      "url": "playbooks/playbook-srv-the-triangle-dossier.json",
+      "addedAt": "2026-11-17T22:07:43.455Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-11-16T23:15:17.238Z"
+  "generatedAt": "2026-11-17T22:07:43.455Z"
 }
