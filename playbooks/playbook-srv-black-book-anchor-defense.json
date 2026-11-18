@@ -1,0 +1,705 @@
+{
+  "meta": {
+    "id": "srv-black-book-anchor-defense",
+    "version": "1.0",
+    "title": "Black Book: Anchor Defense",
+    "subtitle": "12 moves for when they go first and expect you to follow",
+    "description": "Every first offer is an attempt to set the range on their terms. This dossier covers how to recognize the move, defuse it, counter it with data, and walk when the number is simply wrong. Read in order — each card assumes the last.",
+    "author": "AI",
+    "createdAt": "2026-11-18T21:45:45.349Z",
+    "tags": [
+      "negotiation",
+      "anchoring",
+      "first offer",
+      "counter-anchoring",
+      "pricing",
+      "deals"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1a1a2e",
+    "coverIcon": "⚓",
+    "fromServer": true,
+    "generation": {
+      "topic": "Defending against an anchor in a first offer",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "recognition",
+      "label": "Spotting the Anchor",
+      "color": "#4a4e69"
+    },
+    {
+      "key": "psychology",
+      "label": "Mental Game",
+      "color": "#22223b"
+    },
+    {
+      "key": "defuse",
+      "label": "Defusing the Anchor",
+      "color": "#2d6a4f"
+    },
+    {
+      "key": "counter",
+      "label": "Counter-Anchoring",
+      "color": "#9b2226"
+    },
+    {
+      "key": "preparation",
+      "label": "Pre-Meeting Work",
+      "color": "#333f58"
+    },
+    {
+      "key": "intelligence",
+      "label": "Information Edge",
+      "color": "#5c4033"
+    },
+    {
+      "key": "exit",
+      "label": "Walking Away",
+      "color": "#1b1b1b"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "recognition",
+      "danger": "low",
+      "title": "Recognize an Anchor the Moment It Lands",
+      "hook": "Every first number someone throws at you is a trap. <strong>Your brain starts measuring everything against that number</strong> — whether you agree with it or not.",
+      "truth": "The anchor works before you say a single word back.\n• The first number sets the mental reference point for everything that follows.\n• You feel pulled toward their number even when you know it is wrong.\n• The trap is thinking awareness alone makes you immune — it does not.",
+      "principle": "Tversky & Kahneman: Anchoring Bias",
+      "remember": "The first number they say stays in your head. Know it.",
+      "theySee": "A negotiator who pauses, writes something down, and says nothing back.",
+      "signals": [
+        {
+          "l": "Eye contact hold",
+          "t": "They name the number and stare at you, waiting to see if you flinch.",
+          "icon": "👁"
+        },
+        {
+          "l": "Fast delivery",
+          "t": "They say the number quickly, as if it is already settled.",
+          "icon": "💨"
+        },
+        {
+          "l": "Round number",
+          "t": "The offer is a clean round figure with no explanation attached.",
+          "icon": "🔢"
+        },
+        {
+          "l": "No data given",
+          "t": "They state the price without any research or justification behind it.",
+          "icon": "📋"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Label it immediately",
+          "desc": "Write down their number and write 'anchor attempt' next to it in your notes before saying anything."
+        },
+        {
+          "n": "2",
+          "title": "Pause for three seconds",
+          "desc": "Say nothing. Hold still. The silence is yours — use it to reset before you respond."
+        },
+        {
+          "n": "3",
+          "title": "Pick your next move now",
+          "desc": "Choose one before speaking: ignore it, ask a question about it, or reject it. Do not respond without deciding first."
+        }
+      ],
+      "script": "\"I hear you. Let me think about that for a second.\"",
+      "counter": "Anchors work on you too — and sometimes you drop them without knowing it.\n• You name a number first and watch their face tighten — your anchor landed.\n• They pause longer than expected — that means your number registered.\n• If they pivot immediately, your number was lower than their target.",
+      "insight": "Knowing you are being anchored reduces the pull by maybe 10 percent. The other 90 percent requires a different move."
+    },
+    {
+      "id": 2,
+      "cat": "psychology",
+      "danger": "moderate",
+      "title": "Don't React When They Name Their Number",
+      "hook": "Your face is a negotiation. <strong>The moment you react to their anchor, you tell them exactly how far off they were.</strong>",
+      "truth": "A visible reaction hands free information to the other side.\n• They watch your body to know if their anchor was aggressive enough.\n• A flinch tells them you are surprised — meaning they may have opened too high.\n• Staying flat keeps them guessing and costs you nothing.",
+      "principle": "Voss: Tactical Empathy",
+      "remember": "Keep your face still. Any reaction is a signal they will use.",
+      "theySee": "A seller who shows no reaction after the number lands — just a neutral face and a slow pen.",
+      "signals": [
+        {
+          "l": "Their lean forward",
+          "t": "They shift toward you right after naming the number, hunting for a reaction.",
+          "icon": "↗"
+        },
+        {
+          "l": "Trailing sentence",
+          "t": "They add 'so...' or 'anyway...' after the number, waiting for you to fill the silence.",
+          "icon": "💬"
+        },
+        {
+          "l": "Held smile",
+          "t": "They smile and hold it after naming the number — a tell that they are watching for your response.",
+          "icon": "😐"
+        },
+        {
+          "l": "Quick follow-up",
+          "t": "They immediately add justification after the number, suggesting they expect pushback.",
+          "icon": "⚡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Rehearse a flat reaction",
+          "desc": "Before the meeting, practice hearing a low number out loud. Hold a neutral face for three seconds in front of a mirror."
+        },
+        {
+          "n": "2",
+          "title": "Write it down slowly",
+          "desc": "In the room, write their number down slowly. Slow movement signals control, not panic."
+        },
+        {
+          "n": "3",
+          "title": "Respond with one neutral question",
+          "desc": "Ask: 'How did you get to that number?' It is neutral, it buys time, and it makes them justify themselves."
+        }
+      ],
+      "script": "\"Interesting. How did you arrive at that number?\"",
+      "counter": "They may control their face too. Watch the hands and feet — those leak more than faces.\n• Fingers tapping or foot movement after your counter means their anchor did not land where they wanted.\n• Stillness may mean you are inside their real target range — not a win for you.\n• The tell is what they do after silence, not during it.",
+      "insight": "A flat face defends you once. The harder problem is what you do in the next thirty seconds."
+    },
+    {
+      "id": 3,
+      "cat": "defuse",
+      "danger": "moderate",
+      "title": "Defuse the Anchor Before You Counter",
+      "hook": "Throwing a counter-number at an anchor without defusing it first is a mistake. <strong>You silently confirm their number belongs in the conversation.</strong>",
+      "truth": "Jumping straight to a counter tells them their number was close enough to react to.\n• A counter without a defuse puts both numbers on the table as if they belong in the same range.\n• The other side reads your counter as confirmation that their anchor was reasonable.\n• Defuse first, then counter — two moves, not one.",
+      "principle": "PON Harvard: Defuse-Before-Counter",
+      "remember": "Say their number is off before you say yours.",
+      "theySee": "A seller who does not panic and does not play along — they push back calmly before offering anything.",
+      "signals": [
+        {
+          "l": "Calm delivery",
+          "t": "They state the anchor without hesitation — they have used this move before and expect a counter.",
+          "icon": "🧊"
+        },
+        {
+          "l": "Single number",
+          "t": "They give one number, not a range, suggesting they expect you to work around it.",
+          "icon": "1️⃣"
+        },
+        {
+          "l": "Silence after",
+          "t": "They stop talking after the number and let the silence pressure you to respond.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Formal tone",
+          "t": "They deliver the number with unusual formality, as if it is already agreed.",
+          "icon": "🎩"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the gap out loud",
+          "desc": "Say: 'That number is a long way from where we are.' Make it concrete, not emotional."
+        },
+        {
+          "n": "2",
+          "title": "Give two reasons",
+          "desc": "State two facts that explain why their number does not work — market rate, your costs, comparable deals."
+        },
+        {
+          "n": "3",
+          "title": "Then bring your counter",
+          "desc": "Now drop your number. It lands as a justified response, not a reaction to theirs."
+        }
+      ],
+      "script": "\"I'm not trying to play games, but we're miles apart. That number doesn't reflect the market. Here's where we actually are: [your number].\"",
+      "counter": "When someone defuses your anchor before countering, they are running this exact move on you.\n• Notice if they reject your number before giving theirs — they read the same playbook.\n• Do not treat their defuse as emotional — it is tactical.\n• Let them finish, then ask: 'What data are you working from?'",
+      "insight": "Defusing before countering is clean — but only if your counter has real data behind it. Without that, it is just attitude."
+    },
+    {
+      "id": 4,
+      "cat": "psychology",
+      "danger": "low",
+      "title": "Never Say Their Anchor Number Out Loud",
+      "hook": "Every time you repeat their number, you make it more real. <strong>Say it three times and you have built a mental landmark you will negotiate toward.</strong>",
+      "truth": "Repeating an anchor number makes it heavier in both minds, not just theirs.\n• Each time the number is spoken, it gets stronger as a reference point.\n• You signal that their number is a valid place to start.\n• The move is to acknowledge the offer without echoing the number.",
+      "principle": "Tversky & Kahneman: Anchoring Bias",
+      "remember": "Don't say their number. Not once. Not even to reject it.",
+      "theySee": "A negotiator who discusses the offer without ever saying the figure back — the buyer notices the number was never echoed.",
+      "signals": [
+        {
+          "l": "They restate it",
+          "t": "They repeat the number after you respond, trying to get you to say it back.",
+          "icon": "🔁"
+        },
+        {
+          "l": "Direct question",
+          "t": "They ask 'So you're saying [their number] doesn't work?' — forcing you to name it.",
+          "icon": "❓"
+        },
+        {
+          "l": "Third-party quote",
+          "t": "They reference someone else who 'agreed to that number' to make it sound settled.",
+          "icon": "👥"
+        },
+        {
+          "l": "Written and pushed",
+          "t": "They write their number on paper and slide it across the table to anchor it visually.",
+          "icon": "📄"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Catch yourself before you speak",
+          "desc": "Before responding, check: are you about to say their number? If yes, rephrase using 'that figure' or 'your opening.'"
+        },
+        {
+          "n": "2",
+          "title": "Use replacements throughout",
+          "desc": "In every response today, replace their number with 'that figure' or 'your opening position.' Practice it once before the room."
+        },
+        {
+          "n": "3",
+          "title": "Replace it with yours",
+          "desc": "Name your number clearly and specifically. Make yours the number in the air."
+        }
+      ],
+      "script": "\"That figure doesn't match the market. What we're looking at is [your number], and here's why.\"",
+      "counter": "If your counterpart stops saying your number and starts saying 'that figure,' they are running this move.\n• They are trying to erase your anchor from the conversation.\n• Restate your number once more, clearly, with one data point.\n• Do not chase them off topic — hold your position and name your number again.",
+      "insight": "The number that gets repeated most tends to become the center of the deal. Control what gets said, and you control where the middle lands."
+    },
+    {
+      "id": 5,
+      "cat": "defuse",
+      "danger": "low",
+      "title": "Ask Questions Before You React to Their Offer",
+      "hook": "A question is a stall. <strong>It is also a weapon.</strong> Ask for the logic behind their number and they have to defend something they may have made up.",
+      "truth": "Most anchors have no real logic behind them. A good question exposes that fast.\n• They throw a number hoping you will not ask where it came from.\n• A sharp question forces them to justify something they may have invented.\n• If their answer is weak, you do not need to refute it — it falls apart by itself.",
+      "principle": "Voss: Calibrated Questions",
+      "remember": "Ask where their number came from. Most people can't answer well.",
+      "theySee": "A seller asking calm, specific questions instead of immediately arguing the number.",
+      "signals": [
+        {
+          "l": "Brief pause after question",
+          "t": "They pause after you ask, suggesting the number was not backed by real data.",
+          "icon": "⏸"
+        },
+        {
+          "l": "Vague answer",
+          "t": "They say 'that's just what we're working with' or 'that's the budget' — no real justification.",
+          "icon": "🌫"
+        },
+        {
+          "l": "Topic shift",
+          "t": "They try to redirect after your question, avoiding having to defend the number.",
+          "icon": "↪"
+        },
+        {
+          "l": "Citing others",
+          "t": "They reference a competitor's price or someone else's deal to dodge answering directly.",
+          "icon": "🗣"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three questions before the meeting",
+          "desc": "Prepare these now: 'How did you get to that number?', 'What does that figure include?', 'What is driving that budget?'"
+        },
+        {
+          "n": "2",
+          "title": "Ask your first question immediately",
+          "desc": "After they anchor, do not respond to the number. Ask your first prepared question right away."
+        },
+        {
+          "n": "3",
+          "title": "Let the silence do the work",
+          "desc": "After asking, wait. Do not fill the quiet. Their answer — or inability to answer — tells you exactly how solid the anchor is."
+        }
+      ],
+      "script": "\"Help me understand — how did you land on that number?\"",
+      "counter": "When someone questions your anchor instead of countering, they are stalling and probing.\n• A sharp, specific question means they came prepared.\n• If you cannot defend your number with data, say so and move to a range.\n• A question you answer weakly shifts the upper hand to them.",
+      "insight": "Questions buy time, expose weak anchors, and cost you nothing — until they ask a question back that you cannot answer."
+    },
+    {
+      "id": 6,
+      "cat": "defuse",
+      "danger": "low",
+      "title": "Change the Subject After You Question the Anchor",
+      "hook": "Their anchor is a magnet. The longer you stay near it, the harder it pulls. <strong>Ask your questions, then drag the conversation somewhere else.</strong>",
+      "truth": "Anchors keep working as long as the number stays in the air.\n• Every minute you spend discussing their number makes it more real.\n• Moving to a different topic resets where the conversation is centered.\n• They want you focused on their number — moving on is a direct counter.",
+      "principle": "Cialdini: Focusing Effect",
+      "remember": "Get the information you need, then move the conversation forward.",
+      "theySee": "A negotiator who asks one or two questions about the offer, then shifts to talking about scope or timeline instead of arguing the price.",
+      "signals": [
+        {
+          "l": "They bring it back",
+          "t": "They try to steer back to their number after you have changed subjects — they want it on the table.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Visible confusion",
+          "t": "They look slightly off-balance when you shift topics — they expected you to stay on the number.",
+          "icon": "😕"
+        },
+        {
+          "l": "Silence again",
+          "t": "They go quiet when you change subjects, unsure how to reconnect to their anchor.",
+          "icon": "🔕"
+        },
+        {
+          "l": "New question from them",
+          "t": "They ask a question about your new topic — they have engaged, the anchor is losing its hold.",
+          "icon": "💡"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Ask your two questions",
+          "desc": "Get what you need from their number. Where did it come from? What does it include? Two questions, then stop."
+        },
+        {
+          "n": "2",
+          "title": "Name a different topic immediately",
+          "desc": "Say: 'Before we get into pricing, let me walk you through the scope.' Then start walking. Do not pause."
+        },
+        {
+          "n": "3",
+          "title": "Re-anchor on your terms later",
+          "desc": "After 10 to 15 minutes on scope and value, drop your number. It now lands without their number in the air."
+        }
+      ],
+      "script": "\"Before we go further on that — let me show you exactly what's included in what we're offering.\"",
+      "counter": "If they change the subject right after you anchor, they are doing this to you.\n• Do not follow them into the new topic without noting what happened.\n• Bring your number back once: 'Before we continue, I want to make sure [your number] is on the table.'\n• If they deflect twice, they are running a full anchor-erase strategy.",
+      "insight": "Changing the subject works until they come back to their number at the end of the meeting. You still need a counter-anchor ready."
+    },
+    {
+      "id": 7,
+      "cat": "counter",
+      "danger": "moderate",
+      "title": "Build Your Counter-Anchor on Market Data",
+      "hook": "A counter-number without data behind it is just an argument. <strong>A counter-number with data behind it is a new reality.</strong>",
+      "truth": "The side with better data controls what number the conversation centers on.\n• A data-backed counter-anchor shifts the whole range, not just your opening.\n• Their number loses weight the moment you produce a credible benchmark.\n• The trap: bad data or made-up data destroys your credibility permanently.",
+      "principle": "Fisher & Ury: Objective Criteria (Getting to Yes)",
+      "remember": "Your number needs a reason. Data is the reason.",
+      "theySee": "A seller pulling out market research or comparable deal numbers and placing them on the table.",
+      "signals": [
+        {
+          "l": "Their number moves",
+          "t": "They adjust their position after you present data — it is working.",
+          "icon": "📉"
+        },
+        {
+          "l": "They question the source",
+          "t": "They challenge where your data came from — they want to discredit it, which means it landed.",
+          "icon": "🔍"
+        },
+        {
+          "l": "Longer silence",
+          "t": "After you present data, the silence is longer than before — they are recalculating.",
+          "icon": "⏳"
+        },
+        {
+          "l": "Scope concession",
+          "t": "They offer a change to the scope rather than holding their number — they are off their anchor.",
+          "icon": "📦"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Gather three data points before the meeting",
+          "desc": "Find market rate, a comparable recent deal, and your cost floor. Write them down with sources before you walk in."
+        },
+        {
+          "n": "2",
+          "title": "Tie each data point to their situation",
+          "desc": "Connect the data to their world specifically: 'The market rate for this scope in your sector runs between X and Y.'"
+        },
+        {
+          "n": "3",
+          "title": "Attach a benefit to your number",
+          "desc": "Do not just name your price — say what they get for it. Numbers with a clear benefit attached land harder."
+        }
+      ],
+      "script": "\"Our analysis puts this at [your number]. The market benchmark for this scope is [X], and that tracks with what your CFO flagged as the target range.\"",
+      "counter": "When they hit you with data to back a counter-anchor, do not fold — question the source first.\n• Ask: 'Where is that benchmark from? How recent is it?'\n• Old or general data does not apply to your specific deal — say so.\n• Your own data, if stronger, now has room to land.",
+      "insight": "The side with better data wins the reference point — but only if the other side believes the data is real. Fabricated benchmarks destroy you if caught."
+    },
+    {
+      "id": 8,
+      "cat": "counter",
+      "danger": "high",
+      "title": "Drop Your Counter-Anchor High and Hold It",
+      "hook": "A counter-anchor whispered apologetically is not a counter-anchor. <strong>It is a surrender with extra steps.</strong>",
+      "truth": "Confidence sets the range more than the number does.\n• A number stated with hesitation signals that you do not believe it yourself.\n• They calibrate how hard to push based on how firm you sound.\n• The tone of delivery changes how the number lands more than the number itself.",
+      "principle": "Cialdini: Commitment & Consistency",
+      "remember": "State your number once, clearly, and stop talking.",
+      "theySee": "A seller who names a specific number, sets it down like it is already agreed, and then goes quiet.",
+      "signals": [
+        {
+          "l": "Their counter drops",
+          "t": "They come back with a number closer to yours than to their opening — confidence is working.",
+          "icon": "📊"
+        },
+        {
+          "l": "Shift to concessions",
+          "t": "They stop challenging your number and start asking for extras — the price is becoming real to them.",
+          "icon": "🎁"
+        },
+        {
+          "l": "Engagement past price",
+          "t": "They ask about delivery, timeline, or extras — engagement beyond the number means it is in range.",
+          "icon": "📅"
+        },
+        {
+          "l": "Long think time",
+          "t": "They take longer before responding — your counter-anchor landed harder than expected.",
+          "icon": "🤔"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Pick your number before the room",
+          "desc": "Decide your counter-anchor in advance. High but defensible. Know the one data point that backs it up."
+        },
+        {
+          "n": "2",
+          "title": "Name the number and give one reason",
+          "desc": "State your number and attach one clear reason. Not three — one. More reasons signal that you are not sure of yourself."
+        },
+        {
+          "n": "3",
+          "title": "Stop talking after you say it",
+          "desc": "After your number and reason, go silent. The first person to speak after the anchor usually concedes."
+        }
+      ],
+      "script": "\"We're at [your number]. That reflects [one reason]. I'm happy to walk you through what's included.\"",
+      "counter": "If they give you a high number, stated flat, then go silent — they are using this move on you.\n• Do not feel pressure to fill the silence. Let it sit.\n• Ask: 'Walk me through what gets me to that number.'\n• Making them explain the number takes the confidence move apart.",
+      "insight": "Silence after a counter-anchor is pressure. Most people break it by conceding. The harder move is knowing when their silence means they are done thinking, not just processing."
+    },
+    {
+      "id": 9,
+      "cat": "counter",
+      "danger": "high",
+      "title": "Reject the Anchor Outright When It Is Too Far Off",
+      "hook": "Some numbers are so low they are not an opening — they are an insult. <strong>Treat them like one and say so plainly.</strong>",
+      "truth": "Negotiating off an extreme anchor accepts it as a valid starting point.\n• If you counter a number that is miles off, you have told them the range starts there.\n• A direct rejection, backed by two reasons, moves the conversation to a real starting point.\n• The risk: rejection must be followed immediately by a counter-anchor, or you have just walked out.",
+      "principle": "BATNA: Best Alternative to a Negotiated Agreement",
+      "remember": "Reject it out loud, give two reasons, then name your real number.",
+      "theySee": "A seller saying clearly that the opening number is not a basis for discussion — not angry, just flat.",
+      "signals": [
+        {
+          "l": "Extreme gap",
+          "t": "Their number is more than 30 to 40 percent away from any realistic market figure.",
+          "icon": "📏"
+        },
+        {
+          "l": "No data attached",
+          "t": "They offer the extreme number with no supporting reason — it is a test, not a position.",
+          "icon": "🎲"
+        },
+        {
+          "l": "Eye contact breaks",
+          "t": "They say the number but break eye contact or add qualifiers — they know it is aggressive.",
+          "icon": "👀"
+        },
+        {
+          "l": "Instant walk-back",
+          "t": "They say 'well, that is just a starting point' immediately after naming the number.",
+          "icon": "🔙"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Say the rejection plainly",
+          "desc": "Do not hedge. Say: 'That number is not a basis for us to negotiate from.' Then stop."
+        },
+        {
+          "n": "2",
+          "title": "Give exactly two reasons",
+          "desc": "State two facts: market rate, your cost floor, comparable deals. No more. More sounds defensive."
+        },
+        {
+          "n": "3",
+          "title": "Drop your counter-anchor immediately",
+          "desc": "Follow the rejection with your number. The gap between theirs and yours is now the negotiation."
+        }
+      ],
+      "script": "\"That's not a number we can work from. The market sits at [X], and our floor is [Y]. Here's where we can actually have a conversation: [your number].\"",
+      "counter": "If they reject your anchor outright, do not take it personally — assess whether their counter has real data.\n• Ask: 'What are you basing that on?'\n• If their data is solid, your anchor may have been too aggressive.\n• If their data is weak, hold your position and ask the question again.",
+      "insight": "A clean rejection is only as good as the counter that follows. No counter means you have just ended the negotiation."
+    },
+    {
+      "id": 10,
+      "cat": "preparation",
+      "danger": "low",
+      "title": "Set Your Walk-Away Number Before You Enter the Room",
+      "hook": "If you do not know your lowest acceptable number before the meeting starts, you will figure it out in the room — under pressure, in front of them. <strong>That is the worst possible time.</strong>",
+      "truth": "Your walk-away number is your only real defense against a great anchor.\n• Without a set floor, any anchor pulls your decision-making in real time.\n• A floor decided in advance survives pressure. One decided in the moment rarely does.\n• Setting your floor also stops you from anchoring yourself too low without realizing it.",
+      "principle": "Fisher & Ury: Reservation Value",
+      "remember": "Decide your floor before you go in. Never during.",
+      "theySee": "A seller who does not hesitate when pushed below a certain number — they just stop, clearly already decided.",
+      "signals": [
+        {
+          "l": "Urgency push",
+          "t": "They create urgency to force a decision before you have had time to recalculate your position.",
+          "icon": "⏰"
+        },
+        {
+          "l": "Small steps down",
+          "t": "They push you down in small amounts — $500 at a time — to get past your floor without triggering a walkout.",
+          "icon": "👣"
+        },
+        {
+          "l": "New conditions added",
+          "t": "They accept your floor but add conditions that make the deal worse than the number suggests.",
+          "icon": "📎"
+        },
+        {
+          "l": "False deadline",
+          "t": "They set a 'today only' or 'by end of week' condition to push you to decide before you are ready.",
+          "icon": "🗓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your floor number now",
+          "desc": "Before the meeting, write the minimum you will accept. Not a range — a specific number on paper."
+        },
+        {
+          "n": "2",
+          "title": "Write what you will do if they go below it",
+          "desc": "Decide in advance: delay, walk, or propose an alternative structure. Do not improvise this under pressure."
+        },
+        {
+          "n": "3",
+          "title": "Set your opening relative to the floor",
+          "desc": "Your opening should be high enough that landing on your floor feels like a win for them."
+        }
+      ],
+      "script": "\"I appreciate the conversation, but we're below what makes this work for us. I need to pause here.\"",
+      "counter": "When you sense someone has a hard floor, probe around it — do not push through it.\n• Ask about structure, payment timing, or extras rather than the headline number.\n• Sometimes the floor is on cash, not total value.\n• A deal restructured around their floor often closes faster than one that tries to push through it.",
+      "insight": "A floor protects you, but setting it too high kills deals you should have taken. The harder work is calibrating it right."
+    },
+    {
+      "id": 11,
+      "cat": "intelligence",
+      "danger": "moderate",
+      "title": "Research Their Willingness to Pay Before the Meeting",
+      "hook": "If you know their ceiling before they name a number, their anchor is harmless. <strong>If you do not, you are guessing — and they know it.</strong>",
+      "truth": "Information before the meeting is worth ten moves inside the meeting.\n• The less you know about what they will pay, the more their anchor controls you.\n• A buyer who knows you are uninformed opens more aggressively.\n• One specific data point about their real budget or past deals changes the whole room.",
+      "principle": "ZOPA: Zone of Possible Agreement",
+      "remember": "The more you know their ceiling, the less their opening hurts you.",
+      "theySee": "A seller who does not react to the opening number — almost as if they already knew it was coming.",
+      "signals": [
+        {
+          "l": "Familiar number",
+          "t": "Their anchor is close to what a past deal or public source suggested — they are using a known benchmark.",
+          "icon": "📌"
+        },
+        {
+          "l": "Fast justification",
+          "t": "They justify the number quickly, suggesting it is based on research, not gut.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Reference to others",
+          "t": "They mention what 'others pay' or 'standard rates' — they have done their homework.",
+          "icon": "🗂"
+        },
+        {
+          "l": "No hesitation",
+          "t": "They name the number without pausing — they came in with it prepared well before the meeting.",
+          "icon": "🎯"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find one public data point on their budget",
+          "desc": "Search their company news, public filings, or industry sources for any mention of past deal sizes or budget ranges before you walk in."
+        },
+        {
+          "n": "2",
+          "title": "Text one contact who knows them",
+          "desc": "Send: 'Quick question — what do [company] typically pay for X?' One real number beats ten guesses."
+        },
+        {
+          "n": "3",
+          "title": "Set your opening based on what you learn",
+          "desc": "If you know their ceiling, write your opening number now — above it. If you are still uncertain, let them go first and collect data."
+        }
+      ],
+      "script": "\"Based on what I've seen in deals like this, the range tends to run between [X] and [Y]. Where does your team typically sit on that?\"",
+      "counter": "If they seem to know your pricing before you open, they have done this research on you.\n• Do not confirm or deny specific numbers without thinking it through.\n• Change a variable — scope, timeline, structure — to shift off the benchmark they prepared.\n• Your pricing history is public if they know where to look.",
+      "insight": "Knowing their ceiling before they anchor is the strongest defense available. The move that follows is deciding whether to go first yourself or let them open."
+    },
+    {
+      "id": 12,
+      "cat": "exit",
+      "danger": "extreme",
+      "title": "Walk Away When the Deal Does Not Work",
+      "hook": "There are deals you should not take. <strong>Knowing this in advance is the difference between a bad deal and no deal — and no deal is often better.</strong>",
+      "truth": "A bad deal accepted under anchor pressure costs more than no deal.\n• Accepting a number below your floor just to close sets the price for every future deal with this buyer.\n• The other side reads your acceptance as proof they can anchor you again next time.\n• Walking away with a clear reason changes the dynamic more than any counter-move in the room.",
+      "principle": "Fisher & Ury: BATNA — Walk-Away Power",
+      "remember": "A bad deal today locks in a worse deal tomorrow.",
+      "theySee": "A seller who stands up, thanks them, and starts to leave without emotional drama — just done.",
+      "signals": [
+        {
+          "l": "Number won't move",
+          "t": "Three rounds of back-and-forth and their number has not moved more than 5 percent — they are holding the anchor.",
+          "icon": "🧱"
+        },
+        {
+          "l": "New conditions appear",
+          "t": "Every time you get close, new conditions appear that push the real value below your floor.",
+          "icon": "📋"
+        },
+        {
+          "l": "Time pressure from them",
+          "t": "They keep pushing for a decision today — urgency is a signal they need you more than they are showing.",
+          "icon": "⏱"
+        },
+        {
+          "l": "Floor already reached",
+          "t": "Their current number is at or below the walk-away number you set before the meeting.",
+          "icon": "🚨"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Name the gap plainly",
+          "desc": "Say: 'We're below what works for us and I don't see a path to close that gap today.' Short. No apology."
+        },
+        {
+          "n": "2",
+          "title": "Leave the door open if you want",
+          "desc": "Say: 'If the budget changes, we're happy to come back.' Then leave. Do not negotiate on the way out."
+        },
+        {
+          "n": "3",
+          "title": "Follow up in 48 hours if you choose",
+          "desc": "Send one line: 'Happy to revisit if the parameters change.' Short. No desperation in the message."
+        }
+      ],
+      "script": "\"I don't think we can get to a number that works for both of us today. I'd rather leave this open than close something that doesn't hold up.\"",
+      "counter": "If they walk, do not chase immediately — it may be a tactic.\n• Wait 24 hours before reaching out.\n• If they come back, your position is stronger than it was before they left.\n• If they do not come back, your walk-away number was right.",
+      "insight": "Walking away is the most powerful move in any negotiation — and the hardest to do when you need the deal. The real question is whether your alternative is as strong as you told yourself it was."
+    }
+  ]
+}

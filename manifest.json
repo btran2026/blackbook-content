@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 98,
+  "manifestVersion": 99,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -936,7 +936,20 @@
       "url": "playbooks/playbook-srv-everything-they-said-was-technically-true.json",
       "addedAt": "2026-11-16T23:15:17.238Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-anchor-defense",
+      "title": "Black Book: Anchor Defense",
+      "theme": "negotiation",
+      "topic": "Defending against an anchor in a first offer",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1a1a2e",
+      "coverIcon": "⚓",
+      "url": "playbooks/playbook-srv-black-book-anchor-defense.json",
+      "addedAt": "2026-11-18T21:45:45.349Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-11-16T23:15:17.238Z"
+  "generatedAt": "2026-11-18T21:45:45.349Z"
 }
