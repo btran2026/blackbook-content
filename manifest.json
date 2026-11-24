@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 98,
+  "manifestVersion": 99,
   "playbooks": [
     {
       "id": "srv-black-book-spot-the-move",
@@ -936,7 +936,20 @@
       "url": "playbooks/playbook-srv-everything-they-said-was-technically-true.json",
       "addedAt": "2026-11-16T23:15:17.238Z",
       "minTier": "pro"
+    },
+    {
+      "id": "srv-black-book-composure",
+      "title": "Black Book: Composure",
+      "theme": "composure",
+      "topic": "Recovering composure after you stumble in public",
+      "cardCount": 12,
+      "contentVersion": 1,
+      "coverColor": "#1A1F36",
+      "coverIcon": "🧊",
+      "url": "playbooks/playbook-srv-black-book-composure.json",
+      "addedAt": "2026-11-24T01:28:01.214Z",
+      "minTier": "pro"
     }
   ],
-  "generatedAt": "2026-11-16T23:15:17.238Z"
+  "generatedAt": "2026-11-24T01:28:01.214Z"
 }

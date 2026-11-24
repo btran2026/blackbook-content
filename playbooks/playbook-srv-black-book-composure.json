@@ -1,0 +1,700 @@
+{
+  "meta": {
+    "id": "srv-black-book-composure",
+    "version": "1.0",
+    "title": "Black Book: Composure",
+    "subtitle": "Recover fast. Leave no damage behind.",
+    "description": "Twelve moves for getting your footing back after a public stumble — in the room, after the room, and when someone tries to use it against you.",
+    "author": "AI",
+    "createdAt": "2026-11-24T01:28:01.214Z",
+    "tags": [
+      "composure",
+      "public speaking",
+      "recovery",
+      "status",
+      "confidence",
+      "social moves"
+    ],
+    "totalCards": 12,
+    "isSeeded": true,
+    "coverColor": "#1A1F36",
+    "coverIcon": "🧊",
+    "fromServer": true,
+    "generation": {
+      "topic": "Recovering composure after you stumble in public",
+      "cardCount": 12,
+      "categories": [],
+      "tone": "practical"
+    }
+  },
+  "categories": [
+    {
+      "key": "instant",
+      "label": "In the Moment",
+      "color": "#C0392B"
+    },
+    {
+      "key": "body",
+      "label": "Body & Voice",
+      "color": "#2980B9"
+    },
+    {
+      "key": "crowd",
+      "label": "Reading the Room",
+      "color": "#27AE60"
+    },
+    {
+      "key": "mind",
+      "label": "Mental Reset",
+      "color": "#8E44AD"
+    },
+    {
+      "key": "rebuild",
+      "label": "Rebuilding After",
+      "color": "#E67E22"
+    },
+    {
+      "key": "defense",
+      "label": "Defense Moves",
+      "color": "#2C3E50"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cat": "instant",
+      "danger": "low",
+      "title": "Take a Pause Before You Say Anything Else",
+      "hook": "Your first instinct after a stumble is to talk faster. <strong>That instinct is wrong.</strong> Silence reads as control. Speed reads as panic.",
+      "truth": "Rushing to cover a mistake tells the room you think it was bad.\n• Silence puts the room on pause — they wait on you, not the other way around.\n• The audience resets their attention to what comes next, not what just happened.\n• The trap: filling that silence with an apology doubles the stumble.",
+      "principle": "Voss: Tactical Silence",
+      "remember": "Stop talking. A short pause looks like control, not panic.",
+      "theySee": "A speaker who stopped mid-sentence, took a slow breath, and looked up at the room before continuing.",
+      "signals": [
+        {
+          "l": "Voice speeds up",
+          "t": "They start talking faster right after the mistake, piling words on top of each other.",
+          "icon": "🗣️"
+        },
+        {
+          "l": "Eyes drop down",
+          "t": "Their gaze falls to notes or the floor instead of the room.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Hands grip hard",
+          "t": "They grab the podium, notes, or their own arm tightly.",
+          "icon": "✋"
+        },
+        {
+          "l": "Choppy short words",
+          "t": "Sentences get cut short and the rhythm of their speech breaks apart.",
+          "icon": "💬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Drop the word mid-sentence",
+          "desc": "Full stop. Don't finish the sentence you stumbled in. Stop completely and hold the silence."
+        },
+        {
+          "n": "2",
+          "title": "Take one visible breath",
+          "desc": "Inhale through the nose, exhale slow. The room reads a visible breath as deliberate, not frozen."
+        },
+        {
+          "n": "3",
+          "title": "Resume at the same pace you had before",
+          "desc": "Don't speed up to get past the stumble. Treat the pause as normal pacing."
+        }
+      ],
+      "script": "\"Let me take a second.\"",
+      "counter": "If someone pauses after YOUR stumble to let it land harder, don't apologize into the gap they left open.\n• Notice: a pause longer than two seconds after your mistake is deliberate pressure, not confusion.\n• Say: pick up your next point at normal volume with no preamble.\n• Do: resume eye contact with the room, not the person who left the gap open.",
+      "insight": "The pause costs two seconds and is free. The harder part is trusting that the room won't fill that silence with judgment — most of the time, they won't."
+    },
+    {
+      "id": 2,
+      "cat": "instant",
+      "danger": "low",
+      "title": "Name the Mistake in One Short Line",
+      "hook": "Trying to hide a stumble nobody missed makes it twice as visible. <strong>Name it and move on in one sentence.</strong>",
+      "truth": "People trust the person who names the mistake more than the person who tries to hide it.\n• A quick acknowledgment closes the loop — they stop waiting for you to notice.\n• The audience shifts from judging you to rooting for you.\n• The trap: over-explaining turns a two-second slip into a sixty-second wound.",
+      "principle": "Cialdini: Liking — Humanizing Move",
+      "remember": "Say the mistake out loud once. Then move on completely.",
+      "theySee": "A speaker who said 'I lost my place for a second' and kept going without drama.",
+      "signals": [
+        {
+          "l": "Eyes look away",
+          "t": "Several people in the room stop making eye contact right after the slip.",
+          "icon": "👀"
+        },
+        {
+          "l": "Front row murmur",
+          "t": "One or two people in the front whisper to each other after the mistake.",
+          "icon": "🤫"
+        },
+        {
+          "l": "Phone check",
+          "t": "Someone checks their phone immediately after the stumble.",
+          "icon": "📱"
+        },
+        {
+          "l": "Face flushes",
+          "t": "Your own face, neck, or ears heat up — your body knows they noticed.",
+          "icon": "🌡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write your one-line acknowledgment beforehand",
+          "desc": "'I lost my place.' 'That came out wrong.' One sentence. Write three options before you go in."
+        },
+        {
+          "n": "2",
+          "title": "Say it at normal volume",
+          "desc": "Don't whisper it or laugh nervously. Same volume as the rest of your talk."
+        },
+        {
+          "n": "3",
+          "title": "Move to your next point immediately",
+          "desc": "Don't pause after the acknowledgment. The next sentence follows without space for drama."
+        }
+      ],
+      "script": "\"That came out wrong — let me say it straight.\"",
+      "counter": "If someone names your mistake in public before you can, don't defend or explain.\n• Notice: they said it in front of others, not privately — that's a status move.\n• Say: 'Fair catch' and pivot immediately to your next point.\n• Do: don't add words to what they said. More words give the moment more weight.",
+      "insight": "The audience forgets the mistake. They remember whether you handled it well or badly. Those are two different things — and only one of them sticks."
+    },
+    {
+      "id": 3,
+      "cat": "body",
+      "danger": "low",
+      "title": "Breathe First, Then Move Your Body",
+      "hook": "After a stumble, your body locks up. <strong>A deep breath and one step breaks the freeze before your mind can.</strong>",
+      "truth": "Physical state drives mental state. Change the body, change the thought.\n• A breath lowers your heart rate fast — your voice steadies within two sentences.\n• Taking one step creates a visual break — the audience sees a new moment begin.\n• Standing frozen while thinking harder just makes the freeze last longer.",
+      "principle": "Embodied Cognition — Damasio Somatic Reset",
+      "remember": "Change your body first. Your brain catches up after.",
+      "theySee": "A presenter who took one step to the side of the podium, inhaled slowly, and resumed at the same volume.",
+      "signals": [
+        {
+          "l": "Shoulders rise up",
+          "t": "Their shoulders move toward their ears — tension they're not releasing.",
+          "icon": "🧍"
+        },
+        {
+          "l": "Voice drops low",
+          "t": "Their volume drops suddenly after the stumble, as if they're trying to disappear.",
+          "icon": "🔇"
+        },
+        {
+          "l": "Feet go still",
+          "t": "Their feet plant and stop moving — they've frozen physically on the spot.",
+          "icon": "🦶"
+        },
+        {
+          "l": "Jaw presses shut",
+          "t": "Their mouth presses closed between sentences — jaw clenching under pressure.",
+          "icon": "😬"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Inhale for 4 counts, visibly",
+          "desc": "Do it in view of the room. The audience reads a visible breath as deliberate, not panicked."
+        },
+        {
+          "n": "2",
+          "title": "Take one step in any direction",
+          "desc": "Left, right, toward the audience — it doesn't matter. Break the physical freeze."
+        },
+        {
+          "n": "3",
+          "title": "Start your next sentence on the exhale",
+          "desc": "Voice and breath sync up. Volume returns. Begin speaking as the air leaves."
+        }
+      ],
+      "script": "\"Let me step forward and walk through this next part.\"",
+      "counter": "If your own body tightens up while watching someone else stumble, run the same reset on yourself.\n• Notice: tension in your jaw, neck, or chest while watching — it shows on your face.\n• Say: nothing. This is a private reset, not a performance.\n• Do: breathe and shift your weight. Your expression changes without you actively trying.",
+      "insight": "The breath and the step work every single time. The harder question is whether you'll remember to use them when your body is already flooded with adrenaline."
+    },
+    {
+      "id": 4,
+      "cat": "crowd",
+      "danger": "low",
+      "title": "The Room Saw Much Less Than You Think",
+      "hook": "Your stumble felt enormous from inside. <strong>From outside, most people barely registered it.</strong>",
+      "truth": "People overestimate how much others notice their mistakes — by a lot.\n• The audience is managing their own thoughts; they're not cataloging yours.\n• Your internal alarm is 10x louder than what shows on the outside.\n• Acting as if everyone saw it makes THEM notice it after the fact.",
+      "principle": "Spotlight Effect — Gilovich",
+      "remember": "You feel the spotlight. The room is barely watching.",
+      "theySee": "A person in the front row who was half-thinking about their own work while the stumble happened on stage.",
+      "signals": [
+        {
+          "l": "Open body language",
+          "t": "The audience still has open posture and forward lean after the slip — they're not pulling back.",
+          "icon": "🪑"
+        },
+        {
+          "l": "No neighbor whisper",
+          "t": "Nobody leans over to whisper to the person next to them after the mistake.",
+          "icon": "🤐"
+        },
+        {
+          "l": "Eye contact holds",
+          "t": "Eye contact from the room stays at the same level it was before the stumble.",
+          "icon": "👁️"
+        },
+        {
+          "l": "Content questions only",
+          "t": "When questions come, they're about your material — not about what just happened.",
+          "icon": "❓"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Watch the room for 5 seconds after the stumble",
+          "desc": "Look for crossed arms, side whispers, or phones. Count what you actually see. Usually: very little."
+        },
+        {
+          "n": "2",
+          "title": "Count how many people look away",
+          "desc": "Fewer than you assumed. This is your real data, not the story your head is telling you."
+        },
+        {
+          "n": "3",
+          "title": "Speak directly to the people who are still engaged",
+          "desc": "Find one face that's still with you. Deliver your next two sentences to them."
+        }
+      ],
+      "script": "\"I want to make sure I'm still making sense — are we good?\"",
+      "counter": "When someone tells you 'everyone noticed' your stumble, don't take their word for it.\n• Notice: they're offering you a story, not a fact.\n• Say: 'How many people, specifically?' They rarely have an answer.\n• Do: ask two people from the room what they remember. Data beats drama.",
+      "insight": "Most stumbles become permanent in YOUR memory and disappear in everyone else's. The gap between those two is where most self-sabotage starts."
+    },
+    {
+      "id": 5,
+      "cat": "body",
+      "danger": "moderate",
+      "title": "Slow Down After a Stumble — Don't Speed Up",
+      "hook": "When you stumble, you want to run past it. <strong>Running past it is exactly what a nervous person does.</strong>",
+      "truth": "Speed is a status leak. High-status people move and talk slowly.\n• The audience calibrates your confidence by your pace, not your words.\n• Rushing tells the room you think what just happened was bad.\n• Rushing to the next point makes the audience look back at what you left behind.",
+      "principle": "Status Asymmetry — Pace as Power Signal",
+      "remember": "Slow down after a stumble. Speeding up signals panic.",
+      "theySee": "A speaker who slowed their delivery down right after a flubbed line and kept their eyes up and steady.",
+      "signals": [
+        {
+          "l": "Words per minute jump",
+          "t": "Their talking speed increases noticeably right after the mistake.",
+          "icon": "⚡"
+        },
+        {
+          "l": "Skipped transition",
+          "t": "They say 'anyway, moving on' and jump to the next point without connecting the threads.",
+          "icon": "⏭️"
+        },
+        {
+          "l": "Mic breathing",
+          "t": "Their breathing becomes audible through the microphone — they're rushing the air out.",
+          "icon": "🎤"
+        },
+        {
+          "l": "Eyes go to slides",
+          "t": "They stop making eye contact and talk directly to their presentation slides instead.",
+          "icon": "📊"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Clock yourself right after the stumble",
+          "desc": "Ask yourself: 'Am I going faster than before?' If yes, slow down consciously. Drop your pace by one gear."
+        },
+        {
+          "n": "2",
+          "title": "Replace a filler word with silence",
+          "desc": "'And, uh' becomes a half-second pause. Silence reads as deliberate. Filler reads as nervous."
+        },
+        {
+          "n": "3",
+          "title": "Make eye contact with one person for one full sentence",
+          "desc": "Hold it. Don't break it mid-sentence. This anchors your pace and your position in the room."
+        }
+      ],
+      "script": "\"Here's the main thing I want you to take away from this.\"",
+      "counter": "If a salesperson or negotiator rushes past a mistake in their pitch, they just said something they know was wrong.\n• Notice: speed increase plus a skipped transition — they want to bury something.\n• Say: 'Hold on — say that last part again.'\n• Do: slow the whole conversation down. Their pace was hiding something specific.",
+      "insight": "Pace is a tell everyone in the room can read without trying. The harder part is that slowing down when you're scared feels like making yourself a bigger target — and that feeling is wrong."
+    },
+    {
+      "id": 6,
+      "cat": "crowd",
+      "danger": "low",
+      "title": "Re-lock the Room With One Open Question",
+      "hook": "After a stumble, the room's attention drifts. <strong>A single direct question snaps it back faster than a perfect next line ever could.</strong>",
+      "truth": "Questions force people to think. Statements let them drift.\n• A good question makes the audience active, not passive — they stop thinking about your stumble.\n• They start thinking about their own answer instead.\n• A yes/no question lets the room check out with a nod and drift again.",
+      "principle": "Voss: Calibrated Question",
+      "remember": "One good question re-locks the room better than a perfect next line.",
+      "theySee": "A presenter who looked up from their notes, pointed toward the room, and asked a real open question.",
+      "signals": [
+        {
+          "l": "Eyes go to phones",
+          "t": "Several people glance at their phones or look at the ceiling.",
+          "icon": "📱"
+        },
+        {
+          "l": "Bodies lean back",
+          "t": "The room shifts from forward lean to sitting back — they've mentally checked out.",
+          "icon": "🪑"
+        },
+        {
+          "l": "Side talk starts",
+          "t": "Small conversations start at the edges of the room.",
+          "icon": "💬"
+        },
+        {
+          "l": "Your energy drops",
+          "t": "You feel the room go flat — your own energy drops because theirs did first.",
+          "icon": "🔋"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write two open questions before you go in",
+          "desc": "'Where does this get complicated for you?' 'What's the biggest version of this problem you've seen?' Have both ready."
+        },
+        {
+          "n": "2",
+          "title": "Drop one right after the stumble",
+          "desc": "Don't announce it as a redirect. Just ask it, naturally, as if it was always next."
+        },
+        {
+          "n": "3",
+          "title": "Let the first answer run without interruption",
+          "desc": "Nod, let them finish. The room wakes up watching a peer speak. Use the time to settle yourself."
+        }
+      ],
+      "script": "\"Before I go further — where does this get complicated for you?\"",
+      "counter": "If someone uses a question to redirect attention away from a mistake THEY just made, answer the question — then come back.\n• Notice: the question came right after their stumble, not before — it's a redirect.\n• Say: 'Good question. And before we move on — the point you were making was...'\n• Do: finish their thought for them. This holds their feet to the fire without aggression.",
+      "insight": "The question works every time. The harder move is knowing when the stumble was bad enough that a question looks like a dodge — and deciding to ask it anyway."
+    },
+    {
+      "id": 7,
+      "cat": "instant",
+      "danger": "moderate",
+      "title": "Make One Joke About It, Then Drop It",
+      "hook": "A well-placed line about your own stumble makes the audience laugh WITH you, not AT you. <strong>But you get exactly one shot at this.</strong>",
+      "truth": "One self-aware joke signals confidence. Two jokes signal you're still thinking about it.\n• The audience relaxes when you laugh at yourself — their guard comes down.\n• A single line turns the stumble into a moment of personality, not failure.\n• Returning to the joke later shows you didn't actually let it go.",
+      "principle": "Benign Violation Theory — McGraw & Warren",
+      "remember": "Make one joke about it. Then never bring it up again.",
+      "theySee": "A presenter who laughed at a fumbled word, delivered one quick line, and was back to business in three seconds.",
+      "signals": [
+        {
+          "l": "Room already smiling",
+          "t": "The audience is already smiling a little at what just happened — the energy is warm.",
+          "icon": "😄"
+        },
+        {
+          "l": "Minor stumble",
+          "t": "The mistake was small — a mispronounced word, a lost page, a tripped step.",
+          "icon": "🪶"
+        },
+        {
+          "l": "You genuinely laughed",
+          "t": "You feel actual amusement, not forced performance — the laugh would be real.",
+          "icon": "😂"
+        },
+        {
+          "l": "Warm room temperature",
+          "t": "The audience is in a good mood and open — not evaluating you hard right now.",
+          "icon": "🌡️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Check the room before you try it",
+          "desc": "If they're warm and already half-smiling, humor works. If they're evaluating you hard, skip it entirely."
+        },
+        {
+          "n": "2",
+          "title": "Write your one-liner before the event",
+          "desc": "Self-deprecating, one sentence. Something you could say naturally. Don't improvise it in the moment."
+        },
+        {
+          "n": "3",
+          "title": "Say it flat, then move on immediately",
+          "desc": "Don't laugh before the punchline. Don't explain it. Say the line, let them laugh, resume the next point."
+        }
+      ],
+      "script": "\"And that is exactly why I don't do this without notes.\"",
+      "counter": "If someone uses a joke to defuse a serious mistake that affected you, don't laugh along.\n• Notice: the humor arrived right as accountability was about to land — timing is the tell.\n• Say: 'I appreciate the humor. I still want to understand what happened with...'\n• Do: stay neutral and hold the original question open. Don't let the laugh close it.",
+      "insight": "Humor as a recovery tool works best when you genuinely don't care much about the stumble. When the stumble was actually bad, the joke looks like a cover. The room knows the difference."
+    },
+    {
+      "id": 8,
+      "cat": "instant",
+      "danger": "low",
+      "title": "Don't Apologize for Stumbles That Don't Need One",
+      "hook": "Most stumbles don't need a reaction at all. <strong>Your face gives them one anyway — and that IS the reaction.</strong>",
+      "truth": "Every micro-expression of shame is a signal to the room that something went wrong.\n• Keeping your face neutral after a stumble makes most of the room miss it entirely.\n• The audience reads your face to decide how to feel about what just happened.\n• Checking yourself for a reaction IS the reaction — and it shows.",
+      "principle": "Greene: Law 30 — Make Your Accomplishments Seem Effortless",
+      "remember": "Don't apologize for stumbles that didn't need an apology.",
+      "theySee": "A presenter whose face didn't change after a stumble, and so the audience's face didn't change either.",
+      "signals": [
+        {
+          "l": "Face flushes red",
+          "t": "Their face heats up visibly — the room can see the blush before they've said a word.",
+          "icon": "🌡️"
+        },
+        {
+          "l": "Eyebrows shoot up",
+          "t": "Their eyebrows rise right after the mistake — a full-face tell of surprise or alarm.",
+          "icon": "😮"
+        },
+        {
+          "l": "Half-step back",
+          "t": "They take a small step backward instinctively, pulling away from what they just said.",
+          "icon": "🦶"
+        },
+        {
+          "l": "Unprompted sorry",
+          "t": "They say 'I'm sorry' or 'excuse me' before anyone complained about anything.",
+          "icon": "🙏"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Practice your neutral face before the event",
+          "desc": "Stand in front of a mirror and practice a calm, flat expression. Know exactly what it feels like on your face."
+        },
+        {
+          "n": "2",
+          "title": "Set the rule out loud to yourself beforehand",
+          "desc": "Say: 'I will not apologize for small mistakes today.' This primes the decision before you're under pressure."
+        },
+        {
+          "n": "3",
+          "title": "Review what you reacted to afterward",
+          "desc": "After the event, note which stumbles got a facial reaction and which didn't. The ones that got nothing were forgotten."
+        }
+      ],
+      "script": "\"And the next point is this.\"",
+      "counter": "If someone watches your face right after a stumble, waiting for a reaction, give them nothing.\n• Notice: they're watching you, not the room — they want your expression to confirm the mistake.\n• Say: nothing extra. Continue your next sentence at normal volume.\n• Do: meet their eyes briefly, then move your gaze to the broader room. The move fails without a signal to use.",
+      "insight": "Effortlessness is not about being perfect. It's about not broadcasting that you noticed your own imperfection. The harder part is that your face learned to react before you can stop it."
+    },
+    {
+      "id": 9,
+      "cat": "mind",
+      "danger": "moderate",
+      "title": "Don't Let One Mistake Rewrite Your Track Record",
+      "hook": "After a stumble, the brain looks for evidence that you don't belong. <strong>It finds more than is actually there.</strong>",
+      "truth": "One public mistake can start a loop where you edit your entire history.\n• Your brain looks for pattern-confirmation — it stacks old mistakes on top of this new one.\n• The audience judged one moment. You judge yourself across your whole history.\n• Waiting to feel confident before acting doesn't work — the action is what creates the feeling.",
+      "principle": "Imposter Syndrome — Clance & Imes",
+      "remember": "One bad moment does not change what you are good at.",
+      "theySee": "A person at a desk the next morning listing every past mistake they can remember, trying to decide if they're good enough.",
+      "signals": [
+        {
+          "l": "Replay loops start",
+          "t": "You replay the stumble more than three times in a row without stopping it.",
+          "icon": "🔁"
+        },
+        {
+          "l": "You cancel upcoming work",
+          "t": "You start pulling back from similar high-visibility tasks on your calendar.",
+          "icon": "❌"
+        },
+        {
+          "l": "You avoid the room",
+          "t": "You actively steer clear of the people who were present during the stumble.",
+          "icon": "🚶"
+        },
+        {
+          "l": "You retell the story",
+          "t": "You bring up the stumble with people who weren't there, explaining what happened.",
+          "icon": "🗣️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write three past wins in the same context",
+          "desc": "Not general wins — wins in the same type of situation where you stumbled. Force specifics: dates, rooms, names."
+        },
+        {
+          "n": "2",
+          "title": "Set a re-entry date within 7 days",
+          "desc": "Choose a date to do the same type of thing again at smaller scale. Write it in your calendar right now."
+        },
+        {
+          "n": "3",
+          "title": "Tell the stumble story one time, then stop",
+          "desc": "Tell it once, to one trusted person. After that, stop retelling it. Every retelling keeps the wound open."
+        }
+      ],
+      "script": "\"I've done this well before. I'll do it well again.\"",
+      "counter": "If someone keeps bringing up your stumble after the fact, don't defend or re-explain.\n• Notice: they bring it up with others present, not privately — that's a status move.\n• Say: 'Noted. Here's what I'm working on now.'\n• Do: redirect immediately to current work. Don't add words to the stumble's story.",
+      "insight": "The stumble grows in your mind because you keep visiting it. Everyone else moved on two days ago. The question is whether you're keeping it alive to protect yourself from trying again."
+    },
+    {
+      "id": 10,
+      "cat": "rebuild",
+      "danger": "low",
+      "title": "Get Back in the Same Situation Within 72 Hours",
+      "hook": "Confidence doesn't return from rest. <strong>It returns from small tries that work.</strong>",
+      "truth": "Each small win in the same context pushes the stumble further back.\n• Belief in yourself is built by doing the thing again, not by thinking positive about it.\n• A small win in the same context is what actually rebuilds you — not an easy win elsewhere.\n• Doing easier things in a different area and calling it recovery doesn't work.",
+      "principle": "Self-Efficacy — Bandura",
+      "remember": "Small wins in the same area work better than big wins somewhere else.",
+      "theySee": "A person who gave a 90-second informal update in a team meeting three days after a bigger stumble — not perfect, but done.",
+      "signals": [
+        {
+          "l": "Same situation avoided",
+          "t": "You've steered clear of the same type of situation for more than a week.",
+          "icon": "🚫"
+        },
+        {
+          "l": "Doing easier work",
+          "t": "You're taking on simpler tasks in different areas to feel better, not to rebuild.",
+          "icon": "🧩"
+        },
+        {
+          "l": "Ready but stalling",
+          "t": "You feel prepared to try again but keep finding reasons to delay.",
+          "icon": "⏳"
+        },
+        {
+          "l": "Prep time doubled",
+          "t": "Your preparation time for the same type of task has doubled since the stumble.",
+          "icon": "📋"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Find the smallest version of what you stumbled at",
+          "desc": "One person instead of a room. Five minutes instead of an hour. Same type of task, smaller scale."
+        },
+        {
+          "n": "2",
+          "title": "Schedule it within 72 hours",
+          "desc": "Not 'soon.' A specific date and time in your calendar. The gap between stumble and next try matters."
+        },
+        {
+          "n": "3",
+          "title": "Write down what went right afterward",
+          "desc": "Not just that you survived — what specifically worked. Three things. Write them down the same day."
+        }
+      ],
+      "script": "\"I'm going to run this by you quickly before I take it to the full group.\"",
+      "counter": "If someone pushes you into a high-stakes version too soon after a stumble, before you have small wins back, push back directly.\n• Notice: they're pushing you to perform before you're ready — their timeline, not yours.\n• Say: 'I'll be sharper if I do one dry run first.'\n• Do: run the dry run. Back-to-back stumbles are harder to come back from than the first.",
+      "insight": "The small wins work. The harder part is that going smaller feels like admitting you can't handle the big version yet. You're not admitting anything — you're setting up the next real attempt."
+    },
+    {
+      "id": 11,
+      "cat": "mind",
+      "danger": "moderate",
+      "title": "Close the Mental Loop Before the Replay Takes Over",
+      "hook": "You're not replaying the stumble because you're weak. <strong>Your brain is running an open loop, waiting for a resolution that more replaying will never give it.</strong>",
+      "truth": "An unresolved event stays on mental repeat until you give it a close.\n• Replaying the stumble doesn't fix it — it keeps the file open and active.\n• To close the loop, you need to do something, not just think about it.\n• Waiting until you feel better to act — the action is what creates the feeling.",
+      "principle": "Zeigarnik Effect — Unfinished Events Stay Active in Memory",
+      "remember": "Your brain keeps replaying it until you give it a close.",
+      "theySee": "Someone sitting alone going over the same 30-second moment again and again, changing the ending each time.",
+      "signals": [
+        {
+          "l": "Replay starts alone",
+          "t": "The replay kicks in on its own whenever you're not actively busy — commute, before sleep.",
+          "icon": "🔄"
+        },
+        {
+          "l": "Ending changes each time",
+          "t": "Each replay has a different version of what you should have said or done.",
+          "icon": "✏️"
+        },
+        {
+          "l": "Sleep gets disrupted",
+          "t": "You wake up and the stumble is the first thing in your head.",
+          "icon": "🌙"
+        },
+        {
+          "l": "You over-explain it",
+          "t": "You bring up the stumble unprompted with people who didn't ask, trying to justify it.",
+          "icon": "🗣️"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Write the full event out once",
+          "desc": "What happened, what you felt, what you would change. Everything. One time only. Don't reread it."
+        },
+        {
+          "n": "2",
+          "title": "End with one decision",
+          "desc": "At the bottom, write one thing you'll do differently next time. This is the resolution your brain needs to close the file."
+        },
+        {
+          "n": "3",
+          "title": "Use a physical interrupt every time the replay starts",
+          "desc": "Every time it starts again: stand up, drink water, say the decision out loud. Physical action stops the loop faster than thinking it away."
+        }
+      ],
+      "script": "\"I know what went wrong. Here's what I'm doing differently next time.\"",
+      "counter": "If a colleague replays their mistake out loud to you for the third time, don't add to the replay.\n• Notice: they're not asking for comfort — they're stuck and pulling you into the loop.\n• Say: 'You know what happened. What's your next move?'\n• Do: hold the question open and wait. That question cuts the loop where comfort never could.",
+      "insight": "Writing it down and naming the fix closes the file for most people. The hard part is that some stumbles were actually bigger than you're admitting — and the replay is the only way you're letting yourself feel that."
+    },
+    {
+      "id": 12,
+      "cat": "defense",
+      "danger": "high",
+      "title": "When Someone Keeps Bringing Up Your Stumble",
+      "hook": "Some people in the room didn't miss your stumble. <strong>They filed it.</strong> And they'll use it when others are watching.",
+      "truth": "A stumble creates a brief status gap. Some people will try to hold it open.\n• They reference your mistake in front of others to drop your standing in the room.\n• Acknowledge it once, without weight, then ask them a direct question.\n• Defending or apologizing again confirms the gap is still open.",
+      "principle": "Goffman: Face Threat — Counter-Move",
+      "remember": "People who bring up your stumble twice are not making conversation.",
+      "theySee": "A colleague who brought up your stumble in a meeting two days later, in front of four people, with a small smile.",
+      "signals": [
+        {
+          "l": "Others present each time",
+          "t": "They only bring up the stumble when at least two other people are in the room.",
+          "icon": "👥"
+        },
+        {
+          "l": "Casual framing",
+          "t": "They say 'just checking in' or 'I was thinking about what happened' — the smile arrives before the words.",
+          "icon": "😶"
+        },
+        {
+          "l": "Second mention happens",
+          "t": "They reference the stumble more than once — not as a question, as a reminder.",
+          "icon": "🔁"
+        },
+        {
+          "l": "No private follow-up",
+          "t": "They've never raised it one-on-one — only in front of an audience.",
+          "icon": "🤫"
+        }
+      ],
+      "steps": [
+        {
+          "n": "1",
+          "title": "Give nothing on the first use",
+          "desc": "No reaction, no apology, no defense. First use is a test. No reaction tells them the move didn't land."
+        },
+        {
+          "n": "2",
+          "title": "Name the pattern directly on the second use",
+          "desc": "In front of the same people: 'You've mentioned that twice now. What's the actual concern?' Same volume as everything else."
+        },
+        {
+          "n": "3",
+          "title": "Put the problem back on them",
+          "desc": "Follow with: 'What do you need from me to move forward on your end?' This redirects the weight to them, not you."
+        }
+      ],
+      "script": "\"You've mentioned that twice now. What's the actual concern?\"",
+      "counter": "When you're tempted to bring up someone else's stumble in public, know that the move costs you too.\n• Notice: doing it publicly rather than privately tells the room exactly who you are.\n• Say: nothing. If the concern is real, raise it one-on-one.\n• Do: test your own motive. If the answer is 'because they had it coming,' that's the tell.",
+      "insight": "Most people who weaponize stumbles need you smaller for a specific reason. Find the reason. The stumble is never actually about the stumble."
+    }
+  ]
+}
